@@ -18,7 +18,7 @@ import shutil
 HERE = os.path.dirname(os.path.abspath(__file__))
 OUT = os.path.join(HERE, "hf_dataset")
 LABEL = {"csn_studiemedel": "utfall", "forvaltning_nasta_steg": "atgard",
-         "oks_overklagande": "utfall", "skolinspektionen_tillsyn": "ingripande"}
+         "oks_overklagande": "utfall", "onh_overklagande": "utfall", "jo_tillsyn": "utfall", "skolinspektionen_tillsyn": "ingripande"}
 SPLIT = {"train": "train", "val": "validation", "test": "test"}
 
 

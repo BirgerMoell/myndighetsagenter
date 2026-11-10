@@ -43,7 +43,7 @@ BASE = "https://www.skolinspektionen.se"
 SIRIS_PDF = "https://siris.skolverket.se/siris/ris.openfile?docID=%s"
 USER_AGENT = "Mozilla/5.0 (compatible; research-collector/1.0)"
 MIN_DELAY = 1.2
-MAX_TOTAL_BYTES = 280 * 1024 * 1024
+MAX_TOTAL_BYTES = int(os.environ.get("SI_MAX_MB", "280")) * 1024 * 1024
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(HERE)
@@ -51,7 +51,7 @@ RAW = os.path.join(ROOT, "data", "raw", "skolinspektionen")
 OUT = os.path.join(ROOT, "data", "skolinspektionen_decisions.jsonl")
 MANIFEST = os.path.join(RAW, "manifest.jsonl")
 
-YEARS = ("2024", "2025", "2026")
+YEARS = tuple(os.environ.get("SI_YEARS", "2024,2025,2026").split(","))
 
 
 class Blocked(Exception):

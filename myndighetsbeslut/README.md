@@ -1,6 +1,6 @@
 # myndighetsbeslut
 
-Pilot dataset of **decisions a handläggare makes**, with a verifier for each, for three Swedish agencies.
+Pilot dataset of **decisions a handläggare makes**, with a verifier for each, for five Swedish public bodies.
 It complements `../myndighetskort/` (what each agency is steered to do) with what the staff actually decide.
 The built tasks are published at https://huggingface.co/datasets/birgermoell/myndighetsbeslut.
 
@@ -8,27 +8,60 @@ Each task is one JSONL row: a Swedish prompt
 (`responses_create_params`) and hidden `verifier_metadata`. The model answers with one JSON object and
 `reward(meta, answer)` returns 0–1. Every task is framed as a proposal that a responsible decision maker reviews.
 
-## The four environments
+## The six environments
 
 | Environment | Agency | Ground truth | What the model decides |
 | --- | --- | --- | --- |
 | `csn_studiemedel` | CSN | Rule engine over the real statute | Grant, partly grant, reject or request completion; weeks, grant and loan in kronor; reasons; provisions; appeal instruction |
 | `forvaltning_nasta_steg` | CSN, Skolinspektionen | Rule engine over förvaltningslagen | Next procedural step: late appeal, conflict of interest, duty to communicate |
 | `oks_overklagande` | Överklagandenämnden för studiestöd | Real published decisions | Outcome of an appeal against CSN, and the provisions applied |
+| `onh_overklagande` | Överklagandenämnden för högskolan | Real published decisions | Outcome of an appeal about admission, credit transfer or examination |
+| `jo_tillsyn` | Justitieombudsmannen | Real published decisions | Whether and how severely the authority is criticised |
 | `skolinspektionen_tillsyn` | Skolinspektionen | Real published decisions | Deficiency per assessed area, and the most severe intervention |
 
 Sizes on 2026-11-10 (full detail in `data/tasks/stats.json`, written by `build_dataset.py`):
 
 | Environment | Tasks | Labels | Best constant answer on test |
 | --- | ---: | --- | --- |
-| `csn_studiemedel` | 1 200 | 619 avslag, 327 bifall, 194 delvis bifall, 60 komplettering | 0.35 |
-| `forvaltning_nasta_steg` | 600 | 7 next-step classes | 0.19 |
+| `csn_studiemedel` | 6 000 | 3 003 avslag, 1 651 bifall, 1 048 delvis bifall, 298 komplettering | 0.34 |
+| `forvaltning_nasta_steg` | 3 000 | 7 next-step classes | 0.17 |
 | `oks_overklagande` | 481 | 302 avslag, 158 bifall, 11 återförvisning, 9 delvis bifall, 1 avvisning | 0.59 ("avslag") |
-| `skolinspektionen_tillsyn` | 113 | 71 inget ingripande, 33 föreläggande, 7 anmärkning, 2 avstående | 0.26 |
+| `onh_overklagande` | 229 | 94 avslag, 77 bifall, 38 återförvisning, 12 avvisning, 8 delvis bifall | 0.29 |
+| `jo_tillsyn` | 1 232 | 890 kritik, 200 allvarlig kritik, 84 ingen kritik, 58 uttalande | 0.67 |
+| `skolinspektionen_tillsyn` | 1 616 | 963 inget ingripande, 521 föreläggande, 80 anmärkning, 40 avstående, 12 föreläggande med vite | 0.33 |
 
 The oracle answer scores 1.0 on every task. A model has to beat the constant-answer column to show any skill.
 ÖKS: 490 of the 498 published decisions (2002–2026) were collected and 481 are used.
-Skolinspektionen: 200 decisions from 2024–2026 were collected and 113 are used.
+ÖNH: 335 collected, 229 used. JO: 1 500 collected, 1 232 used. Skolinspektionen: 2 990 collected, 1 616 used.
+
+## Trained decision models (Sven / Kev)
+
+`export_sven.py` converts the decisions to typed questions (multiple choice / yes-no) for the Kev-family
+small decision models; the same data is the `sven` config of the Hugging Face dataset. `berzelius/` has the
+Slurm scripts used on the NSC Berzelius cluster (1 × H200). Two LoRA adapters were trained for one epoch on
+16 600 records, without replay data:
+[birgermoell/sven-myndighet-0.6b](https://huggingface.co/birgermoell/sven-myndighet-0.6b) (from sven-0.6b, 89 min) and
+[birgermoell/kev-myndighet-4b](https://huggingface.co/birgermoell/kev-myndighet-4b) (from kev-4b, about 6.5 h).
+
+Accuracy on the heldout split (2 005 records, decisions dated 2026-05-07 to 2026-11-10), with the share of the most common answer:
+
+| Question | n | Most common | 0.6B zero-shot | 4B zero-shot | 0.6B trained | 4B trained |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: |
+| CSN outcome (4-way) | 600 | 0.50 | 0.22 | 0.30 | 0.83 | **0.97** |
+| Procedural next step | 300 | 0.28 | 0.44 | 0.71 | 0.93 | **0.95** |
+| Skolinspektionen: deficiency per area | 578 | 0.66 | 0.54 | 0.80 | 0.88 | **0.90** |
+| Skolinspektionen: intervention | 239 | 0.54 | 0.29 | 0.38 | 0.81 | **0.85** |
+| ÖKS: changed in appellant's favour | 72 | 0.86 | 0.56 | 0.94 | 0.86 | **0.96** |
+| JO: authority criticised | 182 | 0.87 | 0.78 | 0.60 | 0.86 | 0.87 |
+| ÖNH: outcome | 34 | 0.35 | 0.32 | 0.50 | 0.21 | 0.38 |
+
+- CSN and next-step scores show the models learned the generator's rules, not that they read real case files.
+- Skolinspektionen is a real result. ÖKS rests on 72 questions with about 10 upheld appeals and the zero-shot 4B
+  already scored 0.94, so pre-training exposure to these public decisions cannot be ruled out. JO is not learned.
+  ÖNH (34 questions) is too small to conclude anything.
+- No replay data was mixed in, and general ability after fine-tuning has not been measured.
+- Per-question results (accuracy, macro-F1, calibration, AUROC) are in `myndighetsbeslut/results_sven/`.
+- Kev's evaluation default of 384 state tokens rejects most case files: pass `--max_state 7552`.
 
 ## Run
 
@@ -36,7 +69,10 @@ Skolinspektionen: 200 decisions from 2024–2026 were collected and 113 are used
 python3 -m pytest -q tests
 python3 build_dataset.py              # writes data/tasks/*.jsonl and stats.json
 python3 collect/collect_oks.py --limit 500             # re-fetch published ÖKS decisions (1 request/s, cached)
-python3 collect/collect_skolinspektionen.py --limit 200
+python3 collect/collect_skolinspektionen.py --limit 200   # env SI_MAX_MB, SI_YEARS widen it
+python3 collect/collect_jo.py
+python3 collect/collect_onh.py
+python3 export_sven.py                 # typed questions for Kev/Sven models, writes sven_dataset/
 ```
 
 ```python

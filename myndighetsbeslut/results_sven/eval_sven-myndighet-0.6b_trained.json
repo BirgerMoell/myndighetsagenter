@@ -1,0 +1,366 @@
+{
+ "run": "/proj/PROJECT/users/USER/sven-myndighet/runs/sven-06b-v2",
+ "data": "/proj/PROJECT/users/USER/sven-myndighet/data_v2/heldout.jsonl",
+ "n_records": 2005,
+ "rejected": {},
+ "max_state": 7552,
+ "seconds": 121.2,
+ "questions": {
+  "csn_studiemedel/alder_over_60": {
+   "n": 181,
+   "acc": 0.994475138121547,
+   "majority_acc": 0.8453038674033149,
+   "macro_f1": 0.9895887259131435,
+   "ece": 0.00634185121862931,
+   "nll": 0.01706884737702445,
+   "mean_conf": 0.9967052442592811,
+   "auroc": 0.9997665732959851
+  },
+  "csn_studiemedel/annan_forman": {
+   "n": 196,
+   "acc": 1.0,
+   "majority_acc": 0.7704081632653061,
+   "macro_f1": 1.0,
+   "ece": 1.05186992761519e-05,
+   "nll": 1.0519359116937355e-05,
+   "mean_conf": 0.9999894813007238,
+   "auroc": 1.0
+  },
+  "csn_studiemedel/behover_kompletteras": {
+   "n": 600,
+   "acc": 1.0,
+   "majority_acc": 0.9483333333333334,
+   "macro_f1": 1.0,
+   "ece": 2.7672847112025778e-05,
+   "nll": 2.772465651860783e-05,
+   "mean_conf": 0.999972327152888,
+   "auroc": 1.0
+  },
+  "csn_studiemedel/gar_sokanden_emot": {
+   "n": 569,
+   "acc": 0.8576449912126538,
+   "majority_acc": 0.7275922671353251,
+   "macro_f1": 0.8242601722737619,
+   "ece": 0.028689384774709212,
+   "nll": 0.3062312461435838,
+   "mean_conf": 0.8554489749806208,
+   "auroc": 0.9241078385538414
+  },
+  "csn_studiemedel/inkomstminskning": {
+   "n": 67,
+   "acc": 0.8507462686567164,
+   "majority_acc": 0.7611940298507462,
+   "macro_f1": 0.7613960113960114,
+   "ece": 0.04849952014524549,
+   "nll": 0.3033623348938704,
+   "mean_conf": 0.8513750531780186,
+   "auroc": 0.9240196078431373
+  },
+  "csn_studiemedel/kortare_an_tre_veckor": {
+   "n": 164,
+   "acc": 0.9695121951219512,
+   "majority_acc": 0.8597560975609756,
+   "macro_f1": 0.9330885352917176,
+   "ece": 0.05338435819963126,
+   "nll": 0.10151532562137637,
+   "mean_conf": 0.9242746884503016,
+   "auroc": 0.9956830095590503
+  },
+  "csn_studiemedel/lanetrappa": {
+   "n": 67,
+   "acc": 1.0,
+   "majority_acc": 0.7761194029850746,
+   "macro_f1": 1.0,
+   "ece": 0.0007661029474058667,
+   "nll": 0.0007700685202913285,
+   "mean_conf": 0.9992338970525941,
+   "auroc": 1.0
+  },
+  "csn_studiemedel/medborgarskap_uppehallstillstand": {
+   "n": 168,
+   "acc": 1.0,
+   "majority_acc": 0.8869047619047619,
+   "macro_f1": 1.0,
+   "ece": 2.074383554007131e-05,
+   "nll": 2.0745058644906272e-05,
+   "mean_conf": 0.9999792561644599,
+   "auroc": 1.0
+  },
+  "csn_studiemedel/obetalt_arsbelopp": {
+   "n": 181,
+   "acc": 1.0,
+   "majority_acc": 0.7955801104972375,
+   "macro_f1": 1.0,
+   "ece": 3.7035230773585504e-05,
+   "nll": 3.704193809242941e-05,
+   "mean_conf": 0.9999629647692264,
+   "auroc": 1.0
+  },
+  "csn_studiemedel/obetalt_aterkrav": {
+   "n": 196,
+   "acc": 1.0,
+   "majority_acc": 0.9081632653061225,
+   "macro_f1": 1.0,
+   "ece": 0.0003198862684016257,
+   "nll": 0.0003209949927899305,
+   "mean_conf": 0.9996801137315984,
+   "auroc": 1.0
+  },
+  "csn_studiemedel/retroaktiv_grans": {
+   "n": 102,
+   "acc": 1.0,
+   "majority_acc": 0.5196078431372549,
+   "macro_f1": 1.0,
+   "ece": 0.0069158936248105984,
+   "nll": 0.007093890266261235,
+   "mean_conf": 0.9930841063751894,
+   "auroc": 1.0
+  },
+  "csn_studiemedel/studieresultat": {
+   "n": 184,
+   "acc": 0.9347826086956522,
+   "majority_acc": 0.8097826086956522,
+   "macro_f1": 0.9058502473136619,
+   "ece": 0.04684047757283499,
+   "nll": 0.1677893818727258,
+   "mean_conf": 0.9619161787888278,
+   "auroc": 0.961457334611697
+  },
+  "csn_studiemedel/under_halvtid": {
+   "n": 161,
+   "acc": 1.0,
+   "majority_acc": 0.8385093167701864,
+   "macro_f1": 1.0,
+   "ece": 0.00040038253950036573,
+   "nll": 0.0004016438338600179,
+   "mean_conf": 0.9995996174604996,
+   "auroc": 1.0
+  },
+  "csn_studiemedel/utbildning_ej_studiemedelsberattigande": {
+   "n": 179,
+   "acc": 1.0,
+   "majority_acc": 0.8100558659217877,
+   "macro_f1": 1.0,
+   "ece": 0.00023398386033557372,
+   "nll": 0.00023441693726624214,
+   "mean_conf": 0.9997660161396644,
+   "auroc": 1.0
+  },
+  "csn_studiemedel/utfall": {
+   "n": 600,
+   "acc": 0.8316666666666667,
+   "majority_acc": 0.5,
+   "macro_f1": 0.8677676465035908,
+   "ece": 0.04658323973417277,
+   "nll": 0.38865050175314836,
+   "mean_conf": 0.8733664644757907
+  },
+  "csn_studiemedel/veckograns": {
+   "n": 106,
+   "acc": 0.9811320754716981,
+   "majority_acc": 0.5094339622641509,
+   "macro_f1": 0.9811320754716981,
+   "ece": 0.014443842869884625,
+   "nll": 0.096181049534388,
+   "mean_conf": 0.9823179042564248,
+   "auroc": 0.9957264957264957
+  },
+  "csn_studiemedel/veckor_slut": {
+   "n": 189,
+   "acc": 0.9841269841269841,
+   "majority_acc": 0.8359788359788359,
+   "macro_f1": 0.9706779748668355,
+   "ece": 0.01679715372267223,
+   "nll": 0.04005307073774186,
+   "mean_conf": 0.9767306894852371,
+   "auroc": 0.9981625153123724
+  },
+  "forvaltning_nasta_steg/atgard": {
+   "n": 300,
+   "acc": 0.9333333333333333,
+   "majority_acc": 0.27666666666666667,
+   "macro_f1": 0.9397031539888683,
+   "ece": 0.04689106841882072,
+   "nll": 0.17332500768191875,
+   "mean_conf": 0.9802244017521541
+  },
+  "forvaltning_nasta_steg/inkom_i_ratt_tid_till_myndigheten": {
+   "n": 137,
+   "acc": 0.8613138686131386,
+   "majority_acc": 0.5036496350364964,
+   "macro_f1": 0.8612843058886224,
+   "ece": 0.07570870644854796,
+   "nll": 0.2923848636774719,
+   "mean_conf": 0.9370225750616867,
+   "auroc": 0.9622762148337596
+  },
+  "forvaltning_nasta_steg/jav": {
+   "n": 79,
+   "acc": 1.0,
+   "majority_acc": 0.569620253164557,
+   "macro_f1": 1.0,
+   "ece": 1.6834162458567725e-05,
+   "nll": 1.6834527024888017e-05,
+   "mean_conf": 0.9999831658375414,
+   "auroc": 1.0
+  },
+  "forvaltning_nasta_steg/kommunicering_kravs": {
+   "n": 84,
+   "acc": 1.0,
+   "majority_acc": 0.5119047619047619,
+   "macro_f1": 1.0,
+   "ece": 2.561580567106425e-06,
+   "nll": 2.561602857579043e-06,
+   "mean_conf": 0.9999974384194329,
+   "auroc": 1.0
+  },
+  "forvaltning_nasta_steg/ska_avvisas": {
+   "n": 137,
+   "acc": 0.8686131386861314,
+   "majority_acc": 0.7518248175182481,
+   "macro_f1": 0.8239577384351799,
+   "ece": 0.10151514606754275,
+   "nll": 0.3952994605684006,
+   "mean_conf": 0.9644830305210865,
+   "auroc": 0.9268989149057681
+  },
+  "jo_tillsyn/allvarlig": {
+   "n": 159,
+   "acc": 0.8238993710691824,
+   "majority_acc": 0.8238993710691824,
+   "macro_f1": 0.4517241379310345,
+   "ece": 0.11490986632101186,
+   "nll": 0.5438671993775209,
+   "mean_conf": 0.926799310078411,
+   "auroc": 0.6060523446019629
+  },
+  "jo_tillsyn/kritik": {
+   "n": 182,
+   "acc": 0.8626373626373627,
+   "majority_acc": 0.8736263736263736,
+   "macro_f1": 0.4631268436578171,
+   "ece": 0.07871421811344856,
+   "nll": 0.4218783905234913,
+   "mean_conf": 0.9233249563437241,
+   "auroc": 0.579163248564397
+  },
+  "jo_tillsyn/utfall": {
+   "n": 182,
+   "acc": 0.7142857142857143,
+   "majority_acc": 0.7197802197802198,
+   "macro_f1": 0.20833333333333334,
+   "ece": 0.16380968820917735,
+   "nll": 1.011618237347009,
+   "mean_conf": 0.8700622493749136
+  },
+  "oks_overklagande/andras_till_klagandens_fordel": {
+   "n": 72,
+   "acc": 0.8611111111111112,
+   "majority_acc": 0.8611111111111112,
+   "macro_f1": 0.6043956043956045,
+   "ece": 0.09891480207443235,
+   "nll": 0.3845573911427392,
+   "mean_conf": 0.7852810753716363,
+   "auroc": 0.7306451612903225
+  },
+  "oks_overklagande/utfall": {
+   "n": 72,
+   "acc": 0.8472222222222222,
+   "majority_acc": 0.8472222222222222,
+   "macro_f1": 0.23106060606060605,
+   "ece": 0.030950273904535527,
+   "nll": 0.5750354255122878,
+   "mean_conf": 0.8209389837251769
+  },
+  "onh_overklagande/andras_till_klagandens_fordel": {
+   "n": 34,
+   "acc": 0.4411764705882353,
+   "majority_acc": 0.6176470588235294,
+   "macro_f1": 0.3454913880445795,
+   "ece": 0.2180398299413569,
+   "nll": 0.8007657937834306,
+   "mean_conf": 0.6472123317858752,
+   "auroc": 0.3333333333333333
+  },
+  "onh_overklagande/provas_i_sak": {
+   "n": 34,
+   "acc": 0.9705882352941176,
+   "majority_acc": 0.9705882352941176,
+   "macro_f1": 0.4925373134328358,
+   "ece": 0.008560874882866313,
+   "nll": 0.1472560781960622,
+   "mean_conf": 0.9692315915051628,
+   "auroc": 0.5757575757575758
+  },
+  "onh_overklagande/utfall": {
+   "n": 34,
+   "acc": 0.20588235294117646,
+   "majority_acc": 0.35294117647058826,
+   "macro_f1": 0.09177489177489177,
+   "ece": 0.35184361829477195,
+   "nll": 1.683269010262145,
+   "mean_conf": 0.5577259712359485
+  },
+  "skolinspektionen_tillsyn/brist": {
+   "n": 578,
+   "acc": 0.8771626297577855,
+   "majority_acc": 0.6608996539792388,
+   "macro_f1": 0.8638072765769622,
+   "ece": 0.0778527906402997,
+   "nll": 0.3854457299023719,
+   "mean_conf": 0.9479047617904043,
+   "auroc": 0.9411662570787477
+  },
+  "skolinspektionen_tillsyn/ingripande": {
+   "n": 239,
+   "acc": 0.8075313807531381,
+   "majority_acc": 0.5439330543933054,
+   "macro_f1": 0.3372207345829503,
+   "ece": 0.12710737371544462,
+   "nll": 0.8013442673986297,
+   "mean_conf": 0.9346387544685827
+  },
+  "skolinspektionen_tillsyn/nagon_brist": {
+   "n": 239,
+   "acc": 0.895397489539749,
+   "majority_acc": 0.5439330543933054,
+   "macro_f1": 0.8941447426698557,
+   "ece": 0.08117893176098746,
+   "nll": 0.38405869909329304,
+   "mean_conf": 0.9726746982610376,
+   "auroc": 0.9561750176429076
+  }
+ },
+ "environments": {
+  "csn_studiemedel": {
+   "n": 3910,
+   "acc": 0.9450127877237852,
+   "majority_acc": 0.7662404092071611
+  },
+  "forvaltning_nasta_steg": {
+   "n": 737,
+   "acc": 0.9226594301221167,
+   "majority_acc": 0.4654002713704206
+  },
+  "jo_tillsyn": {
+   "n": 523,
+   "acc": 0.7992351816443595,
+   "majority_acc": 0.8049713193116634
+  },
+  "oks_overklagande": {
+   "n": 144,
+   "acc": 0.8541666666666666,
+   "majority_acc": 0.8541666666666666
+  },
+  "onh_overklagande": {
+   "n": 102,
+   "acc": 0.5392156862745098,
+   "majority_acc": 0.6470588235294118
+  },
+  "skolinspektionen_tillsyn": {
+   "n": 1056,
+   "acc": 0.865530303030303,
+   "majority_acc": 0.6079545454545454
+  }
+ }
+}

@@ -25,6 +25,8 @@ ENVS = {
     csn.ENV: (csn.reward, lambda o: o["utfall"], "utfall"),
     forvaltning.ENV: (forvaltning.reward, lambda o: o["atgard"], "atgard"),
     P.OKS_ENV: (P.oks_reward, lambda o: o["utfall"], "utfall"),
+    P.ONH_ENV: (P.onh_reward, lambda o: o["utfall"], "utfall"),
+    P.JO_ENV: (P.jo_reward, lambda o: o["utfall"], "utfall"),
     P.SI_ENV: (P.si_reward, lambda o: o["ingripande"], "ingripande"),
 }
 MIN_FREE_PCT = 15      # macOS "system-wide memory free percentage"; stop below this

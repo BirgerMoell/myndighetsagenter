@@ -71,7 +71,8 @@ def main():
     rows = []
     for d in (1, 2, 3):
         for s in range(args.n):
-            t = csn.make_task(s, d, with_rules=(s % 4 != 3))    # every fourth task: no rule excerpt
+            # every fourth task has no rule excerpt; hashed so that all splits get both kinds
+            t = csn.make_task(s, d, with_rules=((s * 2654435761 >> 7) % 4 != 3))
             t["split"] = seed_split(s)
             rows.append(t)
     write(csn.ENV, rows, lambda r: r["verifier_metadata"]["oracle"]["utfall"], csn.reward, csn.oracle,
@@ -89,6 +90,18 @@ def main():
     rows = [t for t in (P.oks_task(r, i) for i, r in enumerate(read(os.path.join(HERE, "data", "oks_decisions.jsonl")))) if t]
     write(P.OKS_ENV, date_split(rows), lambda r: r["verifier_metadata"]["oracle"]["utfall"], P.oks_reward,
           P.oks_oracle, [{"utfall": u, "lagrum": []} for u in P.OKS_UTFALL])
+
+    src = read(os.path.join(HERE, "data", "onh_decisions.jsonl"))
+    rows = [t for t in (P.onh_task(r, i) for i, r in enumerate(src)) if t]
+    write(P.ONH_ENV, date_split(rows), lambda r: r["verifier_metadata"]["oracle"]["utfall"], P.onh_reward,
+          P.onh_oracle, [{"utfall": u, "lagrum": []} for u in P.ONH_UTFALL])
+    stats[P.ONH_ENV]["source"] = {"collected": len(src), "usable": len(rows)}
+
+    src = read(os.path.join(HERE, "data", "jo_decisions.jsonl"))
+    rows = [t for t in (P.jo_task(r, i) for i, r in enumerate(src)) if t]
+    write(P.JO_ENV, date_split(rows), lambda r: r["verifier_metadata"]["oracle"]["utfall"], P.jo_reward,
+          P.jo_oracle, [{"utfall": u, "lagrum": []} for u in P.JO_UTFALL])
+    stats[P.JO_ENV]["source"] = {"collected": len(src), "usable": len(rows)}
 
     src = read(os.path.join(HERE, "data", "skolinspektionen_decisions.jsonl"))
     rows = [t for t in (P.si_task(r, i) for i, r in enumerate(src)) if t]

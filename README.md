@@ -6,9 +6,9 @@ and reinforcement-learning environments for the decisions its case officers make
 - **`myndighetskort/`** turns every *regleringsbrev* (the government's yearly instruction to an agency)
   into a structured **agency card**: goals, assignments with deadlines and partners, appropriations and
   their conditions. 16 333 letters, 2003–2026, 188 agencies in 2026.
-- **`myndighetsbeslut/`** holds four **decision environments** with verifiers for three pilot agencies:
-  CSN (student aid), Överklagandenämnden för studiestöd (appeals) and Skolinspektionen (school supervision).
-  2 394 tasks.
+- **`myndighetsbeslut/`** holds six **decision environments** with verifiers for five public bodies:
+  CSN (student aid), Överklagandenämnden för studiestöd and för högskolan (appeals), JO (supervision) and
+  Skolinspektionen (school supervision). 12 558 tasks, plus trained decision models (see below).
 
 Dataset on Hugging Face: [birgermoell/myndighetsbeslut](https://huggingface.co/datasets/birgermoell/myndighetsbeslut)
 
@@ -19,7 +19,7 @@ proposal that a responsible decision maker reviews.
 
 ```
 regleringsbrev (Öppna Statsliggaren)          statutes (riksdagen.se)      published decisions
-            │                                         │                    (oks.se, Skolinspektionen)
+            │                                         │                    (oks.se, onh.se, jo.se, Skolinspektionen)
             ▼                                         ▼                              │
    myndighetskort: agency card            rule engines + case generators            ▼
    goals · assignments · deadlines        CSN studiemedel · förvaltningslagen   fact section in,
@@ -78,20 +78,22 @@ and the reduction is split between grant and loan in proportion.
 Two hard rules: approving a case that must be rejected or completed gives **0** for the whole task, and
 citing a paragraph that does not exist in the statute gives 0 for the provisions part.
 
-### The four environments
+### The six environments
 
 | Environment | Agency | Tasks | Ground truth | Model decides |
 | --- | --- | ---: | --- | --- |
-| `csn_studiemedel` | CSN | 1 200 | Rule engine over studiestödslagen and studiestödsförordningen | Grant, partly grant, reject or request completion; weeks and kronor; reasons; provisions |
-| `forvaltning_nasta_steg` | CSN, Skolinspektionen | 600 | Rule engine over förvaltningslagen | Next procedural step: late appeal, conflict of interest, duty to communicate |
+| `csn_studiemedel` | CSN | 6 000 | Rule engine over studiestödslagen and studiestödsförordningen | Grant, partly grant, reject or request completion; weeks and kronor; reasons; provisions |
+| `forvaltning_nasta_steg` | CSN, Skolinspektionen | 3 000 | Rule engine over förvaltningslagen | Next procedural step: late appeal, conflict of interest, duty to communicate |
 | `oks_overklagande` | Överklagandenämnden för studiestöd | 481 | Published appeal decisions 2002–2026 | Outcome of the appeal and the provisions applied |
-| `skolinspektionen_tillsyn` | Skolinspektionen | 113 | Published supervision decisions 2024–2026 | Deficiency per assessed area and the most severe intervention |
+| `onh_overklagande` | Överklagandenämnden för högskolan | 229 | Published appeal decisions 2001–2026 | Outcome of the appeal |
+| `jo_tillsyn` | Justitieombudsmannen | 1 232 | Published supervision decisions 2014–2026 | Whether and how severely the authority is criticised |
+| `skolinspektionen_tillsyn` | Skolinspektionen | 1 616 | Published supervision decisions 2022–2026 | Deficiency per assessed area and the most severe intervention |
 
 The CSN engine reproduces CSN's published 2026 weekly amounts and all 78 cells of its income-ceiling table
-(checked in the tests). For the two real-decision environments the outcome and the authority's own reasoning
+(checked in the tests). For the real-decision environments the outcome and the authority's own reasoning
 are cut out of the prompt, and the label is what the authority decided.
 
-## Baseline
+## Prompt baseline (first four-environment release, smaller test splits; not rerun)
 
 One small local model, Qwen 3.5 4B (Ollama, 4-bit, temperature 0, thinking off), on the full test splits,
 2026-11-10. "Constant answer" is the mean reward from always giving the single best fixed answer.
@@ -113,6 +115,35 @@ One small local model, Qwen 3.5 4B (Ollama, 4-bit, temperature 0, thinking off),
 - In `csn_studiemedel` the test split always includes the rule excerpt; the tasks without it are in train only.
 
 Reproduce: `python3 eval_baseline.py --model qwen3.5:4b --think false`, then `--report`.
+
+## Trained decision models (Sven / Kev)
+
+`export_sven.py` converts the decisions to typed questions (multiple choice / yes-no) for the Kev-family
+small decision models; the same data is the `sven` config of the Hugging Face dataset. `berzelius/` has the
+Slurm scripts used on the NSC Berzelius cluster (1 × H200). Two LoRA adapters were trained for one epoch on
+16 600 records, without replay data:
+[birgermoell/sven-myndighet-0.6b](https://huggingface.co/birgermoell/sven-myndighet-0.6b) (from sven-0.6b, 89 min) and
+[birgermoell/kev-myndighet-4b](https://huggingface.co/birgermoell/kev-myndighet-4b) (from kev-4b, about 6.5 h).
+
+Accuracy on the heldout split (2 005 records, decisions dated 2026-05-07 to 2026-11-10), with the share of the most common answer:
+
+| Question | n | Most common | 0.6B zero-shot | 4B zero-shot | 0.6B trained | 4B trained |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: |
+| CSN outcome (4-way) | 600 | 0.50 | 0.22 | 0.30 | 0.83 | **0.97** |
+| Procedural next step | 300 | 0.28 | 0.44 | 0.71 | 0.93 | **0.95** |
+| Skolinspektionen: deficiency per area | 578 | 0.66 | 0.54 | 0.80 | 0.88 | **0.90** |
+| Skolinspektionen: intervention | 239 | 0.54 | 0.29 | 0.38 | 0.81 | **0.85** |
+| ÖKS: changed in appellant's favour | 72 | 0.86 | 0.56 | 0.94 | 0.86 | **0.96** |
+| JO: authority criticised | 182 | 0.87 | 0.78 | 0.60 | 0.86 | 0.87 |
+| ÖNH: outcome | 34 | 0.35 | 0.32 | 0.50 | 0.21 | 0.38 |
+
+- CSN and next-step scores show the models learned the generator's rules, not that they read real case files.
+- Skolinspektionen is a real result. ÖKS rests on 72 questions with about 10 upheld appeals and the zero-shot 4B
+  already scored 0.94, so pre-training exposure to these public decisions cannot be ruled out. JO is not learned.
+  ÖNH (34 questions) is too small to conclude anything.
+- No replay data was mixed in, and general ability after fine-tuning has not been measured.
+- Per-question results (accuracy, macro-F1, calibration, AUROC) are in `myndighetsbeslut/results_sven/`.
+- Kev's evaluation default of 384 state tokens rejects most case files: pass `--max_state 7552`.
 
 ## Quick start
 
@@ -202,6 +233,6 @@ here, open an issue.
 
 - Regleringsbrev: [PierreMesure/oppna-statsliggaren](https://huggingface.co/datasets/PierreMesure/oppna-statsliggaren) (CC0), scraped from Statsliggaren.
 - Statutes: data.riksdagen.se. CSN amounts for 2026: csn.se (`myndighetsbeslut/sources/csn_rules_2026.json`).
-- Decisions: oks.se and Skolinspektionen's decision search.
+- Decisions: oks.se, onh.se, jo.se and Skolinspektionen's decision search.
 
 Code: MIT. Data: CC BY 4.0. See [`LICENSE`](LICENSE) and [`LICENSE-DATA.md`](LICENSE-DATA.md).
