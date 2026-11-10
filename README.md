@@ -106,7 +106,8 @@ One small local model, Qwen 3.5 4B (Ollama, 4-bit, temperature 0, thinking off),
 - **CSN is unsolved by this model.** It approved 51 of the 67 applications that must be rejected or
   completed, got 0 of 120 fully right, and scores below the constant answer. Reward falls with difficulty:
   0.39, 0.21, 0.08.
-- **ÖKS:** barely above always answering "avslag"; it found 2 of the 8 appeals that were upheld.
+- **ÖKS:** barely above always answering "avslag". It saw that the decision should change in 7 of the 8
+  upheld appeals, but chose the exact outcome in only 2.
 - **Skolinspektionen:** it never proposed an injunction (0 of 6); the test split is only 16 decisions.
 - All answers were valid JSON. One model, one run, no confidence intervals: read it as a floor, not a ranking.
 - In `csn_studiemedel` the test split always includes the rule excerpt; the tasks without it are in train only.
