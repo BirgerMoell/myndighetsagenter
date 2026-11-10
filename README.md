@@ -119,7 +119,7 @@ Reproduce: `python3 eval_baseline.py --model qwen3.5:4b --think false`, then `--
 ## Trained decision models (Sven / Kev)
 
 `export_sven.py` converts the decisions to typed questions (multiple choice / yes-no) for the Kev-family
-small decision models; the same data is the `sven` config of the Hugging Face dataset. `berzelius/` has the
+small decision models; the same data is the `sven/` folder of the Hugging Face dataset. `berzelius/` has the
 Slurm scripts used on the NSC Berzelius cluster (1 × H200). Two LoRA adapters were trained on
 12 918 training records (two epochs for the 0.6B, one for the 4B), without replay data:
 [birgermoell/sven-myndighet-0.6b](https://huggingface.co/birgermoell/sven-myndighet-0.6b) (from sven-0.6b, 89 min) and
