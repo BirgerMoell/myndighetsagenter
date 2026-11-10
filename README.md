@@ -91,11 +91,32 @@ The CSN engine reproduces CSN's published 2026 weekly amounts and all 78 cells o
 (checked in the tests). For the two real-decision environments the outcome and the authority's own reasoning
 are cut out of the prompt, and the label is what the authority decided.
 
-<!-- BASELINE -->
+## Baseline
+
+One small local model, Qwen 3.5 4B (Ollama, 4-bit, temperature 0, thinking off), on the full test splits,
+2026-11-10. "Constant answer" is the mean reward from always giving the single best fixed answer.
+
+| Environment | n | Mean reward | Constant answer | Decision accuracy | Macro-F1 |
+| --- | ---: | ---: | ---: | ---: | ---: |
+| `csn_studiemedel` | 120 | 0.22 | 0.35 | 29 % | 0.15 |
+| `forvaltning_nasta_steg` | 60 | 0.43 | 0.19 | 60 % | 0.47 |
+| `oks_overklagande` | 72 | 0.67 | 0.59 | 86 % | 0.67 |
+| `skolinspektionen_tillsyn` | 16 | 0.65 | 0.26 | 44 % | 0.33 |
+
+- **CSN is unsolved by this model.** It approved 51 of the 67 applications that must be rejected or
+  completed, got 0 of 120 fully right, and scores below the constant answer. Reward falls with difficulty:
+  0.39, 0.21, 0.08.
+- **ÖKS:** barely above always answering "avslag"; it found 2 of the 8 appeals that were upheld.
+- **Skolinspektionen:** it never proposed an injunction (0 of 6); the test split is only 16 decisions.
+- All answers were valid JSON. One model, one run, no confidence intervals: read it as a floor, not a ranking.
+- In `csn_studiemedel` the test split always includes the rule excerpt; the tasks without it are in train only.
+
+Reproduce: `python3 eval_baseline.py --model qwen3.5:4b --think false`, then `--report`.
 
 ## Quick start
 
 Python 3.9+. `myndighetsbeslut` needs only the standard library; `myndighetskort` needs `pyarrow`.
+The collectors also need the `pdftotext` command, and `eval_baseline.py` a local Ollama server.
 
 ```bash
 cd myndighetsbeslut
