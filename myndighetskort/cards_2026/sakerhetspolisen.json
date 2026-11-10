@@ -1,0 +1,259 @@
+{
+ "schema_version": 1,
+ "id": 26100,
+ "original_rbid": 26100,
+ "type": "Regleringsbrev",
+ "category": "Myndighet",
+ "date": "2025-12-18",
+ "year": "2026",
+ "name": "Säkerhetspolisen",
+ "slug": "sakerhetspolisen",
+ "department": "Justitiedepartementet",
+ "expenditure_areas": [
+  4
+ ],
+ "registry_numbers": [
+  "Ju2025/02693"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1"
+  ],
+  "bet": [
+   "2025/26:JuU1"
+  ],
+  "rskr": [
+   "2025/26:101"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "-",
+ "goals": [],
+ "org": [],
+ "assignments": [],
+ "appropriations": [
+  {
+   "code": "1:2",
+   "name": "Säkerhetspolisen",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 4,
+    "name": "Rättsväsendet"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Säkerhetspolisen",
+     "amount_tkr": 3047500,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Säkerhetspolisen (ram)",
+       "amount_tkr": 3047500
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "1:2 Säkerhetspolisen",
+   "ap": "ap.1",
+   "Anslagskredit": 91425,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 850000,
+  "Räntekontokredit": 120000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 253958
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 253958
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 253958
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 253958
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 253958
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 253958
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 253958
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 253958
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 253958
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 253958
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 253958
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 253962
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:2 Säkerhetspolisen",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "91 425",
+     "3 %",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "850 000"
+    ],
+    [
+     "Räntekontokredit",
+     "120 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "253 958"
+    ],
+    [
+     "2026-02-25",
+     "253 958"
+    ],
+    [
+     "2026-03-25",
+     "253 958"
+    ],
+    [
+     "2026-04-25",
+     "253 958"
+    ],
+    [
+     "2026-05-25",
+     "253 958"
+    ],
+    [
+     "2026-06-25",
+     "253 958"
+    ],
+    [
+     "2026-07-25",
+     "253 958"
+    ],
+    [
+     "2026-08-25",
+     "253 958"
+    ],
+    [
+     "2026-09-25",
+     "253 958"
+    ],
+    [
+     "2026-10-25",
+     "253 958"
+    ],
+    [
+     "2026-11-25",
+     "253 958"
+    ],
+    [
+     "2026-12-25",
+     "253 962"
+    ],
+    [
+     "Summa",
+     "3 047 500"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "1:2 ap.1",
+     "Säkerhetspolisen"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [],
+ "has_fee_section": false,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 0,
+  "n_org": 0,
+  "n_assignments": 0,
+  "n_deadlines": 0,
+  "deadlines": [],
+  "partners": [],
+  "n_appropriations": 1,
+  "appropriations_total_tkr": 3047500,
+  "payment_plan_total_tkr": 3047500,
+  "md_chars": 2299
+ },
+ "layout": "standard",
+ "warnings": []
+}

@@ -1,0 +1,790 @@
+{
+ "schema_version": 1,
+ "id": 27477,
+ "original_rbid": 25939,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-07-09",
+ "year": "2026",
+ "name": "Riksarkivet",
+ "slug": "riksarkivet",
+ "department": "Kulturdepartementet",
+ "expenditure_areas": [
+  17
+ ],
+ "registry_numbers": [
+  "Ku2026/00643",
+  "Ku2026/00187 (delvis)"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1"
+  ],
+  "bet": [
+   "2025/26:KrU1"
+  ],
+  "rskr": [
+   "2025/26:83"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "",
+ "goals": [
+  {
+   "title": "Digitisering och AI i verksamheten",
+   "group": [],
+   "text": "Riksarkivet ska redovisa de prioriteringar som legat till grund för valet av material att digitisera och i vilken omfattning det digitiserade materialet bedöms bidra till effektiviserad handläggning eller säkerställande av samhällsviktig information. Vidare ska myndigheten redovisa i vilken omfattning det digitiserade materialet kan användas för intern respektive extern utveckling av språkmodeller. Av redovisningen ska framgå hur myndigheten har beaktat risker och har arbetat för att användning av data och AI sker på ett etiskt, säkert och icke-diskriminerande sätt samt om, och så fall vilka, hänsyn som tagits till upphovsrätt.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "digitalisering_ai"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27477:goals:0"
+  },
+  {
+   "title": "Digitalisering av arbetet med fastighetsinskrivningshandlingar",
+   "group": [],
+   "text": "Riksarkivet ska redogöra för hur arbetet med att digitisera fastighetsinskrivningshandlingarna och digitaliseringen av ärendehanteringen fortskrider.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "digitalisering_ai"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27477:goals:1"
+  },
+  {
+   "title": "Samhällsviktig information",
+   "group": [],
+   "text": "Riksarkivet ska redovisa hur arbetet med samhällsviktig information utvecklas. Riksarkivet ska särskilt redogöra för hur myndigheten arbetat med att höja andra aktörers beredskapsförmåga.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27477:goals:2"
+  },
+  {
+   "title": "Stöd till Ukraina",
+   "group": [],
+   "text": "Riksarkivet ska redovisa myndighetens arbete med att stödja Ukrainas arkivväsende i dess arbete med att upprätthålla och återuppbygga sin verksamhet.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27477:goals:3"
+  },
+  {
+   "title": "Digitaliseringstjänster",
+   "group": [],
+   "text": "Riksarkivet ska redovisa vilka åtgärder som har vidtagits för att nå det ekonomiska målet för den avgiftsbelagda verksamheten Digitaliseringstjänster.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "digitalisering_ai"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27477:goals:4"
+  },
+  {
+   "title": "Forsknings- och utvecklingsinsatser inom kulturområdet",
+   "group": [],
+   "text": "Riksarkivet ska redovisa hur myndigheten har använt eller fördelat medlen från anslaget 1:4 Forsknings- och utvecklingsinsatser inom kulturområdet. Redovisningen ska omfatta\n\n- vilka strategiska prioriteringar som legat till grund för användningen eller fördelningen av medel\n- vilka insatser som finansierats eller delfinansierats av anslaget under året\n- på vilket sätt insatserna förväntas bidra till kulturområdets utveckling\n- en resultatbedömning av genomförda insatser.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "fördela_medel"
+   ],
+   "anslag_refs": [
+    "1:4"
+   ],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "vilka strategiska prioriteringar som legat till grund för användningen eller fördelningen av medel",
+    "vilka insatser som finansierats eller delfinansierats av anslaget under året",
+    "på vilket sätt insatserna förväntas bidra till kulturområdets utveckling",
+    "en resultatbedömning av genomförda insatser."
+   ],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27477:goals:5"
+  },
+  {
+   "title": "Lokalkostnader",
+   "group": [],
+   "text": "Riksarkivet ska specificera myndighetens totala lokalkostnader för 2026 enligt följande\n\n- hyra\n- el och uppvärmning\n- reparationer och underhåll\n- övriga driftskostnader.\n\nOm myndigheten har fler än en hyresvärd ska kostnaderna fördelas per hyresvärd.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "fördela_medel"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "el och uppvärmning",
+    "reparationer och underhåll",
+    "övriga driftskostnader."
+   ],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27477:goals:6"
+  },
+  {
+   "title": "Sponsringsintäkter",
+   "group": [],
+   "text": "Riksarkivet ska särredovisa eventuella sponsringsintäkter i not till resultatredovisningen.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27477:goals:7"
+  },
+  {
+   "title": "Bidragsintäkter",
+   "group": [],
+   "text": "Riksarkivet ska särredovisa fördelningen av eventuella bidragsintäkter mellan statliga bidrag, icke-statliga bidrag respektive bidrag från mellanstatliga organ i not till resultaträkningen.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27477:goals:8"
+  }
+ ],
+ "org": [
+  {
+   "title": "Säkerställa proaktivitet och handlingskraft vid fredstida krissituationer eller vid krig och krigsfara",
+   "group": [],
+   "text": "Riksarkivet ska säkerställa att myndigheten har förmåga att agera proaktivt och handlingskraftigt i hanteringen av såväl fredstida krissituationer som vid krig och krigsfara. För att åstadkomma detta ska myndigheten, utöver de krav som ställs i förordningen (2022:524) om statliga myndigheters beredskap, utbilda och öva sin personal samt skapa förutsättningar för en kultur och arbetssätt som utgår från de krav som ett krig ställer. Uppdraget ska redovisas till Regeringskansliet (Kulturdepartementet och Försvarsdepartementet) senast den 22 februari 2027. Detta ska ingå i den särskilda redovisningen för civilt försvar.",
+   "dates": [
+    "2027-02-22"
+   ],
+   "deadlines": [
+    "2027-02-22"
+   ],
+   "recipients": [
+    "Regeringskansliet (Kulturdepartementet och Försvarsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2022:524"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "org",
+   "item_id": "27477:org:0"
+  },
+  {
+   "title": "Samverkansråd inom ramen för kultursamverkansmodellen",
+   "group": [],
+   "text": "Riksarkivet ska under 2026 delta i det samverkansråd vid Statens kulturråd som ska hantera frågor om statens roll och ansvar inom ramen för kultursamverkansmodellen.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Statens kulturråd"
+   ],
+   "channels": [],
+   "task_types": [
+    "samordna"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "org",
+   "item_id": "27477:org:1"
+  }
+ ],
+ "assignments": [
+  {
+   "title": "Kiruna - Europeisk kulturhuvudstad 2029",
+   "group": [],
+   "text": "Riksarkivet ska i dialog med Kiruna kommun se över möjligheterna att medverka inför och under evenemanget Europeisk kulturhuvudstad 2029.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "samordna",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27477:assignments:0"
+  },
+  {
+   "title": "Prognoser 2026–2029",
+   "group": [],
+   "text": "Myndigheten ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Prognoserna lämnas i informationssystemet Hermes senast den\n\n- 2 februari\n- 24 juli\n- 9 november.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27477:assignments:1"
+  },
+  {
+   "title": "Utreda förutsättningar för en nationell lagringsyta för beredskapsskydd av kulturarvsdata",
+   "group": [],
+   "text": "Riksarkivet ska utreda förutsättningarna och lämna förslag på utformning av en tjänst som erbjuder en nationell skyddad lagringsyta för olika kulturarvsaktörers data som behöver skyddas ur beredskapsperspektiv. Riksarkivet ska lämna förslag på en finansieringsmodell samt bedöma nyttan av en sådan tjänst i förhållande till såväl kostnader som kulturarvsaktörernas behov av tjänsten. Uppdraget ska genomföras med beaktande av förslag på området i rapporten*Behov av beredskapsåtgärder\\*\\*för skydd av kulturarv samt en första prioritering*(delredovisning 2) från Rådet för skydd av kulturarv. Uppdraget ska redovisas till Regeringskansliet (Kulturdepartementet) senast 31 mars 2027.",
+   "dates": [
+    "2027-03-31"
+   ],
+   "deadlines": [
+    "2027-03-31"
+   ],
+   "recipients": [
+    "Regeringskansliet (Kulturdepartementet)"
+   ],
+   "partners": [],
+   "channels": [
+    "delredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "föreslå",
+    "utveckla",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27477:assignments:2"
+  },
+  {
+   "title": "Kriterier för beredskapsdigitalisering av kulturarvsmaterial",
+   "group": [],
+   "text": "Riksarkivet ges i uppdrag att i samarbete med Riksantikvarieämbetet och i dialog med kulturarvsförvaltande organisationer utarbeta förslag till kriterier, avseende bland annat urval av objekt, format, metoder och standarder för beskrivande data. Kriterierna ska kunna utgöra stöd för kulturarvsförvaltande organisationer vid beredskapsdigitalisering av prioriterat kulturarvsmaterial. Uppdraget ska genomföras med beaktande av förslag på området i rapporten*Behov av beredskapsåtgärder\\*\\*för skydd av kulturarv samt en första prioritering*(delredovisning 2) från Rådet för skydd av kulturarv. Uppdraget ska redovisas till Regeringskansliet (Kulturdepartementet) senast 31 mars 2027.",
+   "dates": [
+    "2027-03-31"
+   ],
+   "deadlines": [
+    "2027-03-31"
+   ],
+   "recipients": [
+    "Regeringskansliet (Kulturdepartementet)"
+   ],
+   "partners": [
+    "Riksantikvarieämbetet"
+   ],
+   "channels": [
+    "delredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "utveckla",
+    "digitalisering_ai",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27477:assignments:3"
+  },
+  {
+   "title": "Tidigare givna uppdrag i regleringsbrev eller särskilda regeringsbeslut",
+   "group": [],
+   "text": "| | | |\n| --- | --- | --- |\n| **Sammanfattning av uppdraget** | **Beslut om uppdraget** | **Rapporteringstidpunkt** |\n| Uppdrag att bidra till genomförandet av regeringens strategi för att stärka judiskt liv och motverka antisemitism | Ku2025/00575 Ku2025/01249 | Delredovisning av uppdraget i årsredovisningarna för 2025, 2026 och 2027 och slutredovisning till Regeringskansliet (Kulturdepartementet) senast den 15 februari 2029 |\n| Inriktning för civilt försvar 2025-2030 | Fö2024/02054 | Särskild redovisning om civilt försvar årligen i samband med årsredovisningen |\n| Identifiera samhällsviktig information | Ku2024/01275 | Redovisning till Regeringskansliet (Kulturdepartementet) senast den 1 mars 2026 |\n| Svenskt-judiskt liv 250 år | Ku2024/01275 | Redovisning till Regeringskansliet (Kulturdepartementet) senast den 31 mars 2026 |\n\n*För regeringsuppdrag som lämnats i ett särskilt regeringsbeslut utgör tabellen endast en upplysning om vilka uppdrag som vid årets början var riktade till myndigheten och vilka tider som då gällde för återrapportering eller liknande.*",
+   "dates": [
+    "2026-03-01",
+    "2026-03-31",
+    "2029-02-15"
+   ],
+   "deadlines": [
+    "2026-03-01",
+    "2026-03-31",
+    "2029-02-15"
+   ],
+   "recipients": [
+    "Regeringskansliet (Kulturdepartementet)"
+   ],
+   "partners": [],
+   "channels": [
+    "årsredovisning",
+    "delredovisning",
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "27477:assignments:4"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "1:4",
+   "name": "Forsknings- och utvecklingsinsatser inom kulturområdet",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 17,
+    "name": "Kultur, medier, trossamfund och fritid"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Riksarkivet",
+     "amount_tkr": 10811,
+     "items": [
+      {
+       "ap": "9",
+       "name": "Riksarkivet (ram)",
+       "amount_tkr": 10811
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "9",
+     "name": "Riksarkivet",
+     "text": "Anslagsposten får användas för utgifter för forsknings- och utvecklingsinsatser. Anslagsposten får även användas för utgifter för administration och genomförande av verksamheten."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "5:1",
+   "name": "Riksarkivet",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 17,
+    "name": "Kultur, medier, trossamfund och fritid"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Riksarkivet",
+     "amount_tkr": 618945,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Riksarkivet (ram)",
+       "amount_tkr": 618945
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Riksarkivet",
+     "text": "Anslagsposten får användas för Riksarkivets förvaltningsutgifter.\nAnslaget får även användas för utgifter för statsbidrag till restaurering, arkivering och arkivförvaltning av kulturhistorisk, försvarsanknuten film samt för statsbidrag till enskilda arkiv.\nI anslaget har beräknats medel för restaurering, arkivering och arkivförvaltning av kulturhistorisk, försvarsanknuten film till ett belopp av 464 000 kronor. Medlen utbetalas till stiftelsen Armé-, Marin- och Flygfilm.\nAv anslaget ska 7 300 000 kronor användas för verksamhetsbidrag till stiftelsen Arbetarrörelsens arkiv och bibliotek.\nRiksarkivet får använda högst 3 000 000 kronor för bidrag till enskilda arkiv i enlighet med förordningen (2007:1368) om statsbidrag till enskilda arkiv."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "1",
+     "max": 3000000,
+     "unit": "kronor"
+    }
+   ]
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "1:4 Forsknings- och utvecklingsinsatser inom kulturområdet",
+   "ap": "ap.9",
+   "Anslagskredit": 324,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "5:1 Riksarkivet",
+   "ap": "ap.1",
+   "Anslagskredit": 18568,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 260000,
+  "Räntekontokredit": 275000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 157439
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 157439
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 157439
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 157439
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:4 Forsknings- och utvecklingsinsatser inom kulturområdet",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.9",
+     "324",
+     "Inget",
+     "0"
+    ],
+    [
+     "5:1 Riksarkivet",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "18 568",
+     "3 %",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "260 000"
+    ],
+    [
+     "Räntekontokredit",
+     "275 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "157 439"
+    ],
+    [
+     "2026-04-25",
+     "157 439"
+    ],
+    [
+     "2026-07-25",
+     "157 439"
+    ],
+    [
+     "2026-10-25",
+     "157 439"
+    ],
+    [
+     "Summa",
+     "629 756"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "1:4 ap.9",
+     "Riksarkivet"
+    ],
+    [
+     "5:1 ap.1",
+     "Riksarkivet"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Verksamhet med full kostnadstäckning",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Digitaliseringstjänster1",
+     "-9 428",
+     "1 000",
+     "18 000",
+     "17 000",
+     "1 000",
+     "-7 428"
+    ],
+    [
+     "Heraldisk uppdragsverksamhet1",
+     "-25",
+     "0",
+     "100",
+     "100",
+     "0",
+     "-25"
+    ],
+    [
+     "Stöd till arkivbildare1",
+     "11",
+     "0",
+     "700",
+     "700",
+     "0",
+     "11"
+    ],
+    [
+     "Uthyrning av lokaler enligt regeringsbeslut Ku2022/010921",
+     "0",
+     "0",
+     "9 000",
+     "9 000",
+     "0",
+     "0"
+    ],
+    [
+     "Övrig uppdragsverksamhet1",
+     "-425",
+     "500",
+     "16 000",
+     "16 000",
+     "0",
+     "75"
+    ],
+    [
+     "Summa",
+     "-9 867",
+     "1 500",
+     "43 800",
+     "42 800",
+     "1 000",
+     "-7 367"
+    ],
+    [
+     "Övrig avgiftsbelagd verksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Mottagande, bevarande och vård av arkivhandlingar3",
+     "54 000"
+    ],
+    [
+     "Mottagande, bevarande och vård av enskilda arkiv3",
+     "7 000"
+    ],
+    [
+     "Tillhandahållande av publikationer, föreskrifter och allmänna råd3",
+     "100"
+    ],
+    [
+     "Undersökningsuppdrag som går utöver serviceskyldigheten enligt 6 § förvaltningslagen (2017:900)3",
+     "1 800"
+    ],
+    [
+     "Digitalisering av kulturarvsmaterial3",
+     "100"
+    ],
+    [
+     "Summa",
+     "0",
+     "0",
+     "63 000",
+     "0",
+     "0",
+     "0"
+    ]
+   ]
+  }
+ ],
+ "has_fee_section": true,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 9,
+  "n_org": 2,
+  "n_assignments": 5,
+  "n_deadlines": 5,
+  "deadlines": [
+   "2026-03-01",
+   "2026-03-31",
+   "2027-02-22",
+   "2027-03-31",
+   "2029-02-15"
+  ],
+  "partners": [
+   "Riksantikvarieämbetet",
+   "Statens kulturråd"
+  ],
+  "n_appropriations": 2,
+  "appropriations_total_tkr": 629756,
+  "payment_plan_total_tkr": 629756,
+  "md_chars": 12871
+ },
+ "layout": "standard",
+ "warnings": []
+}

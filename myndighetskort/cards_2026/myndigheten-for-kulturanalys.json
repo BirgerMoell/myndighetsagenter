@@ -1,0 +1,448 @@
+{
+ "schema_version": 1,
+ "id": 26014,
+ "original_rbid": 26014,
+ "type": "Regleringsbrev",
+ "category": "Myndighet",
+ "date": "2025-12-16",
+ "year": "2026",
+ "name": "Myndigheten för kulturanalys",
+ "slug": "myndigheten-for-kulturanalys",
+ "department": "Kulturdepartementet",
+ "expenditure_areas": [
+  17
+ ],
+ "registry_numbers": [
+  "Ku2025/01141 (delvis)",
+  "Ku2025/01230"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1"
+  ],
+  "bet": [
+   "2025/26:KrU1"
+  ],
+  "rskr": [
+   "2025/26:83"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "",
+ "goals": [
+  {
+   "title": "Bidragsintäkter",
+   "group": [],
+   "text": "Myndigheten för kulturanalys ska särredovisa fördelningen av eventuella bidragsintäkter mellan statliga bidrag, icke-statliga bidrag respektive bidrag från mellanstatliga organ i not till resultaträkningen.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26014:goals:0"
+  }
+ ],
+ "org": [],
+ "assignments": [
+  {
+   "title": "Publiceringsplan",
+   "group": [],
+   "text": "Myndigheten för kulturanalys ska senast den 1 mars 2026 redovisa till Regeringskansliet (Kulturdepartementet) en publiceringsplan med datum för planerade rapporter och publikationer.",
+   "dates": [
+    "2026-03-01"
+   ],
+   "deadlines": [
+    "2026-03-01"
+   ],
+   "recipients": [
+    "Regeringskansliet (Kulturdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26014:assignments:0"
+  },
+  {
+   "title": "Prognoser 2026–2029",
+   "group": [],
+   "text": "Myndigheten för kulturanalys ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Prognoserna lämnas i informationssystemet Hermes senast den\n\n- 2 februari\n- 24 juli\n- 9 november.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26014:assignments:1"
+  },
+  {
+   "title": "Statistik om de kulturella och kreativa branscherna",
+   "group": [],
+   "text": "Myndigheten för kulturanalys ska lämna förslag på hur tillförlitlig och relevant nationell statistik om de kulturella och kreativa branschernas ekonomiska värden kan produceras och publiceras löpande. Uppdraget ska genomföras i samverkan med Statistiska Centralbyrån, Statens kulturråd och Konstnärsnämnden. Myndigheten ska i detta arbete beakta Kreativ Sektors rapport Uppdaterad statistik för de kulturella och kreativa branscherna. Uppdraget ska redovisas till Regeringskansliet (Kulturdepartementet) senast den 1 oktober 2026.",
+   "dates": [
+    "2026-10-01"
+   ],
+   "deadlines": [
+    "2026-10-01"
+   ],
+   "recipients": [
+    "Regeringskansliet (Kulturdepartementet)"
+   ],
+   "partners": [
+    "Konstnärsnämnden",
+    "Statens kulturråd"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "föreslå",
+    "samordna",
+    "utveckla",
+    "statistik_data"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26014:assignments:2"
+  },
+  {
+   "title": "Delutvärdering av strategi för företag i kulturella och kreativa branscher",
+   "group": [],
+   "text": "Myndigheten för kulturanalys ska göra en delutvärdering av genomförandet av regeringens Strategi för företag i kulturella och kreativa branscher (skr. 2023/24:111). Uppdraget ska redovisas till Regeringskansliet (Kulturdepartementet) senast den 1 mars 2027.",
+   "dates": [
+    "2027-03-01"
+   ],
+   "deadlines": [
+    "2027-03-01"
+   ],
+   "recipients": [
+    "Regeringskansliet (Kulturdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26014:assignments:3"
+  },
+  {
+   "title": "AI och datadrivet arbete",
+   "group": [],
+   "text": "Myndigheten för kulturanalys ska redovisa i vilken utsträckning myndigheten arbetar datadrivet och hur AI används i verksamheten. Myndigheten ska även redogöra för på vilket sätt arbetet med data och AI har bidragit till att utveckla verksamheten och höja kvaliteten i utförandet av myndighetens uppgifter och uppdrag. Av redovisningen ska framgå hur myndigheten beaktar risker och arbetar för att användningen av data och AI sker på ett etiskt, säkert och icke-diskriminerande sätt. Eventuella hinder eller framgångsfaktorer för datadrivet arbete och användande av AI ska även redovisas. Uppdraget ska redovisas till Regeringskansliet (Kulturdepartementet) senast den 4 maj 2026.",
+   "dates": [
+    "2026-05-04"
+   ],
+   "deadlines": [
+    "2026-05-04"
+   ],
+   "recipients": [
+    "Regeringskansliet (Kulturdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla",
+    "statistik_data",
+    "digitalisering_ai"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26014:assignments:4"
+  },
+  {
+   "title": "Tidigare givet uppdrag",
+   "group": [],
+   "text": "| | | |\n| --- | --- | --- |\n| Uppdrag | Beslut om uppdraget | Redovisningstidpunkt |\n| Uppdrag att medverka i nationellt analysnätverk för hållbar regional utveckling i hela landet 2022–2030 | N2022/01543 | Inget redovisningsdatum |",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26014:assignments:5"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "1:7",
+   "name": "Myndigheten för kulturanalys",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 17,
+    "name": "Kultur, medier, trossamfund och fritid"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Myndigheten för kulturanalys",
+     "amount_tkr": 20616,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Myndigheten för kulturanalys (ram)",
+       "amount_tkr": 20616
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Myndigheten för kulturanalys",
+     "text": "Anslagsposten får användas för Myndigheten för kulturanalys förvaltningsutgifter.\nAv anslagsposten får högst 2 350 000 kronor användas till forsknings- och utvecklingsinsatser.\nAnslagsposten får användas för att finansiera svenskt medlemskap i Compendium of Cultural Policies and Trends in Europe."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "1",
+     "max": 2350000,
+     "unit": "kronor"
+    }
+   ]
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "1:7 Myndigheten för kulturanalys",
+   "ap": "ap.1",
+   "Anslagskredit": 618,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 1500,
+  "Räntekontokredit": 1000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 5154
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 5154
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 5154
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 5154
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:7 Myndigheten för kulturanalys",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "618",
+     "3 %",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "1 500"
+    ],
+    [
+     "Räntekontokredit",
+     "1 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "5 154"
+    ],
+    [
+     "2026-04-25",
+     "5 154"
+    ],
+    [
+     "2026-07-25",
+     "5 154"
+    ],
+    [
+     "2026-10-25",
+     "5 154"
+    ],
+    [
+     "Summa",
+     "20 616"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "1:7 ap.1",
+     "Myndigheten för kulturanalys"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Verksamhet med full kostnadstäckning",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Uppdragsverksamhet1",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0"
+    ],
+    [
+     "Övrig avgiftsbelagd verksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Kulturdatabasen3",
+     "1 069"
+    ]
+   ]
+  }
+ ],
+ "has_fee_section": true,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 1,
+  "n_org": 0,
+  "n_assignments": 6,
+  "n_deadlines": 4,
+  "deadlines": [
+   "2026-03-01",
+   "2026-05-04",
+   "2026-10-01",
+   "2027-03-01"
+  ],
+  "partners": [
+   "Konstnärsnämnden",
+   "Statens kulturråd"
+  ],
+  "n_appropriations": 1,
+  "appropriations_total_tkr": 20616,
+  "payment_plan_total_tkr": 20616,
+  "md_chars": 6363
+ },
+ "layout": "standard",
+ "warnings": []
+}

@@ -1,0 +1,812 @@
+{
+ "schema_version": 1,
+ "id": 27542,
+ "original_rbid": 25783,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-09-03",
+ "year": "2026",
+ "name": "Myndigheten för digital förvaltning",
+ "slug": "myndigheten-for-digital-forvaltning",
+ "department": "Finansdepartementet",
+ "expenditure_areas": [
+  22
+ ],
+ "registry_numbers": [
+  "Fi2026/01846"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1",
+   "2025/26:99"
+  ],
+  "bet": [
+   "2025/26:FiU21",
+   "2025/26:TU1"
+  ],
+  "rskr": [
+   "2025/26:126",
+   "2025/26:344"
+  ]
+ },
+ "n_attachments_stated": 2,
+ "mission": "",
+ "goals": [
+  {
+   "title": "Redovisning av hur civilsamhällets organisationer beaktas i arbetet med Ena - Sveriges digitala infrastruktur",
+   "group": [],
+   "text": "Myndigheten ska redovisa hur behoven hos verksamheter som bedrivs av organisationer inom civilsamhället beaktas inom ramen för arbetet med Ena – Sveriges digitala infrastruktur.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27542:goals:0"
+  }
+ ],
+ "org": [
+  {
+   "title": "Överlåtelse av tillgångar och skulder",
+   "group": [],
+   "text": "Överlåtelse av myndighetens tillgångar och skulder till Post- och telestyrelsen (PTS) ska ske till bokfört värde enligt 5 kap. 5 och 8 §§ förordningen (2000:605) om årsredovisning och budgetunderlag. Myndigheten ansvarar för sina tillgångar och skulder fram t.o.m. den 31 december 2026, och PTS övertar ansvaret fr.o.m. den 1 januari 2027.",
+   "dates": [
+    "2026-12-31",
+    "2027-01-01"
+   ],
+   "deadlines": [],
+   "recipients": [
+    "Post- och telestyrelsen"
+   ],
+   "partners": [
+    "Post- och telestyrelsen"
+   ],
+   "channels": [
+    "årsredovisning",
+    "budgetunderlag"
+   ],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2000:605"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "org",
+   "item_id": "27542:org:0"
+  }
+ ],
+ "assignments": [
+  {
+   "title": "Utgöra nationell gemensam kontaktpunkt samt tillhandahålla komponenter och tjänster för gränsöverskridande bevisutbyte",
+   "group": [],
+   "text": "Myndigheten ska utveckla och tillhandahålla de förvaltningsgemensamma komponenter som ingår i det tekniska systemet för gränsöverskridande automatiskt utbyte av bevis. Myndigheten ska även tillhandahålla och utföra de tjänster i komponenterna som krävs för att bevisutbyte ska kunna genomföras enligt Europeiska kommissionens genomförandeförordning (EU) 2022/1463 av den 5 augusti 2022 om fastställande av tekniska och operativa specifikationer för det tekniska systemet för gränsöverskridande automatiskt utbyte av bevis och tillämpning av engångsprincipen i enlighet med Europaparlamentets och rådets förordning (EU) 2018/1724. Myndigheten ska även vara nationell gemensam kontaktpunkt för tekniskt stöd för att säkerställa drift och underhåll av relevanta komponenter i det tekniska systemet enligt artikel 21 i samma förordning.",
+   "dates": [
+    "2022-08-05"
+   ],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "utveckla",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27542:assignments:0"
+  },
+  {
+   "title": "Utveckla en digital identitetsplånbok",
+   "group": [],
+   "text": "Myndigheten ska utveckla en digital identitetsplånbok i enlighet med Europaparlamentets och rådets förordning (EU) 2024/1183 av den 11 april 2024 om ändring av förordning (EU) nr 910/2014 vad gäller inrättandet av ett europeiskt ramverk för digital identitet. I uppdraget ingår bl.a. att utveckla funktionalitet för identitetsmatchning och för kvalificerade elektroniska underskrifter. Inom ramen för uppdraget ska myndigheten också ta fram en nationell certifieringsordning för digitala identitetsplånböcker och relevanta valideringsmekanismer. Myndigheten ska vid utförandet av uppdraget särskilt beakta tillgänglighetsaspekter och säkerhetsrelaterade krav.",
+   "dates": [
+    "2024-04-11"
+   ],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "utveckla",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27542:assignments:1"
+  },
+  {
+   "title": "Öka förmågan att använda AI och ny teknik genom datadrivet arbete",
+   "group": [],
+   "text": "Myndigheten ska analysera och redovisa hur den arbetar datadrivet, dvs. använder data till stöd för sina analyser och beslut. Myndigheten ska också redovisa de åtgärder som den har vidtagit för att förbättra sin förmåga att arbeta datadrivet och resultatet av åtgärderna. I redovisningen ska ingå en beskrivning av hur ett datadrivet arbetssätt och användning av AI har bidragit till att utveckla myndighetens verksamhet och höja kvaliteten i utförandet av myndighetens uppgifter. Myndigheten ska även redovisa hur den beaktar risker och arbetar för att användningen av data och AI ska ske på ett etiskt, säkert och icke-diskriminerande sätt. Myndigheten ska vidare analysera och redovisa förutsättningarna för att ytterligare öka sin förmåga att använda AI och ny teknik genom att arbeta datadrivet. Uppdraget ska senast den 15 maj 2026 redovisas till Regeringskansliet (Finansdepartementet).",
+   "dates": [
+    "2026-05-15"
+   ],
+   "deadlines": [
+    "2026-05-15"
+   ],
+   "recipients": [
+    "Regeringskansliet (Finansdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla",
+    "statistik_data",
+    "digitalisering_ai"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27542:assignments:2"
+  },
+  {
+   "title": "Utveckla och tillhandahålla en sammanhållen infrastruktur för identitet och behörighet",
+   "group": [],
+   "text": "Myndigheten ska, inom ramen för Ena – Sveriges digitala infrastruktur, utveckla och tillhandahålla en sammanhållen infrastruktur för identitets- och behörighetshantering. När det gäller frågor om en nationell digital infrastruktur i hälso- och sjukvården, inklusive den nationella läkemedelslistan, ska uppdraget genomföras i nära dialog med E-hälsomyndigheten. Myndigheten ska löpande informera Regeringskansliet (Finansdepartementet) om hur arbetet med uppdraget fortgår.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "E-hälsomyndigheten"
+   ],
+   "channels": [],
+   "task_types": [
+    "utveckla",
+    "informera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27542:assignments:3"
+  },
+  {
+   "title": "Lämna underlag till Sveriges nationella färdplan för EU:s digitala decennium",
+   "group": [],
+   "text": "Myndigheten ska lämna underlag inför justeringen av Sveriges nationella färdplan för EU:s digitala decennium utifrån den beskrivning som ges i artikel 7 i Europaparlamentets och rådets beslut (EU) 2022/2481 den 14 december 2022 om inrättande av policyprogrammet för det digitala decenniet 2030. Vid framtagandet av underlaget ska myndigheten samverka med Post- och telestyrelsen och andra berörda aktörer samt beakta kommunala och regionala perspektiv. Myndigheten ska vidare publicera underlaget på sin hemsida för att möjliggöra inlämnande av synpunkter. Uppdraget, inklusive eventuella synpunkter, ska senast den 14 augusti 2026 redovisas till Regeringskansliet (Finansdepartementet).",
+   "dates": [
+    "2022-12-14",
+    "2026-08-14"
+   ],
+   "deadlines": [
+    "2026-08-14"
+   ],
+   "recipients": [
+    "Regeringskansliet (Finansdepartementet)"
+   ],
+   "partners": [
+    "Post- och telestyrelsen"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "utveckla",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27542:assignments:4"
+  },
+  {
+   "title": "Drift av de svenska förbindelsepunkterna (noderna) och tillhörande infrastruktur",
+   "group": [],
+   "text": "Myndigheten ska ingå en överenskommelse med Vetenskapsrådet om it-driften av de svenska förbindelsepunkterna (noderna) för gränsöverskridande elektronisk identifiering och tillhörande infrastruktur för tiden fram t.o.m. den 31 december 2027. Överenskommelsen ska bl.a. innehålla villkoren för den ersättning som myndigheten ska betala till Vetenskapsrådet.",
+   "dates": [
+    "2027-12-31"
+   ],
+   "deadlines": [],
+   "recipients": [
+    "Vetenskapsrådet"
+   ],
+   "partners": [
+    "Vetenskapsrådet"
+   ],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27542:assignments:5"
+  },
+  {
+   "title": "Prognoser",
+   "group": [],
+   "text": "Myndigheten ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Prognoserna lämnas i informationssystemet Hermes senast den\n\n– 2 februari\\\n– 22 april\\\n– 24 juli\\\n– 9 november.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27542:assignments:6"
+  },
+  {
+   "title": "Pågående uppdrag",
+   "group": [],
+   "text": "I*bilaga 1*redovisas myndighetens pågående uppdrag.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "27542:assignments:7"
+  },
+  {
+   "title": "Undersöka förutsättningarna för ett anslutnings- och innovationscenter",
+   "group": [],
+   "text": "Myndigheten ska undersöka förutsättningarna för att etablera ett anslutnings- och innovationscenter i syfte att effektivisera offentliga aktörers anslutning till och användning av Ena – Sveriges digitala infrastruktur samt främja säkerhet och utveckling av innovativa digitala lösningar för den offentliga förvaltningen.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27542:assignments:8"
+  },
+  {
+   "title": "Analysera och föreslå teknisk lösning för digital verifiering av ålder",
+   "group": [],
+   "text": "Myndigheten ska analysera och föreslå hur en teknisk lösning för digital verifiering av ålder ska kunna utvecklas och tillhandahållas senast den 1 januari 2028. Myndigheten ska i första hand analysera om en sådan lösning kan tillhandahållas inom ramen för den digitala identitetsplånboken. Myndigheten ska dock vid behov även analysera och överväga andra alternativ.\n\nNär uppdraget utförs ska myndigheten beakta utvecklingen på området inom EU och löpande föra dialog med Polismyndigheten, Post- och telestyrelsen och Skatteverket. Myndigheten ska inhämta synpunkter från Mediemyndigheten och vid behov andra berörda myndigheter och aktörer.\n\nMyndigheten ska senast den 31 december 2026 lämna en redovisning till Regeringskansliet (Finansdepartementet, med kopia till Socialdepartementet).\n\nFör uppdraget får myndigheten under 2026 använda högst 1 000 000 kronor som ska redovisas mot det inom utgiftsområde 9 Hälsovård, sjukvård och social omsorg för budgetåret 2026 uppförda anslaget 1:8 Bidrag till psykiatri, anslagsposten 3 till Kammarkollegiets disposition. Medlen betalas ut engångsvis efter rekvisition till Kammarkollegiet senast den 1 december 2026. Medel som inte har använts för avsett ändamål ska återbetalas senast den 31 mars 2027 till Kammarkollegiet. Vid samma tidpunkt ska en ekonomisk redovisning av använda medel lämnas till Kammarkollegiet. Redovisning, rekvisition och återbetalning ska hänvisa till diarienumret för detta beslut.",
+   "dates": [
+    "2026-12-01",
+    "2026-12-31",
+    "2027-03-31",
+    "2028-01-01"
+   ],
+   "deadlines": [
+    "2026-12-01",
+    "2026-12-31",
+    "2027-03-31",
+    "2028-01-01"
+   ],
+   "recipients": [
+    "Kammarkollegiet",
+    "Regeringskansliet (Finansdepartementet, med kopia till Socialdepartementet)"
+   ],
+   "partners": [
+    "Kammarkollegiet",
+    "Mediemyndigheten",
+    "Polismyndigheten",
+    "Post- och telestyrelsen",
+    "Skatteverket"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "föreslå",
+    "samordna",
+    "fördela_medel",
+    "utveckla",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [
+    "1:8"
+   ],
+   "expenditure_area_refs": [
+    9
+   ],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27542:assignments:9"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "2:6",
+   "name": "Myndigheten för digital förvaltning",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 22,
+    "name": "Kommunikationer"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Myndigheten för digital förvaltning",
+     "amount_tkr": 301885,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Myndigheten för digital förvaltning (ram)",
+       "amount_tkr": 301885
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Myndigheten för digital förvaltning",
+     "text": "Anslagsposten får användas för Myndigheten för digital förvaltnings förvaltningsutgifter.\nFörvaltningsanslaget ska inte belastas med avsättningar för omstruktureringar som finns kvar i årsredovisningen för 2026 och som ska regleras efter den 31 december 2026."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "2:7",
+   "name": "Digital förvaltning",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 22,
+    "name": "Kommunikationer"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Myndigheten för digital förvaltning",
+     "amount_tkr": 104894,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Förvaltningsgemensam digital infrastruktur (ram)",
+       "amount_tkr": 65000
+      },
+      {
+       "ap": "2",
+       "name": "Digital förvaltning (ram)",
+       "amount_tkr": 7894
+      },
+      {
+       "ap": "5",
+       "name": "Förvaltningsgemensamma digitala lösningar för att möta kraven i förordningen om en gemensam digital ingång (ram)",
+       "amount_tkr": 32000
+      }
+     ],
+     "sum_ok": true
+    },
+    {
+     "by": "Polismyndigheten",
+     "amount_tkr": 65000,
+     "items": [
+      {
+       "ap": "6",
+       "name": "Digital förvaltning - till Polismyndigheten (ram)",
+       "amount_tkr": 65000
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Förvaltningsgemensam digital infrastruktur",
+     "text": "Anslagsposten får användas för utveckling och förvaltning av förvaltningsgemensam digital infrastruktur.\nAnslagsposten får även användas för bidrag till statliga myndigheter, kommuner och regioner, Sveriges Kommuner och Regioner (SKR) och Inera AB. Av anslagsposten får högst 500 000 kronor användas av myndigheten för administrativa kostnader kopplade till bidragshanteringen."
+    },
+    {
+     "ap": "2",
+     "name": "Digital förvaltning",
+     "text": "Anslagsposten får efter beslut av regeringen användas för förstudier eller projekt som syftar till att skapa en enklare, öppnare och effektivare förvaltning, t.ex. genom att bidra till att effektivisera flera statliga myndigheters, kommuners eller regioners verksamhet och möjliggöra besparingar, samt för projekt som syftar till att förstärka styrningen av den offentliga förvaltningens digitalisering.\nAv anslagsposten får högst 2 000 000 kronor användas för uppdraget gemensam digital ingång (Fi2025/02066).\nAv anslagsposten får högst 2 894 000 kronor användas för uppdraget om att undersöka förutsättningar för att etablera ett anslutnings- och innovationcenter."
+    },
+    {
+     "ap": "5",
+     "name": "Förvaltningsgemensamma digitala lösningar för att möta kraven i förordningen om en gemensam digital ingång",
+     "text": "Anslagsposten får användas för utveckling och förvaltning av förvaltningsgemensam digital infrastruktur och lösningar som behövs för att uppfylla kraven i Europaparlamentets och rådets förordning (EU) 2018/1724 av den 2 oktober 2018 om inrättande av en gemensam digital ingång för tillhandahållande av information, förfaranden samt hjälp- och problemlösningstjänster och om ändring av förordning (EU) nr 1024/2012 och det tekniska systemet för gränsöverskridande automatiskt bevisutbyte enligt engångsprincipen, samt kraven i kommissionens genomförandeförordning (EU) 2022/1463.\nAnslagsposten får även användas för bidrag till statliga myndigheter, kommuner och regioner, SKR och Inera AB."
+    },
+    {
+     "ap": "6",
+     "name": "Digital förvaltning - till Polismyndigheten",
+     "text": "Anslagsposten får användas för genomförande av uppdraget att utfärda en statlig e-legitimation på högsta tillitsnivå (Ju2025/00740)."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "1",
+     "max": 500000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "2",
+     "max": 2000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "2",
+     "max": 2894000,
+     "unit": "kronor"
+    }
+   ]
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "2:6 Myndigheten för digital förvaltning",
+   "ap": "ap.1",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:7 Digital förvaltning",
+   "ap": "ap.1",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:7 Digital förvaltning",
+   "ap": "ap.2",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:7 Digital förvaltning",
+   "ap": "ap.5",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:7 Digital förvaltning",
+   "ap": "ap.6",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 96000,
+  "Räntekontokredit": 75000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 24615
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 24615
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 24615
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 24615
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 24615
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 25544
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 25544
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 25544
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 25544
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 25544
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 25544
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 25546
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "2:6 Myndigheten för digital förvaltning",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "0",
+     "3 %",
+     "0"
+    ],
+    [
+     "2:7 Digital förvaltning",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.2",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.5",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.6",
+     "0",
+     "Inget",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "96 000"
+    ],
+    [
+     "Räntekontokredit",
+     "75 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "24 615"
+    ],
+    [
+     "2026-02-25",
+     "24 615"
+    ],
+    [
+     "2026-03-25",
+     "24 615"
+    ],
+    [
+     "2026-04-25",
+     "24 615"
+    ],
+    [
+     "2026-05-25",
+     "24 615"
+    ],
+    [
+     "2026-06-25",
+     "25 544"
+    ],
+    [
+     "2026-07-25",
+     "25 544"
+    ],
+    [
+     "2026-08-25",
+     "25 544"
+    ],
+    [
+     "2026-09-25",
+     "25 544"
+    ],
+    [
+     "2026-10-25",
+     "25 544"
+    ],
+    [
+     "2026-11-25",
+     "25 544"
+    ],
+    [
+     "2026-12-25",
+     "25 546"
+    ],
+    [
+     "Summa",
+     "301 885"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "2:6 ap.1",
+     "Myndigheten för digital förvaltning"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Avgiftsfinansierad verksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Digital identifiering1",
+     "-1",
+     "0",
+     "10",
+     "10",
+     "0",
+     "-1"
+    ],
+    [
+     "Stöd för lärande och kunskapsuppbyggnad1",
+     "-298",
+     "298",
+     "1 000",
+     "1 000",
+     "0",
+     "0"
+    ],
+    [
+     "Auktorisationssystem om tjänster för elektronisk identifiering och digital post1",
+     "-11 452",
+     "-20 200",
+     "118 400",
+     "116 000",
+     "2 400",
+     "-29 252"
+    ],
+    [
+     "Summa",
+     "-11 751",
+     "-19 902",
+     "119 410",
+     "117 010",
+     "2 400",
+     "-29 253"
+    ]
+   ]
+  }
+ ],
+ "has_fee_section": true,
+ "exceptions_text": "Myndigheter som anskaffar anläggningstillgångar som finansieras av medel från anslaget 2:7 Digital förvaltning medges för dessa anskaffningar undantag från kravet på lånefinansiering i 2 kap. 1 § kapitalförsörjningsförordningen (2011:210).\n\nPå regeringens vägnar\n\nErik Slottner\n\nMikael Blomberg\n\n**Kopia till**\n\nStatsrådsberedningen/IREV\\\nJustitiedepartementet/DÅ, KRIM och INS\\\nFörsvarsdepartementet/ECH och ETU\\\nSocialdepartementet/SF, SL och SOF\\\nFinansdepartementet/BA, DIS, ESA, IEA, K, S3 och SFÖ\\\nUtbildningsdepartementet/F, S och UH\\\nKlimat- och näringslivsdepartementet/NIM\\\nKulturdepartementet/SNA\\\nArbetsmarknadsdepartementet/A och JÄM\\\nLandsbygds- och infrastrukturdepartementet/RUL, SPN, TM och US\\\nFörvaltningsavdelningen/EKA\\\nriksdagen, trafikutskottet\\\nArbetsförmedlingen\\\nBolagsverket\\\nDomstolsverket\\\neHälsomyndigheten\\\nFörsvarets materielverk\\\nFörsäkringskassan\\\nIntegritetsskyddsmyndigheten\\\nKammarkollegiet\\\nKriminalvården\\\nLantmäteriet\\\nMediemyndigheten\\\nMyndigheten för civilt försvar\\\nPolismyndigheten\\\nPost- och telestyrelsen\\\nRiksarkivet\\\nRiksgäldskontoret\\\nSkatteverket\\\nSocialstyrelsen\\\nStatens institutionsstyrelse\\\nStatens skolverk\\\nStatistiska centralbyrån\\\nTillväxtverket\\\nTrafikverket\\\nUniversitets- och högskolerådet\\\nVetenskapsrådet\\\nInera AB\\\nSveriges Kommuner och Regioner",
+ "summary": {
+  "n_goals": 1,
+  "n_org": 1,
+  "n_assignments": 10,
+  "n_deadlines": 6,
+  "deadlines": [
+   "2026-05-15",
+   "2026-08-14",
+   "2026-12-01",
+   "2026-12-31",
+   "2027-03-31",
+   "2028-01-01"
+  ],
+  "partners": [
+   "E-hälsomyndigheten",
+   "Kammarkollegiet",
+   "Mediemyndigheten",
+   "Polismyndigheten",
+   "Post- och telestyrelsen",
+   "Skatteverket",
+   "Vetenskapsrådet"
+  ],
+  "n_appropriations": 2,
+  "appropriations_total_tkr": 471779,
+  "payment_plan_total_tkr": 301885,
+  "md_chars": 15596
+ },
+ "layout": "standard",
+ "warnings": []
+}

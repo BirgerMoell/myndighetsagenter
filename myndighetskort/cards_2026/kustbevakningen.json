@@ -1,0 +1,877 @@
+{
+ "schema_version": 1,
+ "id": 25943,
+ "original_rbid": 25943,
+ "type": "Regleringsbrev",
+ "category": "Myndighet",
+ "date": "2025-12-16",
+ "year": "2026",
+ "name": "Kustbevakningen",
+ "slug": "kustbevakningen",
+ "department": "Försvarsdepartementet",
+ "expenditure_areas": [
+  6
+ ],
+ "registry_numbers": [
+  "Fö2025/00262",
+  "Fö2025/00423",
+  "Fö2025/01825 (delvis)"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1"
+  ],
+  "bet": [
+   "2025/26:FöU1"
+  ],
+  "rskr": [
+   "2025/26:111"
+  ]
+ },
+ "n_attachments_stated": 1,
+ "mission": "Kustbevakningen har till uppgift att bedriva sjöövervakning och räddningstjänst till sjöss. Kustbevakningen ska också samordna civila behov av sjöövervakning och förmedla civil sjöinformation till berörda myndigheter. Kustbevakningens huvudsakliga uppgifter framgår av förordningen (2019:84) med instruktion för Kustbevakningen.",
+ "goals": [
+  {
+   "title": "Återrapportering gällande totalförsvar",
+   "group": [],
+   "text": "Kustbevakningen ska redovisa sin samverkan med civila och militära myndigheter för ökad förmåga inom totalförsvaret till sjöss. Redovisningen ska särskilt omfatta samverkan med Försvarsmakten.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Försvarsmakten"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25943:goals:0"
+  },
+  {
+   "title": "Återrapportering gällande miljöräddningstjänst",
+   "group": [],
+   "text": "Kustbevakningen ska redovisa sin förmåga till miljöräddningstjänst utifrån rådande riskbild, med hänsyn tagen både till nationella och internationella resurser. Redovisningen ska särskilt omfatta vidtagna åtgärder för att säkerställa att myndighetens beslutade förmåga till miljöräddningstjänst kan upprätthållas.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25943:goals:1"
+  },
+  {
+   "title": "Återrapportering gällande sjöövervakning",
+   "group": [],
+   "text": "Kustbevakningen ska redovisa vidtagna åtgärder för att öka förmågan att samordna civila behov av sjöövervakning och förmedla civil sjöinformation till berörda civila och militära myndigheter. Redovisningen ska omfatta vidtagna åtgärder nationellt samt inom EU- och Natosamarbeten.\n\nKustbevakningen ska samlat redovisa myndighetens verksamhet inom brottsbekämpning. Arbetet mot organiserad brottslighet och omfattningen av samverkan med andra myndigheter inom området ska särskilt redovisas.\n\nKustbevakningen ska samlat redovisa myndighetens vidtagna åtgärder för att förbättra den svenska fiskerikontrollen. Myndigheten ska även redovisa antal fiskerikontroller riktade mot yrkes- respektive fritidsfisket i Östersjön respektive Västerhavet. För yrkesfisket ska kontrollerna redovisas per fiskeri.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "tillsyn_kontroll",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25943:goals:2"
+  },
+  {
+   "title": "Återrapportering gällande miljömål",
+   "group": [],
+   "text": "Kustbevakningen ska redovisa vidtagna åtgärder för att bidra till en ökad uppfyllelse av de miljökvalitetsmål och delar av Generationsmålet som är av relevans för myndighetens verksamhet.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25943:goals:3"
+  },
+  {
+   "title": "Återrapportering gällande jämställdhet",
+   "group": [],
+   "text": "Kustbevakningen ska, mot bakgrund av att myndigheten utökar bemanningen, redovisa arbetet med att uppnå en jämnare könsfördelning i myndighetens personalsammansättning.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25943:goals:4"
+  },
+  {
+   "title": "Återrapportering gällande användning av anslag",
+   "group": [],
+   "text": "Kustbevakningen ska redovisa hur anslaget har använts för att öka den operativa förmågan, särskilt vad gäller förstärkning av antalet kustbevakare, övervakningsförmåga över och under vatten, och utvecklingen av underrättelseverksamheten i myndigheten.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25943:goals:5"
+  },
+  {
+   "title": "Återrapportering gällande sanktionsarbete",
+   "group": [],
+   "text": "Kustbevakningen ska redovisa hur myndigheten inom ramen för sitt uppdrag säkerställer ett effektivt genomförande av EU:s restriktiva åtgärder inklusive anmälningsplikten inom ramen för sitt uppdrag enligt lagen (2025:327) om internationella sanktioner.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2025:327"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25943:goals:6"
+  },
+  {
+   "title": "Återrapportering gällande samarbete med Försvarsmakten kopplat till förordning (1982:314)",
+   "group": [],
+   "text": "Kustbevakningen ska hålla Regeringskansliet (Försvarsdepartementet) informerat om det pågående arbetet utifrån förordningen (1982:314) om utnyttjande av Kustbevakningen inom Försvarsmakten. Kustbevakningen ska slutredovisa arbetet den 4 september 2026 med en delredovisning den 24 april.",
+   "dates": [
+    "2026-09-04"
+   ],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Försvarsmakten"
+   ],
+   "channels": [
+    "delredovisning",
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "informera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "1982:314"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25943:goals:7"
+  },
+  {
+   "title": "Återrapportering kring ökad maritim samverkan",
+   "group": [],
+   "text": "Kustbevakningen ska tillsammans med Sjöfartsverket samarbeta närmare inom olika delar av de båda myndigheternas verksamheter och redovisa vidtagna åtgärder för ett mer effektivt utnyttjande av statens maritima resurser.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Sjöfartsverket"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25943:goals:8"
+  },
+  {
+   "title": "Återrapportering gällande färdval och resepolicy vid tjänsteresor",
+   "group": [],
+   "text": "Alla trafikslag ska kunna nyttjas (väg, järnväg, luft- och sjöfart) för att säkerställa effektiva och ändamålsenliga transporter. Kustbevakningen ska därför redovisa hur myndigheten har säkerställt att val av färdsätt vid tjänsteresor sker färdmedelsneutralt och utifrån behov. Vidare ska Kustbevakningen redovisa huruvida myndigheten köpt in hållbart flygbränsle till organisationens flygresor. När kostnader jämförs för olika färdval ska hela resans kostnad beaktas, exempelvis kostnader för nödvändig övernattning samt total arbetstid för hela resan.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25943:goals:9"
+  }
+ ],
+ "org": [
+  {
+   "title": "Säkerställa proaktivitet och handlingskraft vid fredstida krissituationer eller vid krig och krigsfara",
+   "group": [],
+   "text": "Kustbevakningen ska säkerställa att myndigheten har förmåga att agera proaktivt och handlingskraftigt i hanteringen av såväl fredstida krissituationer som vid krig och krigsfara. Utöver de krav som ställs i förordningen (2022:524) om statliga myndigheters beredskap ska myndigheten i detta syfte utbilda och öva sin personal samt se till att myndigheten stärker en kultur och arbetssätt som utgår från de krav som ett krig ställer. Kustbevakningen ska redovisa vidtagna åtgärder och resultatet av dessa senast den 22 februari 2027 till Regeringskansliet (Försvarsdepartementet). Detta ska ingå i den särskilda redovisningen för civilt försvar.",
+   "dates": [
+    "2027-02-22"
+   ],
+   "deadlines": [
+    "2027-02-22"
+   ],
+   "recipients": [
+    "Regeringskansliet (Försvarsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2022:524"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "org",
+   "item_id": "25943:org:0"
+  }
+ ],
+ "assignments": [
+  {
+   "title": "Civilt försvar",
+   "group": [],
+   "text": "Med stöd av MSB:s och Försvarsmaktens dokument Utgångspunkter för totalförsvaret 2025–2030 (Fö2025/01349) ska Kustbevakningen utveckla sitt arbete med det civila försvaret inom myndighetens ansvarsområde. Uppdraget ska redovisas till Regeringskansliet (Försvarsdepartementet) senast den 22 februari 2027. Detta ska ingå i den särskilda redovisningen för civilt försvar.",
+   "dates": [
+    "2027-02-22"
+   ],
+   "deadlines": [
+    "2027-02-22"
+   ],
+   "recipients": [
+    "Regeringskansliet (Försvarsdepartementet)"
+   ],
+   "partners": [
+    "Försvarsmakten",
+    "Myndigheten för samhällsskydd och beredskap"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "25943:assignments:0"
+  },
+  {
+   "title": "Operativt samarbete med Försvarsmakten",
+   "group": [],
+   "text": "Kustbevakningen ska vidta åtgärder utifrån myndighetens gemensamma handlingsplan med Försvarsmakten för att stärka sin operativa samverkan för en samlad förmåga till sjöövervakning i såväl fred som kris, höjd beredskap och ytterst krig. Redovisningen ska även innehålla status för arbetet med att dela sjölägesbild och underrättelseinformation mellan myndigheterna. Kustbevakningen ska löpande hålla Regeringskansliet (Försvarsdepartementet) informerat om uppdragets genomförande. Uppdraget slutredovisas senast den 31 oktober 2026.",
+   "dates": [
+    "2026-10-31"
+   ],
+   "deadlines": [
+    "2026-10-31"
+   ],
+   "recipients": [],
+   "partners": [
+    "Försvarsmakten"
+   ],
+   "channels": [
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "utveckla",
+    "informera",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "25943:assignments:1"
+  },
+  {
+   "title": "Stärkt motståndskraft mot hybridhot",
+   "group": [],
+   "text": "I syfte att stärka motståndskraften mot hybridhot ska Kustbevakningen identifiera möjliga hot som kan påverka eller skada myndigheten och dess ansvarsområde. Myndigheten ska säkerställa en kontinuerlig lägesuppfattning av incidenter inom den egna verksamheten i syfte att upprätthålla en normalbild. Myndigheten ska samverka med berörda myndigheter och, vid behov, klargöra eller utveckla rapporteringsvägar för avvikelser eller säkerhetsincidenter. Kustbevakningen ska redovisa vidtagna och planerade åtgärder för att minska sannolikhet för och konsekvens av sådana hybridhot. Uppdraget ska redovisas senast den 28 februari 2027 till Regeringskansliet (Försvarsdepartementet).",
+   "dates": [
+    "2027-02-28"
+   ],
+   "deadlines": [
+    "2027-02-28"
+   ],
+   "recipients": [
+    "Regeringskansliet (Försvarsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "utveckla",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "25943:assignments:2"
+  },
+  {
+   "title": "Avtal för stärkt försörjningsberedskap",
+   "group": [],
+   "text": "Kustbevakningen ska identifiera behov av och, i de fall myndigheten bedömer det lämpligt, teckna avtal som syftar till att upprätthålla försörjningen av varor och tjänster som är nödvändiga för myndighetens prioriterade uppgifter vid fredstida kriser och höjd beredskap. I de fall Kustbevakningen nyttjar särskilda avtalsformer i form av sådana försörjningsberedskapsavtal (F-avtal) som beskrivs i SOU 2025:68 ska dessa avtal löpande rapporteras till Myndigheten för civilt försvar. Uppdraget ska redovisas till Regeringskansliet (Försvarsdepartementet) senast den 22 februari 2027, och ingå i den särskilda redovisningen för civilt försvar. Som stöd för arbetet kan myndigheten använda bland annat Utgångspunkter för totalförsvaret 2025–2030.",
+   "dates": [
+    "2027-02-22"
+   ],
+   "deadlines": [
+    "2027-02-22"
+   ],
+   "recipients": [
+    "Myndigheten för civilt försvar",
+    "Regeringskansliet (Försvarsdepartementet)"
+   ],
+   "partners": [
+    "Myndigheten för civilt försvar"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "25943:assignments:3"
+  },
+  {
+   "title": "Prognoser",
+   "group": [],
+   "text": "Kustbevakningen ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Av kommentarerna ska framgå vilka antaganden som använts i prognosen, vilka osäkerhetsfaktorer som finns och vad som orsakat eventuella förändringar. Utöver den samlade prognosen ska en särskild redogörelse över kostnader kopplade till verksamhetsinvesteringar (avskrivningskostnader, räntor, underhållskostnader och övriga kostnader) redovisas.\n\nPrognoserna lämnas i informationssystemet Hermes senast den\n\n- 2 februari\n- 22 april\n- 24 juli\n- 9 november",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "25943:assignments:4"
+  },
+  {
+   "title": "Övriga pågående regeringsuppdrag",
+   "group": [],
+   "text": "Uppdrag till beredskapsmyndigheterna om personallån mellan myndigheter. Uppdraget slutredovisas senast den 22 februari 2026 (Fö2025/00670).\n\nUppdrag om civilt försvar. Uppdraget redovisas senast 22 februari 2026.\n\nUppdrag om ytterligare åtgärder mot brottslighet inom avfallsområdet. Uppdraget ska slutredovisas den 1 mars 2026 (M2022/00531).\n\nUppdrag att säkerställa proaktivitet och handlingskraft vid fredstida krissituationer eller vid krig och krigsfara.\n\nUppdrag till Kustbevakningen om stärkt självskydd. Uppdraget slutredovisas senast den 30 april 2026. (Fö2025/01110).\n\nUppdrag att samordna utvecklingen av effektiv informationsdelning i arbetet mot brott, ställt till Kustbevakningen m. fl. (Fi2025/01460).\n\nUppdrag att utveckla och intensifiera arbetet mot terrorism för att stärka Sveriges säkerhet. Uppdraget ska årligen redovisas senast den 1 september t.o.m. 2026 (Ju2023/01781).\n\nUppdrag att medverka i genomförandet av EU:s strategi för Östersjöregionen och dess handlingsplan. Uppdraget ska redovisas den 31 januari 2027 och därefter vart tredje år (SB2021/01583).\n\nUppdrag att samverka med State Border Guard Service of Ukraine inom civil maritim säkerhet. Uppdraget ska årligen redovisas senast den 1 oktober (Fö2024/01819).\n\nUppdrag om samordning av genomförandet av EU:s interoperabilitetsförordningar (Ju2019/02044 och Ju2024/00675) Slutredovisas senast den 31 mars 2027.\n\nInriktning för civilt försvar 2025–2030 (Fö2024/02054).",
+   "dates": [
+    "2026-02-22",
+    "2026-03-01",
+    "2026-04-30",
+    "2027-01-31",
+    "2027-03-31"
+   ],
+   "deadlines": [
+    "2026-02-22",
+    "2026-04-30",
+    "2027-03-31"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "utveckla",
+    "beredskap_säkerhet",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "25943:assignments:5"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "2:1",
+   "name": "Kustbevakningen",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 6,
+    "name": "Försvar och samhällets krisberedskap"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Kustbevakningen",
+     "amount_tkr": 2031678,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Kustbevakningen (ram)",
+       "amount_tkr": 2031678
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Kustbevakningen",
+     "text": "Anslaget får användas för Kustbevakningens förvaltningsutgifter inklusive sjöövervakning och räddningstjänst till sjöss. Anslaget får användas för Kustbevakningens kostnader för att samordna de civila behoven av sjöövervakning och för att förmedla civil sjöinformation till berörda myndigheter.\nKustbevakningen ska kunna använda och samverka med det gemensamma radiokommunikationssystemet Rakel. Kustbevakningen ska betala totalt 10 725 500 kronor till Myndigheten för civilt försvar som abonnemangsavgift för detta system. Beloppet ska betalas efter fakturering från Myndigheten för civilt försvar.\nAnslaget får användas för att betala årsavgifter och bidrag till internationella sammanslutningar och internationellt samarbete inom Kustbevakningens verksamhetsområde.\nAnslaget får även användas för att lämna stöd till Ukraina."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "2:1 Kustbevakningen",
+   "ap": "ap.1",
+   "Anslagskredit": 60950,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 3000000,
+  "Räntekontokredit": 40000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 169307
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 169307
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 169307
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 169307
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 169307
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 169307
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 169307
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 169307
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 169307
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 169307
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 169307
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 169301
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "2:1 Kustbevakningen",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "60 950",
+     "3 %",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "3 000 000"
+    ],
+    [
+     "Räntekontokredit",
+     "40 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "169 307"
+    ],
+    [
+     "2026-02-25",
+     "169 307"
+    ],
+    [
+     "2026-03-25",
+     "169 307"
+    ],
+    [
+     "2026-04-25",
+     "169 307"
+    ],
+    [
+     "2026-05-25",
+     "169 307"
+    ],
+    [
+     "2026-06-25",
+     "169 307"
+    ],
+    [
+     "2026-07-25",
+     "169 307"
+    ],
+    [
+     "2026-08-25",
+     "169 307"
+    ],
+    [
+     "2026-09-25",
+     "169 307"
+    ],
+    [
+     "2026-10-25",
+     "169 307"
+    ],
+    [
+     "2026-11-25",
+     "169 307"
+    ],
+    [
+     "2026-12-25",
+     "169 301"
+    ],
+    [
+     "Summa",
+     "2 031 678"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "2:1 ap.1",
+     "Kustbevakningen"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Uppdragsverksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Uppdragsverksamhet1",
+     "11",
+     "0",
+     "6 000",
+     "6 000",
+     "0",
+     "11"
+    ],
+    [
+     "Övriga intäkter",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Ersättning för kostnader för räddningstjänst1",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0"
+    ],
+    [
+     "Ersättning för miljöräddningstjänst och sjöövervakningsoperationer i enlighet med ingångna avtal1",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0"
+    ],
+    [
+     "Summa",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna ej disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "Ink. tit.",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Beräknad budget för avgiftsbelagd verksamhet där intäkterna ej disponeras",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Ersättning för miljöräddningstjänst och sjöövervakningsoperationer i enlighet med ingångna avtal1",
+     "2811",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0"
+    ],
+    [
+     "Offentligrättslig verksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Vattenföroreningsavgift1",
+     "2713",
+     "0",
+     "0",
+     "300",
+     "300",
+     "0",
+     "0"
+    ],
+    [
+     "Ersättning för kostnader för räddningstjänst1",
+     "2713",
+     "0",
+     "0",
+     "1 700",
+     "1 700",
+     "0",
+     "0"
+    ],
+    [
+     "Avgift för marinvetenskaplig forskning1",
+     "2511",
+     "0",
+     "0",
+     "90",
+     "90",
+     "0",
+     "0"
+    ],
+    [
+     "Summa",
+     "0",
+     "0",
+     "2 090",
+     "2 090",
+     "0",
+     "0"
+    ]
+   ]
+  }
+ ],
+ "has_fee_section": true,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 10,
+  "n_org": 1,
+  "n_assignments": 6,
+  "n_deadlines": 6,
+  "deadlines": [
+   "2026-02-22",
+   "2026-04-30",
+   "2026-10-31",
+   "2027-02-22",
+   "2027-02-28",
+   "2027-03-31"
+  ],
+  "partners": [
+   "Försvarsmakten",
+   "Myndigheten för civilt försvar",
+   "Myndigheten för samhällsskydd och beredskap",
+   "Sjöfartsverket"
+  ],
+  "n_appropriations": 1,
+  "appropriations_total_tkr": 2031678,
+  "payment_plan_total_tkr": 2031678,
+  "md_chars": 17359
+ },
+ "layout": "standard",
+ "warnings": []
+}

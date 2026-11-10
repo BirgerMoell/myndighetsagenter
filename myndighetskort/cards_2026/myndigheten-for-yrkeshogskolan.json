@@ -1,0 +1,842 @@
+{
+ "schema_version": 1,
+ "id": 26318,
+ "original_rbid": 25755,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-04-30",
+ "year": "2026",
+ "name": "Myndigheten för yrkeshögskolan",
+ "slug": "myndigheten-for-yrkeshogskolan",
+ "department": "Utbildningsdepartementet",
+ "expenditure_areas": [
+  16
+ ],
+ "registry_numbers": [
+  "U2026/00916"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1"
+  ],
+  "bet": [
+   "2025/26:UbU1"
+  ],
+  "rskr": [
+   "2025/26:124"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "",
+ "goals": [
+  {
+   "title": "Yrkeshögskolan",
+   "group": [],
+   "text": "Myndigheten ska redovisa\n\n- vilka åtgärder som har vidtagits för att öka examensgraden inom yrkeshögskolan med särskilt fokus på de grupper samt på de utbildningsområden där examensgraden är låg, exempelvis området STEM (Science, Technology, Engineering and Mathematics), och resultaten av dessa åtgärder.\n- vilka åtgärder som har vidtagits för att främja goda resultat när det gäller andelen examinerade kvinnor och män i yrkeshögskolans utbildningar som arbetar inom det område som deras yrkeshögskoleutbildning avser,\n- vilka överväganden som har gjorts och vilka åtgärder som har vidtagits när det gäller att säkerställa att yrkeshögskolans utbildningar har en lämplig placering över landet, och\n- hur myndigheten har arbetat för att stärka kvaliteten i och uppföljningen av yrkeshögskolans utbildningar.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "vilka åtgärder som har vidtagits för att öka examensgraden inom yrkeshögskolan med särskilt fokus på de grupper samt på de utbildningsområden där examensgraden är låg, exempelvis området STEM (Science, Technology, Engineering and Mathematics), och resultaten av dessa åtgärder.",
+    "vilka åtgärder som har vidtagits för att främja goda resultat när det gäller andelen examinerade kvinnor och män i yrkeshögskolans utbildningar som arbetar inom det område som deras yrkeshögskoleutbildning avser,",
+    "vilka överväganden som har gjorts och vilka åtgärder som har vidtagits när det gäller att säkerställa att yrkeshögskolans utbildningar har en lämplig placering över landet, och",
+    "hur myndigheten har arbetat för att stärka kvaliteten i och uppföljningen av yrkeshögskolans utbildningar."
+   ],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26318:goals:0"
+  },
+  {
+   "title": "Tolkutbildning",
+   "group": [],
+   "text": "Myndigheten ska redovisa vilka åtgärder som har vidtagits för att genomströmningen i kontakttolk-, teckenspråkstolk- och dövblindtolkutbildningar ska öka samt en analys av resultaten av dessa åtgärder.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26318:goals:1"
+  },
+  {
+   "title": "Informations- och cybersäkerhet",
+   "group": [],
+   "text": "Myndigheten ska övergripande redogöra för hur myndigheten har förvaltat och utvecklat sitt arbete med informations- och cybersäkerhet inbegripet den egna organisationens beredskap och möjlighet att hantera incidenter. Myndigheten ska också lämna en redogörelse för vidtagna åtgärder för att utveckla den interna styrningen och uppföljningen av arbetet.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "analysera",
+    "utveckla",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26318:goals:2"
+  }
+ ],
+ "org": [],
+ "assignments": [
+  {
+   "title": "Prognoser",
+   "group": [
+    "Nya uppdrag"
+   ],
+   "text": "Myndigheten ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Prognoserna lämnas i informationssystemet Hermes senast den\n\n– 2 februari,\n\n– 22 april,\n\n– 24 juli, och\n\n– 9 november.\n\nVid varje prognos ska även volymer uttryckt i antal årsplatser redovisas.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26318:assignments:0"
+  },
+  {
+   "title": "Prognos för beställningsbemyndiganden",
+   "group": [],
+   "text": "Myndigheten ska redovisa en prognos för de förslag om beställningsbemyndiganden som lämnats i budgetunderlaget och för de åtaganden som ingåtts med stöd av äldre beställningsbemyndiganden. Prognosen ska lämnas senast den 24 juli 2026 via Statsredovisningssystemet i Hermes och utformas enligt närmare information från Ekonomistyrningsverket.",
+   "dates": [
+    "2026-07-24"
+   ],
+   "deadlines": [
+    "2026-07-24"
+   ],
+   "forecast_dates": [],
+   "recipients": [],
+   "partners": [
+    "Ekonomistyrningsverket"
+   ],
+   "channels": [
+    "hermes",
+    "budgetunderlag"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26318:assignments:1"
+  },
+  {
+   "title": "Motverka felaktiga utbetalningar av stöd och bidrag",
+   "group": [],
+   "text": "Myndigheten ska redovisa en plan för hur myndigheten avser att fortsätta arbetet med att motverka felaktiga utbetalningar av stöd och bidrag. Planen ska innehålla mål och aktiviteter som myndigheten avser att genomföra under 2027–2029. Myndigheten ska inom ramen för uppdraget överväga att arbeta med ny teknik, såsom AI, för att motverka felaktiga utbetalningar av stöd och bidrag. Planen ska redovisas till Regeringskansliet (Utbildningsdepartementet med kopia till Finansdepartementet) senast den 30 oktober 2026. Myndigheten ska därefter redovisa åtgärder och resultat i sin årsredovisning årligen t.o.m. 2029. Uppdraget ska slutredovisas till Regeringskansliet (Utbildningsdepartementet med kopia till Finansdepartementet) senast den 22 februari 2030. Slutredovisningen ska innehålla en beskrivning och analys av resultatet av genomfört arbete 2026–2029.",
+   "dates": [
+    "2026-10-30",
+    "2030-02-22"
+   ],
+   "deadlines": [
+    "2026-10-30",
+    "2030-02-22"
+   ],
+   "recipients": [
+    "Regeringskansliet (Utbildningsdepartementet med kopia till Finansdepartementet)"
+   ],
+   "partners": [],
+   "channels": [
+    "årsredovisning",
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "utveckla",
+    "digitalisering_ai"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26318:assignments:2"
+  },
+  {
+   "title": "Myndighetssamverkan för en väl fungerande kompetensförsörjning",
+   "group": [],
+   "text": "Uppdraget om myndighetssamverkan för en väl fungerande kompetensförsörjning ändras på så sätt att myndigheten ska lämna en för myndigheterna gemensam redovisning av arbetet till Regeringskansliet (Utbildningsdepartementet) senast den 20 mars 2026 och senast den 19 mars 2027.",
+   "dates": [
+    "2026-03-20",
+    "2027-03-19"
+   ],
+   "deadlines": [
+    "2026-03-20",
+    "2027-03-19"
+   ],
+   "recipients": [
+    "Regeringskansliet (Utbildningsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26318:assignments:3"
+  },
+  {
+   "title": "Nationell yrkesutbildning",
+   "group": [],
+   "text": "Uppdraget om nationell yrkesutbildning ändras på så sätt att det ska delredovisas senast den 28 augusti 2026 samt slutredovisas senast den 19 oktober 2029. I redovisningarna ska resultatet av uppföljningen och utvärderingen av utbildningen enligt förordningen (2024:107) om stöd för en nationell yrkesutbildning ingå. Även resultaten av verksamheten som helhet fram till redovisningspunkten ska ingå.",
+   "dates": [
+    "2026-08-28",
+    "2029-10-19"
+   ],
+   "deadlines": [
+    "2026-08-28",
+    "2029-10-19"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "delredovisning",
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2024:107"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26318:assignments:4"
+  },
+  {
+   "title": "Klimatomställningen",
+   "group": [],
+   "text": "Uppdraget om klimatomställningen ändras på så sätt att det ska redovisas vart tredje år. Nästa redovisningstillfälle ska vara senast den 2 maj 2028.",
+   "dates": [
+    "2028-05-02"
+   ],
+   "deadlines": [
+    "2028-05-02"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26318:assignments:5"
+  },
+  {
+   "title": "Pågående uppdrag",
+   "group": [],
+   "text": "| | | |\n| --- | --- | --- |\n| Uppdrag | Beslut om uppdraget | Redovisningstidpunkt |\n| Uppdrag att utveckla yrkeshögskolans kurser för omställning | U2024/02858 | Till Utbildningsdepartementet slutredovisning senast den 30 januari 2026 |\n| Uppdrag att fortsätta stärka och påskynda förenklingsarbetet inklusive arbetet med regelförenklingar och processer för att minska företagens regelbörda och administrativa kostnader samt fortsätta förbättra bemötande och service gentemot företagen | U2023/03653 | Till Klimat- och näringslivsdepartementet slutredovisning senast den 15 mars 2026 |\n| Uppdrag att stödja arbetet med att utveckla effektiva strukturer för validering på regional nivå | N2021/03082 | Till Landsbygds- och infrastrukturdepartementet slutredovisning senast den 15 oktober 2026. |\n| Uppdrag att redovisa genomförandet av den regionala utvecklingspolitiken och den sammanhållna landsbygdspolitiken. | LI2024/00652 | Till Landsbygds- och infrastrukturdepartementet med kopia till Tillväxtverket senast den 31 januari 2027 |\n| Uppdrag att följa upp funktionshinderspolitiken 2021–2031 | S2021/06595, S2025/01367 | Till Myndigheten för delaktighet årligen senast den 1 februari |\n| Uppdrag att tillsammans med andra myndigheter medverka i ett nationellt analysnätverk för hållbar regional utveckling i hela landet 2022–2030 | N2022/04542 | |\n\n*För regeringsuppdrag som lämnats i ett särskilt regeringsbeslut utgör tabellen endast en upplysning om vilka uppdrag som vid årets början var riktade till myndigheten och vilka tider som då gällde för återrapportering eller liknande.*",
+   "dates": [
+    "2026-01-30",
+    "2026-03-15",
+    "2026-10-15",
+    "2027-01-31"
+   ],
+   "deadlines": [
+    "2026-01-30",
+    "2026-03-15",
+    "2026-10-15",
+    "2027-01-31"
+   ],
+   "recipients": [
+    "Tillväxtverket"
+   ],
+   "partners": [
+    "Myndigheten för delaktighet",
+    "Tillväxtverket"
+   ],
+   "channels": [
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "26318:assignments:6"
+  },
+  {
+   "title": "Inriktning på arbetet 2026 avseende utveckling av studiedokumentationssystem m.m.",
+   "group": [],
+   "text": "Myndigheten får i uppdrag att (i) påbörja arbetet med att vidareutveckla studiedokumentationssystemet, och (ii) förbereda utvecklingen av ett gemensamt system för ansökan och antagning. För uppdraget gäller de syften och förutsättningar som framgår av tidigare uppdrag till myndigheten den 20 mars 2025 (U2025/00853). Inom ramen för uppdraget ska myndigheten inhämta information och samverka med relevanta myndigheter och aktörer. Myndigheten ska löpande informera Regeringskansliet (Utbildningsdepartementet) om hur arbetet med uppdraget fortskrider.",
+   "dates": [
+    "2025-03-20"
+   ],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "samordna",
+    "utveckla",
+    "informera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26318:assignments:7"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "1:17",
+   "name": "Statligt stöd till vuxenutbildning",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 16,
+    "name": "Utbildning och universitetsforskning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Myndigheten för yrkeshögskolan",
+     "amount_tkr": 150000,
+     "items": [
+      {
+       "ap": "3",
+       "name": "Pilot för yrkesutbildning på gymnasial nivå (ram)",
+       "amount_tkr": 150000
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "3",
+     "name": "Pilot för yrkesutbildning på gymnasial nivå",
+     "text": "Anslagsposten får användas för utgifter för en pilotverksamhet enligt förordningen om stöd för en nationell yrkesutbildning."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "1:18",
+   "name": "Myndigheten för yrkeshögskolan",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 16,
+    "name": "Utbildning och universitetsforskning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Myndigheten för yrkeshögskolan",
+     "amount_tkr": 202724,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Myndigheten för yrkeshögskolan (ram)",
+       "amount_tkr": 202724
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Myndigheten för yrkeshögskolan",
+     "text": "Av anslagsposten får högst 202 724 000 kronor användas för utgifter för myndighetens förvaltningsuppgifter."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "1",
+     "max": 202724000,
+     "unit": "kronor"
+    }
+   ]
+  },
+  {
+   "code": "1:19",
+   "name": "Statligt stöd till yrkeshögskoleutbildning",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 16,
+    "name": "Utbildning och universitetsforskning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Myndigheten för yrkeshögskolan",
+     "amount_tkr": 4409566,
+     "items": [
+      {
+       "ap": "11",
+       "name": "Statligt stöd för yrkeshögskoleutbildning m.m. (ram)",
+       "amount_tkr": 4409566
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "11",
+     "name": "Statligt stöd för yrkeshögskoleutbildning m.m.",
+     "text": "**1. Anslagsposten får användas för utgifter för statligt stöd enligt lagen (2009:128) om yrkeshögskolan och förordningen (2009:130) om yrkeshögskolan.**\n**2. Anslagsposten får användas för utgifter för personskadeförsäkring och ansvarsförsäkring inom yrkeshögskolan.**\n3. Av anslagsposten får högst 365 000 kronor användas för främjande av studerandes inflytande när det gäller utbildningar inom myndighetens ansvarsområde\\*.\\*\n**4. Av anslagsposten får högst 174 800 000 kronor användas för utgifter för statligt stöd enligt förordningen (2013:871) om stöd för konst- och kulturutbildningar och vissa andra utbildningar.**\n**5. Av anslagsposten får högst 40 000 000 kronor användas för utgifter för statligt stöd för utbildningar till trafikflygare inom yrkeshögskolan.**\n**6. Av anslagsposten får högst 10 000 000 kronor användas för utgifter för statligt stöd enligt förordningen (2020:268) om statsbidrag för utveckling av branschvalidering.**\n**7. Anslagsposten får användas för att kompensera enskilda utbildningsanordnare för kostnader för mervärdesskatt när det gäller utbildningar som finansieras via anslagsposten.**"
+    }
+   ],
+   "caps": [
+    {
+     "ap": "11",
+     "max": 365000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "11",
+     "max": 174800000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "11",
+     "max": 40000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "11",
+     "max": 10000000,
+     "unit": "kronor"
+    }
+   ]
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "1:17 Statligt stöd till vuxenutbildning",
+   "ap": "ap.3",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:18 Myndigheten för yrkeshögskolan",
+   "ap": "ap.1",
+   "Anslagskredit": 6081,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:19 Statligt stöd till yrkeshögskoleutbildning",
+   "ap": "ap.11",
+   "Anslagskredit": 220478,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 35000,
+  "Räntekontokredit": 5000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 16894
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 16894
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 16894
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 16894
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 16894
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 16894
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 16894
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 16894
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 16894
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 16894
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 16894
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 16890
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:17 Statligt stöd till vuxenutbildning",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.3",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "1:18 Myndigheten för yrkeshögskolan",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "6 081",
+     "3 %",
+     "0"
+    ],
+    [
+     "1:19 Statligt stöd till yrkeshögskoleutbildning",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.11",
+     "220 478",
+     "Inget",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Beställningsbemyndiganden",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Bemyndigande",
+     "Utgifter mot anslag till följd av ekonomiska åtaganden",
+     "",
+     "",
+     ""
+    ],
+    [
+     "2026",
+     "2027",
+     "2028",
+     "2029 -",
+     "Slutår"
+    ],
+    [
+     "1:17 Statligt stöd till vuxenutbildning",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.3",
+     "300 000",
+     "150 000",
+     "150 000",
+     "",
+     "2028"
+    ],
+    [
+     "1:19 Statligt stöd till yrkeshögskoleutbildning",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.11",
+     "12 300 000",
+     "4 495 000",
+     "4 664 000",
+     "3 141 000",
+     "2033"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "35 000"
+    ],
+    [
+     "Räntekontokredit",
+     "5 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "16 894"
+    ],
+    [
+     "2026-02-25",
+     "16 894"
+    ],
+    [
+     "2026-03-25",
+     "16 894"
+    ],
+    [
+     "2026-04-25",
+     "16 894"
+    ],
+    [
+     "2026-05-25",
+     "16 894"
+    ],
+    [
+     "2026-06-25",
+     "16 894"
+    ],
+    [
+     "2026-07-25",
+     "16 894"
+    ],
+    [
+     "2026-08-25",
+     "16 894"
+    ],
+    [
+     "2026-09-25",
+     "16 894"
+    ],
+    [
+     "2026-10-25",
+     "16 894"
+    ],
+    [
+     "2026-11-25",
+     "16 894"
+    ],
+    [
+     "2026-12-25",
+     "16 890"
+    ],
+    [
+     "Summa",
+     "202 724"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "1:18 ap.1",
+     "Myndigheten för yrkeshögskolan"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Avgiftsfinansierad verksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Ansökningsavgift för referensram för kvalifikationer för livslångt lärande (SeQF)1",
+     "192",
+     "-192",
+     "400",
+     "400",
+     "0",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna ej disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "Ink. tit.",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Uppdragsfinansierad verksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Uppdragsverksamhet1",
+     "2552",
+     "-361",
+     "0",
+     "90",
+     "90",
+     "0",
+     "-361"
+    ]
+   ]
+  }
+ ],
+ "has_fee_section": true,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 3,
+  "n_org": 0,
+  "n_assignments": 8,
+  "n_deadlines": 12,
+  "deadlines": [
+   "2026-01-30",
+   "2026-03-15",
+   "2026-03-20",
+   "2026-07-24",
+   "2026-08-28",
+   "2026-10-15",
+   "2026-10-30",
+   "2027-01-31",
+   "2027-03-19",
+   "2028-05-02",
+   "2029-10-19",
+   "2030-02-22"
+  ],
+  "partners": [
+   "Ekonomistyrningsverket",
+   "Myndigheten för delaktighet",
+   "Tillväxtverket"
+  ],
+  "n_appropriations": 3,
+  "appropriations_total_tkr": 4762290,
+  "payment_plan_total_tkr": 202724,
+  "md_chars": 14230
+ },
+ "layout": "standard",
+ "warnings": []
+}

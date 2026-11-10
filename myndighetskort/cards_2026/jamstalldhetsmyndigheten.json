@@ -1,0 +1,906 @@
+{
+ "schema_version": 1,
+ "id": 27443,
+ "original_rbid": 26017,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-06-11",
+ "year": "2026",
+ "name": "Jämställdhetsmyndigheten",
+ "slug": "jamstalldhetsmyndigheten",
+ "department": "Arbetsmarknadsdepartementet",
+ "expenditure_areas": [
+  13
+ ],
+ "registry_numbers": [
+  "A2026/00637"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1"
+  ],
+  "bet": [
+   "2025/26:AU1"
+  ],
+  "rskr": [
+   "2025/26:123"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "",
+ "goals": [
+  {
+   "title": "Återrapportering",
+   "group": [],
+   "text": "Myndigheten ska redovisa sitt arbete för genomförandet av FN:s säkerhetsrådsresolutioner om kvinnor, fred och säkerhet med utgångspunkt i den nationella handlingsplanen på området (UD2023/04798). Rapporteringen ska ske utifrån de fyra övergripande målen i handlingsplanen.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27443:goals:0"
+  }
+ ],
+ "org": [
+  {
+   "title": "Inordna uppgifter om hedersrelaterat våld och förtryck i Jämställdhetsmyndigheten",
+   "group": [],
+   "text": "Den 1 januari 2026 inordnas vissa uppgifter i Jämställdhetsmyndigheten med utgångspunkt i regeringsuppdrag A2024/01396. De uppgifter som inordnas i Jämställdhetsmyndigheten är:\n\n- att regelbundet undersöka omfattningen av hedersrelaterat våld och förtryck i Sverige och utvecklingen av samhällets insatser på området,\n- att ta fram och sprida kunskap om hedersrelaterat våld och förtryck baserat på forskning och beprövad erfarenhet till såväl yrkesverksamma som allmänheten,\n- att främja informationsutbyte mellan statliga myndigheter i frågor om hedersrelaterat våld och förtryck, och\n- att stödja länsstyrelserna i deras uppgifter om hedersrelaterat våld och förtryck med fokus på införandet av nationella myndigheters kunskapsstöd, arbetssätt och metoder i regionala och lokala verksamheter.\n\nI fråga om att undersöka omfattningen av hedersrelaterat våld och förtryck ska Jämställdhetsmyndigheten bistå Uppsala universitet (Nationellt centrum för kvinnofrid) i arbetet med att under 2026 utarbeta ett kunskaps- och metodunderlag som förberedelse för en befolkningsstudie om utsatthet för hedersrelaterat våld och förtryck i Sverige (Regleringsbrevet för 3:1 Särskilda jämställdhetsåtgärder för 2026). Tidigare arbete vid Länsstyrelsen i Östergötlands län ska beaktas, bl.a. rapporten Vad vet vi om omfattningen av hedersrelaterat våld och förtryck? Tidigare studier, kunskapsluckor och metodologiska medskick (Länsstyrelsen Östergötland 2025:13).",
+   "dates": [
+    "2026-01-01"
+   ],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Uppsala universitet",
+    "länsstyrelserna"
+   ],
+   "channels": [],
+   "task_types": [
+    "samordna",
+    "utveckla",
+    "informera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "att regelbundet undersöka omfattningen av hedersrelaterat våld och förtryck i Sverige och utvecklingen av samhällets insatser på området,",
+    "att ta fram och sprida kunskap om hedersrelaterat våld och förtryck baserat på forskning och beprövad erfarenhet till såväl yrkesverksamma som allmänheten,",
+    "att främja informationsutbyte mellan statliga myndigheter i frågor om hedersrelaterat våld och förtryck, och",
+    "att stödja länsstyrelserna i deras uppgifter om hedersrelaterat våld och förtryck med fokus på införandet av nationella myndigheters kunskapsstöd, arbetssätt och metoder i regionala och lokala verksamheter."
+   ],
+   "ongoing": false,
+   "section": "org",
+   "item_id": "27443:org:0"
+  }
+ ],
+ "assignments": [
+  {
+   "title": "Prognoser",
+   "group": [],
+   "text": "Myndigheten ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Prognoserna lämnas i informationssystemet Hermes senast den\n\n- 2 feb\n- 22 april\n- 24 juli\n- 9 nov",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-04-22",
+    "2026-07-24"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27443:assignments:0"
+  },
+  {
+   "title": "Prognos för beställningsbemyndiganden",
+   "group": [],
+   "text": "Myndigheten ska redovisa en prognos för de förslag om beställningsbemyndiganden som lämnats i budgetunderlaget och för de åtaganden som ingåtts med stöd av äldre beställningsbemyndiganden. Prognosen ska lämnas senast den 24 juli 2026 via Statsredovisningssystemet i Hermes och utformas enligt närmare information från Statskontoret.",
+   "dates": [
+    "2026-07-24"
+   ],
+   "deadlines": [
+    "2026-07-24"
+   ],
+   "forecast_dates": [],
+   "recipients": [],
+   "partners": [
+    "Statskontoret"
+   ],
+   "channels": [
+    "hermes",
+    "budgetunderlag"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27443:assignments:1"
+  },
+  {
+   "title": "Undersöka kunskap bland myndigheter samt lämna förslag på kompetenshöjande insatser om artificiell intelligens (AI)",
+   "group": [],
+   "text": "Jämställdhetsmyndigheten ska, hos ett urval myndigheter som använder AI som beslutsstöd, undersöka användningen av den metod som Jämställdhetsmyndigheten har tagit fram för att motverka ojämställdhet vid användning av AI inom verksamheter. Myndigheten ska även vid behov lämna förslag på kompetenshöjande insatser om AI och jämställdhet riktad till myndigheter.\n\nJämställdhetsmyndigheten ska även analysera de nationella riktlinjerna för generativ AI inom offentlig verksamhet samt den framtagna modellen för att bedöma AI-lösningar (Förtroendemodellen) ur ett jämställdhetsperspektiv.\n\nJämställdhetsmyndigheten ska senast den 31 augusti 2026 lämna en muntlig delredovisning och senast den 29 oktober 2027 en skriftlig redovisning av uppdraget till Regeringskansliet (Arbetsmarknadsdepartementet).",
+   "dates": [
+    "2026-08-31",
+    "2027-10-29"
+   ],
+   "deadlines": [
+    "2026-08-31",
+    "2027-10-29"
+   ],
+   "recipients": [
+    "Regeringskansliet (Arbetsmarknadsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [
+    "muntlig",
+    "delredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "föreslå",
+    "digitalisering_ai"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27443:assignments:2"
+  },
+  {
+   "title": "Nationell informationssatsning och utbildningsinsats om hedersrelaterat våld och förtryck 2026–2028",
+   "group": [],
+   "text": "Jämställdhetsmyndigheten ska, i samverkan med Barnombudsmannen och länsstyrelserna, planera för att 2027 och 2028 genomföra en informationssatsning riktad till yrkesverksamma för att bl.a. informera om gällande lagstiftning och stödprocessen för våldsutsatta, liksom roller och ansvarsfördelning i arbetet mot hedersrelaterat våld och förtryck på nationell, regional och lokal nivå. I arbetet ingår att ta fram och sprida en uppdaterad myndighetsgemensam vägledning om hedersrelaterad brottslighet.\n\nJämställdhetsmyndigheten ska även, i samverkan med Barnombudsmannen och länsstyrelserna genomföra en informationssatsning som riktar sig till allmänheten, med särskilt fokus på hedersrelaterade utmaningar som kan vara vanligt förekommande i områden där utanförskapet är stort. Informationssatsningen ska omfatta information om stöd och skydd för utsatta.\n\nJämställdhetsmyndigheten ska, i samverkan med Barnombudsmannen och länsstyrelserna, inventera och vid behov uppdatera befintligt utbildningsutbud riktat till yrkesverksamma om hedersrelaterat våld och förtryck, inklusive bortföranden i hederskontexter. Vid behov ska nya utbildningar tas fram under 2027 och 2028, i samverkan med ytterligare relevanta aktörer, för att säkerställa att det finns utbildningar riktade till samtliga relevanta verksamheter med fokus på yrkesverksamma i skola och socialtjänst. Jämställdhetsmyndigheten ska under samma period genomföra utbildningar riktade till yrkesverksamma.\n\nUppdraget ska ha ett särskilt fokus på barn och vuxna i sårbara situationer.\n\nJämställdhetsmyndigeten ska vid uppdragets genomförande inhämta kunskap och erfarenheter från Brottsoffermyndigheten, Linköpings universitet (Barnafrid – Nationellt centrum för kunskap om våld mot barn), Myndigheten för delaktighet, Myndigheten för ungdoms- och civilsamhällesfrågor, Socialstyrelsen, Statens skolverk, Polismyndigheten, Uppsala universitet (Nationellt centrum för kvinnofrid) och Åklagarmyndigheten.\n\nJämställdhetsmyndigheten ska, med stöd av deltagande myndigheter, senast den 18 augusti 2026 lämna en delredovisning av uppdraget som ska innehålla en plan för uppdragets genomförande och vid behov förslag på ytterligare aktörer som bör bidra i uppdragets genomförande. Jämställdhetsmyndigheten ska, med stöd av deltagande myndigheter, senast den 30 mars 2027 lämna en delredovisning samt senast den 16 februari 2029 lämna en slutredovisning av uppdraget, inklusive förslag på fortsatta utvecklingsinsatser inom området samt resultat och effekter av arbetet till Regeringskansliet (Arbetsmarknadsdepartementet).",
+   "dates": [
+    "2026-08-18",
+    "2027-03-30",
+    "2029-02-16"
+   ],
+   "deadlines": [
+    "2026-08-18",
+    "2027-03-30",
+    "2029-02-16"
+   ],
+   "recipients": [
+    "Regeringskansliet (Arbetsmarknadsdepartementet)"
+   ],
+   "partners": [
+    "Barnombudsmannen",
+    "Brottsoffermyndigheten",
+    "Linköpings universitet",
+    "Myndigheten för delaktighet",
+    "Myndigheten för ungdoms- och civilsamhällesfrågor",
+    "Polismyndigheten",
+    "Socialstyrelsen",
+    "Statens skolverk",
+    "Uppsala universitet",
+    "länsstyrelserna",
+    "Åklagarmyndigheten"
+   ],
+   "channels": [
+    "delredovisning",
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "utveckla",
+    "informera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27443:assignments:3"
+  },
+  {
+   "title": "Ökad kunskap i det brottsförebyggande och våldsförebyggande arbetet",
+   "group": [],
+   "text": "Jämställdhetsmyndigheten och Brottsförebyggande rådet (Brå) ska sammanställa och beskriva kunskapsläget i Sverige gällande kopplingar mellan erfarenheter av våldsutsatthet i barndomen och att senare involveras och utnyttjas i kriminalitet. Uppdraget omfattar alla former av våld mot barn, inklusive sexuell exploatering, våld i nära relationer och hedersrelaterat våld och förtryck. Särskilt fokus ska läggas på gängrelaterade miljöer.\n\nMyndigheterna ska också kartlägga vilka insatser, metoder och arbetssätt som i dag används i Sverige, på universell, selekterad och indikerad preventionsnivå, som syftar till att motverka att barn som har utsatts för våld senare involveras och utnyttjas i kriminalitet. Myndigheterna ska, genom att kartlägga vilka kunskaps-, verksamhets- och samverkansluckor som finns, identifiera hur ansvar och roller mellan olika aktörer kan utvecklas eller förtydligas på nationell, regional och lokal nivå för att bättre förebygga gängkriminalitet på alla preventionsnivåer. Myndigheterna ska även lämna förslag på hur stöd till olika aktörer kan förbättras samt följa upp användningen av och vid behov revidera Metodstöd för kartläggning av tre våldstyper (Brå & Jämställdhetsmyndigheten 2022). Brå ska samordna uppdragets genomförande.\n\nBrå ska, med stöd av Jämställdhetsmyndigheten, redovisa uppdraget till Regeringskansliet (Justitiedepartementet med kopia till Arbetsmarknadsdepartementet och Socialdepartement) senast den 1 juli 2028.",
+   "dates": [
+    "2028-07-01"
+   ],
+   "deadlines": [
+    "2028-07-01"
+   ],
+   "recipients": [
+    "Regeringskansliet (Justitiedepartementet med kopia till Arbetsmarknadsdepartementet och Socialdepartement)"
+   ],
+   "partners": [
+    "Brottsförebyggande rådet"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "föreslå",
+    "samordna",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27443:assignments:4"
+  },
+  {
+   "title": "Kartlägga kunskapshöjande insatser för att nå hbtqi-personer med förebyggande arbete avseende sexuell exploatering",
+   "group": [],
+   "text": "Jämställdhetsmyndigheten ska kartlägga vilka kunskapshöjande insatser som behövs och hur arbetssätt behöver utvecklas för att nå hbtqi-personer med förebyggande arbete avseende sexuell exploatering, vilket omfattar utsatthet för prostitution och sexuellt utnyttjande i pornografiska syften, samt att öka upptäckten av utsatta. Särskilt fokus bör ligga på insatser som rör barn och unga. Uppdraget omfattar digitala dimensioner av våld. I genomförandet ska Jämställdhetsmyndigheten beakta att unga i stor utsträckning använder internet för positiva kontakter, vilket inte bör motverkas.\n\nJämställdhetsmyndigheten ska när uppdraget genomförs inhämta kunskap och erfarenhet från berörda myndigheter inklusive Uppsala universitet (Nationellt centrum för kvinnofrid).\n\nJämställdhetsmyndigheten ska senast den 30 december 2026 redovisa uppdraget till Regeringskansliet (Arbetsmarknadsdepartementet).",
+   "dates": [
+    "2026-12-30"
+   ],
+   "deadlines": [
+    "2026-12-30"
+   ],
+   "recipients": [
+    "Regeringskansliet (Arbetsmarknadsdepartementet)"
+   ],
+   "partners": [
+    "Uppsala universitet"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla",
+    "informera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27443:assignments:5"
+  },
+  {
+   "title": "Inventera nuläge och behov av utbildning avseende människohandel",
+   "group": [],
+   "text": "Jämställdhetsmyndigheten ska tillsammans med länsstyrelserna inventera behovet av utbildning om människohandel för personal i berörda yrkesgrupper. Inventeringen ska omfatta kunskap dels om den information som utsatta och riskgrupper behöver, dels om vilka åtgärder man bör vidta i mötet med utsatta och riskgrupper, med hänsyn till deras olika behov och förutsättningar. Jämställdhetsmyndigheten ska samordna genomförandet av uppdraget och redovisningen.\n\nJämställdhetsmyndigheten ska, med stöd av länsstyrelserna, senast den 30 oktober 2026 redovisa uppdraget till Regeringskansliet (Arbetsmarknadsdepartementet).",
+   "dates": [
+    "2026-10-30"
+   ],
+   "deadlines": [
+    "2026-10-30"
+   ],
+   "recipients": [
+    "Regeringskansliet (Arbetsmarknadsdepartementet)"
+   ],
+   "partners": [
+    "länsstyrelserna"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27443:assignments:6"
+  },
+  {
+   "title": "Stärka arbetet mot våld i nära relationer och hedersrelaterat våld och förtryck samt människohandel",
+   "group": [],
+   "text": "Jämställdhetsmyndigheten ska i relevanta delar bidra med kunskap om människohandel, inklusive hur unga rekryteras, involveras samt exploateras för brottslig verksamhet, utifrån sin nationella samordning och kunskapsutveckling avseende prostitution och människohandel, genom samverkan med aktörerna i den s.k. bob-strukturen (Ju2023/02529 och Ju2025/00846) och andra relevanta aktörer. Jämställdhetsmyndigheten ska även bidra med kunskap utifrån sina nationellt samordnande och kunskapsutvecklande uppdrag om att förebygga mäns våld mot kvinnor, våld i nära relationer och hedersrelaterat våld och förtryck, exempelvis om kopplingar mellan att utsättas för våld i barndomen och senare involvering i kriminalitet.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "samordna",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27443:assignments:7"
+  },
+  {
+   "title": "Förlängt uppdrag att samordna arbetet med att förebygga och bekämpa könsstympning",
+   "group": [],
+   "text": "Jämställdhetsmyndighetens uppdrag att samordna arbetet med att förebygga och bekämpa könsstympning av flickor och kvinnor, som gavs i Jämställdhetsmyndighetens regleringsbrev 2024, ändras på så sätt att uppdraget förlängs.\n\nJämställdhetsmyndigheten ska senast den 30 december 2027 redovisa uppdraget till Regeringskansliet (Arbetsmarknadsdepartementet).",
+   "dates": [
+    "2027-12-30"
+   ],
+   "deadlines": [
+    "2027-12-30"
+   ],
+   "recipients": [
+    "Regeringskansliet (Arbetsmarknadsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27443:assignments:8"
+  },
+  {
+   "title": "Kartlägga förekomsten av könsuppdelad simundervisning i kommunal regi",
+   "group": [],
+   "text": "Jämställdhetsmyndigheten ska genomföra en kartläggning av könsuppdelad simundervisning i kommunal regi, med utgångspunkt i de områden där utanförskapet är stort och risken för hedersrelaterat våld och förtryck bedöms vara särskilt hög. Myndigheten ska redovisa en samlad bedömning av omfattning, motiv och konsekvenser av detta.\n\nJämställdhetsmyndigheten ska senast den 25 september 2026 lämna en muntlig delredovisning och senast den 23 april 2027 en skriftlig redovisning av uppdraget till Regeringskansliet (Arbetsmarknadsdepartementet).",
+   "dates": [
+    "2026-09-25",
+    "2027-04-23"
+   ],
+   "deadlines": [
+    "2026-09-25",
+    "2027-04-23"
+   ],
+   "recipients": [
+    "Regeringskansliet (Arbetsmarknadsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [
+    "muntlig",
+    "delredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27443:assignments:9"
+  },
+  {
+   "title": "Tidigare givna uppdrag i regleringsbrev eller särskilda regeringsbeslut",
+   "group": [],
+   "text": "| | | |\n| --- | --- | --- |\n| **Sammanfattning av uppdraget** | **Beslut om uppdraget** | **Avrapporteringstidpunkt (senast)** |\n| Uppdrag att förbereda stöd till utsatta för prostitution och närliggande målgrupper | A2025/00637 | Delredovisning 13 mars 2026, slutredovisning 26 februari 2027 |\n| Sammanställa och sprida information om ekonomiska aspekter av våld i nära relationer | A2024/00777, A2025/00884 | Muntlig delredovisning senast den 28 maj 2026, slutredovisning den 15 december 2027 |\n| Förstärkning och förlängning av uppdrag att översätta och anpassa evidensbaserade program | Regleringsbrev 2024 | Fr.o.m. 2026 redovisa i årsredovisning och slutredovisning den 1 oktober 2030 |\n| Stöd till myndigheter avseende jämställdhetsintegrering | Regleringsbrev 2024 | Slutredovisning av JIM den 17 april 2026 och slutredovisning av statliga universitet och högskolor den 17 april 2026 |\n| Könsbundna studie och yrkesval | Regleringsbrev 2024 | Slutredovisning den 15 april 2026 |\n| Internationella aktiviteter på området ekonomisk egenmakt och jämställdhet samt utgöra expertstöd | Regleringsbrev 2024 | Slutredovisning den 31 mars 2027 |\n| Fortsätta att sprida kunskap om erfarenheter av hedersförtryck samt annat våld och förtryck kopplat till utlandsvistelse | Regleringsbrev 2024 | Slutredovisning den 30 april 2026 |\n| Stödja Tillväxtverkets uppdrag att främja kvinnors företagande | Regleringsbrev 2024 | Redovisas till Tillväxtverket (KN2024/00614) 2025 och 2026 |\n| Uppdrag om de digitala dimensionerna av mäns våld mot kvinnor, våld i nära relationer, hedersrelaterat våld och förtryck samt prostitution och människohandel | A2024/00815 | Redovisas den 27 februari 2026 |\n| Ändring av uppdraget att inrätta regionala center mot arbetslivskriminalitet och om varaktig myndighetssamverkan | A2024/01109 | Uppdraget ska, i stället för vad som anges i tidigare beslut (A2022/00333 och A2023/01693), årligen och senast den 31 mars 2025–2027 redovisas av Arbetsmiljöverket. Redovisningen ska tas fram tillsammans med övriga myndigheter som omfattas av uppdraget. |\n| Myndighetsgemensamt uppdrag att stärka och främja sexuell och reproduktiv hälsa och rättigheter | A2024/01236 Uppdraget finansieras under 2026 genom anslag 3:1 särskilda jämställdhetsåtgärder, anslagsposten 2 del till Jämställdhetsmyndigheten | Slutredovisning den 31 mars 2028 |\n| Mäns våld mot kvinnor, annat våld i nära relationer samt hedersrelaterat våld och förtryck mot barn och vuxna som tillhör de nationella minoriteterna | Ku2024/00383 | Muntlig delredovisning senast den 31 mars 2026 samt slutredovisning den 31 mars 2027 |\n| Samordna och följa upp myndigheters arbete med skyddade personuppgifter | Regleringsbrev 2023 | Slutredovisning den 31 mars 2027 |\n| Implementera myndighetsgemensam plan för att öka utrikesfödda kvinnors inträde på arbetsmarknaden | A2023/00923 | Arbetsförmedlingen ska slutredovisa den 31 mars 2026 |\n| Kunskaps- och forskningsöversikt om hedersrelaterat våld och förtryck med internationella perspektiv samt att genomföra kompetenshöjande insatser | A2023/01354 | Slutredovisning den 17 januari 2026 |\n| Uppdrag att inrätta och medverka i ett nationellt analysnätverk för hållbar regional utveckling i hela landet 2022–2030 | N2022/01543 | Löpande |\n| Uppdrag att samordna, stödja och följa upp genomförandet av den nationella strategin inom området psykisk hälsa och suicidprevention | S2025/00016 | Delredovisning av Folkhälsomyndigheten och Socialstyrelsen senast den 19 december 2026 respektive den 19 december 2027. Slutredovisning av Folkhälsomyndigheten och Socialstyrelsen senast den 19 december 2028. |\n| Uppdrag att genomföra kunskapshöjande insatser om hur flickor och unga kvinnor påverkas av användningen av sociala medier ur ett jämställdhetsperspektiv | A2025/01204 | Muntlig delrapport före utgången av maj 2026, slutredovisning senast den 15 december 2027 |\n| Uppdrag att delta i en nationell samverkansstruktur och utveckla arbetet mot våld, förtryck och utnyttjande | A2026/00420 | Delredovisning senast den 10 juni 2027, slutredovisning senast den 20 januari 2029 |\n| Uppdrag om uppföljning av delmålen mot våld, förtryck och utnyttjande och nollvisionen för dödligt våld mot kvinnor | A2026/00417 | Delredovisning senast den 1 september 2026, slutredovisning senast den 28 september 2028 |",
+   "dates": [
+    "2025-03-31",
+    "2026-01-17",
+    "2026-02-27",
+    "2026-03-13",
+    "2026-03-31",
+    "2026-04-15",
+    "2026-04-17",
+    "2026-04-30",
+    "2026-05-28",
+    "2026-09-01",
+    "2026-12-19",
+    "2027-02-26",
+    "2027-03-31",
+    "2027-06-10",
+    "2027-12-15",
+    "2027-12-19",
+    "2028-03-31",
+    "2028-09-28",
+    "2028-12-19",
+    "2029-01-20",
+    "2030-10-01"
+   ],
+   "deadlines": [
+    "2025-03-31",
+    "2026-03-31",
+    "2026-05-28",
+    "2026-09-01",
+    "2026-12-19",
+    "2027-06-10",
+    "2027-12-15",
+    "2028-09-28",
+    "2028-12-19",
+    "2029-01-20"
+   ],
+   "recipients": [
+    "Tillväxtverket"
+   ],
+   "partners": [
+    "Arbetsförmedlingen",
+    "Arbetsmiljöverket",
+    "Folkhälsomyndigheten",
+    "Socialstyrelsen",
+    "Tillväxtverket",
+    "universitet och högskolor"
+   ],
+   "channels": [
+    "årsredovisning",
+    "muntlig",
+    "delredovisning",
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna",
+    "utveckla",
+    "informera",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [
+    "3:1"
+   ],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "27443:assignments:10"
+  },
+  {
+   "title": "Nationell kampanj mot dödligt våld",
+   "group": [],
+   "text": "Jämställdhetsmyndigheten ska, mot bakgrund av regeringens nollvision för dödligt våld mot kvinnor, genomföra en nationell informationskampanj för att öka kunskapen hos allmänheten om hur det dödliga våldet mot kvinnor och flickor kan förebyggas och stoppas samt öka kunskapen om var våldsutsatta kan få stöd och skydd.\n\nJämställdhetsmyndigheten ska senast den 30 april 2027 redovisa uppdraget till Regeringskansliet (Arbetsmarknadsdepartementet).\n\nFör uppdraget får Jämställdhetsmyndigheten under 2026 använda högst 10 000 000 kronor som ska redovisas mot det under utgiftsområdet 13 Integration och jämställdhet för budgetår 2026 uppförda anslaget 3:1 Särskilda jämställdhetsåtgärder, anslagspost 2 Särskilda jämställdhetsåtgärder – del till Jämställdhetsmyndigheten.",
+   "dates": [
+    "2027-04-30"
+   ],
+   "deadlines": [
+    "2027-04-30"
+   ],
+   "recipients": [
+    "Regeringskansliet (Arbetsmarknadsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla"
+   ],
+   "anslag_refs": [
+    "3:1"
+   ],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27443:assignments:11"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "3:2",
+   "name": "Jämställdhetsmyndigheten",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 13,
+    "name": "Integration och jämställdhet"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Jämställdhetsmyndigheten",
+     "amount_tkr": 188197,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Jämställdhetsmyndigheten (ram)",
+       "amount_tkr": 188197
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Jämställdhetsmyndigheten",
+     "text": "Anslaget får användas för Jämställdhetsmyndighetens förvaltningsutgifter."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "3:3",
+   "name": "Bidrag för kvinnors organisering",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 13,
+    "name": "Integration och jämställdhet"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Jämställdhetsmyndigheten",
+     "amount_tkr": 48163,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Bidrag för kvinnors organisering (ram)",
+       "amount_tkr": 48163
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Bidrag för kvinnors organisering",
+     "text": "48 163 000 kronor får användas för utgifter för statsbidrag för kvinnors organisering i enlighet med förordningen (2023:168) om statsbidrag för kvinnors och flickors organisering. Av medlen får myndigheten använda högst 1 500 000 kronor för administration av bidraget."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "1",
+     "max": 1500000,
+     "unit": "kronor"
+    }
+   ]
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "3:2 Jämställdhetsmyndigheten",
+   "ap": "ap.1",
+   "Anslagskredit": 5645,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "3:3 Bidrag för kvinnors organisering",
+   "ap": "ap.1",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 15000,
+  "Räntekontokredit": 10000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 15683
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 15683
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 15683
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 15683
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 15683
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 15683
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 15683
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 15683
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 15683
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 15683
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 15683
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 15684
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "3:2 Jämställdhetsmyndigheten",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "5 645",
+     "3 %",
+     "0"
+    ],
+    [
+     "3:3 Bidrag för kvinnors organisering",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "0",
+     "Inget",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Beställningsbemyndiganden",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Bemyndigande",
+     "Utgifter mot anslag till följd av ekonomiska åtaganden",
+     "",
+     "",
+     ""
+    ],
+    [
+     "2026",
+     "2027",
+     "2028",
+     "2029 -",
+     "Slutår"
+    ],
+    [
+     "3:3 Bidrag för kvinnors organisering",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "48 163",
+     "48 163",
+     "",
+     "",
+     "2027"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "15 000"
+    ],
+    [
+     "Räntekontokredit",
+     "10 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "15 683"
+    ],
+    [
+     "2026-02-25",
+     "15 683"
+    ],
+    [
+     "2026-03-25",
+     "15 683"
+    ],
+    [
+     "2026-04-25",
+     "15 683"
+    ],
+    [
+     "2026-05-25",
+     "15 683"
+    ],
+    [
+     "2026-06-25",
+     "15 683"
+    ],
+    [
+     "2026-07-25",
+     "15 683"
+    ],
+    [
+     "2026-08-25",
+     "15 683"
+    ],
+    [
+     "2026-09-25",
+     "15 683"
+    ],
+    [
+     "2026-10-25",
+     "15 683"
+    ],
+    [
+     "2026-11-25",
+     "15 683"
+    ],
+    [
+     "2026-12-25",
+     "15 684"
+    ],
+    [
+     "Summa",
+     "188 197"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "3:2 ap.1",
+     "Jämställdhetsmyndigheten"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Avgiftsbelagd verksamhet där intäkterna disponeras",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Utbildnings- och konferensverksamhet1",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0"
+    ]
+   ]
+  }
+ ],
+ "has_fee_section": true,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 1,
+  "n_org": 1,
+  "n_assignments": 12,
+  "n_deadlines": 23,
+  "deadlines": [
+   "2025-03-31",
+   "2026-03-31",
+   "2026-05-28",
+   "2026-07-24",
+   "2026-08-18",
+   "2026-08-31",
+   "2026-09-01",
+   "2026-09-25",
+   "2026-10-30",
+   "2026-12-19",
+   "2026-12-30",
+   "2027-03-30",
+   "2027-04-23",
+   "2027-04-30",
+   "2027-06-10",
+   "2027-10-29",
+   "2027-12-15",
+   "2027-12-30",
+   "2028-07-01",
+   "2028-09-28",
+   "2028-12-19",
+   "2029-01-20",
+   "2029-02-16"
+  ],
+  "partners": [
+   "Arbetsförmedlingen",
+   "Arbetsmiljöverket",
+   "Barnombudsmannen",
+   "Brottsförebyggande rådet",
+   "Brottsoffermyndigheten",
+   "Folkhälsomyndigheten",
+   "Linköpings universitet",
+   "Myndigheten för delaktighet",
+   "Myndigheten för ungdoms- och civilsamhällesfrågor",
+   "Polismyndigheten",
+   "Socialstyrelsen",
+   "Statens skolverk",
+   "Statskontoret",
+   "Tillväxtverket",
+   "Uppsala universitet",
+   "länsstyrelserna",
+   "universitet och högskolor",
+   "Åklagarmyndigheten"
+  ],
+  "n_appropriations": 2,
+  "appropriations_total_tkr": 236360,
+  "payment_plan_total_tkr": 188197,
+  "md_chars": 22241
+ },
+ "layout": "standard",
+ "warnings": []
+}

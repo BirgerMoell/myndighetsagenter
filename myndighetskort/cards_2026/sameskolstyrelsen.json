@@ -1,0 +1,317 @@
+{
+ "schema_version": 1,
+ "id": 25953,
+ "original_rbid": 25953,
+ "type": "Regleringsbrev",
+ "category": "Myndighet",
+ "date": "2025-12-18",
+ "year": "2026",
+ "name": "Sameskolstyrelsen",
+ "slug": "sameskolstyrelsen",
+ "department": "Utbildningsdepartementet",
+ "expenditure_areas": [
+  16
+ ],
+ "registry_numbers": [
+  "U2025/02412 (delvis)"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1"
+  ],
+  "bet": [
+   "2025/26:UbU1"
+  ],
+  "rskr": [
+   "2025/26:124"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "Staten är enligt 2 kap. 4 § skollagen (2010:800) genom Sameskolstyrelsen huvudman för sameskolan samt förskoleklass och fritidshem vid en skolenhet med sameskola.",
+ "goals": [],
+ "org": [],
+ "assignments": [
+  {
+   "title": "Prognoser",
+   "group": [],
+   "text": "Myndigheten ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Prognoserna lämnas i informationssystemet Hermes senast den\n\n– 2 februari\n\n– 22 april\n\n– 24 juli\n\n– 9 november.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "25953:assignments:0"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "1:4",
+   "name": "Sameskolstyrelsen",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 16,
+    "name": "Utbildning och universitetsforskning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Sameskolstyrelsen",
+     "amount_tkr": 68698,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Sameskolstyrelsen (ram)",
+       "amount_tkr": 68698
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "1:4 Sameskolstyrelsen",
+   "ap": "ap.1",
+   "Anslagskredit": 2060,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 3000,
+  "Räntekontokredit": 9000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 5725
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 5725
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 5725
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 5725
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 5725
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 5725
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 5725
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 5725
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 5725
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 5725
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 5725
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 5723
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:4 Sameskolstyrelsen",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "2 060",
+     "3 %",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "3 000"
+    ],
+    [
+     "Räntekontokredit",
+     "9 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "5 725"
+    ],
+    [
+     "2026-02-25",
+     "5 725"
+    ],
+    [
+     "2026-03-25",
+     "5 725"
+    ],
+    [
+     "2026-04-25",
+     "5 725"
+    ],
+    [
+     "2026-05-25",
+     "5 725"
+    ],
+    [
+     "2026-06-25",
+     "5 725"
+    ],
+    [
+     "2026-07-25",
+     "5 725"
+    ],
+    [
+     "2026-08-25",
+     "5 725"
+    ],
+    [
+     "2026-09-25",
+     "5 725"
+    ],
+    [
+     "2026-10-25",
+     "5 725"
+    ],
+    [
+     "2026-11-25",
+     "5 725"
+    ],
+    [
+     "2026-12-25",
+     "5 723"
+    ],
+    [
+     "Summa",
+     "68 698"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "1:4 ap.1",
+     "Sameskolstyrelsen"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Offentligrättslig verksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Avgifter för elever i sameskolan m.m.3",
+     "60 225"
+    ]
+   ]
+  }
+ ],
+ "has_fee_section": true,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 0,
+  "n_org": 0,
+  "n_assignments": 1,
+  "n_deadlines": 0,
+  "deadlines": [],
+  "partners": [],
+  "n_appropriations": 1,
+  "appropriations_total_tkr": 68698,
+  "payment_plan_total_tkr": 68698,
+  "md_chars": 4476
+ },
+ "layout": "standard",
+ "warnings": []
+}

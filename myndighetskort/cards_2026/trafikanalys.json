@@ -1,0 +1,390 @@
+{
+ "schema_version": 1,
+ "id": 25946,
+ "original_rbid": 25946,
+ "type": "Regleringsbrev",
+ "category": "Myndighet",
+ "date": "2025-12-18",
+ "year": "2026",
+ "name": "Trafikanalys",
+ "slug": "trafikanalys",
+ "department": "Landsbygds- och infrastrukturdepartementet",
+ "expenditure_areas": [
+  22
+ ],
+ "registry_numbers": [
+  "LI2025/00423",
+  "LI2025/02157 (delvis)",
+  "LI2025/02191"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1"
+  ],
+  "bet": [
+   "2025/26:TU1"
+  ],
+  "rskr": [
+   "2025/26:127"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "",
+ "goals": [
+  {
+   "title": "Färdval och resepolicy vid tjänsteresor",
+   "group": [],
+   "text": "Alla trafikslag ska kunna nyttjas (väg, järnväg, luft- och sjöfart) för att säkerställa effektiva och ändamålsenliga transporter. Trafikanalys ska därför redovisa hur myndigheten har säkerställt att val av färdsätt vid tjänsteresor sker färdmedelsneutralt och utifrån behov. Vidare ska Trafikanalys redovisa huruvida myndigheten köpt in hållbart flygbränsle till organisationens flygresor. När kostnader jämförs för olika färdval ska hela resans kostnad beaktas, exempelvis kostnader för nödvändig övernattning samt total arbetstid för hela resan.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25946:goals:0"
+  }
+ ],
+ "org": [],
+ "assignments": [
+  {
+   "title": "Prognoser",
+   "group": [],
+   "text": "Trafikanalys ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Prognoserna lämnas i informationssystemet Hermes senast den\n\n– 2 februari,\n\n– 22 april,\n\n– 24 juli, och\n\n– 9 november.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "25946:assignments:0"
+  },
+  {
+   "title": "Pågående uppdrag",
+   "group": [],
+   "text": "Nedan redovisas Trafikanalys pågående uppdrag. För regeringsuppdrag som lämnats i ett särskilt regeringsbeslut utgör tabellen endast en upplysning om vilka uppdrag som vid årets början var riktade till myndigheten och vilka tider som då gällde för återrapportering eller liknande.\n\n| | | |\n| --- | --- | --- |\n| **Uppdrag** | **Beslut om uppdraget** | **Redovisningstidpunkt** |\n| Uppdrag att genomföra en granskning och uppföljning av Trafikverkets arbete med kostnadskontroll i syfte att förbättra Trafikverkets rutiner och arbetssätt. | Den 25 augusti 2022 I2021/01644 I2021/01049 | Delredovisningar den 30 april 2024–2027 samt slutredovisning den 30 april 2028. |\n| Uppdrag att följa upp etappmålet om ökad gång-, cykel- och kollektivtrafik. | Den 30 augusti 2018 N2018/04588 | Årligen, dock senast den 15 april. |\n| Uppdrag att inrätta och medverka i ett nationellt analysnätverk för hållbar regional utveckling i hela landet 2022–2030. | Den 30 juni 2022 N2022/01543 | Deltagande 2022–2030. |\n| Uppdrag att utveckla statistiken för elektrifieringen inom transportområdet. | Den 16 mars 2023 I2023/02047 | Delredovisning den 15 januari 2024, därefter årliga redovisningar samt slutredovisning i årsredovisningen för 2026. |\n| Uppdrag att se över berörda myndigheters administrativa kostnader i samband med uttag av trängselskatt i Stockholm och Göteborg. | Den 8 maj 2025 LI2025/00423 | Slutredovisning den 15 januari 2026. |",
+   "dates": [
+    "2018-08-30",
+    "2022-06-30",
+    "2022-08-25",
+    "2023-03-16",
+    "2024-01-15",
+    "2024-04-30",
+    "2025-05-08",
+    "2026-01-15",
+    "2028-04-30"
+   ],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Trafikverket"
+   ],
+   "channels": [
+    "årsredovisning",
+    "delredovisning",
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla",
+    "tillsyn_kontroll",
+    "statistik_data"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "25946:assignments:1"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "1:13",
+   "name": "Trafikanalys",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 22,
+    "name": "Kommunikationer"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Trafikanalys",
+     "amount_tkr": 78068,
+     "items": [
+      {
+       "ap": "2",
+       "name": "Trafikanalys - del till Trafikanalys (ram)",
+       "amount_tkr": 78068
+      }
+     ],
+     "sum_ok": true
+    },
+    {
+     "by": "Kammarkollegiet",
+     "amount_tkr": 2200,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Trafikanalys - Maritim strategi (ram)",
+       "amount_tkr": 2200
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Trafikanalys - Maritim strategi",
+     "text": "Anslagsposten får användas för statistik-, utvärderings- och analysverksamhet avseende maritima näringar. Medlen utbetalas av Kammarkollegiet efter beslut från Regeringskansliet (Landsbygds- och infrastrukturdepartementet)."
+    },
+    {
+     "ap": "2",
+     "name": "Trafikanalys - del till Trafikanalys",
+     "text": "Anslagsposten får användas av Trafikanalys för finansiering av myndighetens förvaltningsutgifter. Medel på anslagsposten omfattar även myndighetens kostnader för statistik-, utvärderings- och analysverksamhet inom transportområdet."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "1:13 Trafikanalys",
+   "ap": "ap.1",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:13 Trafikanalys",
+   "ap": "ap.2",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 2200,
+  "Räntekontokredit": 2500
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 6506
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 6506
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 6506
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 6506
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 6506
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 6506
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 6506
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 6506
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 6506
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 6506
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 6506
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 6502
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:13 Trafikanalys",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "0",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.2",
+     "0",
+     "3 %",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "2 200"
+    ],
+    [
+     "Räntekontokredit",
+     "2 500"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "6 506"
+    ],
+    [
+     "2026-02-25",
+     "6 506"
+    ],
+    [
+     "2026-03-25",
+     "6 506"
+    ],
+    [
+     "2026-04-25",
+     "6 506"
+    ],
+    [
+     "2026-05-25",
+     "6 506"
+    ],
+    [
+     "2026-06-25",
+     "6 506"
+    ],
+    [
+     "2026-07-25",
+     "6 506"
+    ],
+    [
+     "2026-08-25",
+     "6 506"
+    ],
+    [
+     "2026-09-25",
+     "6 506"
+    ],
+    [
+     "2026-10-25",
+     "6 506"
+    ],
+    [
+     "2026-11-25",
+     "6 506"
+    ],
+    [
+     "2026-12-25",
+     "6 502"
+    ],
+    [
+     "Summa",
+     "78 068"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "1:13 ap.2",
+     "Trafikanalys - del till Trafikanalys"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [],
+ "has_fee_section": false,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 1,
+  "n_org": 0,
+  "n_assignments": 2,
+  "n_deadlines": 0,
+  "deadlines": [],
+  "partners": [
+   "Trafikverket"
+  ],
+  "n_appropriations": 1,
+  "appropriations_total_tkr": 80268,
+  "payment_plan_total_tkr": 78068,
+  "md_chars": 5899
+ },
+ "layout": "standard",
+ "warnings": []
+}

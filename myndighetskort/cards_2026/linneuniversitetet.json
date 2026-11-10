@@ -1,0 +1,631 @@
+{
+ "schema_version": 1,
+ "id": 25813,
+ "original_rbid": 25813,
+ "type": "Regleringsbrev",
+ "category": "Myndighet",
+ "date": "2025-12-18",
+ "year": "2026",
+ "name": "Linnéuniversitetet",
+ "slug": "linneuniversitetet",
+ "department": "Utbildningsdepartementet",
+ "expenditure_areas": [
+  16
+ ],
+ "registry_numbers": [
+  "U2025/00964",
+  "U2025/02412 (delvis)"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1"
+  ],
+  "bet": [
+   "2025/26:UbU1"
+  ],
+  "rskr": [
+   "2025/26:124"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "Gemensamma bestämmelser för universitet och högskolor finns i regleringsbrev för budgetåret 2026 avseende universitet och högskolor.",
+ "goals": [
+  {
+   "title": "Särskilda åtaganden",
+   "group": [],
+   "text": "**1. Linnéuniversitetet ska varje läsår erbjuda fortbildning av journalister. Verksamheten ska redovisas i årsredovisningen.**\n\n**2. Linnéuniversitetet ska utveckla och genomföra utbildningsinsatser till enskilda journalister och redaktioner för att stärka deras arbete med att förebygga och hantera utsatthet för hot och hat. Uppdraget ska redovisas senast den 31 mars 2027 till Regeringskansliet (Arbetsmarknadsdepartementet och Kulturdepartementet med kopia till Utbildningsdepartementet). Av redovisningen ska framgå vilka insatser som gjorts samt vilka resultat uppdraget bedöms ha bidragit till för målgruppen.**",
+   "dates": [
+    "2027-03-31"
+   ],
+   "deadlines": [
+    "2027-03-31"
+   ],
+   "recipients": [
+    "Regeringskansliet (Arbetsmarknadsdepartementet och Kulturdepartementet med kopia till Utbildningsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [
+    "årsredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25813:goals:0"
+  },
+  {
+   "title": "Rekryteringsmål för professorer",
+   "group": [
+    "Mål"
+   ],
+   "text": "Under 2025–2028 har lärosätet ett mål för könsfördelningen bland nyrekryterade professorer om 49 procent kvinnor.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25813:goals:1"
+  },
+  {
+   "title": "Mål för antal examina",
+   "group": [
+    "Mål"
+   ],
+   "text": "Under 2025–2028 har lärosätet mål om antal utfärdade examina från vissa utbildningar inom nedan angivna områden. Målen och de examina som omfattas av dessa anges i tabellen nedan. Lärosätet ska i årsredovisningen redovisa antalet utfärdade examina inom respektive område de senaste tre åren för de yrkesexamina som anges i tabellen samt vilka åtgärder som har vidtagits för att uppnå målen.\n\n| | |\n| --- | --- |\n| **Område (examina som omfattas av målet inom parentes)** | **Mål för antal utfärdade examina under 2025–2028** |\n| Lärar- och förskollärarutbildningar (förskollärarexamina, grundlärarexamina, speciallärarexamina, specialpedagogexamina, yrkeslärarexamina och ämneslärarexamina) | 2 720 |\n| Hälso- och sjukvårdsutbildningar (barnmorskeexamina, biomedicinsk analytikerexamina, sjuksköterskeexamina och specialistsjuksköterskeexamina) | 1 595 |",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "årsredovisning"
+   ],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25813:goals:2"
+  },
+  {
+   "title": "Mål för andel biträdande lektorer",
+   "group": [
+    "Mål"
+   ],
+   "text": "Under 2025–2028 har Linnéuniversitetet ett mål att 3 procent av samtlig forskande och undervisande personal (heltidsekvivalenter) ska vara biträdande lektorer.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25813:goals:3"
+  }
+ ],
+ "org": [],
+ "assignments": [],
+ "appropriations": [
+  {
+   "code": "2:23",
+   "name": "Linnéuniversitetet: Utbildning på grundnivå och avancerad nivå",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 16,
+    "name": "Utbildning och universitetsforskning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Linnéuniversitetet",
+     "amount_tkr": 1283484,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Takbelopp (ram)",
+       "amount_tkr": 1283484
+      },
+      {
+       "ap": "1.1",
+       "name": "Takbelopp (ram)",
+       "amount_tkr": 1283484
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1.1",
+     "name": "Takbelopp",
+     "text": "Anslagsposten får användas för högskoleutbildning på grundnivå och avancerad nivå samt behörighetsgivande och högskoleintroducerande utbildning.\nAnvisningar för avräkning av helårsstudenter och helårsprestationer finns i bilaga till regleringsbrev avseende universitet och högskolor.\nAv anslagsposten avser 4 486 000 kronor medel för försöksverksamhet med kompletterande pedagogisk utbildning."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "2:24",
+   "name": "Linnéuniversitetet: Forskning och utbildning på forskarnivå",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 16,
+    "name": "Utbildning och universitetsforskning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Linnéuniversitetet",
+     "amount_tkr": 429188,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Basresurs (ram)",
+       "amount_tkr": 429188
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Basresurs",
+     "text": "Anslagsposten får användas för forskning och utbildning på forskarnivå.\nAv anslaget avser 677 000 kronor medel för Institutet för kunskaps- och metodutveckling."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "2:65",
+   "name": "Särskilda medel till universitet och högskolor",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 16,
+    "name": "Utbildning och universitetsforskning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Linnéuniversitetet",
+     "amount_tkr": 34092,
+     "items": [
+      {
+       "ap": "21",
+       "name": "Fortbildning för journalister (ram)",
+       "amount_tkr": 14510
+      },
+      {
+       "ap": "22",
+       "name": "Utrustning till sjöbefälsutbildning (ram)",
+       "amount_tkr": 15478
+      },
+      {
+       "ap": "38",
+       "name": "Holdingbolag (ram)",
+       "amount_tkr": 680
+      },
+      {
+       "ap": "54",
+       "name": "Forskningsanknytning av polisutbildningen (ram)",
+       "amount_tkr": 1069
+      },
+      {
+       "ap": "89",
+       "name": "Medel för studenthälsa (ram)",
+       "amount_tkr": 2355
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "21",
+     "name": "Fortbildning för journalister",
+     "text": "Anslagsposten får användas för fortbildning för journalister."
+    },
+    {
+     "ap": "22",
+     "name": "Utrustning till sjöbefälsutbildning",
+     "text": "Anslagsposten får användas för utrustning och relaterade kostnader för drift och underhåll av utrustningen samt för ersättning för praktikkostnader på sjöbefälsutbildningen."
+    },
+    {
+     "ap": "38",
+     "name": "Holdingbolag",
+     "text": "Anslagsposten får användas för idébanksmedel och kapitaltillskott till holdingbolag vid lärosätet för finansiering av verksamhet som syftar till att främja kommersialisering av forskningsresultat och innovationer.\nLinnéuniversitetet bemyndigas att under 2026 utbetala ett kapitaltillskott på högst 250 000 kronor till holdingbolaget som är knutet till lärosätet. Kapitaltillskottet ska finansiera kostnader för verksamhet som bedrivs i form av en idébank och får lämnas i enlighet med förordningen (2022:1390) om statligt stöd för idébanker inom holdingbolag vid universitet och högskolor.\nLinnéuniversitetet bemyndigas att under 2026 utbetala ett kapitaltillskott på högst 430 000 kronor till holdingbolaget som är knutet till lärosätet. Kapitaltillskottet ska finansiera kostnader för verksamhet som syftar till att främja kommersialisering av forskningsresultat och innovationer och får lämnas i enlighet med förordningen (2025:727) om statligt stöd för innovationsverksamhet inom holdingbolag vid universitet och högskolor."
+    },
+    {
+     "ap": "54",
+     "name": "Forskningsanknytning av polisutbildningen",
+     "text": "Anslagsposten får användas för att stärka forskningsanknytningen av polisutbildning."
+    },
+    {
+     "ap": "89",
+     "name": "Medel för studenthälsa",
+     "text": "Anslagsposten får användas för att stärka studenthälsan och bl.a. möjliggöra mer preventivt arbete för att minska studenternas psykiska och fysiska ohälsa samt stärka stödet för studieovana studenter. Av medlen avser 1 010 000 kronor arbete med att särskilt främja psykisk hälsa bland studenter."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "38",
+     "max": 250000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "38",
+     "max": 430000,
+     "unit": "kronor"
+    }
+   ]
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "2:23 Linnéuniversitetet: Utbildning på grundnivå och avancerad nivå",
+   "ap": "ap.1.1",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "10 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:24 Linnéuniversitetet: Forskning och utbildning på forskarnivå",
+   "ap": "ap.1",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Allt",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.21",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.22",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.38",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.54",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.89",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 210000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 145564
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 145564
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 145564
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 145564
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 145564
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 145564
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 145564
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 145564
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 145564
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 145564
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 145564
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 145560
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "2:23 Linnéuniversitetet: Utbildning på grundnivå och avancerad nivå",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1.1",
+     "0",
+     "10 %",
+     "0"
+    ],
+    [
+     "2:24 Linnéuniversitetet: Forskning och utbildning på forskarnivå",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "0",
+     "Allt",
+     "0"
+    ],
+    [
+     "2:65 Särskilda medel till universitet och högskolor",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.21",
+     "0",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.22",
+     "0",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.38",
+     "0",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.54",
+     "0",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.89",
+     "0",
+     "3 %",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Omfördelning av anslagssparande",
+   "rows": [
+    [
+     "Omfördelning från anslag/ap1",
+     "Omfördelning till anslag/ap2",
+     "Belopp (tkr)",
+     "Belopp andel (%)"
+    ],
+    [
+     "2:23 Linnéuniversitetet: Utbildning på grundnivå och avancerad nivå",
+     "",
+     "",
+     ""
+    ],
+    [
+     "2:23 ap.1.2",
+     "2:23 ap.1.1",
+     "100 %"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Avslutade anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagstyp"
+    ],
+    [
+     "2:23 Linnéuniversitetet: Utbildning på grundnivå och avancerad nivå",
+     ""
+    ],
+    [
+     "ap.1.2",
+     "ram"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "210 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "145 564"
+    ],
+    [
+     "2026-02-25",
+     "145 564"
+    ],
+    [
+     "2026-03-25",
+     "145 564"
+    ],
+    [
+     "2026-04-25",
+     "145 564"
+    ],
+    [
+     "2026-05-25",
+     "145 564"
+    ],
+    [
+     "2026-06-25",
+     "145 564"
+    ],
+    [
+     "2026-07-25",
+     "145 564"
+    ],
+    [
+     "2026-08-25",
+     "145 564"
+    ],
+    [
+     "2026-09-25",
+     "145 564"
+    ],
+    [
+     "2026-10-25",
+     "145 564"
+    ],
+    [
+     "2026-11-25",
+     "145 564"
+    ],
+    [
+     "2026-12-25",
+     "145 560"
+    ],
+    [
+     "Summa",
+     "1 746 764"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "2:23 ap.1.1",
+     "Takbelopp"
+    ],
+    [
+     "2:24 ap.1",
+     "Basresurs"
+    ],
+    [
+     "2:65 ap.21",
+     "Fortbildning för journalister"
+    ],
+    [
+     "2:65 ap.22",
+     "Utrustning till sjöbefälsutbildning"
+    ],
+    [
+     "2:65 ap.38",
+     "Holdingbolag"
+    ],
+    [
+     "2:65 ap.54",
+     "Forskningsanknytning av polisutbildningen"
+    ],
+    [
+     "2:65 ap.89",
+     "Medel för studenthälsa"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [],
+ "has_fee_section": true,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 4,
+  "n_org": 0,
+  "n_assignments": 0,
+  "n_deadlines": 1,
+  "deadlines": [
+   "2027-03-31"
+  ],
+  "partners": [],
+  "n_appropriations": 3,
+  "appropriations_total_tkr": 1746764,
+  "payment_plan_total_tkr": 1746764,
+  "md_chars": 9938
+ },
+ "layout": "standard",
+ "warnings": []
+}

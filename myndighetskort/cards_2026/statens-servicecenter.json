@@ -1,0 +1,526 @@
+{
+ "schema_version": 1,
+ "id": 26393,
+ "original_rbid": 26115,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-06-11",
+ "year": "2026",
+ "name": "Statens servicecenter",
+ "slug": "statens-servicecenter",
+ "department": "Finansdepartementet",
+ "expenditure_areas": [
+  2
+ ],
+ "registry_numbers": [
+  "Fi2026/01451"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1"
+  ],
+  "bet": [
+   "2025/26:FiU2"
+  ],
+  "rskr": [
+   "2025/26:133"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "Myndighetens huvudsakliga uppgifter framgår av förordningen (2012:208) med instruktion för Statens servicecenter.",
+ "goals": [
+  {
+   "title": "Anslutning tjänsteområden",
+   "group": [],
+   "text": "Statens servicecenter ska verka för att antalet myndigheter som är anslutna till myndighetens administrativa standardtjänster ökar. Myndigheten ska redovisa en bedömning avseende anslutningsgrad, mätt i antal statsanställda och antal myndigheter, för perioden 2026–2028.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26393:goals:0"
+  },
+  {
+   "title": "Besöksstatistik",
+   "group": [],
+   "text": "Myndigheten ska redogöra för besöksutvecklingen i servicekontorsnätet, och särskilt för utvecklingen i olika typer av geografiska områden.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "statistik_data"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26393:goals:1"
+  },
+  {
+   "title": "Färdval och resepolicy vid tjänsteresor",
+   "group": [],
+   "text": "Alla trafikslag ska kunna nyttjas (väg, järnväg, luft- och sjöfart) för att säkerställa effektiva och ändamålsenliga transporter. Myndigheten ska därför redovisa hur den har säkerställt att val av färdsätt vid tjänsteresor sker färdmedelsneutralt och utifrån behov. Vidare ska myndigheten redovisa huruvida den köpt in hållbart flygbränsle till organisationens flygresor. När kostnader jämförs för olika färdval ska hela resans kostnad beaktas, exempelvis kostnader för nödvändig övernattning och total arbetstid för hela resan.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26393:goals:2"
+  }
+ ],
+ "org": [
+  {
+   "title": "Säkerställa proaktivitet och handlingskraft vid fredstida krissituationer eller vid krig och krigsfara",
+   "group": [],
+   "text": "Myndigheten ska säkerställa att den har förmåga att agera proaktivt och handlingskraftigt i hanteringen av fredstida krissituationer, krig och krigsfara. Utöver de krav som framgår av förordningen (2022:524) om statliga myndigheters beredskap ska myndigheten i detta syfte utbilda och öva sin personal samt stärka en kultur och ett arbetssätt som utgår från de krav som ett krig ställer. Uppdraget ska senast den 22 februari 2027 redovisas till Regeringskansliet (Försvarsdepartementet och Finansdepartementet) och ingå i den särskilda redovisningen för civilt försvar.",
+   "dates": [
+    "2027-02-22"
+   ],
+   "deadlines": [
+    "2027-02-22"
+   ],
+   "recipients": [
+    "Regeringskansliet (Försvarsdepartementet och Finansdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2022:524"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "org",
+   "item_id": "26393:org:0"
+  }
+ ],
+ "assignments": [
+  {
+   "title": "Utgiftsprognoser",
+   "group": [],
+   "text": "Myndigheten ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Av kommentarerna ska vidare framgå vilka antaganden som använts i prognosen, osäkerhetsfaktorer och eventuella förändringar av förutsättningarna för myndigheten att bedriva sin verksamhet.\n\nVid väsentliga prognosavvikelser bör myndigheten även ange orsaker till dessa, samt vilka åtgärder som vidtagits eller planeras att vidtas, för att verksamheten ska bedrivas enligt plan inom ramen för tilldelade medel. Prognoserna lämnas i informationssystemet Hermes senast den\n\n– 2 februari\\\n– 22 april\\\n– 24 juli\\\n– 9 november.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26393:assignments:0"
+  },
+  {
+   "title": "Pågående uppdrag",
+   "group": [],
+   "text": "| | | |\n| --- | --- | --- |\n| Sammanfattning av uppdraget | Beslut om uppdraget | Redovisas |\n| Uppdrag om att stärka Sveriges möjligheter att attrahera och behålla högkvalificerad internationell kompetens och annan utländsk arbetskraft som är viktig för Sveriges konkurrenskraft | KN2024/00521 | 2026-03-31 och 2027-03-31 |\n| Uppdrag att sammanställa och sprida information om ekonomiska aspekter av våld i nära relationer | A2024/00777 och A2025/00884 | 2026-05-28 och 2027-12-15 |\n| Uppdrag att redovisa en plan för ny organisering av servicekontorsnätet | Fi2024/02222 | 2026-03-30 och 2026-10-01 |\n| Säkerställa proaktivitet och handlingskraft vid fredstida krissituationer eller vid krig och krigsfara | Fi2024/02559 (delvis) | 2026-03-01 |\n| Uppdrag om personallån mellan myndigheter | Fö/2025/00670 | 2026-02-23 |\n| Uppdrag kopplat till inriktningen för det civila försvar 2025–2030 | Fö2024/02054 | Årliga redovisningar i samband med årsredovisningen |\n\n*För regeringsuppdrag som lämnats i ett särskilt regeringsbeslut utgör tabellen endast en upplysning om vilka uppdrag som vid årets början var riktade till myndigheten och vilka tider som då gällde för återrapportering eller liknande.*",
+   "dates": [
+    "2026-02-23",
+    "2026-03-01",
+    "2026-03-30",
+    "2026-03-31",
+    "2026-05-28",
+    "2026-10-01",
+    "2027-03-31",
+    "2027-12-15"
+   ],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "årsredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "26393:assignments:1"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "1:14",
+   "name": "Statens servicecenter",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 2,
+    "name": "Samhällsekonomi och finansförvaltning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Statens servicecenter",
+     "amount_tkr": 913560,
+     "items": [
+      {
+       "ap": "2",
+       "name": "Lokal statlig service (ram)",
+       "amount_tkr": 913560
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "2",
+     "name": "Lokal statlig service",
+     "text": "Anslagsposten får användas för uppgiften att tillhandahålla lokal statlig service vid servicekontor. Anslagsposten får även användas för vissa förvaltningsuppgifter och för utgifter som följer av uppgiften att vara beredskapsmyndighet."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "1:14 Statens servicecenter",
+   "ap": "ap.2",
+   "Anslagskredit": 27406,
+   "Anslagsbehållning som disponeras 2026": 47000,
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 347000,
+  "Räntekontokredit": 260000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 76130
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 76130
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 76130
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 76130
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 76130
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 76130
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 76130
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 76130
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 76130
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 76130
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 76130
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 76130
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:14 Statens servicecenter",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.2",
+     "27 406",
+     "47 000",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "347 000"
+    ],
+    [
+     "Räntekontokredit",
+     "260 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "76 130"
+    ],
+    [
+     "2026-02-25",
+     "76 130"
+    ],
+    [
+     "2026-03-25",
+     "76 130"
+    ],
+    [
+     "2026-04-25",
+     "76 130"
+    ],
+    [
+     "2026-05-25",
+     "76 130"
+    ],
+    [
+     "2026-06-25",
+     "76 130"
+    ],
+    [
+     "2026-07-25",
+     "76 130"
+    ],
+    [
+     "2026-08-25",
+     "76 130"
+    ],
+    [
+     "2026-09-25",
+     "76 130"
+    ],
+    [
+     "2026-10-25",
+     "76 130"
+    ],
+    [
+     "2026-11-25",
+     "76 130"
+    ],
+    [
+     "2026-12-25",
+     "76 130"
+    ],
+    [
+     "Summa",
+     "913 560"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "1:14 ap.2",
+     "Lokal statlig service"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Verksamhet där avgiftsintäkterna disponeras",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Tillhandahållande av tjänster avseende administrativt stöd åt myndigheter1",
+     "-100 312",
+     "5 429",
+     "588 591",
+     "588 591",
+     "0",
+     "-94 883"
+    ],
+    [
+     "Avgifter från pensionsmedlen",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Administration av ålderspension med ersättning från AP-fonderna1",
+     "0",
+     "-3 443",
+     "51 487",
+     "51 487",
+     "0",
+     "-3 443"
+    ],
+    [
+     "Administration av ålderspension med ersättning från premiepensionssystemet1",
+     "0",
+     "-465",
+     "8 036",
+     "8 036",
+     "0",
+     "-465"
+    ],
+    [
+     "Summa",
+     "0",
+     "-3 908",
+     "59 523",
+     "59 523",
+     "0",
+     "-3 908"
+    ],
+    [
+     "Beräknad budget för avgiftsbelagd verksamhet där intäkterna disponeras",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Intäkter från Skatteverket för levererat verksamhetsstöd avseende id-kort1",
+     "0",
+     "0",
+     "28 000",
+     "28 000",
+     "0",
+     "0"
+    ],
+    [
+     "Intäkter från Migrationsverket avseende allmän och fördjupad service1",
+     "-2 724",
+     "0",
+     "51 608",
+     "51 608",
+     "0",
+     "-2 724"
+    ],
+    [
+     "Summa",
+     "-2 724",
+     "0",
+     "79 608",
+     "79 608",
+     "0",
+     "-2 724"
+    ]
+   ]
+  }
+ ],
+ "has_fee_section": true,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 3,
+  "n_org": 1,
+  "n_assignments": 2,
+  "n_deadlines": 1,
+  "deadlines": [
+   "2027-02-22"
+  ],
+  "partners": [],
+  "n_appropriations": 1,
+  "appropriations_total_tkr": 913560,
+  "payment_plan_total_tkr": 913560,
+  "md_chars": 9040
+ },
+ "layout": "standard",
+ "warnings": []
+}

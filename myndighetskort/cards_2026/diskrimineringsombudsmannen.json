@@ -1,0 +1,381 @@
+{
+ "schema_version": 1,
+ "id": 25787,
+ "original_rbid": 25787,
+ "type": "Regleringsbrev",
+ "category": "Myndighet",
+ "date": "2025-12-18",
+ "year": "2026",
+ "name": "Diskrimineringsombudsmannen",
+ "slug": "diskrimineringsombudsmannen",
+ "department": "Arbetsmarknadsdepartementet",
+ "expenditure_areas": [
+  13
+ ],
+ "registry_numbers": [
+  "A2025/01245 (delvis)",
+  "A2025/01275"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1"
+  ],
+  "bet": [
+   "2025/26:AU1"
+  ],
+  "rskr": [
+   "2025/26:123"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "",
+ "goals": [],
+ "org": [],
+ "assignments": [
+  {
+   "title": "Tidigare givna uppdrag i regleringsbrev eller särskilda regeringsbeslut",
+   "group": [],
+   "text": "| | | |\n| --- | --- | --- |\n| Uppdrag | Uppdrag givet i | Avrapporteringstidpunkt |\n| Myndigheten ska vidta åtgärder för att göra den verksamhet myndigheten ansvarar för känd samt tillgänglig och anpassad för barn. | A2023/01755 A2023/01717 (delvis) S2024/02156 | Uppdraget ska senast den 27 februari 2026 redovisas till Regeringskansliet (Socialdepartementet). |\n| Uppdrag att utveckla och sprida kunskap om afrosvenska elevers utsatthet för rasism och diskriminering i skolan. | A2024/00754 | Uppdraget ska senast den 1 mars 2026 slutredovisas till Regeringskansliet (Arbetsmarknadsdepartementet) med kopia till Forum för levande historia. |\n| Uppdrag till Diskrimineringsombudsmannen att genomföra insatser för att stärka arbetsgivares arbete mot diskriminering i arbetslivet. | A2024/01129 | Uppdraget ska senast den 1 mars 2026 delredovisas och den 1 mars 2027 slutredovisas till Regeringskansliet (Arbetsmarknadsdepartementet) med kopia till Forum för levande historia. |\n| Uppdrag till Diskrimineringsombudsmannen att förbereda för informationsinlämning med anledning av lönetransparensdirektivet. | A2025/00506 | Uppdraget ska senast den 31 mars 2026 redovisas till Regeringskansliet (Arbetsmarknadsdepartementet). |\n| Uppdrag till Diskrimineringsombudsmannen att genomföra kunskapshöjande insatser för att motverka diskriminering. | A2025/00605 | Uppdraget ska senast den 31 mars 2027 redovisas till Regeringskansliet (Arbetsmarknadsdepartementet) med kopia till Forum för levande historia. |\n\nFör regeringsuppdrag som lämnats i ett särskilt regeringsbeslut utgör tabellen endast en upplysning om vilka uppdrag som vid årets början var riktade till myndigheten och vilka tider som då gällde för återrapportering eller liknande.",
+   "dates": [
+    "2026-02-27",
+    "2026-03-01",
+    "2026-03-31",
+    "2027-03-01",
+    "2027-03-31"
+   ],
+   "deadlines": [
+    "2026-02-27",
+    "2026-03-01",
+    "2026-03-31",
+    "2027-03-31"
+   ],
+   "recipients": [
+    "Forum för levande historia",
+    "Regeringskansliet (Arbetsmarknadsdepartementet)",
+    "Regeringskansliet (Socialdepartementet)"
+   ],
+   "partners": [
+    "Forum för levande historia"
+   ],
+   "channels": [
+    "delredovisning",
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "utveckla",
+    "informera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "25787:assignments:0"
+  },
+  {
+   "title": "Prognoser",
+   "group": [],
+   "text": "Myndigheten ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Prognoserna lämnas i informationssystemet Hermes senast den\n\n- 2 februari\n- 22 april\n- 24 juli\n- 9 november",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "25787:assignments:1"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "2:1",
+   "name": "Diskrimineringsombudsmannen",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 13,
+    "name": "Integration och jämställdhet"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Diskrimineringsombudsmannen",
+     "amount_tkr": 169697,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Diskrimineringsombudsmannen (ram)",
+       "amount_tkr": 169697
+      }
+     ],
+     "sum_ok": true
+    },
+    {
+     "by": "Kammarkollegiet",
+     "amount_tkr": 740,
+     "items": [
+      {
+       "ap": "2",
+       "name": "Nämnden mot diskriminering (ram)",
+       "amount_tkr": 740
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Diskrimineringsombudsmannen",
+     "text": "Anslagsposten får användas för Diskrimineringsombudsmannens förvaltningsutgifter."
+    },
+    {
+     "ap": "2",
+     "name": "Nämnden mot diskriminering",
+     "text": "Anslagsposten får användas för förvaltningsutgifter för Nämnden mot diskriminering.\nKammarkollegiet ska, efter rekvisition av Nämnden mot diskriminering, betala ut medel för nämndens verksamhet. Från anslagsposten finansieras även ersättning, högst 60 000 kronor, för Kammarkollegiets kostnader för administrativa eller handläggande uppgifter åt nämnden."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "2",
+     "max": 60000,
+     "unit": "kronor"
+    }
+   ]
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "2:1 Diskrimineringsombudsmannen",
+   "ap": "ap.1",
+   "Anslagskredit": 5090,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:1 Diskrimineringsombudsmannen",
+   "ap": "ap.2",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 34000,
+  "Räntekontokredit": 8000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 14141
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 14141
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 14141
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 14141
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 14141
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 14141
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 14141
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 14141
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 14141
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 14141
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 14141
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 14146
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "2:1 Diskrimineringsombudsmannen",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "5 090",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.2",
+     "0",
+     "3 %",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "34 000"
+    ],
+    [
+     "Räntekontokredit",
+     "8 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "14 141"
+    ],
+    [
+     "2026-02-25",
+     "14 141"
+    ],
+    [
+     "2026-03-25",
+     "14 141"
+    ],
+    [
+     "2026-04-25",
+     "14 141"
+    ],
+    [
+     "2026-05-25",
+     "14 141"
+    ],
+    [
+     "2026-06-25",
+     "14 141"
+    ],
+    [
+     "2026-07-25",
+     "14 141"
+    ],
+    [
+     "2026-08-25",
+     "14 141"
+    ],
+    [
+     "2026-09-25",
+     "14 141"
+    ],
+    [
+     "2026-10-25",
+     "14 141"
+    ],
+    [
+     "2026-11-25",
+     "14 141"
+    ],
+    [
+     "2026-12-25",
+     "14 146"
+    ],
+    [
+     "Summa",
+     "169 697"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "2:1 ap.1",
+     "Diskrimineringsombudsmannen"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [],
+ "has_fee_section": false,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 0,
+  "n_org": 0,
+  "n_assignments": 2,
+  "n_deadlines": 4,
+  "deadlines": [
+   "2026-02-27",
+   "2026-03-01",
+   "2026-03-31",
+   "2027-03-31"
+  ],
+  "partners": [
+   "Forum för levande historia"
+  ],
+  "n_appropriations": 1,
+  "appropriations_total_tkr": 170437,
+  "payment_plan_total_tkr": 169697,
+  "md_chars": 5565
+ },
+ "layout": "standard",
+ "warnings": []
+}

@@ -1,0 +1,1207 @@
+{
+ "schema_version": 1,
+ "id": 27532,
+ "original_rbid": 25991,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-08-27",
+ "year": "2026",
+ "name": "Havs- och vattenmyndigheten",
+ "slug": "havs-och-vattenmyndigheten",
+ "department": "Klimat- och näringslivsdepartementet",
+ "expenditure_areas": [
+  20
+ ],
+ "registry_numbers": [
+  "KN2026/01310"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1"
+  ],
+  "bet": [
+   "2025/26:MJU1"
+  ],
+  "rskr": [
+   "2025/26:128"
+  ]
+ },
+ "n_attachments_stated": 1,
+ "mission": "Myndighetens huvudsakliga uppgifter framgår av förordningen (2011:619) med instruktion för Havs- och vattenmyndigheten.",
+ "goals": [
+  {
+   "title": "Genomförande av den gemensamma fiskeripolitiken",
+   "group": [],
+   "text": "Havs- och vattenmyndigheten ska redovisa resultaten av de insatser som har gjorts för att effektivt genomföra regelverket för den gemensamma fiskeripolitiken och av den nationella implementeringen. Av redovisningen ska det framgå hur myndigheten beaktat fiskenäringens och vattenbrukets förutsättningar och vilka effekter myndighetens arbete och förvaltningsbeslut har haft på beståndsutvecklingen, samt fiskenäringens utveckling och långsiktiga konkurrenskraft. Redovisningen ska särskilt belysa det småskaliga kustnära fisket och arbetets bidrag till riksdagens beslutade mål för livsmedelsstrategin.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "fördela_medel",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27532:goals:0"
+  },
+  {
+   "title": "Effektiv miljöprövning",
+   "group": [],
+   "text": "Havs- och vattenmyndigheten ska redovisa hur arbetet för en effektiv miljöprövning har genomförts och med vilka resultat. Där möjligt ska jämförelser göras med tidigare år.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27532:goals:1"
+  },
+  {
+   "title": "Stärkt arbete för cybersäkerhet",
+   "group": [],
+   "text": "Havs- och vattenmyndigheten ska övergripande redogöra för hur myndigheten har förvaltat och utvecklat sitt arbete med informations- och cybersäkerhet inbegripet den egna organisationens beredskap och möjlighet att hantera incidenter. I detta ingår bl.a. att redogöra för hur myndigheten har använt verktyg för att mäta sin cybersäkerhet för att stödja uppföljning och förbättring av systematiskt informations- och cybersäkerhetsarbete i samhällsviktiga verksamheter, samt hur myndigheten planerar att möta framtida behov inom informations- och cybersäkerhetsområdet. Myndigheten ska också redovisa hur man stärkt arbetet med att hantera föråldrade system och tekniska komponenter och minska myndighetens tekniska skuld. Av redovisningen ska det framgå hur stor del av den tekniska skulden som har hanterats och hur mycket som fortfarande återstår att hantera av det totala behovet.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27532:goals:2"
+  },
+  {
+   "title": "Dricksvattendirektivet",
+   "group": [],
+   "text": "Havs- och vattenmyndigheten ska redovisa vidtagna åtgärder och resultat när det gäller arbetet med att meddela föreskrifter kopplade till riskbedömningen och riskhanteringen avseende tillrinningsområdena för uttagspunkter för dricksvatten i enlighet med kraven i Europaparlamentets och rådets direktiv (EU) 2020/2184 av den 16 december 2020 om kvaliteten på dricksvatten samt vägleda vattenmyndigheterna i frågan.",
+   "dates": [
+    "2020-12-16"
+   ],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "informera",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27532:goals:3"
+  },
+  {
+   "title": "Bättre samordning mellan fiskeri- och havsmiljöförvaltning",
+   "group": [],
+   "text": "Havs- och vattenmyndigheten ska redovisa myndighetens insatser för en ökad samordning av EU:s miljölagstiftning inom havs- och vattenförvaltningen och EU:s gemensamma fiskeripolitik som i högre grad beaktar försiktighetsansatsen samt skrivningarna i prop. 2023/24:156*Ett levande hav – ökat skydd, minskad övergödning och ett hållbart fiske*(Havsmiljöpropositionen) om en förvaltning baserad på ekosystemansatsen. Redovisningen ska även inkludera hur samordningen bidrar till att återhämtningen av fiskbestånden och ekosystemet accelereras. Myndigheten ska redovisa hur förvaltningen av fiskbestånden ingår i ett samordnat genomförande av relevant EU-miljölagstiftning inom vatten- och havsförvaltning och i ett genomförande som accelererar återuppbyggnaden av fiskbestånden och ekosystemet.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "utveckla",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27532:goals:4"
+  },
+  {
+   "title": "Förstärkt stöd i internationellt havsmiljöarbete",
+   "group": [],
+   "text": "Havs- och vattenmyndigheten ska redovisa hur myndigheten har stärkt sitt arbete med, och stöd till Regeringskansliet i, det internationella havsmiljöarbetet, med fokus på det havsregionala konventionsarbetet inom Helcom och Ospar samt inom kommissionen för bevarande av marina levande tillgångar i Antarktis (CCAMLR)och avtalet om bevarande och hållbar användning av marin biologisk mångfald i områden utanför nationell jurisdiktion (BBNJ).",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [
+    "Regeringskansliet"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27532:goals:5"
+  },
+  {
+   "title": "Återanvändning av näringsämnen",
+   "group": [],
+   "text": "Havs- och vattenmyndigheten ska redovisa vilka insatser myndigheten har gjort inom den regionala strategin för återvinning av näringsämnen i Östersjöområdet och aktionsplanen för Östersjön med syfte att öka återföringen av näringsämnen och minska övergödningen.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27532:goals:6"
+  },
+  {
+   "title": "Fortsatt arbete med regelförenkling",
+   "group": [],
+   "text": "Myndigheten ska redovisa hur den har arbetat vidare med regelförenkling under året, inklusive hur den har tagit hand om arbetet som har skett inom ramen för uppdraget att förenkla regelverk i syfte att minska regelbördan för företag (KN2024/01546) som ska slutrapporteras den 15 mars 2026. Myndigheten ska även bidra till och uppdatera myndighetens innehåll på den myndighetsgemensamma webbplatsen verksamt.se.",
+   "dates": [
+    "2026-03-15"
+   ],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27532:goals:7"
+  },
+  {
+   "title": "Samverkan kring vattenbruket",
+   "group": [],
+   "text": "Havs- och vattenmyndigheten ska redovisa hur myndigheten har samverkat med Jordbruksverket i enlighet med myndighetens uppdrag i 5 § 14 förordningen (2011:619) med instruktion för Havs- och vattenmyndigheten vad gäller frågor om vattenbruk. Myndigheten ska även redovisa hur myndigheten, inom ramen för sitt uppdrag, har bidragit till arbetet med aktuella förberedelser för de författningsändringar som träder i kraft den 1 juli 2026 på vattenbruksområdet.",
+   "dates": [
+    "2026-07-01"
+   ],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Statens jordbruksverk"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2011:619"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27532:goals:8"
+  },
+  {
+   "title": "Tillämpning av undantag",
+   "group": [],
+   "text": "Havs- och vattenmyndigheten ska redovisa hur dess vägledningar och föreskrifter till länsstyrelserna och vattenmyndigheterna har möjliggjort och underlättat ökad tillämpning av undantag enlig vattenförvaltningsförordningen (2004:660), så att inte högre krav ställs än vad som krävs i förhållande till EU-rätten samt hur de har bidragit till översynen av bevarandeplaner för Natura 2000-områden som berörs av den nationella planen för omprövning av vattenkraft.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [
+    "länsstyrelserna"
+   ],
+   "partners": [
+    "länsstyrelserna"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "informera",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2004:660"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27532:goals:9"
+  },
+  {
+   "title": "Uppföljning av överklaganden",
+   "group": [],
+   "text": "Havs- och vattenmyndigheten ska till regeringen redovisa de ärenden där myndigheten har överklagat ett beslut eller en dom som en statlig förvaltningsmyndighet eller en domstol har meddelat, samt skälen till överklagandet och status för eller utfallet av överklagandet.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [
+    "regeringen"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27532:goals:10"
+  }
+ ],
+ "org": [],
+ "assignments": [
+  {
+   "title": "Effekter av svall",
+   "group": [],
+   "text": "Havs- och vattenmyndigheten ska, i samarbete med Statens geotekniska institut, Sjöfartsverket och Naturvårdsverket redogöra för kunskapsläget kring effekter av svall från yrkes- och fritidsbåtar på grunda marina ekosystem i kust- och skärgårdsområden. Myndigheten ska särskilt fokusera på effekter av svall på kustnära fisk- och fågelbestånd som använder dessa habitat under någon del av livscykeln och i vilken grad hastighets- och tillträdesbegränsningar för sjöfart skulle kunna bidra till återhämtning. Uppdraget ska redovisas till Regeringskansliet (Klimat- och näringslivsdepartementet) senast den 30 november 2026.",
+   "dates": [
+    "2026-11-30"
+   ],
+   "deadlines": [
+    "2026-11-30"
+   ],
+   "recipients": [
+    "Regeringskansliet (Klimat- och näringslivsdepartementet)"
+   ],
+   "partners": [
+    "Naturvårdsverket",
+    "Sjöfartsverket",
+    "Statens geotekniska institut"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27532:assignments:0"
+  },
+  {
+   "title": "Vägledning om kommunala vattentjänstplaner",
+   "group": [],
+   "text": "Havs- och vattenmyndigheten ska tillsammans med Naturvårdsverket, Livsmedelsverket och Boverket, ta fram en vägledning till kommunala vattentjänstplaner enligt 6 a och b §§ lagen (2006:412) om allmänna vattentjänster. Havs- och vattenmyndigheten ska samordna uppdraget. Synpunkter ska inhämtas från andra berörda myndigheter och aktörer. Uppdraget omfattar att se över hur befintlig vägledning behöver kompletteras samt anpassas för att beakta klimatförändringars effekter, både avseende nederbörd och torka samt behovet av beredskapsåtgärder. Uppdraget omfattar inte att ta fram vägledning inom plan- och byggområdet. Havs- och vattenmyndigheten ska också överväga om det finns behov av en tillsynsmyndighet för kommunala vattentjänstplaner. Om det behövs ska Havs- och vattenmyndigheten, med stöd av berörda myndigheter, lämna förslag på författningsändringar samt redovisa skäl och konsekvensbeskrivning, i enlighet med förordningen (2024:183) om konsekvensutredningar. Uppdraget ska redovisas till Regeringskansliet (Klimat- och näringslivsdepartementet) senast den 30 juni 2027.",
+   "dates": [
+    "2027-06-30"
+   ],
+   "deadlines": [
+    "2027-06-30"
+   ],
+   "recipients": [
+    "Regeringskansliet (Klimat- och näringslivsdepartementet)"
+   ],
+   "partners": [
+    "Boverket",
+    "Livsmedelsverket",
+    "Naturvårdsverket"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "föreslå",
+    "samordna",
+    "tillsyn_kontroll",
+    "informera",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2006:412",
+    "2024:183"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27532:assignments:1"
+  },
+  {
+   "title": "Uppdrag om ekosystembaserade fiskemöjligheter",
+   "group": [],
+   "text": "Havs- och vattenmyndigheten ska lämna underlag inför förhandlingar om fiskemöjligheter, inklusive förslag till alternativa kvoter och fiskemöjligheter, för 2027 i Östersjön. Underlaget ska utgå ifrån EU:s gemensamma fiskeripolitik, miljökvalitetsnormer och mål i relevant miljölagstiftning, Internationella havsforskningsrådets (ICES) rådgivning för fiskemöjligheter 2027, Havsmiljöpropositionen (prop 2023/24:156), samt befintlig kunskap om Sveriges marina ekosystem. Målsättningen är att utifrån en ekosystembaserad fiskförvaltning accelerera återhämtningen av fiskbestånd och marina ekosystem bl.a. för en stärkt livsmedelsberedskap. Redovisning ska ske till Regeringskansliet (Landsbygds- och infrastrukturdepartementet) senast den 30 juni 2026.",
+   "dates": [
+    "2026-06-30"
+   ],
+   "deadlines": [
+    "2026-06-30"
+   ],
+   "recipients": [
+    "Regeringskansliet (Landsbygds- och infrastrukturdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "beredskap_säkerhet",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27532:assignments:2"
+  },
+  {
+   "title": "Uppdrag om intressentdriven ekosystembaserad kust- och havsmiljöförvaltning",
+   "group": [],
+   "text": "Havs- och vattenmyndigheten ska vidareutveckla åtgärdsarbetet inom ramen för en intressentdriven och ekosystembaserad kust- och havsmiljöförvaltning. En hållbar fiskförvaltning samt förvaltning av predatorer behöver integreras och växelverka bättre med havsmiljöarbetet. Arbetet ska bidra till genomförandet av åtgärdsplanerna inom Helcom och Ospar samt arbetet med åtgärdsprogram för havsmiljödirektivet och delåtgärdsprogram för vattendirektivet och därigenom förstärka ett samlat åtgärdsarbete för havs- och vattenmiljön från källa till hav. I arbetet med att återställa kustekosystemen och åtgärda de huvudsakliga påverkansfaktorerna behöver även åtgärder för att långsiktigt stärka bestånden av stor rovfisk beaktas, inte minst i Östersjön, och förvaltningen av predatorer behöver tydligare ingå i en ekosystembaserad förvaltning. Genom att förbättra kust- och havsmiljön och bidra till ett ekosystem i balans skapas förutsättningar för hela den blå ekonomin. Arbetet ska ske i dialog med relevanta länsstyrelser och andra myndigheter samt tillvarata redan pågående insatser och de regionala engagemang som olika intressenter representerar. Havs- och vattenmyndigheten ska även vidareutveckla planerings- och bedömningsunderlag, effektuppföljning av åtgärder samt kanalisering av åtgärdsmedel för att hantera specifika kuststräckors utmaningar och möjligheter. Myndigheten ska årligen den 30 september med start 2026, inkomma med en lägesrapport om genomförandet av uppdraget och lämna en slutredovisning av uppdraget till Regeringskansliet (Klimat- och näringslivsdepartementet) senast den 30 september 2028.",
+   "dates": [
+    "2028-09-30"
+   ],
+   "deadlines": [
+    "2028-09-30"
+   ],
+   "recipients": [
+    "Regeringskansliet (Klimat- och näringslivsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27532:assignments:3"
+  },
+  {
+   "title": "Utrivning av dammar",
+   "group": [],
+   "text": "Havs- och vattenmyndigheten ska redogöra för utvecklingen vad gäller utrivning av dammar i Sverige och vilka positiva respektive negativa effekter utrivningar kan medföra från nationellt, regionalt och lokalt perspektiv. Myndigheten ska bl.a. redovisa omfattningen av utrivningar hittills och, så långt som möjligt, uppskatta hur omfattande utrivningen av dammar kan förväntas bli i förhållande till antalet dammar och hur omfattande konsekvenserna kan bli avseende exempelvis värdefulla kulturmiljöer, biologisk mångfald, rekreationsvärden, boendemiljöer, hydrologi, dammars nytta ur ett beredskapsperspektiv eller andra samhällsnyttor. Myndigheten ska vidare sammanfatta skälen för de utrivningar som hittills har genomförts eller planeras, samt exemplifiera med eller vid behov föreslå hur negativa konsekvenser av utrivningar kan minska eller förhindras. I genomförandet av uppdraget ska vid behov och efter samråd underlag och synpunkter inhämtas från Statens meteorologiska och hydrologiska institut, Riksantikvarieämbetet och länsstyrelserna. Uppdraget ska redovisas till Regeringskansliet (Klimat- och näringslivsdepartementet) senast den 30 juni 2026.",
+   "dates": [
+    "2026-06-30"
+   ],
+   "deadlines": [
+    "2026-06-30"
+   ],
+   "recipients": [
+    "Regeringskansliet (Klimat- och näringslivsdepartementet)"
+   ],
+   "partners": [
+    "Riksantikvarieämbetet",
+    "länsstyrelserna"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "föreslå",
+    "utveckla",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27532:assignments:4"
+  },
+  {
+   "title": "Pågående uppdrag om kartläggning av vattenbalanser",
+   "group": [],
+   "text": "För uppdrag om kartläggning av vattenbalanser som gavs i regleringsbrevet för 2024 (KN2023/04638) får Havs- och vattenmyndigheten från Sveriges meteorologiska och hydrologiska institut (SMHI), anslag 1:10 Klimatanpassning, senast den 31 mars 2026 rekvirera engångsvis högst 2 500 000 kronor för uppdraget. Medel som inte har förbrukats under 2026 ska återbetalas senast den 1 mars 2027. Uppdraget ska redovisas till Regeringskansliet (Klimat- och näringslivsdepartementet) senast den 31 december 2026.",
+   "dates": [
+    "2026-03-31",
+    "2026-12-31",
+    "2027-03-01"
+   ],
+   "deadlines": [
+    "2026-03-31",
+    "2026-12-31",
+    "2027-03-01"
+   ],
+   "recipients": [
+    "Regeringskansliet (Klimat- och näringslivsdepartementet)"
+   ],
+   "partners": [
+    "Sveriges meteorologiska och hydrologiska institut"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "fördela_medel"
+   ],
+   "anslag_refs": [
+    "1:10"
+   ],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "27532:assignments:5"
+  },
+  {
+   "title": "Inför ordförandeskap i Arktiska rådet",
+   "group": [],
+   "text": "Myndigheten ska bistå regeringen i förberedelser för Sveriges ordförandeskap i Arktiska rådet 2027-2029.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "samordna"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27532:assignments:6"
+  },
+  {
+   "title": "Förberedelser inför Sveriges tillträde till BBNJ-avtalet",
+   "group": [],
+   "text": "Havs- och vattenmyndigheten ska påbörja nödvändiga förberedelser för ett effektivt genomförande av BBNJ-avtalet. Förberedelserna ska innefatta att stödja regeringen inför och under de internationella förhandlingarna i syfte att bygga kompetens och inhämta kunskap om avtalets tillämpning, samt att möjliggöra handläggning och prövning av frågor om miljöbedömningar, marina skyddade områden och marina genetiska resurser i områden utanför nationell jurisdiktion.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "analysera",
+    "utveckla",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27532:assignments:7"
+  },
+  {
+   "title": "Uppföljning av torskbestånden",
+   "group": [],
+   "text": "Havs- och vattenmyndigheten ska utreda vilka åtgärder som skulle krävas, och som skulle kunna förväntas vara effektiva, för att torskbestånden på Västkusten och i Östersjön ska återhämta sig. I redovisningen av uppdraget ska det ingå en kort redovisning av utvecklingen av beståndens status. Uppdraget ska redovisas till Regeringskansliet (Landsbygds- och infrastrukturdepartementet) senast den 30 september 2026.",
+   "dates": [
+    "2026-09-30"
+   ],
+   "deadlines": [
+    "2026-09-30"
+   ],
+   "recipients": [
+    "Regeringskansliet (Landsbygds- och infrastrukturdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27532:assignments:8"
+  },
+  {
+   "title": "Genomförande av EU:s reviderade vatten-, grundvatten- och prioämnesdirektiv",
+   "group": [],
+   "text": "Havs- och vattenmyndigheten, i de delar som rör ytvatten, och Sveriges geologiska undersökning, i de delar som rör grundvatten, ska i ett första steg göra en kartläggning av behovet av författningsändringar som är nödvändiga för att genomföra Europaparlamentets och rådets direktiv (EU) 2026/805 av den 30 mars 2026 om ändring av direktiv 2000/60/EG om upprättande av en ram för gemenskapens åtgärder på vattenpolitikens område, direktiv 2006/118/EG om skydd för grundvatten mot föroreningar och försämring och direktiv 2008/105/EG om miljökvalitetsnormer inom vattenpolitikens område.\n\nI ett andra steg ska Havs- och vattenmyndigheten och Sveriges geologiska undersökning ta fram ett gemensamt förslag om författningsändringar samt genomföra konsekvensanalyser av de föreslagna författningsändringarna.\n\nMyndigheterna ska inhämta synpunkter från de länsstyrelser som är vattenmyndigheter och vid behov även andra länsstyrelser.\n\nMyndigheterna ska löpande föra dialog med Regeringskansliet (Klimat- och näringslivsdepartementet) och redovisa sin kartläggning av behovet av författningsändringar, förslag till författningsändringar samt skäl och konsekvensbeskrivning för dessa samt eventuella övriga nya behov som har identifierats. Myndigheterna ska delredovisa kartläggningen till Regeringskansliet (Klimat- och näringslivsdepartementet) senast den 31 januari 2027 och slutredovisa uppdraget senast den 31 mars 2027.",
+   "dates": [
+    "2026-03-30",
+    "2027-01-31",
+    "2027-03-31"
+   ],
+   "deadlines": [
+    "2027-01-31",
+    "2027-03-31"
+   ],
+   "recipients": [
+    "Regeringskansliet (Klimat- och näringslivsdepartementet)"
+   ],
+   "partners": [
+    "Sveriges geologiska undersökning"
+   ],
+   "channels": [
+    "delredovisning",
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna",
+    "utveckla",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27532:assignments:9"
+  },
+  {
+   "title": "Medelsanvändning anslag 1:11 Åtgärder för havs-och vattenmiljö",
+   "group": [],
+   "text": "Havs- och vattenmyndigheten ska redovisa hur medlen inom anslag 1:11 Åtgärder för havs- och vattenmiljö, har använts under 2026. Av redovisningen ska framgå vilka resultat som uppnåtts. Redovisningen ska även innehålla en bedömning av vilka sysselsättningseffekter som användningen av anslaget har gett upphov till och hur mycket som betalats ut i riktade statsbidrag till kommuner. Uppdraget ska redovisas till Regeringskansliet (Klimat- och näringslivsdepartementet) senast den 31 mars 2027.",
+   "dates": [
+    "2027-03-31"
+   ],
+   "deadlines": [
+    "2027-03-31"
+   ],
+   "recipients": [
+    "Regeringskansliet (Klimat- och näringslivsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "fördela_medel"
+   ],
+   "anslag_refs": [
+    "1:11"
+   ],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27532:assignments:10"
+  },
+  {
+   "title": "Medelsanvändning anslag 1:2 Miljöövervakning m.m. som disponeras av Havs- och vattenmyndigheten",
+   "group": [],
+   "text": "Havs- och vattenmyndigheten ska redovisa hur den del av anslaget 1:2 Miljöövervakning m.m. som står till Havs- och vattenmyndighetens disposition har använts under 2026. Rapporteringen ska även innehålla en redovisning av övervakning och datainsamling som finansieras med andra medel som Havs- och vattenmyndigheten förfogar över. Uppdraget ska redovisas till Regeringskansliet (Klimat- och näringslivsdepartementet) senast den 31 mars 2027.",
+   "dates": [
+    "2027-03-31"
+   ],
+   "deadlines": [
+    "2027-03-31"
+   ],
+   "recipients": [
+    "Regeringskansliet (Klimat- och näringslivsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [
+    "1:2"
+   ],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27532:assignments:11"
+  },
+  {
+   "title": "Prognoser",
+   "group": [],
+   "text": "Havs- och vattenmyndigheten ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Prognoserna lämnas i informationssystemet Hermes senast den\n\n- 2 februari\n\n- 22 april\n\n- 24 juli\n\n- 9 november",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27532:assignments:12"
+  },
+  {
+   "title": "Prognos för beställningsbemyndiganden",
+   "group": [],
+   "text": "Myndigheten ska redovisa en prognos för de förslag om beställningsbemyndiganden som lämnats i budgetunderlaget och för de åtaganden som ingåtts med stöd av äldre beställningsbemyndiganden. Prognosen ska lämnas senast den 24 juli 2026 via Statsredovisningssystemet i Hermes och utformas enligt närmare information från Statskontoret.",
+   "dates": [
+    "2026-07-24"
+   ],
+   "deadlines": [
+    "2026-07-24"
+   ],
+   "forecast_dates": [],
+   "recipients": [],
+   "partners": [
+    "Statskontoret"
+   ],
+   "channels": [
+    "hermes",
+    "budgetunderlag"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27532:assignments:13"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "1:11",
+   "name": "Åtgärder för havs- och vattenmiljö",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 20,
+    "name": "Klimat, miljö och natur"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Naturvårdsverket",
+     "amount_tkr": 16000,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Åtgärder för havs- och vattenmiljö - Strandstädning - del till NV (ram)",
+       "amount_tkr": 16000
+      }
+     ],
+     "sum_ok": true
+    },
+    {
+     "by": "Länsstyrelsen i Örebro län",
+     "amount_tkr": 174000,
+     "items": [
+      {
+       "ap": "3",
+       "name": "Åtgärder för havs- och vattenmiljö - del till lst (ram)",
+       "amount_tkr": 167000
+      },
+      {
+       "ap": "4",
+       "name": "Åtgärder för havs- och vattenmiljö - Tillsyn avlopp - del till lst (ram)",
+       "amount_tkr": 7000
+      }
+     ],
+     "sum_ok": true
+    },
+    {
+     "by": "Havs- och vattenmyndigheten",
+     "amount_tkr": 1198565,
+     "items": [
+      {
+       "ap": "2",
+       "name": "Åtgärder för havs- och vattenmiljö (ram)",
+       "amount_tkr": 1198565
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Åtgärder för havs- och vattenmiljö - Strandstädning - del till NV",
+     "text": "**1. Anslagsposten får användas för bidrag i enlighet med förordningen (2018:58) om bidrag till strandstädning. Naturvårdsverket beslutar om fördelningen av medlen efter dialog med Havs- och vattenmyndigheten. Därutöver får anslagsposten användas för Naturvårdsverkets kostnader för att administrera stödet.**"
+    },
+    {
+     "ap": "2",
+     "name": "Åtgärder för havs- och vattenmiljö",
+     "text": "**1. Anslagsposten får användas för utgifter för insatser och åtgärder för att förbättra, bevara, planera, restaurera och skydda havs- och vattenmiljöer. Anslagsposten får, där förordningar inom området så medger, även användas för statsbidrag. Anslagsposten får också användas för medfinansiering av EU-medel, medlemskap i internationella organisationer samt för utvärdering av ovan angivna insatser och åtgärder.**\n**2. Anslagsposten får användas till vägledning, tillsyn, prövning och omprövning av vattenverksamheter, inkl. myndigheternas genomförande av lagstiftningen som innebär att vattenkraften ska förses med moderna miljövillkor på ett samordnat sätt med största möjliga nytta för vattenmiljön och för nationell effektiv tillgång till vattenkraftsel, samt till restaurering och biologisk återställning.**\n**3. Minst 30 000 000 kronor får användas för utgifter för insatser och åtgärder för att förebygga och förhindra introduktion och spridning av invasiva främmande arter, bl.a. enligt förordningen (2018:1939) om invasiva främmande arter. Åtgärderna ska ske utifrån ett avrinningsområdesperspektiv.**\n**4. Minst 28 000 000 kronor får användas för bidrag till länsstyrelser för insatser och åtgärder för ett effektivt åtgärdsgenomförande inom kust- och avrinningsområden. Högst 2 000 000 kronor får användas för att på nationell nivå stödja de insatser och åtgärder för åtgärdssamordning som länsstyrelserna genomför.**\n**5. Minst 98 000 000 kronor får användas för akvatiskt områdesskydd, med särskilt fokus på Östersjön, inklusive säkerställande av funktionaliteten i nätverket av marina skyddade områden.**\n**6. Högst 3 000 000 kronor får användas för projekt och åtgärder som avser yrkesfiskets delaktighet i forskningsprojekt, miljöprojekt eller metodutvecklingsprojekt som exempelvis syftar till att utveckla selektiva redskap, förbättra fiskbestånds status och livsmiljöer eller som medfinansiering av motsvarande åtgärder inom havs-, fiskeri- och vattenbruksprogrammet.**\n**7. Ett belopp om 10 000 000 kronor ska utbetalas till Göteborgs universitet för Havsmiljöinstitutets verksamhet. Användningen av medlen ska redovisas enligt Havs- och vattenmyndighetens anvisningar.**\n**8. Högst 2 000 000 kronor får användas för bidrag till ideella organisationers arbete som bidrar till att uppnå hållbart fiske genom att skapa förståelse för beståndssituationen i svenska vatten i Östersjön som kan påverka inställningen till och behovet av en snabbare återhämtning av fiskbestånden på EU nivå. Medlen betalas ut mot rekvisition.**\n**9. Anslagsposten får användas i enlighet med havsmiljöförordningen (2010:1341) och som medfinansiering av åtgärder för genomförande av havsmiljödirektivet inom havs-, fiskeri- och vattenbruksprogrammet.**\n**10. Anslagsposten får användas i enlighet med vattenförvaltningsförordningen (2004:660). Högst 27 000 000 kronor får betalas ut som bidrag för arbete enligt vattenförvaltningsförordningen enligt följande:**\n- högst 18 000 000 kronor till Sveriges meteorologiska och hydrologiska institut\n- högst 9 000 000 kronor till Sveriges geologiska undersökning.\nSamverkan om hur användningen av medlen ska prioriteras ska ske med berörda myndigheter samt med de länsstyrelser som är vattenmyndigheter.\n**11. Anslagsposten får användas i enlighet med**\n- förordningen (1982:840) om statsbidrag till kalkning av sjöar och vattendrag,\n- förordningen (1998:1343) om stöd till fiskevården, och\n- förordningen (2009:381) om statligt stöd till lokala vattenvårdsprojekt (Lova). Högst 300 000 000 kronor får, i första hand, användas för bidrag enligt Lova samt för länsstyrelsernas kommunikation och administration av bidraget. Medel får även användas för länsstyrelsernas projekt avseende samma ändamål.\nAnvändningen av medlen ska ske med inriktning mot ett kust- och avrinningsområdesperspektiv.\n**12. Minst 50 000 000 kronor får användas till åtgärder, utvärdering, stärkt uppföljning, och för andra insatser som ökar träffsäkerheten och förbättrar resultatet i åtgärdsarbetet mot övergödning och därmed bidrar till ökad kostnadseffektivitet.**\n**13. Anslagsposten får användas i enlighet med havsplaneringsförordningen (2015:400).**\n**14. Högst 2 000 000 kronor får betalas ut till Helcom för planering och insatser för havsmiljön i Östersjön.**\n**15. Minst 35 000 000 kronor får användas till genomförande av Helcoms aktionsplan för Östersjön (BSAP) och Ospars miljöstrategi för Nordostatlanten (NEAES) samt för att stärka arbetet med områdesbaserade åtgärdsprogram och en intressentdriven ekosystembaserad kust-och havsmiljöförvaltning.**\n**16. Minst 73 000 000 kronor får användas för insatser och åtgärder för akvatisk restaurering i marin och limnisk miljö.**\n**17. Anslagsposten får användas för effektivare vattenförvaltning inklusive arbetet med delåtgärdsprogram dvs. avrinningsområdesvisa åtgärdsprogram.**\n**18. Anslagsposten får användas för övervakning av bifångster av tumlare med observatörer och kameror. Övervakningen ska vara koordinerad med ordinarie pågående övervakning bl. a. inom ramen för datainsamlingen för genomförandet av EU:s gemensamma fiskeripolitik.**\n**19. Anslagsposten ska användas för att ge utföraren full kostnadstäckning för kostnader avseende den nationella finansieringen av den datainsamling och rådgivning i fråga om fiskbestånden och fisket som bedrivs i enlighet med Europaparlamentets och rådets förordning (EU) 2017/1004 av den 17 maj 2017 om upprättande av en unionsram för insamling, förvaltning och användning av data inom fiskerisektorn och till stöd för vetenskaplig rådgivning rörande den gemensamma fiskeripolitiken och om upphävande av rådets förordning (EG) nr 199/2008.**\n**20. Högst 4 000 000 kronor ska användas för att minska spridning och förekomst av marint skräp genom omhändertagande av fiskeredskap.**\n**21. Högst 4 000 000 kronor får användas för genomförandet av SLU:s uppdrag om att undersöka hur minskning eller frånvaro av säl och skarv i ett område påverkar återhämtningen av fiskbestånd.**"
+    },
+    {
+     "ap": "3",
+     "name": "Åtgärder för havs- och vattenmiljö - del till lst",
+     "text": "**1. Anslagsposten får användas för arbete vid länsstyrelserna enligt vattenförvaltningsförordningen. Minst 30 000 000 kronor ska fördelas till de länsstyrelser som är vattenmyndigheter. Länsstyrelserna fördelar medlen i dialog med Havs- och vattenmyndigheten.**\n**2. Ett belopp om 10 000 000 kronor ska användas som bidrag till vattenmyndigheterna för arbete med de för vattenmyndigheterna tillkommande uppgifter som följer av Sveriges genomförande av Europaparlamentets och rådets direktiv (EU) 2020/2184 av den 16 december 2020 om kvaliteten på dricksvatten.**\n**3. Högst 13 000 000 kronor får användas av länsstyrelserna för att ta fram delåtgärdsprogram. Medlen ska fördelas till de länsstyrelser som är vattenmyndigheter och till de länsstyrelser som aktivt ska ta fram delåtgärdsprogram. Fördelningen mellan länsstyrelserna ska göras i dialog med Havs- och vattenmyndigheten.**"
+    },
+    {
+     "ap": "4",
+     "name": "Åtgärder för havs- och vattenmiljö - Tillsyn avlopp - del till lst",
+     "text": "**1. Högst 7 000 000 kronor ska användas av länsstyrelserna för deras arbete med tillsyn och tillsynsvägledning av avloppsreningsverk och enskilda avlopp.**"
+    }
+   ],
+   "caps": [
+    {
+     "ap": "2",
+     "max": 2000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "2",
+     "max": 3000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "2",
+     "max": 2000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "2",
+     "max": 27000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "2",
+     "max": 18000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "2",
+     "max": 9000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "2",
+     "max": 300000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "2",
+     "max": 2000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "2",
+     "max": 4000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "2",
+     "max": 4000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "3",
+     "max": 13000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "4",
+     "max": 7000000,
+     "unit": "kronor"
+    }
+   ]
+  },
+  {
+   "code": "1:15",
+   "name": "Havs- och vattenmyndigheten",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 20,
+    "name": "Klimat, miljö och natur"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Havs- och vattenmyndigheten",
+     "amount_tkr": 373373,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Havs- och vattenmyndigheten (ram)",
+       "amount_tkr": 373373
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Havs- och vattenmyndigheten",
+     "text": "**1. Anslagsposten får användas för Havs- och vattenmyndighetens förvaltningsutgifter.**"
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "1:11 Åtgärder för havs- och vattenmiljö",
+   "ap": "ap.1",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:11 Åtgärder för havs- och vattenmiljö",
+   "ap": "ap.2",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:11 Åtgärder för havs- och vattenmiljö",
+   "ap": "ap.3",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:11 Åtgärder för havs- och vattenmiljö",
+   "ap": "ap.4",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:15 Havs- och vattenmyndigheten",
+   "ap": "ap.1",
+   "Anslagskredit": 11201,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 75000,
+  "Räntekontokredit": 35000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 31114
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 31114
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 31114
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 31114
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 31114
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 31114
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 31114
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 31114
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 31114
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 31114
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 31114
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 31119
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:11 Åtgärder för havs- och vattenmiljö",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.2",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.3",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.4",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "1:15 Havs- och vattenmyndigheten",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "11 201",
+     "3 %",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Beställningsbemyndiganden",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Bemyndigande",
+     "Utgifter mot anslag till följd av ekonomiska åtaganden",
+     "",
+     "",
+     ""
+    ],
+    [
+     "2026",
+     "2027",
+     "2028",
+     "2029 -",
+     "Slutår"
+    ],
+    [
+     "1:11 Åtgärder för havs- och vattenmiljö",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "20 000",
+     "10 000",
+     "10 000",
+     "",
+     "2028"
+    ],
+    [
+     "ap.2",
+     "806 000",
+     "248 000",
+     "268 000",
+     "290 000",
+     "2035"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "75 000"
+    ],
+    [
+     "Räntekontokredit",
+     "35 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "31 114"
+    ],
+    [
+     "2026-02-25",
+     "31 114"
+    ],
+    [
+     "2026-03-25",
+     "31 114"
+    ],
+    [
+     "2026-04-25",
+     "31 114"
+    ],
+    [
+     "2026-05-25",
+     "31 114"
+    ],
+    [
+     "2026-06-25",
+     "31 114"
+    ],
+    [
+     "2026-07-25",
+     "31 114"
+    ],
+    [
+     "2026-08-25",
+     "31 114"
+    ],
+    [
+     "2026-09-25",
+     "31 114"
+    ],
+    [
+     "2026-10-25",
+     "31 114"
+    ],
+    [
+     "2026-11-25",
+     "31 114"
+    ],
+    [
+     "2026-12-25",
+     "31 119"
+    ],
+    [
+     "Summa",
+     "373 373"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "1:15 ap.1",
+     "Havs- och vattenmyndigheten"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [],
+ "has_fee_section": true,
+ "exceptions_text": "Med undantag från 2 kap. 1 § kapitalförsörjningsförordningen\\\n(2011:210) får Havs- och vattenmyndigheten finansiera\\\nanläggningstillgångar, som huvudsakligen används i verksamhet som\\\ngenomförs inom ramen för Europeiska havs-, fiskeri- och\\\nvattenbruksfonden, med bidrag från fonden.\n\nPå regeringens vägnar\n\nRomina Pourmokhtari\n\nPetra Wallberg\n\n**Kopia till**\n\nStatsrådsberedningen, Internrevisionen\\\nFinansdepartementet, BA, SFÖ\\\nFörvaltningsavdelningen, RK Ekonomi och affärer\\\nLandsbygds- och infrastrukturdepartementet, DL, BB\\\nKlimat- och näringslivsdepartementet, ME\\\nNaturvårdsverket\\\nBoverket\\\nLivsmedelsverket",
+ "summary": {
+  "n_goals": 11,
+  "n_org": 0,
+  "n_assignments": 14,
+  "n_deadlines": 11,
+  "deadlines": [
+   "2026-03-31",
+   "2026-06-30",
+   "2026-07-24",
+   "2026-09-30",
+   "2026-11-30",
+   "2026-12-31",
+   "2027-01-31",
+   "2027-03-01",
+   "2027-03-31",
+   "2027-06-30",
+   "2028-09-30"
+  ],
+  "partners": [
+   "Boverket",
+   "Livsmedelsverket",
+   "Naturvårdsverket",
+   "Riksantikvarieämbetet",
+   "Sjöfartsverket",
+   "Statens geotekniska institut",
+   "Statens jordbruksverk",
+   "Statskontoret",
+   "Sveriges geologiska undersökning",
+   "Sveriges meteorologiska och hydrologiska institut",
+   "länsstyrelserna"
+  ],
+  "n_appropriations": 2,
+  "appropriations_total_tkr": 1761938,
+  "payment_plan_total_tkr": 373373,
+  "md_chars": 29053
+ },
+ "layout": "standard",
+ "warnings": []
+}

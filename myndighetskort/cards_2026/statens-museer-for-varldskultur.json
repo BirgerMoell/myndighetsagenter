@@ -1,0 +1,560 @@
+{
+ "schema_version": 1,
+ "id": 26028,
+ "original_rbid": 26028,
+ "type": "Regleringsbrev",
+ "category": "Myndighet",
+ "date": "2025-12-16",
+ "year": "2026",
+ "name": "Statens museer för världskultur",
+ "slug": "statens-museer-for-varldskultur",
+ "department": "Kulturdepartementet",
+ "expenditure_areas": [
+  17
+ ],
+ "registry_numbers": [
+  "Ku2025/01141 (delvis)",
+  "Ku2025/01229"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1"
+  ],
+  "bet": [
+   "2025/26:KrU1"
+  ],
+  "rskr": [
+   "2025/26:83"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "",
+ "goals": [
+  {
+   "title": "Publik och tillgänglighet",
+   "group": [],
+   "text": "Statens museer för världskultur ska redovisa\n\n- den verksamhet som svarar mot den unga publikens behov samt insatser för att öka den unga publiken\n- de åtgärder som vidtagits för att öka tillgängligheten för personer med funktionsnedsättning\n- förändringar i besöksutvecklingen i förhållande till tidigare år.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "den verksamhet som svarar mot den unga publikens behov samt insatser för att öka den unga publiken",
+    "de åtgärder som vidtagits för att öka tillgängligheten för personer med funktionsnedsättning",
+    "förändringar i besöksutvecklingen i förhållande till tidigare år."
+   ],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26028:goals:0"
+  },
+  {
+   "title": "Sponsringsintäkter",
+   "group": [],
+   "text": "Statens museer för världskultur ska särredovisa eventuella sponsringsintäkter i not till resultaträkningen.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26028:goals:1"
+  },
+  {
+   "title": "Bidragsintäkter",
+   "group": [],
+   "text": "Statens museer för världskultur ska redovisa fördelningen av eventuella bidragsintäkter mellan statliga bidrag, icke-statliga bidrag respektive bidrag från mellanstatliga organ i not till resultaträkningen.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26028:goals:2"
+  },
+  {
+   "title": "Bevara och tillgängliggöra kulturarvet genom digitisering och digitalisering",
+   "group": [],
+   "text": "Statens museer för världskultur ska redovisa resultatet av arbetet med digitisering och digitalisering av myndighetens samlingar. Av redovisningen ska följande framgå\n\n- samlingarnas storlek, inklusive årets tillväxt\n- hur stort antal i och hur stor andel av samlingarna som är digital\n- hur stor andel av samlingarna som är digitalt tillgänglig\n- vilka delar av resultatet som härrör från den medelsförstärkning som myndigheten har tilldelats\n- vilka kostnader myndigheten har haft för arbetet med digitisering och digitalisering.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "digitalisering_ai"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "samlingarnas storlek, inklusive årets tillväxt",
+    "hur stort antal i och hur stor andel av samlingarna som är digital",
+    "hur stor andel av samlingarna som är digitalt tillgänglig",
+    "vilka delar av resultatet som härrör från den medelsförstärkning som myndigheten har tilldelats",
+    "vilka kostnader myndigheten har haft för arbetet med digitisering och digitalisering."
+   ],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26028:goals:3"
+  },
+  {
+   "title": "Breddad finansiering",
+   "group": [],
+   "text": "Statens museer för världskultur ska redovisa hur myndigheten arbetar för att bredda finansieringen av verksamheten.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26028:goals:4"
+  },
+  {
+   "title": "Lokalkostnader",
+   "group": [],
+   "text": "Statens museer för världskultur ska specificera myndighetens totala lokalkostnader för 2026 enligt följande:\n\n- hyra\n- el och uppvärmning\n- reparationer och underhåll\n- övriga driftskostnader.\n\nOm myndigheten har fler än en hyresvärd ska kostnaderna fördelas per hyresvärd.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "fördela_medel"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "el och uppvärmning",
+    "reparationer och underhåll",
+    "övriga driftskostnader."
+   ],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26028:goals:5"
+  }
+ ],
+ "org": [],
+ "assignments": [
+  {
+   "title": "AI och datadrivet arbete",
+   "group": [],
+   "text": "Statens museer för världskultur ska redovisa i vilken utsträckning myndigheten arbetar datadrivet och hur AI används i verksamheten. Myndigheten ska även redogöra för på vilket sätt arbetet med data och AI har bidragit till att utveckla verksamheten och höja kvaliteten i utförandet av myndighetens uppgifter och uppdrag. Av redovisningen ska framgå hur myndigheten beaktar risker och arbetar för att användning av data och AI sker på ett etiskt, säkert och icke-diskriminerande sätt. Eventuella hinder eller framgångsfaktorer för datadrivet arbete och användande av AI ska även redovisas.\n\nUppdraget ska redovisas till Regeringskansliet (Kulturdepartementet) senast den 4 maj 2026.",
+   "dates": [
+    "2026-05-04"
+   ],
+   "deadlines": [
+    "2026-05-04"
+   ],
+   "recipients": [
+    "Regeringskansliet (Kulturdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla",
+    "statistik_data",
+    "digitalisering_ai"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26028:assignments:0"
+  },
+  {
+   "title": "Kiruna – Europeisk kulturhuvudstad 2029",
+   "group": [],
+   "text": "Statens museer för världskultur ska i dialog med Kiruna kommun se över möjligheterna att medverka inför och under evenemanget Europeisk kulturhuvudstad 2029.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "samordna",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26028:assignments:1"
+  },
+  {
+   "title": "Prognoser 2026–2029",
+   "group": [],
+   "text": "Myndigheten ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Av kommentarerna ska det framgå vilka antaganden som använts i prognosen samt eventuella osäkerhetsfaktorer och hur detta påverkat prognosen. Prognoserna lämnas i informationssystemet Hermes senast den\n\n- 2 februari\n- 24 juli\n- 9 november.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26028:assignments:2"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "7:1",
+   "name": "Centrala museer: Myndigheter",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 17,
+    "name": "Kultur, medier, trossamfund och fritid"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Statens museer för världskultur",
+     "amount_tkr": 223855,
+     "items": [
+      {
+       "ap": "4",
+       "name": "Statens museer för världskultur (ram)",
+       "amount_tkr": 223855
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "4",
+     "name": "Statens museer för världskultur",
+     "text": "Anslagsposten får användas för Statens museer för världskulturs förvaltningsutgifter.\nAv anslagsposten får 650 000 kronor användas för Statens museer för världskulturs arbete med den svenska fokalpunkten för det svenska medlemskapet i Anna Lindh Foundation i enlighet med OECD:s biståndskommitté DAC:s riktlinjer för vad som kan klassificeras som bistånd. Myndigheten ska för medlen sammanställa och rapportera statistik till Styrelsen för internationellt utvecklingssamarbete (Sida). Sida kommer att meddela tidpunkt för rapporteringen."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "7:1 Centrala museer: Myndigheter",
+   "ap": "ap.4",
+   "Anslagskredit": 6715,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 59000,
+  "Räntekontokredit": 33170
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 18655
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 18655
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 18655
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 18655
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 18655
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 18655
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 18655
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 18655
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 18655
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 18655
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 18655
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 18650
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "7:1 Centrala museer: Myndigheter",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.4",
+     "6 715",
+     "3 %",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "59 000"
+    ],
+    [
+     "Räntekontokredit",
+     "33 170"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "18 655"
+    ],
+    [
+     "2026-02-25",
+     "18 655"
+    ],
+    [
+     "2026-03-25",
+     "18 655"
+    ],
+    [
+     "2026-04-25",
+     "18 655"
+    ],
+    [
+     "2026-05-25",
+     "18 655"
+    ],
+    [
+     "2026-06-25",
+     "18 655"
+    ],
+    [
+     "2026-07-25",
+     "18 655"
+    ],
+    [
+     "2026-08-25",
+     "18 655"
+    ],
+    [
+     "2026-09-25",
+     "18 655"
+    ],
+    [
+     "2026-10-25",
+     "18 655"
+    ],
+    [
+     "2026-11-25",
+     "18 655"
+    ],
+    [
+     "2026-12-25",
+     "18 650"
+    ],
+    [
+     "Summa",
+     "223 855"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "7:1 ap.4",
+     "Statens museer för världskultur"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Verksamhet med full kostnadstäckning",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Försäljning av varor1",
+     "-86",
+     "86",
+     "5 000",
+     "5 500",
+     "-500",
+     "-500"
+    ],
+    [
+     "Undersökningar, utredningar och andra tjänster1",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0"
+    ],
+    [
+     "Summa",
+     "-86",
+     "86",
+     "5 000",
+     "5 500",
+     "-500",
+     "-500"
+    ],
+    [
+     "Övrig avgiftsbelagd verksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Entréer och visningar3",
+     "16 000"
+    ],
+    [
+     "Övrigt3",
+     "10 000"
+    ],
+    [
+     "Summa",
+     "0",
+     "0",
+     "26 000",
+     "0",
+     "0",
+     "0"
+    ]
+   ]
+  }
+ ],
+ "has_fee_section": true,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 6,
+  "n_org": 0,
+  "n_assignments": 3,
+  "n_deadlines": 1,
+  "deadlines": [
+   "2026-05-04"
+  ],
+  "partners": [],
+  "n_appropriations": 1,
+  "appropriations_total_tkr": 223855,
+  "payment_plan_total_tkr": 223855,
+  "md_chars": 7434
+ },
+ "layout": "standard",
+ "warnings": []
+}

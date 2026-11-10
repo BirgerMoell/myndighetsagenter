@@ -1,0 +1,516 @@
+{
+ "schema_version": 1,
+ "id": 26290,
+ "original_rbid": 25757,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-03-19",
+ "year": "2026",
+ "name": "Konjunkturinstitutet",
+ "slug": "konjunkturinstitutet",
+ "department": "Finansdepartementet",
+ "expenditure_areas": [
+  2
+ ],
+ "registry_numbers": [
+  "Fi2026/00720"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1"
+  ],
+  "bet": [
+   "2025/26:FiU2"
+  ],
+  "rskr": [
+   "2025/26:133"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "",
+ "goals": [],
+ "org": [],
+ "assignments": [
+  {
+   "title": "Återkommande uppdrag",
+   "group": [],
+   "text": "",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "26290:assignments:0"
+  },
+  {
+   "title": "Hushållens förväntningar på utvecklingen av bostadspriser",
+   "group": [],
+   "text": "Myndigheten ska framställa statistik om svenska hushålls förväntningar på utvecklingen av bostadspriserna. Statistiken ska avse dels hushållens förväntningar på den allmänna prisutvecklingen av bostäder, dels de bostadsägande hushållens förväntningar på prisutvecklingen av den egna bostaden. Undersökningar på kort sikt ska göras varje månad och undersökningar på lång sikt varje kvartal.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "statistik_data"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26290:assignments:1"
+  },
+  {
+   "title": "Prognosutvärdering",
+   "group": [],
+   "text": "Myndigheten ska senast den 24 april 2026 publicera en rapport där den redovisar och analyserar prognosprecisionen samt analyserar och kommenterar prognosavvikelser för centrala variabler av de prognoser som myndigheten gör, dock inte prognoserna för myndighetens förvaltningsanslag.",
+   "dates": [
+    "2026-04-24"
+   ],
+   "deadlines": [
+    "2026-04-24"
+   ],
+   "forecast_dates": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "prognos",
+    "analysera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26290:assignments:2"
+  },
+  {
+   "title": "Modeller",
+   "group": [],
+   "text": "Myndigheten ska underhålla modellerna Selma (Svensk ekonomisk lineariserad modell för samhällsekonomisk analys), Mimer (dynamisk allmän jämviktsmodell för långsiktig analys) och Emec (miljöekonomisk allmän jämviktsmodell), med tillhörande databaser och dokumentation.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26290:assignments:3"
+  },
+  {
+   "title": "Korttidsarbete",
+   "group": [],
+   "text": "Myndigheten ska under följande förutsättningar till Regeringskansliet (Finansdepartementet) redovisa en skriftlig bedömning av om kriterierna enligt 5 § andra stycket lagen (2013:948) om stöd vid korttidsarbete är uppfyllda. En sådan bedömning ska lämnas inom tre veckor efter det att ett sammanvägt mått på svenska hushålls och företags syn på ekonomin understigit sitt historiska medelvärde med mer än två standardavvikelser (vilket för närvarande motsvarar att myndighetens barometerindikator understigit värdet 80). Om regeringen meddelar föreskrifter enligt 5 § lagen om stöd vid korttidsarbete, ska en bedömning även redovisas när systemet tillämpats under sex månader.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [
+    "Regeringskansliet (Finansdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "statistik_data"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2013:948"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26290:assignments:4"
+  },
+  {
+   "title": "Prognoser för myndighetens anslag",
+   "group": [],
+   "text": "Myndigheten ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Prognoserna lämnas i informationssystemet Hermes senast den\n\n– 2 februari\\\n– 22 april\\\n– 24 juli\\\n– 9 november.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26290:assignments:5"
+  },
+  {
+   "title": "Pågående uppdrag",
+   "group": [],
+   "text": "*För regeringsuppdrag som lämnats i ett särskilt regeringsbeslut utgör tabellen endast en upplysning om vilka uppdrag som vid årets början var riktade till myndigheten och vilka tider som då gällde för återrapportering eller liknande.*\n\n| | | |\n| --- | --- | --- |\n| Uppdrag | Beslut om uppdraget | Redovisningstidpunkt |\n| Uppdrag att analysera förslag inom ramen för EU:s gröna giv | Fi2024/01485 | Den 31 december 2026 |\n| Uppdrag att följa och analysera livsmedelsprisernas utveckling | Fi2025/02135 | Den 1 mars 2026, den 1 september 2026, den 1 september 2027 och den 1 september 2028 |",
+   "dates": [
+    "2026-03-01",
+    "2026-09-01",
+    "2026-12-31",
+    "2027-09-01",
+    "2028-09-01"
+   ],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "26290:assignments:6"
+  },
+  {
+   "title": "Den asylrelaterade migrationens effekter på svensk arbetsmarknad",
+   "group": [],
+   "text": "Myndigheten ska beräkna den historiska, nuvarande och framtida asylrelaterade migrationens effekter på svensk arbetsmarknad. Med asylrelaterad migration avses flyktingar och andra skyddsbehövande samt anhöriga till dessa, exklusive ukrainska skyddsbehövande och anhöriga till dessa. Myndigheten ska bl.a. beräkna hur sysselsättningsgraden och arbetslösheten hade sett ut i dag om den asylrelaterade migrationen sedan 2010 hade varit på dagens nivåer. Myndigheten ska även beskriva scenarier för sysselsättningsgraden och arbetslösheten fram till 2060 vid en återgång till den asylrelaterade migrationens genomsnittliga volymer och sammansättning 2010–2020.\n\nInom ramen för uppdraget ska myndigheten hämta uppgifter från Statistiska centralbyrån avseende de befolkningsscenarier och den arbetsmarknadsstatistik som behövs för att analysen ska kunna genomföras. Konjunkturinstitutet ska även inhämta synpunkter från Institutet för arbetsmarknads- och utbildningspolitisk utvärdering. Konjunkturinstitutet ska löpande informera Regeringskansliet (Finansdepartementet) om hur arbetet med uppdraget fortskrider.\n\nFör delen av uppdraget som rör beräkning avseende befolkningsscenarier för asylrelaterade migrationseffekter får myndigheten under 2026 använda högst 75 000 kronor som ska redovisas mot det under utgiftsområde 8 Migration uppförda anslaget 1:3 Migrationspolitiska åtgärder, ap. 2 Migrationspolitiska projekt och bidrag – del till Kammarkollegiet. Medlen utbetalas engångsvis efter rekvisition ställd till Kammarkollegiet senast den 30 november 2026.\n\nMyndigheten ska senast den 28 augusti 2026 redovisa uppdraget till Regeringskansliet (Finansdepartementet).",
+   "dates": [
+    "2026-08-28",
+    "2026-11-30"
+   ],
+   "deadlines": [
+    "2026-08-28",
+    "2026-11-30"
+   ],
+   "recipients": [
+    "Kammarkollegiet",
+    "Regeringskansliet (Finansdepartementet)"
+   ],
+   "partners": [
+    "Institutet för arbetsmarknads- och utbildningspolitisk utvärdering",
+    "Kammarkollegiet",
+    "Statistiska centralbyrån"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna",
+    "fördela_medel",
+    "utveckla",
+    "informera",
+    "statistik_data"
+   ],
+   "anslag_refs": [
+    "1:3"
+   ],
+   "expenditure_area_refs": [
+    8
+   ],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26290:assignments:7"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "1:6",
+   "name": "Konjunkturinstitutet",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 2,
+    "name": "Samhällsekonomi och finansförvaltning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Konjunkturinstitutet",
+     "amount_tkr": 76622,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Konjunkturinstitutet (ram)",
+       "amount_tkr": 76622
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Konjunkturinstitutet",
+     "text": "Anslagsposten får användas för Konjunkturinstitutets förvaltningsutgifter."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "1:6 Konjunkturinstitutet",
+   "ap": "ap.1",
+   "Anslagskredit": 2298,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 3000,
+  "Räntekontokredit": 6000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 6385
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 6385
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 6385
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 6385
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 6385
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 6385
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 6385
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 6385
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 6385
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 6385
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 6385
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 6387
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:6 Konjunkturinstitutet",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "2 298",
+     "3 %",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "3 000"
+    ],
+    [
+     "Räntekontokredit",
+     "6 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "6 385"
+    ],
+    [
+     "2026-02-25",
+     "6 385"
+    ],
+    [
+     "2026-03-25",
+     "6 385"
+    ],
+    [
+     "2026-04-25",
+     "6 385"
+    ],
+    [
+     "2026-05-25",
+     "6 385"
+    ],
+    [
+     "2026-06-25",
+     "6 385"
+    ],
+    [
+     "2026-07-25",
+     "6 385"
+    ],
+    [
+     "2026-08-25",
+     "6 385"
+    ],
+    [
+     "2026-09-25",
+     "6 385"
+    ],
+    [
+     "2026-10-25",
+     "6 385"
+    ],
+    [
+     "2026-11-25",
+     "6 385"
+    ],
+    [
+     "2026-12-25",
+     "6 387"
+    ],
+    [
+     "Summa",
+     "76 622"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "1:6 ap.1",
+     "Konjunkturinstitutet"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Beräknad budget för avgiftsbelagd verksamhet där intäkterna disponeras",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Expertuppdrag1",
+     "-40",
+     "0",
+     "697",
+     "697",
+     "0",
+     "-40"
+    ]
+   ]
+  }
+ ],
+ "has_fee_section": true,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 0,
+  "n_org": 0,
+  "n_assignments": 8,
+  "n_deadlines": 3,
+  "deadlines": [
+   "2026-04-24",
+   "2026-08-28",
+   "2026-11-30"
+  ],
+  "partners": [
+   "Institutet för arbetsmarknads- och utbildningspolitisk utvärdering",
+   "Kammarkollegiet",
+   "Statistiska centralbyrån"
+  ],
+  "n_appropriations": 1,
+  "appropriations_total_tkr": 76622,
+  "payment_plan_total_tkr": 76622,
+  "md_chars": 8181
+ },
+ "layout": "standard",
+ "warnings": []
+}

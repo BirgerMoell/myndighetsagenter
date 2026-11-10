@@ -1,0 +1,524 @@
+{
+ "schema_version": 1,
+ "id": 26223,
+ "original_rbid": 25959,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-02-05",
+ "year": "2026",
+ "name": "universitet och högskolor",
+ "slug": "universitet-och-hogskolor",
+ "department": "Utbildningsdepartementet",
+ "expenditure_areas": [],
+ "registry_numbers": [
+  "U2026/00185"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1"
+  ],
+  "bet": [
+   "2025/26:UbU1"
+  ],
+  "rskr": [
+   "2025/26:124"
+  ]
+ },
+ "n_attachments_stated": 2,
+ "mission": "De övergripande målen för statliga universitets och högskolors verksamhet anges i högskolelagen (1992:1434).",
+ "goals": [
+  {
+   "title": "Utbildning på grundnivå och avancerad nivå",
+   "group": [],
+   "text": "",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26223:goals:0"
+  },
+  {
+   "title": "Utbildningsutbud",
+   "group": [],
+   "text": "Utbildningsutbudet vid universitet och högskolor ska svara mot studenternas efterfrågan och arbetsmarknadens behov.\n\nUniversitet och högskolor ska redovisa vilka bedömningar, prioriteringar och behovsanalyser som ligger till grund för beslut om utbildningsutbudet. Redovisningen ska inkludera hur lärosätet möter det omgivande samhällets behov av utbildning. Lärosätena ska särskilt redovisa hur de utvecklat utbildningsutbudet för att stärka tillgången till utbildning för livslångt lärande och omställning.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26223:goals:1"
+  },
+  {
+   "title": "Studieavgifter för tredjelandsstudenter",
+   "group": [],
+   "text": "Universitet och högskolor ska redovisa antalet tredjelandsstudenter som har deltagit i utbildning inom ett utbytesavtal och de eventuella förändringar som har skett i denna verksamhet. Universitet och högskolor ska även redovisa antalet avgiftsskyldiga studenter som har antagits genom separat antagning samt hur den studieavgiftsfinansierade verksamheten har påverkats av denna.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26223:goals:2"
+  },
+  {
+   "title": "Ökad rekrytering till STEM-utbildningar",
+   "group": [],
+   "text": "Universitet och högskolor ska vidta åtgärder för att fler ska examineras inom utbildningar inom naturvetenskap, teknik, ingenjörsvetenskap och matematik (STEM). Det kan avse t.ex. förstärkta rekryteringsinsatser och breddad rekrytering, liksom åtgärder för ökad genomströmning i STEM-utbildningar. Universitet och högskolor bör även överväga hur samverkan med andra lärosäten och andra relevanta aktörer om sådana åtgärder kan utvecklas. Särskilt fokus bör vara på att rekrytera fler kvinnor till STEM-utbildningar där de är underrepresenterade. Universitet och högskolor ska vidare se över hur basårsutbildningar kan utvecklas för att bl.a. öka rekryteringen av kvinnor till naturvetenskapliga och tekniska utbildningar.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "samordna",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26223:goals:3"
+  },
+  {
+   "title": "Utvecklat utbildningsutbud avseende AI",
+   "group": [],
+   "text": "Universitet och högskolor ska redovisa hur de arbetar med att analysera behov av att utveckla utbildningsutbudet avseende artificiell intelligens (AI) samt insatser för att integrera AI-inslag i relevanta utbildningar.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla",
+    "digitalisering_ai"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26223:goals:4"
+  },
+  {
+   "title": "Främjande av kurslitteratur",
+   "group": [],
+   "text": "Universitet och högskolor ska redovisa hur de arbetar med att främja tillgången till kurslitteratur.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26223:goals:5"
+  },
+  {
+   "title": "Forskning och utbildning på forskarnivå",
+   "group": [
+    "Främjande av kurslitteratur"
+   ],
+   "text": "",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26223:goals:6"
+  },
+  {
+   "title": "Svenskt deltagande i Horisont Europa",
+   "group": [],
+   "text": "Universitet och högskolor ska redovisa vilka insatser som har bedömts relevanta och har vidtagits för att myndigheten ska bidra till de mål som anges i den nationella strategin för svenskt deltagande i Horisont Europa 2021–2027 (U2021/03975).\n\n**Ekonomisk redovisning m.m.**\n\nFörsvarshögskolan omfattas inte av punkterna 3 och 4.\n\n1. Universitet och högskolor samt enskilda utbildningsanordnare med tillstånd att utfärda examina enligt lagen (1993:792) om tillstånd att utfärda vissa examina får hos Stockholms universitet ansöka om bidrag för pedagogiskt stöd, inklusive teckenspråkstolkning, för studenter med funktionshinder i studiesituationen för de kostnader som överstiger 0,3 procent av anslaget eller bidraget för utbildning på grundnivå och avancerad nivå. Dessa kostnader får, efter att ansökan beviljats, delvis täckas av de medel som disponeras av Stockholms universitet som ett särskilt åtagande som ska finansieras av medel under anslaget 2:65*Särskilda medel till universitet och högskolor.*\n\n**2. Universitet och högskolor får belasta anslagen för utbildning på grundnivå och avancerad nivå, forskning och utbildning på forskarnivå samt konstnärlig forskning och utbildning på forskarnivå med kostnader för personskadeförsäkringar för studenter. Kostnaderna får högst uppgå till 25 kronor per helårsstudent och år.**\n\n**3. Utgiftsprognoser över beräknat utfall för anslaget till utbildning på grundnivå och avancerad nivå för 2026–2029 ska redovisas senast den 22 april 2026 och den 9 november 2026 i informationssystemet Hermes. Som en prognoskommentar ska även följande kompletterande information lämnas för att redovisa prognostiserad överproduktion och antal helårsstudenter:**\n\n| | | | | |\n| --- | --- | --- | --- | --- |\n| **Tusental kronor i löpande priser/antal** | **2026** | **2027** | **2028** | **2029** |\n| Prognos total ersättning | | | | |\n| Ev. utgående anslagssparande | | | | |\n| Ev. utgående överproduktion | | | | |\n| Prognos antal helårsstudenter | | | | |\n\nRaderna i den kompletterande informationen ska vara samma rapporteringspunkter som redovisas i årsredovisningens Redovisning av takbelopp.\n\nPrognoserna ska även kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten.\n\nÄven beräknat utnyttjande av låneram för verksamhetsinvesteringar under året ska kommenteras.\n\n**4. Följande ersättningsbelopp (kronor) ska tillämpas för budgetåret 2026.**\n\n| | | |\n| --- | --- | --- |\n| **UTBILDNINGSOMRÅDE** | **Ersättning för en helårsstudent** | **Ersättning för en helårsprestation** |\n| Humanistiskt, teologiskt, juridiskt, samhällsvetenskapligt | 37 363 | 26 486 |\n| Naturvetenskapligt, tekniskt, farmaceutiskt | 66 824 | 53 728 |\n| Vård | 67 732 | 58 664 |\n| Odontologiskt | 56 011 | 65 247 |\n| Medicinskt | 75 688 | 92 063 |\n| Undervisning | 45 445 | 47 608 |\n| Verksamhetsförlagd utbildning | 64 403 | 62 486 |\n| Övrigt | 51 165 | 41 562 |\n| Design | 180 536 | 109 995 |\n| Konst | 256 301 | 110 034 |\n| Musik | 179 753 | 109 479 |\n| Opera | 371 174 | 222 040 |\n| Teater | 358 917 | 178 773 |\n| Media | 366 276 | 293 401 |\n| Dans | 252 427 | 139 480 |\n| Idrott | 131 538 | 60 870 |\n\nAnm. Utbildningsområdet Undervisning avser utbildning inom det allmänna utbildningsområdet och den utbildningsvetenskapliga kärnan.\\\nUtbildningsområdet Verksamhetsförlagd utbildning avser verksamhetsförlagd utbildning inom lärar- och förskollärarutbildning.\\\nUtbildningsområdet Övrigt avser journalist- och bibliotekarieutbildningar samt praktiska och estetiska kurser inom lärarutbildning med inriktning mot tidigare år, grundlärarutbildning och förskollärarutbildning.\n\nAnvisningar för avräkning av helårsstudenter och helårsprestationer finns i*bilaga 1*och*bilaga 2*.\n\n5. Riktlinjer för redovisning finns i*bilaga 1\\*\\*.*\n\n6. Universitet och högskolor får ta ut och disponera avgifter för verksamheter enligt*bilaga 1*.\n\n**7. Universitet och högskolor får köpa kurser av svenska statliga universitet och högskolor och enskilda utbildningsanordnare som har relevant examenstillstånd (köpt beställd utbildning) eller av utländska lärosäten inom Europeiska ekonomiska samarbetsområdet (EES). Sådana kurser får endast köpas för studenter som har antagits till utbildning hos det lärosäte som köper utbildningen. Avräkning av helårsstudenter och helårsprestationer får endast göras av det lärosäte som köper kurser. Sådana kurser ska av det säljande statliga universitetet eller högskolan inte klassificeras som uppdragsutbildning. Köpt beställd utbildning får inte medföra att förvaltningsuppgifter som innebär myndighetsutövning överförs till enskilda utbildningsanordnare eller till utländska lärosäten utan stöd i lag.**\n\n**8. Stipendier som är avsedda att vara ett alternativ till lön eller annan form av studiefinansiering för doktorander får inte finansieras med medel från statsbudgeten. Därvid avses såväl medel på anslag för forskning och utbildning på forskarnivå som andra statliga medel som fördelas via en statlig myndighet.**\n\n**9. I universitets och högskolors uppgifter att utbilda och forska ingår enligt 1 kap. 2 § andra stycket högskolelagen att samverka med det omgivande samhället för ömsesidigt utbyte och verka för att den kunskap och kompetens som finns vid högskolan kommer samhället till nytta. Intäkter och kostnader för sådan verksamhet får belasta anslagen för utbildning på grundnivå och avancerad nivå respektive anslagen för forskning och utbildning på forskarnivå.**",
+   "dates": [
+    "2026-04-22",
+    "2026-11-09"
+   ],
+   "deadlines": [
+    "2026-04-22"
+   ],
+   "forecast_dates": [],
+   "recipients": [],
+   "partners": [
+    "Försvarshögskolan",
+    "Stockholms universitet"
+   ],
+   "channels": [
+    "årsredovisning",
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos",
+    "analysera",
+    "samordna",
+    "fördela_medel",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [
+    "2:65"
+   ],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "1993:792"
+   ],
+   "sub_questions": [
+    "Universitet och högskolor samt enskilda utbildningsanordnare med tillstånd att utfärda examina enligt lagen (1993:792) om tillstånd att utfärda vissa examina får hos Stockholms universitet ansöka om bidrag för pedagogiskt stöd, inklusive teckenspråkstolkning, för studenter med funktionshinder i studiesituationen för de kostnader som överstiger 0,3 procent av anslaget eller bidraget för utbildning på grundnivå och avancerad nivå. Dessa kostnader får, efter att ansökan beviljats, delvis täckas av de medel som disponeras av Stockholms universitet som ett särskilt åtagande som ska finansieras av medel under anslaget 2:65*Särskilda medel till universitet och högskolor.*",
+    "Riktlinjer för redovisning finns i*bilaga 1\\*\\*.*",
+    "Universitet och högskolor får ta ut och disponera avgifter för verksamheter enligt*bilaga 1*."
+   ],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26223:goals:7"
+  },
+  {
+   "title": "Övrigt",
+   "group": [
+    "Svenskt deltagande i Horisont Europa"
+   ],
+   "text": "**1. Universitet och högskolor ska, samtidigt som de lämnar årsredovisningen till regeringen, lämna en kopia av årsredovisningen till Universitetskanslersämbetet.**\n\n**2. Universitet och högskolor ska lämna de uppgifter som krävs för att Universitetskanslersämbetet ska kunna följa utvecklingen av studenters aktivitet på kurs.**\n\n3. Undantag från vissa bestämmelser finns i*bilaga 1*.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [
+    "Universitetskanslersämbetet",
+    "regeringen"
+   ],
+   "partners": [
+    "Universitetskanslersämbetet"
+   ],
+   "channels": [
+    "årsredovisning"
+   ],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "Undantag från vissa bestämmelser finns i*bilaga 1*."
+   ],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26223:goals:8"
+  },
+  {
+   "title": "Samverkan om kompetensförsörjning inom hälso- och sjukvården",
+   "group": [],
+   "text": "Universitet och högskolor med tillstånd att utfärda examina inom hälso- och sjukvårdsområdet ska delta i samverkan på sjukvårdsregional nivå om kompetensförsörjningsfrågor i hälso- och sjukvården.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "samordna"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26223:goals:9"
+  },
+  {
+   "title": "Strategisk hantering av immateriella tillgångar",
+   "group": [],
+   "text": "Universitet och högskolor ska redovisa de processer, strukturer och arbetssätt som säkerställer en strategisk hantering av immateriella tillgångar för att säkra skydd och kommersiella värden i enlighet med regeringens proposition Forskning och innovation för framtid, nyfikenhet och nytta (prop. 2024/25:60).",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26223:goals:10"
+  },
+  {
+   "title": "Information om beredskap",
+   "group": [],
+   "text": "Universitet och högskolor ska övergripande redogöra för arbetet med de uppgifter som statliga myndigheter har inför och vid fredstida krissituationer och höjd beredskap enligt förordningen (2022:524) om statliga myndigheters beredskap.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2022:524"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26223:goals:11"
+  }
+ ],
+ "org": [],
+ "assignments": [
+  {
+   "title": "Utveckla arbetet med öppen vetenskap",
+   "group": [],
+   "text": "Universitet och högskolor ska fortsätta att utveckla arbetet med öppen vetenskap i syfte att verksamheten ska bidra till att nå den nationella inriktningen för ett öppet vetenskapssystem (prop. 2020/21:60). I arbetet ingår att bidra med underlag till Vetenskapsrådets och Kungl. bibliotekets respektive uppgifter att samordna, följa upp och främja samverkan i arbetet för öppen tillgång till forskningsdata respektive vetenskapliga publikationer.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [
+    "Vetenskapsrådet"
+   ],
+   "partners": [
+    "Kungl. biblioteket",
+    "Vetenskapsrådet"
+   ],
+   "channels": [],
+   "task_types": [
+    "analysera",
+    "samordna",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26223:assignments:0"
+  },
+  {
+   "title": "Samverkan om utbildningsutbud och dimensionering av lärarutbildningar",
+   "group": [],
+   "text": "Universitet och högskolor ska samverka så att utbildningsutbudet och dimensioneringen av förskollärar- och lärarutbildningar svarar mot studenternas efterfrågan och skolhuvudmännens behov på regional och nationell nivå, samt ger förutsättningar för lärarutbildning med hög kvalitet och ett bättre resursutnyttjande. För att möjliggöra ett utbud av förskollärar- och lärarutbildning i hela landet ska lärosätena samverka både med andra lärosäten och med kommuner, bl.a. i form av lärcentrum.\n\nUniversitet och högskolor ska redovisa vilka lärarutbildningar inklusive inriktningar och undervisningsämnen som berörs av samverkan samt vilka lärosäten och kommuner de samverkat med. Lärosätena ska också redovisa pågående och planerade förändringar i utbildningsutbudet med prognos för kommande tre år avseende dimensionering av utbildningsutbud med bedömning av antal helårsstudenter redovisat per lärarutbildning, inriktning, och undervisningsämne. Det ska framgå hur utbildningsutbudet svarar mot det behov som, efter dialog med skolhuvudmännen, bedömts finnas regionalt samt hur samverkan ger förutsättningar för lärarutbildningar med hög kvalitet och ett bättre resursutnyttjande. I arbetet med redovisningen ska lärosätena föra dialog med Universitetskanslersämbetet och lämna uppgifter enligt myndighetens anvisningar. Lärosätena ska också särskilt beskriva hur samverkan fungerar och om det finns behov av regelverksförändringar eller andra åtgärder för att underlätta och stärka samverkan. Lärosätena ska redovisa uppdraget senast den 15 mars 2027 till Universitetskanslersämbetet med kopia till Regeringskansliet (Utbildningsdepartementet).",
+   "dates": [
+    "2027-03-15"
+   ],
+   "deadlines": [
+    "2027-03-15"
+   ],
+   "forecast_dates": [],
+   "recipients": [
+    "Regeringskansliet (Utbildningsdepartementet)",
+    "Universitetskanslersämbetet"
+   ],
+   "partners": [
+    "Universitetskanslersämbetet"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "prognos",
+    "analysera",
+    "samordna"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26223:assignments:1"
+  },
+  {
+   "title": "Tidigare givna uppdrag i särskilda regeringsbeslut",
+   "group": [],
+   "text": "| | | | |\n| --- | --- | --- | --- |\n| Uppdrag | Beslut om uppdrag | Lärosäten som omfattas av uppdraget | Redovisningstidpunkt |\n| Uppdrag om riktlinjer för ansvarsfull internationalisering vid utbildnings-, forsknings- och innovationssamarbeten | U2025/01317 | Statliga universitet och högskolor | Årsredovisningen för 2026 |\n\nPå regeringens vägnar\n\nLotta Edholm\n\nLars Olof Mikaelsson",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "årsredovisning"
+   ],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "26223:assignments:2"
+  },
+  {
+   "title": "Kopia till",
+   "group": [
+    "Tidigare givna uppdrag i särskilda regeringsbeslut"
+   ],
+   "text": "Statsrådsberedningen, internrevisionen\\\nFinansdepartementet, BA, ESA\\\nFörvaltningsavdelningen, RK Ekonomi och affärer\\\nRiksdagen, utbildningsutskottet\\\nJämställdhetsmyndigheten\\\nMigrationsverket\\\nStatskontoret\\\nUniversitetskanslersämbetet\\\nUniversitets- och högskolerådet\\\nUppsala universitet\\\nLunds universitet\\\nGöteborgs universitet\\\nStockholms universitet\\\nUmeå universitet\\\nLinköpings universitet\\\nKarolinska institutet\\\nKungl. Tekniska högskolan\\\nLuleå tekniska universitet\\\nKarlstads universitet\\\nLinnéuniversitetet\\\nÖrebro universitet\\\nMittuniversitetet\\\nMalmö universitet\\\nMälardalens universitet\\\nSveriges lantbruksuniversitet\\\nBlekinge tekniska högskola\\\nFörsvarshögskolan\\\nGymnastik- och idrottshögskolan\\\nHögskolan i Borås\\\nHögskolan Dalarna\\\nHögskolan i Gävle\\\nHögskolan i Halmstad\\\nHögskolan Kristianstad\\\nHögskolan i Skövde\\\nHögskolan Väst\\\nKonstfack\\\nKungl. Konsthögskolan\\\nKungl. Musikhögskolan i Stockholm\\\nStockholms konstnärliga högskola\\\nSödertörns högskola\\\nRiksgäldskontoret\\\nChalmers Tekniska Högskola AB\\\nMarie Cederschiöld högskola AB\\\nSophiahemmet, Ideell förening\\\nStiftelsen Högskolan i Jönköping\\\nStiftelsen Röda Korsets Högskola\\\nSveriges förenade studentkårer",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Blekinge tekniska högskola",
+    "Försvarshögskolan",
+    "Gymnastik- och idrottshögskolan",
+    "Göteborgs universitet",
+    "Högskolan Dalarna",
+    "Högskolan Kristianstad",
+    "Högskolan Väst",
+    "Högskolan i Borås",
+    "Högskolan i Gävle",
+    "Högskolan i Halmstad",
+    "Högskolan i Skövde",
+    "Jämställdhetsmyndigheten",
+    "Karlstads universitet",
+    "Karolinska institutet",
+    "Konstfack",
+    "Kungl. Konsthögskolan",
+    "Kungl. Musikhögskolan i Stockholm",
+    "Kungl. Tekniska högskolan",
+    "Linköpings universitet",
+    "Linnéuniversitetet",
+    "Luleå tekniska universitet",
+    "Lunds universitet",
+    "Malmö universitet",
+    "Migrationsverket",
+    "Mittuniversitetet",
+    "Mälardalens universitet",
+    "Riksgäldskontoret",
+    "Statskontoret",
+    "Stockholms konstnärliga högskola",
+    "Stockholms universitet",
+    "Sveriges lantbruksuniversitet",
+    "Södertörns högskola",
+    "Umeå universitet",
+    "Universitets- och högskolerådet",
+    "Universitetskanslersämbetet",
+    "Uppsala universitet",
+    "Örebro universitet"
+   ],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "26223:assignments:3"
+  }
+ ],
+ "appropriations": [],
+ "financial_terms": [],
+ "loans": {},
+ "payment_plan": [],
+ "finance_tables": [],
+ "fee_tables": [],
+ "has_fee_section": false,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 12,
+  "n_org": 0,
+  "n_assignments": 4,
+  "n_deadlines": 2,
+  "deadlines": [
+   "2026-04-22",
+   "2027-03-15"
+  ],
+  "partners": [
+   "Blekinge tekniska högskola",
+   "Försvarshögskolan",
+   "Gymnastik- och idrottshögskolan",
+   "Göteborgs universitet",
+   "Högskolan Dalarna",
+   "Högskolan Kristianstad",
+   "Högskolan Väst",
+   "Högskolan i Borås",
+   "Högskolan i Gävle",
+   "Högskolan i Halmstad",
+   "Högskolan i Skövde",
+   "Jämställdhetsmyndigheten",
+   "Karlstads universitet",
+   "Karolinska institutet",
+   "Konstfack",
+   "Kungl. Konsthögskolan",
+   "Kungl. Musikhögskolan i Stockholm",
+   "Kungl. Tekniska högskolan",
+   "Kungl. biblioteket",
+   "Linköpings universitet",
+   "Linnéuniversitetet",
+   "Luleå tekniska universitet",
+   "Lunds universitet",
+   "Malmö universitet",
+   "Migrationsverket",
+   "Mittuniversitetet",
+   "Mälardalens universitet",
+   "Riksgäldskontoret",
+   "Statskontoret",
+   "Stockholms konstnärliga högskola",
+   "Stockholms universitet",
+   "Sveriges lantbruksuniversitet",
+   "Södertörns högskola",
+   "Umeå universitet",
+   "Universitets- och högskolerådet",
+   "Universitetskanslersämbetet",
+   "Uppsala universitet",
+   "Vetenskapsrådet",
+   "Örebro universitet"
+  ],
+  "n_appropriations": 0,
+  "appropriations_total_tkr": 0,
+  "payment_plan_total_tkr": 0,
+  "md_chars": 13660
+ },
+ "layout": "standard",
+ "warnings": [
+  "no_finansiering_block"
+ ]
+}

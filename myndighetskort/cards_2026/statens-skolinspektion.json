@@ -1,0 +1,866 @@
+{
+ "schema_version": 1,
+ "id": 26400,
+ "original_rbid": 25789,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-06-18",
+ "year": "2026",
+ "name": "Statens skolinspektion",
+ "slug": "statens-skolinspektion",
+ "department": "Utbildningsdepartementet",
+ "expenditure_areas": [
+  16
+ ],
+ "registry_numbers": [
+  "U2026/01273"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1"
+  ],
+  "bet": [
+   "2025/26:UbU1"
+  ],
+  "rskr": [
+   "2025/26:124"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "",
+ "goals": [
+  {
+   "title": "Mål för stärkt kapacitet i Skolinspektionens verksamhet",
+   "group": [],
+   "text": "Skolinspektionens inspektionsverksamhet ska utökas. Tyngdpunkten för den ska ligga på tillsynen.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "tillsyn_kontroll"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26400:goals:0"
+  },
+  {
+   "title": "Stärkt granskning av kommunal vuxenutbildning",
+   "group": [],
+   "text": "Skolinspektionen ska redovisa hur granskningen av kommunal vuxenutbildning, inklusive kommunal vuxenutbildning i svenska för invandrare (sfi), har stärkts.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "tillsyn_kontroll"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26400:goals:1"
+  },
+  {
+   "title": "Ingripanden vid tillsyn",
+   "group": [],
+   "text": "Skolinspektionen ska redogöra för hur ingripanden vid tillsyn har använts under året och hur myndigheten bedömer att de olika möjligheterna till ingripanden vid tillsyn kan användas för att nå önskad effekt.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "analysera",
+    "tillsyn_kontroll"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26400:goals:2"
+  },
+  {
+   "title": "Lärares tid till undervisning m.m.",
+   "group": [],
+   "text": "Skolinspektionen ska redovisa hur huvudmän och rektorer arbetar för att säkerställa att behöriga förskollärares och lärares arbetsuppgifter i så stor utsträckning som möjligt är undervisning och uppgifter som hör till undervisningen samt hur huvudmän och rektorer säkerställer att personal får nödvändig kompetensutveckling.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "tillsyn_kontroll"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26400:goals:3"
+  },
+  {
+   "title": "Risk- och väsentlighetsanalys",
+   "group": [],
+   "text": "Skolinspektionen ska vartannat år redogöra för hur myndighetens risk- och väsentlighetsanalys fångar upp grundskolor som har stora brister sett till i vilken mån eleverna når kunskapsmålen och då särskilt avseende behörighet till nationella program i gymnasieskolan.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "tillsyn_kontroll"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26400:goals:4"
+  },
+  {
+   "title": "Grundskolor med liten andel behöriga till gymnasieskolans nationella program",
+   "group": [],
+   "text": "Skolinspektionen ska årligen redovisa till Regeringskansliet (Utbildningsdepartementet) hur och med vilket resultat grundskolor med liten andel behöriga till gymnasieskolans nationella program över tid har granskats av myndigheten samt vilka åtgärder som vidtagits av huvudmännen (U2020/06614).",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [
+    "Regeringskansliet (Utbildningsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "tillsyn_kontroll"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26400:goals:5"
+  },
+  {
+   "title": "Informations- och cybersäkerhet",
+   "group": [],
+   "text": "Skolinspektionen ska övergripande redogöra för hur myndigheten har förvaltat och utvecklat sitt arbete med informations– och cybersäkerhet, inklusive den egna organisationens beredskap och möjlighet att hantera incidenter. Myndigheten ska även lämna en redogörelse över vidtagna åtgärder för att utveckla den interna styrningen och uppföljningen av arbetet.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "analysera",
+    "utveckla",
+    "tillsyn_kontroll",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26400:goals:6"
+  },
+  {
+   "title": "Motverka välfärdsbrott m.m.",
+   "group": [],
+   "text": "Skolinspektionen ska redovisa vilka insatser som gjorts för att motverka att kriminella eller på annat sätt olämpliga aktörer verkar inom skolväsendet. Syftet är att inom ramen för Skolinspektionens uppdrag bidra till att skydda Sverige mot välfärdsbrott, ekonomisk brottslighet och organiserad brottslighet.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "tillsyn_kontroll"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26400:goals:7"
+  },
+  {
+   "title": "Fristående skolor med konfessionell inriktning och andra skolor där det förekommer konfessionella inslag",
+   "group": [],
+   "text": "Skolinspektionen ska redovisa erfarenheter och slutsatser från myndighetens granskning av fristående skolor med konfessionell inriktning och andra skolor där det förekommer konfessionella inslag i utbildningen.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "tillsyn_kontroll"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26400:goals:8"
+  },
+  {
+   "title": "Erfarenheter av uppdrag om en översyn av stöd och information",
+   "group": [],
+   "text": "Skolinspektionen ska redovisa hur myndigheten har omhändertagit de erfarenheter och det arbete som har gjorts, bl.a. vad gäller samverkan mellan skolmyndigheterna, inom ramen för uppdraget om en översyn av stöd och information via webbplatser samt om utveckling och samordning av forskningsspridning. Centralt i uppdraget har varit att myndigheternas stöd och information ska vila på gällande rätt, vetenskaplig grund och beprövad erfarenhet. (U2023/02135).",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "tillsyn_kontroll"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26400:goals:9"
+  },
+  {
+   "title": "Fördjupad information om handläggning av ärenden som är föremål för eventuell anmälan till Lärarnas ansvarsnämnd",
+   "group": [],
+   "text": "Skolinspektionen ska redovisa och redogöra för handläggningstider för anmälningsärenden som gäller lärares och förskollärares lämplighet och skicklighet, grunder för anmälningarna till Lärarnas ansvarsnämnd och eventuella utmaningar i arbetet med ärendena.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "tillsyn_kontroll"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26400:goals:10"
+  }
+ ],
+ "org": [],
+ "assignments": [
+  {
+   "title": "Läroböcker och andra lärverktyg i anpassad gymnasieskola",
+   "group": [],
+   "text": "Skolinspektionen ska granska elevers tillgång till läroböcker och andra lärverktyg i anpassad gymnasieskola. Vid genomförandet av uppdraget ska Skolinspektionen inhämta kunskaper och erfarenheter från Myndigheten för tillgängliga medier, Specialpedagogiska skolmyndigheten och Statens skolverk. Uppdraget ska redovisas till Regeringskansliet (Utbildningsdepartementet) senast den 15 december 2028.",
+   "dates": [
+    "2028-12-15"
+   ],
+   "deadlines": [
+    "2028-12-15"
+   ],
+   "recipients": [
+    "Regeringskansliet (Utbildningsdepartementet)"
+   ],
+   "partners": [
+    "Myndigheten för tillgängliga medier",
+    "Specialpedagogiska skolmyndigheten",
+    "Statens skolverk"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla",
+    "tillsyn_kontroll"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26400:assignments:0"
+  },
+  {
+   "title": "Förstärkt tillsyn och verksamhetsutveckling",
+   "group": [],
+   "text": "Skolinspektionen ska successivt ställa om sin verksamhet så att skarp och effektiv tillsyn ska utgöra den huvudsakliga delen av myndighetens granskningsuppdrag. Skolinspektionen ska också utveckla kvalitetsgranskningen så att den kan användas mer effektivt och relevant, som komplement till tillsyn. I arbetet med att utveckla tillsyn och kvalitetsgranskning ska myndigheten utgå ifrån vetenskaplig grund och beprövad erfarenhet. Viktiga förutsättningar för att undervisningen ska hålla god kvalitet och för utbildningen i övrigt ska granskas i högre utsträckning än i dag. Uppdraget ska redovisas till Regeringskansliet (Utbildningsdepartementet) senast den 15 januari 2027. Skolinspektionen ska då redogöra för vilka åtgärder som har vidtagits under 2026 för att uppnå syftet med detta uppdrag samt vilka ytterligare åtgärder som planeras.",
+   "dates": [
+    "2027-01-15"
+   ],
+   "deadlines": [
+    "2027-01-15"
+   ],
+   "recipients": [
+    "Regeringskansliet (Utbildningsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla",
+    "tillsyn_kontroll"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26400:assignments:1"
+  },
+  {
+   "title": "Prognoser",
+   "group": [],
+   "text": "Skolinspektionen ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Prognoserna lämnas i informationssystemet Hermes senast den\n\n– 2 februari\n\n– 22 april\n\n– 24 juli\n\n– 9 november.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos",
+    "tillsyn_kontroll"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26400:assignments:2"
+  },
+  {
+   "title": "Förbereda för ändringar avseende skärpta villkor för friskolesektorn",
+   "group": [],
+   "text": "Skolinspektionen ska förbereda för ändringar med anledning av förslagen i delbetänkandet Skärpta villkor för friskolesektorn (SOU 2025:37) som innebär att myndigheten får nya uppgifter och fler möjligheter att ingripa. Skolinspektionen ska löpande hålla Regeringskansliet (Utbildningsdepartementet) informerat om arbetet.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "utveckla",
+    "tillsyn_kontroll",
+    "informera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26400:assignments:3"
+  },
+  {
+   "title": "Elevers tillgång till bemannade skolbibliotek",
+   "group": [],
+   "text": "Skolinspektionen ska genom tillsyn granska elevers tillgång till bemannade skolbibliotek i förskoleklassen, grundskolan och i gymnasieskolan. Myndigheten ska delredovisa sina erfarenheter och slutsatser av granskningen till Regeringskansliet (Utbildningsdepartementet) senast den 9 december 2026 och lämna en slutredovisning den 9 december 2027 till Regeringskansliet (Utbildningsdepartementet).",
+   "dates": [
+    "2026-12-09",
+    "2027-12-09"
+   ],
+   "deadlines": [
+    "2026-12-09"
+   ],
+   "recipients": [
+    "Regeringskansliet (Utbildningsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [
+    "delredovisning",
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "tillsyn_kontroll"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26400:assignments:4"
+  },
+  {
+   "title": "Skolors säkerhetsarbete i brottsförebyggande syfte",
+   "group": [],
+   "text": "Skolinspektionen ska genom tillsyn granska huvudmäns och skolors säkerhetsarbete i brottsförebyggande syfte utifrån 6 a kap. skollagen (2010:800). Uppdraget ska delredovisas årligen, senast den 15 december, till Regeringskansliet (Utbildningsdepartementet). Uppdraget ska slutredovisas till Regeringskansliet (Utbildningsdepartementet) senast den 15 december 2030.",
+   "dates": [
+    "2030-12-15"
+   ],
+   "deadlines": [
+    "2030-12-15"
+   ],
+   "recipients": [
+    "Regeringskansliet (Utbildningsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [
+    "delredovisning",
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "tillsyn_kontroll"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2010:800"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26400:assignments:5"
+  },
+  {
+   "title": "Barns språkutveckling i svenska i förskolan",
+   "group": [],
+   "text": "Skolinspektionen ska granska huvudmännens arbete med att uppfylla de språkkrav i svenska som finns för förskolans verksamhet, inklusive att stimulera barnens språkutveckling i svenska. Granskningen ska särskilt inrikta sig på huvudmän för förskolor där annat språk än svenska dominerar utbildningen. I granskningen ska hänsyn tas till att det allmänna har ett särskilt ansvar för att skydda och främja de nationella minoritetsspråken och barns rätt till förskola där hela eller en väsentlig del av utbildningen bedrivs på finska, meänkieli respektive samiska. Myndigheten ska redovisa sina erfarenheter och slutsatser från granskningen till Regeringskansliet (Utbildningsdepartementet) senast den 15 mars 2027.",
+   "dates": [
+    "2027-03-15"
+   ],
+   "deadlines": [
+    "2027-03-15"
+   ],
+   "recipients": [
+    "Regeringskansliet (Utbildningsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "tillsyn_kontroll"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26400:assignments:6"
+  },
+  {
+   "title": "Åtgärder mot bl.a. AI-fusk i gymnasieskolan",
+   "group": [],
+   "text": "Skolinspektionen ska granska gymnasieskolors åtgärder i situationer där elever med otillåtna hjälpmedel (t.ex. AI) eller på annat sätt försöker vilseleda vid bedömningen av elevens måluppfyllelse och kunskaper. Uppdraget ska redovisas till Regeringskansliet (Utbildningsdepartementet) senast den 30 april 2027.",
+   "dates": [
+    "2027-04-30"
+   ],
+   "deadlines": [
+    "2027-04-30"
+   ],
+   "recipients": [
+    "Regeringskansliet (Utbildningsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "tillsyn_kontroll",
+    "digitalisering_ai"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26400:assignments:7"
+  },
+  {
+   "title": "Uppdrag som har getts i tidigare regleringsbrev och som ändras i detta regleringsbrev",
+   "group": [],
+   "text": "1. *Skolor med problematik avseende våldsbejakande extremism m.m.*\n\nUppdraget ändras så att redovisning ska ske årligen senast den 1 mars, till Regeringskansliet (Utbildningsdepartementet).\n\n*2. Ekonomisk information på enhetsnivå.*\n\nUppdraget om ekonomisk information på enhetsnivå utgår.\n\n*3. Granskning av skolors genomförande av digitala nationella prov*.\n\nUppdraget om granskning av skolors genomförande av digitala nationella prov utgår.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [
+    "Regeringskansliet (Utbildningsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "*Skolor med problematik avseende våldsbejakande extremism m.m.*"
+   ],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26400:assignments:8"
+  },
+  {
+   "title": "Tidigare givna uppdrag i regleringsbrev eller särskilda regeringsbeslut",
+   "group": [],
+   "text": "1. \\*Oanmälda besök.\\*Uppdraget återges i regleringsbrevet för 2024 och ska redovisas senast den 27 mars 2026.\n2. \\*Utvidgat stödmaterial för kommunernas ägar- och ledningsprövning m.m.\\*Uppdraget återges i regleringsbrevet för 2025 och ska redovisas senast den 5 maj 2026.\n3. \\*Granskning av betygsättning genom prövning efter lovskola.\\*Uppdraget återges i regleringsbrevet för 2025 och ska redovisas senast den 7 maj 2026.\n4. \\*Registerkontroll inom förskola m.fl.\\*Uppdraget återges i regleringsbrevet för 2025 och ska redovisas senast den 9 juni 2026.\n5. *Vetenskaplig grund och beprövad erfarenhet*. Uppdraget återges i regleringsbrevet för 2025 och ska redovisas senast den 15 juni 2026.\n6. \\*Granska tillgång på läroböcker och andra läromedel.\\*Uppdraget återges i regleringsbrevet för 2024 och ska slutredovisas senast den 9 oktober 2026.\n7. \\*Strategi för systematisk uppföljning av funktionshinderspolitiken under 2021–2031 (S2021/06595 och S2025/01367).\\*Redovisas årligen senast den 1 februari i en särskild redovisning till Myndigheten för delaktighet.\n8. \\*Uppdrag att redovisa resultat inom ramen för regeringens utvecklingsprogram för jämställdhetsintegrering i statliga myndigheter (A2024/01457).\\*Redovisas senast den 20 januari 2026.\n\n*För regeringsuppdrag som lämnats i ett särskilt regeringsbeslut utgör uppräkningen endast en upplysning om vilka uppdrag som vid årets början var riktade till myndigheten och vilka tider som då gällde för återrapportering eller liknande.*",
+   "dates": [
+    "2026-01-20",
+    "2026-03-27",
+    "2026-05-05",
+    "2026-05-07",
+    "2026-06-09",
+    "2026-06-15",
+    "2026-10-09"
+   ],
+   "deadlines": [
+    "2026-01-20",
+    "2026-03-27",
+    "2026-05-05",
+    "2026-05-07",
+    "2026-06-09",
+    "2026-06-15",
+    "2026-10-09"
+   ],
+   "recipients": [
+    "Myndigheten för delaktighet"
+   ],
+   "partners": [
+    "Myndigheten för delaktighet"
+   ],
+   "channels": [
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "tillsyn_kontroll",
+    "statistik_data"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "\\*Oanmälda besök.\\*Uppdraget återges i regleringsbrevet för 2024 och ska redovisas senast den 27 mars 2026.",
+    "\\*Utvidgat stödmaterial för kommunernas ägar- och ledningsprövning m.m.\\*Uppdraget återges i regleringsbrevet för 2025 och ska redovisas senast den 5 maj 2026.",
+    "\\*Granskning av betygsättning genom prövning efter lovskola.\\*Uppdraget återges i regleringsbrevet för 2025 och ska redovisas senast den 7 maj 2026.",
+    "\\*Registerkontroll inom förskola m.fl.\\*Uppdraget återges i regleringsbrevet för 2025 och ska redovisas senast den 9 juni 2026.",
+    "*Vetenskaplig grund och beprövad erfarenhet*. Uppdraget återges i regleringsbrevet för 2025 och ska redovisas senast den 15 juni 2026.",
+    "\\*Granska tillgång på läroböcker och andra läromedel.\\*Uppdraget återges i regleringsbrevet för 2024 och ska slutredovisas senast den 9 oktober 2026.",
+    "\\*Strategi för systematisk uppföljning av funktionshinderspolitiken under 2021–2031 (S2021/06595 och S2025/01367).\\*Redovisas årligen senast den 1 februari i en särskild redovisning till Myndigheten för delaktighet.",
+    "\\*Uppdrag att redovisa resultat inom ramen för regeringens utvecklingsprogram för jämställdhetsintegrering i statliga myndigheter (A2024/01457).\\*Redovisas senast den 20 januari 2026."
+   ],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "26400:assignments:9"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "1:2",
+   "name": "Statens skolinspektion",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 16,
+    "name": "Utbildning och universitetsforskning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Statens skolinspektion",
+     "amount_tkr": 676633,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Statens skolinspektion (ram)",
+       "amount_tkr": 676633
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Statens skolinspektion",
+     "text": "Anslagsposten får användas för Skolinspektionens och Skolväsendets överklagandenämnds förvaltningsutgifter."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "1:2 Statens skolinspektion",
+   "ap": "ap.1",
+   "Anslagskredit": 20298,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 35000,
+  "Räntekontokredit": 32000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 56386
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 56386
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 56386
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 56386
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 56386
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 56386
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 56386
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 56386
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 56386
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 56386
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 56386
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 56387
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:2 Statens skolinspektion",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "20 298",
+     "3 %",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "35 000"
+    ],
+    [
+     "Räntekontokredit",
+     "32 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "56 386"
+    ],
+    [
+     "2026-02-25",
+     "56 386"
+    ],
+    [
+     "2026-03-25",
+     "56 386"
+    ],
+    [
+     "2026-04-25",
+     "56 386"
+    ],
+    [
+     "2026-05-25",
+     "56 386"
+    ],
+    [
+     "2026-06-25",
+     "56 386"
+    ],
+    [
+     "2026-07-25",
+     "56 386"
+    ],
+    [
+     "2026-08-25",
+     "56 386"
+    ],
+    [
+     "2026-09-25",
+     "56 386"
+    ],
+    [
+     "2026-10-25",
+     "56 386"
+    ],
+    [
+     "2026-11-25",
+     "56 386"
+    ],
+    [
+     "2026-12-25",
+     "56 387"
+    ],
+    [
+     "Summa",
+     "676 633"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "1:2 ap.1",
+     "Statens skolinspektion"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna ej disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "Ink. tit.",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Offentligrättslig verksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Avgifter för ansökningar om godkännande som enskild huvudman1",
+     "2552",
+     "-3 366",
+     "-734",
+     "7 000",
+     "8 100",
+     "-1 100",
+     "-5 200"
+    ]
+   ]
+  }
+ ],
+ "has_fee_section": true,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 11,
+  "n_org": 0,
+  "n_assignments": 10,
+  "n_deadlines": 13,
+  "deadlines": [
+   "2026-01-20",
+   "2026-03-27",
+   "2026-05-05",
+   "2026-05-07",
+   "2026-06-09",
+   "2026-06-15",
+   "2026-10-09",
+   "2026-12-09",
+   "2027-01-15",
+   "2027-03-15",
+   "2027-04-30",
+   "2028-12-15",
+   "2030-12-15"
+  ],
+  "partners": [
+   "Myndigheten för delaktighet",
+   "Myndigheten för tillgängliga medier",
+   "Specialpedagogiska skolmyndigheten",
+   "Statens skolverk"
+  ],
+  "n_appropriations": 1,
+  "appropriations_total_tkr": 676633,
+  "payment_plan_total_tkr": 676633,
+  "md_chars": 13866
+ },
+ "layout": "standard",
+ "warnings": []
+}

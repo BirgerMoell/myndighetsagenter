@@ -1,0 +1,1901 @@
+{
+ "schema_version": 1,
+ "id": 27590,
+ "original_rbid": 25710,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-10-29",
+ "year": "2026",
+ "name": "Styrelsen för internationellt utvecklingssamarbete",
+ "slug": "styrelsen-for-internationellt-utvecklingssamarbete",
+ "department": "Utrikesdepartementet",
+ "expenditure_areas": [
+  5,
+  7
+ ],
+ "registry_numbers": [
+  "UD2026/16379"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1",
+   "2025/26:99"
+  ],
+  "bet": [
+   "2025/26:FiU21",
+   "2025/26:UU2"
+  ],
+  "rskr": [
+   "2025/26:120",
+   "2025/26:346"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "Sida ska bidra till att uppnå det av riksdagen beslutade målet för internationellt bistånd att skapa förutsättningar för bättre levnadsvillkor för människor som lever i fattigdom och förtryck.\n\nBiståndet utgör samtidigt ett av de viktigaste utrikespolitiska verktygen för att främja och värna svenska intressen och möta de utmaningar som vi och världen står inför.\n\nSidas huvudsakliga uppgifter framgår av förordningen (2025:269) med instruktion för Styrelsen för internationellt utvecklingssamarbete (Sida).",
+ "goals": [
+  {
+   "title": "Svenskt bistånd ska vara effektivt och resultatorienterat",
+   "group": [],
+   "text": "För att främja en ökad effektivitet i biståndet ska Sida:\n\n1. Låta vetenskapligt grundad analys och evidens vara vägledande i val av insatser för att biståndet ska få största möjliga effekt.\n2. Minska administrativa kostnader och transaktionskostnader samt transaktionsled i verksamheten genom att bland annat förändra arbetssätt och redovisa vidtagna åtgärder och resultat av dessa.\n3. Verka för att andelen bistånd som kanaliseras via civilsamhället ökar.\n4. Säkerställa insyn och transparens vad gäller urval av samarbetsparter och finansiering av verksamheter. Urval ska ske utifrån i förväg etablerade och tydligt kommunicerade kriterier. Utifrån dessa ska myndigheten kunna motivera hur och varför samarbetsparter och verksamheter väljs ut.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "informera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "Låta vetenskapligt grundad analys och evidens vara vägledande i val av insatser för att biståndet ska få största möjliga effekt.",
+    "Minska administrativa kostnader och transaktionskostnader samt transaktionsled i verksamheten genom att bland annat förändra arbetssätt och redovisa vidtagna åtgärder och resultat av dessa.",
+    "Verka för att andelen bistånd som kanaliseras via civilsamhället ökar.",
+    "Säkerställa insyn och transparens vad gäller urval av samarbetsparter och finansiering av verksamheter. Urval ska ske utifrån i förväg etablerade och tydligt kommunicerade kriterier. Utifrån dessa ska myndigheten kunna motivera hur och varför samarbetsparter och verksamheter väljs ut."
+   ],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27590:goals:0"
+  },
+  {
+   "title": "Transparensen i svenskt bistånd ska öka",
+   "group": [],
+   "text": "Sida ska bibehålla hög takt i arbetet med att öka transparensen i svenskt bistånd. Den fortsatta utvecklingen av OpenAid ska prioriteras, med fokus på att förbättra användarvänligheten, sökbarheten och visning av eventuell vidareförmedling. Redovisningen ska redogöra för pågående och planerade åtgärder för fortsatt utveckling av OpenAid i enlighet med det s.k. transparensuppdraget (UD2024/13584).",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27590:goals:1"
+  },
+  {
+   "title": "Evidensbaserad styrning",
+   "group": [],
+   "text": "Sida ska redovisa hur myndigheten utvecklar och stärker evidensbaserad styrning i biståndets genomförande. Åtgärdsplanen i enlighet med uppdrag (UD2025/10436) ska uppdateras kontinuerligt och inkludera förbättrad effektuppföljning samt användning av evidens för vägval och prioriteringar.\n\nMyndigheten ska säkerställa långsiktig finansiering av denna reform, samt värna utvärderingsverksamhetens oberoende och integritet i både prioritering och genomförande.\n\nRedovisning ska ske både på strateginivå (i strategirapporter) och myndighetsnivå (i årsredovisningen) och redogöra för samarbeten och typer av verksamheter som Sida har valt bort, fasat ut eller nedprioriterat på grund av bristande evidens om effektivitet.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "årsredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27590:goals:2"
+  },
+  {
+   "title": "Stärkta kontrollmekanismer",
+   "group": [],
+   "text": "Sida ska stärka de kontrollmekanismer som finns för att säkerställa att mottagare av bistånd inte är aktörer som stödjer våldsbejakande extremism inklusive islamism, antisemitism, terrorism och hatpropaganda riktat mot individer eller grupper, utan som stödjer demokratiska värderingar och mänskliga rättigheter.\n\nSida ska stärka sin kapacitet att göra egna systematiska bedömningar av risker och lämplighet i val av partners. I känsliga kontexter ska Sida inhämta synpunkter om lämpligheten i tilltänkt insats från berörd utlandsmyndighet. Sida ska även vidta åtgärder för att säkerställa att dokumenterade rutiner för granskning mot EU:s sanktionslista tillämpas i samtliga led av biståndsförmedling. I osäkra fall ska försiktighetsprincipen tillämpas.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "analysera",
+    "samordna",
+    "tillsyn_kontroll",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27590:goals:3"
+  },
+  {
+   "title": "Synergier och omställning",
+   "group": [],
+   "text": "Sida ska öka synergierna mellan bistånd, främjande och handelspolitik, liksom mellan bistånd och migrationspolitik. Sida ska löpande hålla sig informerad om utrikespolitiska prioriteringar som har betydelse för verksamheten, bl.a. genom inhämtning att ta del av information från Regeringskansliet (Utrikesdepartementet) och berörda utlandsmyndigheter. Genomförda åtgärder och resultat vad gäller mål- och återrapporteringskravet ska redovisas.\n\nÖkat fokus ska ges till civilsamhällesorganisationer och privata aktörer som arbetar med att mobilisera katalytisk finansiering inom ramen för de sju tematiska prioriteringarna i Reformagendan (Bistånd för en ny era - Frihet, egenmakt och hållbar tillväxt, UD2023/17726). Sida ska redovisa vilken verksamhet (antal insatser och total volym i kronor) som har avslutats med syfte att skapa utrymme för nya partners i linje med reformagendan samt hur Sida resurssätter denna omställning.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "informera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27590:goals:4"
+  },
+  {
+   "title": "Handel och bistånd",
+   "group": [],
+   "text": "Sida ska inom ramen för arbetet med att stärka synergier mellan bistånd, främjande och handelspolitik redovisa:\n\n**1. Hur samarbetet med Team Sweden och den bredare svenska resursbasen har utvecklats och hur myndigheten har bidragit till Team Sweden-ansatsen för strategiska projekt i låg- och medelinkomstländer samt vilka resultat som uppnåtts. Myndigheten ska särskilt redovisa hur man arbetar i länder där det inte finns utsänd Sida-personal.**\n\n**2. Hur myndigheten utvecklat samarbetet med Team Sweden i Ukraina och hur Sidas stöd skapar och tillvaratar synergier och främjar samverkan med hela den svenska resursbasen inklusive svenska företag och civilsamhällets organisationer.**\n\n**3. Vilka åtgärder som vidtagits vid multilaterala upphandlingar för att öka genomslaget av hållbarhetskriterier och livscykelperspektiv samt hur samarbetet med Team Sweden har utvecklats för att stärka svenska företags möjligheter att delta. Myndigheten ska särskilt redovisa sitt bidrag till svenskt genomslag i Global Gateway-samarbetet.**\n\n**4. Hur myndigheten har stärkt privata investeringar, främjat effektiva och transparenta skattesystem, handel och näringslivets roll i linje med det nya globala ramverket för utvecklingsfinansiering, det så kallade Sevilla-åtagandet. Sida ska verka för och bidra till ökad mobilisering av andra aktörers, inklusive den privata sektorns, engagemang och investeringar i hållbar utveckling.**\n\n**5. Vilka åtgärder myndigheten vidtagit för att se till att samhällsekonomiska totalkostnader beaktas vid myndighetens beslut om stöd till digitalisering och digital infrastruktur. Åtgärderna ska särskilt beakta informations- och cybersäkerhet, EU:s verktygslåda för 5G-cybersäkerhet, samt risker kopplat till att utveckla beroendeförhållanden till auktoritära stater för kritisk infrastruktur. Sida ska redovisa vilka åtgärder som myndigheten har vidtagit för att stärka en demokratisk digital utveckling och cybersäkerhet hos partnerländerna. Åtgärderna ska redovisas utifrån ett geopolitiskt sammanhang.**\n\n**6. Hur arbetet fortskridit med genomförandet av främjande- och kommunikationskonceptet Made with Sweden.**",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "fördela_medel",
+    "utveckla",
+    "digitalisering_ai",
+    "beredskap_säkerhet",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27590:goals:5"
+  },
+  {
+   "title": "Migration",
+   "group": [],
+   "text": "Fokus på migration inom utvecklingssamarbetet ska öka ytterligare för att värna det svenska intresset att motverka irreguljär migration och dess risker samt främja återvändande, frivillig återvandring och hållbar återintegrering. Sida ska i genomförandet av Strategin för Sveriges globala utvecklingsarbete inom migration, återvändande och frivillig återvandring 2024–2028 (UD2024/14340) och i strategier som har mål inom migrationsområdet eller verksamheter som har beröringspunkter med migrationsfrågorna i de prioriterade länderna och längs de prioriterade rutterna, bistå regeringen i genomförandet av en incitamentsbaserad ansats för att säkerställa synergier mellan migration och bistånd. Sida ska löpande beakta Regeringskansliets (Utrikesdepartementet) prioriteringar och bedömningar.\n\nSynergier ska främjas med Regeringskansliets migrationsrelaterade projekt. Sida ska föra dialog och främja synergier med Migrationsverket och andra myndigheter som bedriver migrationsrelaterad verksamhet.\n\nSida ska redovisa hur myndigheten har organiserats och resurssatts samt samverkat operativt med relevanta aktörer för att på ett ändamålsenligt och effektivt sätt genomföra regeringens strategi för Sveriges globala utvecklingssamarbete inom migration, återvändande och frivillig återvandring i enlighet med regeringens beslut.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Migrationsverket"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27590:goals:6"
+  },
+  {
+   "title": "En mer flexibel styrning och hantering av biståndet",
+   "group": [],
+   "text": "Fleråriga biståndsstrategier ska främja hållbara resultat, långsiktighet och förutsägbarhet. Sida ska i komplexa och snabbt föränderliga miljöer prioritera samarbetspartner som har kapacitet och beredskap att ställa om och anpassa verksamheten till plötsliga förändringar. Såväl verksamhet som finansiering ska snabbt kunna justeras eller avbrytas i sådana miljöer. I dessa kontexter ska Sida i ökad utsträckning ingå kortare avtal med lägre belopp än idag inom utvecklingssamarbetet. Sida ska redovisa genomförda åtgärder samt hur myndigheten har arbetat för att öka flexibiliteten i styrningen och hanteringen av biståndet.\n\nI operationalisering och genomförande av strategier ska risk för biståndsberoende alltid identifieras och motverkas. All verksamhet ska utformas för att bidra till hållbara resultat som består efter avslutad insats. Stödet ska vara utformat så att det bidrar till att länderna långsiktigt kan ta ansvar för sin egen utveckling och befolkningens välstånd.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "utveckla",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27590:goals:7"
+  },
+  {
+   "title": "Effektiviserat klimatbistånd och grön global omställning",
+   "group": [],
+   "text": "Sida ska redovisa vilka åtgärder som vidtagits för ökad effektivitet i klimatbiståndet. Sida ska bidra till att påskynda den gröna globala omställningen och stärka anpassningsarbetet för att stödja genomförandet av Parisavtalet och Kunming-Montreal ramverket om biologisk mångfald. Sida ska redovisa vilka åtgärder som vidtagits för ökad effektivitet i klimatbiståndet.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27590:goals:8"
+  },
+  {
+   "title": "Förhandlingar kopplat till FN:s klimatkonvention",
+   "group": [],
+   "text": "Sida ska redovisa hur myndigheten har bidragit till Regeringskansliets arbete med de internationella klimatförhandlingarna (UNFCCC) och dess klimatfonder. Sida ska särskilt bidra vad gäller klimatanpassning, de minst utvecklade länderna samt kapacitetsuppbyggnad för klimatkonventionens och Parisavtalets genomförande. Sida ska delta och bidra till styrelsearbetet i Gröna klimatfonden.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [
+    "Regeringskansliet"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27590:goals:9"
+  },
+  {
+   "title": "Förhandlingar kopplat till FN:s konvention om biologisk mångfald",
+   "group": [],
+   "text": "Sida ska redovisa hur myndigheten har bidragit till Regeringskansliets arbete med de internationella förhandlingarna inom ramen för FN:s konvention om biologisk mångfald i de delar som rör resursmobilisering samt kapacitetsbyggande.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [
+    "Regeringskansliet"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27590:goals:10"
+  },
+  {
+   "title": "Garantiinstrumentets användning i utvecklingssamarbetet",
+   "group": [],
+   "text": "Sida ska redovisa användningen av garantier i utvecklingssamarbetet. Redovisningen ska inkludera:\n\n1. antalet garantier, garantivolym i kronor och mobiliserat kapital per strategi\n2. garantiportföljens tematiska inriktning\n3. nya garantier som avtalats under året\n4. subventioner av avgifter och eventuella skadefall, aggregerat för årets verksamhet\n5. antalet garantier och garantivolym i kronor som utfärdats inom ramen för Team Sweden-samarbetet.\n\nSida ska redovisa myndighetens bedömning av garantiernas effektivitet och resultat. Sida ska också redovisa hur myndigheten har arbetat med att utveckla garantiverksamheten samt, inklusive hur garantiinstrumentet kan användas i en projektansats i syfte att bidra till stärkta synergier som en del av Team Sweden-samarbetet. Sida ska i dialog med andra relevanta aktörer verka för att Sidas garantiinstrument utgör ett komplement till andra finansieringslösningar.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "antalet garantier, garantivolym i kronor och mobiliserat kapital per strategi",
+    "garantiportföljens tematiska inriktning",
+    "nya garantier som avtalats under året",
+    "subventioner av avgifter och eventuella skadefall, aggregerat för årets verksamhet",
+    "antalet garantier och garantivolym i kronor som utfärdats inom ramen för Team Sweden-samarbetet."
+   ],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27590:goals:11"
+  },
+  {
+   "title": "Resultatredovisning av biståndsverksamheten",
+   "group": [],
+   "text": "Sida ska övergripande redovisa resultat och effekter av verksamhet som bidrar till att uppfylla målet för det internationella biståndet. Redovisningen ska innehålla bedömning och analys av måluppfyllelse. Sida ska redovisa resultat för nedanstående områden:\n\n- Ökat fokus på Ukraina och närområdet.\n- Fattigdomsbekämpning genom jobbskapande, handel och utbildning.\n- Förbättrad hälsa för de allra mest utsatta.\n- Främja frihet och bekämpa förtyck.\n- Utökat och effektiviserat klimatbistånd.\n- Stärka kvinnors och flickors frihet och egenmakt.\n- Stärka synergier mellan bistånds- och migrationspolitiken.\n- Stärkt humanitärt stöd för att rädda liv och lindra nöd.\n\nRedovisningen ska utgå från målen i de strategier för svenskt utvecklingssamarbete som regeringen har beslutat inom respektive område.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "Ökat fokus på Ukraina och närområdet.",
+    "Fattigdomsbekämpning genom jobbskapande, handel och utbildning.",
+    "Förbättrad hälsa för de allra mest utsatta.",
+    "Främja frihet och bekämpa förtyck.",
+    "Utökat och effektiviserat klimatbistånd.",
+    "Stärka kvinnors och flickors frihet och egenmakt.",
+    "Stärka synergier mellan bistånds- och migrationspolitiken.",
+    "Stärkt humanitärt stöd för att rädda liv och lindra nöd."
+   ],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27590:goals:12"
+  },
+  {
+   "title": "Utvecklad redovisning av resultat",
+   "group": [],
+   "text": "Sida ska utveckla resultatredovisningen av myndighetens verksamhet med analytiska resonemang som utgår från en tydlig verksamhetslogik, där konkreta och mätbara resultat ges ett sammanhang. Redovisningen ska utgå från regeringens prioriteringar. Jämförbarhet av resultat ska eftersträvas. Resonemang om lärdomar, både positiva och negativa, ska också ingå.\n\nFör att främja lärande och synliggöra komplementaritet ska Sida i arbetet med resultatredovisningen föra dialog med relevanta biståndsfinansierade myndigheter, såsom Folke Bernadotteakademin och Svenska institutet.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Folke Bernadotteakademin",
+    "Svenska institutet"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27590:goals:13"
+  },
+  {
+   "title": "Extern kommunikation",
+   "group": [],
+   "text": "Sidas kommunikationsinsatser ska öka synlighet och genomslag för svenskt bistånd bland internationella målgrupper i verksamhetsländerna, med principen ”Sverige – en röst” som vägledning för avsändare av myndighetens kommunikation. Myndigheten ska säkerställa att kommunikation är en integrerad del av uppdraget för Sidas utsända medarbetare vid utlandsmyndigheter, och redovisa hur verksamheten har omorienterats för att aktivt stödja de utsändas kommunikationsuppdrag. Målet är att stärka det svenska biståndets internationella genomslag samt att öka kännedomen om de svenska biståndsinsatserna bland prioriterade målgrupper i utlandet.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "informera",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27590:goals:14"
+  },
+  {
+   "title": "Sveriges roll i genomförandet av EU-bistånd",
+   "group": [],
+   "text": "Sida ska utveckla och stärka arbetet för att öka det svenska genomförandet av EU-bistånd, i syfte att stärka genomslaget för svenska intressen och prioriteringar. Sida ska vidta åtgärder för att öka svenska myndigheters och andra relevanta svenska aktörers deltagande i EU-finansierade insatser, inklusive genom ökade EU-delegeringar via Sida och annat relevant stöd till myndigheters deltagande i EU-biståndet. Sida ska under genomförandet ha en löpande dialog med Regeringskansliet (Utrikesdepartementet). Sida ska redovisa vidtagna åtgärder och ge förslag på hur arbetet kan utvecklas ytterligare framåt.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "utveckla",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27590:goals:15"
+  }
+ ],
+ "org": [
+  {
+   "title": "Säkerhet för utlandsstationerad personal",
+   "group": [],
+   "text": "Sida ska redovisa hur myndigheten har arbetat för att utveckla och stärka säkerheten för utlandsstationerad personal, medföljande och resande personal med särskilt fokus på personer som inte tjänstgör vid utlandsmyndigheter. Redovisningen ska därtill beskriva hur behovet av utbildning i säkerhet har tillgodosetts för utlandsstationerad personal, medföljande och resande personal.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "org",
+   "item_id": "27590:org:0"
+  },
+  {
+   "title": "Omställning till ny organisation",
+   "group": [],
+   "text": "Sida ska redovisa vilka åtgärder myndigheten vidtagit för att stärka kompetensförsörjningen för att genomföra regeringens reformagenda Bistånd för en ny era – Frihet, egenmakt och hållbar tillväxt, UD2023/17726.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "org",
+   "item_id": "27590:org:1"
+  }
+ ],
+ "assignments": [
+  {
+   "title": "Utvecklad korruptionsrapport",
+   "group": [],
+   "text": "Sida ska komplettera sin årliga korruptionsrapport med en fördjupad analys av i vilka geografiska och tematiska kontexter korruption förekommer i störst omfattning. Sida ska redovisa de lärdomar som myndigheten drar samt de åtgärder för att motverka korruption i biståndet som analysen visar behov av. Detta inkluderar interna åtgärder för att bygga en motståndskraftig organisation liksom förslag till eventuella ändringar i den interna styrningen. Korruptionsrapporten, med ovan tillägg, ska redovisas till Regeringskansliet (Utrikesdepartementet) senast den 29 maj 2026.",
+   "dates": [
+    "2026-05-29"
+   ],
+   "deadlines": [
+    "2026-05-29"
+   ],
+   "recipients": [
+    "Regeringskansliet (Utrikesdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27590:assignments:0"
+  },
+  {
+   "title": "Villkorat bistånd",
+   "group": [],
+   "text": "Sida ska utveckla metoder för att möjliggöra genomförande av utvecklingsbistånd som villkoras i syfte att länder ska samarbeta bättre med Sverige i migrationsfrågor. Sida ska inom ramen för uppdraget bidra med överväganden och analys rörande olika varianter av villkorat bistånd samt i övrigt belysa aspekter som bedöms relevanta för genomförandet. Uppdraget ska redovisas till Regeringskansliet (Utrikesdepartementet) senast den 30 april 2026.",
+   "dates": [
+    "2026-04-30"
+   ],
+   "deadlines": [
+    "2026-04-30"
+   ],
+   "recipients": [
+    "Regeringskansliet (Utrikesdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27590:assignments:1"
+  },
+  {
+   "title": "Informationssäkerhet",
+   "group": [],
+   "text": "Sida ska redogöra för hur myndigheten har förvaltat och utvecklat sitt arbete med informations- och cybersäkerhet. Detta inbegriper såväl Sidas arbete i fält, via partners samt myndighetens egen beredskap och möjlighet att hantera incidenter. I detta ingår bl.a. att redogöra för hur myndigheten har använt Myndigheten för civilt försvars verktyg Cybersäkerhetskollen, eller motsvarande verktyg, för att stödja uppföljning och förbättring av systematiskt informations- och cybersäkerhetsarbete i samhällsviktiga verksamheter, samt hur myndigheten planerar att möta framtida behov inom informations- och cybersäkerhetsområdet, inklusive vid upphandlingar. Därtill ska Sida redogöra för vilka åtgärder myndigheten vidtagit för att höja den egna personalens medvetenhet i frågor som rör informationssäkerhet.\n\nRedovisning ska ske i särskild ordning till Regeringskansliet (Utrikesdepartementet) senast den 30 september 2026. Redovisningen ska innehålla resultatet från Cybersäkerhetskollen, en analys av nuläget samt vidtagna och planerade förbättringsåtgärder.",
+   "dates": [
+    "2026-09-30"
+   ],
+   "deadlines": [
+    "2026-09-30"
+   ],
+   "recipients": [
+    "Regeringskansliet (Utrikesdepartementet)"
+   ],
+   "partners": [
+    "Myndigheten för civilt försvar"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27590:assignments:2"
+  },
+  {
+   "title": "Öka förmågan att använda AI och ny teknik genom datadrivet arbete",
+   "group": [],
+   "text": "Sida ska kort redovisa i vilken utsträckning myndigheten arbetar datadrivet. Eventuella hinder eller framgångsfaktorer för datadrivet arbete och användande av AI-teknik ska även redovisas kortfattat. Uppdraget ska redovisas till Regeringskansliet (Utrikesdepartementet) senast den 15 maj 2026.",
+   "dates": [
+    "2026-05-15"
+   ],
+   "deadlines": [
+    "2026-05-15"
+   ],
+   "recipients": [
+    "Regeringskansliet (Utrikesdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "statistik_data",
+    "digitalisering_ai"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27590:assignments:3"
+  },
+  {
+   "title": "Redovisning av insatser som inte publiceras på Openaid",
+   "group": [],
+   "text": "I enlighet med uppdrag om att öka transparensen i biståndet (UD2024/13584) ska Sida i särskild ordning till Regeringskansliet (Utrikesdepartementet) redovisa insatser och aktörer, inklusive efterföljande led, som inte publicerats på Openaid eller i CSO-databasen. Redovisningen ska inkludera en kort beskrivning av insatserna och aktörerna, inklusive efterföljande led, samt information om vad som har varit skälet till att insatserna eller aktörerna inte har offentliggjorts för allmänheten. Tidpunkten för den årliga redovisningen av uppdraget för åren 2026–2028 senareläggs så att redovisningen, i stället för den 20 februari, ska inkomma till Regeringskansliet (Utrikesdepartementet) senast den 15 mars varje år.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [
+    "Regeringskansliet (Utrikesdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27590:assignments:4"
+  },
+  {
+   "title": "Demokrati och mänskliga rättigheter",
+   "group": [],
+   "text": "Sida ska bistå Regeringskansliet (Utrikesdepartementet) med regeringens arbete för att stärka förutsättningar för fria val och aktivt bidra till dess genomförande. Sida ska bidra med en strategisk analys baserad på pågående aktiviteter och strategier. Analysen bör belysa nya behov och framtida utmaningar, med hänsyn till de svårigheter som främjar förutsättningarna för fria stater står inför såsom desinformation och hybrida hot, inte minst till följd av teknologisk utveckling. Sida ska även bistå Regeringskansliet (Utrikesdepartementet) i arbetet med att följa upp pågående internationella processer om uppdatering av normverk för val, valobservationer samt valstöd.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "analysera",
+    "samordna",
+    "utveckla",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27590:assignments:5"
+  },
+  {
+   "title": "Handlingsplan för kvinnor, fred och säkerhet",
+   "group": [],
+   "text": "Sida ska bidra till att genomföra FN:s säkerhetsrådsresolutioner om kvinnor, fred och säkerhet med utgångspunkt i den nationella handlingsplanen på området (UD2023/04798). Myndighetens arbete ska redovisas utifrån de fyra övergripande målen i handlingsplanen. Redovisningen ska lämnas till Regeringskansliet (Utrikesdepartementet) senast den 22 februari 2026.",
+   "dates": [
+    "2026-02-22"
+   ],
+   "deadlines": [
+    "2026-02-22"
+   ],
+   "recipients": [
+    "Regeringskansliet (Utrikesdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27590:assignments:6"
+  },
+  {
+   "title": "Sekonderingar",
+   "group": [],
+   "text": "Sida ska löpande redovisa samtliga pågående sekonderingar och resursbasprogram på OpenAid, på ett sätt som är sökbart per organisation, land och tematik. Biståndsfinansierade sekonderingar som genomförs av andra myndigheter, ska ingå i redovisningen.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27590:assignments:7"
+  },
+  {
+   "title": "Bidrag till multilaterala utvecklingsorganisationer",
+   "group": [],
+   "text": "Sida ska redovisa utbetalade bidrag under 2025 till multilaterala utvecklingsorganisationer. Redovisningen ska lämnas till Regeringskansliet (Utrikesdepartementet) senast den 31 maj 2026.",
+   "dates": [
+    "2026-05-31"
+   ],
+   "deadlines": [
+    "2026-05-31"
+   ],
+   "recipients": [
+    "Regeringskansliet (Utrikesdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "fördela_medel"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27590:assignments:8"
+  },
+  {
+   "title": "Utvärdering av utrikeshandelsstrategin",
+   "group": [],
+   "text": "Sida ska bidra med information till Statskontorets utvärdering av genomförandet av strategin för Sveriges utrikeshandel, investeringar och globala konkurrenskraft.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [
+    "Statskontoret"
+   ],
+   "partners": [
+    "Statskontoret"
+   ],
+   "channels": [],
+   "task_types": [
+    "analysera",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27590:assignments:9"
+  },
+  {
+   "title": "Handelsrelaterade insatser",
+   "group": [],
+   "text": "Sida ska redovisa utfall och prognoser för genomförandet (volym och inriktning, till och med år 2025) samt analys av fördelningen av handelsrelaterade insatser. Redovisningen ska lämnas till Regeringskansliet (Utrikesdepartementet) senast den 30 april 2026.",
+   "dates": [
+    "2026-04-30"
+   ],
+   "deadlines": [
+    "2026-04-30"
+   ],
+   "forecast_dates": [],
+   "recipients": [
+    "Regeringskansliet (Utrikesdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "prognos",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27590:assignments:10"
+  },
+  {
+   "title": "Redovisning av utsläppsminskningar",
+   "group": [],
+   "text": "Sida ska redovisa hur mycket utsläppsminskningar av växthusgaser myndighetens verksamhet uppskattas ha bidragit till under perioden 2023–2025. Redovisningen ska lämnas till Regeringskansliet (Utrikesdepartementet) senast den 1 juni 2026.",
+   "dates": [
+    "2026-06-01"
+   ],
+   "deadlines": [
+    "2026-06-01"
+   ],
+   "recipients": [
+    "Regeringskansliet (Utrikesdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27590:assignments:11"
+  },
+  {
+   "title": "Redovisning av utsläppsminskningar genom biståndsverksamheten",
+   "group": [],
+   "text": "Sida ska redovisa hur myndighetens biståndsverksamhet bidrar till utsläppsminskningar av växthusgaser, inklusive exempel på insatser under perioden 2023–2025. Sida ska även redovisa förslag på hur myndigheten framöver kan rapportera utsläppsminskningar som den samlade biståndsverksamheten har bidragit till. Redovisningen ska lämnas till Regeringskansliet (Utrikesdepartementet) senast den 15 oktober 2026.",
+   "dates": [
+    "2026-10-15"
+   ],
+   "deadlines": [
+    "2026-10-15"
+   ],
+   "recipients": [
+    "Regeringskansliet (Utrikesdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27590:assignments:12"
+  },
+  {
+   "title": "Utvecklad ansats för att inkludera diaspora i utveckling och återuppbyggnad i Syrien",
+   "group": [],
+   "text": "Sida ska redogöra för huruvida myndigheten kan utveckla samarbetsformer som drar nytta av den syriska diasporan i Sverige för att stödja återuppbyggnad och utveckling i Syrien. Uppdraget ska baseras på dokumenterade erfarenheter och evidens. Redovisningen ska innehålla en redovisning av förutsättningarna för möjliga samarbeten med den syriska diasporan i Sverige som kan ge ett utvecklingsmässigt mervärde. Uppdraget ska redovisas till Regeringskansliet (Utrikesdepartementet) senast den 15 december 2026.",
+   "dates": [
+    "2026-12-15"
+   ],
+   "deadlines": [
+    "2026-12-15"
+   ],
+   "recipients": [
+    "Regeringskansliet (Utrikesdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27590:assignments:13"
+  },
+  {
+   "title": "Prognos för beställningsbemyndiganden",
+   "group": [],
+   "text": "Myndigheten ska redovisa en prognos för de förslag om beställningsbemyndiganden som lämnats i budgetunderlaget och för de åtaganden som ingåtts med stöd av äldre beställningsbemyndiganden. Prognosen ska lämnas senast den 24 juli 2026 via Statsredovisningssystemet i Hermes och utformas enligt närmare information från Ekonomistyrningsverket.",
+   "dates": [
+    "2026-07-24"
+   ],
+   "deadlines": [
+    "2026-07-24"
+   ],
+   "forecast_dates": [],
+   "recipients": [],
+   "partners": [
+    "Ekonomistyrningsverket"
+   ],
+   "channels": [
+    "hermes",
+    "budgetunderlag"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27590:assignments:14"
+  },
+  {
+   "title": "Utgiftsprognoser",
+   "group": [],
+   "text": "Myndigheten ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Sida ska redovisa prognoser per anslag och anslagspost, undantaget de anslagsposter som Sida disponerar men Regeringskansliet (Utrikesdepartementet) eller regeringen fattar beslut om. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Prognoserna lämnas i informationssystemet Hermes senast den\n\n2 februari,\n\n22 april,\n\n24 juli och\n\n9 november.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27590:assignments:15"
+  },
+  {
+   "title": "Pågående fleråriga uppdrag i form av strategier för svenskt utvecklingssamarbete och humanitärt bistånd",
+   "group": [],
+   "text": "I nedanstående tabell anges de fleråriga uppdrag i form av strategier för svenskt utvecklingssamarbete och humanitärt bistånd som pågår under 2026.\n\nGiltighetstiden för vissa strategier förändras i enlighet med vad som anges i tabellen.\n\n| | | |\n| --- | --- | --- |\n| Strategi | Beslut | Förändrad giltighetstid t.o.m. |\n| **Afrika** | | |\n| Strategi för Sveriges utvecklingssamarbete med Demokratiska republiken Kongo 2026–2031 | UD2026/09867 | |\n| Strategi för Sveriges utvecklingssamarbete med Etiopien 2022–2026 | UD2022/09415 | |\n| Strategi för Sveriges utvecklingssamarbete med Kenya 2026–2031 | UD2026/09864 | |\n| Strategi för Sveriges utvecklingssamarbete med Liberia 2021–2025 | UD2020/19047 UD2025/18111 | 2026-08-31 |\n| Strategi för Sveriges utvecklingssamarbete med Moçambique 2022–2026 | UD2021/18465 UD2025/18112 | 2026-08-31 |\n| Strategi för Sveriges utvecklingssamarbete med Rwanda 2026–2031 | UD2026/09866 | |\n| Strategi för Sveriges utvecklingssamarbete med Somalia 2026-2028 | UD2026/05945 | |\n| Strategi för Sveriges utvecklingssamarbete med Sudan 2026–2031 | UD2026/09863 | |\n| Strategi för Sveriges utvecklingssamarbete med Tanzania 2020–2024 | UD2020/01517 UD2025/18113 | 2026-08-31 |\n| Strategi för Sveriges utvecklingssamarbete med Uganda 2025–2029 | UD2024/17870 | |\n| Strategi för Sveriges utvecklingssamarbete med Zambia 2024–2028 | UD2024/07649 | |\n| Strategi för Sveriges utvecklingssamarbete med Zimbabwe 2022–2026 | UD2022/03567 UD2025/18114 | 2026-08-31 |\n| **Asien** | | |\n| Strategi för Sveriges utvecklingssamarbete med Bangladesh 2026–2031 | UD2026/09861 | |\n| **Europa** | | |\n| Strategi för Sveriges stöd till demokrati, mänskliga rättigheter och miljö i Ryssland 2025–2027 | UD2025/12291 | |\n| Strategi för Sveriges uppbyggnads- och reformsamarbete med Ukraina 2023–2027 | UD2025/01057 | |\n| **Latinamerika** | | |\n| Strategi för Sveriges utvecklingssamarbete med Bolivia 2021–2025 | UD2021/06831 UD2025/18106 | 2026-08-31 |\n| Strategi för Sveriges utvecklingssamarbete med Colombia 2026–2031 | UD2026/09862 | |\n| Strategi för Sveriges utvecklingssamarbete med Guatemala 2026–2031 | UD2026/09858 | |\n| Strategi för Sveriges utvecklingssamarbete med Kuba 2026–2031 | UD2026/09873 | |\n| **Regionala strategier** | | |\n| Strategi för Sveriges regionala utvecklingssamarbete med Afrika 2022–2026 | UD2022/02564 | |\n| Strategi för sexuell och reproduktiv hälsa och rättigheter (SRHR) i Afrika 2022–2026 | UD2022/03566 | |\n| Strategi för Sveriges regionala utvecklingssamarbete med Latinamerika och Karibien 2026–2031 | UD2026/09856 | |\n| Strategi för Sveriges regionala utvecklingssamarbete med Mellanöstern och Nordafrika 2024–2027 | UD2024/04332 | |\n| Sveriges regionala strategi för Syrienkrisen 2024–2027 | UD2025/13467 | |\n| Strategi för Sveriges reformsamarbete med Östeuropa, västra Balkan och Turkiet 2026-2030 | UD2026/02649 | |\n| **Tematiska strategier** | | |\n| Strategi för Sveriges humanitära bistånd genom Sida 2025–2029 | UD2025/08224 | |\n| Strategi för särskilt demokratistöd genom svenska partianknutna organisationer 2024–2027 | UD2023/18067 | |\n| Strategi för Sveriges globala utvecklingssamarbete för arbetet med de mänskliga fri- och rättigheterna, demokrati och rättsstatens principer 2024–2028 | UD2024/01416 | |\n| Strategi för Sveriges utvecklingssamarbete med det civila samhället 2025–2029 | UD2024/12355 | |\n| Strategi för jämställdhet, kvinnors och flickors frihet och egenmakt 2025–2028 | UD2025/07817 | |\n| Strategi för Sveriges utvecklingssamarbete inom forskning för fattigdomsbekämpning och hållbar utveckling 2022–2028 | UD2022/09061 | |\n| Strategi för fred, säkerhet och stabilisering 2024–2028 | UD2024/07651 | |\n| Strategi för innovation, partnerskap och kapacitetsutveckling 2024–2028 | UD2024/07981 | |\n| Strategi för Sveriges globala utvecklingssamarbete inom migration, återvändande och frivillig återvandring 2024–2028 | UD2024/14340 | |\n| Strategi för Sveriges utvecklingssamarbete för hälsa samt sexuell och reproduktiv hälsa och rättigheter 2025–2029 | UD2024/17873 | |\n| Strategi för Sveriges utvecklingssamarbete inom hållbar tillväxt, grön omställning och utbildning 2025–2029 | UD2025/10978 | |",
+   "dates": [
+    "2026-08-31"
+   ],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "samordna"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "27590:assignments:16"
+  },
+  {
+   "title": "Övriga pågående uppdrag",
+   "group": [],
+   "text": "| | | |\n| --- | --- | --- |\n| **Uppdrag** | **Beslut om uppdraget** | **Tidpunkter för redovisning** |\n| Uppdrag till Styrelsen för internationellt utvecklingssamarbete (Sida) att stärka evidensbaserad styrning i genomförandet av biståndet | UD2025/10436 | Årligen |\n| Uppdrag till Styrelsen för internationellt utvecklingssamarbete (Sida) att vidta ytterligare åtgärder för att förebygga jäv och korruption och stödja utlandsmyndigheterna | UD2025/10080 | 31 oktober 2026–2027 |\n| Uppdrag till Styrelsen för internationellt utvecklingssamarbete (Sida) att återrapportera om stöd till religiösa minoriteter | UD2025/13041 | 15 mars 2026–2028 |\n| Uppdrag till Styrelsen för internationellt utvecklingssamarbete (Sida) att avveckla myndighetens utbildningscenter i Härnösand | UD2025/00658 | 31 mars 2026 |\n| Uppdrag om genomförande och uppföljning av landstrategier och andra strategier i biståndet | UD2024/17865 | Årligen 15 mars, samt 1 september 2027 |\n| Uppdrag om nationell samverkan och handlingsplan för arbetet mot antimikrobiell resistens | S2025/01938 | 31 december 2030 |\n| Uppdrag till Styrelsen för internationellt utvecklingssamarbete (Sida) om redovisning av insatser som inte publiceras på Openaid | UD2025/09478 | 15 mars 2026 |\n| Kompletterande uppdrag till Styrelsen för internationellt utvecklingssamarbete (Sida) att stärka evidensbaserad styrning i genomförandet av biståndet | UD2026/07506 | 31 oktober 2026 |",
+   "dates": [
+    "2026-03-15",
+    "2026-03-31",
+    "2026-10-31",
+    "2027-09-01",
+    "2030-12-31"
+   ],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna",
+    "utveckla",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "27590:assignments:17"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "1:1",
+   "name": "Biståndsverksamhet",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 7,
+    "name": "Internationellt bistånd"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Styrelsen för internationellt utvecklingssamarbete",
+     "amount_tkr": 39608520,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Humanitära insatser (ram)",
+       "amount_tkr": 4495000
+      },
+      {
+       "ap": "5",
+       "name": "Civilsamhällesstöd (ram)",
+       "amount_tkr": 1800000
+      },
+      {
+       "ap": "6",
+       "name": "Asien (ram)",
+       "amount_tkr": 485000
+      },
+      {
+       "ap": "7",
+       "name": "Latinamerika (ram)",
+       "amount_tkr": 354500
+      },
+      {
+       "ap": "9",
+       "name": "Afrika (ram)",
+       "amount_tkr": 2645000
+      },
+      {
+       "ap": "13",
+       "name": "Mänskliga rättigheter, demokrati och rättsstatens principer (ram)",
+       "amount_tkr": 1128100
+      },
+      {
+       "ap": "17",
+       "name": "Mellanöstern och Nordafrika (ram)",
+       "amount_tkr": 622000
+      },
+      {
+       "ap": "23",
+       "name": "Ukraina, Östeuropa samt Västra Balkan och Turkiet (ram)",
+       "amount_tkr": 5994000
+      },
+      {
+       "ap": "26",
+       "name": "Fred och säkerhet (ram)",
+       "amount_tkr": 89000
+      },
+      {
+       "ap": "28",
+       "name": "Innovation, partnerskap och kapacitetsutveckling (ram)",
+       "amount_tkr": 255000
+      },
+      {
+       "ap": "30",
+       "name": "Multilaterala utvecklingsbanker, fonder och skuldavskrivningar (ram)",
+       "amount_tkr": 5926000
+      },
+      {
+       "ap": "31",
+       "name": "Multilaterala och internationella organisationer och fonder (ram)",
+       "amount_tkr": 10246000
+      },
+      {
+       "ap": "32",
+       "name": "Forskningssamarbete (ram)",
+       "amount_tkr": 246000
+      },
+      {
+       "ap": "33",
+       "name": "Strategiskt inriktade bidrag (ram)",
+       "amount_tkr": 2682920
+      },
+      {
+       "ap": "34",
+       "name": "Hållbar tillväxt, grön omställning, utbildning och hälsa (ram)",
+       "amount_tkr": 1840000
+      },
+      {
+       "ap": "35",
+       "name": "Migration, återvändande och frivillig återvandring (ram)",
+       "amount_tkr": 800000
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Humanitära insatser",
+     "text": "**Generella villkor för anslag 1:1 Biståndsverksamhet**\nMedlen på respektive anslagspost ska användas i enlighet med gällande strategier för utvecklingssamarbete och humanitärt bistånd som är beslutade av regeringen. Den svenska resursbasen ska tas till vara inom såväl utvecklingssamarbetet som det humanitära biståndet. Medlen på respektive anslagspost får även användas för att subventionera avgifter avseende garantigivning inom ramen för internationellt bistånd, till den del avgiften avser förväntad förlust.\nSida får inom samtliga anslagsposter finansiera utvärderingar, erfarenhetsredovisningar och revisioner. Det gäller även för avslutade strategier i som längst tio månader efter avslutsdatum. Sida får även finansiera viss metodutveckling, studier samt hantering av biståndsinsatser som innebär rådgivning och begränsat finansiellt stöd till mottagarna och i vilka mottagarna söker medel i konkurrens via anbudsförfarande.\nFör en ökad effektivitet i biståndet medges Sida att, inom ramen för beslutad anslagspostnivå, överstiga alternativt understiga det i regleringsbrevet angivna årliga strategibeloppet med 10 procent. I det fall avsteg från ovan behöver göras ska samråd ske med Regeringskansliet (Utrikesdepartementet).\nSida medges att i undantagsfall genomföra utbetalningar av löner, inklusive andra kostnader relaterade till personal, kostnader för hyror, samt fakturor för redan utförda tjänster och uppdrag i upp till tre månader efter att en strategi löpt ut. Sida får därtill genomföra utbetalningar för kostnader som uppkommit på grund av oförutsedda händelser enligt redan ingångna avtal i upp till tre månader efter att en strategi löpt ut.\nInom anslagsposterna 6, 7, 9, 13, 17, 23, 26, 34 och 35 får Sida finansiera FN:s samordningsavgifter för strikt öronmärkta bidrag.\nInom anslagsposterna 1, 5, 13, 23, 26, 28 och 34 ska verksamhet i Ukraina värnas.\nInom anslagsposterna 1, 6, 7, 9, 17, 28, 32 och 34 ska verksamhet som samspelar med och använder svensk resursbas värnas. Det kan handla om svenskt civilsamhälle, myndighetssamverkan, sekonderingar eller verksamhet inom Team Sweden som främjar synergier med handel och främjande.\nFöljande villkor gäller för anslagsposterna 5, 6, 7, 9, 13, 17, 23, 26, 28, 32 och 34. Sida ska undvika att teckna större eller längre avtal som gäller efter att en strategiperiod löper ut. Minst 50 procent av genomsnittlig årsvolym eller av regeringen beslutad årsvolym ska vara ointecknad i början av första året efter det att strategin löper ut. I början av andra året efter att strategin löper ut ska inget belopp vara intecknat. I det fall avsteg från ovan behöver göras krävs beslut av regeringen.\nFör strategin för Sveriges uppbyggnads- och reformsamarbete med Ukraina 2023–2027 samt för strategin för Sveriges globala utvecklingssamarbete inom migration, återvändande och frivillig återvandring 2024–2028 gäller att minst 40 respektive 80 procent av genomsnittlig årsvolym eller av regeringen beslutad årsvolym ska vara ointecknad ett respektive två år efter det att strategin löper ut. I det fall avsteg från ovan behöver göras krävs beslut av regeringen.\nSida ska i utvecklingssamarbetet med Rwanda tills vidare inte ingå några nya avtal direkt med statliga aktörer. Detta gäller samtliga strategier med verksamhet i Rwanda, med undantag för strategin för Sveriges utvecklingssamarbete inom forskning för fattigdomsbekämpning och hållbar utveckling 2022–2028 samt stöd till vaccinsamarbetet MAV+."
+    },
+    {
+     "ap": "5",
+     "name": "Civilsamhällesstöd",
+     "text": ""
+    },
+    {
+     "ap": "6",
+     "name": "Asien",
+     "text": "Sida får under 2026 använda 204 miljoner kronor för verksamhet inom ramen för strategin för Sveriges utvecklingssamarbete med Bangladesh 2026–2031.\nStrategin för Sveriges regionala utvecklingssamarbete med Asien och Oceanien 2022–2026 upphör att gälla den 30 juni 2026. Sida får under 2026 som högst använda 210 miljoner kronor för verksamhet inom ramen för denna strategi. Utfasningen ska genomföras på ett ordnat och ansvarsfullt sätt. Slutrapportering ska ske enligt gällande riktlinjer. Insatser av särskild vikt för svensk utrikes- och biståndspolitik får överföras till relevanta tematiska strategier.\nStrategin för Sveriges utvecklingssamarbete med Myanmar 2024–2026 upphör att gälla den 30 juni 2026 enligt regeringsbeslut den 4 september 2025 (UD2025/12885). Sida får under 2026 som högst använda 140 miljoner kronor för utbetalningar enligt redan ingångna avtal inom ramen för denna strategi."
+    },
+    {
+     "ap": "7",
+     "name": "Latinamerika",
+     "text": "Sida får under 2026 använda 160 miljoner kronor för verksamhet inom ramen för strategin för Sveriges utvecklingssamarbete med Colombia 2026–2031.\nSida får under 2026 använda 53 miljoner kronor för verksamhet inom ramen för strategin för Sveriges utvecklingssamarbete med Guatemala 2026–2031.\nSida får under 2026 använda 10,5 miljoner kronor för verksamhet inom ramen för strategin för Sveriges utvecklingssamarbete med Kuba 2026–2031.\nSida får under 2026 använda 73 miljoner kronor för verksamhet inom ramen för strategin för Sveriges regionala utvecklingssamarbete med Latinamerika och Karibien 2026–2031.\nStrategin för Sveriges utvecklingssamarbete med Bolivia 2021–2025 upphör att gälla den 31 augusti 2026 enligt regeringsbeslut den 4 december 2025 (UD2025/18106). Sida får under 2026 som högst använda 45 miljoner kronor för utbetalningar enligt redan ingångna avtal inom ramen för denna strategi. Utfasningen ska genomföras på ett ordnat och ansvarsfullt sätt. Slutrapportering ska ske enligt gällande riktlinjer."
+    },
+    {
+     "ap": "9",
+     "name": "Afrika",
+     "text": "Sida får under 2026 använda 233 miljoner kronor för verksamhet inom ramen för strategin för Sveriges utvecklingssamarbete med Demokratiska republiken Kongo 2026–2031.\nSida får under 2026 använda 175 miljoner kronor för verksamhet inom ramen för strategin för Sveriges utvecklingssamarbete med Etiopien 2022–2026.\nSida får under 2026 använda 170 miljoner kronor för verksamhet inom ramen för strategin för Sveriges utvecklingssamarbete med Kenya 2026–2031.\nSida får under 2026 använda 117 miljoner kronor för verksamhet inom ramen för strategin för Sveriges utvecklingssamarbete med Rwanda 2026–2031.\nSida får under 2026 använda 190 miljoner kronor för verksamhet inom ramen för strategin för Sveriges utvecklingssamarbete med Somalia 2026–2028.\nSida får under 2026 använda 96 miljoner kronor för verksamhet inom ramen för strategin för Sveriges utvecklingssamarbete med Sudan 2026–2031.\nSida får under 2026 använda 163 miljoner kronor för verksamhet inom ramen för strategin för Sveriges utvecklingssamarbete med Uganda 2025–2029.\nSida får under 2026 använda 272 miljoner kronor för verksamhet inom ramen för strategin för Sveriges utvecklingssamarbete med Zambia 2024–2028.\nSida får under 2026 använda 439 miljoner kronor för verksamhet inom ramen för strategin för Sveriges regionala utvecklingssamarbete med Afrika 2022–2026.\nSida får under 2026 använda 570 miljoner kronor för verksamhet inom ramen för strategin för sexuell och reproduktiv hälsa och rättigheter (SRHR) i Afrika 2022–2026.\nStrategin för Sveriges utvecklingssamarbete med Liberia 2021–2025 förlängs och upphör att gälla den 31 augusti 2026 enligt regeringsbeslut den 4 december 2025 (UD2025/18111). Sida får under 2026 som högst använda 33 miljoner kronor för utbetalningar enligt redan ingångna avtal inom ramen för denna strategi. Utfasningen ska genomföras på ett ordnat och ansvarsfullt sätt. Slutrapportering ska ske enligt gällande riktlinjer.\nStrategin för Sveriges utvecklingssamarbete med Mocambique 2022–2026 upphör att gälla den 31 augusti 2026 enligt regeringsbeslut den 4 december 2025 (UD2025/18112). Sida får under 2026 som högst använda 35 miljoner kronor för utbetalningar enligt redan ingångna avtal inom ramen för denna strategi. Utfasningen ska genomföras på ett ordnat och ansvarsfullt sätt. Slutrapportering ska ske enligt gällande riktlinjer.\nStrategin för Sveriges utvecklingssamarbete med Tanzania 2020–2024 förlängs och upphör att gälla den 31 augusti 2026 enligt regeringsbeslut den 4 december 2025 (UD2025/18113). Sida får under 2026 som högst använda 26 miljoner kronor för utbetalningar enligt redan ingångna avtal inom ramen för denna strategi. Utfasningen ska genomföras på ett ordnat och ansvarsfullt sätt. Slutrapportering ska ske enligt gällande riktlinjer.\nStrategin för Sveriges utvecklingssamarbete med Zimbabwe 2022–2026 upphör att gälla den 31 augusti 2026 enligt regeringsbeslut den 4 december 2025 (UD2025/18114). Sida får under 2026 som högst använda 52 miljoner kronor för utbetalningar enligt redan ingångna avtal inom ramen för denna strategi. Utfasningen ska genomföras på ett ordnat och ansvarsfullt sätt. Slutrapportering ska ske enligt gällande riktlinjer.\nSida får under 2026 använda 5 miljoner kronor för stöd till World Values Survey. Medlen skall användas för datainsamling i Somalia i enlighet med World Values Survey, i syfte att fördjupa förståelsen av de biståndsbehov som råder i regionen."
+    },
+    {
+     "ap": "13",
+     "name": "Mänskliga rättigheter, demokrati och rättsstatens principer",
+     "text": "Sida får under 2026 använda 205,1 miljoner kronor för verksamhet inom ramen för strategin för särskilt demokratistöd genom svenska partianknutna organisationer 2024–2027. Av den totala volymen ska Sida fördela 50 miljoner kronor i enlighet med mandatfördelningen i riksdagen mellan aktuella partianknutna organisationer. Sida ska utöver den årliga mandatfördelningen tillgängliggöra högst 14,1 miljoner kronor i syfte att möjliggöra att samtliga partianknutna organisationer får del av det mandatfördelade bidraget i sin helhet över strategiperioden. Sida ska föra dialog med berörda organisationer i syfte att uppnå detta under 2026. Utöver det ska 2 miljoner kronor utbetalas i grundbidrag till vardera av de partianknutna organisationerna.\nHärutöver får högst 32 miljoner kronor användas särskilt för demokratifrämjande insatser i Ukraina och närområdet, med högst 4 miljoner kronor till vardera av de partianknutna organisationerna.\nÅterstående belopp för verksamhet inom strategin för särskilt demokratistöd genom svenska partianknutna organisationer 2024–2027 ska betalas ut i enlighet med redan avtalade insatser.\nSida får under 2026 högst använda 10 miljoner kronor till stöd för människorättsförsvarare, demokratiförespråkare eller aktörer som verkar för ökad yttrandefrihet i Iran.\nSida får under 2026 använda minst 13 miljoner kronor till stöd för religiösa minoriteter i Mellanöstern- och Nordafrikaregionen.\nI undantagsfall kan insatser göras med samarbetspartner eller aktörer i länder i EU:s närområde som inte är biståndsmottagarländer enligt OECD-DAC, när syftet är att bidra till en fredlig och demokratisk utveckling i EU:s östliga grannskap."
+    },
+    {
+     "ap": "17",
+     "name": "Mellanöstern och Nordafrika",
+     "text": "Sida får under 2026 använda 165 miljoner kronor för verksamhet som rör landfönster för Palestina inom ramen för strategin för Sveriges regionala utvecklingssamarbete med Mellanöstern och Nordafrika 2024–2027.\nSida får under 2026 använda 254 miljoner kronor för verksamhet inom ramen för Sveriges regionala strategi för Syrienkrisen 2024–2027.\nSida får under 2026 använda minst 12 miljoner kronor till stöd för religiösa minoriteter.\nSida får under 2026 använda högst 10 miljoner kronor för medicinska evakueringar av barnpatienter från Gaza via Världshälsoorganisationens (WHO) landkontor i Jordanien, inom ramen för strategin för Sveriges regionala utvecklingssamarbete med Mellanöstern och Nordafrika 2024–2027."
+    },
+    {
+     "ap": "23",
+     "name": "Ukraina, Östeuropa samt Västra Balkan och Turkiet",
+     "text": "Sida får under 2026 använda 921 miljoner kronor för verksamhet i Östeuropa inom ramen för strategin för Sveriges reformsamarbete med Östeuropa, västra Balkan och Turkiet 2026–2030, varav 145 miljoner kronor för Armenien, 145 miljoner kronor för Belarus, 153 miljoner kronor för Georgien, 230 miljoner kronor för Moldavien och 248 miljoner kronor för regionala insatser.\nSida får under 2026 använda 606 miljoner kronor för verksamhet i västra Balkan och Turkiet inom ramen för strategin för Sveriges reformsamarbete med Östeuropa, västra Balkan och Turkiet 2026–2030. För regionala insatser i västra Balkan och Turkiet inom ramen för denna strategi får Sida t.o.m. den 30 juni 2026 som högst använda 90 miljoner kronor. Inga utbetalningar för regionala insatser får göras efter detta datum. Inga nya avtal eller förlängningar av avtal för regionala insatser får ske. Regionala insatser av särskild vikt för svensk utrikes- och biståndspolitik undantas i samråd med Utrikesdepartementet.\nBilaterala samarbeten och samarbeten via multilaterala aktörer med statliga myndigheter i Serbien inom ramen för strategin för Sveriges reformsamarbete med Östeuropa, västra Balkan och Turkiet 2026–2030 får ej ske, med undantag för insatser som rör rättsområdet, lantmäteri, migration och miljö. Utbetalningar hänförliga till redan ingångna avtal får ske där de avser kostnader för bindande åtaganden som gjorts före den 31 oktober 2025.\nBilaterala samarbeten och samarbeten via multilaterala aktörer med statliga myndigheter i Georgien inom ramen för strategin för Sveriges reformsamarbete med Östeuropa, västra Balkan och Turkiet 2026–2030 får ej ske. Redan ingångna avtal ska sägas upp, men utbetalningar hänförliga till dessa avtal får ske där de avser kostnader för bindande åtaganden som gjorts före den 25 oktober 2024.\nSida ska under 2026 som minst använda 4 387 miljoner kronor för verksamhet inom ramen för strategin för Sveriges uppbyggnads- och reformsamarbete med Ukraina 2023–2027. Sidas användning av medel för strategin tillåts överstiga det i strategin angivna beloppet för perioden den 13 juli 2023 till den 31 december 2027.\n19,5 miljoner kronor får användas för stöd till Stockholm Centre for Eastern European Studies (SCEEUS) vid Utrikespolitiska institutet (UI), villkorat för användning till insatser för etablering av ett europeiskt tankesmedjekontor i Kiev.\nSida ska använda minst 1 970 miljoner kronor för stöd till Ukraine Energy Support Fund via Energy Community Secretariat för att bidra till att möta behov inom Ukrainas energisektor.\nSida ska under 2026 använda minst 606 miljoner kronor för stöd till FN:s utvecklingsprogram (UNDP) för att bidra till att möta behov inom Ukrainas energisektor.\nSida ska under 2026 använda minst 70 miljoner kronor för stöd till Ukraine Transport Support Fund genom Central Project Management Agency (CPVA).\nSida ska under 2026 använda minst 67 miljoner kronor för stöd till Secretariat of the Cabinet of Ministers of Ukraine för återställande och uppgradering av cyberinfrastruktur genom Tallinnmekanismen.\nSida ska under 2026 använda minst 74 miljoner kronor för stöd till Världshälsoorganisationen (WHO) för insatser i Ukraina.\nSida får under 2026 använda 80 miljoner kronor för verksamhet inom ramen för strategin för Sveriges stöd till demokrati, mänskliga rättigheter och miljö i Ryssland 2025–2027."
+    },
+    {
+     "ap": "28",
+     "name": "Innovation, partnerskap och kapacitetsutveckling",
+     "text": "Sida ska under 2026 utbetala minst 3 miljoner kronor för stöd till Tax Inspectors Without Borders via Skatteverket, inom ramen för strategin för innovation, partnerskap och kapacitetsutveckling 2024–2028."
+    },
+    {
+     "ap": "30",
+     "name": "Multilaterala utvecklingsbanker, fonder och skuldavskrivningar",
+     "text": "Villkoren för användning och utbetalning av medel framgår av regeringsbeslut som finns diarieförda hos Regeringskansliet i respektive samlingsärende för organisationsstödet och, i förekommande fall, gällande stadgar för respektive organisation.\nFöljande stöd får utbetalas till nedanstående organisationer efter rekvisition alternativt i enlighet med beslutat dragningsschema.\nHögst 9 463 750 särskilda dragningsrätter (SDR) avseende kapitalhöjning får utbetalas till Afrikanska utvecklingsbanken (AfDB), UD2020/00652.\nAnslagsposten får användas för eventuella infrianden av svenska statens garantier till Internationella återuppbyggnads- och utvecklingsbanken (IBRD) avseende bankens lån till Ukraina.\nUtöver ovanstående stöd utbetalas medel i enlighet med de beslut som regeringen eller Regeringskansliet (Utrikesdepartementet) fattar."
+    },
+    {
+     "ap": "31",
+     "name": "Multilaterala och internationella organisationer och fonder",
+     "text": "Villkoren för användning och utbetalning av medel återfinns i Regeringskansliets diarium i respektive samlingsärende för organisationsstödet.\nFöljande stöd får utbetalas till nedanstående organisationer efter rekvisition alternativt i enlighet med beslutat dragningsschema.\nHögst 9 690 000 euro av bidraget till Nordiska Utvecklingsfonden (NDF) får utbetalas efter rekvisition (UD2022/16677).\nHögst 20 573 770 euro av bidraget får utbetalas till Europeiska utvecklingsfonden (EUF) efter rekvisition (UD2022/10453).\nHögst 67 000 euro av bidraget till FN:s konvention för bekämpning av ökenspridning (UNCCD) får utbetalas efter rekvisition (UD2024/04366).\nHögst 3 896 948 kronor får utbetalas till Global Water Partnership Organisation (GWPO) efter rekvisition (UD2026/00813).\nHögst 800 miljoner kronor avsätts för fördelning till den humanitära krisen i Gaza och regionen, enligt framtida beslut från regeringen. Av dessa har 800 miljoner kronor fördelats i enlighet med regeringens beslut den 19 mars 2026 (UD2026/05009), den 21 maj 2026 (UD2026/08216) och den 27 augusti 2026 (UD2026/12951).\nUtöver ovanstående stöd utbetalas medel i enlighet med de beslut som regeringen eller Regeringskansliet (Utrikesdepartementet) fattar."
+    },
+    {
+     "ap": "33",
+     "name": "Strategiskt inriktade bidrag",
+     "text": "Villkoren för användning av medel och utbetalning av medel återfinns i Regeringskansliets diarium i respektive samlingsärende för organisationsstödet.\nFöljande stöd får utbetalas till nedanstående organisationer efter rekvisition.\nFör Europeiska kommissionens bidrag till Europeiska unionen för räntekostnader och kostnader för likviditetsförvaltning som avser ett makrofinansiellt stöd i form av lån till Ukraina utbetalas högst 225 miljoner kronor till Europeiska Kommissionen efter rekvisition (prop. 2022/23:99, bet. 2022/23:FiU21, rskr. 2022/23:254), i enlighet med avtal med Europeiska kommissionen. Rekvisition ska ske senast den 30 november 2026. Rekvisition ska hänvisa till diarienummer Fi2023/02182.\nFör extra bidrag avseende Europeiska unionens Ukrainafacilitet, pelare I, utbetalas högst 2 000 miljoner kronor till Europeiska kommissionen efter rekvisition, i enlighet med avtal med Europeiska unionen (UD2025/18863). Rekvisitionen ska hänvisa till diarienummer UD2025/16654.\nFör donation av medicinteknisk utrustning, sjukvårdsmateriel eller annan utrustning utbetalas högst 20 miljoner kronor till Socialstyrelsen efter rekvisition. Medlen ska användas för donation till katastrof- eller krigsdrabbade områden utomlands (som uppfyller OECD-DAC:s kriterier för internationellt bistånd), såsom Ukraina, som förmedlas via Europeiska unionens civilskyddsmekanism eller via Nato Euro-Atlantic Disaster Response Coordination Centre (EADRCC). Regeringen har fattat beslut i ärendet den 11 december 2025 (S2024/00130(delvis)). För Socialstyrelsen gäller följande villkor: Rekvisition ska ske senast den 30 november 2026. Medel ska rapporteras enligt villkor i beslut. Medel som inte har nyttjats ska återbetalas till Sida senast den 31 mars 2027. Rekvisition, återbetalning och redovisning ska hänvisa till diarienummer S2024/00130 (delvis).\nHögst 260 miljoner kronor får utbetalas för att täcka förluster som uppstår vid infriandet av de särskilda exportkreditgarantierna för Ukraina (prop. 2024/25:1 utg.omr. 24, bet. 2024/25:NU1, rskr.2024/25:115) enligt förordningen (2024:102) om särskilda exportkreditgarantier för Ukraina (UD2024/17852). Medel från denna anslagspost får endast användas för förluster som överstiger belopp som motsvarar de av garantitagaren inbetalda avgifterna. Förluster motsvarande de av garantitagarna inbetalda avgifterna ska i stället belasta anslaget 2:3 Exportfrämjande verksamhet inom utgiftsområde 24 Näringsliv, i enlighet med beslut UD2024/17719 (delvis).\nAnslagsposten får även användas för eventuella infrianden av garantin till Europeiska unionen för makrofinansiellt stöd till Ukraina.\nMedlen utbetalas i enlighet med beslut som regeringen eller Regeringskansliet (Utrikesdepartementet eller Klimat- och näringslivsdepartementet) fattar."
+    },
+    {
+     "ap": "34",
+     "name": "Hållbar tillväxt, grön omställning, utbildning och hälsa",
+     "text": "Sida får under 2026 använda 200 miljoner kronor för verksamhet inom ramen för strategin för jämställdhet, kvinnors och flickors frihet och egenmakt 2025–2028.\nSida får under 2026 använda 680 miljoner kronor för verksamhet inom ramen för strategin för hälsa samt sexuell och reproduktiv hälsa och rättigheter 2025–2029.\nSida får under 2026 använda 159 miljoner kronor för stöd till utbildningsinsatser inom ramen för strategin för Sveriges utvecklingssamarbete inom hållbar tillväxt, grön omställning och utbildning 2025–2029.\nSida ska inom ramen för strategin för Sveriges utvecklingssamarbete inom hållbar tillväxt, grön omställning och utbildning 2025–2029 finansiera avgiften till det internationella fördraget om växtgenetiska resurser för livsmedel och jordbruk (International Treaty on Plant Genetic Resources for Food and Agriculture, ITPGRFA)."
+    },
+    {
+     "ap": "35",
+     "name": "Migration, återvändande och frivillig återvandring",
+     "text": "Fortsatt stöd om högst 5 miljoner kronor till European Stability Initiative (ESI) ska planeras inom ramen för strategin för Sveriges globala utvecklingssamarbete inom migration, återvändande och frivillig återvandring 2024–2028.\nFör anslagsposten är utgångspunkten att svenskt bistånd klassificeras som ODA enligt OECD:s biståndskommitté DAC:s regelverk för internationellt bistånd. I den mån det är nödvändigt får begränsade undantag medges."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "31",
+     "max": 3896948,
+     "unit": "kronor"
+    }
+   ]
+  },
+  {
+   "code": "1:2",
+   "name": "Styrelsen för internationellt utvecklingssamarbete (Sida)",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 7,
+    "name": "Internationellt bistånd"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Styrelsen för internationellt utvecklingssamarbete",
+     "amount_tkr": 1745377,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Sida (ram)",
+       "amount_tkr": 1745377
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Sida",
+     "text": "Anslaget från användas för förvaltningsutgifter avseende Styrelsen för internationellt utvecklingssamarbete (Sida).\nAv medlen får 5 000 000 kronor användas för stöd till icke ODA-länder.\nAnslaget får även användas för att subventionera avgifter avseende garantigivning till den del avgiften avser Sidas administrativa kostnader.\nAnslaget ska användas för förvaltning, drift och vidareutveckling av den modul av bidragshanteringssystemet PLANit som hanterar de delar av bidragshanteringen som handläggs av Regeringskansliet (Utrikesdepartementet)."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "1:5",
+   "name": "Utrikes- och säkerhetspolitiskt strategiska insatser",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 5,
+    "name": "Internationell samverkan"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Styrelsen för internationellt utvecklingssamarbete",
+     "amount_tkr": 64000,
+     "items": [
+      {
+       "ap": "8",
+       "name": "Samarbete inom Östersjöregionen (ram)",
+       "amount_tkr": 64000
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "8",
+     "name": "Samarbete inom Östersjöregionen",
+     "text": "Sida ska undvika att teckna större eller längre avtal som gäller efter att en strategiperiod löpt ut. Minst 50 procent av genomsnittlig årsvolym eller av regeringen beslutad årsvolym ska vara ointecknad i början av första året efter att strategin löpt ut. I början av andra året efter att strategin löpt ut ska inget belopp vara intecknat. I det fall avsteg från detta behöver göras krävs beslut av regeringen."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "1:5 Utrikes- och säkerhetspolitiskt strategiska insatser",
+   "ap": "ap.8",
+   "Anslagskredit": 1920,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:1 Biståndsverksamhet",
+   "ap": "ap.1",
+   "Anslagskredit": 134850,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:1 Biståndsverksamhet",
+   "ap": "ap.5",
+   "Anslagskredit": 54000,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:1 Biståndsverksamhet",
+   "ap": "ap.6",
+   "Anslagskredit": 14550,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:1 Biståndsverksamhet",
+   "ap": "ap.7",
+   "Anslagskredit": 10635,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:1 Biståndsverksamhet",
+   "ap": "ap.9",
+   "Anslagskredit": 89550,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:1 Biståndsverksamhet",
+   "ap": "ap.13",
+   "Anslagskredit": 33843,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:1 Biståndsverksamhet",
+   "ap": "ap.17",
+   "Anslagskredit": 18360,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:1 Biståndsverksamhet",
+   "ap": "ap.23",
+   "Anslagskredit": 163110,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:1 Biståndsverksamhet",
+   "ap": "ap.26",
+   "Anslagskredit": 2670,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:1 Biståndsverksamhet",
+   "ap": "ap.28",
+   "Anslagskredit": 7650,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:1 Biståndsverksamhet",
+   "ap": "ap.30",
+   "Anslagskredit": 178290,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:1 Biståndsverksamhet",
+   "ap": "ap.31",
+   "Anslagskredit": 296310,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:1 Biståndsverksamhet",
+   "ap": "ap.32",
+   "Anslagskredit": 7380,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:1 Biståndsverksamhet",
+   "ap": "ap.33",
+   "Anslagskredit": 97538,
+   "Anslagsbehållning som disponeras 2026": 200000,
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:1 Biståndsverksamhet",
+   "ap": "ap.34",
+   "Anslagskredit": 55200,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:1 Biståndsverksamhet",
+   "ap": "ap.35",
+   "Anslagskredit": 24000,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:2 Styrelsen för internationellt utvecklingssamarbete (Sida)",
+   "ap": "ap.1",
+   "Anslagskredit": 52361,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 80000,
+  "Räntekontokredit": 27000,
+  "- Garantier inom biståndsverksamheten": 34000000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 150440
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 150440
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 150440
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 150440
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 150440
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 150440
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 140457
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 140457
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 140457
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 140457
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 140457
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 140452
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:5 Utrikes- och säkerhetspolitiskt strategiska insatser",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.8",
+     "1 920",
+     "Inget",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:1 Biståndsverksamhet",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "134 850",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.5",
+     "54 000",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.6",
+     "14 550",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.7",
+     "10 635",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.9",
+     "89 550",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.13",
+     "33 843",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.17",
+     "18 360",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.23",
+     "163 110",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.26",
+     "2 670",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.28",
+     "7 650",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.30",
+     "178 290",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.31",
+     "296 310",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.32",
+     "7 380",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.33",
+     "97 538",
+     "200 000",
+     "0"
+    ],
+    [
+     "ap.34",
+     "55 200",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.35",
+     "24 000",
+     "Inget",
+     "0"
+    ],
+    [
+     "1:2 Styrelsen för internationellt utvecklingssamarbete (Sida)",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "52 361",
+     "3 %",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Beställningsbemyndiganden",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Bemyndigande",
+     "Utgifter mot anslag till följd av ekonomiska åtaganden",
+     "",
+     "",
+     ""
+    ],
+    [
+     "2026",
+     "2027",
+     "2028",
+     "2029 -",
+     "Slutår"
+    ],
+    [
+     "1:5 Utrikes- och säkerhetspolitiskt strategiska insatser",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.8",
+     "145 000",
+     "64 000",
+     "55 000",
+     "26 000",
+     "2032"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Beställningsbemyndiganden",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Bemyndigande",
+     "Utgifter mot anslag till följd av ekonomiska åtaganden",
+     "",
+     "",
+     ""
+    ],
+    [
+     "2026",
+     "2027",
+     "2028",
+     "2029 -",
+     "Slutår"
+    ],
+    [
+     "1:1 Biståndsverksamhet",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "3 500 000",
+     "1 260 000",
+     "1 120 000",
+     "1 120 000",
+     "2042"
+    ],
+    [
+     "ap.5",
+     "4 900 000",
+     "1 760 000",
+     "1 570 000",
+     "1 570 000",
+     "2042"
+    ],
+    [
+     "ap.6",
+     "400 000",
+     "300 000",
+     "100 000",
+     "0",
+     "2042"
+    ],
+    [
+     "ap.7",
+     "550 000",
+     "300 000",
+     "170 000",
+     "80 000",
+     "2042"
+    ],
+    [
+     "ap.9",
+     "3 840 000",
+     "2 640 000",
+     "640 000",
+     "560 000",
+     "2042"
+    ],
+    [
+     "ap.13",
+     "1 720 000",
+     "900 000",
+     "600 000",
+     "220 000",
+     "2042"
+    ],
+    [
+     "ap.17",
+     "1 150 000",
+     "600 000",
+     "400 000",
+     "150 000",
+     "2042"
+    ],
+    [
+     "ap.23",
+     "6 000 000",
+     "3 140 000",
+     "2 430 000",
+     "430 000",
+     "2042"
+    ],
+    [
+     "ap.26",
+     "200 000",
+     "75 000",
+     "75 000",
+     "50 000",
+     "2042"
+    ],
+    [
+     "ap.28",
+     "480 000",
+     "220 000",
+     "170 000",
+     "90 000",
+     "2042"
+    ],
+    [
+     "ap.30",
+     "28 000 000",
+     "5 000 000",
+     "5 000 000",
+     "18 000 000",
+     "2042"
+    ],
+    [
+     "ap.31",
+     "32 000 000",
+     "9 100 000",
+     "9 000 000",
+     "13 900 000",
+     "2042"
+    ],
+    [
+     "ap.32",
+     "560 000",
+     "240 000",
+     "170 000",
+     "150 000",
+     "2042"
+    ],
+    [
+     "ap.33",
+     "1 700 000",
+     "500 000",
+     "600 000",
+     "600 000",
+     "2042"
+    ],
+    [
+     "ap.34",
+     "3 400 000",
+     "1 800 000",
+     "1 000 000",
+     "600 000",
+     "2042"
+    ],
+    [
+     "ap.35",
+     "1 300 000",
+     "500 000",
+     "450 000",
+     "350 000",
+     "2042"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar, krediter och garantier",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "80 000"
+    ],
+    [
+     "Räntekontokredit",
+     "27 000"
+    ],
+    [
+     "Övriga kontokrediter"
+    ],
+    [
+     "- Garantiverksamheten",
+     "Obegränsad"
+    ],
+    [
+     "Garantier"
+    ],
+    [
+     "- Garantier inom biståndsverksamheten",
+     "34 000 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "150 440"
+    ],
+    [
+     "2026-02-25",
+     "150 440"
+    ],
+    [
+     "2026-03-25",
+     "150 440"
+    ],
+    [
+     "2026-04-25",
+     "150 440"
+    ],
+    [
+     "2026-05-25",
+     "150 440"
+    ],
+    [
+     "2026-06-25",
+     "150 440"
+    ],
+    [
+     "2026-07-25",
+     "140 457"
+    ],
+    [
+     "2026-08-25",
+     "140 457"
+    ],
+    [
+     "2026-09-25",
+     "140 457"
+    ],
+    [
+     "2026-10-25",
+     "140 457"
+    ],
+    [
+     "2026-11-25",
+     "140 457"
+    ],
+    [
+     "2026-12-25",
+     "140 452"
+    ],
+    [
+     "Summa",
+     "1 745 377"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "1:2 ap.1",
+     "Sida"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Uppdragsverksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Garantiverksamhet, administration2",
+     "-10 668",
+     "-800",
+     "28 000",
+     "27 000",
+     "1 000",
+     "-10 468"
+    ]
+   ]
+  }
+ ],
+ "has_fee_section": true,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 16,
+  "n_org": 2,
+  "n_assignments": 18,
+  "n_deadlines": 10,
+  "deadlines": [
+   "2026-02-22",
+   "2026-04-30",
+   "2026-05-15",
+   "2026-05-29",
+   "2026-05-31",
+   "2026-06-01",
+   "2026-07-24",
+   "2026-09-30",
+   "2026-10-15",
+   "2026-12-15"
+  ],
+  "partners": [
+   "Ekonomistyrningsverket",
+   "Folke Bernadotteakademin",
+   "Migrationsverket",
+   "Myndigheten för civilt försvar",
+   "Statskontoret",
+   "Svenska institutet"
+  ],
+  "n_appropriations": 3,
+  "appropriations_total_tkr": 41417897,
+  "payment_plan_total_tkr": 1745377,
+  "md_chars": 69094
+ },
+ "layout": "standard",
+ "warnings": []
+}

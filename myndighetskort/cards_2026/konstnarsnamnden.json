@@ -1,0 +1,901 @@
+{
+ "schema_version": 1,
+ "id": 26029,
+ "original_rbid": 26029,
+ "type": "Regleringsbrev",
+ "category": "Myndighet",
+ "date": "2025-12-16",
+ "year": "2026",
+ "name": "Konstnärsnämnden",
+ "slug": "konstnarsnamnden",
+ "department": "Kulturdepartementet",
+ "expenditure_areas": [
+  17
+ ],
+ "registry_numbers": [
+  "Ku2025/01141 (delvis)",
+  "Ku2025/01235"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1"
+  ],
+  "bet": [
+   "2025/26:KrU1"
+  ],
+  "rskr": [
+   "2025/26:83"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "",
+ "goals": [
+  {
+   "title": "Återrapportering av verksamheten",
+   "group": [],
+   "text": "Av redovisningen ska följande framgå:\n\n- bidragsgivningen fördelat på områdena bild/form, musik, teater, dans, cirkus och film\n- verksamheten vid Konstnärsnämndens internationella program-\\\n  verksamhet för bild- och formkonstnärer IASPIS, internationella dansprogrammet, internationella musikprogrammet, internationella cirkusprogrammet, internationella teaterprogrammet samt bidragsgivningen för internationellt utbyte inom övriga områden\n- resultatet av arbetet med bevakning och analys av konstnärernas ekonomiska och sociala situation i förhållande till konstnärlig verksamhet\n- resultaten av kunskapsspridning och rådgivningsfunktion avseende frågor som rör de generella trygghetssystemen.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "fördela_medel",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "bidragsgivningen fördelat på områdena bild/form, musik, teater, dans, cirkus och film",
+    "verksamheten vid Konstnärsnämndens internationella program-\\",
+    "resultatet av arbetet med bevakning och analys av konstnärernas ekonomiska och sociala situation i förhållande till konstnärlig verksamhet",
+    "resultaten av kunskapsspridning och rådgivningsfunktion avseende frågor som rör de generella trygghetssystemen."
+   ],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26029:goals:0"
+  },
+  {
+   "title": "Kulturbryggan",
+   "group": [],
+   "text": "Konstnärsnämnden ska, beträffande verksamheten vid det särskilda beslutsorganet Kulturbryggan, redovisa erfarenheter och trender gällande nyskapande kultur i hela landet. Redovisningen ska omfatta hur den geografiska spridningen av bidragsgivningen sett ut. Myndigheten ska vidare redovisa insatser för att utveckla den del av Kulturbryggan som stödjer nya finansieringsmodeller, t.ex. för att möjliggöra mötesplatser och kompetensutveckling för kultursektorns aktörer och näringslivet kring frågor om breddad finansiering.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26029:goals:1"
+  },
+  {
+   "title": "Konstnärlig frihet",
+   "group": [],
+   "text": "Konstnärsnämnden ska redovisa vilka åtgärder myndigheten vidtagit för att säkra den konstnärliga friheten inom ramen för bidragsgivningen och hur myndigheten i övrigt arbetar för att värna konstnärlig frihet.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26029:goals:2"
+  },
+  {
+   "title": "Statlig ålderspensionsavgift",
+   "group": [],
+   "text": "Konstnärsnämnden ska i samband med budgetunderlaget redovisa prognos för det följande kalenderåret avseende kostnader för statlig ålderspensionsavgift enligt lagen (1998:676) om statlig ålderspensionsavgift.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "budgetunderlag"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "1998:676"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26029:goals:3"
+  },
+  {
+   "title": "Sponsringsintäkter",
+   "group": [],
+   "text": "Konstnärsnämnden ska särredovisa eventuella sponsringsintäkter i not till resultaträkningen.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26029:goals:4"
+  },
+  {
+   "title": "Bidragsintäkter",
+   "group": [],
+   "text": "Konstnärsnämnden ska särredovisa fördelningen av eventuella bidragsintäkter mellan statliga bidrag, icke-statliga bidrag respektive bidrag från mellanstatliga organ i not till resultaträkningen.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26029:goals:5"
+  }
+ ],
+ "org": [
+  {
+   "title": "Samverkansråd inom ramen för kultursamverkansmodellen",
+   "group": [],
+   "text": "Konstnärsnämnden ska delta i det samverkansråd vid Statens kulturråd som ska samordna de nationella kulturpolitiska intressena inom ramen för kultursamverkansmodellen.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Statens kulturråd"
+   ],
+   "channels": [],
+   "task_types": [
+    "samordna"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "org",
+   "item_id": "26029:org:0"
+  }
+ ],
+ "assignments": [
+  {
+   "title": "AI och datadrivet arbete",
+   "group": [],
+   "text": "Konstnärsnämnden ska redovisa i vilken utsträckning myndigheten arbetar datadrivet och hur AI används i verksamheten. Myndigheten ska även redogöra för på vilket sätt arbetet med data och AI har bidragit till att utveckla verksamheten och höja kvaliteten i utförandet av myndighetens uppgifter och uppdrag. Av redovisningen ska framgå hur myndigheten beaktar risker och arbetar för att användning av data och AI sker på ett etiskt, säkert och icke-diskriminerande sätt. Eventuella hinder eller framgångsfaktorer för datadrivet arbete och användande av AI ska även redovisas. Uppdraget ska redovisas till Regeringskansliet (Kulturdepartementet) senast den 4 maj 2026.",
+   "dates": [
+    "2026-05-04"
+   ],
+   "deadlines": [
+    "2026-05-04"
+   ],
+   "recipients": [
+    "Regeringskansliet (Kulturdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla",
+    "statistik_data",
+    "digitalisering_ai"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26029:assignments:0"
+  },
+  {
+   "title": "Upphovsrättens betydelse för konstnärers företagande",
+   "group": [],
+   "text": "Konstnärsnämnden ska i samverkan med Patent- och registreringsverket sprida kunskap om upphovsrätten och dess betydelse för konstnärers företagande inom kulturella och kreativa branscher och de förutsättningar som den tekniska utvecklingen ger. Uppdraget ska redovisas till Regeringskansliet (Kulturdepartementet) senast den 22 februari 2027.",
+   "dates": [
+    "2027-02-22"
+   ],
+   "deadlines": [
+    "2027-02-22"
+   ],
+   "recipients": [
+    "Regeringskansliet (Kulturdepartementet)"
+   ],
+   "partners": [
+    "Patent- och registreringsverket"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "informera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26029:assignments:1"
+  },
+  {
+   "title": "Kulturens roll för yttrandefrihet och demokratisering",
+   "group": [],
+   "text": "Konstnärsnämnden ska i internationella sammanhang främja kulturens roll för yttrandefrihet och demokratisering. Konstnärsnämnden ska inom ramen för myndighetens uppdrag verka för synergier mellan kultur- och biståndspolitiska insatser. Uppdraget ska redovisas till Regeringskansliet (Kulturdepartementet) senast den 22 februari 2027.",
+   "dates": [
+    "2027-02-22"
+   ],
+   "deadlines": [
+    "2027-02-22"
+   ],
+   "recipients": [
+    "Regeringskansliet (Kulturdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26029:assignments:2"
+  },
+  {
+   "title": "Konstnärers utsatthet för hot, våld och trakasserier",
+   "group": [],
+   "text": "Konstnärsnämnden ska informera om konstnärers utsatthet för hot, våld och trakasserier i relation till sin yrkesutövning. Uppdraget ska redovisas till Regeringskansliet (Kulturdepartementet) senast den 22 februari 2027.",
+   "dates": [
+    "2027-02-22"
+   ],
+   "deadlines": [
+    "2027-02-22"
+   ],
+   "recipients": [
+    "Regeringskansliet (Kulturdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "informera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26029:assignments:3"
+  },
+  {
+   "title": "Publiceringsplan",
+   "group": [],
+   "text": "Konstnärsnämnden ska senast den 28 februari 2026 ange datum för planerade rapporter och publikationer i en publiceringsplan.",
+   "dates": [
+    "2026-02-28"
+   ],
+   "deadlines": [
+    "2026-02-28"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26029:assignments:4"
+  },
+  {
+   "title": "Kiruna - Europeisk kulturhuvudstad 2029",
+   "group": [],
+   "text": "Konstnärsnämnden ska i dialog med Kiruna kommun se över möjligheterna att medverka inför och under evenemanget Europeisk kulturhuvudstad 2029.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "samordna",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26029:assignments:5"
+  },
+  {
+   "title": "Prognoser 2026-2029",
+   "group": [],
+   "text": "Konstnärsnämnden ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Prognoserna lämnas i informationssystemet Hermes senast den\n\n- 2 februari\n- 24 juli\n- 9 november.\n\nVid det sista tillfället ska summan av utestående åtaganden som gjorts för längre tid än ett år samt förväntade utbetalningsnivåer för kommande treårsperiod redovisas.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26029:assignments:6"
+  },
+  {
+   "title": "Prognos för beställningsbemyndigande",
+   "group": [],
+   "text": "Myndigheten ska redovisa en prognos för de förslag om beställningsbemyndiganden som lämnats i budgetunderlaget och för de åtaganden som ingåtts med stöd av äldre beställningsbemyndiganden. Prognosen ska lämnas senast den 24 juli 2026 via Statsredovisningssystemet i Hermes och utformas enligt närmare information från Statskontoret.",
+   "dates": [
+    "2026-07-24"
+   ],
+   "deadlines": [
+    "2026-07-24"
+   ],
+   "forecast_dates": [],
+   "recipients": [],
+   "partners": [
+    "Statskontoret"
+   ],
+   "channels": [
+    "hermes",
+    "budgetunderlag"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26029:assignments:7"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "4:1",
+   "name": "Konstnärsnämnden",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 17,
+    "name": "Kultur, medier, trossamfund och fritid"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Konstnärsnämnden",
+     "amount_tkr": 25302,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Konstnärsnämnden (ram)",
+       "amount_tkr": 25302
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Konstnärsnämnden",
+     "text": "Anslagsposten får användas för Konstnärsnämndens förvaltningsutgifter."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "4:2",
+   "name": "Ersättningar och bidrag till konstnärer",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 17,
+    "name": "Kultur, medier, trossamfund och fritid"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Konstnärsnämnden",
+     "amount_tkr": 260704,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Visningsersättning samt bidrag åt bild- och formkonstnärer (ram)",
+       "amount_tkr": 122683
+      },
+      {
+       "ap": "4",
+       "name": "Långtidsstipendier (ram)",
+       "amount_tkr": 30014
+      },
+      {
+       "ap": "6",
+       "name": "Bidrag till konstnärer inom områdena musik, teater, dans och film (ram)",
+       "amount_tkr": 70352
+      },
+      {
+       "ap": "7",
+       "name": "Bidrag till nyskapande kultur - Kulturbryggan (ram)",
+       "amount_tkr": 29200
+      },
+      {
+       "ap": "16",
+       "name": "Statliga ålderspensionsavgifter (ram)",
+       "amount_tkr": 8455
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Visningsersättning samt bidrag åt bild- och formkonstnärer",
+     "text": "Anslagsposten ska användas enligt förordningen (1982:600) om Sveriges bildkonstnärsfond och förordningen (2019:1269) om statsbidrag till konstnärer.\nAnslagsposten omfattas i tillämpliga fall av förordningen (1983:190) om pensionsgrundande konstnärsbidrag m.m.\nI anslagsposten ingår medel för täckande av kostnader förenade med stipendie- och bidragsgivning samt för program- och informationsverksamheten inom den internationella programverksamheten för bild- och formkonstnärer, IASPIS.\nKonstnärsnämnden bör prioritera längre stipendier."
+    },
+    {
+     "ap": "4",
+     "name": "Långtidsstipendier",
+     "text": "Anslagsposten ska användas för långtidsstipendier enligt 11 och 12 §§ förordningen (2019:1269) om statsbidrag till konstnärer.\nAnslagsposten omfattas i tillämpliga fall av förordningen (1983:190) om pensionsgrundande konstnärsbidrag m.m.\nÅr 2026 ska antalet tioåriga långtidsstipendier vara minst 169, därutöver kan stipendier med kortare löptid beviljas.\nKonstnärsnämnden och styrelsen för Sveriges författarfond ska komma överens om hur många av dessa långtidsstipendier som ska tillfalla författare, översättare, dramatiker och kulturjournalister. Medlen betalas ut av Konstnärsnämnden till Sveriges författarfond efter rekvisition."
+    },
+    {
+     "ap": "6",
+     "name": "Bidrag till konstnärer inom områdena musik, teater, dans och film",
+     "text": "Anslagsposten ska användas enligt förordningen (2019:1269) om statsbidrag till konstnärer.\nAnslagsposten omfattas i tillämpliga fall av förordningen (1983:190) om pensionsgrundande konstnärsbidrag m.m.\nI anslagsposten ingår medel för täckande av kostnader förenade med stipendie- och bidragsgivning samt för program- och informationsverksamhet inom de internationella programverksamheterna.\nAnslagsposten får även användas för att utveckla former för främjandedelen för de internationella programmen på dans-, teater-, cirkus- och musikområdet.\nKonstnärsnämnden bör prioritera längre stipendier."
+    },
+    {
+     "ap": "7",
+     "name": "Bidrag till nyskapande kultur - Kulturbryggan",
+     "text": "Anslagsposten ska användas enligt förordningen (2011:317) om statsbidrag till nyskapande kultur.\nAnslagsposten får även användas för täckande av Kulturbryggans kostnader för främjande insatser som syftar till att utveckla nya sätt att finansiera kulturell verksamhet.\nAv anslagsposten får högst 4 300 000 kronor användas för Konstnärsnämndens administrations- och förvaltningskostnader som är kopplade till Kulturbryggans verksamhet."
+    },
+    {
+     "ap": "16",
+     "name": "Statliga ålderspensionsavgifter",
+     "text": "Anslagsposten disponeras för kostnader för ålderspensionsavgift enligt lagen (1998:676) om statlig ålderspensionsavgift.\nAnslagsposten avser preliminär statlig ålderspensionsavgift för 2026 om 7 594 000 kronor och ett regleringsbelopp för 2023 om 861 000 kronor."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "7",
+     "max": 4300000,
+     "unit": "kronor"
+    }
+   ]
+  },
+  {
+   "code": "9:1",
+   "name": "Filmstöd",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 17,
+    "name": "Kultur, medier, trossamfund och fritid"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Konstnärsnämnden",
+     "amount_tkr": 4270,
+     "items": [
+      {
+       "ap": "3",
+       "name": "Bidrag till Konstnärsnämndens filmstöd (ram)",
+       "amount_tkr": 4270
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "3",
+     "name": "Bidrag till Konstnärsnämndens filmstöd",
+     "text": "Anslagsposten ska användas enligt förordningen (2019:1269) om statsbidrag till konstnärer.\nAnslagsposten ska användas för stöd till produktion av kortfilm, dokumentär och animation.\nFrån anslagsposten ska 900 000 kronor utbetalas till Stiftelsen Filmform för bl.a. rådgivning och distribution i fråga om film- och videokonst.\nI samband med utbetalningen ska Konstnärsnämnden erinra Stiftelsen Filmform om att stiftelsen ska lämna en redogörelse för verksamheten 2025 till Regeringskansliet (Kulturdepartementet) senast den 1 mars 2026."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "4:1 Konstnärsnämnden",
+   "ap": "ap.1",
+   "Anslagskredit": 759,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "4:2 Ersättningar och bidrag till konstnärer",
+   "ap": "ap.1",
+   "Anslagskredit": 3446,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "4:2 Ersättningar och bidrag till konstnärer",
+   "ap": "ap.4",
+   "Anslagskredit": 840,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "4:2 Ersättningar och bidrag till konstnärer",
+   "ap": "ap.6",
+   "Anslagskredit": 2450,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "4:2 Ersättningar och bidrag till konstnärer",
+   "ap": "ap.7",
+   "Anslagskredit": 825,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "4:2 Ersättningar och bidrag till konstnärer",
+   "ap": "ap.16",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "9:1 Filmstöd",
+   "ap": "ap.3",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 7000,
+  "Räntekontokredit": 2200
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 2109
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 2109
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 2109
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 2109
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 2109
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 2109
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 2109
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 2109
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 2109
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 2109
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 2109
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 2103
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "4:1 Konstnärsnämnden",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "759",
+     "3 %",
+     "0"
+    ],
+    [
+     "4:2 Ersättningar och bidrag till konstnärer",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "3 446",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.4",
+     "840",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.6",
+     "2 450",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.7",
+     "825",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.16",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "9:1 Filmstöd",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.3",
+     "0",
+     "Inget",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Beställningsbemyndiganden",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Bemyndigande",
+     "Utgifter mot anslag till följd av ekonomiska åtaganden",
+     "",
+     "",
+     ""
+    ],
+    [
+     "2026",
+     "2027",
+     "2028",
+     "2029 -",
+     "Slutår"
+    ],
+    [
+     "4:2 Ersättningar och bidrag till konstnärer",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "58 500",
+     "27 729",
+     "13 228",
+     "17 543",
+     "2036"
+    ],
+    [
+     "ap.4",
+     "185 344",
+     "29 230",
+     "27 988",
+     "128 126",
+     "2036"
+    ],
+    [
+     "ap.6",
+     "23 000",
+     "9 343",
+     "5 435",
+     "8 222",
+     "2036"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "7 000"
+    ],
+    [
+     "Räntekontokredit",
+     "2 200"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "2 109"
+    ],
+    [
+     "2026-02-25",
+     "2 109"
+    ],
+    [
+     "2026-03-25",
+     "2 109"
+    ],
+    [
+     "2026-04-25",
+     "2 109"
+    ],
+    [
+     "2026-05-25",
+     "2 109"
+    ],
+    [
+     "2026-06-25",
+     "2 109"
+    ],
+    [
+     "2026-07-25",
+     "2 109"
+    ],
+    [
+     "2026-08-25",
+     "2 109"
+    ],
+    [
+     "2026-09-25",
+     "2 109"
+    ],
+    [
+     "2026-10-25",
+     "2 109"
+    ],
+    [
+     "2026-11-25",
+     "2 109"
+    ],
+    [
+     "2026-12-25",
+     "2 103"
+    ],
+    [
+     "Summa",
+     "25 302"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "4:1 ap.1",
+     "Konstnärsnämnden"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [],
+ "has_fee_section": false,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 6,
+  "n_org": 1,
+  "n_assignments": 8,
+  "n_deadlines": 4,
+  "deadlines": [
+   "2026-02-28",
+   "2026-05-04",
+   "2026-07-24",
+   "2027-02-22"
+  ],
+  "partners": [
+   "Patent- och registreringsverket",
+   "Statens kulturråd",
+   "Statskontoret"
+  ],
+  "n_appropriations": 3,
+  "appropriations_total_tkr": 290276,
+  "payment_plan_total_tkr": 25302,
+  "md_chars": 13432
+ },
+ "layout": "standard",
+ "warnings": []
+}

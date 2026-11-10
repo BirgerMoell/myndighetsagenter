@@ -1,0 +1,369 @@
+{
+ "schema_version": 1,
+ "id": 26278,
+ "original_rbid": 26009,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-03-26",
+ "year": "2026",
+ "name": "Valmyndigheten",
+ "slug": "valmyndigheten",
+ "department": "Kulturdepartementet",
+ "expenditure_areas": [
+  1
+ ],
+ "registry_numbers": [
+  "Ku2026/00327"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1"
+  ],
+  "bet": [
+   "2025/26:KU1"
+  ],
+  "rskr": [
+   "2025/26:87"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "",
+ "goals": [],
+ "org": [],
+ "assignments": [
+  {
+   "title": "Erfarenhetsrapport från 2026 års val",
+   "group": [],
+   "text": "Valmyndigheten ska senast den 2 mars 2027 till Regeringskansliet (Justitiedepartementet) lämna en erfarenhetsrapport från 2026 års val till riksdagen, region- och kommunfullmäktige.",
+   "dates": [
+    "2027-03-02"
+   ],
+   "deadlines": [
+    "2027-03-02"
+   ],
+   "recipients": [
+    "Regeringskansliet (Justitiedepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26278:assignments:0"
+  },
+  {
+   "title": "Prognoser 2026–2029",
+   "group": [],
+   "text": "Skatteverket ska inhämta uppgifter från Valmyndigheten och redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Prognoserna lämnas i informationssystemet Hermes senast den\n\n- 2 februari\n- 22 april\n- 24 juli\n- 9 november.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [
+    "Skatteverket"
+   ],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26278:assignments:1"
+  },
+  {
+   "title": "Tidigare givna uppdrag",
+   "group": [],
+   "text": "| | | |\n| --- | --- | --- |\n| Uppdrag | Beslut om uppdrag | Redovisningstidpunkt |\n| Vägledning för tillgänglighet | Ku2025/01068 | 30 april 2026 |\n| Digitala röstlängder | Ku2025/00942 | 15 januari 2027 |\n\n*För regeringsuppdrag som lämnats i ett särskilt regeringsbeslut utgör tabellen endast en upplysning om vilka uppdrag som vid årets början var riktade till myndigheten och vilka tider som då gällde för återrapportering eller liknande.*",
+   "dates": [
+    "2026-04-30",
+    "2027-01-15"
+   ],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "informera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "26278:assignments:2"
+  },
+  {
+   "title": "Information om utlandssvenskars rösträtt och röstningsmöjligheter",
+   "group": [],
+   "text": "Valmyndigheten får i uppdrag att tillhandahålla fördjupad och breddad information om utlandssvenskars rösträtt och röstningsmöjligheter. Syftet är att förbättra utlandssvenskars möjligheter att tillgodogöra sig kunskap om sin rösträtt och hur den kan utnyttjas i praktiken samt att motverka missuppfattningar. Exempel på sådant som bör tas upp är de nya reglerna om utlandssvenskars möjligheter att förtidsrösta i Sverige (prop. 2024/25:181). Ett särskilt utskick ska göras till utlandssvenskar som fallit ur röstlängden med information om anmälan för att återupptas i röstlängden. Uppdraget ska redovisas till Regeringskansliet (Justitiedepartementet) senast den 15 december 2026.",
+   "dates": [
+    "2026-12-15"
+   ],
+   "deadlines": [
+    "2026-12-15"
+   ],
+   "recipients": [
+    "Regeringskansliet (Justitiedepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26278:assignments:3"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "6:4",
+   "name": "Valmyndigheten",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 1,
+    "name": "Rikets styrelse"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Skatteverket",
+     "amount_tkr": 173740,
+     "items": [
+      {
+       "ap": "2",
+       "name": "Valmyndigheten - till Skatteverket (ram)",
+       "amount_tkr": 173740
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "2",
+     "name": "Valmyndigheten - till Skatteverket",
+     "text": "Anslagsposten får användas för utgifter för Valmyndighetens verksamhet."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "6:4 Valmyndigheten",
+   "ap": "ap.2",
+   "Anslagskredit": 5212,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {},
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 14478
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 14478
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 14478
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 14478
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 14478
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 14478
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 14478
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 14478
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 14478
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 14478
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 14478
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 14482
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "6:4 Valmyndigheten",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.2",
+     "5 212",
+     "3 %",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "14 478"
+    ],
+    [
+     "2026-02-25",
+     "14 478"
+    ],
+    [
+     "2026-03-25",
+     "14 478"
+    ],
+    [
+     "2026-04-25",
+     "14 478"
+    ],
+    [
+     "2026-05-25",
+     "14 478"
+    ],
+    [
+     "2026-06-25",
+     "14 478"
+    ],
+    [
+     "2026-07-25",
+     "14 478"
+    ],
+    [
+     "2026-08-25",
+     "14 478"
+    ],
+    [
+     "2026-09-25",
+     "14 478"
+    ],
+    [
+     "2026-10-25",
+     "14 478"
+    ],
+    [
+     "2026-11-25",
+     "14 478"
+    ],
+    [
+     "2026-12-25",
+     "14 482"
+    ],
+    [
+     "Summa",
+     "173 740"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "6:4 ap.2",
+     "Valmyndigheten - till Skatteverket"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga inkomster",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Beräknade övriga inkomster som disponeras",
+     "500"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [],
+ "has_fee_section": false,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 0,
+  "n_org": 0,
+  "n_assignments": 4,
+  "n_deadlines": 2,
+  "deadlines": [
+   "2026-12-15",
+   "2027-03-02"
+  ],
+  "partners": [
+   "Skatteverket"
+  ],
+  "n_appropriations": 1,
+  "appropriations_total_tkr": 173740,
+  "payment_plan_total_tkr": 173740,
+  "md_chars": 4917
+ },
+ "layout": "standard",
+ "warnings": []
+}

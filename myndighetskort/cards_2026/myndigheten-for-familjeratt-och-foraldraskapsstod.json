@@ -1,0 +1,469 @@
+{
+ "schema_version": 1,
+ "id": 26381,
+ "original_rbid": 25690,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-05-28",
+ "year": "2026",
+ "name": "Myndigheten för familjerätt och föräldraskapsstöd",
+ "slug": "myndigheten-for-familjeratt-och-foraldraskapsstod",
+ "department": "Socialdepartementet",
+ "expenditure_areas": [
+  9
+ ],
+ "registry_numbers": [
+  "S2026/01103"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1"
+  ],
+  "bet": [
+   "2025/26:SoU1"
+  ],
+  "rskr": [
+   "2025/26:114"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "",
+ "goals": [
+  {
+   "title": "Öka förmågan att använda AI och ny teknik genom datadrivet arbete",
+   "group": [],
+   "text": "Myndigheten för familjerätt och föräldraskapsstöd ska redovisa i vilken utsträckning de arbetar datadrivet samt vilka åtgärder de vidtagit för att förbättra sin förmåga att arbeta datadrivet.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "statistik_data",
+    "digitalisering_ai"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26381:goals:0"
+  }
+ ],
+ "org": [
+  {
+   "title": "Ett nationellt resurscentrum för adopterade personer och adoptionsfrågor",
+   "group": [],
+   "text": "Myndigheten ska förbereda inrättandet av ett nationellt resurscentrum för adopterade personer och adoptionsfrågor inom ramen för den internationella verksamheten. Centrumet ska samla och samordna statens adoptionsspecifika stöd och vara en tydlig väg in för adopterade personer som behöver stöd, men även för yrkesverksamma som i sitt arbete möter adopterade personer. För att underlätta enskilda personers tillgång till verksamheten ska centrumet vara helt eller delvis lokaliserat i Stockholms län. Centrumet inrättas senast den 1 januari 2027. Myndigheten ska löpande informera Regeringskansliet (Socialdepartementet) om hur arbetet med inrättandet fortskrider. Arbetet ska redovisas skriftligen senast den 1 februari 2027 till Regeringskansliet (Socialdepartementet).",
+   "dates": [
+    "2027-01-01",
+    "2027-02-01"
+   ],
+   "deadlines": [
+    "2027-01-01",
+    "2027-02-01"
+   ],
+   "recipients": [
+    "Regeringskansliet (Socialdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "utveckla",
+    "informera",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "org",
+   "item_id": "26381:org:0"
+  }
+ ],
+ "assignments": [
+  {
+   "title": "Uppdrag att bidra i arbetet med att utveckla kunskap om informations-, stöd- och skyddsbehov hos enskilda som vill lämna relationer där hedersrelaterat våld eller förtryck förekommer",
+   "group": [],
+   "text": "Myndigheten för familjerätt och föräldraskapsstöd (MFoF) ska bistå Socialstyrelsen i uppdraget att utveckla kunskap om informations-, stöd- och skyddsbehovet hos enskilda som vill lämna relationer där hedersrelaterat våld eller förtryck förekommer. MFoF ska bistå med kunskap och omhänderta resultatet inom ramen för sitt arbete, bl.a. vid information om frågor som rör vårdnad, boende och umgänge. För uppdraget får MFoF under 2026 använda 500 000 kronor som ska redovisas mot det under utgiftsområde 13 Integration och jämställdhet för budgetåret 2026 uppförda anslaget 3:1 Särskilda jämställdhetsåtgärder. Medlen betalas ut engångsvis efter rekvisition till Kammarkollegiet senast den 1 december 2026. Medel som inte har använts återbetalas senast den 31 mars 2027 till Kammarkollegiet. Vid samma tidpunkt ska en ekonomisk redovisning av använda medel lämnas till Kammarkollegiet. Rekvisition, återbetalning och redovisning ska hänvisa till diarienumret för detta beslut.",
+   "dates": [
+    "2026-12-01",
+    "2027-03-31"
+   ],
+   "deadlines": [
+    "2026-12-01",
+    "2027-03-31"
+   ],
+   "recipients": [
+    "Kammarkollegiet"
+   ],
+   "partners": [
+    "Kammarkollegiet",
+    "Socialstyrelsen"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "utveckla"
+   ],
+   "anslag_refs": [
+    "3:1"
+   ],
+   "expenditure_area_refs": [
+    13
+   ],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26381:assignments:0"
+  },
+  {
+   "title": "Prognoser",
+   "group": [],
+   "text": "Myndigheten för familjerätt och föräldraskapsstöd ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Prognoserna lämnas i informationssystemet Hermes senast den:\n\n2 februari,\n\n22 april,\n\n24 juli,\n\n9 november.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26381:assignments:1"
+  },
+  {
+   "title": "Pågående uppdrag",
+   "group": [],
+   "text": "| | | |\n| --- | --- | --- |\n| **Uppdrag** | **Beslut om uppdragen** | **Redovisningstidpunkt** |\n| Uppdrag att främja utvecklingen av våldsförebyggande arbete med föräldrar i hederskontext | Regeringsbeslut A2021/02053 | Till Arbetsmarknadsdepartementet med kopia till Socialdepartementet den 31 mars 2026 (slutredovisning) |\n| Uppdrag att ta fram ett nationellt hälsoprogram för barn och unga | Regeringsbeslut S2023/02379 | Slutredovisas av Socialstyrelsen till Socialdepartementet den 31 januari 2027 |\n| Uppdrag att tillhandahålla en grundläggande utbildning i föräldraskapsstöd | Regeringsbeslut S2023/03257 | Till Socialdepartementet den 11 april 2026 (slutredovisning) |\n| Uppdrag att stärka socialtjänstens arbete med riskbedömningar samt i frågor om vårdnad, boende och umgänge | Regeringsbeslut S2024/01210 | Till Socialdepartementet med kopia till Arbetsmarknadsdepartementet den 9 november 2026 (delredovisning) och den 15 december 2027 (slutredovisning) |\n| Uppdrag att lämna förslag på hur föräldraskapsstödet till föräldrar med psykisk ohälsa eller kognitiva svårigheter kan stärkas | Regeringsbeslut S2024/01507 | Till Socialdepartementet senast den 27 februari 2026 (slutredovisning) |\n| Uppdrag att betala ut och följa upp statsbidrag för förstärkta föräldraskapsstödjande insatser 2025 | Regeringsbeslut S2024/02156 | Till Socialdepartementet senast den 10 april 2026 |\n| Uppdrag att genomföra intensifierade insatser för att åstadkomma ett mer tillgängligt och målgruppsanpassat föräldraskapsstöd | Regeringsbeslut S2024/02156 | Till Socialdepartementet senast den 21 april 2026 och därefter årligen den 21 april t.o.m. 2028 |\n| Uppdrag att medverka i arbetet med att samordna, stödja och följa upp genomförandet av den nationella strategin inom området psykisk hälsa och suicidprevention | Regeringsbeslut S2025/00016 | Redovisas av Folkhälsomyndigheten och Socialstyrelsen till Socialdepartementet den 19 december 2026 och 2027 (delredovisning) och den 19 december 2028 (slutredovisning) |\n| Uppdrag att ge stöd till internationellt adopterade och adoptivföräldrar | Regeringsbeslut S2025/00113 | Till Socialdepartementet senast den 27 februari 2026 (delredovisning) och den 2 februari 2027 (slutredovisning) |\n| Uppdrag om förstärkta familjerätter och våldsförebyggande familjerådgivning | Regeringsbeslut S2025/00210 | Till Socialdepartementet senast den 2 mars 2026 |\n| Uppdrag om utvecklat föräldraskapsstöd och kontaktvägar för barn som utsatts för våld och sexuell exploatering | Regeringsbeslut A2025/00608 | Till Arbetsmarknadsdepartementet med kopia till Socialdepartementet senast den 27 september 2027 (slutredovisning) |\n| Uppdrag om stärkt föräldraskapsstöd före, under och efter en placering av barn utanför det egna hemmet | Regeringsbeslut S2025/01036 | Redovisas tillsammans med Socialstyrelsen till Socialdepartementet senast den 1 februari 2027 |\n| Uppdrag att bidra i arbetet med att ta fram en myndighetsgemensam nationell plan för en bättre beroendevård och ett stärkt förebyggande arbete | Regeringsbeslut S2025/01284 | Redovisas av Folkhälsomyndigheten och Socialstyrelsen till Socialdepartementet senast den 1 juni 2026 |\n| Uppdrag att förbättra förutsättningarna att använda effektiva insatser som förebygger kriminalitet hos barn och unga | Regeringsbeslut S2025/01364 | Redovisas tillsammans med Socialstyrelsen till Socialdepartementet senast den 15 maj 2026 (delredovisning) och den 5 mars 2027 (slutredovisning) |\n\n*För regeringsuppdrag som lämnats i ett särskilt regeringsbeslut utgör tabellen endast en upplysning om vilka uppdrag som vid årets början var riktade till myndigheten och vilka tider som då gällde för återrapportering eller liknande.*",
+   "dates": [
+    "2026-02-27",
+    "2026-03-02",
+    "2026-03-31",
+    "2026-04-10",
+    "2026-04-11",
+    "2026-04-21",
+    "2026-05-15",
+    "2026-06-01",
+    "2026-11-09",
+    "2026-12-19",
+    "2027-01-31",
+    "2027-02-01",
+    "2027-02-02",
+    "2027-03-05",
+    "2027-09-27",
+    "2027-12-15",
+    "2028-12-19"
+   ],
+   "deadlines": [
+    "2026-02-27",
+    "2026-03-02",
+    "2026-04-10",
+    "2026-04-21",
+    "2026-05-15",
+    "2026-06-01",
+    "2027-02-01",
+    "2027-09-27"
+   ],
+   "recipients": [],
+   "partners": [
+    "Folkhälsomyndigheten",
+    "Socialstyrelsen"
+   ],
+   "channels": [
+    "delredovisning",
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "föreslå",
+    "samordna",
+    "fördela_medel",
+    "utveckla",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "26381:assignments:2"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "4:1",
+   "name": "Myndigheten för familjerätt och föräldraskapsstöd",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 9,
+    "name": "Hälsovård, sjukvård och social omsorg"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Myndigheten för familjerätt och föräldraskapsstöd",
+     "amount_tkr": 67607,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Myndigheten för familjerätt och föräldraskapsstöd (ram)",
+       "amount_tkr": 67607
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Myndigheten för familjerätt och föräldraskapsstöd",
+     "text": "Anslagsposten får användas för myndighetens förvaltningsutgifter. Av myndighetens förvaltningsanslag får högst 1 800 000 kronor fördelas som statsbidrag i enlighet med förordningen (2008:1239) om statsbidrag till auktoriserade adoptionssammanslutningar och till riksorganisationer för adopterade."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "1",
+     "max": 1800000,
+     "unit": "kronor"
+    }
+   ]
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "4:1 Myndigheten för familjerätt och föräldraskapsstöd",
+   "ap": "ap.1",
+   "Anslagskredit": 2028,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 1500,
+  "Räntekontokredit": 2000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 5634
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 5634
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 5634
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 5634
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 5634
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 5634
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 5634
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 5634
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 5634
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 5634
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 5634
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 5633
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "4:1 Myndigheten för familjerätt och föräldraskapsstöd",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "2 028",
+     "3 %",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "1 500"
+    ],
+    [
+     "Räntekontokredit",
+     "2 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "5 634"
+    ],
+    [
+     "2026-02-25",
+     "5 634"
+    ],
+    [
+     "2026-03-25",
+     "5 634"
+    ],
+    [
+     "2026-04-25",
+     "5 634"
+    ],
+    [
+     "2026-05-25",
+     "5 634"
+    ],
+    [
+     "2026-06-25",
+     "5 634"
+    ],
+    [
+     "2026-07-25",
+     "5 634"
+    ],
+    [
+     "2026-08-25",
+     "5 634"
+    ],
+    [
+     "2026-09-25",
+     "5 634"
+    ],
+    [
+     "2026-10-25",
+     "5 634"
+    ],
+    [
+     "2026-11-25",
+     "5 634"
+    ],
+    [
+     "2026-12-25",
+     "5 633"
+    ],
+    [
+     "Summa",
+     "67 607"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "4:1 ap.1",
+     "Myndigheten för familjerätt och föräldraskapsstöd"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [],
+ "has_fee_section": false,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 1,
+  "n_org": 1,
+  "n_assignments": 3,
+  "n_deadlines": 11,
+  "deadlines": [
+   "2026-02-27",
+   "2026-03-02",
+   "2026-04-10",
+   "2026-04-21",
+   "2026-05-15",
+   "2026-06-01",
+   "2026-12-01",
+   "2027-01-01",
+   "2027-02-01",
+   "2027-03-31",
+   "2027-09-27"
+  ],
+  "partners": [
+   "Folkhälsomyndigheten",
+   "Kammarkollegiet",
+   "Socialstyrelsen"
+  ],
+  "n_appropriations": 1,
+  "appropriations_total_tkr": 67607,
+  "payment_plan_total_tkr": 67607,
+  "md_chars": 9825
+ },
+ "layout": "standard",
+ "warnings": []
+}

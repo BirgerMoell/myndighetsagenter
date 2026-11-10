@@ -1,0 +1,651 @@
+{
+ "schema_version": 1,
+ "id": 27546,
+ "original_rbid": 26013,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-09-03",
+ "year": "2026",
+ "name": "Forum för levande historia",
+ "slug": "forum-for-levande-historia",
+ "department": "Kulturdepartementet",
+ "expenditure_areas": [
+  17
+ ],
+ "registry_numbers": [
+  "Ku2026/00698"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1"
+  ],
+  "bet": [
+   "2025/26:KrU1"
+  ],
+  "rskr": [
+   "2025/26:83"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "",
+ "goals": [
+  {
+   "title": "Publik och tillgänglighet",
+   "group": [],
+   "text": "Forum för levande historia ska redovisa\n\n- insatserna för att öka den unga publiken\n- de åtgärder som vidtagits för att öka tillgängligheten för personer med funktionsnedsättning\n- förändringar i besöksutvecklingen i förhållande till tidigare år\n- insatserna för att utvidga verksamheten till och nå nya målgrupper.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "insatserna för att öka den unga publiken",
+    "de åtgärder som vidtagits för att öka tillgängligheten för personer med funktionsnedsättning",
+    "förändringar i besöksutvecklingen i förhållande till tidigare år",
+    "insatserna för att utvidga verksamheten till och nå nya målgrupper."
+   ],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27546:goals:0"
+  },
+  {
+   "title": "Informations- och kommunikationsverksamhet",
+   "group": [],
+   "text": "Forum för levande historia ska redovisa kostnaderna för myndighetens externa informations- och kommunikationsverksamhet. Forum för levande historia ska också redovisa de motiv som ligger till grund för myndighetens val av externa kommunikationsinsatser och hur insatserna bidragit till genomförandet av myndighetens kärnuppgifter och uppdrag. Vidare ska myndigheten redovisa hur den externa informations- och kommunikationsverksamheten följs upp.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27546:goals:1"
+  },
+  {
+   "title": "Lokalkostnader",
+   "group": [],
+   "text": "Forum för levande historia ska specificera myndighetens totala lokalkostnader för 2026 enligt följande\n\n- hyra\n- el och uppvärmning\n- reparationer och underhåll\n- övriga driftskostnader.\n\nOm myndigheten har fler än en hyresvärd ska kostnaderna fördelas per hyresvärd.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "fördela_medel"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "el och uppvärmning",
+    "reparationer och underhåll",
+    "övriga driftskostnader."
+   ],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27546:goals:2"
+  },
+  {
+   "title": "Sponsringsintäkter",
+   "group": [],
+   "text": "Forum för levande historia ska särredovisa eventuella sponsringsintäkter i not till resultaträkningen.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27546:goals:3"
+  },
+  {
+   "title": "Bidragsintäkter",
+   "group": [],
+   "text": "Forum för levande historia ska särredovisa fördelningen av eventuella bidragsintäkter mellan statliga bidrag, icke-statliga bidrag respektive bidrag från mellanstatliga organ i not till resultaträkningen.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27546:goals:4"
+  }
+ ],
+ "org": [],
+ "assignments": [
+  {
+   "title": "Främja hågkomstresor till Förintelsens minnesplatser",
+   "group": [],
+   "text": "Forum för levande historia ska främja hågkomstresor till Förintelsens minnesplatser. I uppdraget ingår att sprida stödmaterial om hur resor kan genomföras samt att kvalitetssäkra och genomföra utbildningsinsatser riktade till lärare, rektorer och andra som har en viktig roll i genomförandet av resorna. I arbetet med uppdraget ska myndigheten bidra till att olika grupper som föll offer för den nazistiska regimen och dess medhjälpare blir belysta. Forum för levande historia ska vid genomförandet av uppdraget\n\n- prioritera att nå skolor med särskilt behov av insatserna\n- föra en dialog med Svenska kommittén mot antisemitism\n- inhämta synpunkter från övriga berörda myndigheter, organisationer och andra relevanta aktörer.\n\nMyndigheten ska även i dialog med Voksenåsen AS främja elevresor till norska minnesplatser genom fortbildning av lärare.\n\nForum för levande historia ska även ta fram en sammanställning och analys av arbetet med hågkomstresor. Sammanställningen ska innehålla en översikt över vilken typ av aktörer som arrangerat hågkomstresor, inriktningen för resorna och vilka målgrupper resorna har haft. Sammanställningen ska även innehålla en analys av framgångsfaktorer och utmaningar i arbetet med att arrangera hågkomstresor samt förslag på kriterier för kvalitetssäkring av utförare av resorna.\n\nEn delredovisning innehållande sammanställningen ska lämnas till Regeringskansliet (Kulturdepartementet) senast den 15 juni 2026. En slutredovisning av uppdraget ska lämnas till Regeringskansliet (Kulturdepartementet) senast den 31 mars 2027. För uppdraget får myndigheten under 2026 använda högst 1 100 000 kronor som ska redovisas mot det under utgiftsområde 1 Rikets styrelse för budgetåret 2026 uppförda anslaget 6:1 Allmänna val och demokrati, anslagsposten 19 Hågkomstresor till Förintelsens minnesplatser. Högst 100 000 kr får användas för sammanställningen. Medlen betalas ut engångsvis efter rekvisition till Kammarkollegiet senast den 1 december 2026. Medel som inte har använts för avsett ändamål ska återbetalas till Kammarkollegiet senast den 31 mars 2027. Vid samma tidpunkt ska en ekonomisk redovisning av använda medel lämnas till Kammarkollegiet.",
+   "dates": [
+    "2026-06-15",
+    "2026-12-01",
+    "2027-03-31"
+   ],
+   "deadlines": [
+    "2026-06-15",
+    "2026-12-01",
+    "2027-03-31"
+   ],
+   "recipients": [
+    "Kammarkollegiet",
+    "Regeringskansliet (Kulturdepartementet)"
+   ],
+   "partners": [
+    "Kammarkollegiet"
+   ],
+   "channels": [
+    "delredovisning",
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "utveckla"
+   ],
+   "anslag_refs": [
+    "6:1"
+   ],
+   "expenditure_area_refs": [
+    1
+   ],
+   "sfs_refs": [],
+   "sub_questions": [
+    "prioritera att nå skolor med särskilt behov av insatserna",
+    "föra en dialog med Svenska kommittén mot antisemitism",
+    "inhämta synpunkter från övriga berörda myndigheter, organisationer och andra relevanta aktörer."
+   ],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27546:assignments:0"
+  },
+  {
+   "title": "Demokratistärkande insatser för att motverka antisemitism och andra former av rasism",
+   "group": [],
+   "text": "Forum för levande historia och Statens skolverk ska tillsammans genomföra spridningsaktiviteter och följa upp verktyget för systematiskt arbete med demokratistärkande insatser i skolväsendet, folkbildningen och inom andra delar av utbildning för vuxna. Syftet är att motverka nutida uttryck för antisemitism och andra former av rasism, oavsett vem det drabbar. Uppdraget ska anpassas till och ta hänsyn till uppdraget som Brottsförebyggande rådet har om hatbrott i regleringsbrevet för budgetåret 2026. Myndigheterna ska erbjuda målgrupperna processtöd i arbetet med verktyget och arbeta utåtriktat för att nå fler förskolor och skolor, i synnerhet sådana förskolor och skolor som särskilt är i behov av arbete med verktyget. Utgångspunkten för uppdraget är densamma som för tidigare uppdrag (U2021/04941, Ku2021/02377, U2023/03701 och Ku2023/01402). Myndigheterna ska löpande hålla Regeringskansliet (Kulturdepartementet och Utbildningsdepartementet) informerat om arbetet. Uppdraget ska redovisas gemensamt till Regeringskansliet (Kulturdepartementet och Utbildningsdepartementet) senast den 15 januari 2027. I redovisningen ska det ingå uppgifter om i vilken utsträckning och utifrån vilka utmaningar som förskolor och skolor har tagit del av det stöd som erbjuds inom ramen för uppdraget.",
+   "dates": [
+    "2027-01-15"
+   ],
+   "deadlines": [
+    "2027-01-15"
+   ],
+   "recipients": [
+    "Regeringskansliet (Kulturdepartementet och Utbildningsdepartementet)"
+   ],
+   "partners": [
+    "Brottsförebyggande rådet",
+    "Statens skolverk"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla",
+    "informera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27546:assignments:1"
+  },
+  {
+   "title": "Kiruna - Europeisk kulturhuvudstad 2029",
+   "group": [],
+   "text": "Forum för levande historia ska i dialog med Kiruna kommun se över möjligheterna att medverka inför och under evenemanget Europeisk kulturhuvudstad 2029.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "samordna",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27546:assignments:2"
+  },
+  {
+   "title": "Öka förmågan att använda AI och ny teknik genom datadrivet arbete",
+   "group": [],
+   "text": "Forum för levande historia ska redovisa i vilken utsträckning myndigheten arbetar datadrivet och hur AI används i verksamheten. Myndigheten ska även redogöra för på vilket sätt arbetet med data och AI har bidragit till att utveckla verksamheten och höja kvaliteten i utförandet av myndighetens uppgifter och uppdrag. Av redovisningen ska framgå hur myndigheten beaktar risker och arbetar för att användning av data och AI sker på ett etiskt, säkert och icke-diskriminerande sätt. Eventuella hinder eller framgångsfaktorer för datadrivet arbete och användande av AI ska även redovisas.\n\nUppdraget ska redovisas till Regeringskansliet (Kulturdepartementet) senast den 4 maj 2026.",
+   "dates": [
+    "2026-05-04"
+   ],
+   "deadlines": [
+    "2026-05-04"
+   ],
+   "recipients": [
+    "Regeringskansliet (Kulturdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla",
+    "statistik_data",
+    "digitalisering_ai"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27546:assignments:3"
+  },
+  {
+   "title": "Prognoser 2026–2029",
+   "group": [],
+   "text": "Forum för levande historia ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Prognoserna lämnas i informationssystemet Hermes senast den\n\n- 2 februari\n- 24 juli\n- 9 november.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27546:assignments:4"
+  },
+  {
+   "title": "Tidigare givna uppdrag i regleringsbrev eller särskilda regeringsbeslut",
+   "group": [],
+   "text": "| | | |\n| --- | --- | --- |\n| Uppdrag | Beslut om uppdraget | Redovisningstidpunkt |\n| Uppdrag om demokratistärkande insatser för att motverka antisemitism och andra former av rasism | Ku2023/01402 | Redovisning till Regeringskansliet (Utbildningsdepartementet och Kulturdepartementet) senast den 15 januari 2026 |\n| Uppdrag som hbtqi-strategisk myndighet | Ku2023/01402 | Redovisning till Regeringskansliet (Arbetsmarknadsdepartementet) senast den 1 mars 2026 |\n| Uppdrag att genomföra en studie av svenska skolelevers attityder kring intolerans | A2023/00959 | Redovisning till Regeringskansliet (Arbetsmarknadsdepartementet) senast den 1 mars 2026 |\n| Uppdrag att genomföra insatser före och under 250-årsjubileet av judiskt liv i Sverige | Ku2024/00795 | Delredovisning till Regeringskansliet (Kulturdepartementet) senast den 31 mars 2025 och slutredovisning senast den 31 mars 2026 |\n| Uppdrag att ta fram ett kunskapshöjande material om den nationella minoriteten romer och antiziganism | Ku2024/01345 | Redovisning till Regeringskansliet (Kulturdepartementet) senast den 31 mars 2026 |\n| Uppdrag att ta fram kunskap om lika rättigheter och möjligheter för hbtqi-personer | A2024/00980 | Delredovisning till Regeringskansliet (Arbetsmarknadsdepartementet) senast den 1 mars 2025-2026 och slutredovisning senast den 1 mars 2027 |\n| Uppdrag att genomföra en studie av attityder kring intolerans i den svenska befolkningen | A2024/01392 | Redovisning till Regeringskansliet (Arbetsmarknadsdepartementet) senast den 1 mars 2027 |\n| Uppdrag att ta fram en kunskapsöversikt över antisemitism på nätet | Ku2023/01402 | Delredovisning till Regeringskansliet (Kulturdepartementet) senast den 30 maj 2025 och slutredovisning senast den 31 mars 2027 |\n| Uppdrag att genomföra en nationell studie av förekomsten av antisemitism i befolkningen | Ku2023/01402 | Redovisning till Regeringskansliet (Kulturdepartementet) senast den 31 mars 2027 |\n| Uppdrag att genomföra fortbildning och kunskapshöjande insatser om olika former av rasism | A2024/01458 | Delredovisning till Regeringskansliet (Arbetsmarknadsdepartementet) senast den 15 april 2026-2028 och slutredovisning senast den 15 april 2029 |\n| Uppdrag att samordna och följa upp regeringens handlingsplan mot rasism och hatbrott | A2024/01391 | Delredovisning till Regeringskansliet (Arbetsmarknadsdepartementet) senast den 15 april 2026-2028 och slutredovisning senast den 15 april 2029 |\n| Uppdrag att genomföra en bred kunskapshöjande insats för hågkomst av Förintelsen | Ku2024/01346 | Delredovisning till Regeringskansliet (Kulturdepartementet) senast den 31 mars 2026 och slutredovisning senast den 31 mars 2028 |\n| Uppdrag att genomföra kunskapshöjande insatser mot antisemitism | A2025/00530 | Delredovisning till Regeringskansliet (Arbetsmarknadsdepartementet) senast den 15 februari 2026-2028 och slutredovisning senast den 15 februari 2029 |\n\n*För regeringsuppdrag som lämnats i ett särskilt regeringsbeslut utgör tabellen endast en upplysning om vilka uppdrag som vid årets början var riktade till myndigheten och vilka tider som då gällde för återrapportering eller liknande.*",
+   "dates": [
+    "2025-03-01",
+    "2025-03-31",
+    "2025-05-30",
+    "2026-01-15",
+    "2026-02-15",
+    "2026-03-01",
+    "2026-03-31",
+    "2026-04-15",
+    "2027-03-01",
+    "2027-03-31",
+    "2028-03-31",
+    "2029-02-15",
+    "2029-04-15"
+   ],
+   "deadlines": [
+    "2025-03-01",
+    "2025-03-31",
+    "2025-05-30",
+    "2026-01-15",
+    "2026-02-15",
+    "2026-03-01",
+    "2026-03-31",
+    "2026-04-15",
+    "2027-03-01",
+    "2027-03-31",
+    "2028-03-31",
+    "2029-02-15",
+    "2029-04-15"
+   ],
+   "recipients": [
+    "Regeringskansliet (Arbetsmarknadsdepartementet)",
+    "Regeringskansliet (Kulturdepartementet)",
+    "Regeringskansliet (Utbildningsdepartementet och Kulturdepartementet)"
+   ],
+   "partners": [],
+   "channels": [
+    "delredovisning",
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna",
+    "utveckla",
+    "informera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "27546:assignments:5"
+  },
+  {
+   "title": "Uppmärksamma civila insatser längs svensk-norska gränsen vid flykt under Förintelsen",
+   "group": [],
+   "text": "För uppdraget att uppmärksamma civila insatser längs svensk-norska gränsen vid flykt under Förintelsen enligt regeringens beslut den 27 januari 2026 (Ku2026/00042) ska Forum för levande historia rekvirera ytterligare 500 000 kronor. Tillskottet ska användas för att utveckla material som kan användas i skolan och för att synliggöra spår från Förintelsen, i form av bland annat vittnesmål och berättelser från de aktuella räddningsinsatserna.\n\nMedlen ska redovisas mot det under utgiftsområde 1 Rikets styrelse för budgetåret 2026 uppförda anslaget 7:1 Åtgärder för nationella minoriteter, anslagsposten 2 Åtgärder för att stärka judiskt liv. Medlen betalas ut engångsvis efter rekvisition till Kammarkollegiet senast den 1 december 2026.\n\nMedel som inte har använts för avsett ändamål ska återbetalas senast den 31 mars 2027 till Kammarkollegiet. Vid samma tidpunkt ska en ekonomisk redovisning av använda medel lämnas till Kammarkollegiet.\n\nRedovisning, rekvisition och återbetalning ska hänvisa till diarienumret för detta beslut.",
+   "dates": [
+    "2026-01-27",
+    "2026-12-01",
+    "2027-03-31"
+   ],
+   "deadlines": [
+    "2026-12-01",
+    "2027-03-31"
+   ],
+   "recipients": [
+    "Kammarkollegiet"
+   ],
+   "partners": [
+    "Kammarkollegiet"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "fördela_medel",
+    "utveckla"
+   ],
+   "anslag_refs": [
+    "7:1"
+   ],
+   "expenditure_area_refs": [
+    1
+   ],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27546:assignments:6"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "7:4",
+   "name": "Forum för levande historia",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 17,
+    "name": "Kultur, medier, trossamfund och fritid"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Forum för levande historia",
+     "amount_tkr": 65842,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Forum för levande historia (ram)",
+       "amount_tkr": 65842
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Forum för levande historia",
+     "text": "Anslagsposten får användas för Forum för levande historias förvaltningsutgifter.\nI anslagsposten ingår även medel för ett pris för humanitära och demokratifrämjande insatser i enlighet med förordningen (2004:1024) om pris till Per Angers minne. Såväl prissumman som omkostnader för prisutdelning m.m. ska rymmas inom anslagsposten.\nAnslagsposten ska även användas till att betala det svenska bidraget till den fond som inrättats av International Holocaust Remembrance Alliance."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "7:4 Forum för levande historia",
+   "ap": "ap.1",
+   "Anslagskredit": 1975,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 4000,
+  "Räntekontokredit": 4300
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 5487
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 5487
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 5487
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 5487
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 5487
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 5487
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 5487
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 5487
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 5487
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 5487
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 5487
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 5485
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "7:4 Forum för levande historia",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "1 975",
+     "3 %",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "4 000"
+    ],
+    [
+     "Räntekontokredit",
+     "4 300"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "5 487"
+    ],
+    [
+     "2026-02-25",
+     "5 487"
+    ],
+    [
+     "2026-03-25",
+     "5 487"
+    ],
+    [
+     "2026-04-25",
+     "5 487"
+    ],
+    [
+     "2026-05-25",
+     "5 487"
+    ],
+    [
+     "2026-06-25",
+     "5 487"
+    ],
+    [
+     "2026-07-25",
+     "5 487"
+    ],
+    [
+     "2026-08-25",
+     "5 487"
+    ],
+    [
+     "2026-09-25",
+     "5 487"
+    ],
+    [
+     "2026-10-25",
+     "5 487"
+    ],
+    [
+     "2026-11-25",
+     "5 487"
+    ],
+    [
+     "2026-12-25",
+     "5 485"
+    ],
+    [
+     "Summa",
+     "65 842"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "7:4 ap.1",
+     "Forum för levande historia"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [],
+ "has_fee_section": false,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 5,
+  "n_org": 0,
+  "n_assignments": 7,
+  "n_deadlines": 17,
+  "deadlines": [
+   "2025-03-01",
+   "2025-03-31",
+   "2025-05-30",
+   "2026-01-15",
+   "2026-02-15",
+   "2026-03-01",
+   "2026-03-31",
+   "2026-04-15",
+   "2026-05-04",
+   "2026-06-15",
+   "2026-12-01",
+   "2027-01-15",
+   "2027-03-01",
+   "2027-03-31",
+   "2028-03-31",
+   "2029-02-15",
+   "2029-04-15"
+  ],
+  "partners": [
+   "Brottsförebyggande rådet",
+   "Kammarkollegiet",
+   "Statens skolverk"
+  ],
+  "n_appropriations": 1,
+  "appropriations_total_tkr": 65842,
+  "payment_plan_total_tkr": 65842,
+  "md_chars": 14242
+ },
+ "layout": "standard",
+ "warnings": []
+}

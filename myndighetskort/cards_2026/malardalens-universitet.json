@@ -1,0 +1,589 @@
+{
+ "schema_version": 1,
+ "id": 25842,
+ "original_rbid": 25842,
+ "type": "Regleringsbrev",
+ "category": "Myndighet",
+ "date": "2025-12-18",
+ "year": "2026",
+ "name": "Mälardalens universitet",
+ "slug": "malardalens-universitet",
+ "department": "Utbildningsdepartementet",
+ "expenditure_areas": [
+  16
+ ],
+ "registry_numbers": [
+  "U2025/00217",
+  "U2025/02412 (delvis)"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1"
+  ],
+  "bet": [
+   "2025/26:UbU1"
+  ],
+  "rskr": [
+   "2025/26:124"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "Gemensamma bestämmelser för universitet och högskolor finns i regleringsbrev för budgetåret 2026 avseende universitet och högskolor.",
+ "goals": [
+  {
+   "title": "Särskilt åtagande",
+   "group": [],
+   "text": "Universitetet ska anordna verksamhet vid Idélab, som är en del av innovationskontoret vid lärosätet. Verksamhetens omfattning, inriktning och den totala kostnaden för verksamheten ska framgå av årsredovisningen.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "årsredovisning"
+   ],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25842:goals:0"
+  },
+  {
+   "title": "Rekryteringsmål för professorer",
+   "group": [
+    "Mål"
+   ],
+   "text": "Under 2025–2028 har lärosätet ett mål för könsfördelningen bland nyrekryterade professorer om 43 procent kvinnor.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25842:goals:1"
+  },
+  {
+   "title": "Mål för antal examina",
+   "group": [
+    "Mål"
+   ],
+   "text": "Under 2025–2028 har lärosätet mål om antal utfärdade examina från vissa utbildningar inom nedan angivna områden. Målen och de examina som omfattas av dessa anges i tabellen nedan. Lärosätet ska i årsredovisningen redovisa antalet utfärdade examina inom respektive område de senaste tre åren för de yrkesexamina som anges i tabellen samt vilka åtgärder som har vidtagits för att uppnå målen.\n\n| | |\n| --- | --- |\n| **Område (examina som omfattas av målet inom parentes)** | **Mål för antal utfärdade examina under 2025–2028** |\n| Lärar- och förskollärarutbildningar (förskollärarexamina, grundlärarexamina, speciallärarexamina, specialpedagogexamina och ämneslärarexamina) | 1 480 |\n| Hälso- och sjukvårdsutbildningar (barnmorskeexamina, sjuksköterskeexamina, specialistsjuksköterskeexamina och fysioterapeutexamina) | 1 660 |",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "årsredovisning"
+   ],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25842:goals:2"
+  },
+  {
+   "title": "Mål för andel biträdande lektorer",
+   "group": [
+    "Mål"
+   ],
+   "text": "Under 2025–2028 har Mälardalens universitet ett mål att 3 procent av samtlig forskande och undervisande personal (heltidsekvivalenter) ska vara biträdande lektorer.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25842:goals:3"
+  }
+ ],
+ "org": [],
+ "assignments": [],
+ "appropriations": [
+  {
+   "code": "2:31",
+   "name": "Mälardalens universitet: Utbildning på grundnivå och avancerad nivå",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 16,
+    "name": "Utbildning och universitetsforskning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Mälardalens universitet",
+     "amount_tkr": 746278,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Takbelopp (ram)",
+       "amount_tkr": 746278
+      },
+      {
+       "ap": "1.1",
+       "name": "Takbelopp (ram)",
+       "amount_tkr": 746278
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1.1",
+     "name": "Takbelopp",
+     "text": "Anslagsposten får användas för högskoleutbildning på grundnivå och avancerad nivå samt behörighetsgivande och högskoleintroducerande utbildning.\nAnvisningar för avräkning av helårsstudenter och helårsprestationer finns i bilaga till regleringsbrev avseende universitet och högskolor."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "2:32",
+   "name": "Mälardalens universitet: Forskning och utbildning på forskarnivå",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 16,
+    "name": "Utbildning och universitetsforskning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Mälardalens universitet",
+     "amount_tkr": 309021,
+     "items": [
+      {
+       "ap": "3",
+       "name": "Basresurs (ram)",
+       "amount_tkr": 309021
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "3",
+     "name": "Basresurs",
+     "text": "Anslagsposten får användas för forskning och utbildning på forskarnivå."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "2:65",
+   "name": "Särskilda medel till universitet och högskolor",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 16,
+    "name": "Utbildning och universitetsforskning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Mälardalens universitet",
+     "amount_tkr": 4767,
+     "items": [
+      {
+       "ap": "27",
+       "name": "Idélab (ram)",
+       "amount_tkr": 0
+      },
+      {
+       "ap": "67",
+       "name": "Korta kurser (ram)",
+       "amount_tkr": 3177
+      },
+      {
+       "ap": "94",
+       "name": "Medel för studenthälsa (ram)",
+       "amount_tkr": 1290
+      },
+      {
+       "ap": "115",
+       "name": "Holdingbolag (ram)",
+       "amount_tkr": 300
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "27",
+     "name": "Idélab",
+     "text": "Anslagsposten får användas för utgifter för Idélab."
+    },
+    {
+     "ap": "67",
+     "name": "Korta kurser",
+     "text": "Anslagsposten får användas för att utveckla korta kurser för yrkesverksamma med inriktning på grön omställning, batterier, teknik och produktionsteknik. Arbetet ska redovisas i årsredovisningen."
+    },
+    {
+     "ap": "94",
+     "name": "Medel för studenthälsa",
+     "text": "Anslagsposten får användas för att stärka studenthälsan och bl.a. möjliggöra mer preventivt arbete för att minska studenternas psykiska och fysiska ohälsa samt stärka stödet för studieovana studenter. Av medlen avser 520 000 kronor arbete med att särskilt främja psykisk hälsa bland studenter."
+    },
+    {
+     "ap": "115",
+     "name": "Holdingbolag",
+     "text": "Anslagsposten får användas för kapitaltillskott till holdingbolag vid lärosätet för finansiering av verksamhet som syftar till att främja kommersialisering av forskningsresultat och innovationer.\nMälardalens universitet bemyndigas att under 2026 utbetala ett kapitaltillskott på högst 300 000 kronor till holdingbolaget som är knutet till lärosätet. Kapitaltillskottet får lämnas i enlighet med förordningen (2025:727) om statligt stöd för innovationsverksamhet inom holdingbolag vid universitet och högskolor."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "115",
+     "max": 300000,
+     "unit": "kronor"
+    }
+   ]
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "2:31 Mälardalens universitet: Utbildning på grundnivå och avancerad nivå",
+   "ap": "ap.1.1",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "10 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:32 Mälardalens universitet: Forskning och utbildning på forskarnivå",
+   "ap": "ap.3",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Allt",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.27",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.67",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.94",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.115",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 200000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 88340
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 88340
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 88340
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 88340
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 88340
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 88340
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 88340
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 88340
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 88340
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 88340
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 88340
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 88326
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "2:31 Mälardalens universitet: Utbildning på grundnivå och avancerad nivå",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1.1",
+     "0",
+     "10 %",
+     "0"
+    ],
+    [
+     "2:32 Mälardalens universitet: Forskning och utbildning på forskarnivå",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.3",
+     "0",
+     "Allt",
+     "0"
+    ],
+    [
+     "2:65 Särskilda medel till universitet och högskolor",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.27",
+     "0",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.67",
+     "0",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.94",
+     "0",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.115",
+     "0",
+     "3 %",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Omfördelning av anslagssparande",
+   "rows": [
+    [
+     "Omfördelning från anslag/ap1",
+     "Omfördelning till anslag/ap2",
+     "Belopp (tkr)",
+     "Belopp andel (%)"
+    ],
+    [
+     "2:31 Mälardalens universitet: Utbildning på grundnivå och avancerad nivå",
+     "",
+     "",
+     ""
+    ],
+    [
+     "2:31 ap.1.2",
+     "2:31 ap.1.1",
+     "100 %"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Avslutade anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagstyp"
+    ],
+    [
+     "2:31 Mälardalens universitet: Utbildning på grundnivå och avancerad nivå",
+     ""
+    ],
+    [
+     "ap.1.2",
+     "ram"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "200 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "88 340"
+    ],
+    [
+     "2026-02-25",
+     "88 340"
+    ],
+    [
+     "2026-03-25",
+     "88 340"
+    ],
+    [
+     "2026-04-25",
+     "88 340"
+    ],
+    [
+     "2026-05-25",
+     "88 340"
+    ],
+    [
+     "2026-06-25",
+     "88 340"
+    ],
+    [
+     "2026-07-25",
+     "88 340"
+    ],
+    [
+     "2026-08-25",
+     "88 340"
+    ],
+    [
+     "2026-09-25",
+     "88 340"
+    ],
+    [
+     "2026-10-25",
+     "88 340"
+    ],
+    [
+     "2026-11-25",
+     "88 340"
+    ],
+    [
+     "2026-12-25",
+     "88 326"
+    ],
+    [
+     "Summa",
+     "1 060 066"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "2:31 ap.1.1",
+     "Takbelopp"
+    ],
+    [
+     "2:32 ap.3",
+     "Basresurs"
+    ],
+    [
+     "2:65 ap.27",
+     "Idélab"
+    ],
+    [
+     "2:65 ap.67",
+     "Korta kurser"
+    ],
+    [
+     "2:65 ap.94",
+     "Medel för studenthälsa"
+    ],
+    [
+     "2:65 ap.115",
+     "Holdingbolag"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [],
+ "has_fee_section": false,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 4,
+  "n_org": 0,
+  "n_assignments": 0,
+  "n_deadlines": 0,
+  "deadlines": [],
+  "partners": [],
+  "n_appropriations": 3,
+  "appropriations_total_tkr": 1060066,
+  "payment_plan_total_tkr": 1060066,
+  "md_chars": 7681
+ },
+ "layout": "standard",
+ "warnings": []
+}

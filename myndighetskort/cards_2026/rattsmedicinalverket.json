@@ -1,0 +1,541 @@
+{
+ "schema_version": 1,
+ "id": 25960,
+ "original_rbid": 25960,
+ "type": "Regleringsbrev",
+ "category": "Myndighet",
+ "date": "2025-12-18",
+ "year": "2026",
+ "name": "Rättsmedicinalverket",
+ "slug": "rattsmedicinalverket",
+ "department": "Justitiedepartementet",
+ "expenditure_areas": [
+  4
+ ],
+ "registry_numbers": [
+  "Ju2025/00373",
+  "Ju2025/02693 (delvis)"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1"
+  ],
+  "bet": [
+   "2025/26:JuU1"
+  ],
+  "rskr": [
+   "2025/26:101"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "Målet för rättsväsendet är den enskildes rättssäkerhet och rättstrygghet. Rättssäkerhet innebär att rättsskipning och annan myndighetsutövning ska vara förutsebar och enhetlig samt bedrivas effektivt och med hög kvalitet. Genom att fullgöra sina uppgifter ska Rättsmedicinalverket bidra till målet för rättsväsendet. Rättsmedicinalverkets huvudsakliga uppgifter framgår av förordningen (2007:976) med instruktion för Rättsmedicinalverket.",
+ "goals": [
+  {
+   "title": "Tillämpning av ny lagstiftning",
+   "group": [],
+   "text": "Rättsmedicinalverket ska redovisa myndighetens arbete med att tillämpa den nya lagstiftningen om\n\n- skärpta regler för villkorlig frigivning (i kraft den 1 januari 2026) och\n- säkerhetsförvaring (i kraft den 1 mars 2026).\n\nRedovisningen ska göra det möjligt att följa upp reformerna över tid. Om det är möjligt och lämpligt ska även statistiska uppgifter redovisas.",
+   "dates": [
+    "2026-01-01",
+    "2026-03-01"
+   ],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "skärpta regler för villkorlig frigivning (i kraft den 1 januari 2026) och",
+    "säkerhetsförvaring (i kraft den 1 mars 2026)."
+   ],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25960:goals:0"
+  },
+  {
+   "title": "Öka förmågan att använda AI och ny teknik genom datadrivet arbete",
+   "group": [],
+   "text": "Rättsmedicinalverket ska redovisa hur myndigheten arbetar datadrivet, vilka åtgärder som vidtagits för att utveckla arbetet samt bedöma hur resultatet bidragit till att utveckla verksamheten. Myndigheten ska även redovisa hur olika risker beaktats samt eventuella hinder och framgångsfaktorer.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla",
+    "statistik_data",
+    "digitalisering_ai"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25960:goals:1"
+  }
+ ],
+ "org": [],
+ "assignments": [
+  {
+   "title": "Ökad användning av och kvalitet i rättsintyg",
+   "group": [],
+   "text": "Rättsmedicinalverket ska, tillsammans med Polismyndigheten och Åklagarmyndigheten, vidta åtgärder för att öka användningen av rättsintyg och höja kvaliteten i dessa, till exempel genom informationsinsatser och metodutveckling. Rättsmedicinalverket ska samordna arbetet och redovisningen. Uppdraget ska redovisas till Regeringskansliet (Justitiedepartementet) senast den 2 april 2027.",
+   "dates": [
+    "2027-04-02"
+   ],
+   "deadlines": [
+    "2027-04-02"
+   ],
+   "recipients": [
+    "Regeringskansliet (Justitiedepartementet)"
+   ],
+   "partners": [
+    "Polismyndigheten",
+    "Åklagarmyndigheten"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "informera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "25960:assignments:0"
+  },
+  {
+   "title": "Förbereda inför samt bistå i arbetet med utredningar för att förebygga suicid",
+   "group": [],
+   "text": "Regeringen avser att inrätta en nationell utredningsfunktion vid en statlig myndighet för att förebygga suicid. Rättsmedicinalverket ska vidta nödvändiga åtgärder för att förbereda verksamheten inför uppgiften att bistå i utredningsarbetet vid funktionen, samt, när funktionen är inrättad, bistå i arbetet. Vid genomförandet av uppdraget ska myndigheten föra dialog med Folkhälsomyndigheten. Rättsmedicinalverket ska senast den 30 juni 2026 lämna en delredovisning av uppdraget och senast den 31 maj 2027 lämna en slutredovisning. Redovisningarna lämnas till Regeringskansliet (Socialdepartementet med kopia till Justitiedepartementet).\n\nFör uppdraget får Rättsmedicinalverket under 2026 använda 3 000 000 kronor som ska redovisas mot det under utgiftsområde 9 Hälsovård, sjukvård och social omsorg för budgetåret 2026 uppförda anslaget 1:8 Bidrag till psykiatri, anslagsposten 3 Del till Kammarkollegiet. Medlen betalas ut engångsvis efter rekvisition till Kammarkollegiet senast den 1 december 2026. Medel som inte har använts för avsett ändamål ska återbetalas senast den 31 mars 2027 till Kammarkollegiet. Vid samma tidpunkt ska en ekonomisk redovisning av använda medel lämnas till Kammarkollegiet. Redovisning, rekvisition och återbetalning ska hänvisa till regleringsbrev för budgetåret 2026 avseende Rättsmedicinalverket.",
+   "dates": [
+    "2026-06-30",
+    "2026-12-01",
+    "2027-03-31",
+    "2027-05-31"
+   ],
+   "deadlines": [
+    "2026-06-30",
+    "2026-12-01",
+    "2027-03-31",
+    "2027-05-31"
+   ],
+   "recipients": [
+    "Kammarkollegiet",
+    "Regeringskansliet (Socialdepartementet med kopia till Justitiedepartementet)"
+   ],
+   "partners": [
+    "Folkhälsomyndigheten",
+    "Kammarkollegiet"
+   ],
+   "channels": [
+    "delredovisning",
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "fördela_medel",
+    "utveckla"
+   ],
+   "anslag_refs": [
+    "1:8"
+   ],
+   "expenditure_area_refs": [
+    9
+   ],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "25960:assignments:1"
+  },
+  {
+   "title": "Förbereda anslutning till Säker digital kommunikation (SDK)",
+   "group": [],
+   "text": "Rättsmedicinalverket ska under 2026 fortsätta arbetet med att förbereda anslutning av relevanta informationsflöden till den infrastruktur för säker digital kommunikation inom offentlig sektor som Myndigheten för digital förvaltning (Digg) tillhandahåller. Myndigheten ska löpande hålla Myndigheten för digital förvaltning informerad om arbetet.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Myndigheten för digital förvaltning"
+   ],
+   "channels": [],
+   "task_types": [
+    "utveckla",
+    "informera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "25960:assignments:2"
+  },
+  {
+   "title": "Prognoser",
+   "group": [],
+   "text": "Rättsmedicinalverket ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras i förhållande till föregående prognostillfälle samt till tillgängliga och beräknade medel enligt budgeten. Av kommentarerna ska framgå vilka antaganden som använts i prognosen, vilka osäkerhetsfaktorer som finns och vad som har orsakat eventuella förändringar. Om prognosen visar på underskott ska myndigheten redovisa vilka åtgärder som har vidtagits eller planeras vidtas för att verksamheten ska kunna bedrivas inom ramen för tilldelade medel samt vilka konsekvenserna blir för verksamheten till följd av dessa åtgärder. Prognoserna ska lämnas i informationssystemet Hermes senast den\n\n2 februari\n\n22 april\n\n24 juli\n\n9 november.\n\nVidare ska myndigheten i särskild ordning lämna en prognos över intäkter och kostnader per verksamhetsområde inom den avgiftsbelagda verksamheten för 2026 och 2027 till Regeringskansliet (Justitiedepartementet) senast den 24 juli och 9 november.\n\n| | | |\n| --- | --- | --- |\n| **Pågående uppdrag** | **Beslut om uppdrag** | **Datum för redovisning** |\n| Förberedelser inför en ny tidsobestämd påföljd | Ju2025/01198 | 18 februari 2026 |\n| Försöksverksamhet med ett snabbförfarande i brottmål för lagöverträdare under 18 år | Ju2022/00421, Ju2023/00846, Ju2024/00345, Ju2024/00592 | 31 mars 2026 |\n| Myndighetsgemensam nationell plan för en bättre beroendevård och ett stärkt förebyggande arbete | S2025/01284 (delvis) | 1 juni 2026 |\n| Förstärkning av säkerhetsarbetet inom Rättsmedicinalverket | Ju2025/02555 | 1 juni 2026 |\n| Tillämpning av försöksverksamhet med rutinmässiga ögonundersökningar i trafiken | Ju2024/01554, Ju2024/02573 (delvis) | Årsredovisning 2025-2028 |\n| Stärkt samverkan när det finns misstanke om att barn har utsatts för våldsbrott | S2025/01365 | 15 februari 2027 |\n| Samordna, stödja och följa upp genomförandet av den nationella strategin inom området psykisk hälsa och suicidprevention | S2025/00016 (delvis) | 19 december 2028 |\n\n*För regeringsuppdrag som lämnats i ett särskilt regeringsbeslut utgör tabellen endast en upplysning om vilka uppdrag som vid årets början var riktade till myndigheten och vilka tider som då gällde för återrapportering eller liknande.*",
+   "dates": [
+    "2026-02-18",
+    "2026-03-31",
+    "2026-06-01",
+    "2027-02-15",
+    "2028-12-19"
+   ],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [
+    "Regeringskansliet (Justitiedepartementet)"
+   ],
+   "partners": [],
+   "channels": [
+    "årsredovisning",
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos",
+    "analysera",
+    "samordna",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "25960:assignments:3"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "1:8",
+   "name": "Rättsmedicinalverket",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 4,
+    "name": "Rättsväsendet"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Rättsmedicinalverket",
+     "amount_tkr": 716787,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Rättsmedicinalverket (ram)",
+       "amount_tkr": 716787
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Rättsmedicinalverket",
+     "text": "Anslagsposten får användas för Rättsmedicinalverkets förvaltningsutgifter. Anslaget får även användas för bidrag till forskning av relevans för Rättsmedicinalverkets uppgifter."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "1:8 Rättsmedicinalverket",
+   "ap": "ap.1",
+   "Anslagskredit": 21503,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 170000,
+  "Räntekontokredit": 21000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 59732
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 59732
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 59732
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 59732
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 59732
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 59732
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 59732
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 59732
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 59732
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 59732
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 59732
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 59735
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:8 Rättsmedicinalverket",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "21 503",
+     "3 %",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "170 000"
+    ],
+    [
+     "Räntekontokredit",
+     "21 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "59 732"
+    ],
+    [
+     "2026-02-25",
+     "59 732"
+    ],
+    [
+     "2026-03-25",
+     "59 732"
+    ],
+    [
+     "2026-04-25",
+     "59 732"
+    ],
+    [
+     "2026-05-25",
+     "59 732"
+    ],
+    [
+     "2026-06-25",
+     "59 732"
+    ],
+    [
+     "2026-07-25",
+     "59 732"
+    ],
+    [
+     "2026-08-25",
+     "59 732"
+    ],
+    [
+     "2026-09-25",
+     "59 732"
+    ],
+    [
+     "2026-10-25",
+     "59 732"
+    ],
+    [
+     "2026-11-25",
+     "59 732"
+    ],
+    [
+     "2026-12-25",
+     "59 735"
+    ],
+    [
+     "Summa",
+     "716 787"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "1:8 ap.1",
+     "Rättsmedicinalverket"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Uppdragsverksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Rättsgenetik1",
+     "-2 487",
+     "2 217",
+     "7 182",
+     "6 972",
+     "210",
+     "-60"
+    ],
+    [
+     "Rättskemi1",
+     "7 400",
+     "-713",
+     "81 890",
+     "84 708",
+     "-2 818",
+     "3 869"
+    ],
+    [
+     "Rättsintyg1",
+     "939",
+     "-577",
+     "41 895",
+     "42 474",
+     "-579",
+     "-217"
+    ],
+    [
+     "Medicinsk åldersbedömning1",
+     "-1 083",
+     "-1 182",
+     "4 500",
+     "3 423",
+     "1 077",
+     "-1 188"
+    ],
+    [
+     "Summa",
+     "4 769",
+     "-255",
+     "135 467",
+     "137 577",
+     "-2 110",
+     "2 404"
+    ]
+   ]
+  }
+ ],
+ "has_fee_section": true,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 2,
+  "n_org": 0,
+  "n_assignments": 4,
+  "n_deadlines": 5,
+  "deadlines": [
+   "2026-06-30",
+   "2026-12-01",
+   "2027-03-31",
+   "2027-04-02",
+   "2027-05-31"
+  ],
+  "partners": [
+   "Folkhälsomyndigheten",
+   "Kammarkollegiet",
+   "Myndigheten för digital förvaltning",
+   "Polismyndigheten",
+   "Åklagarmyndigheten"
+  ],
+  "n_appropriations": 1,
+  "appropriations_total_tkr": 716787,
+  "payment_plan_total_tkr": 716787,
+  "md_chars": 9380
+ },
+ "layout": "standard",
+ "warnings": []
+}

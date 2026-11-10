@@ -1,0 +1,848 @@
+{
+ "schema_version": 1,
+ "id": 26382,
+ "original_rbid": 25707,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-06-11",
+ "year": "2026",
+ "name": "Universitets- och högskolerådet",
+ "slug": "universitets-och-hogskoleradet",
+ "department": "Utbildningsdepartementet",
+ "expenditure_areas": [
+  16
+ ],
+ "registry_numbers": [
+  "U2023/01297 (delvis) U2024/02790",
+  "U2026/01214"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1"
+  ],
+  "bet": [
+   "2025/26:UbU1"
+  ],
+  "rskr": [
+   "2025/26:124"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "",
+ "goals": [
+  {
+   "title": "Informations- och cybersäkerhet",
+   "group": [],
+   "text": "Universitets- och högskolerådet ska övergripande redogöra för hur myndigheten har utvecklat sitt arbete med informations- och cybersäkerhet inbegripet den egna organisationens beredskap och möjlighet att hantera incidenter samt lämna en beskrivning av åtgärder för att utveckla den interna styrningen och uppföljningen av arbetet. Myndigheten ska även redogöra för huruvida en analys gjorts av hot och sårbarheter för myndigheten samt om åtgärder vidtagits och hur myndigheten arbetar för att minska eventuella identifierade risker med anledning av detta.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "analysera",
+    "utveckla",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26382:goals:0"
+  }
+ ],
+ "org": [],
+ "assignments": [
+  {
+   "title": "Utgiftsprognoser",
+   "group": [],
+   "text": "Universitets- och högskolerådet ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Prognoserna lämnas i informationssystemet Hermes senast den\n\n– 2 februari,\\\n– 22 april,\\\n– 24 juli, och\\\n– 9 november.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26382:assignments:0"
+  },
+  {
+   "title": "Prognos för beställningsbemyndiganden",
+   "group": [],
+   "text": "Universitets- och högskolerådet ska redovisa en prognos för de förslag om beställningsbemyndiganden som lämnats i budgetunderlaget och för de åtaganden som ingåtts med stöd av äldre beställningsbemyndiganden.\n\nPrognosen ska lämnas senast den 24 juli 2026 via Statsredovisningssystemet i Hermes och utformas enligt närmare information från Statskontoret.",
+   "dates": [
+    "2026-07-24"
+   ],
+   "deadlines": [
+    "2026-07-24"
+   ],
+   "forecast_dates": [],
+   "recipients": [],
+   "partners": [
+    "Statskontoret"
+   ],
+   "channels": [
+    "hermes",
+    "budgetunderlag"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26382:assignments:1"
+  },
+  {
+   "title": "Uppdrag om föreskrifter i fråga om betyg",
+   "group": [],
+   "text": "Universitets- och högskolerådet ska förbereda föreskrifter om vad betyg utfärdade enligt äldre bestämmelser ska anses motsvara när det gäller betyg D respektive C i Svenska 3 och Svenska som andraspråk 3 som enligt 8 a § högskoleförordningen (1993:100) krävs för behörighet till utbildningar som leder till vissa lärarexamina samt förskollärarexamen. Universitets- och högskolerådet ska även analysera och beskriva vad utländska betyg, studieomdöme från folkhögskola samt resultat från språktest i svenska ska anses motsvara när det gäller dessa betyg samt föreslå de författningsändringar som krävs för att myndigheten ska ha bemyndigande att meddela föreskrifter om det. Myndigheten ska i arbetet beakta överenskommelsen mellan Danmark, Finland, Island, Norge och Sverige om tillträde till högre utbildning när det gäller sökande med utländska betyg.\n\nUppdraget att föreslå författningsändringar i fråga om bemyndigande ska redovisas till Regeringskansliet (Utbildningsdepartementet) senast den 15 april 2026. Övriga delar av uppdraget kräver inte någon redovisning.",
+   "dates": [
+    "2026-04-15"
+   ],
+   "deadlines": [
+    "2026-04-15"
+   ],
+   "recipients": [
+    "Regeringskansliet (Utbildningsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "föreslå",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "1993:100"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26382:assignments:2"
+  },
+  {
+   "title": "Tidigare givna uppdrag i regleringsbrev eller särskilda regeringsbeslut",
+   "group": [
+    "Uppdrag om föreskrifter i fråga om betyg"
+   ],
+   "text": "| | | |\n| --- | --- | --- |\n| **Uppdrag** | **Beslut om uppdraget** | **Redovisningstidpunkt** |\n| Ämnesbetyg | Ändring av regleringsbrevet för 2023 | |\n| Stärka samordning kopplat till Sveriges möjligheter att attrahera och behålla högkvalificerad internationell kompetens och annan utländsk arbetskraft som är viktig för Sveriges konkurrenskraft | KN2024/00521 | Delredovisas den 31 mars 2026. Slutredovisas den 31 mars 2027 |\n| Ansvara för det svenska deltagandet i Eurostudent 9 | U2024/02174 | |\n| Ta fram riktlinjer för ansvarsfull internationalisering vid utbildnings-, forsknings- och innovationssamarbeten | U2025/01317 | Årsredovisningen för 2026 |\n| Genomföra en förstudie i fråga om medborgarskapsprov | U2025/00286 | Uppdraget att ta fram delprovet i skriftlig och muntlig färdighet ska redovisas senast den 15 juni 2026. |\n\n*För regeringsuppdrag som lämnats i ett särskilt regeringsbeslut utgör tabellen endast en upplysning om vilka uppdrag som vid årets början var riktade till myndigheten och vilka tider som då gällde för återrapportering eller liknande.*",
+   "dates": [
+    "2026-03-31",
+    "2026-06-15",
+    "2027-03-31"
+   ],
+   "deadlines": [
+    "2026-06-15"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "årsredovisning",
+    "muntlig",
+    "delredovisning",
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "utveckla",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "26382:assignments:3"
+  },
+  {
+   "title": "Uppdrag om att bistå Migrationsverket vid bedömning av prov i svenska",
+   "group": [],
+   "text": "Universitets- och högskolerådet ska bistå Migrationsverket genom att ta fram underlag som kan utgöra stöd vid bedömningen av kunskapsprov som avses i 13 a § första stycket 3 b lagen (2001:82) om svenskt medborgarskap. Syftet med uppdraget är att bidra till Migrationsverkets beslutsunderlag för myndighetens prövning av de prov i svenska som aktualiseras. Uppdraget ska genomföras i dialog med Migrationsverket. Myndigheterna ska komma överens om en process som säkerställer att resurser kan användas effektivt.\n\nUppdraget ska redovisas genom att Universitets- och högskolerådet löpande informerar Regeringskansliet (Utbildningsdepartementet) om hur arbetet med uppdraget fortskrider.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [
+    "Migrationsverket"
+   ],
+   "partners": [
+    "Migrationsverket"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna",
+    "utveckla",
+    "informera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2001:82"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26382:assignments:4"
+  },
+  {
+   "title": "Uppdrag om att förbereda anslutning till den gemensamma digitala ingången till Europa",
+   "group": [],
+   "text": "Universitets- och högskolerådet ska förbereda anslutning av den nationella betygsdatabasen BEDA till det gemensamma systemet för gränsöverskridande automatiskt utbyte av bevis (OOTS). Inom ramen för uppdraget ska myndigheten inhämta information och samverka med Myndigheten för digital förvaltning samt andra relevanta myndigheter och aktörer. Myndigheten ska löpande informera Regeringskansliet (Utbildningsdepartementet) om hur arbetet med uppdraget fortskrider.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Myndigheten för digital förvaltning"
+   ],
+   "channels": [],
+   "task_types": [
+    "samordna",
+    "utveckla",
+    "informera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26382:assignments:5"
+  },
+  {
+   "title": "Uppföljning i fråga om ämnesbetyg",
+   "group": [],
+   "text": "Universitets- och högskolerådet ska, med utgångspunkt i uppgifter om betyg från Statens skolverk, bedöma behov av författningsändringar som innebär att en särskild kvotgrupp i betygsurvalet skapas för sökande med ämnesbetyg. Universitets- och högskolerådet ska vid behov föreslå sådana författningsändringar.\n\nStatens skolverk ska, på begäran av Universitets- och högskolerådet, bistå med de uppgifter som behövs för Universitets- och högskolerådets uppdrag.\n\nUppdraget ska redovisas till Regeringskansliet (Utbildningsdepartementet) senast den 5 maj 2027.",
+   "dates": [
+    "2027-05-05"
+   ],
+   "deadlines": [
+    "2027-05-05"
+   ],
+   "recipients": [
+    "Regeringskansliet (Utbildningsdepartementet)"
+   ],
+   "partners": [
+    "Statens skolverk"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "föreslå",
+    "samordna"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26382:assignments:6"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "2:2",
+   "name": "Universitets- och högskolerådet",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 16,
+    "name": "Utbildning och universitetsforskning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Universitets- och högskolerådet",
+     "amount_tkr": 320330,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Universitets- och högskolerådet (ram)",
+       "amount_tkr": 320330
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Universitets- och högskolerådet",
+     "text": "Anslaget får användas för Universitets- och högskolerådets förvaltningsutgifter."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "2:64",
+   "name": "Särskilda utgifter inom universitet och högskolor",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 16,
+    "name": "Utbildning och universitetsforskning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Universitets- och högskolerådet",
+     "amount_tkr": 28898,
+     "items": [
+      {
+       "ap": "7",
+       "name": "Högskolepedagogisk utveckling (ram)",
+       "amount_tkr": 7139
+      },
+      {
+       "ap": "14",
+       "name": "Validering av yrkeslärare (ram)",
+       "amount_tkr": 12704
+      },
+      {
+       "ap": "23",
+       "name": "STEM-delegation (ram)",
+       "amount_tkr": 5000
+      },
+      {
+       "ap": "31",
+       "name": "ASEM-DUO (ram)",
+       "amount_tkr": 1013
+      },
+      {
+       "ap": "32",
+       "name": "Plattform för internationalisering (ram)",
+       "amount_tkr": 3042
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "7",
+     "name": "Högskolepedagogisk utveckling",
+     "text": "Av medlen avser 1 139 000 kronor Universitets- och högskolerådets förvaltning av en digital plattform för kunskapsutbyte om högskolepedagogik. Återstående medel avser åtgärder för högskolepedagogisk utveckling i ingenjörsutbildningarna. För detta ändamål ska 1 500 000 kronor vardera fördelas till Kungl. Tekniska högskolan, Lunds universitet, Högskolan i Borås och Högskolan Väst för genomförandet av insatserna. Åtgärderna ska främst syfta till att öka kvaliteten i matematikkurser.\nLärosätena ska sprida lärdomar från utvecklingsarbetet till andra lärosäten samt tillgängliggöra resultaten av åtgärderna på Universitets- och högskolerådets digitala plattform för kunskapsutbyte om högskolepedagogik."
+    },
+    {
+     "ap": "14",
+     "name": "Validering av yrkeslärare",
+     "text": "Medlen avser valideringsinsatser för tillträde till yrkeslärarutbildningen. Medlen ska dels användas för myndighetens samordning, dels fördelas till berörda lärosäten för stöd när det gäller validering av yrkeskunskaper. Universitets- och högskolerådet ska i årsredovisningen för 2026 redovisa hur medlen har använts."
+    },
+    {
+     "ap": "23",
+     "name": "STEM-delegation",
+     "text": "Medlen ska användas för insatser i syfte att fler ska välja en utbildning inom STEM (Science, Technology, Engineering and Mathematics) och för Universitets- och högskolerådets kostnader för att bistå och samverka med STEM-delegationen. Universitets- och högskolerådet ska redovisa vilka åtgärder som vidtagits i årsredovisningen för 2026."
+    },
+    {
+     "ap": "31",
+     "name": "ASEM-DUO",
+     "text": "Medlen avser medverkan i ASEM-DUO under 2026. Universitets- och högskolerådet ska i årsredovisningen för 2026 redovisa hur medlen har använts."
+    },
+    {
+     "ap": "32",
+     "name": "Plattform för internationalisering",
+     "text": "Medlen avser myndighetens uppgift att ansvara för en plattform för internationalisering enligt förordningen (2012:811) med instruktion för Universitets- och högskolerådet. Universitets- och högskolerådet ska i årsredovisningen för 2026 redovisa hur medlen har använts."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "2:67",
+   "name": "Särskilda bidrag inom högskoleområdet",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 16,
+    "name": "Utbildning och universitetsforskning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Universitets- och högskolerådet",
+     "amount_tkr": 417,
+     "items": [
+      {
+       "ap": "2",
+       "name": "Särskilda bidrag - del till Universitet och högskolerådet (ram)",
+       "amount_tkr": 417
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "2",
+     "name": "Särskilda bidrag - del till Universitet och högskolerådet",
+     "text": "Medlen ska användas för stipendier för studier vid College of Europe. Av anslagsposten får högst 27 000 kronor disponeras för att finansiera förvaltningskostnader för stipendieprogrammen. Universitets- och högskolerådet ska i årsredovisningen för 2026 redovisa hur medlen har använts."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "2",
+     "max": 27000,
+     "unit": "kronor"
+    }
+   ]
+  },
+  {
+   "code": "4:1",
+   "name": "Internationella program",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 16,
+    "name": "Utbildning och universitetsforskning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Universitets- och högskolerådet",
+     "amount_tkr": 81589,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Internationella program m.m (ram)",
+       "amount_tkr": 81589
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Internationella program m.m",
+     "text": "Medlen avser utgifter för stipendier och internationella program och får användas för nedanstående. Universitets- och högskolerådet ska i årsredovisningen för 2026 redovisa hur medlen har använts.\n- Bidrag till universitet och högskolor i enlighet med vad som avses i förordningen (2010:718) om stipendier för studieavgiftsskyldiga studenter samt till vissa enskilda utbildningsanordnare med examenstillstånd enligt lagen (1993:792) om tillstånd att utfärda vissa examina. Av anslagsposten ska 60 276 000 kronor användas för detta ändamål. Medlen ska fördelas till lärosätena läsårsvis och lika mycket medel ska fördelas för vårterminen som för höstterminen. Medlen ska fördelas så att de gör det möjligt för de lärosäten som beviljas stipendiemedel att bevilja stipendier på upp till tre läsår. Universitets- och högskolerådet ska i årsredovisningen redovisa hur fördelningen av medel har gjorts och hur medlen har använts. Myndigheten ska vidare redogöra för de stipendiemedel som lärosätena har tilldelat studenter som är medborgare i en stat som finns med på OECD/DAC:s lista över mottagare av officiellt utvecklingsbistånd. För de stipendiemedel som lärosätena har tilldelat dessa studenter ska myndigheten även redovisa statistik till Styrelsen för internationellt utvecklingssamarbete (Sida) i enlighet med Sidas anvisningar.\n- Utgifter för bidrag inom programmet Atlas i enlighet med förordningen (2000:523) om statsbidrag för att främja internationella kontakter inom skolans område.\n- Utgifter för bidrag inom Atlas praktik.\n- Utgifter för att främja ökat deltagande och högre kvalitet inom programmet Erasmus+.\n- Bidrag inom de decentraliserade programdelarna inom Erasmus+ om underskott uppstår på bidragsmedlen från Europeiska unionen."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "2:2 Universitets- och högskolerådet",
+   "ap": "ap.1",
+   "Anslagskredit": 9609,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:64 Särskilda utgifter inom universitet och högskolor",
+   "ap": "ap.7",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:64 Särskilda utgifter inom universitet och högskolor",
+   "ap": "ap.14",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:64 Särskilda utgifter inom universitet och högskolor",
+   "ap": "ap.23",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:64 Särskilda utgifter inom universitet och högskolor",
+   "ap": "ap.31",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:64 Särskilda utgifter inom universitet och högskolor",
+   "ap": "ap.32",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:67 Särskilda bidrag inom högskoleområdet",
+   "ap": "ap.2",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "4:1 Internationella program",
+   "ap": "ap.1",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 176000,
+  "Räntekontokredit": 31000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 26694
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 26694
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 26694
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 26694
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 26694
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 26694
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 26694
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 26694
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 26694
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 26694
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 26694
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 26696
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "2:2 Universitets- och högskolerådet",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "9 609",
+     "3 %",
+     "0"
+    ],
+    [
+     "2:64 Särskilda utgifter inom universitet och högskolor",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.7",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.14",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.23",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.31",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.32",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "2:67 Särskilda bidrag inom högskoleområdet",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.2",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "4:1 Internationella program",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "0",
+     "Inget",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Beställningsbemyndiganden",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Bemyndigande",
+     "Utgifter mot anslag till följd av ekonomiska åtaganden",
+     "",
+     "",
+     ""
+    ],
+    [
+     "2026",
+     "2027",
+     "2028",
+     "2029 -",
+     "Slutår"
+    ],
+    [
+     "4:1 Internationella program",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "90 412",
+     "60 275",
+     "30 137",
+     "",
+     "2028"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "176 000"
+    ],
+    [
+     "Räntekontokredit",
+     "31 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "26 694"
+    ],
+    [
+     "2026-02-25",
+     "26 694"
+    ],
+    [
+     "2026-03-25",
+     "26 694"
+    ],
+    [
+     "2026-04-25",
+     "26 694"
+    ],
+    [
+     "2026-05-25",
+     "26 694"
+    ],
+    [
+     "2026-06-25",
+     "26 694"
+    ],
+    [
+     "2026-07-25",
+     "26 694"
+    ],
+    [
+     "2026-08-25",
+     "26 694"
+    ],
+    [
+     "2026-09-25",
+     "26 694"
+    ],
+    [
+     "2026-10-25",
+     "26 694"
+    ],
+    [
+     "2026-11-25",
+     "26 694"
+    ],
+    [
+     "2026-12-25",
+     "26 696"
+    ],
+    [
+     "Summa",
+     "320 330"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "2:2 ap.1",
+     "Universitets- och högskolerådet"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Offentligrättslig verksamhet utan krav på full kostnadstäckning",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Högskoleprovet2",
+     "0",
+     "-12 000",
+     "32 000",
+     "45 320",
+     "-13 320",
+     "-25 320"
+    ],
+    [
+     "Uppdragsverksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Antagning till högskoleutbildning och studieadministration2",
+     "-28 462",
+     "-51",
+     "278 562",
+     "273 700",
+     "4 862",
+     "-23 651"
+    ]
+   ]
+  }
+ ],
+ "has_fee_section": true,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 1,
+  "n_org": 0,
+  "n_assignments": 7,
+  "n_deadlines": 4,
+  "deadlines": [
+   "2026-04-15",
+   "2026-06-15",
+   "2026-07-24",
+   "2027-05-05"
+  ],
+  "partners": [
+   "Migrationsverket",
+   "Myndigheten för digital förvaltning",
+   "Statens skolverk",
+   "Statskontoret"
+  ],
+  "n_appropriations": 4,
+  "appropriations_total_tkr": 431234,
+  "payment_plan_total_tkr": 320330,
+  "md_chars": 16794
+ },
+ "layout": "standard",
+ "warnings": []
+}

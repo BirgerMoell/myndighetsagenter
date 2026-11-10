@@ -1,0 +1,517 @@
+{
+ "schema_version": 1,
+ "id": 25712,
+ "original_rbid": 25712,
+ "type": "Regleringsbrev",
+ "category": "Myndighet",
+ "date": "2025-12-18",
+ "year": "2026",
+ "name": "Rådet för Europeiska socialfonden i Sverige",
+ "slug": "radet-for-europeiska-socialfonden-i-sverige",
+ "department": "Arbetsmarknadsdepartementet",
+ "expenditure_areas": [
+  14
+ ],
+ "registry_numbers": [
+  "A2025/00977",
+  "A2025/01246 (delvis)",
+  "A2025/01261"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1"
+  ],
+  "bet": [
+   "2025/26:AU2"
+  ],
+  "rskr": [
+   "2025/26:119"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "",
+ "goals": [],
+ "org": [],
+ "assignments": [
+  {
+   "title": "Prognoser och annan ekonomisk information",
+   "group": [],
+   "text": "1. Svenska ESF-rådet ska för anslaget 1:6*Rådet för Europeiska socialfonden i Sverige*senast den 2 februari, den 22 april, den 24 juli och den 9 november 2026 redovisa utgiftsprognoser avseende 2026–2029. Prognoserna ska kommenteras i förhållande till föregående prognos och budget. Prognoserna ska även lämnas i Statsredovisningssystemet i Hermes.\n\n**2. Svenska ESF-rådet ska senast 2 februari, den 22 april, den 24 juli och den 9 november 2026 redovisa nedanstående uppgifter och prognoser. Av redovisningen ska även framgå vilka antaganden som ligger till grund för prognoserna samt vilken grad av osäkerhet som råder och eventuell orsak till denna grad av osäkerhet. Prognoserna ska kommenteras i förhållande till föregående prognos och budget. Prognoserna ska även lämnas i Statsredovisningssystemet i Hermes.**\n\n- Beslutade belopp och utbetalade belopp samt prognoser för hur mycket som beräknas beslutas respektive utbetalas per år under 2026–2029 under anslaget 1:7*Europeiska socialfonden+ m.m. för perioden 2021–2027*, fördelat på respektive anslagspost och programområde. Belopp utbetalade i förskott respektive för slutreglering av det nationella socialfondsprogrammet 2014–2020 ska särredovisas.\n\n- Beslutade belopp och godkända belopp för nationell medfinansiering som svarar mot utbetalningarna under anslaget 1:7*Europeiska socialfonden+ m.m. för perioden 2021–2027*, per anslagspost 1, fördelat på programområde och kategorierna statlig medfinansiering, med särredovisning av medfinansiering från Arbetsförmedlingen respektive Försäkringskassan, kommunal medfinansiering, medfinansiering från regioner, övrig offentlig medfinansiering och privat medfinansiering, och anslagspost 2, fördelat på programområde.\n\n- Utbetalat belopp under anslaget 1:7*Europeiska socialfonden+ m.m. för perioden 2021–2027*som har varit föremål för återkrav samt utbetalat belopp som har återbetalats av stödmottagarna fördelat på respektive anslagspost.\n\n- Prognoser för beräknade inkomster på inkomsttiteln 6415 Bidrag från Europeiska socialfonden 2021–2027 per år under 2026–2029.\n\n- Prognoser för beräknade inkomster på inkomsttiteln 6414 Bidrag från Europeiska socialfonden 2014–2020 m.m. per år under 2026–2029, med undantag för undertitel 003 Programmet för lokalt ledd utveckling med stöd från Regionala utvecklingsfonden och Socialfonden 2014–2020.\n\n3. Svenska ESF-rådet ska redovisa en prognos för de förslag om beställningsbemyndiganden som lämnats i budgetunderlaget och för de åtaganden som ingåtts med stöd av äldre beställningsbemyndiganden. Prognosen ska lämnas senast den 24 juli 2026 via Statsredovisningssystemet i Hermes och utformas enligt närmare information från Statskontoret\\*.\\*",
+   "dates": [
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "deadlines": [
+    "2026-07-24"
+   ],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24"
+   ],
+   "recipients": [],
+   "partners": [
+    "Arbetsförmedlingen",
+    "Försäkringskassan",
+    "Statskontoret",
+    "Svenska ESF-rådet"
+   ],
+   "channels": [
+    "hermes",
+    "budgetunderlag"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos",
+    "fördela_medel",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [
+    "1:6",
+    "1:7"
+   ],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "Svenska ESF-rådet ska för anslaget 1:6*Rådet för Europeiska socialfonden i Sverige*senast den 2 februari, den 22 april, den 24 juli och den 9 november 2026 redovisa utgiftsprognoser avseende 2026–2029. Prognoserna ska kommenteras i förhållande till föregående prognos och budget. Prognoserna ska även lämnas i Statsredovisningssystemet i Hermes.",
+    "Beslutade belopp och utbetalade belopp samt prognoser för hur mycket som beräknas beslutas respektive utbetalas per år under 2026–2029 under anslaget 1:7*Europeiska socialfonden+ m.m. för perioden 2021–2027*, fördelat på respektive anslagspost och programområde. Belopp utbetalade i förskott respektive för slutreglering av det nationella socialfondsprogrammet 2014–2020 ska särredovisas.",
+    "Beslutade belopp och godkända belopp för nationell medfinansiering som svarar mot utbetalningarna under anslaget 1:7*Europeiska socialfonden+ m.m. för perioden 2021–2027*, per anslagspost 1, fördelat på programområde och kategorierna statlig medfinansiering, med särredovisning av medfinansiering från Arbetsförmedlingen respektive Försäkringskassan, kommunal medfinansiering, medfinansiering från regioner, övrig offentlig medfinansiering och privat medfinansiering, och anslagspost 2, fördelat på programområde.",
+    "Utbetalat belopp under anslaget 1:7*Europeiska socialfonden+ m.m. för perioden 2021–2027*som har varit föremål för återkrav samt utbetalat belopp som har återbetalats av stödmottagarna fördelat på respektive anslagspost.",
+    "Prognoser för beräknade inkomster på inkomsttiteln 6415 Bidrag från Europeiska socialfonden 2021–2027 per år under 2026–2029.",
+    "Prognoser för beräknade inkomster på inkomsttiteln 6414 Bidrag från Europeiska socialfonden 2014–2020 m.m. per år under 2026–2029, med undantag för undertitel 003 Programmet för lokalt ledd utveckling med stöd från Regionala utvecklingsfonden och Socialfonden 2014–2020.",
+    "Svenska ESF-rådet ska redovisa en prognos för de förslag om beställningsbemyndiganden som lämnats i budgetunderlaget och för de åtaganden som ingåtts med stöd av äldre beställningsbemyndiganden. Prognosen ska lämnas senast den 24 juli 2026 via Statsredovisningssystemet i Hermes och utformas enligt närmare information från Statskontoret\\*.\\*"
+   ],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "25712:assignments:0"
+  },
+  {
+   "title": "Resultatredovisning för det nationella programmet för Europeiska socialfonden+ 2021–2027",
+   "group": [],
+   "text": "Svenska ESF-rådet ska senast den 25 mars, den 24 juli och den 20 oktober 2026redovisa utvecklingen i det nationella programmet för Europeiska socialfonden+ 2021\\*–\\*2027 med avseende på bl.a. mål och indikatorer som anges i programmet. I detta sammanhang ska Svenska ESF-rådet även redovisa antalet projekt som har koppling till ett annat eller flera andra EU-program, eller andra finansieringsverktyg, i syfte att samordna insatserna. Denna redovisning ska ske med fördelning på respektive EU-program och finansieringsverktyg.",
+   "dates": [
+    "2026-10-20"
+   ],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Svenska ESF-rådet"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "statistik_data",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "25712:assignments:1"
+  },
+  {
+   "title": "Tidigare givna uppdrag i regleringsbrev eller särskilda regeringsbeslut",
+   "group": [],
+   "text": "| | | |\n| --- | --- | --- |\n| Uppdrag att vara ansvarig myndighet för förvaltningen av brexitjusteringsreserven | A2021/02046 | |\n| Uppdrag att medverka i genomförandet av Europeiska unionens strategi för Östersjöregionen | SB2021/01583 SB2025/01094 | Redovisning till Regeringskansliet (Arbetsmarknadsdepartemen-tet och Statsrådsberedningen) senast den 31 januari 2027 och därefter vart tredje år |\n| Uppdrag att medverka i ett nationellt analysnätverk för hållbar regional utveckling i hela landet 2022\\*–*2030 | N2022/01543 | |\n| Uppdrag att redovisa resultat inom ramen för regeringens utvecklingsprogram för jämställdhetsintegrering i statliga myndigheter | A2024/01457 | Redovisning till Regeringskansliet (Arbetsmarknadsdepartemen-tet) och Jämställdhetsmyndigheten senast den 20 januari 2026 |\n| Uppdrag att följa upp funktionshinderspolitiken 2021*–\\*2031 utifrån det nationella målet för funktionhinderspolitiken | Regleringsbrev 2023 S2025/01367 | Redovisning till Myndigheten för delaktighet årligen senast den 1 februari |\n\nFör regeringsuppdrag som lämnats i ett särskilt regeringsbeslut utgör tabellen endast en upplysning om vilka uppdrag som vid årets början var riktade till myndigheten och vilka tider som då gällde för återrapportering eller liknande.",
+   "dates": [
+    "2026-01-20",
+    "2027-01-31"
+   ],
+   "deadlines": [
+    "2026-01-20",
+    "2027-01-31"
+   ],
+   "recipients": [
+    "Myndigheten för delaktighet",
+    "Regeringskansliet (Arbetsmarknadsdepartemen-tet och Statsrådsberedningen)",
+    "Regeringskansliet (Arbetsmarknadsdepartemen-tet)"
+   ],
+   "partners": [
+    "Jämställdhetsmyndigheten",
+    "Myndigheten för delaktighet"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "25712:assignments:2"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "1:6",
+   "name": "Rådet för Europeiska socialfonden i Sverige",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 14,
+    "name": "Arbetsmarknad och arbetsliv"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Rådet för Europeiska socialfonden i Sverige",
+     "amount_tkr": 132554,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Rådet för Europeiska socialfonden i Sverige (ram)",
+       "amount_tkr": 132554
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Rådet för Europeiska socialfonden i Sverige",
+     "text": "Anslaget får användas för Svenska ESF-rådets förvaltningsutgifter. Anslaget får även användas för nationell medfinansiering av den del av det tekniska stödet som administreras av Svenska ESF-rådet."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "1:7",
+   "name": "Europeiska socialfonden+ m.m. för perioden 2021–2027",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 14,
+    "name": "Arbetsmarknad och arbetsliv"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Rådet för Europeiska socialfonden i Sverige",
+     "amount_tkr": 1864000,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Europeiska socialfonden+ för perioden 2021–2027 (ram)",
+       "amount_tkr": 1560000
+      },
+      {
+       "ap": "2",
+       "name": "Statlig medfinansiering av Europeiska socialfonden+ för perioden 2021–2027 (ram)",
+       "amount_tkr": 304000
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Europeiska socialfonden+ för perioden 2021–2027",
+     "text": "**1. Anslagsposten får användas för utbetalningar av stöd som finansieras med medel från Europeiska socialfonden+ avseende beslutade projekt och tekniskt stöd inom det nationella programmet för Europeiska socialfonden+ 2021–2027.**\n**2. Anslagsposten får användas för eventuella slutregleringar för det nationella socialfondsprogrammet 2014–2020.**\n**3. Utbetalningar från anslagsposten av tekniskt stöd avseende Statskontorets kostnader för revision av det nationella programmet för Europeiska socialfonden+ 2021–2027 får uppgå till högst 300 000 kronor.**\n**4. Inbetalade medel från Europeiska kommissionen redovisas mot inkomsttitel 6415 Bidrag från Europeiska socialfonden 2021–2027.**"
+    },
+    {
+     "ap": "2",
+     "name": "Statlig medfinansiering av Europeiska socialfonden+ för perioden 2021–2027",
+     "text": "**1. Anslagsposten får användas för utbetalningar av statlig medfinansiering av vissa beslutade projekt och tekniskt stöd avseende de strategiska partnerskapens kostnader inom det nationella programmet för Europeiska socialfonden+ 2021–2027.**\n**2. Anslagsposten får användas för eventuella slutregleringar av statlig medfinansiering av vissa projekt inom det nationella socialfondsprogrammet 2014–2020.**"
+    }
+   ],
+   "caps": [
+    {
+     "ap": "1",
+     "max": 300000,
+     "unit": "kronor"
+    }
+   ]
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "1:6 Rådet för Europeiska socialfonden i Sverige",
+   "ap": "ap.1",
+   "Anslagskredit": 3976,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:7 Europeiska socialfonden+ m.m. för perioden 2021–2027",
+   "ap": "ap.1",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:7 Europeiska socialfonden+ m.m. för perioden 2021–2027",
+   "ap": "ap.2",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 20000,
+  "Räntekontokredit": 10000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 11046
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 11046
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 11046
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 11046
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 11046
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 11046
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 11046
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 11046
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 11046
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 11046
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 11046
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 11048
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:6 Rådet för Europeiska socialfonden i Sverige",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "3 976",
+     "3 %",
+     "0"
+    ],
+    [
+     "1:7 Europeiska socialfonden+ m.m. för perioden 2021–2027",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.2",
+     "0",
+     "Inget",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Beställningsbemyndiganden",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Bemyndigande",
+     "Utgifter mot anslag till följd av ekonomiska åtaganden",
+     "",
+     "",
+     ""
+    ],
+    [
+     "2026",
+     "2027",
+     "2028",
+     "2029 -",
+     "Slutår"
+    ],
+    [
+     "1:7 Europeiska socialfonden+ m.m. för perioden 2021–2027",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "2 775 000",
+     "1 420 000",
+     "1 080 000",
+     "275 000",
+     "2030"
+    ],
+    [
+     "ap.2",
+     "665 000",
+     "334 000",
+     "262 000",
+     "69 000",
+     "2030"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "20 000"
+    ],
+    [
+     "Räntekontokredit",
+     "10 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "11 046"
+    ],
+    [
+     "2026-02-25",
+     "11 046"
+    ],
+    [
+     "2026-03-25",
+     "11 046"
+    ],
+    [
+     "2026-04-25",
+     "11 046"
+    ],
+    [
+     "2026-05-25",
+     "11 046"
+    ],
+    [
+     "2026-06-25",
+     "11 046"
+    ],
+    [
+     "2026-07-25",
+     "11 046"
+    ],
+    [
+     "2026-08-25",
+     "11 046"
+    ],
+    [
+     "2026-09-25",
+     "11 046"
+    ],
+    [
+     "2026-10-25",
+     "11 046"
+    ],
+    [
+     "2026-11-25",
+     "11 046"
+    ],
+    [
+     "2026-12-25",
+     "11 048"
+    ],
+    [
+     "Summa",
+     "132 554"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "1:6 ap.1",
+     "Rådet för Europeiska socialfonden i Sverige"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [],
+ "has_fee_section": false,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 0,
+  "n_org": 0,
+  "n_assignments": 3,
+  "n_deadlines": 3,
+  "deadlines": [
+   "2026-01-20",
+   "2026-07-24",
+   "2027-01-31"
+  ],
+  "partners": [
+   "Arbetsförmedlingen",
+   "Försäkringskassan",
+   "Jämställdhetsmyndigheten",
+   "Myndigheten för delaktighet",
+   "Statskontoret",
+   "Svenska ESF-rådet"
+  ],
+  "n_appropriations": 2,
+  "appropriations_total_tkr": 1996554,
+  "payment_plan_total_tkr": 132554,
+  "md_chars": 10542
+ },
+ "layout": "standard",
+ "warnings": []
+}

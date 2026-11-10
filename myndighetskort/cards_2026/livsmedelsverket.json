@@ -1,0 +1,1207 @@
+{
+ "schema_version": 1,
+ "id": 27567,
+ "original_rbid": 25867,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-10-22",
+ "year": "2026",
+ "name": "Livsmedelsverket",
+ "slug": "livsmedelsverket",
+ "department": "Landsbygds- och infrastrukturdepartementet",
+ "expenditure_areas": [
+  23
+ ],
+ "registry_numbers": [
+  "LI2026/01693",
+  "LI2026/01835"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1",
+   "2025/26:99"
+  ],
+  "bet": [
+   "2025/26:FiU21",
+   "2025/26:MJU2"
+  ],
+  "rskr": [
+   "2025/26:116",
+   "2025/26:353"
+  ]
+ },
+ "n_attachments_stated": 1,
+ "mission": "",
+ "goals": [
+  {
+   "title": "Antibiotikaresistens",
+   "group": [],
+   "text": "Livsmedelsverket ska redovisa hur myndigheten, inom ramen för sitt ansvarsområde, har bidragit till att genomföra Sveriges strategi mot antimikrobiell resistens 2026–2035 (S2025/01940).",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27567:goals:0"
+  },
+  {
+   "title": "Färdval och resepolicy vid tjänsteresor",
+   "group": [],
+   "text": "Alla trafikslag ska kunna nyttjas (väg, järnväg, luft- och sjöfart) för att säkerställa effektiva och ändamålsenliga transporter. Livsmedelsverket ska därför redovisa hur myndigheten har säkerställt att val av färdsätt vid tjänsteresor sker färdmedelsneutralt och utifrån behov. Vidare ska Livsmedelsverket redovisa huruvida myndigheten köpt in hållbart flygbränsle till organisationens flygresor. När kostnader jämförs för olika färdval ska hela resans kostnad beaktas, exempelvis kostnader för nödvändig övernattning samt total arbetstid för hela resan.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27567:goals:1"
+  },
+  {
+   "title": "Informations- och kommunikationsverksamhet",
+   "group": [],
+   "text": "Livsmedelsverket ska redovisa kostnaderna för myndighetens informations- och kommunikationsverksamhet och hur verksamheten har bidragit till myndighetens förmåga att uppfylla sina kärnuppgifter. Av redovisningen ska det framgå bl.a. vilken uppgift eller vilka uppdrag som ligger till grund för respektive verksamhet/insats och vad som motiverar de val av kommunikationsmedel (kanalval) som har gjorts, t.ex. framtagandet av profilprodukter (väskor, märkesnålar m.m. med myndighetens namn eller budskap från myndigheten), annonskampanjer eller utgivning av tidningar.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27567:goals:2"
+  },
+  {
+   "title": "Miljöövervakning av PFAS",
+   "group": [],
+   "text": "Livsmedelsverket ska redovisa vilka ytterligare miljöövervakningsinsatser myndigheten har genomfört under 2026 gällande PFAS i livsmedel.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27567:goals:3"
+  }
+ ],
+ "org": [
+  {
+   "title": "Säkerställa proaktivitet och handlingskraft vid fredstida krissituationer eller vid krig och krigsfara",
+   "group": [],
+   "text": "Livsmedelsverket ska säkerställa att myndigheten har förmåga att agera proaktivt och handlingskraftigt i hanteringen av såväl fredstida krissituationer som vid krig och krigsfara. Utöver de krav som ställs i förordningen (2022:524) om statliga myndigheters beredskap ska Livsmedelsverket i detta syfte utbilda och öva sin personal samt se till att myndigheten stärker en kultur och arbetssätt som utgår från de krav som ett krig ställer.\n\nLivsmedelsverket ska senast den 22 februari 2027 redovisa vidtagna åtgärder och resultatet av dessa till Regeringskansliet (Landsbygds- och infrastrukturdepartementet och Försvarsdepartementet). Denna redovisning ska ingå i den särskilda redovisningen för civilt försvar.",
+   "dates": [
+    "2027-02-22"
+   ],
+   "deadlines": [
+    "2027-02-22"
+   ],
+   "recipients": [
+    "Regeringskansliet (Landsbygds- och infrastrukturdepartementet och Försvarsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2022:524"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "org",
+   "item_id": "27567:org:0"
+  }
+ ],
+ "assignments": [
+  {
+   "title": "Pågående uppdrag",
+   "group": [],
+   "text": "I*bilaga 2*redovisas Livsmedelsverkets pågående uppdrag. För regeringsuppdrag som lämnats i ett särskilt regeringsbeslut utgör uppräkningen i bilagan endast en upplysning om vilka uppdrag som vid årets början var riktade till myndigheten och vilka tider som då gällde för återrapportering eller liknande.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "27567:assignments:0"
+  },
+  {
+   "title": "Uppbyggnad av livsmedelsberedskapen och dricksvattenförsörjningen",
+   "group": [],
+   "text": "Livsmedelsverkets arbete med civilt försvar ska syfta till att utveckla och stärka det civila försvaret och därmed bidra till en högre samlad förmåga inom totalförsvaret.\n\n*Investeringsprogram*\\\nLivsmedelsverket ska i sin roll som sektorsansvarig myndighet samordna, utveckla och stödja förvaltningen av investeringsprogrammet för livsmedel- och dricksvattenberedskap. I arbetet med investeringsprogrammet ska Livsmedelsverket i sin roll som beredskapsmyndighet fortsätta arbetet med robusthöjande åtgärder för livsmedelsbutiker och andra företag i leden efter primärproduktionen, samt ge stöd till kommuner och regioner i sin måltidsverksamhet och dricksvattenförsörjning. Myndigheten ska även analysera behov av nya insatser, bland annat när det gäller främjande av inhemsk produktion av insatsvaror i leden efter primärproduktionen. I de fall Livsmedelsverket bedömer att stödförordning behövs, ska myndigheten ta fram förslag till reglering.\n\n*Beredskapslagring*\\\nLivsmedelsverket ska tillsammans med Statens jordbruksverk och Statens veterinärmedicinska anstalt etablera beredskapslager för livsmedelskedjan. Myndigheterna ska vid behov föra en dialog med Läkemedelsverket, den blivande Myndigheten för civilt försvar och Försvarsmakten. Livsmedelsverket ska särskilt ansvara för etablering av beredskapslager i leden efter primärproduktionen. I fråga om Statens jordbruksverks ansvar för beredskapslagring av spannmål ska Livsmedelsverket planera för hur de lagren kan komma livsmedelskedjan till del och vid behov genomföra åtgärder för att åstadkomma detta.\n\n*Laboratorieverksamhet*\\\nLivsmedelsverket ska fortsätta arbetet med att etablera en nationell laboratorieförmåga för kemiska dricksvattenanalyser vid kris och höjd beredskap.\n\n*Redovisning*\\\nLivsmedelsverket ska senast den 22 februari 2027 lämna sin, Statens jordbruksverks och Statens veterinärmedicinska anstalts gemensamma redovisning av arbetet till Regeringskansliet (Landsbygds- och infrastrukturdepartementet).",
+   "dates": [
+    "2027-02-22"
+   ],
+   "deadlines": [
+    "2027-02-22"
+   ],
+   "recipients": [
+    "Regeringskansliet (Landsbygds- och infrastrukturdepartementet)"
+   ],
+   "partners": [
+    "Försvarsmakten",
+    "Läkemedelsverket",
+    "Myndigheten för civilt försvar",
+    "Statens jordbruksverk",
+    "Statens veterinärmedicinska anstalt"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna",
+    "utveckla",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27567:assignments:1"
+  },
+  {
+   "title": "Utgångspunkter för totalförsvaret 2025–2030",
+   "group": [],
+   "text": "Livsmedelsverket ska i sin roll som sektorsansvarig myndighet inom beredskapssektorn för livsmedelsförsörjning och dricksvatten komplettera och konkretisera rapporten Utgångspunkter för totalförsvaret 2025–2030 (FM2025-19772:2, MSB 2025-08877) utifrån beredskapssektorns ansvarsområde. Livsmedelsverket ska senast den 22 februari 2027 lämna en redovisning av uppdraget till Regeringskansliet (Landsbygds- och infrastrukturdepartementet och Försvarsdepartementet). Denna redovisning ska ingå i den särskilda redovisningen för civilt försvar.",
+   "dates": [
+    "2027-02-22"
+   ],
+   "deadlines": [
+    "2027-02-22"
+   ],
+   "recipients": [
+    "Regeringskansliet (Landsbygds- och infrastrukturdepartementet och Försvarsdepartementet)"
+   ],
+   "partners": [
+    "Myndigheten för samhällsskydd och beredskap"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27567:assignments:2"
+  },
+  {
+   "title": "Stärkt motståndskraft mot hybridhot",
+   "group": [],
+   "text": "I syfte att stärka Sveriges samlade motståndskraft mot hybridhot behöver respektive beredskapssektor stärka sin förmåga att upptäcka och hantera incidenter som skulle kunna utgöra aktörsdrivna hot. Mot den bakgrunden ska Livsmedelsverket:\n\n- säkerställa en kontinuerlig lägesuppfattning av incidenter inom den egna verksamheten och inom sitt sektorsansvar i syfte att upprätthålla en normalbild,\n- sammanställa öppen information om den hotbild som finns mot beredskapssektorn för livsmedelsförsörjning och dricksvatten och tillgängliggöra den för aktörer som tillhandahåller samhällsviktig verksamhet inom sektorn, samt\n- samverka med Säkerhetspolisen, den blivande Myndigheten för civilt försvar och andra berörda myndigheter i syfte att vid behov klargöra eller utveckla rapporteringsvägar för avvikelser eller säkerhetsincidenter.\n\nLivsmedelsverket ska senast den 28 februari 2027 lämna en redovisning av uppdraget till Regeringskansliet (Landsbygd- och infrastrukturdepartementet).",
+   "dates": [
+    "2027-02-28"
+   ],
+   "deadlines": [
+    "2027-02-28"
+   ],
+   "recipients": [
+    "Regeringskansliet (Landsbygd- och infrastrukturdepartementet)"
+   ],
+   "partners": [
+    "Myndigheten för civilt försvar",
+    "Säkerhetspolisen"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "utveckla",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "säkerställa en kontinuerlig lägesuppfattning av incidenter inom den egna verksamheten och inom sitt sektorsansvar i syfte att upprätthålla en normalbild,",
+    "sammanställa öppen information om den hotbild som finns mot beredskapssektorn för livsmedelsförsörjning och dricksvatten och tillgängliggöra den för aktörer som tillhandahåller samhällsviktig verksamhet inom sektorn, samt",
+    "samverka med Säkerhetspolisen, den blivande Myndigheten för civilt försvar och andra berörda myndigheter i syfte att vid behov klargöra eller utveckla rapporteringsvägar för avvikelser eller säkerhetsincidenter."
+   ],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27567:assignments:3"
+  },
+  {
+   "title": "Avtal för stärkt försörjningsberedskap",
+   "group": [],
+   "text": "Livsmedelsverket ska identifiera eventuella behov av avtal som syftar till att upprätthålla försörjningen av varor och tjänster som är nödvändiga för beredskapssektorn för livsmedelsförsörjning och dricksvatten vid fredstida kriser och höjd beredskap. Detta ska inkludera eventuella behov av särskilda avtalsformer i form av sådana försörjningsberedskapsavtal (F-avtal) som beskrivs i betänkandet Nya samverkansformer, modern byggnads- och reparationsberedskap – för ökad försörjningsberedskap (SOU 2025:68). Livsmedelsverket ska senast den 22 februari 2027 lämna en redovisning av uppdraget till Regeringskansliet (Landsbygds- och infrastrukturdepartementet och Försvarsdepartementet). Redovisningen ska ingå i den särskilda redovisningen för civilt försvar. Som stöd för arbetet kan myndigheten använda bland annat rapporten Utgångspunkter för totalförsvaret 2025–2030 (FM2025-19772:2, MSB 2025-08877).",
+   "dates": [
+    "2027-02-22"
+   ],
+   "deadlines": [
+    "2027-02-22"
+   ],
+   "recipients": [
+    "Regeringskansliet (Landsbygds- och infrastrukturdepartementet och Försvarsdepartementet)"
+   ],
+   "partners": [
+    "Myndigheten för samhällsskydd och beredskap"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27567:assignments:4"
+  },
+  {
+   "title": "Uppdrag att analysera och föreslå hur mer pelagisk fisk från Östersjön ska hamna på tallriken",
+   "group": [],
+   "text": "Livsmedelsverket ska i samråd med Statens jordbruksverk, fiskerinäringen och Centrum för blå mat, inom ramen för målsättningen i Livsmedelsstrategin 2.0 om att öka sjömatsproduktionen, utreda och föreslå hur mer pelagisk fisk (*Clupea harengus*och*Sprattus sprattus*) från Östersjön ska kunna gå till humankonsumtion. Livsmedelsverket ska, utifrån befintliga data, utreda förutsättningarna för att pelagisk fisk från olika fångstområden i Östersjön och av olika storlek ska kunna konsumeras av bredare konsumentgrupper utan hälsorisker. Vidare ska myndigheten, med beaktande av den senaste forskningen och datainsamlingen när det gäller beredning av pelagisk fisk, utreda om det finns beredningstekniker som gör att den kan ätas utan begränsningar kopplade till de hälsobaserade riktvärdena för dioxin och dioxinlika polyklorerade bifenyler och per- och polyfluorerade alkylsubstanser. Livsmedelsverket ska senast den 30 november 2026 lämna en redovisning av uppdraget till Regeringskansliet (Landsbygds- och infrastrukturdepartementet).",
+   "dates": [
+    "2026-11-30"
+   ],
+   "deadlines": [
+    "2026-11-30"
+   ],
+   "recipients": [
+    "Regeringskansliet (Landsbygds- och infrastrukturdepartementet)"
+   ],
+   "partners": [
+    "Statens jordbruksverk"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "föreslå",
+    "samordna"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27567:assignments:5"
+  },
+  {
+   "title": "Vägledning för vattentjänstplaner",
+   "group": [],
+   "text": "Livsmedelsverket ska tillsammans med Havs- och vattenmyndigheten, Naturvårdsverket och Boverket ta fram en vägledning för kommunala vattentjänstplaner enligt 6 a och b §§ lagen (2006:412) om allmänna vattentjänster. Uppdraget samordnas av Havs- och vattenmyndigheten. Vid genomförandet av uppdraget ska synpunkter inhämtas från andra berörda myndigheter och aktörer. Uppdraget omfattar att se över hur befintlig vägledning behöver kompletteras och anpassas för att beakta klimatförändringars effekter, både avseende nederbörd och torka, samt behovet av beredskapsåtgärder. Uppdraget omfattar däremot inte att ta fram någon vägledning inom plan- och byggområdet. Havs- och vattenmyndigheten ska enligt myndighetens regleringsbrev för budgetåret 2026 också överväga om det finns behov av en tillsynsmyndighet för kommunala vattentjänstplaner. Om det behövs ska Havs- och vattenmyndigheten, med stöd av berörda myndigheter, lämna förslag på författningsändringar samt redovisa skäl och en konsekvensbeskrivning i enlighet med förordningen (2024:183) om konsekvensutredningar. Av Havs- och vattenmyndighetens regleringsbrev för budgetåret 2026 framgår att Havs- och vattenmyndigheten senast den 30 juni 2027 ska redovisa uppdraget till Regeringskansliet (Klimat- och näringslivsdepartementet).",
+   "dates": [
+    "2027-06-30"
+   ],
+   "deadlines": [
+    "2027-06-30"
+   ],
+   "recipients": [
+    "Regeringskansliet (Klimat- och näringslivsdepartementet)"
+   ],
+   "partners": [
+    "Boverket",
+    "Havs- och vattenmyndigheten",
+    "Naturvårdsverket"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "föreslå",
+    "samordna",
+    "utveckla",
+    "tillsyn_kontroll",
+    "informera",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2006:412",
+    "2024:183"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27567:assignments:6"
+  },
+  {
+   "title": "Uppdrag om ändring i det svenska kontrollprogrammet för salmonella",
+   "group": [],
+   "text": "Livsmedelsverket ska ta fram förslag till ett uppdaterat kontrollprogram inom ramen för det svenska salmonellakontrollprogrammet. Uppdragets syfte är att salmonellaprovtagningen vid styckningsanläggningar ska kunna upphöra. Myndighetens redovisning av uppdraget ska utgöra underlag till en anmälan till Europeiska kommissionen för ett nytt godkännande av de svenska salmonellakontrollprogrammen för gris, nötkreatur och fjäderfä. Livsmedelsverket ska inom ramen för uppdraget även göra en bedömning om åtgärderna kan påverka de befintliga svenska salmonellagarantierna. Livsmedelsverket ska senast den 30 juni 2026 lämna en redovisning av uppdraget till Regeringskansliet (Landsbygd- och infrastrukturdepartementet).",
+   "dates": [
+    "2026-06-30"
+   ],
+   "deadlines": [
+    "2026-06-30"
+   ],
+   "recipients": [
+    "Regeringskansliet (Landsbygd- och infrastrukturdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "tillsyn_kontroll",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27567:assignments:7"
+  },
+  {
+   "title": "Arbete med EU:s kvalitetssystem för skyddade beteckningar",
+   "group": [],
+   "text": "Livsmedelsverket ska vidta åtgärder i syfte att underlätta för producentgrupper som vill erhålla skydd i enlighet med EU:s kvalitetssystem för skyddade beteckningar. Fokus ska ligga på att förenkla ansökningsförfarandet för producentgrupperna, genom bl.a. kompetenshöjande insatser samt transparenta och tydliga förfaranden. I uppdraget ingår vidare att Livsmedelsverket ska utveckla myndighetens egen information om systemet för skyddade beteckningar. Livsmedelsverket ska när arbetet utförs inhämta synpunkter från Statens jordbruksverk och andra relevanta aktörer.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Statens jordbruksverk"
+   ],
+   "channels": [],
+   "task_types": [
+    "samordna",
+    "utveckla",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27567:assignments:8"
+  },
+  {
+   "title": "Öka förmågan att använda AI och ny teknik genom datadrivet arbete",
+   "group": [],
+   "text": "Livsmedelsverket ska redovisa i vilken utsträckning myndigheten arbetar datadrivet, vilka åtgärder den vidtagit för att förbättra sin förmåga att arbeta datadrivet, samt en bedömning av vilka resultat åtgärderna har lett till. Livsmedelsverket ska även redovisa på vilket sätt arbetet med data och artificiell intelligens, AI, har bidragit till att utveckla verksamheten och höja kvaliteten i utförandet av myndighetens uppgifter. Av redovisningen ska framgå hur Livsmedelsverket beaktar risker och arbetar för att användning av data och AI sker på ett etiskt och säkert sätt. Eventuella hinder och framgångsfaktorer för datadrivet arbete och användande av AI ska redovisas. Livsmedelsverket ska senast den 15 maj 2026 lämna en redovisning av uppdraget till Regeringskansliet (Landsbygds- och infrastrukturdepartementet).",
+   "dates": [
+    "2026-05-15"
+   ],
+   "deadlines": [
+    "2026-05-15"
+   ],
+   "recipients": [
+    "Regeringskansliet (Landsbygds- och infrastrukturdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla",
+    "statistik_data",
+    "digitalisering_ai"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27567:assignments:9"
+  },
+  {
+   "title": "Verksamt.se",
+   "group": [],
+   "text": "Livsmedelsverket ska förvalta myndighetens innehåll på den myndighetsgemensamma webbplatsen verksamt.se.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27567:assignments:10"
+  },
+  {
+   "title": "Prognoser",
+   "group": [],
+   "text": "Livsmedelsverket ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten.\n\nPrognoserna lämnas i informationssystemet Hermes senast den\n\n– 2 februari,\n\n– 22 april,\n\n– 24 juli, och\n\n– 9 november.\n\nPrognoserna den 22 april och den 9 november 2026 för anslag 1:25*Slakterikontroll*ska kompletteras med underlag avseende hur planerad slaktverksamhet vid slakterier och vilthanteringsanläggningar har utvecklats sedan införandet av fasta avgifter för offentlig kontroll och annan offentlig verksamhet i fråga om slaktverksamhet vid slakterier och vilthanteringsanläggningar. Underlaget ska även belysa hur de fasta avgifterna har påverkat transparens och förutsägbarhet när det gäller de berörda företagens kostnader för kontroll.",
+   "dates": [
+    "2026-11-09"
+   ],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos",
+    "utveckla",
+    "tillsyn_kontroll"
+   ],
+   "anslag_refs": [
+    "1:25"
+   ],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27567:assignments:11"
+  },
+  {
+   "title": "Prognos för beställningsbemyndiganden",
+   "group": [],
+   "text": "Livsmedelsverket ska redovisa en prognos för de förslag om beställningsbemyndiganden som har lämnats i budgetunderlaget. Prognosen ska lämnas senast den 24 juli 2026 i informationssystemet Hermes och utformas enligt närmare information från Ekonomistyrningsverket.",
+   "dates": [
+    "2026-07-24"
+   ],
+   "deadlines": [
+    "2026-07-24"
+   ],
+   "forecast_dates": [],
+   "recipients": [],
+   "partners": [
+    "Ekonomistyrningsverket"
+   ],
+   "channels": [
+    "hermes",
+    "budgetunderlag"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27567:assignments:12"
+  },
+  {
+   "title": "Användning av vatten som inte uppfyller kraven för dricksvattenkvalitet",
+   "group": [],
+   "text": "Livsmedelsverket ska utreda om och i så fall vilka möjligheter som finns för livsmedelsföretag att återanvända vatten som inte uppfyller kraven för dricksvattenkvalitet inom sin verksamhet. Myndigheten ska primärt fokusera på de delar av livsmedelssektorn som i dag är stora användare av dricksvatten. Myndigheten ska lämna förslag på lämpliga åtgärder som krävs för att livsmedelsföretag ska kunna återanvända vatten som inte uppfyller kraven för dricksvattenkvalitet och precisera de frågeställningar som behöver utredas vidare. Livsmedelsverket ska vid behov föra en dialog med Kemikalieinspektionen och andra relevanta organisationer. Livsmedelsverket ska senast den 1 mars 2027 lämna en redovisning av uppdraget till Regeringskansliet (Landsbygds- och infrastrukturdepartementet).",
+   "dates": [
+    "2027-03-01"
+   ],
+   "deadlines": [
+    "2027-03-01"
+   ],
+   "recipients": [
+    "Regeringskansliet (Landsbygds- och infrastrukturdepartementet)"
+   ],
+   "partners": [
+    "Kemikalieinspektionen"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "föreslå",
+    "tillsyn_kontroll"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27567:assignments:13"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "1:14",
+   "name": "Livsmedelsverket",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 23,
+    "name": "Areella näringar, landsbygd och livsmedel"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Livsmedelsverket",
+     "amount_tkr": 730547,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Livsmedelsverket (ram)",
+       "amount_tkr": 730547
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Livsmedelsverket",
+     "text": "Anslagsposten får användas till Livsmedelsverkets förvaltningsutgifter.\n**1. Livsmedelsverket får använda 263 500 000 kronor för att förstärka arbetet med civilt försvar, varav högst 25 000 000 kronor får användas för administrativa kostnader för investeringsprogram och beredskapslagring inom beredskapssektorn livsmedelsförsörjning och dricksvatten.**\nFör uppgiften att vara sektorsansvarig myndighet får högst 23 500 000 kronor användas.\n**2. Från anslagsposten får Livsmedelsverket disponera medel för att kunna använda och samverka med det gemensamma radiokommunikationssystemet Rakel. Livsmedelsverket ska betala totalt 142 500 kronor till den blivande Myndigheten för civilt försvar som abonnemangsavgift för detta system. Beloppet ska betalas efter fakturering från den blivande Myndigheten för civilt försvar.**\n**3. Av anslagsposten får 35 000 000 kronor användas för planering och genomförande av stärkt kontroll av fusk i livsmedelskedjan.**\n**4. Av anslagsposten får 43 000 000 kronor användas för att genomföra en effektivare och mer likvärdig kontroll i livsmedelskedjan.**\n**5. Av anslagsposten får 97 000 000 kronor användas för att täcka underskott till och med 2023 i den offentliga kontrollen vid slakterier och vilthanteringsanläggningar.**"
+    }
+   ],
+   "caps": [
+    {
+     "ap": "1",
+     "max": 25000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "1",
+     "max": 23500000,
+     "unit": "kronor"
+    }
+   ]
+  },
+  {
+   "code": "1:25",
+   "name": "Slakterikontroll",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 23,
+    "name": "Areella näringar, landsbygd och livsmedel"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Livsmedelsverket",
+     "amount_tkr": 168053,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Slakterikontroll (ram)",
+       "amount_tkr": 168053
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Slakterikontroll",
+     "text": "Anslagsposten får användas för utgifter för offentlig kontroll och annan offentlig verksamhet gällande slakterier och vilthanteringsanläggningar som inte täcks av avgifter som tas ut i enlighet med artikel 79.1 b i Europaparlamentets och rådets förordning (EU) 2017/625 av den 15 mars 2017 om offentlig kontroll och annan offentlig verksamhet för att säkerställa tillämpningen av livsmedels- och foderlagstiftningen och av bestämmelser om djurs hälsa och djurskydd, växtskydd och växtskyddsmedel samt om ändring av Europaparlamentets och rådets förordningar (EG) nr 999/2001, (EG) nr 396/2005, (EG) nr 1069/2009, (EG) nr 1107/2009, (EU) nr 1151/2012, (EU) nr 652/2014, (EU) 2016/429 och (EU) 2016/2031, rådets förordningar (EG) nr 1/2005 och (EG) nr 1099/2009 och rådets direktiv 98/58/EG, 1999/74/EG, 2007/43/EG, 2008/119/EG och 2008/120/EG och om upphävande av Europaparlamentets och rådets förordningar (EG) nr 854/2004 och (EG) nr 882/2004, rådets direktiv 89/608/EEG, 89/662/EEG, 90/425/EEG, 91/496/EEG, 96/23/EG, 96/93/EG och 97/78/EG samt rådets beslut 92/438/EEG (förordningen om offentlig kontroll). Anslaget får även användas för statligt stöd i form av nedsättning av vissa avgifter för offentlig kontroll och annan offentlig verksamhet som betalas av slakterier och vilthanteringsanläggningar.\nHögst 8 000 000 kronor får användas för nedsättning av avgifterna för genomförande av det nationella kontrollprogrammet för salmonella till slakterier och vilthanteringsanläggningar. Stöd betalas i enlighet med de villkor som anges i kapitel I och artikel 26 i kommissionens förordning (EU) 2022/2472 av den 14 december 2022 genom vilken vissa kategorier av stöd inom jordbruks- och skogsbrukssektorn och i landsbygdsområden förklaras förenliga med den inre marknaden enligt artiklarna 107 och 108 i fördraget om Europeiska unionens funktionssätt. Stöd får inte betalas ut till ett företag som är föremål för ett oreglerat återbetalningskrav till följd av ett tidigare kommissionsbeslut som förklarar ett stöd olagligt och oförenligt med den inre marknaden. Livsmedelsverket ska följa upp stödet. Bestämmelser om myndigheters förpliktelser att rapportera, registrera och offentliggöra stöd finns i lagen (2013:388) om tillämpning av Europeiska unionens statsstödsregler och i förordningen (2016:605) om tillämpning av Europeiska unionens statsstödsregler.\nAnslagsposten får användas för att täcka kostnader för godkännande av anläggningar för slakteri- och vilthanteringsanläggningar som har en planerad årlig slaktvolym som understiger 5 000 ton enligt de villkor som framgår av kommissionens förordning (EU) 2023/2831 av den 13 december 2023 om tillämpningen av artiklarna 107 och 108 i fördraget om Europeiska unionens funktionssätt på stöd av mindre betydelse. De uppgifter som en medlemsstat har enligt artikel 6.4 och 7.4 i kommissionens förordning (EU) 2023/2831 ska utföras av Livsmedelsverket. Vidare ska Livsmedelsverket föra ett register över stöd som lämnas enligt kommissionens förordning (EU) 2023/2831. Ett sådant register ska innehålla de uppgifter som behövs för att det ska vara möjligt att fastställa att de villkor för stöd som anges i kommissionens förordning (EU) 2023/2831 är uppfyllda. Bestämmelser om myndigheters förpliktelser att rapportera, registrera och offentliggöra stöd finns i lagen om tillämpning av Europeiska unionens statsstödsregler och i förordningen om tillämpning av Europeiska unionens statsstödsregler."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "1",
+     "max": 8000000,
+     "unit": "kronor"
+    }
+   ]
+  },
+  {
+   "code": "1:26",
+   "name": "Åtgärder för beredskap inom livsmedels- och dricksvattenområdet",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 23,
+    "name": "Areella näringar, landsbygd och livsmedel"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Livsmedelsverket",
+     "amount_tkr": 394000,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Civilt försvar - del till Livsmedelsverket (ram)",
+       "amount_tkr": 394000
+      }
+     ],
+     "sum_ok": true
+    },
+    {
+     "by": "Länsstyrelsen i Örebro län",
+     "amount_tkr": 27000,
+     "items": [
+      {
+       "ap": "4",
+       "name": "Civilt försvar - del till Länsstyrelsen i Örebro län (ram)",
+       "amount_tkr": 27000
+      }
+     ],
+     "sum_ok": true
+    },
+    {
+     "by": "Naturvårdsverket",
+     "amount_tkr": 50000,
+     "items": [
+      {
+       "ap": "5",
+       "name": "Civilt försvar - del till Naturvårdsverket (ram)",
+       "amount_tkr": 50000
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Civilt försvar - del till Livsmedelsverket",
+     "text": "Av anslagsposten får högst 40 000 000 kronor användas för arbetet med robusthöjande åtgärder för livsmedelsbutiker och andra företag inom myndighetens sakområde. Anslagsposten får användas för att bevilja statligt stöd till livsmedelsbutiker i syfte att stärka den lokala livsmedelsförsörjningen. Stöd får endast beviljas i enlighet med villkoren i kommissionens förordning (EU) 2023/2831. Innan stöd beviljas ska Livsmedelsverket be berört företag att redogöra för allt annat stöd av mindre betydelse som företaget har fått under den senaste treårsperioden och allt annat stöd som företaget tidigare har ansökt om eller beviljats och som avser samma stödberättigande kostnader som företaget nu planeras att få stöd för inom ramen för pilotprojektet. Innan stöd beviljas ska Livsmedelsverket lämna de upplysningar till företaget som följer av artikel 7.4 i kommissionens förordning (EU) 2023/2831 och göra den kontroll som följer av artikel 6.4 i samma förordning. Bestämmelser om myndigheters förpliktelser att rapportera, registrera och offentliggöra stöd finns i lagen om tillämpning av Europeiska unionens statsstödsregler och i förordningen om tillämpning av Europeiska unionens statsstödsregler.\nAv anslagsposten får högst 129 000 000 kronor användas för att genomföra förmågehöjande åtgärder när det gäller dricksvattenförsörjningen vid höjd beredskap.\nAv anslagsposten får högst 100 000 000 kronor användas för bidrag till kommuner och regioner för förmågehöjande åtgärder inom offentlig måltidsverksamhet.\nAv anslagsposten får högst 125 000 000 kronor användas för att etablera beredskapslager i leden efter primärproduktionen samt för planering, och investeringar kopplade till åtgärder som bidrar till att beredskapslager av spannmål kan komma livsmedelskedjan till del. Av dessa får högst 15 000 000 kronor användas för drift- och förvaltningskostnader."
+    },
+    {
+     "ap": "4",
+     "name": "Civilt försvar - del till Länsstyrelsen i Örebro län",
+     "text": "Av anslagsposten får högst 17 000 000 kronor användas för planering och arbete med dricksvattenförsörjning under höjd beredskap och högst 10 000 000 kronor för planering och arbete med livsmedelsberedskap. Medel får lämnas som bidrag till kommunerna."
+    },
+    {
+     "ap": "5",
+     "name": "Civilt försvar - del till Naturvårdsverket",
+     "text": "Anslagsposten får användas för utveckling av investeringsprogram för förmågeutveckling gällande avfalls- och avloppshantering.\nAnslagsposten får användas för att ge stöd i form av bidrag för åtgärder som kopplar till att utveckla och genomföra investeringsprogram för förmågeutveckling gällande avfalls- och avloppshantering inom beredskapssektorn för livsmedelsförsörjning och dricksvatten. Naturvårdsverket beslutar om fördelningen av medlen. Stöd till företag får endast beviljas i enlighet med villkoren i kommissionens förordning (EU) 2023/2831. Innan stöd beviljas ska Naturvårdsverket be berört företag att redogöra för allt annat stöd av mindre betydelse som företaget har erhållit under den senaste treårsperioden samt stöd som företaget har ansökt om eller beviljats och som avser samma stödberättigande kostnader som företaget inom ramen för investeringsprogram kan erhålla stöd för. Innan stöd beviljas ska Naturvårdsverket lämna de upplysningar till företaget som följer av artikel 7.4 i kommissionens förordning (EU) 2023/2831 och genomföra den kontroll som följer av artikel 6.4 i samma förordning. Bestämmelser om myndigheters förpliktelser att rapportera, registrera och offentliggöra stöd finns i lagen om tillämpning av Europeiska unionens statsstödsregler och i förordningen om tillämpning av Europeiska unionens statsstödsregler.\nAnslagsposten får användas av Naturvårdsverket för myndighetens arbete för att administrera investeringsprogrammen."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "1",
+     "max": 40000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "1",
+     "max": 129000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "1",
+     "max": 100000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "1",
+     "max": 125000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "1",
+     "max": 15000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "4",
+     "max": 17000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "4",
+     "max": 10000000,
+     "unit": "kronor"
+    }
+   ]
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "1:14 Livsmedelsverket",
+   "ap": "ap.1",
+   "Anslagskredit": 21826,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:25 Slakterikontroll",
+   "ap": "ap.1",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:26 Åtgärder för beredskap inom livsmedels- och dricksvattenområdet",
+   "ap": "ap.1",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Allt",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:26 Åtgärder för beredskap inom livsmedels- och dricksvattenområdet",
+   "ap": "ap.4",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:26 Åtgärder för beredskap inom livsmedels- och dricksvattenområdet",
+   "ap": "ap.5",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 300000,
+  "Räntekontokredit": 850000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 74633
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 74633
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 74633
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 74633
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 74633
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 74633
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 75133
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 75133
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 75133
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 75133
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 75133
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 75137
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:14 Livsmedelsverket",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "21 826",
+     "3 %",
+     "0"
+    ],
+    [
+     "1:25 Slakterikontroll",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "1:26 Åtgärder för beredskap inom livsmedels- och dricksvattenområdet",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "0",
+     "Allt",
+     "0"
+    ],
+    [
+     "ap.4",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.5",
+     "0",
+     "Inget",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Beställningsbemyndiganden",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Bemyndigande",
+     "Utgifter mot anslag till följd av ekonomiska åtaganden",
+     "",
+     "",
+     ""
+    ],
+    [
+     "2026",
+     "2027",
+     "2028",
+     "2029 -",
+     "Slutår"
+    ],
+    [
+     "1:26 Åtgärder för beredskap inom livsmedels- och dricksvattenområdet",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "940 000",
+     "345 000",
+     "347 000",
+     "248 000",
+     "2030"
+    ],
+    [
+     "ap.5",
+     "20 000",
+     "15 000",
+     "3 000",
+     "2 000",
+     "2030"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "300 000"
+    ],
+    [
+     "Räntekontokredit",
+     "850 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "74 633"
+    ],
+    [
+     "2026-02-25",
+     "74 633"
+    ],
+    [
+     "2026-03-25",
+     "74 633"
+    ],
+    [
+     "2026-04-25",
+     "74 633"
+    ],
+    [
+     "2026-05-25",
+     "74 633"
+    ],
+    [
+     "2026-06-25",
+     "74 633"
+    ],
+    [
+     "2026-07-25",
+     "75 133"
+    ],
+    [
+     "2026-08-25",
+     "75 133"
+    ],
+    [
+     "2026-09-25",
+     "75 133"
+    ],
+    [
+     "2026-10-25",
+     "75 133"
+    ],
+    [
+     "2026-11-25",
+     "75 133"
+    ],
+    [
+     "2026-12-25",
+     "75 137"
+    ],
+    [
+     "Summa",
+     "898 600"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "1:14 ap.1",
+     "Livsmedelsverket"
+    ],
+    [
+     "1:25 ap.1",
+     "Slakterikontroll"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Offentligrättslig verksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Gränskontroll1",
+     "4 500",
+     "-3 600",
+     "24 900",
+     "25 100",
+     "-200",
+     "700"
+    ],
+    [
+     "Kontroll av livsmedelsanläggningar1",
+     "-7 921",
+     "-1 000",
+     "39 500",
+     "36 600",
+     "2 900",
+     "-6 021"
+    ],
+    [
+     "Kontroll av slakterier och VHA1",
+     "-97 383",
+     "-3 600",
+     "13 000",
+     "6 000",
+     "7 000",
+     "-93 983"
+    ],
+    [
+     "Kontroll av slakterier och VHA, fasta avgifter2",
+     "0",
+     "0",
+     "59 000",
+     "59 000",
+     "0",
+     "0"
+    ],
+    [
+     "Nationella kontrollprogram1",
+     "-1 448",
+     "-2 500",
+     "30 350",
+     "32 000",
+     "-1 650",
+     "-5 598"
+    ],
+    [
+     "Myndighetsärenden1",
+     "-30",
+     "-200",
+     "500",
+     "500",
+     "0",
+     "-230"
+    ],
+    [
+     "Summa",
+     "-102 282",
+     "-10 900",
+     "167 250",
+     "159 200",
+     "8 050",
+     "-105 132"
+    ],
+    [
+     "Uppdragsverksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Uppdragsverksamhet1",
+     "1 553",
+     "-1 300",
+     "9 500",
+     "10 000",
+     "-500",
+     "-247"
+    ],
+    [
+     "Tjänsteexport",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Tjänsteexport1",
+     "2 160",
+     "-900",
+     "5 000",
+     "5 500",
+     "-500",
+     "760"
+    ]
+   ]
+  }
+ ],
+ "has_fee_section": true,
+ "exceptions_text": "Livsmedelsverket får, trots vad som anges i 14 § andra stycket förordningen (1993:1138) om hantering av statliga fordringar, efter individuell bedömning medge den betalningsskyldige skäligt betalningsanstånd upp till 36 månader från förfallodagen för avgifter avseende den offentliga kontrollen vid slakterier och vilthanteringsanläggningar samt avgifter för kontrollprogrammen för perioden 2017–2023. Anstånd utöver 36 månader från förfallodagen får medges för sådana avgifter bara om det är till fördel för staten eller om det i övrigt finns synnerliga skäl.\n\nPå regeringens vägnar\n\nPeter Kullgren\n\nStefan Ernlund\n\n**Kopia till**\n\nStatsrådsberedningen, internrevisionen\\\nFörsvarsdepartementet/ECH, ESS och ETU\\\nSocialdepartementet/HC\\\nFinansdepartementet/BA, DOF, ESA, K, KO och SFÖ\\\nKlimat- och näringslivsdepartementet/ME, NIM och NM\\\nFörvaltningsavdelningen, RK Ekonomi och affärer\\\nRiksdagen, miljö- och jordbruksutskottet\\\nBoverket\\\nHavs- och vattenmyndigheten\\\nLänsstyrelsen i Örebro län\\\nMyndigheten för civilt försvar\\\nNaturvårdsverket\\\nStatens jordbruksverk\\\nStatens veterinärmedicinska anstalt\\\nRiksgäldskontoret",
+ "summary": {
+  "n_goals": 4,
+  "n_org": 1,
+  "n_assignments": 14,
+  "n_deadlines": 8,
+  "deadlines": [
+   "2026-05-15",
+   "2026-06-30",
+   "2026-07-24",
+   "2026-11-30",
+   "2027-02-22",
+   "2027-02-28",
+   "2027-03-01",
+   "2027-06-30"
+  ],
+  "partners": [
+   "Boverket",
+   "Ekonomistyrningsverket",
+   "Försvarsmakten",
+   "Havs- och vattenmyndigheten",
+   "Kemikalieinspektionen",
+   "Läkemedelsverket",
+   "Myndigheten för civilt försvar",
+   "Myndigheten för samhällsskydd och beredskap",
+   "Naturvårdsverket",
+   "Statens jordbruksverk",
+   "Statens veterinärmedicinska anstalt",
+   "Säkerhetspolisen"
+  ],
+  "n_appropriations": 3,
+  "appropriations_total_tkr": 1369600,
+  "payment_plan_total_tkr": 898600,
+  "md_chars": 30406
+ },
+ "layout": "standard",
+ "warnings": []
+}

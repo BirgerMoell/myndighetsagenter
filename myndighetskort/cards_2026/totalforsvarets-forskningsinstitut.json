@@ -1,0 +1,860 @@
+{
+ "schema_version": 1,
+ "id": 26269,
+ "original_rbid": 25941,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-03-12",
+ "year": "2026",
+ "name": "Totalförsvarets forskningsinstitut",
+ "slug": "totalforsvarets-forskningsinstitut",
+ "department": "Försvarsdepartementet",
+ "expenditure_areas": [
+  6
+ ],
+ "registry_numbers": [
+  "Fö2026/00496 (delvis)",
+  "Fö2026/00510"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1",
+   "2025/26:143"
+  ],
+  "bet": [
+   "2025/26:FiU46",
+   "2025/26:FöU1"
+  ],
+  "rskr": [
+   "2025/26:111",
+   "2025/26:180"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "Regeringen har den 19 december 2024 fattat beslut om Gemensamma förutsättningar för utvecklingen av totalförsvaret 2025–2030 (Fö nr I:15) och Inriktning för militärt försvar 2025–2030 (Fö nr I:16).",
+ "goals": [
+  {
+   "title": "Internationella samarbeten",
+   "group": [],
+   "text": "Totalförsvarets forskningsinstitut ska bistå Regeringskansliet (Försvarsdepartementet) samt delta, följa upp och hålla sig informerad om det permanenta strukturerade samarbetet (Pesco). Myndigheten ska även bistå och underrätta Regeringskansliet (Försvarsdepartementet) löpande vid händelser avseende befintliga och tillkommande förslag från Europeiska kommissionen i försvarsindustrirelaterade frågor som exempelvis europeiska försvarsfonden (EDF) och programmet för europeisk försvarsindustri (EDIP). I arbetet ska Totalförsvarets forskningsinstitut samverka med Försvarsmakten och Försvarets materielverk.\n\nTotalförsvarets forskningsinstitut ska vidare bistå Regeringskansliet i forsknings-och materielsamarbeten med andra länder.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Försvarets materielverk",
+    "Försvarsmakten"
+   ],
+   "channels": [],
+   "task_types": [
+    "analysera",
+    "samordna",
+    "informera",
+    "beredskap_säkerhet",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26269:goals:0"
+  },
+  {
+   "title": "Innovation",
+   "group": [],
+   "text": "Totalförsvarets forskningsinstitut ska redovisa hur forskning och utveckling bidrar till stärkt försvarsinnovation och försvarsförmåga. Redovisningen avser myndighetens arbete på området för skyndsam omvandling till militär tillämpning samt utfallet av den intensifierade samverkan med andra myndigheter och näringslivet. Däri ingår att redogöra för och bedöma effekter av verksamheten samt föreslå hur den ska vidareutvecklas.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "föreslå",
+    "samordna",
+    "utveckla",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26269:goals:1"
+  },
+  {
+   "title": "Bevaka och hantera nya tekniker",
+   "group": [],
+   "text": "Totalförsvarets forskningsinstitut ska redovisa hur forskning och arbete med nya tekniker kan användas inom totalförsvaret.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26269:goals:2"
+  },
+  {
+   "title": "Digitalisering",
+   "group": [],
+   "text": "Totalförsvarets forskningsinstitut ska redovisa hur myndighetens digitala förmåga behöver utvecklas för att bidra till totalförsvarets robusthet, förmåga och motståndskraft.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla",
+    "digitalisering_ai",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26269:goals:3"
+  },
+  {
+   "title": "Stärkt underrättelseverksamhet",
+   "group": [],
+   "text": "Totalförsvarets forskningsinstitut ska fortsätta utveckla samarbetet med övriga försvarsunderrättelsemyndigheter. Myndigheten ska ha förmåga att bedriva forskning, metod- och teknikutveckling samt utredningsarbete avseende rymddomänen, inom ramen för myndighetens försvarsunderrättelseverksamhet, och ska redovisa detta arbete.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26269:goals:4"
+  },
+  {
+   "title": "Rapportering enligt den nationella handlingsplanen för kvinnor, fred och säkerhet",
+   "group": [],
+   "text": "Totalförsvarets forskningsinstitut ska bidra till genomförandet av FN:s säkerhetsrådsresolutioner om kvinnor, fred och säkerhet med utgångspunkt i den nationella handlingsplanen på området (UD2023/04798). Myndighetens arbete ska redovisas utifrån de fyra övergripande målen i handlingsplanen.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26269:goals:5"
+  }
+ ],
+ "org": [],
+ "assignments": [
+  {
+   "title": "Stöd till Ukraina",
+   "group": [],
+   "text": "Totalförsvarets forskningsinstitut ska fortsättningsvis bistå Ukraina genom att utföra insatser som innefattar tekniköverföring, metodutveckling, utbildning samt stöd avseende CBRN-analys och automatisk upptäckt av fordon från drönare. Myndigheten ska även bedöma effekterna av arbetet och ge förslag på hur det kan utvecklas framöver. Uppdraget ska redovisas till Regeringskansliet (Försvarsdepartementet) senast den 31 mars 2026. Vidare ska ytterligare stöd ges vad avser CBRN-skydd, kärnvapendetektion, spaningssystemalgoritmer, positionering av obemannade farkoster, sjöminröjningsfrågor och utveckling av sensorer till obemannade farkoster. Delrapportering av detta, till Regeringskansliet (Försvarsdepartementet), ska ske senast den 2 november 2026.",
+   "dates": [
+    "2026-03-31",
+    "2026-11-02"
+   ],
+   "deadlines": [
+    "2026-03-31",
+    "2026-11-02"
+   ],
+   "recipients": [
+    "Regeringskansliet (Försvarsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [
+    "delredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna",
+    "utveckla",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26269:assignments:0"
+  },
+  {
+   "title": "Digital molnbaserad transformation",
+   "group": [],
+   "text": "Totalförsvarets forskningsinstitut uppdras att senast den 20 februari 2026 redovisa hur en övergång till en digital molnbaserad lösning kan genomföras, beräknade kostnader för genomförandet samt vilka besparingar myndigheten kan göra vid utfasning av befintlig lösning.",
+   "dates": [
+    "2026-02-20"
+   ],
+   "deadlines": [
+    "2026-02-20"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26269:assignments:1"
+  },
+  {
+   "title": "Tidigare angivna uppdrag i Totalförsvarets forskningsinstituts regleringsbrev eller i särskilda regeringsbeslut",
+   "group": [],
+   "text": "| | | |\n| --- | --- | --- |\n| Sammanfattning av uppdraget | Beslut om uppdrag | Rapporteringstidpunkt |\n| Inriktning för militärt försvar 2025-2030 | Fö2024/02054 (delvis) | |\n| Uppdrag att kartlägga förekomsten av hbtqi-fientlighet i digitala miljöer | A2025/00046 | Redovisning av analysrapporterna 30 maj 2026 och slutredovisning 1 mars 2027 till Arbetsmarknadsdepartementet |\n| Uppdrag att kartlägga kunskap om förekomsten av antisemitism i digitala miljöer | A2025/00528 | Delredovisning till Arbetsmarknadsdepartementet 15 februari och slutredovisning 1 mars 2029 |\n| Uppdrag om hur kriminella nätverk påverkar barn och unga i digitala miljöer | Ju2025/00157 | Redovisning till Justitiedepartementet 15 oktober 2026 |\n| Uppdrag avseende riskbedömning av bioteknik | Fö2025/01307 | Redovisning 15 januari 2026 |\n| Uppdrag att anordna internationell konferens om civilt försvar | Fö2025/01492 | Slutredovisning 15 juni 2026 |",
+   "dates": [
+    "2026-01-15",
+    "2026-05-30",
+    "2026-06-15",
+    "2026-10-15",
+    "2027-03-01",
+    "2029-03-01"
+   ],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "delredovisning",
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "beredskap_säkerhet",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26269:assignments:2"
+  },
+  {
+   "title": "Prognoser",
+   "group": [],
+   "text": "Myndigheten ska redovisa utgiftsprognoser för 2026-2029 vid nedanstående prognostillfällen. Prognoserna ska beskriva utvecklingen på anslags-och postnivå och orsaker till eventuella förändringar både i förhållande till föregående prognostillfälle och i förhållande till budgeten.\n\nPrognoserna lämnas i informationssystemet Hermes senast den\n\n- 2 februari,\n\n- 22 april,\n\n- 24 juli,\n\n- 9 november.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26269:assignments:3"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "1:9",
+   "name": "Totalförsvarets forskningsinstitut",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 6,
+    "name": "Försvar och samhällets krisberedskap"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Totalförsvarets forskningsinstitut",
+     "amount_tkr": 865431,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Säkerhets- och försvarspolitisk forskning och analys (ram)",
+       "amount_tkr": 127508
+      },
+      {
+       "ap": "2",
+       "name": "Forskning inom CBRN-området (ram)",
+       "amount_tkr": 226669
+      },
+      {
+       "ap": "3",
+       "name": "Polisens verksamhetsområden (ram)",
+       "amount_tkr": 7969
+      },
+      {
+       "ap": "4",
+       "name": "Internationell verksamhet (ram)",
+       "amount_tkr": 202337
+      },
+      {
+       "ap": "5",
+       "name": "Egeninitierad forskning (ram)",
+       "amount_tkr": 47541
+      },
+      {
+       "ap": "6",
+       "name": "Bevaka och hantera nya tekniker (ram)",
+       "amount_tkr": 86623
+      },
+      {
+       "ap": "7",
+       "name": "Forskning för det civila försvarets behov (ram)",
+       "amount_tkr": 41238
+      },
+      {
+       "ap": "8",
+       "name": "Utländska direktinvesteringar (ram)",
+       "amount_tkr": 4087
+      },
+      {
+       "ap": "9",
+       "name": "Forskningsinfrastruktur mm. (ram)",
+       "amount_tkr": 63930
+      },
+      {
+       "ap": "10",
+       "name": "Innovation och nyttiggörande av forskning (ram)",
+       "amount_tkr": 57529
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Säkerhets- och försvarspolitisk forskning och analys",
+     "text": "Anslagsposten får användas för att finansiera forskning och analysstöd inom det säkerhets- och försvarspolitiska området av betydelse för inriktningen av totalförsvaret och krisberedskapen."
+    },
+    {
+     "ap": "2",
+     "name": "Forskning inom CBRN-området",
+     "text": "Anslagsposten får användas för att finansiera forskning avseende kemiska, biologiska och radioaktiva ämnen samt kärnvapen och dess radiologiska följdverkningar. Anslagsposten får även användas för att finansiera forskning inom explosiva ämnen.\nHögst 4 086 572 kronor får användas till att finansiera myndighetens arbete med nationellt dricksvattenlaboratorium."
+    },
+    {
+     "ap": "3",
+     "name": "Polisens verksamhetsområden",
+     "text": "Anslagsposten får användas för att finansiera forskning syftande till kunskapsuppbyggnad inom Polismyndighetens och Säkerhetspolisens verksamhetsområden.\nHögst 2 043 286 kronor får användas för kartläggning och analys av våldsbejakande extremism och rasism i digitala miljöer."
+    },
+    {
+     "ap": "4",
+     "name": "Internationell verksamhet",
+     "text": "Anslagsposten får användas för att finansiera myndighetens internationella verksamhet.\nHögst 170 275 801 kronor får användas till myndighetens uppdrag om stöd till Ukraina.\nHögst 3 600 000 kronor får användas till sekondering vid Europeiska kompetenscentret för motverkande av hybridhot i Helsingfors."
+    },
+    {
+     "ap": "5",
+     "name": "Egeninitierad forskning",
+     "text": "Anslagsposten får användas för att finansiera myndighetens egeninitierade forskning."
+    },
+    {
+     "ap": "6",
+     "name": "Bevaka och hantera nya tekniker",
+     "text": "Anslagsposten får användas för att finansiera forskning med syfte att bevaka och hantera nya tekniker."
+    },
+    {
+     "ap": "7",
+     "name": "Forskning för det civila försvarets behov",
+     "text": "Anslagsposten får användas för att finansiera forskning för det civila försvarets behov.\nHögst 10 216 430 kronor för användas för forskning inom cyberområdet."
+    },
+    {
+     "ap": "8",
+     "name": "Utländska direktinvesteringar",
+     "text": "Anslagsposten får användas för att finansiera myndighetens arbete med utländska direktinvesteringar."
+    },
+    {
+     "ap": "9",
+     "name": "Forskningsinfrastruktur mm.",
+     "text": "Anslagsposten får användas för att finansiera myndighetens forskningsinfrastruktur, beredskapsfunktion samt säkerhetstjänst-och underrättelsefunktion.\nAnslagsposten får också användas av myndigheten för att finansiera abonnemangsavgiften för radiokommunikationssystemet Rakel. Beloppet ska betalas efter fakturering av Myndigheten för civilt försvar."
+    },
+    {
+     "ap": "10",
+     "name": "Innovation och nyttiggörande av forskning",
+     "text": "Anslagsposten får användas för att finansiera och främja forskning och utveckling samt samverkan kring försvarsinnovation."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "2",
+     "max": 4086572,
+     "unit": "kronor"
+    },
+    {
+     "ap": "3",
+     "max": 2043286,
+     "unit": "kronor"
+    },
+    {
+     "ap": "4",
+     "max": 170275801,
+     "unit": "kronor"
+    },
+    {
+     "ap": "4",
+     "max": 3600000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "7",
+     "max": 10216430,
+     "unit": "kronor"
+    }
+   ]
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "1:9 Totalförsvarets forskningsinstitut",
+   "ap": "ap.1",
+   "Anslagskredit": 3825,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:9 Totalförsvarets forskningsinstitut",
+   "ap": "ap.2",
+   "Anslagskredit": 6800,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:9 Totalförsvarets forskningsinstitut",
+   "ap": "ap.3",
+   "Anslagskredit": 239,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:9 Totalförsvarets forskningsinstitut",
+   "ap": "ap.4",
+   "Anslagskredit": 3998,
+   "Anslagsbehållning som disponeras 2026": "Allt",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:9 Totalförsvarets forskningsinstitut",
+   "ap": "ap.5",
+   "Anslagskredit": 1426,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:9 Totalförsvarets forskningsinstitut",
+   "ap": "ap.6",
+   "Anslagskredit": 2599,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:9 Totalförsvarets forskningsinstitut",
+   "ap": "ap.7",
+   "Anslagskredit": 1237,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:9 Totalförsvarets forskningsinstitut",
+   "ap": "ap.8",
+   "Anslagskredit": 122,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:9 Totalförsvarets forskningsinstitut",
+   "ap": "ap.9",
+   "Anslagskredit": 1918,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:9 Totalförsvarets forskningsinstitut",
+   "ap": "ap.10",
+   "Anslagskredit": 1726,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 550000,
+  "Räntekontokredit": 250000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 66366
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 66366
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 73273
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 73273
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 73273
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 73273
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 73273
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 73273
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 73273
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 73273
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 73273
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 73242
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:9 Totalförsvarets forskningsinstitut",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "3 825",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.2",
+     "6 800",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.3",
+     "239",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.4",
+     "3 998",
+     "Allt",
+     "0"
+    ],
+    [
+     "ap.5",
+     "1 426",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.6",
+     "2 599",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.7",
+     "1 237",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.8",
+     "122",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.9",
+     "1 918",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.10",
+     "1 726",
+     "3 %",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "550 000"
+    ],
+    [
+     "Räntekontokredit",
+     "250 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "66 366"
+    ],
+    [
+     "2026-02-25",
+     "66 366"
+    ],
+    [
+     "2026-03-25",
+     "73 273"
+    ],
+    [
+     "2026-04-25",
+     "73 273"
+    ],
+    [
+     "2026-05-25",
+     "73 273"
+    ],
+    [
+     "2026-06-25",
+     "73 273"
+    ],
+    [
+     "2026-07-25",
+     "73 273"
+    ],
+    [
+     "2026-08-25",
+     "73 273"
+    ],
+    [
+     "2026-09-25",
+     "73 273"
+    ],
+    [
+     "2026-10-25",
+     "73 273"
+    ],
+    [
+     "2026-11-25",
+     "73 273"
+    ],
+    [
+     "2026-12-25",
+     "73 242"
+    ],
+    [
+     "Summa",
+     "865 431"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "1:9 ap.1",
+     "Säkerhets- och försvarspolitisk forskning och analys"
+    ],
+    [
+     "1:9 ap.2",
+     "Forskning inom CBRN-området"
+    ],
+    [
+     "1:9 ap.3",
+     "Polisens verksamhetsområden"
+    ],
+    [
+     "1:9 ap.4",
+     "Internationell verksamhet"
+    ],
+    [
+     "1:9 ap.5",
+     "Egeninitierad forskning"
+    ],
+    [
+     "1:9 ap.6",
+     "Bevaka och hantera nya tekniker"
+    ],
+    [
+     "1:9 ap.7",
+     "Forskning för det civila försvarets behov"
+    ],
+    [
+     "1:9 ap.8",
+     "Utländska direktinvesteringar"
+    ],
+    [
+     "1:9 ap.9",
+     "Forskningsinfrastruktur mm."
+    ],
+    [
+     "1:9 ap.10",
+     "Innovation och nyttiggörande av forskning"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Avgiftsbelagd verksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Uppdragsfinaniserad verksamhet inkl. bidrag och räntor1",
+     "42 887",
+     "70 000",
+     "1 965 000",
+     "1 999 000",
+     "-34 000",
+     "78 887"
+    ],
+    [
+     "Tjänsteexport1",
+     "-12 194",
+     "0",
+     "20 000",
+     "20 000",
+     "0",
+     "-12 194"
+    ],
+    [
+     "Summa",
+     "30 693",
+     "70 000",
+     "1 985 000",
+     "2 019 000",
+     "-34 000",
+     "66 693"
+    ]
+   ]
+  }
+ ],
+ "has_fee_section": true,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 6,
+  "n_org": 0,
+  "n_assignments": 4,
+  "n_deadlines": 3,
+  "deadlines": [
+   "2026-02-20",
+   "2026-03-31",
+   "2026-11-02"
+  ],
+  "partners": [
+   "Försvarets materielverk",
+   "Försvarsmakten"
+  ],
+  "n_appropriations": 1,
+  "appropriations_total_tkr": 865431,
+  "payment_plan_total_tkr": 865431,
+  "md_chars": 13275
+ },
+ "layout": "standard",
+ "warnings": []
+}

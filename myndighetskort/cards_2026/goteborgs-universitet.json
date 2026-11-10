@@ -1,0 +1,939 @@
+{
+ "schema_version": 1,
+ "id": 26409,
+ "original_rbid": 25704,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-06-11",
+ "year": "2026",
+ "name": "Göteborgs universitet",
+ "slug": "goteborgs-universitet",
+ "department": "Utbildningsdepartementet",
+ "expenditure_areas": [
+  16
+ ],
+ "registry_numbers": [
+  "U2026/01202 (delvis)"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1",
+   "2025/26:99"
+  ],
+  "bet": [
+   "2025/26:FiU21",
+   "2025/26:UbU1"
+  ],
+  "rskr": [
+   "2025/26:124",
+   "2025/26:349"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "Gemensamma bestämmelser för universitet och högskolor finns i regleringsbrev för budgetåret 2026 avseende universitet och högskolor.",
+ "goals": [
+  {
+   "title": "Särskilda åtaganden",
+   "group": [],
+   "text": "1. Nordiskt informationscenter för medie- och kommunikationsforskning (Nordicom) har till uppgift att sprida information om medie- och kommunikationsforskning i de nordiska länderna samt att ansvara för grundläggande dokumentation av medieutvecklingen i Sverige. Av årsredovisningen för Göteborgs universitet ska det i fråga om Nordicom framgå datainsamling, publicerade skrifter, kvalitetssäkring, uppgifter om användningen av Nordicoms material, kostnader för genomförande av Mediebarometern och försäljningsintäkter samt totala kostnader för verksamheten. Medel för Nordicom finns anvisade under utgiftsområde 17 Kultur, medier, trossamfund och fritid, anslag 11:2*Forskning och dokumentation om medieutvecklingen*, ap. 1\\*.\\*I Göteborgs universitets budgetunderlag ska en prognos för Nordicoms verksamhet särskilt redovisas.\n\n**2. Göteborgs universitet ska genomföra regelbundet återkommande studier av val och väljarbeteende, främst i samband med ordinarie riksdagsval och Europaparlamentsval. Studierna ska bygga vidare på undersökningsserien svenska valundersökningar (1956–). Resultatet från studierna ska fortlöpande göras tillgängliga för allmänheten. Grundläggande könsuppdelad statistik över väljarbeteende, såsom partival, partibyte, partianhängarskap, intresse, tidpunkt för beslut och viktiga frågor för partival, ska redovisas i rapportform så snart som möjligt efter varje undersökningsomgång. Data från studierna ska tillgängliggöras genom det nationella dataarkivet Svensk nationell datatjänst. Universitetet ska i en särskild rapport redovisa hur verksamheten har bedrivits. Rapporten ska redovisas till Regeringskansliet (Utbildningsdepartementet) senast den 30 december 2026.**\n\n**3. Göteborgs universitet ska med ett rikstäckande perspektiv främja genusforskningen i Sverige inom universitets- och högskolesektorn. Universitetet ska redovisa verksamheten i sin årsredovisning.**\n\n**4. Göteborgs universitet ska bedriva verksamhet inom Havsmiljöinstitutet.**\n\n**5. Göteborgs universitet ska utveckla och sprida kunskap och metoder för att minska rekryteringen av människor till våldsbejakande ideologier och rörelser och till rasistiska organisationer.**",
+   "dates": [
+    "2026-12-30"
+   ],
+   "deadlines": [
+    "2026-12-30"
+   ],
+   "forecast_dates": [],
+   "recipients": [
+    "Regeringskansliet (Utbildningsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [
+    "årsredovisning",
+    "budgetunderlag"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos",
+    "utveckla",
+    "informera",
+    "statistik_data"
+   ],
+   "anslag_refs": [
+    "11:2"
+   ],
+   "expenditure_area_refs": [
+    17
+   ],
+   "sfs_refs": [],
+   "sub_questions": [
+    "Nordiskt informationscenter för medie- och kommunikationsforskning (Nordicom) har till uppgift att sprida information om medie- och kommunikationsforskning i de nordiska länderna samt att ansvara för grundläggande dokumentation av medieutvecklingen i Sverige. Av årsredovisningen för Göteborgs universitet ska det i fråga om Nordicom framgå datainsamling, publicerade skrifter, kvalitetssäkring, uppgifter om användningen av Nordicoms material, kostnader för genomförande av Mediebarometern och försäljningsintäkter samt totala kostnader för verksamheten. Medel för Nordicom finns anvisade under utgiftsområde 17 Kultur, medier, trossamfund och fritid, anslag 11:2*Forskning och dokumentation om medieutvecklingen*, ap. 1\\*.\\*I Göteborgs universitets budgetunderlag ska en prognos för Nordicoms verksamhet särskilt redovisas."
+   ],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26409:goals:0"
+  },
+  {
+   "title": "Rekryteringsmål för professorer",
+   "group": [
+    "Mål"
+   ],
+   "text": "Under 2025–2028 har lärosätet ett mål för könsfördelningen bland nyrekryterade professorer om 55 procent kvinnor.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26409:goals:1"
+  },
+  {
+   "title": "Mål för antal examina",
+   "group": [
+    "Mål"
+   ],
+   "text": "Under 2025–2028 har lärosätet mål om antal utfärdade examina från vissa utbildningar inom nedan angivna områden. Målen och de examina som omfattas av dessa anges i tabellen nedan. Lärosätet ska i årsredovisningen redovisa antalet utfärdade examina inom respektive område de senaste tre åren för de yrkesexamina som anges i tabellen samt vilka åtgärder som har vidtagits för att uppnå målen.\n\n| | |\n| --- | --- |\n| **Område (examina som omfattas av målet inom parentes)** | **Mål för antal utfärdade examina under 2025–2028** |\n| Lärar- och förskollärarutbildningar (förskollärarexamina, grundlärarexamina, speciallärarexamina, specialpedagogexamina, yrkeslärarexamina och ämneslärarexamina) | 4 730 |\n| Hälso- och sjukvårdsutbildningar (barnmorskeexamina, biomedicinsk analytikerexamina, fysioterapeutexamina, sjuksköterskeexamina och specialistsjuksköterskeexamina) | 2 210 |",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "årsredovisning"
+   ],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26409:goals:2"
+  },
+  {
+   "title": "Mål för andel biträdande lektorer",
+   "group": [
+    "Mål"
+   ],
+   "text": "Under 2025–2028 har Göteborgs universitet ett mål att 3 procent av samtlig forskande och undervisande personal (heltidsekvivalenter) ska vara biträdande lektorer.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26409:goals:3"
+  }
+ ],
+ "org": [],
+ "assignments": [
+  {
+   "title": "Pågående uppdrag",
+   "group": [],
+   "text": "**1. Göteborgs universitet ska bistå Universitets- och högskolerådet med att ta fram och utveckla ett medborgarskapsprov. Universitetet ska i årsredovisningen för 2026 beskriva hur arbetet har bedrivits (U2025/01356).**\n\n**2. Göteborgs universitet ska stödja statliga universitet och högskolor i deras arbete mot antisemitism genom utbildning i förekomsten av antisemitism och nutida antisemitiska uttryck. I uppdraget ingår att föreslå åtgärder för att förbättra och förstärka lärosätenas arbete mot antisemitism. I genomförandet av uppdraget ska Göteborgs universitet föra dialog med Forum för levande historia. En delredovisning av uppdraget ska lämnas till Regeringskansliet (Utbildningsdepartementet) senast den 3 augusti 2026. Uppdraget ska redovisas till Regeringskansliet (Utbildningsdepartementet) senast den 2 augusti 2027. Av redovisningen ska framgå vilka insatser som gjorts samt vilka resultat uppdraget bedöms ha bidragit till för lärosätena.**",
+   "dates": [
+    "2026-08-03",
+    "2027-08-02"
+   ],
+   "deadlines": [
+    "2026-08-03",
+    "2027-08-02"
+   ],
+   "recipients": [
+    "Regeringskansliet (Utbildningsdepartementet)"
+   ],
+   "partners": [
+    "Forum för levande historia",
+    "Universitets- och högskolerådet",
+    "universitet och högskolor"
+   ],
+   "channels": [
+    "årsredovisning",
+    "delredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "föreslå",
+    "samordna",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "26409:assignments:0"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "2:7",
+   "name": "Göteborgs universitet: Utbildning på grundnivå och avancerad nivå",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 16,
+    "name": "Utbildning och universitetsforskning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Göteborgs universitet",
+     "amount_tkr": 2543214,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Takbelopp (ram)",
+       "amount_tkr": 2543214
+      },
+      {
+       "ap": "1.1",
+       "name": "Takbelopp (ram)",
+       "amount_tkr": 2543214
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1.1",
+     "name": "Takbelopp",
+     "text": "Anslagsposten får användas för högskoleutbildning på grundnivå och avancerad nivå samt behörighetsgivande och högskoleintroducerande utbildning.\nAnvisningar för avräkning av helårsstudenter och helårsprestationer finns i bilaga till regleringsbrev avseende universitet och högskolor."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "2:8",
+   "name": "Göteborgs universitet: Forskning och utbildning på forskarnivå",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 16,
+    "name": "Utbildning och universitetsforskning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Göteborgs universitet",
+     "amount_tkr": 1941779,
+     "items": [
+      {
+       "ap": "7",
+       "name": "Basresurs (ram)",
+       "amount_tkr": 1941779
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "7",
+     "name": "Basresurs",
+     "text": "Anslagsposten får användas för forskning och utbildning på forskarnivå.\nI anslagsposten ingår 3 760 000 kronor för en förstärkning av konstnärlig forskning och utbildning på forskarnivå.\nI anslagsposten ingår 25 222 000 kronor för det strategiska forskningsområdet Vårdvetenskap.\nI anslagsposten ingår medel för verksamhet avseende statistiska valundersökningar.\n**Bemyndiganden**\nGöteborgs universitet bemyndigas med anledning av medlemskapet i den belgiska juridiska personen EUTOPIA internationale vereniging zondeer winstoogmerk (EUTOPIA IVZW) att besluta om en årlig medlemsavgift på högst 1 000 000 kronor under 2026–2035 (i enlighet med beslut om budgetpropositionen för 2026)."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "7",
+     "max": 1000000,
+     "unit": "kronor"
+    }
+   ]
+  },
+  {
+   "code": "2:65",
+   "name": "Särskilda medel till universitet och högskolor",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 16,
+    "name": "Utbildning och universitetsforskning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Göteborgs universitet",
+     "amount_tkr": 79217,
+     "items": [
+      {
+       "ap": "5",
+       "name": "Uppdrag att utveckla och sprida... (ram)",
+       "amount_tkr": 10947
+      },
+      {
+       "ap": "7",
+       "name": "Nationellt resurscentrum i matematik (ram)",
+       "amount_tkr": 5974
+      },
+      {
+       "ap": "48",
+       "name": "Holdingbolag (ram)",
+       "amount_tkr": 5130
+      },
+      {
+       "ap": "53",
+       "name": "Medel till sjukhusfysikerutbildningen (ram)",
+       "amount_tkr": 1593
+      },
+      {
+       "ap": "62",
+       "name": "Medel för studenthälsa (ram)",
+       "amount_tkr": 4273
+      },
+      {
+       "ap": "122",
+       "name": "Praktiknära forskning (ram)",
+       "amount_tkr": 15800
+      },
+      {
+       "ap": "126",
+       "name": "Kognitionsvetenskap (ram)",
+       "amount_tkr": 1000
+      },
+      {
+       "ap": "136",
+       "name": "Magisterprogram i offentlig förvaltning (ram)",
+       "amount_tkr": 3000
+      },
+      {
+       "ap": "152",
+       "name": "VFU i tandvårdsutbildningar (ram)",
+       "amount_tkr": 27600
+      },
+      {
+       "ap": "153",
+       "name": "Praktiknära forskarskola vård (ram)",
+       "amount_tkr": 3900
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "5",
+     "name": "Uppdrag att utveckla och sprida...",
+     "text": "Anslagsposten får användas för att finansiera universitetets särskilda åtagande om att utveckla och sprida kunskap och metoder för att minska rekryteringen av människor till våldsbejakande ideologier och rörelser och till rasistiska organisationer.\nAnslagsposten får även användas för arbete med att sprida kunskap om arbetsmetoder mot antisemitism till aktörer som har en viktig roll i att motverka antisemitism bland barn och unga, t.ex. genom utbildning som kan ingå i fort- och vidareutbildning av lärare, rektorer och andra relevanta yrkesgrupper. I arbetet ska universitetet föra dialog med relevanta aktörer, t.ex. Forum för levande historia.\nAnslagsposten får även användas för uppdrag att stödja statliga universitet och högskolor i deras arbete mot antisemitism genom utbildning i förekomsten av antisemitism och antisemitiska uttryck.\nAv anslaget är 5 000 000 kronor beräknade för att förstärka förutsättningarna att genom Segerstedtinstitutet arbeta förbyggande mot antisemitism."
+    },
+    {
+     "ap": "7",
+     "name": "Nationellt resurscentrum i matematik",
+     "text": "Anslagsposten får användas för Nationellt resurscentrum i matematik."
+    },
+    {
+     "ap": "48",
+     "name": "Holdingbolag",
+     "text": "Anslagsposten får användas för idébanksmedel samt kapitaltillskott till holdingbolag vid lärosätet för finansiering av verksamhet som syftar till att främja kommersialisering av forskningsresultat och innovationer.\nGöteborgs universitet bemyndigas att under 2026 utbetala ett kapitaltillskott på högst 1 000 000 kronor till holdingbolaget som är knutet till lärosätet. Kapitaltillskottet ska finansiera kostnader för verksamhet som bedrivs i form av en idébank och får lämnas i enlighet med förordningen (2022:1390) om statligt stöd för idébanker inom holdingbolag vid universitet och högskolor.\nGöteborgs universitet bemyndigas att under 2026 utbetala ett kapitaltillskott på högst 4 130 000 kronor till holdingbolaget som är knutet till lärosätet. Kapitaltillskottet ska finansiera kostnader för verksamhet som syftar till att främja kommersialisering av forskningsresultat och innovationer och får lämnas i enlighet med förordningen (2025:727) om statligt stöd för innovationsverksamhet inom holdingbolag vid universitet och högskolor."
+    },
+    {
+     "ap": "53",
+     "name": "Medel till sjukhusfysikerutbildningen",
+     "text": "Anslagsposten får användas för att stärka sjukhusfysikerutbildning."
+    },
+    {
+     "ap": "62",
+     "name": "Medel för studenthälsa",
+     "text": "Anslagsposten får användas för att stärka studenthälsan och bl.a. möjliggöra mer preventivt arbete för att minska studenternas psykiska och fysiska ohälsa samt stärka stödet för studieovana studenter. Av medlen avser 1 920 000 kronor arbete med att särskilt främja psykisk hälsa bland studenter."
+    },
+    {
+     "ap": "122",
+     "name": "Praktiknära forskning",
+     "text": "*Praktiknära forskning*\nAnslagsposten får användas för praktiknära forskning i syfte att bidra till en stärkt vetenskaplig grund i lärar- och förskollärarutbildningen och i skolväsendet. Verksamheten ska utformas och genomföras i samverkan mellan ansvariga universitet, deltagande universitet och högskolor och skolhuvudmän. Varje universitet och högskola ska samverka med flera skolhuvudmän. Det ska finnas en variation bland skolhuvudmännen med avseende på t.ex. storlek, geografiskt läge, skolform och årskurser. Forskningen som bedrivs i samverkan mellan universitet, högskolor och skolhuvudmän ska vara verksamhetsrelevant och generera forskningsresultat av hög kvalitet. Lärare och förskollärare ska ges möjlighet att medverka i planering och genomförande av forskningen.\n*Kartläggning av små ämnen*\nUniversitetet ska stödja och samordna en kartläggning av lärosäten med lärarutbildningar inom en region, där samverkan kan ske både inom och utanför regionen. Av kartläggningen ska framgå de undervisningsämnen eller ämnesområden för vilka det finns en stor risk att dessa inte kan anordnas till följd av ett minskat antal studenter i och med de skärpta tillträdeskraven till vissa lärarutbildningar som införs höstterminen 2027. Vidare ska det i kartläggningen ingå att inventera vilket behov av stöd som finns för dessa små ämnen. Av anslagsposten avser 200 000 kronor under 2026 detta arbete.\nUniversitetet ska senast den 15 oktober 2026 redovisa lärosätets bedömning av behovet av stöd för små ämnen och beräknade kostnader uppdelat per ämnesområde till Regeringskansliet (Utbildningsdepartementet) med kopia till Universitetskanslersämbetet. Redovisningen kan samordnas med redovisningen av utbildningssamarbeten inom lärarutbildningen som framgår av regleringsbrev för budgetåret 2026 avseende anslag 2:64 inom utgiftsområde 16 Utbildning och universitetsforskning, ap. 16."
+    },
+    {
+     "ap": "126",
+     "name": "Kognitionsvetenskap",
+     "text": "Anslagsposten får användas för att förbereda och anordna kompetensutvecklingsinsatser för lärare vid det egna eller andra lärosäten som ska undervisa i kognitionsvetenskap på lärarutbildningarna. Kompetensutvecklingen ska anordnas med flexibla undervisningsformer och möjliggöra deltagande för många lärare inom lärarutbildningarna. Insatserna ska vara inriktade mot olika årskurser, ämnen och ämnesområden och bygga vidare på Skolverkets fortbildningssatsning på högskolekurser inom kognitionsvetenskap och de delar av kognitionsvetenskap som är relevanta för lärarutbildningen, särskilt internationellt etablerad science of learning.\nUniversitetet ska i sin årsredovisning redogöra för vilka kurser eller förberedelser som har genomförts, hur många som har deltagit eller omfattats av planeringen och vid vilka lärosäten deltagarna är verksamma samt hur insatserna har stärkt lärarutbildarnas förmåga att undervisa i kognitionsvetenskap (science of learning). Redovisningen ska även kunna användas som underlag i UKÄ:s utvärdering av lärosätenas arbete med kognitionsvetenskap (U2025/02425)."
+    },
+    {
+     "ap": "136",
+     "name": "Magisterprogram i offentlig förvaltning",
+     "text": "Medlen ska användas för utveckling och bedrivande av ett högkvalitativt magisterprogram i offentlig förvaltning.\nSyftet med satsningen är att öka förutsättningarna för att fler svenskar ska kunna konkurrera om framtida tjänster inom EU:s institutioner, myndigheter och organ för att därigenom öka möjligheterna till inflytande för Sverige samt att stärka kompetensförsörjningen till svenska myndigheter och institutioner för att bidra till en högkvalificerad och effektiv förvaltning i Sverige.\\\nMedlen ger förutsättningar för nytänkande och ska användas för att utveckla och genomföra en utbildning av mycket hög kvalitet och med ett tydligt EU-perspektiv på avancerad nivå. Utbildningen bör avse heltidsstudier och huvudsakligen vara förlagd på campus. En utbildning av mycket hög kvalitet med en förstärkt ersättning per student förutsätter en hög ambitionsnivå, t ex i fråga om ett högre antal undervisningstillfällen, högre lärartäthet, tydlig arbetslivsanknytning, internationalisering och samverkan, men även i fråga om informations- och rekryteringsinsatser för utbildningarna.\\\nAnvändningen av medlen ska redovisas i universitetets årsredovisning för år 2026. Universitetet ska även redovisa antal antagna studenter och helårsstudenter, söktryck samt redovisning av övriga insatser som har gjorts för att säkerställa hög kvalitet.\\\nRegeringen beräknar att 6 000 000 kronor per år kommer att avsättas för utbildningen från och med 2027 under förutsättning att riksdagen anvisat medel för det aktuella anslaget.\\\nUtbildningen beräknas omfatta 30 helårsstudenter när den är fullt utbyggd. De studenter som finansieras med medel från denna anslagspost ger inte lärosätena rätt till någon ersättning inom ordinarie takbelopp."
+    },
+    {
+     "ap": "152",
+     "name": "VFU i tandvårdsutbildningar",
+     "text": "Anslagsposten får användas för ersättning för kostnader för verksamhetsförlagd utbildning (VFU) inom tandläkarutbildning och tandhygienistutbildning i syfte att stärka tillgången till VFU. Av medlen avser 23 950 000 kronor tandläkarutbildning, 2 400 000 kronor tandhygienistutbildning och 1 250 000 kronor tandteknikerutbildning.\nUniversitetet ska i årsredovisningen för 2026 beskriva arbetet för att stärka tillgången till VFU samt eventuella samarbeten med regioner eller privata tandvårdskliniker som ingåtts eller planeras."
+    },
+    {
+     "ap": "153",
+     "name": "Praktiknära forskarskola vård",
+     "text": "Anslagsposten får användas för praktiknära forskarskola.\nGöteborgs universitet ska samordna en praktiknära forskarskola för sjuksköterskor och specialistsjuksköterskor tillsamman med Högskolan i Borås, Högskolan i Halmstad, Högskolan i Skövde och Högskolan Väst. Syftet med forskarskolan är att höja kvaliteten och forskningsanknytningen i utbildningarna genom fler disputerade lärare liksom fler mer kvalificerade handledare inom den verksamhetsförlagda utbildningen (VFU).\nUniversitetet ska redovisa arbetet med forskarskolan i årsredovisningen. Av redovisningen ska framgå inriktning på forskarskolan, hur många doktorander som har antagits och deltagit och samarbete med t.ex. regioner, kommuner och privata vårdgivare. Av redovisningen ska det även framgå inriktning för planerat arbete under kommande år och hur universitetet i arbetet med forskarskolan samverkat med arbetet för att stärka samordningen av VFU-platser."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "48",
+     "max": 1000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "48",
+     "max": 4130000,
+     "unit": "kronor"
+    }
+   ]
+  },
+  {
+   "code": "2:66",
+   "name": "Ersättningar för klinisk utbildning och forskning",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 16,
+    "name": "Utbildning och universitetsforskning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Göteborgs universitet",
+     "amount_tkr": 663555,
+     "items": [
+      {
+       "ap": "3",
+       "name": "Göteborgs universitet (ram)",
+       "amount_tkr": 566279
+      },
+      {
+       "ap": "7",
+       "name": "Göteborgs universitet (ram)",
+       "amount_tkr": 96110
+      },
+      {
+       "ap": "16",
+       "name": "Utvecklingsmedel (ram)",
+       "amount_tkr": 1166
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "3",
+     "name": "Göteborgs universitet",
+     "text": "Anslagsposten får användas för kostnader när det gäller regionens medverkan i utbildning av läkare (ALF-ersättning) i enlighet med det avtal som i september 2014 tecknats mellan staten och vissa landsting om samarbete om utbildning av läkare, klinisk forskning och utveckling av hälso- och sjukvården (ALF-avtalet).\nUniversitetet ersätts för högst 1 290 helårsstudenter inom läkarutbildningen, vilket är det minsta antal helårsstudenter som staten förväntar sig att regionen ska ta emot för den verksamhetsintegrerade utbildningen av läkare.\nGöteborgs universitet ska i årsredovisningen lämna uppgifter om hur ALF-ersättningen har fördelats under 2026 när det gäller lokalkostnader, lönekostnader och övriga kostnader. I årsredovisningen ska universitetet redovisa det totala antalet helårsstudenter på läkarutbildningen."
+    },
+    {
+     "ap": "7",
+     "name": "Göteborgs universitet",
+     "text": "Anslagsposten får användas för kostnader när det gäller regionens medverkan i grundutbildning av tandläkare (TUA-ersättning) i enlighet med det avtal som i augusti 2004 slutits mellan staten och vissa landsting om samarbete om grundutbildning av tandläkare, odontologisk forskning och utveckling av tandvården (TUA-avtalet).\nUniversitetet ersätts för högst 465 helårsstudenter inom tandläkarutbildningen när det gäller kompensation för regionens medverkan i grundutbildningen av tandläkare.\nUniversitetet ska senast i årsredovisningen lämna uppgifter till Regeringskansliet (Utbildningsdepartementet) om hur TUA-ersättningen har fördelats under året när det gäller lokalkostnader, lönekostnader och övriga kostnader. I årsredovisningen ska universitetet redovisa det totala antalet helårsstudenter på tandläkarutbildningen."
+    },
+    {
+     "ap": "16",
+     "name": "Utvecklingsmedel",
+     "text": "Anslagsposten får användas för utvecklingsmedel.\nAv årsredovisningen ska framgå på vilket sätt Göteborgs universitet har använt medlen för att utveckla klinisk utbildning och forskning."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "2:7 Göteborgs universitet: Utbildning på grundnivå och avancerad nivå",
+   "ap": "ap.1.1",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "10 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:8 Göteborgs universitet: Forskning och utbildning på forskarnivå",
+   "ap": "ap.7",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Allt",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.5",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.7",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.48",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.53",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.62",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.122",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.126",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.136",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.152",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.153",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:66 Ersättningar för klinisk utbildning och forskning",
+   "ap": "ap.3",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:66 Ersättningar för klinisk utbildning och forskning",
+   "ap": "ap.7",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:66 Ersättningar för klinisk utbildning och forskning",
+   "ap": "ap.16",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 1200000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 432773
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 432773
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 432773
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 432773
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 433148
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 433148
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 438398
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 438398
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 438398
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 438398
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 438398
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 438387
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "2:7 Göteborgs universitet: Utbildning på grundnivå och avancerad nivå",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1.1",
+     "0",
+     "10 %",
+     "0"
+    ],
+    [
+     "2:8 Göteborgs universitet: Forskning och utbildning på forskarnivå",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.7",
+     "0",
+     "Allt",
+     "0"
+    ],
+    [
+     "2:65 Särskilda medel till universitet och högskolor",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.5",
+     "0",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.7",
+     "0",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.48",
+     "0",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.53",
+     "0",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.62",
+     "0",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.122",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.126",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.136",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.152",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.153",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "2:66 Ersättningar för klinisk utbildning och forskning",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.3",
+     "0",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.7",
+     "0",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.16",
+     "0",
+     "3 %",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Omfördelning av anslagssparande",
+   "rows": [
+    [
+     "Omfördelning från anslag/ap1",
+     "Omfördelning till anslag/ap2",
+     "Belopp (tkr)",
+     "Belopp andel (%)"
+    ],
+    [
+     "2:7 Göteborgs universitet: Utbildning på grundnivå och avancerad nivå",
+     "",
+     "",
+     ""
+    ],
+    [
+     "2:7 ap.1.2",
+     "2:7 ap.1.1",
+     "100 %"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Avslutade anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagstyp"
+    ],
+    [
+     "2:7 Göteborgs universitet: Utbildning på grundnivå och avancerad nivå",
+     ""
+    ],
+    [
+     "ap.1.2",
+     "ram"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "1 200 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "432 773"
+    ],
+    [
+     "2026-02-25",
+     "432 773"
+    ],
+    [
+     "2026-03-25",
+     "432 773"
+    ],
+    [
+     "2026-04-25",
+     "432 773"
+    ],
+    [
+     "2026-05-25",
+     "433 148"
+    ],
+    [
+     "2026-06-25",
+     "433 148"
+    ],
+    [
+     "2026-07-25",
+     "438 398"
+    ],
+    [
+     "2026-08-25",
+     "438 398"
+    ],
+    [
+     "2026-09-25",
+     "438 398"
+    ],
+    [
+     "2026-10-25",
+     "438 398"
+    ],
+    [
+     "2026-11-25",
+     "438 398"
+    ],
+    [
+     "2026-12-25",
+     "438 387"
+    ],
+    [
+     "Summa",
+     "5 227 765"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "2:7 ap.1.1",
+     "Takbelopp"
+    ],
+    [
+     "2:8 ap.7",
+     "Basresurs"
+    ],
+    [
+     "2:65 ap.5",
+     "Uppdrag att utveckla och sprida..."
+    ],
+    [
+     "2:65 ap.7",
+     "Nationellt resurscentrum i matematik"
+    ],
+    [
+     "2:65 ap.48",
+     "Holdingbolag"
+    ],
+    [
+     "2:65 ap.53",
+     "Medel till sjukhusfysikerutbildningen"
+    ],
+    [
+     "2:65 ap.62",
+     "Medel för studenthälsa"
+    ],
+    [
+     "2:65 ap.122",
+     "Praktiknära forskning"
+    ],
+    [
+     "2:65 ap.126",
+     "Kognitionsvetenskap"
+    ],
+    [
+     "2:65 ap.136",
+     "Magisterprogram i offentlig förvaltning"
+    ],
+    [
+     "2:65 ap.152",
+     "VFU i tandvårdsutbildningar"
+    ],
+    [
+     "2:65 ap.153",
+     "Praktiknära forskarskola vård"
+    ],
+    [
+     "2:66 ap.3",
+     "Göteborgs universitet"
+    ],
+    [
+     "2:66 ap.7",
+     "Göteborgs universitet"
+    ],
+    [
+     "2:66 ap.16",
+     "Utvecklingsmedel"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [],
+ "has_fee_section": false,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 4,
+  "n_org": 0,
+  "n_assignments": 1,
+  "n_deadlines": 3,
+  "deadlines": [
+   "2026-08-03",
+   "2026-12-30",
+   "2027-08-02"
+  ],
+  "partners": [
+   "Forum för levande historia",
+   "Universitets- och högskolerådet",
+   "universitet och högskolor"
+  ],
+  "n_appropriations": 4,
+  "appropriations_total_tkr": 5227765,
+  "payment_plan_total_tkr": 5227765,
+  "md_chars": 23101
+ },
+ "layout": "standard",
+ "warnings": []
+}

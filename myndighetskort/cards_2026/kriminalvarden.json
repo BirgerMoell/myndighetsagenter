@@ -1,0 +1,935 @@
+{
+ "schema_version": 1,
+ "id": 26428,
+ "original_rbid": 25910,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-07-02",
+ "year": "2026",
+ "name": "Kriminalvården",
+ "slug": "kriminalvarden",
+ "department": "Justitiedepartementet",
+ "expenditure_areas": [
+  4
+ ],
+ "registry_numbers": [
+  "Ju2026/01683"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1"
+  ],
+  "bet": [
+   "2025/26:JuU1"
+  ],
+  "rskr": [
+   "2025/26:101"
+  ]
+ },
+ "n_attachments_stated": 1,
+ "mission": "Kriminalvårdens huvudsakliga uppgifter framgår av förordningen (2023:797) med instruktion för Kriminalvården.\n\nBrottsligheten ska minska och människors trygghet ska öka. Genom att fullgöra sina uppgifter ska Kriminalvården bidra till en sådan utveckling.",
+ "goals": [
+  {
+   "title": "Ökad kapacitet",
+   "group": [],
+   "text": "Kriminalvården ska redovisa vilka åtgärder, inom beräknade ekonomiska ramar, som har vidtagits för att säkerställa att platskapaciteten svarar mot prognostiserade behov i enlighet med regeringens aviserade reformer i budgetpropositionen för 2026. Av redovisningen ska särskilt framgå vilka åtgärder för att skapa fler platser som har vidtagits med anledning av det som föranlett anslagstillskott för 2026. Kriminalvården ska prioritera åtgärder som innebär tillskott av anstaltsplatser.\n\nMyndigheten ska även redovisa sitt arbete med att anpassa organisation och arbetssätt i syfte att åstadkomma en snabb, effektiv och säker expansion med god kostnadskontroll. Redovisningen ska i denna del inkludera vidtagna och planerade åtgärder bl.a. avseende upphandling och ekonomistyrning.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "prognos",
+    "tillsyn_kontroll"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26428:goals:0"
+  },
+  {
+   "title": "Återfallsförebyggande arbete",
+   "group": [],
+   "text": "Mot bakgrund av den ansträngda beläggningen och åtgärder för att skapa fler platser ska Kriminalvården redovisa vidtagna och planerade åtgärder som syftar till att upprätthålla ett kvalitativt återfallsförebyggande arbete. Redovisningen ska omfatta såväl utbildning, arbete och behandling som annan strukturerad verksamhet och NAV, med särskilt fokus på insatser riktade mot barn och unga.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26428:goals:1"
+  },
+  {
+   "title": "Barn i häkte eller verkställighet",
+   "group": [],
+   "text": "Kriminalvården ska redovisa myndighetens arbete med barn i häkte, anstalt och frivård. Myndigheten ska redovisa vidtagna och planerade åtgärder för att möta de olika behov som finns hos barn. Av redovisningen ska särskilt framgå åtgärder för barn med neuropsykiatriska eller intellektuella funktionsnedsättningar.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26428:goals:2"
+  },
+  {
+   "title": "Säkerhet",
+   "group": [],
+   "text": "Kriminalvården ska redovisa hur myndigheten har arbetat för att upprätthålla en god säkerhet, inklusive skydd mot otillåten och otillbörlig påverkan, med särskilt fokus på säkerheten i samband med myndighetens expansion.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26428:goals:3"
+  },
+  {
+   "title": "Förutsättningar för digitala förhandlingar",
+   "group": [],
+   "text": "Kriminalvården ska redovisa hur de, inom ramen för myndighetens ansvarsområde, har arbetat för att öka möjligheten att genomföra digitala förhandlingar. Redovisningen ska också omfatta en beskrivning av samarbetet med Domstolsverket i frågan.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Domstolsverket"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26428:goals:4"
+  }
+ ],
+ "org": [],
+ "assignments": [
+  {
+   "title": "Plan för utökad kapacitet",
+   "group": [],
+   "text": "Kriminalvården ska, samtidigt som budgetunderlaget 2027, lämna in en prognos för klientvolymer per verksamhetsgren för perioden 2026–2035. Prognosen ska även omfatta dömda som är på fri fot i avvaktan på verkställighet. Klientvolymerna ska beräknas och redovisas med utgångspunkt i\n\n- dels gällande lagstiftning den 1 januari 2026, och\n- dels vad som följer av genomförandet av samtliga förslag som finansieras i budgetpropositionen för 2026.\n\nBaserat på ovan ska Kriminalvården redovisa en plan för hur platskapaciteten ska öka för att svara mot det prognostiserade behovet och rymmas inom beräknade ekonomiska ramar.\n\nAv redovisningen ska även framgå hur mycket av befintligt bestånd som är uppbundet till vilken kostnad och under vilken tid samt hur myndigheten arbetar för att skapa en flexibel och kostnadseffektiv anläggningsstruktur som kan skalas upp eller ner vid förändrade behov.",
+   "dates": [
+    "2026-01-01"
+   ],
+   "deadlines": [],
+   "forecast_dates": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "budgetunderlag"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "dels gällande lagstiftning den 1 januari 2026, och",
+    "dels vad som följer av genomförandet av samtliga förslag som finansieras i budgetpropositionen för 2026."
+   ],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26428:assignments:0"
+  },
+  {
+   "title": "Prognos för klientvolymer av icke-tidsatta reformer",
+   "group": [],
+   "text": "Kriminalvården ska, i samband med redovisningen av planen för utökad kapacitet, redovisa en prognos för de ytterligare klientvolymer som följer av\n\n- övriga förslag i betänkandet En straffreform (SOU 2025:66) enligt vad som anges i budgetpropositionen för 2026, respektive\n- prop. 2025/26:34 avseende de lagändringar om höjning av andelen av strafftiden som måste avtjänas innan villkorlig frigivning kan ske som ska träda i kraft den dag som regeringen bestämmer.\n\nMyndighetens redovisning ska belysa det som redogörs för i angiven proposition, exempelvis i frågan om ikraftträdande för höjning av andelen av strafftiden som ska avtjänas innan villkorlig frigivning och frågan om huruvida villkorlig frigivning endast ska kunna beviljas om det finns särskilda skäl (jfr prop. 2025/26:34 s. 30–31).\n\nMyndigheten ska redovisa en bedömning av hur platsbehovet med anledning av samtliga reformer kan omhändertas som tidigast och till vilken kostnad.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "prognos",
+    "analysera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "övriga förslag i betänkandet En straffreform (SOU 2025:66) enligt vad som anges i budgetpropositionen för 2026, respektive",
+    "prop. 2025/26:34 avseende de lagändringar om höjning av andelen av strafftiden som måste avtjänas innan villkorlig frigivning kan ske som ska träda i kraft den dag som regeringen bestämmer."
+   ],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26428:assignments:1"
+  },
+  {
+   "title": "Uppföljning av plan för utökad kapacitet",
+   "group": [],
+   "text": "Kriminalvården ska senast den 30 september 2026 redovisa en uppdaterad prognos för klientvolymer och platsbehov avseende perioden 2026-2035 med utgångspunkt i gällande lagstiftning och samtliga förslag som finansierats i budgetpropositionen för 2026. Orsaker till förändringar av klientprognosen ska så långt möjligt specificeras. Redovisningen ska även innehålla en uppdaterad bedömning av de ekonomiska konsekvenserna och en beskrivning av myndighetens hantering av dessa inom beslutade och beräknade ekonomiska ramar.\n\nKriminalvården ska också redovisa\n\n- status för planerade och pågående fastighetsprojekt, inklusive möjligheten att konvertera redan befintliga industrilokaler och andra lämpliga lokaler på fastighetsmarknaden,\n- eventuella avvikelser från utbyggnadsplanen, orsakerna till samt konsekvenserna av dessa, och\n- eventuella förändringar i förutsättningarna för att skapa en flexibel och kostnadseffektiv anläggningsstruktur.\n\nKriminalvården ska därutöver redovisa en uppdaterad prognos för klientvolymer av icke-tidsatta reformer mot bakgrund av förslagen i propositionen Ett nytt straffrättsligt påföljdssystem (prop. 2025/26:297) och propositionen Skärpta regler för villkorlig frigivning (prop. 2025/26:34) samt när dessa förslag kan träda i kraft. Redovisningen ska inkludera en redogörelse för förslagens effekt på platsbehov, kostnader och övriga konsekvenser för myndigheten.",
+   "dates": [
+    "2026-09-30"
+   ],
+   "deadlines": [
+    "2026-09-30"
+   ],
+   "forecast_dates": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "prognos",
+    "analysera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "status för planerade och pågående fastighetsprojekt, inklusive möjligheten att konvertera redan befintliga industrilokaler och andra lämpliga lokaler på fastighetsmarknaden,",
+    "eventuella avvikelser från utbyggnadsplanen, orsakerna till samt konsekvenserna av dessa, och",
+    "eventuella förändringar i förutsättningarna för att skapa en flexibel och kostnadseffektiv anläggningsstruktur."
+   ],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26428:assignments:2"
+  },
+  {
+   "title": "Bedömningar av verksamhetsvolymer i brottmålsprocessen",
+   "group": [],
+   "text": "Kriminalvården ska tillsammans med Polismyndigheten, Åklagarmyndigheten, Ekobrottsmyndigheten, Domstolsverket och Brottsförebyggande rådet fortsätta arbetet med att bedöma framtida verksamhetsvolymer i brottmålsprocessen. Arbetet ska bedrivas med utgångspunkt i det uppdrag som gavs till myndigheterna i oktober 2019 (Ju2019/01057). Uppdraget innefattar att fortsätta utveckla arbetet för att bedömningarna ska öka förståelsen för resursbehov och brottmålsprocessen som en helhet. Myndigheterna ska gemensamt redovisa sina resultat till Regeringskansliet (Justitiedepartementet) senast den 1 mars 2027.",
+   "dates": [
+    "2027-03-01"
+   ],
+   "deadlines": [
+    "2027-03-01"
+   ],
+   "recipients": [
+    "Regeringskansliet (Justitiedepartementet)"
+   ],
+   "partners": [
+    "Brottsförebyggande rådet",
+    "Domstolsverket",
+    "Ekobrottsmyndigheten",
+    "Polismyndigheten",
+    "Åklagarmyndigheten"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26428:assignments:3"
+  },
+  {
+   "title": "Överförande av verkställighet av frihetsberövande påföljder",
+   "group": [],
+   "text": "Kriminalvården ska två gånger per år till Regeringskansliet (Justitiedepartementet) inkomma med uppgifter om antal utländska medborgare med pågående fängelseverkställigheter, fördelat per land. Kriminalvården ska härutöver samtidigt redovisa följande uppgifter för den senaste sexmånadersperioden;\n\n- antal utländska medborgare som påbörjat fängelseverkställighet, fördelat per land och i strafftidsintervall,\n- antal initierade ärenden och antal beslut om överförande per land, samt\n- antal faktiskt genomförda överföranden per land och i intervall om återstående strafftid.\n\nRedovisningar ska lämnas senast den 17 augusti 2026 (för perioden 1 januari-30 juni 2026) och den 15 februari 2027 (för perioden 1 juli-31 december 2026). Av regleringsbrevet för budgetåret 2025 följer att en redovisning även ska lämnas den 16 februari 2026 (för perioden 1 juli-31 december 2025).\n\nKriminalvården ska löpande hålla Regeringskansliet (Justitiedepartementet) informerat om hinder som myndigheten möter i arbetet på området samt när återkommande svårigheter i samband med ärendehanteringen i förhållande till specifika länder identifieras.",
+   "dates": [
+    "2025-12-31",
+    "2026-02-16",
+    "2026-06-30",
+    "2026-08-17",
+    "2026-12-31",
+    "2027-02-15"
+   ],
+   "deadlines": [
+    "2026-08-17"
+   ],
+   "recipients": [
+    "Regeringskansliet (Justitiedepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "fördela_medel",
+    "informera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "antal utländska medborgare som påbörjat fängelseverkställighet, fördelat per land och i strafftidsintervall,",
+    "antal initierade ärenden och antal beslut om överförande per land, samt",
+    "antal faktiskt genomförda överföranden per land och i intervall om återstående strafftid."
+   ],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26428:assignments:4"
+  },
+  {
+   "title": "Informationsinsatser för att uppmuntra frivillig återvandring",
+   "group": [],
+   "text": "Kriminalvården ska bistå Migrationsverket i arbetet med att informera om möjligheten till stöd för frivillig återvandring. I arbetet ska myndigheten ta stöd av Migrationsverket och den nationella samordnaren för frivillig återvandring (Ju2025:14). Kriminalvården ska rapportera till Regeringskansliet (Justitiedepartementet) vilka informationsinsatser som har genomförts senast den 30 september 2026.",
+   "dates": [
+    "2026-09-30"
+   ],
+   "deadlines": [
+    "2026-09-30"
+   ],
+   "recipients": [
+    "Regeringskansliet (Justitiedepartementet)"
+   ],
+   "partners": [
+    "Migrationsverket"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "informera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26428:assignments:5"
+  },
+  {
+   "title": "Utveckling av individdata",
+   "group": [],
+   "text": "Kriminalvården ska påbörja utvecklingsarbete av myndighetens system för uppföljning i syfte att underlätta uppföljning och utvärdering av myndighetens arbete och kriminalpolitiska reformer. Kriminalvården ska under arbetet inhämta synpunkter från Brottsförebyggande rådet. Kriminalvården ska senast den 15 december 2026 redovisa status samt förutsättningar för det fortsatta utvecklingsarbetet.",
+   "dates": [
+    "2026-12-15"
+   ],
+   "deadlines": [
+    "2026-12-15"
+   ],
+   "recipients": [],
+   "partners": [
+    "Brottsförebyggande rådet"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26428:assignments:6"
+  },
+  {
+   "title": "Förbereda anslutning till säker digital kommunikation",
+   "group": [],
+   "text": "Kriminalvården ska under 2026 fortsätta att förbereda för anslutning till den infrastruktur för säker digital kommunikation som Myndigheten för digital förvaltning tillhandahåller. Kriminalvården ska löpande hålla Regeringskansliet (Justitiedepartementet) samt Myndigheten för digital förvaltning informerade om arbetet.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Myndigheten för digital förvaltning"
+   ],
+   "channels": [],
+   "task_types": [
+    "utveckla",
+    "informera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26428:assignments:7"
+  },
+  {
+   "title": "Förberedelse för Rakel generation 2",
+   "group": [],
+   "text": "Kriminalvården ska fortsätta att förbereda för införandet av ett nytt kommunikationssystem, Rakel generation 2, som ska ersätta befintliga Rakel. Kriminalvården ska redovisa vilka åtgärder myndigheten har vidtagit för att påbörja arbetet med nödvändiga systemanpassningar. Arbetet ska ske i dialog med Myndigheten för civilt försvar och vid behov andra berörda aktörer. Kriminalvården ska senast den 15 september 2026 till Regeringskansliet (Justitiedepartementet) redovisa hur arbetet med förberedelserna fortskrider.",
+   "dates": [
+    "2026-09-15"
+   ],
+   "deadlines": [
+    "2026-09-15"
+   ],
+   "recipients": [
+    "Regeringskansliet (Justitiedepartementet)"
+   ],
+   "partners": [
+    "Myndigheten för civilt försvar"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26428:assignments:8"
+  },
+  {
+   "title": "Stärka förmågan inom civilt försvar",
+   "group": [],
+   "text": "Kriminalvården ska vidta åtgärder för att stärka kontinuiteten i den verksamhet som är nödvändig under höjd beredskap och krig, bland annat avseende försörjningsberedskap och ledningsfunktioner. Åtgärderna ska syfta till att utveckla och stärka det civila försvaret och därmed bidra till en högre samlad förmåga inom totalförsvaret. Kriminalvården ska redovisa vidtagna åtgärder och resultat av dessa. Uppdraget ska redovisas till Regeringskansliet (Justitiedepartementet och Försvarsdepartementet) senast den 22 februari 2027. Detta ska ingå i den särskilda redovisningen för civilt försvar.",
+   "dates": [
+    "2027-02-22"
+   ],
+   "deadlines": [
+    "2027-02-22"
+   ],
+   "recipients": [
+    "Regeringskansliet (Justitiedepartementet och Försvarsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26428:assignments:9"
+  },
+  {
+   "title": "Prognoser",
+   "group": [],
+   "text": "Kriminalvården ska redovisa finansiella prognoser för 2026-2029 vid nedanstående prognostillfällen.\n\n2 februari\n\n22 april\n\n24 juli\n\n9 november\n\nPrognoserna ska kommenteras i förhållande till föregående prognostillfälle samt till tillgängliga och beräknade medel enligt budgeten. Av kommentarerna ska framgå vilka antaganden som använts i prognosen, vilka osäkerhetsfaktorer som finns och vad som orsakat eventuella förändringar.\n\nDe finansiella prognoserna ska lämnas i informationssystemet Hermes. Prognoskommentarer lämnas även i särskild bilaga till Regeringskansliet (Justitiedepartementet). Prognoserna ska även avse utgiftsområde 7 anslag 1:1 samt utgiftsområde 8 anslag 1:7.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [
+    "Regeringskansliet (Justitiedepartementet)"
+   ],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [
+    "1:1",
+    "1:7"
+   ],
+   "expenditure_area_refs": [
+    7,
+    8
+   ],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26428:assignments:10"
+  },
+  {
+   "title": "Kriminalvårdens skolverksamhet för barn och unga",
+   "group": [],
+   "text": "Kriminalvården och Statens skolverk ska, med utgångspunkt i promemorian Kriminalvårdens skolverksamhet för barn och unga (U2025/02404), gemensamt analysera vilket eller vilka program motsvarande yrkesprogram i gymnasieskolan, och i förekommande fall\\\ninriktningar inom dessa program, som Kriminalvården bör kunna erbjuda inom ramen för sin skolverksamhet. Myndigheterna ska även analysera hur utbildning motsvarande introduktionsprogrammet yrkesintroduktion bör kunna erbjudas. Vidare ska myndigheterna analysera vilket eller vilka program motsvarande nationella program i anpassade gymnasieskolan som Kriminalvården bör kunna erbjuda inom ramen för sin skolverksamhet. Vid genomförandet av uppdraget ska särskild hänsyn tas till att utbildningen ska anordnas i kriminalvårdsanstalt. I uppdraget ingår också att analysera möjligheterna för eleverna att efter genomförd utbildning etablera sig på arbetsmarknaden. Skolverket ska vara samordnande myndighet för uppdraget. Skolverket ska redovisa uppdraget till Regeringskansliet (Utbildningsdepartementet och Justitiedepartementet) senast den 30 september 2026.",
+   "dates": [
+    "2026-09-30"
+   ],
+   "deadlines": [
+    "2026-09-30"
+   ],
+   "recipients": [
+    "Regeringskansliet (Utbildningsdepartementet och Justitiedepartementet)"
+   ],
+   "partners": [
+    "Statens skolverk"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26428:assignments:11"
+  },
+  {
+   "title": "Pågående uppdrag",
+   "group": [],
+   "text": "| | | |\n| --- | --- | --- |\n| **Uppdrag** | **Beslut om uppdrag** | **Datum för redovisning** |\n| Förbereda förhyrning av anstaltsplatser i Estland | Ju2025/01478 | Löpande |\n| Redovisa resultat inom ramen för regeringens program för jämställdhetsintegrering | A2024/017457 | 26 januari 2026 |\n| Åtgärder för ett stärkt civilt försvar | Regleringsbrev 2025 | 22 februari 2026 |\n| Säkerställa proaktivitet och handlingskraft vid fredstida krissituationer eller krig och krigsfara | Regleringsbrev 2025 | 22 februari 2026 |\n| Personallån mellan beredskapsmyndigheter | Fö2025/00670 | 23 februari 2026 |\n| Fortsatt stöd till befintliga etableringar av GVI | Ju2024/00221 | 1 mars 2026 |\n| Bedömningar av verksamhetsvolymer i brottmålsprocessen | Regleringsbrev 2025 | 2 mars 2026 |\n| Förbereda inrättandet av särskilda enheter för unga i åldern 15-17 år inom Kriminalvården inklusive kompletteringsuppdrag avseende barn och unga 13-14 år | Ju2023/02157 Ju2025/02195 | 1 april 2026 |\n| Stöd till barn och unga som rikserar att begå eller begår grova brott med koppling till organiserad brottslighet | Ju2025/00846 | 29 april 2026 |\n| Vidareutveckla åtgärder för att motverka återfall i brott | Ju2024/01770 (delvis) | 29 april 2026 och 1 december 2026 |\n| Myndighetsgemensam plan för bättre beroendevård | S2025/01284 (delvis) | 1 juni 2026 (av Folkhälsomyndigheten och Socialstyrelsen) |\n| Motverka överskuldsättning bland kriminalvårdsklienter i anstalt och häkte | Ju2024/01770 (delvis) | 15 juni 2026 |\n| Stärkt samverkan för att förebygga mäns våld mot kvinnor, m.m. | Ju2024/01453 | 15 oktober 2026 |\n| Implementera och utvärdera behandlingsprogram för personer som utövar våld mot närstående | A2023/01448 | 22 oktober 2026 och 15 december 2028 |\n| Samordna utvecklingen av effektiv informationsdelning i arbetet mot brott | Fi2025/01460 | 31 augusti 2026 (av Skatteverket) |\n| Medverka i genomförandet av den nationella strategin inom området psykisk hälsa och suicidprevention | S2025/00016 (delvis) | 19 december 2028 (av Folkhälsomyndigheten och Socialstyrelsen) |\n| Gemensamma förutsättningar för utvecklingen av totalförsvaret 2025–2030 | Fö2024/02054 (delvis) | 1 mars 2029 (av Försvarsmakten och Myndigheten för civilt försvar) |\n| Strategi för systematisk uppföljning av funktionshinderspolitiken 2021–2031 | S2021/06595 S2025/01367 | Årligen den 1 februari till Myndigheten för delaktighet samt i årsredovisningen för 2025 |\n| Strategi för en jämställd kriminalvård 2022-2025 | Regleringsbrev 2021 | Årligen i årsredovisningen |\n| Bidra till att genomföra FN:s säkerhetsrådsresolutioner om kvinnor, fred och säkerhet med utgångspunkt i den nationella handlingsplanen 2024-2028 | Regleringsbrev 2024 | Årligen i årsredovisningen |\n| Inriktning för civilt försvar 2025-2030 | Fö2024/02054 | Årligen i samband med årsredovisningen |\n\n*För regeringsuppdrag som lämnats i ett särskilt regeringsbeslut utgör tabellen endast en upplysning om vilka uppdrag som vid årets början var riktade till myndigheten och vilka tider som då gällde för återrapportering eller liknande.*",
+   "dates": [
+    "2026-01-26",
+    "2026-02-22",
+    "2026-02-23",
+    "2026-03-01",
+    "2026-03-02",
+    "2026-04-01",
+    "2026-04-29",
+    "2026-06-01",
+    "2026-06-15",
+    "2026-08-31",
+    "2026-10-15",
+    "2026-10-22",
+    "2026-12-01",
+    "2028-12-15",
+    "2028-12-19",
+    "2029-03-01"
+   ],
+   "deadlines": [],
+   "recipients": [
+    "Myndigheten för delaktighet"
+   ],
+   "partners": [
+    "Folkhälsomyndigheten",
+    "Försvarsmakten",
+    "Myndigheten för civilt försvar",
+    "Myndigheten för delaktighet",
+    "Skatteverket",
+    "Socialstyrelsen"
+   ],
+   "channels": [
+    "årsredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna",
+    "utveckla",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "26428:assignments:12"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "1:6",
+   "name": "Kriminalvården",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 4,
+    "name": "Rättsväsendet"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Kriminalvården",
+     "amount_tkr": 24204721,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Kriminalvården (ram)",
+       "amount_tkr": 24092721
+      },
+      {
+       "ap": "2",
+       "name": "Anstaltsplatser utomlands (ram)",
+       "amount_tkr": 112000
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Kriminalvården",
+     "text": "**1. Anslaget får användas för verksamheten inom Kriminalvården, för bidrag till Svenska Kriminalvårdens Idrottsförbund, för ersättning åt ledamöter med flera i övervakningsnämnderna samt för övervakare, biträdande övervakare och förtroendemän.**\n**2. Från anslaget får högst 40 000 000 kronor användas för bidrag till organisationer som avses i 1 § förordningen (2025:669) om statsbidrag till vissa organisationer inom kriminalvårdens område.**\n**3. Kriminalvården ska kunna använda och samverka med det gemensamma radiokommunikationssystemet Rakel. Kriminalvården ska betala 74 057 000 kronor till Myndigheten för civilt försvar som abonnemangsavgift för detta system. Beloppet ska betalas efter fakturering från Myndigheten för civilt försvar.**"
+    },
+    {
+     "ap": "2",
+     "name": "Anstaltsplatser utomlands",
+     "text": "Anslagsposten får användas för kostnader för förhyrning av anstaltsplatser utomlands, undantaget de myndighetsgemensamma kostnader som finansieras via ap. 1 Kriminalvården."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "1",
+     "max": 40000000,
+     "unit": "kronor"
+    }
+   ]
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "1:6 Kriminalvården",
+   "ap": "ap.1",
+   "Anslagskredit": 722781,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:6 Kriminalvården",
+   "ap": "ap.2",
+   "Anslagskredit": 3360,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 6700000,
+  "Räntekontokredit": 2375000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 2007727
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 2007727
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 2007727
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 2007727
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 2007727
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 2007727
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 2026397
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 2026393
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 2026393
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 2026393
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 2026393
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 2026390
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:6 Kriminalvården",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "722 781",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.2",
+     "3 360",
+     "Inget",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "6 700 000"
+    ],
+    [
+     "Räntekontokredit",
+     "2 375 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "2 007 727"
+    ],
+    [
+     "2026-02-25",
+     "2 007 727"
+    ],
+    [
+     "2026-03-25",
+     "2 007 727"
+    ],
+    [
+     "2026-04-25",
+     "2 007 727"
+    ],
+    [
+     "2026-05-25",
+     "2 007 727"
+    ],
+    [
+     "2026-06-25",
+     "2 007 727"
+    ],
+    [
+     "2026-07-25",
+     "2 026 397"
+    ],
+    [
+     "2026-08-25",
+     "2 026 393"
+    ],
+    [
+     "2026-09-25",
+     "2 026 393"
+    ],
+    [
+     "2026-10-25",
+     "2 026 393"
+    ],
+    [
+     "2026-11-25",
+     "2 026 393"
+    ],
+    [
+     "2026-12-25",
+     "2 026 390"
+    ],
+    [
+     "Summa",
+     "24 204 721"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "1:6 ap.1",
+     "Kriminalvården"
+    ],
+    [
+     "1:6 ap.2",
+     "Anstaltsplatser utomlands"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Uppdragverksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Arbetsdrift2",
+     "0",
+     "0",
+     "125 000",
+     "125 000",
+     "0",
+     "0"
+    ],
+    [
+     "Praktisk arbetsträning2",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0"
+    ],
+    [
+     "Måltider2",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0"
+    ],
+    [
+     "Praktisk arbetsträning3",
+     "10 000"
+    ],
+    [
+     "Måltider1",
+     "0",
+     "0",
+     "23 000",
+     "23 000",
+     "0",
+     "0"
+    ],
+    [
+     "Summa",
+     "0",
+     "0",
+     "158 000",
+     "148 000",
+     "0",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga inkomster",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Beräknade övriga inkomster som disponeras",
+     "43 150"
+    ],
+    [
+     "Beräknade övriga inkomster som inte disponeras",
+     "4 000"
+    ]
+   ]
+  }
+ ],
+ "has_fee_section": true,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 5,
+  "n_org": 0,
+  "n_assignments": 13,
+  "n_deadlines": 6,
+  "deadlines": [
+   "2026-08-17",
+   "2026-09-15",
+   "2026-09-30",
+   "2026-12-15",
+   "2027-02-22",
+   "2027-03-01"
+  ],
+  "partners": [
+   "Brottsförebyggande rådet",
+   "Domstolsverket",
+   "Ekobrottsmyndigheten",
+   "Folkhälsomyndigheten",
+   "Försvarsmakten",
+   "Migrationsverket",
+   "Myndigheten för civilt försvar",
+   "Myndigheten för delaktighet",
+   "Myndigheten för digital förvaltning",
+   "Polismyndigheten",
+   "Skatteverket",
+   "Socialstyrelsen",
+   "Statens skolverk",
+   "Åklagarmyndigheten"
+  ],
+  "n_appropriations": 1,
+  "appropriations_total_tkr": 24204721,
+  "payment_plan_total_tkr": 24204721,
+  "md_chars": 20721
+ },
+ "layout": "standard",
+ "warnings": []
+}

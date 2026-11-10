@@ -1,0 +1,853 @@
+{
+ "schema_version": 1,
+ "id": 26300,
+ "original_rbid": 25852,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-05-07",
+ "year": "2026",
+ "name": "Stockholms universitet",
+ "slug": "stockholms-universitet",
+ "department": "Utbildningsdepartementet",
+ "expenditure_areas": [
+  16
+ ],
+ "registry_numbers": [
+  "U2025/02159 (delvis)",
+  "U2026/00978"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1"
+  ],
+  "bet": [
+   "2025/26:UbU1"
+  ],
+  "rskr": [
+   "2025/26:124"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "Gemensamma bestämmelser för universitet och högskolor finns i regleringsbrev för budgetåret 2026 avseende universitet och högskolor.",
+ "goals": [
+  {
+   "title": "Särskilda åtaganden",
+   "group": [],
+   "text": "1. Universitet och högskolor samt enskilda utbildningsanordnare med tillstånd att utfärda examina enligt lagen (1993:792) om tillstånd att utfärda vissa examina får hos Stockholms universitet ansöka om bidrag för pedagogiskt stöd, inklusive teckenspråkstolkning, för studenter som upplever funktionshinder i studiesituationen för de kostnader som överstiger 0,3 procent av anslaget eller bidraget för utbildning på grundnivå och avancerad nivå. I mån av behov ska universitetet fördela de nationella medel som anvisas för detta ändamål under utgiftsområde 16 Utbildning och universitetsforskning, anslag 2:65*Särskilda medel för universitet och högskolor*, ap. 11, genom utbetalning till berört lärosäte. Universitetet ska besluta om hur arbetet ska organiseras.\n\nAv årsredovisningen ska framgå vilka åtgärder som har vidtagits vid universitet och högskolor för att förbättra situationen för studenterna i fråga och kostnaderna för de pedagogiska stödåtgärderna. Vidare ska det kända antalet studenter som upplever funktionshinder i studiesituationen med fördelning per funktionsnedsättning och kön framgå. Sammanställningen ska redovisas på nationell nivå.\n\n**2. Stockholms universitet ska varje läsår erbjuda utbildning i ämnena finska, lettiska, litauiska, portugisiska, strålningsbiologi och svenskt teckenspråk. Universitetet har rätt att avräkna helårsstudenter och helårsprestationer inom utbildningsområde Övrigt för dessa ämnen. Av årsredovisningen ska framgå antalet erbjudna platser, antalet sökande samt antalet helårsstudenter och helårsprestationer inom respektive utbildning.**\n\n**3. Stockholms universitet ska svara för produktion, utprovning, analys och utveckling av ett behörighetsgivande test i svenska för universitets- och högskolestudier (TISUS). Av årsredovisningen ska framgå antalet deltagare i testet.**\n\n**4. Stockholms universitet ska medverka till att tillgodose behovet av pedagoger med inriktning mot undervisning av elever med synskada respektive elever med hörselskada. Av årsredovisningen ska framgå hur universitetet arbetat med detta uppdrag.**\n\n**5. Universitetet ska, mot bakgrund av Sveriges åtaganden enligt Europarådets ramkonvention om skydd för nationella minoriteter (SÖ 2000:2) och Europeiska stadgan om landsdels- eller minoritetsspråk (SÖ 2000:3), som Sverige har ratificerat, bedriva utvecklingsarbete och utbildning på vetenskaplig grund, däribland med sikte på lärarutbildningar.**\n\nArbetet ska främja undervisning i och på minoritetsspråket finska i förskolan, grundskolan, gymnasieskolan och högskolan. I arbetet ska lärosätet ta hänsyn till de särskilda behov och förutsättningar som språket har samt föra en dialog med företrädare för den nationella minoriteten. Lärosätet ska samverka med berörda aktörer, bl.a. övriga lärosäten som har uppdrag när det gäller nationella minoritetsspråk, i Sverige och, när relevant, i andra länder som har erfarenhet av arbete med det aktuella språket. Lärosätet har rätt att avräkna helårsstudenter och helårsprestationer inom utbildningsområde Övrigt för detta ämne.\n\n**6. Stockholms universitet ska erbjuda tolk- och översättarutbildning och konferenstolkutbildning vid behov. I årsredovisningen ska universitetet redovisa antalet deltagare uppdelat per utbildning.**",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "universitet och högskolor"
+   ],
+   "channels": [
+    "årsredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "fördela_medel",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [
+    "2:65"
+   ],
+   "expenditure_area_refs": [
+    16
+   ],
+   "sfs_refs": [
+    "1993:792"
+   ],
+   "sub_questions": [
+    "Universitet och högskolor samt enskilda utbildningsanordnare med tillstånd att utfärda examina enligt lagen (1993:792) om tillstånd att utfärda vissa examina får hos Stockholms universitet ansöka om bidrag för pedagogiskt stöd, inklusive teckenspråkstolkning, för studenter som upplever funktionshinder i studiesituationen för de kostnader som överstiger 0,3 procent av anslaget eller bidraget för utbildning på grundnivå och avancerad nivå. I mån av behov ska universitetet fördela de nationella medel som anvisas för detta ändamål under utgiftsområde 16 Utbildning och universitetsforskning, anslag 2:65*Särskilda medel för universitet och högskolor*, ap. 11, genom utbetalning till berört lärosäte. Universitetet ska besluta om hur arbetet ska organiseras."
+   ],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26300:goals:0"
+  },
+  {
+   "title": "Rekryteringsmål för professorer",
+   "group": [
+    "Mål"
+   ],
+   "text": "Under 2025–2028 har lärosätet ett mål för könsfördelningen bland nyrekryterade professorer om 49 procent kvinnor.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26300:goals:1"
+  },
+  {
+   "title": "Mål för antal examina",
+   "group": [
+    "Mål"
+   ],
+   "text": "Under 2025–2028 har lärosätet mål om antal utfärdade examina från vissa utbildningar inom nedan angivet område. Målet och de examina som omfattas av detta anges i tabellen nedan. Lärosätet ska i årsredovisningen redovisa antalet utfärdade examina inom området de senaste tre åren för de yrkesexamina som anges i tabellen samt vilka åtgärder som har vidtagits för att uppnå målet.\n\n| | |\n| --- | --- |\n| **Område (examina som omfattas av målet inom parentes)** | **Mål för antal utfärdade examina under 2025–2028** |\n| Lärar- och förskollärarutbildningar (förskollärarexamina, grundlärarexamina, speciallärarexamina, specialpedagogexamina, yrkeslärarexamina och ämneslärarexamina) | 6 170 |",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "årsredovisning"
+   ],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26300:goals:2"
+  },
+  {
+   "title": "Mål för andel biträdande lektorer",
+   "group": [
+    "Mål"
+   ],
+   "text": "Under 2025–2028 har Stockholms universitet ett mål att 4 procent av samtlig forskande och undervisande personal (heltidsekvivalenter) ska vara biträdande lektorer.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26300:goals:3"
+  }
+ ],
+ "org": [],
+ "assignments": [
+  {
+   "title": "Pågående uppdrag",
+   "group": [],
+   "text": "Stockholms universitet ska bistå Universitets- och högskolerådet med att ta fram och utveckla ett medborgarskapsprov. Universitetet ska i årsredovisningen för 2026 beskriva hur arbetet har bedrivits (U2025/01356).",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Universitets- och högskolerådet"
+   ],
+   "channels": [
+    "årsredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "26300:assignments:0"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "2:9",
+   "name": "Stockholms universitet: Utbildning på grundnivå och avancerad nivå",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 16,
+    "name": "Utbildning och universitetsforskning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Stockholms universitet",
+     "amount_tkr": 2091947,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Takbelopp (ram)",
+       "amount_tkr": 2091947
+      },
+      {
+       "ap": "1.1",
+       "name": "Takbelopp (ram)",
+       "amount_tkr": 2091947
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1.1",
+     "name": "Takbelopp",
+     "text": "Anslagsposten får användas för högskoleutbildning på grundnivå och avancerad nivå samt behörighetsgivande och högskoleintroducerande utbildning.\nAnvisningar för avräkning av helårsstudenter och helårsprestationer finns i bilaga till regleringsbrev avseende universitet och högskolor."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "2:10",
+   "name": "Stockholms universitet: Forskning och utbildning på forskarnivå",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 16,
+    "name": "Utbildning och universitetsforskning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Stockholms universitet",
+     "amount_tkr": 1978453,
+     "items": [
+      {
+       "ap": "4",
+       "name": "Basresurs (ram)",
+       "amount_tkr": 1978453
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "4",
+     "name": "Basresurs",
+     "text": "Anslagsposten får användas för forskning och utbildning på forskarnivå.\nI anslagsposten ingår medel för strategiska forskningsområden enligt tabellen nedan.\nI anslagsposten ingår medel för ett nätverk för Europaforskning i juridik.\nI anslagsposten ingår 8 147 000 kronor till Nordiska institutet för teoretisk fysisk, Nordita."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "2:65",
+   "name": "Särskilda medel till universitet och högskolor",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 16,
+    "name": "Utbildning och universitetsforskning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Stockholms universitet",
+     "amount_tkr": 146812,
+     "items": [
+      {
+       "ap": "8",
+       "name": "Nationellt resurscentrum i kemi (ram)",
+       "amount_tkr": 1608
+      },
+      {
+       "ap": "9",
+       "name": "Tolk- och översättarutbildning (ram)",
+       "amount_tkr": 22435
+      },
+      {
+       "ap": "10",
+       "name": "Särskilda uppgifter rörande svenska som andraspråk och svenskundervisning för invandrare (ram)",
+       "amount_tkr": 9944
+      },
+      {
+       "ap": "11",
+       "name": "Stöd till studenter med funktionshinder inkl. teckentolkning (ram)",
+       "amount_tkr": 51076
+      },
+      {
+       "ap": "12",
+       "name": "Utveckling av lärarutbildningen för dövas och hörselskadades behov (ram)",
+       "amount_tkr": 2806
+      },
+      {
+       "ap": "28",
+       "name": "Holdingbolag (ram)",
+       "amount_tkr": 4500
+      },
+      {
+       "ap": "43",
+       "name": "Lärarutbildning i minoritetsspråk (ram)",
+       "amount_tkr": 2480
+      },
+      {
+       "ap": "56",
+       "name": "Medel till sjukhusfysikerutbildningen (ram)",
+       "amount_tkr": 1593
+      },
+      {
+       "ap": "96",
+       "name": "Medel för studenthälsa (ram)",
+       "amount_tkr": 4425
+      },
+      {
+       "ap": "102",
+       "name": "Teckenspråk och tolkning (ram)",
+       "amount_tkr": 21145
+      },
+      {
+       "ap": "120",
+       "name": "Praktiknära forskning (ram)",
+       "amount_tkr": 15800
+      },
+      {
+       "ap": "134",
+       "name": "Masterprogram i offentlig förvaltning (ram)",
+       "amount_tkr": 9000
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "8",
+     "name": "Nationellt resurscentrum i kemi",
+     "text": "Anslagsposten får användas för verksamhet vid Nationellt resurscentrum i kemi. Linköpings universitet ska svara för en samordning av de verksamheter som bedrivs vid de nationella resurscentrumen i biologi, fysik respektive kemi vid Uppsala universitet, Lunds universitet respektive Stockholms universitet samt vid det egna resurscentrumet i teknik (U2014/01602 m.fl.). Stockholms universitet ska samarbeta med Linköpings universitet i samordningen av verksamheterna."
+    },
+    {
+     "ap": "9",
+     "name": "Tolk- och översättarutbildning",
+     "text": "Anslagsposten får användas för tolk- och översättarutbildning."
+    },
+    {
+     "ap": "10",
+     "name": "Särskilda uppgifter rörande svenska som andraspråk och svenskundervisning för invandrare",
+     "text": "Anslagsposten får användas för särskilda uppgifter rörande svenska som andraspråk och svenskundervisning för invandrare."
+    },
+    {
+     "ap": "11",
+     "name": "Stöd till studenter med funktionshinder inkl. teckentolkning",
+     "text": "Anslagsposten får användas för stöd till studenter som upplever funktionshinder i studiesituationen inklusive teckentolkning."
+    },
+    {
+     "ap": "12",
+     "name": "Utveckling av lärarutbildningen för dövas och hörselskadades behov",
+     "text": "Anslagsposten får användas för utveckling av lärarutbildningen för dövas och hörselskadades behov."
+    },
+    {
+     "ap": "28",
+     "name": "Holdingbolag",
+     "text": "Anslagsposten får användas för idébanksmedel och kapitaltillskott till holdingbolag vid lärosätet för finansiering av verksamhet som syftar till att främja kommersialisering av forskningsresultat och innovationer.\nStockholms universitet bemyndigas att under 2026 utbetala ett kapitaltillskott på högst 1 000 000 kronor till holdingbolaget som är knutet till lärosätet. Kapitaltillskottet ska finansiera kostnader för verksamhet som bedrivs i form av en idébank och får lämnas i enlighet med förordningen (2022:1390) om statligt stöd för idébanker inom holdingbolag vid universitet och högskolor.\nStockholms universitet bemyndigas att under 2026 utbetala ett kapitaltillskott på högst 3 500 000 kronor till holdingbolaget som är knutet till lärosätet. Kapitaltillskottet ska finansiera kostnader för verksamhet som syftar till att främja kommersialisering av forskningsresultat och innovationer och får lämnas i enlighet med förordningen (2025:727) om statligt stöd för innovationsverksamhet inom holdingbolag vid universitet och högskolor."
+    },
+    {
+     "ap": "43",
+     "name": "Lärarutbildning i minoritetsspråk",
+     "text": "Anslagsposten får användas för lärarutbildning i minoritetsspråk."
+    },
+    {
+     "ap": "56",
+     "name": "Medel till sjukhusfysikerutbildningen",
+     "text": "Anslagsposten får användas för att stärka sjukhusfysikerutbildning."
+    },
+    {
+     "ap": "96",
+     "name": "Medel för studenthälsa",
+     "text": "Anslagsposten får användas för att stärka studenthälsan och bl.a. möjliggöra mer preventivt arbete för att minska studenternas psykiska och fysiska ohälsa samt stärka stödet för studieovana studenter. Av medlen avser 2 040 000 kronor arbete med att särskilt främja psykisk hälsa bland studenter."
+    },
+    {
+     "ap": "102",
+     "name": "Teckenspråk och tolkning",
+     "text": "Anslagsposten får användas för utbildningar inom teckenspråk och tolkning samt för Svenskt teckenspråkslexikon.\nAv anslagsposten avser 5 092 000 kronor medel för Svenskt teckenspråkslexikon.\nAnslagsposten avser medel utöver ordinarie ersättningsbelopp för utbildningarna och beräknas uppgå till 264 000 kronor per helårsstudent. Stockholms universitet ska i årsredovisningen redovisa antalet helårsstudenter vid utbildningarna samt en bedömning av verksamheten för de kommande tre åren."
+    },
+    {
+     "ap": "120",
+     "name": "Praktiknära forskning",
+     "text": "*Praktiknära forskning*\nAnslagsposten får användas för praktiknära forskning i syfte att bidra till en stärkt vetenskaplig grund i lärar- och förskollärarutbildningen och i skolväsendet. Verksamheten ska utformas och genomföras i samverkan mellan ansvariga universitet, deltagande universitet och högskolor och skolhuvudmän. Varje universitet och högskola ska samverka med flera skolhuvudmän. Det ska finnas en variation bland skolhuvudmännen med avseende på t.ex. storlek, geografiskt läge, skolform och årskurser. Forskningen som bedrivs i samverkan mellan universitet, högskolor och skolhuvudmän ska vara verksamhetsrelevant och generera forskningsresultat av hög kvalitet. Lärare och förskollärare ska ges möjlighet att medverka i planering och genomförande av forskningen.\n*Kartläggning av små ämnen*\nUniversitetet ska stödja och samordna en kartläggning av lärosäten med lärarutbildningar inom en region, där samverkan kan ske både inom och utanför regionen. Av kartläggningen ska framgå de undervisningsämnen eller ämnesområden för vilka det finns en stor risk att dessa inte kan anordnas till följd av ett minskat antal studenter i och med de skärpta tillträdeskraven till vissa lärarutbildningar som införs höstterminen 2027. Vidare ska det i kartläggningen ingå att inventera vilket behov av stöd som finns för dessa små ämnen. Av anslagsposten avser 200 000 kronor under 2026 detta arbete.\nUniversitetet ska senast den 15 oktober 2026 redovisa lärosätets bedömning av behovet av stöd för små ämnen och beräknade kostnader uppdelat per ämnesområde till Regeringskansliet (Utbildningsdepartementet) med kopia till Universitetskanslersämbetet. Redovisningen kan samordnas med redovisningen av utbildningssamarbeten inom lärarutbildningen som framgår av regleringsbrev för budgetåret 2026 avseende anslag 2:64 inom utgiftsområde 16 Utbildning och universitetsforskning, ap. 16."
+    },
+    {
+     "ap": "134",
+     "name": "Masterprogram i offentlig förvaltning",
+     "text": "Medlen ska användas för utveckling och bedrivande av ett högkvalitativt masterprogram i offentlig förvaltning.\nSyftet med satsningen är att öka förutsättningarna för att fler svenskar ska kunna konkurrera om framtida tjänster inom EU:s institutioner, myndigheter och organ för att därigenom öka möjligheterna till inflytande för Sverige samt att stärka kompetensförsörjningen till svenska myndigheter och institutioner för att bidra till en högkvalificerad och effektiv förvaltning i Sverige.\\\nMedlen ger förutsättningar för nytänkande och ska användas för att utveckla och genomföra en utbildning av mycket hög kvalitet och med ett tydligt EU-perspektiv på avancerad nivå. Utbildningen bör avse heltidsstudier och huvudsakligen vara förlagd på campus. En utbildning av mycket hög kvalitet med en förstärkt ersättning per student förutsätter en hög ambitionsnivå för utbildningen, t ex i fråga om ett högre antal undervisningstillfällen, högre lärartäthet, tydlig arbetslivsanknytning, internationalisering och samverkan, men även i fråga om informations- och rekryteringsinsatser för utbildningarna.\\\nAnvändningen av medlen ska redovisas i universitetets årsredovisning för år 2026. Universitetet ska även redovisa antal antagna studenter och helårsstudenter, söktryck samt redovisning av övriga insatser som har gjorts för att säkerställa hög kvalitet.\\\nRegeringen beräknar att 18 000 000 kronor per år kommer att avsättas för utbildningen från och med 2027 under förutsättning att riksdagen anvisat medel för det aktuella anslaget.\\\nUtbildningen beräknas omfatta 120 helårsstudenter när den är fullt utbyggd. De studenter som finansieras med medel från denna anslagspost ger inte lärosätena rätt till någon ersättning inom ordinarie takbelopp."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "28",
+     "max": 1000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "28",
+     "max": 3500000,
+     "unit": "kronor"
+    }
+   ]
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "2:9 Stockholms universitet: Utbildning på grundnivå och avancerad nivå",
+   "ap": "ap.1.1",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "10 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:10 Stockholms universitet: Forskning och utbildning på forskarnivå",
+   "ap": "ap.4",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Allt",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.8",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.9",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.10",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.11",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.12",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.28",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.43",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.56",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.96",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.102",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.120",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.134",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 675000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 350686
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 350686
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 350686
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 350686
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 351811
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 351811
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 351811
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 351811
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 351811
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 351811
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 351811
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 351791
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "2:9 Stockholms universitet: Utbildning på grundnivå och avancerad nivå",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1.1",
+     "0",
+     "10 %",
+     "0"
+    ],
+    [
+     "2:10 Stockholms universitet: Forskning och utbildning på forskarnivå",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.4",
+     "0",
+     "Allt",
+     "0"
+    ],
+    [
+     "2:65 Särskilda medel till universitet och högskolor",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.8",
+     "0",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.9",
+     "0",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.10",
+     "0",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.11",
+     "0",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.12",
+     "0",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.28",
+     "0",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.43",
+     "0",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.56",
+     "0",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.96",
+     "0",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.102",
+     "0",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.120",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.134",
+     "0",
+     "Inget",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Omfördelning av anslagssparande",
+   "rows": [
+    [
+     "Omfördelning från anslag/ap1",
+     "Omfördelning till anslag/ap2",
+     "Belopp (tkr)",
+     "Belopp andel (%)"
+    ],
+    [
+     "2:9 Stockholms universitet: Utbildning på grundnivå och avancerad nivå",
+     "",
+     "",
+     ""
+    ],
+    [
+     "2:9 ap.1.2",
+     "2:9 ap.1.1",
+     "100 %"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Avslutade anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagstyp"
+    ],
+    [
+     "2:9 Stockholms universitet: Utbildning på grundnivå och avancerad nivå",
+     ""
+    ],
+    [
+     "ap.1.2",
+     "ram"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "675 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "350 686"
+    ],
+    [
+     "2026-02-25",
+     "350 686"
+    ],
+    [
+     "2026-03-25",
+     "350 686"
+    ],
+    [
+     "2026-04-25",
+     "350 686"
+    ],
+    [
+     "2026-05-25",
+     "351 811"
+    ],
+    [
+     "2026-06-25",
+     "351 811"
+    ],
+    [
+     "2026-07-25",
+     "351 811"
+    ],
+    [
+     "2026-08-25",
+     "351 811"
+    ],
+    [
+     "2026-09-25",
+     "351 811"
+    ],
+    [
+     "2026-10-25",
+     "351 811"
+    ],
+    [
+     "2026-11-25",
+     "351 811"
+    ],
+    [
+     "2026-12-25",
+     "351 791"
+    ],
+    [
+     "Summa",
+     "4 217 212"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "2:9 ap.1.1",
+     "Takbelopp"
+    ],
+    [
+     "2:10 ap.4",
+     "Basresurs"
+    ],
+    [
+     "2:65 ap.8",
+     "Nationellt resurscentrum i kemi"
+    ],
+    [
+     "2:65 ap.9",
+     "Tolk- och översättarutbildning"
+    ],
+    [
+     "2:65 ap.10",
+     "Särskilda uppgifter rörande svenska som andraspråk och svenskundervisning för invandrare"
+    ],
+    [
+     "2:65 ap.11",
+     "Stöd till studenter med funktionshinder inkl. teckentolkning"
+    ],
+    [
+     "2:65 ap.12",
+     "Utveckling av lärarutbildningen för dövas och hörselskadades behov"
+    ],
+    [
+     "2:65 ap.28",
+     "Holdingbolag"
+    ],
+    [
+     "2:65 ap.43",
+     "Lärarutbildning i minoritetsspråk"
+    ],
+    [
+     "2:65 ap.56",
+     "Medel till sjukhusfysikerutbildningen"
+    ],
+    [
+     "2:65 ap.96",
+     "Medel för studenthälsa"
+    ],
+    [
+     "2:65 ap.102",
+     "Teckenspråk och tolkning"
+    ],
+    [
+     "2:65 ap.120",
+     "Praktiknära forskning"
+    ],
+    [
+     "2:65 ap.134",
+     "Masterprogram i offentlig förvaltning"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [],
+ "has_fee_section": false,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 4,
+  "n_org": 0,
+  "n_assignments": 1,
+  "n_deadlines": 0,
+  "deadlines": [],
+  "partners": [
+   "Universitets- och högskolerådet",
+   "universitet och högskolor"
+  ],
+  "n_appropriations": 3,
+  "appropriations_total_tkr": 4217212,
+  "payment_plan_total_tkr": 4217212,
+  "md_chars": 19137
+ },
+ "layout": "standard",
+ "warnings": []
+}

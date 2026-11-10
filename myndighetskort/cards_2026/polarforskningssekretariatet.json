@@ -1,0 +1,449 @@
+{
+ "schema_version": 1,
+ "id": 26347,
+ "original_rbid": 25786,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-06-11",
+ "year": "2026",
+ "name": "Polarforskningssekretariatet",
+ "slug": "polarforskningssekretariatet",
+ "department": "Utbildningsdepartementet",
+ "expenditure_areas": [
+  16
+ ],
+ "registry_numbers": [
+  "U2026/01202 (delvis)"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1",
+   "2025/26:99"
+  ],
+  "bet": [
+   "2025/26:FiU21",
+   "2025/26:UbU1"
+  ],
+  "rskr": [
+   "2025/26:124",
+   "2025/26:349"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "",
+ "goals": [
+  {
+   "title": "Informations- och cybersäkerhet",
+   "group": [],
+   "text": "Polarforskningssekretariatet ska övergripande redogöra för hur myndigheten har förvaltat och utvecklat sitt arbete med informations- och cybersäkerhet inbegripet den egna organisationens beredskap och möjlighet att hantera incidenter samt en beskrivning av åtgärder för att utveckla den interna styrningen och uppföljningen av arbetet. Polarforskningssekretariatet ska även redogöra för huruvida en analys gjorts av hot och sårbarheter för myndigheten samt om åtgärder vidtagits och hur myndigheten arbetar för att minska eventuella identifierade risker med anledning av detta.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "analysera",
+    "utveckla",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26347:goals:0"
+  }
+ ],
+ "org": [
+  {
+   "title": "Fortsatt analysarbete för hur Sverige kostnadseffektivt kan säkra tillgången till en forskningsisbrytare",
+   "group": [],
+   "text": "Polarforskningssekretariatet ska säkerställa att kompetens finns tillgänglig för myndigheten avseende framtida tillgång till polarforskningsfartyg samt bistå Regeringskansliet (Utbildningsdepartementet) i analysarbetet avseende säkrad kostnadseffektiv tillgång för ett sådant. Myndigheten ska när uppdraget utförs inhämta synpunkter och information från Vetenskapsrådet.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Vetenskapsrådet"
+   ],
+   "channels": [],
+   "task_types": [
+    "samordna"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "org",
+   "item_id": "26347:org:0"
+  }
+ ],
+ "assignments": [
+  {
+   "title": "Internationella polaråret 2032-2033 och Sveriges ordförandeskap i Arktiska rådet 2027–2029",
+   "group": [],
+   "text": "Polarforskningssekretariatet ska identifiera svenska aktörer som kan bidra till förberedelser för det femte internationella polaråret 2032–2033, och sammanställa deras syn på vad som kan uppnås under det internationella polaråret samt möjligheter till internationellt samarbete kopplat till detta. Polarforskningssekretariatet ska även bistå regeringen i förberedelserna för Sveriges ordförandeskap i Arktiska rådet 2027–2029. Uppdraget ska redovisas till Regeringskansliet (Utbildningsdepartementet) den 31 januari 2027.",
+   "dates": [
+    "2027-01-31"
+   ],
+   "deadlines": [],
+   "recipients": [
+    "Regeringskansliet (Utbildningsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26347:assignments:0"
+  },
+  {
+   "title": "Prognoser",
+   "group": [],
+   "text": "Polarforskningssekretariatet ska redovisa prognoser för 2026–2029 vid\\\nnedanstående prognostillfällen. Prognoserna ska kommenteras både i\\\nförhållande till föregående prognostillfälle och i förhållande till\\\nbudgeten. Prognoserna lämnas i informationssystemet Hermes senast den\n\n– 2 februari,\n\n– 22 april,\n\n– 24 juli, och\n\n– 9 november.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26347:assignments:1"
+  },
+  {
+   "title": "Tidigare givna uppdrag i regleringsbrev eller särskilda regeringsbeslut",
+   "group": [],
+   "text": "| | | |\n| --- | --- | --- |\n| Uppdrag | Beslut om uppdraget | Redovisningstidpunkt |\n| Uppdrag om att förbereda och genomföra inordnandet av uppgifter vid Kristineberg marina forskningsstation i myndigheten | U2025/01881 | Redovisas den 1 april 2026 |\n| Uppdrag om verksamhetsanpassade riktlinjer för ansvarsfull internationalisering vid internationella samarbeten | U2025/01518 | Redovisas i årsredovisningen för 2026 |\n\n*För regeringsuppdrag som lämnats i ett särskilt regeringsbeslut utgör tabellen endast en upplysning om vilka uppdrag som vid årets början var riktade till myndigheten och vilka tider som då gällde för återrapportering eller liknande.*",
+   "dates": [
+    "2026-04-01"
+   ],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "årsredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "utveckla",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "26347:assignments:2"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "3:8",
+   "name": "Polarforskningssekretariatet",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 16,
+    "name": "Utbildning och universitetsforskning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Polarforskningssekretariatet",
+     "amount_tkr": 50359,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Polarforskningssekretariatet (ram)",
+       "amount_tkr": 50359
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Polarforskningssekretariatet",
+     "text": "Anslagsposten får användas för Polarforskningssekretariatets förvaltningsutgifter. Anslaget får även användas för att organisera och genomföra forskningsexpeditioner."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "3:8 Polarforskningssekretariatet",
+   "ap": "ap.1",
+   "Anslagskredit": 2260,
+   "Anslagsbehållning som disponeras 2026": 70000,
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 30000,
+  "Räntekontokredit": 3200
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 6280
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 6280
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 6280
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 6280
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 6280
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 2709
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 2709
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 2709
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 2709
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 2709
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 2709
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 2705
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "3:8 Polarforskningssekretariatet",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "2 260",
+     "70 000",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "30 000"
+    ],
+    [
+     "Räntekontokredit",
+     "3 200"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "6 280"
+    ],
+    [
+     "2026-02-25",
+     "6 280"
+    ],
+    [
+     "2026-03-25",
+     "6 280"
+    ],
+    [
+     "2026-04-25",
+     "6 280"
+    ],
+    [
+     "2026-05-25",
+     "6 280"
+    ],
+    [
+     "2026-06-25",
+     "2 709"
+    ],
+    [
+     "2026-07-25",
+     "2 709"
+    ],
+    [
+     "2026-08-25",
+     "2 709"
+    ],
+    [
+     "2026-09-25",
+     "2 709"
+    ],
+    [
+     "2026-10-25",
+     "2 709"
+    ],
+    [
+     "2026-11-25",
+     "2 709"
+    ],
+    [
+     "2026-12-25",
+     "2 705"
+    ],
+    [
+     "Summa",
+     "50 359"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "3:8 ap.1",
+     "Polarforskningssekretariatet"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Tjänsteexport",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Polarforskningsexpeditioner1",
+     "-679",
+     "0",
+     "55 000",
+     "55 000",
+     "0",
+     "-679"
+    ],
+    [
+     "Avgiftsbelagd verksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Boende vid Abisko Naturvetenskapliga station2",
+     "400",
+     "0",
+     "2 900",
+     "2 500",
+     "400",
+     "800"
+    ]
+   ]
+  }
+ ],
+ "has_fee_section": true,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 1,
+  "n_org": 1,
+  "n_assignments": 3,
+  "n_deadlines": 0,
+  "deadlines": [],
+  "partners": [
+   "Vetenskapsrådet"
+  ],
+  "n_appropriations": 1,
+  "appropriations_total_tkr": 50359,
+  "payment_plan_total_tkr": 50359,
+  "md_chars": 6664
+ },
+ "layout": "standard",
+ "warnings": []
+}

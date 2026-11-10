@@ -1,0 +1,1984 @@
+{
+ "schema_version": 1,
+ "id": 27512,
+ "original_rbid": 25837,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-07-02",
+ "year": "2026",
+ "name": "Myndigheten för civilt försvar",
+ "slug": "myndigheten-for-civilt-forsvar",
+ "department": "Försvarsdepartementet",
+ "expenditure_areas": [
+  6
+ ],
+ "registry_numbers": [
+  "Fö2026/00987",
+  "Fö2026/01112"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1",
+   "2025/26:143",
+   "2025/26:275",
+   "2025/26:99"
+  ],
+  "bet": [
+   "2025/26:FiU21",
+   "2025/26:FiU46",
+   "2025/26:FiU47",
+   "2025/26:FöU1"
+  ],
+  "rskr": [
+   "2025/26:111",
+   "2025/26:180",
+   "2025/26:347",
+   "2025/26:428"
+  ]
+ },
+ "n_attachments_stated": 2,
+ "mission": "Myndigheten för civilt försvars verksamhet ska bidra till att uppfylla målen för civilt försvar och det övergripande målet för totalförsvaret samt målen för skydd mot olyckor och krisberedskap.\n\nMyndigheten ska stödja och samordna berörda aktörer i det civila försvaret. Genom att fullgöra sina uppgifter ska myndigheten, tillsammans med berörda aktörer, utveckla individens och samhällets förmåga att förebygga och hantera olyckor, kriser och ytterst krig.",
+ "goals": [
+  {
+   "title": "Arbetet med civil beredskap i Nato",
+   "group": [],
+   "text": "Myndigheten för civilt försvar ska redovisa hur arbetet fortskrider i planeringsgrupperna inom området för civil beredskap i Nato samt hur arbetet bidrar till att utveckla den svenska krisberedskapen och det civila försvaret.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27512:goals:0"
+  },
+  {
+   "title": "Internationella samarbeten",
+   "group": [],
+   "text": "Myndigheten för civilt försvar ska inrikta sina internationella samarbeten mot att prioritera stödet till Ukraina och samarbetet kring Östersjön. Myndigheten för civilt försvar ska lämna en redovisning över myndighetens prioriterade internationella samarbeten.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27512:goals:1"
+  },
+  {
+   "title": "Internationell insatsverksamhet",
+   "group": [],
+   "text": "Myndigheten för civilt försvar ska redovisa omfattning och kostnad av myndighetens verksamhet inom internationella insatser samt inom internationell civil krishantering och internationellt civilt stöd till förmån för Ukraina och grannländer (verksamhet enligt regleringsbrev för 2026 avseende anslaget 1:1 UO7 ap. 41 och ap. 15) och hur de övergripande målen för svensk bistånds-, utrikes- och säkerhetspolitik samt det övergripande målet för Sveriges humanitära bistånd har implementerats i relevanta delar av insatsverksamheten. Redovisningen ska i tillämpliga delar vara uppdelad utifrån insats och kön. Redovisningen ska ske i en separat rapport i anslutning till årsredovisningen.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "årsredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [
+    "1:1"
+   ],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27512:goals:2"
+  },
+  {
+   "title": "Riskbedömning inom ramen för civilskyddsmekanismen",
+   "group": [],
+   "text": "Myndigheten för civilt försvar ska redovisa att de till EU-kommissionen senast den 31 december 2026 har lämnat en sådan redovisning som efterfrågas i Europaparlamentets och rådets beslut (EU) nr 2019/420 om ändring av beslut nr 1313/2013/EU om en civilskyddsmekanism för unionen, Artikel 6. 1. D.",
+   "dates": [
+    "2026-12-31"
+   ],
+   "deadlines": [
+    "2026-12-31"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27512:goals:3"
+  },
+  {
+   "title": "Beredskapssektorn räddningstjänst och skydd av civilbefolkningen",
+   "group": [],
+   "text": "Myndigheten för civilt försvar ska redovisa de åtgärder som myndigheten har vidtagit för att stärka samordningen, med särskild vikt på samordnad räddningsledning, mellan kommunala och statliga räddningstjänstmyndigheter vid fredstida krissituationer och vid höjd beredskap. Detta innefattar att redovisa de åtgärder som vidtagits för att möjliggöra myndighetsgemensamma samverkansövningar inom räddningstjänstområdet, både på land och till sjöss. Därutöver ska de åtgärder som har vidtagits inom ramen för arbetet i den nationella samverkansgruppen för oljeskadeskydd redovisas.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27512:goals:4"
+  },
+  {
+   "title": "Samhällets samlade förmåga att förebygga bränder och olyckor samt genomföra räddningsinsatser",
+   "group": [],
+   "text": "Myndigheten för civilt försvar ska, inom ramen för myndighetens ansvarsområde, på en övergripande nivå redovisa samhällets samlade förmåga att dels förebygga bränder och andra olyckor, dels genomföra effektiva räddningsinsatser. I redovisningen ska klimatförändringarnas effekter på förekomsten av bränder, översvämningar och andra naturolyckor beaktas.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27512:goals:5"
+  },
+  {
+   "title": "Arbete för att minska spridningen av PFAS",
+   "group": [],
+   "text": "Myndigheten för civilt försvar ska i samarbete med Naturvårdsverket och Sveriges geologiska undersökning ge vägledning till kommunal räddningstjänst samt stöd i prioritering och kartläggning när det gäller hantering av brandövningsplatser och brandstationer som är förorenade av PFAS. Arbetet ska bidra till att minska spridningen av PFAS i miljön. För arbetet får myndigheten använda 2 000 000 kronor från anslaget 1:4 Sanering och återställande av förorenade områden inom utgiftsområde 20 Klimat, miljö och natur. Av redovisningen ska de genomförda åtgärderna framgå samt vilka effekter dessa åtgärder bedöms få.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Naturvårdsverket",
+    "Sveriges geologiska undersökning"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "informera"
+   ],
+   "anslag_refs": [
+    "1:4"
+   ],
+   "expenditure_area_refs": [
+    20
+   ],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27512:goals:6"
+  },
+  {
+   "title": "Samverkan med civilsamhället",
+   "group": [],
+   "text": "Myndigheten för civilt försvar ska redovisa resultatet av samverkan med civilsamhällets organisationer – däribland idrottsrörelsen, friluftsrörelsen, trossamfunden och andra relevanta aktörer – för att stärka den svenska krisberedskapen och det civila försvaret. Av redovisningen ska framgå hur arbetet har bedrivits, hur samverkan kan utvecklas framåt samt vilket resultat det förväntas bidra till.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "utveckla",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27512:goals:7"
+  },
+  {
+   "title": "Samordning av rymdfrågor",
+   "group": [],
+   "text": "Myndigheten för civilt försvar ska redovisa sitt ansvar för samordningen av rymdfrågor som rör den civila beredskapen, hur myndigheten arbetar på området samt hur samverkan med beredskapsmyndigheterna och Rymdstyrelsen bedrivs och utvecklas.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Rymdstyrelsen"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "utveckla",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27512:goals:8"
+  },
+  {
+   "title": "Nationella handlingsplanen för kvinnor, fred och säkerhet",
+   "group": [],
+   "text": "Myndigheten för civilt försvar ska redovisa sitt arbete för genomförandet av FN:s säkerhetsrådsresolutioner om kvinnor, fred och säkerhet med utgångspunkt i den nationella handlingsplanen på området (UD2023/04798). Myndighetens arbete ska redovisas utifrån de fyra övergripande målen i handlingsplanen.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27512:goals:9"
+  },
+  {
+   "title": "Marknadskontroll för ökad regelefterlevnad",
+   "group": [],
+   "text": "Myndigheten för civilt försvar ska på en övergripande nivå samlat redovisa genomfört arbete vad gäller myndighetens ansvar avseende marknadskontroll enligt förordning (2010:1075) om brandfarliga och explosiva varor, förordning (2008:245) om kemiska produkter och biotekniska organismer, förordning (2006:311) om transport av farligt gods, förordning (2010:1075) om brandfarliga och explosiva varor, förordning (2010:1075) om brandfarliga och explosiva varor samt förordning (2018:1179) med kompletterande bestämmelser till EU:s förordning om gasanordningar.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "tillsyn_kontroll",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2006:311",
+    "2008:245",
+    "2010:1075",
+    "2018:1179"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27512:goals:10"
+  },
+  {
+   "title": "Informations- och kommunikationsverksamhet",
+   "group": [],
+   "text": "Myndigheten för civilt försvar ska redovisa kostnaderna för sin informations- och kommunikationsverksamhet och hur verksamheten har bidragit till myndighetens förmåga att uppfylla sina kärnuppgifter. Av redovisningen ska bl.a. framgå vilken uppgift eller vilka uppdrag som ligger till grund för respektive verksamhet/insats och vad som motiverar de val av kommunikationsmedel som gjorts.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27512:goals:11"
+  },
+  {
+   "title": "Redovisning av överklaganden",
+   "group": [],
+   "text": "Myndigheten för civilt försvar ska redovisa de ärenden där myndigheten har överklagat ett beslut eller en dom som en statlig förvaltningsmyndighet eller en domstol har meddelat, om ett bifall till överklagandet kan leda till att en fysisk eller juridisk person inte kan påbörja, fortsätta bedriva eller vidareutveckla en yrkesmässig verksamhet, eller om det kan leda till att den redovisade tidsplanen för att påbörja eller vidareutveckla en sådan verksamhet påverkas.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27512:goals:12"
+  },
+  {
+   "title": "Färdval och resepolicy vid tjänsteresor",
+   "group": [],
+   "text": "Alla trafikslag ska kunna nyttjas (väg, järnväg, luft- och sjöfart) för att säkerställa effektiva och ändamålsenliga transporter. Myndigheten för civilt försvar ska därför redovisa hur myndigheten har säkerställt att val av färdsätt vid tjänsteresor sker färdmedelsneutralt och utifrån behov. Vidare ska Myndigheten för civilt försvar redovisa huruvida myndigheten köpt in hållbart flygbränsle till organisationens flygresor. När kostnader jämförs för olika färdval ska hela resans kostnad beaktas, exempelvis kostnader för nödvändig övernattning samt total arbetstid för hela resan.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27512:goals:13"
+  }
+ ],
+ "org": [
+  {
+   "title": "Säkerställa proaktivitet och handlingskraft vid fredstida krissituationer eller vid krig och krigsfara",
+   "group": [],
+   "text": "Myndigheten för civilt försvar ska säkerställa att myndigheten har förmåga att agera proaktivt och handlingskraftigt i hanteringen av såväl fredstida krissituationer som vid krig och krigsfara. Utöver de krav som ställs i förordningen (2022:524) om statliga myndigheters beredskap ska myndigheten i detta syfte utbilda och öva sin personal samt se till att myndigheten stärker en kultur och arbetssätt som utgår från de krav som ett krig ställer. Uppdraget ska redovisas till Regeringskansliet (Försvarsdepartementet) senast den 22 februari 2027. Detta ska ingå i den särskilda redovisningen för civilt försvar.",
+   "dates": [
+    "2027-02-22"
+   ],
+   "deadlines": [
+    "2027-02-22"
+   ],
+   "recipients": [
+    "Regeringskansliet (Försvarsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2022:524"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "org",
+   "item_id": "27512:org:0"
+  }
+ ],
+ "assignments": [
+  {
+   "title": "Utgångspunkter för totalförsvaret 2025–2030",
+   "group": [],
+   "text": "Myndigheten för civilt försvar ska i sin roll som sektorsansvarig myndighet inom beredskapssektorn räddningstjänst och skydd av civilbefolkningen komplettera och konkretisera Utgångspunkter för totalförsvaret 2025–2030 utifrån beredskapssektorns ansvarsområde. Uppdraget ska redovisas till Regeringskansliet (Försvarsdepartementet) senast den 22 februari 2027. Detta ska ingå i den särskilda redovisningen för civilt försvar.",
+   "dates": [
+    "2027-02-22"
+   ],
+   "deadlines": [
+    "2027-02-22"
+   ],
+   "recipients": [
+    "Regeringskansliet (Försvarsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27512:assignments:0"
+  },
+  {
+   "title": "Sammanställning av genomförd verksamhet inom civilt försvar",
+   "group": [],
+   "text": "Myndigheten för civilt försvar ska utifrån beredskapsmyndigheternas särskilda redovisning för civilt försvar 2026 göra en sammanställning av genomförd verksamhet. Resultatet ska redovisas till Regeringskansliet (Försvarsdepartementet) senast 4 maj 2026.",
+   "dates": [
+    "2026-05-04"
+   ],
+   "deadlines": [
+    "2026-05-04"
+   ],
+   "recipients": [
+    "Regeringskansliet (Försvarsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27512:assignments:1"
+  },
+  {
+   "title": "Åtgärder för ett stärkt civilt försvar - förmåga inom kommunal räddningstjänst under höjd beredskap",
+   "group": [],
+   "text": "Myndigheten för civilt försvar ska vidta särskilda åtgärder för att stärka kommunal räddningstjänst under höjd beredskap. Åtgärderna ska syfta till att utveckla och stärka det civila försvaret och därmed bidra till en högre samlad förmåga inom totalförsvaret. Myndigheten för civilt försvar ska redovisa vidtagna åtgärder och resultatet av dessa. Redovisningen ska inkludera resursfördelning till de kommunala räddningstjänsterna. Redovisningen ska även inkludera utbildning av civilpliktiga inom kommunal räddningstjänst. Av redovisningen ska antalet civilpliktiga och hur många som utbildats framgå. Statistik ska redovisas könsuppdelat, om det inte finns särskilda skäl mot detta. Uppdraget ska redovisas till Regeringskansliet (Försvarsdepartementet) senast den 22 februari 2027. Detta ska ingå i den särskilda redovisningen för civilt försvar.",
+   "dates": [
+    "2027-02-22"
+   ],
+   "deadlines": [
+    "2027-02-22"
+   ],
+   "recipients": [
+    "Regeringskansliet (Försvarsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla",
+    "statistik_data",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27512:assignments:2"
+  },
+  {
+   "title": "Åtgärder för ett stärkt civilt försvar - utveckling av förmågan att skydda civilbefolkningen",
+   "group": [],
+   "text": "Myndigheten för civilt försvar ska redovisa utvecklingen av förmågan att skydda civilbefolkningen, särskilt avseende skyddsrum samt varnings- och informationssystemet Viktigt meddelande till allmänheten (VMA). Redovisningen ska inkludera antal skyddsrum samt skyddsrumsplatser som bedöms ha en tillfredsställande skyddsnivå. Uppdraget ska redovisas till Regeringskansliet (Försvarsdepartementet) senast den 31 mars 2026.",
+   "dates": [
+    "2026-03-31"
+   ],
+   "deadlines": [
+    "2026-03-31"
+   ],
+   "recipients": [
+    "Regeringskansliet (Försvarsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27512:assignments:3"
+  },
+  {
+   "title": "Nationell förberedande planering",
+   "group": [],
+   "text": "Myndigheten för civilt försvar ska säkerställa nationell förberedande planering. Det innebär framtagande av aktörsgemensamma nationella beredskapsplaner med fokus på att säkerställa de viktigaste samhällsfunktionerna, skydda civilbefolkningen och upprätthålla försvarsvilja samt motståndskraft. Det innebär också stödjande beredskapsplanering i dialog med Försvarsmakten för att samordna civilt stöd till det militära försvarets förmåga, inom ramen för Natos kollektiva försvar och uppgifter i övrigt. Myndigheten för civilt försvar ska delredovisa uppdraget till Regeringskansliet (Försvarsdepartementet) senast den 1 september 2026.",
+   "dates": [
+    "2026-09-01"
+   ],
+   "deadlines": [
+    "2026-09-01"
+   ],
+   "recipients": [
+    "Regeringskansliet (Försvarsdepartementet)"
+   ],
+   "partners": [
+    "Försvarsmakten"
+   ],
+   "channels": [
+    "delredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "utveckla",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27512:assignments:4"
+  },
+  {
+   "title": "Samverkan kring migration och civilt försvar",
+   "group": [],
+   "text": "Myndigheten för civilt försvar ska, i samverkan med Migrationsverket, analysera gemensamma beröringspunkter mellan Migrationsverkets verksamhet och verksamhet inom beredskapssektorn för räddningstjänst och skydd av civilbefolkningen. I genomförandet av uppdraget ska myndigheten särskilt beakta scenarier med massflykt, med utgångspunkt i Natos krav på förmåga hos de allierade att hantera okontrollerade befolkningsrörelser. Myndigheterna ska identifiera behov av samordning, informationsdelning och utvecklingsområden med betydelse för det civila försvaret. Uppdraget ska genomföras i dialog med civilområdesansvariga länsstyrelser, kommuner och andra relevanta aktörer inom det civila försvaret. Uppdraget ska redovisas till Regeringskansliet (Försvarsdepartementet) senast den 22 februari 2027. Detta ska ingå i den särskilda redovisningen för civilt försvar.",
+   "dates": [
+    "2027-02-22"
+   ],
+   "deadlines": [
+    "2027-02-22"
+   ],
+   "recipients": [
+    "Regeringskansliet (Försvarsdepartementet)"
+   ],
+   "partners": [
+    "Migrationsverket"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna",
+    "utveckla",
+    "tillsyn_kontroll",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27512:assignments:5"
+  },
+  {
+   "title": "Lärdomar från Ukraina",
+   "group": [],
+   "text": "Myndigheten för civilt försvar ska undersöka och redovisa hur svenska myndigheter övergripande omhändertagit lärdomar från kriget i Ukraina i den pågående utvecklingen av det civila försvaret. Uppdraget ska bland annat beakta de slutsatser, lärdomar och rekommendationer som gavs i rapporten Erfarenheter från Ukraina – lärdomar för det civila försvaret (Fö2023/01325). Uppdraget ska delredovisas till Regeringskansliet (Försvarsdepartementet) senast den 15 juni 2026 och slutredovisas senast den 30 oktober 2026. Delredovisningen ska redogöra för hur aktörer inom beredskapssektorn räddningstjänst och skydd av civilbefolkningen omhändertagit lärdomar från kriget i Ukraina. Slutredovisningen ska redogöra för hur aktörer inom beredskapsstrukturen för civilt försvar och krisberedskap har omhändertagit lärdomar från kriget i Ukraina.",
+   "dates": [
+    "2026-06-15",
+    "2026-10-30"
+   ],
+   "deadlines": [
+    "2026-06-15",
+    "2026-10-30"
+   ],
+   "recipients": [
+    "Regeringskansliet (Försvarsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [
+    "delredovisning",
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27512:assignments:6"
+  },
+  {
+   "title": "Stöd till ökad proaktivitet och handlingskraft vid fredstida krissituationer eller vid krig och krigsfara",
+   "group": [],
+   "text": "Myndigheten för civilt försvar ska, utifrån de metod- och övningsstöd som finns, löpande stötta beredskapsmyndigheterna utifrån deras behov i samband med att de i enlighet med regeringens organisationsstyrning i regleringsbreven för 2026 genomför åtgärder för att säkerställa förmåga att agera proaktivt och handlingskraftigt i såväl fredstida krissituationer som vid krig och krigsfara.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27512:assignments:7"
+  },
+  {
+   "title": "Avtal med företag för stärkt försörjningsberedskap",
+   "group": [],
+   "text": "Myndigheten för civilt försvar ska identifiera behov av och, i de fall myndigheten bedömer det lämpligt, teckna avtal som syftar till att upprätthålla försörjningen av varor och tjänster som är nödvändiga för myndighetens prioriterade uppgifter vid fredstida kriser och höjd beredskap. I de fall Myndigheten för civilt försvar nyttjar särskilda avtalsformer i form av sådana försörjningsberedskapsavtal (F-avtal) som beskrivs i SOU 2025:68 ska dessa avtal löpande rapporteras till det nationella register över sådana avtal som Myndigheten för civilt försvar ska upprätta. Uppdraget ska redovisas till Regeringskansliet (Försvarsdepartementet) senast den 22 februari 2027, och ingå i den särskilda redovisningen för civilt försvar. Som stöd för arbetet kan myndigheten använda bland annat Utgångspunkter för totalförsvaret 2025–2030.",
+   "dates": [
+    "2027-02-22"
+   ],
+   "deadlines": [
+    "2027-02-22"
+   ],
+   "recipients": [
+    "Regeringskansliet (Försvarsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "statistik_data",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27512:assignments:8"
+  },
+  {
+   "title": "Upprätta register och utarbeta metodstöd avseende F-avtal",
+   "group": [],
+   "text": "Myndigheten för civilt försvar ska påbörja arbetet med att upprätta ett nationellt register över så kallade försörjningsberedskapsavtal (F-avtal) som beskrivs i SOU 2025:68. Registret ska kunna uppdateras löpande när avtalstecknande centrala myndigheter rapporterar nya sådana avtal till Myndigheten för civilt försvar. Myndigheten för civilt försvar ska, baserat på behov som beredskapsmyndigheterna framför, även ta fram ett metodstöd för tecknandet av F-avtal. Myndigheten för civilt försvar ska kunna ta emot underlag för arbetet från beredskapsmyndigheter i form av avtalsbehov som myndigheterna bedömer kan behöva hanteras med särskilda avtalsformer i form av F-avtal, samt efterfråga stöd från relevanta myndigheter med avseende på erfarenheter, avtalsexempel och marknadsspecifika regelverk. Myndigheten för civilt försvar ska redovisa sitt utförande av uppdraget till Regeringskansliet (Försvarsdepartementet) senast den 22 februari 2027. Detta ska ingå i den särskilda redovisningen för civilt försvar.",
+   "dates": [
+    "2027-02-22"
+   ],
+   "deadlines": [
+    "2027-02-22"
+   ],
+   "recipients": [
+    "Regeringskansliet (Försvarsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "statistik_data",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27512:assignments:9"
+  },
+  {
+   "title": "Stärkt motståndskraft mot hybridhot",
+   "group": [],
+   "text": "I syfte att stärka Sveriges samlade motståndskraft mot hybridhot behöver respektive beredskapssektor stärka sin förmåga att upptäcka och hantera incidenter som skulle kunna utgöra aktörsdrivna hot. Mot den bakgrunden ska Myndigheten för civilt försvar:\n\n- säkerställa en kontinuerlig lägesuppfattning av incidenter inom den egna verksamheten och inom sitt sektorsansvar för beredskapssektorn räddningstjänst och skydd av civilbefolkningen i syfte att upprätthålla en normalbild,\n- sammanställa öppen information om den hotbild som finns mot sektorn räddningstjänst och skydd av civilbefolkningen och tillgängliggöra den för aktörer som tillhandahåller samhällsviktig verksamhet inom sektorn, samt\n- samverka med Säkerhetspolisen och andra berörda myndigheter i syfte att vid behov klargöra eller utveckla rapporteringsvägar för avvikelser eller säkerhetsincidenter.\n\nUppdraget ska redovisas senast den 28 februari 2027 till Regeringskansliet (Försvarsdepartementet).",
+   "dates": [
+    "2027-02-28"
+   ],
+   "deadlines": [
+    "2027-02-28"
+   ],
+   "recipients": [
+    "Regeringskansliet (Försvarsdepartementet)"
+   ],
+   "partners": [
+    "Säkerhetspolisen"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "utveckla",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "säkerställa en kontinuerlig lägesuppfattning av incidenter inom den egna verksamheten och inom sitt sektorsansvar för beredskapssektorn räddningstjänst och skydd av civilbefolkningen i syfte att upprätthålla en normalbild,",
+    "sammanställa öppen information om den hotbild som finns mot sektorn räddningstjänst och skydd av civilbefolkningen och tillgängliggöra den för aktörer som tillhandahåller samhällsviktig verksamhet inom sektorn, samt",
+    "samverka med Säkerhetspolisen och andra berörda myndigheter i syfte att vid behov klargöra eller utveckla rapporteringsvägar för avvikelser eller säkerhetsincidenter."
+   ],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27512:assignments:10"
+  },
+  {
+   "title": "Frivilliga försvarsorganisationer",
+   "group": [],
+   "text": "Myndigheten för civilt försvar ska tillsammans med Försvarsmakten se över och genomföra förenklingar av de administrativa krav som myndigheterna ställer på de frivilliga försvarsorganisationerna avseende återrapportering. Myndigheterna ska redovisa genomförda åtgärder till Regeringskansliet (Försvarsdepartementet) senast den 22 februari 2027.",
+   "dates": [
+    "2027-02-22"
+   ],
+   "deadlines": [
+    "2027-02-22"
+   ],
+   "recipients": [
+    "Regeringskansliet (Försvarsdepartementet)"
+   ],
+   "partners": [
+    "Försvarsmakten"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27512:assignments:11"
+  },
+  {
+   "title": "Lägesbild",
+   "group": [],
+   "text": "Myndigheten för civilt försvar ska stärka nationell informationsförsörjning och operativ lägesbild inom strukturen för civilt försvar. I uppdraget ingår att utveckla analysmodeller, utöka och tydliggöra Myndigheten för civilt försvars förmåga för datainhämtning från myndigheter och andra aktörer samt att använda digitaliseringens möjligheter för effektivare insamling, bearbetning, analys och delgivning. Myndigheten för civilt försvar ska redovisa uppdraget till Regeringskansliet (Försvarsdepartementet) senast den 22 februari 2027.",
+   "dates": [
+    "2027-02-22"
+   ],
+   "deadlines": [
+    "2027-02-22"
+   ],
+   "recipients": [
+    "Regeringskansliet (Försvarsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla",
+    "digitalisering_ai"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27512:assignments:12"
+  },
+  {
+   "title": "Samlad bedömning av åtgärder från anslaget 2:4 Krisberedskap ap.5",
+   "group": [],
+   "text": "Myndigheten för civilt försvar ska redovisa en samlad bedömning av resultatet av de åtgärder som berörda myndigheter, kommuner, regioner, frivilliga försvarsorganisationer och forskningsutförare har vidtagit under 2025 med hjälp av finansiering från anslaget 2:4 Krisberedskap. Redovisningen ska innehålla exempel på verksamhet som har finansierats från anslaget och även inkludera en sammanställning av aktörsgemensamma medel som Myndigheten för civilt försvar sökt och tilldelats. Myndigheten för civilt försvar ska lämna redovisningen till Regeringskansliet (Försvarsdepartementet) senast den 30 april 2026.",
+   "dates": [
+    "2026-04-30"
+   ],
+   "deadlines": [
+    "2026-04-30"
+   ],
+   "recipients": [
+    "Regeringskansliet (Försvarsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [
+    "2:4"
+   ],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27512:assignments:13"
+  },
+  {
+   "title": "Åtgärder för en stärkt innovationsförmåga inom det civila försvaret",
+   "group": [],
+   "text": "Myndigheten för civilt försvar ska vidta åtgärder för en stärkt innovationsförmåga inom det civila försvaret. I arbetet ingår att inrätta ett nationellt program som också omfattar internationella samarbeten. Programmet ska bidra till ett effektivare samspel mellan civila och försvarsorienterade innovationsmiljöer, berörda myndigheter, akademi och privat sektor samt även främja innovativa tekniklösningar med dubbla användningsområden. Uppdraget ska genomföras tillsammans med Vinnova och samverkan ska ske med Vetenskapsrådet, Campus Totalförsvar, relevanta forskningsinstitut samt andra aktörer inom beredskapssystemet.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Verket för innovationssystem",
+    "Vetenskapsrådet"
+   ],
+   "channels": [],
+   "task_types": [
+    "samordna",
+    "utveckla",
+    "beredskap_säkerhet",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27512:assignments:14"
+  },
+  {
+   "title": "Investeringar i ett stärkt civilt försvar i kommuner med särskild betydelse för totalförsvaret",
+   "group": [],
+   "text": "Myndigheten för civilt försvar ska, genom utbetalning av ersättning, stödja kommuner med särskild betydelse för totalförsvaret. Syftet är att stärka kommunernas arbete med civilt försvar och att öka förmågan att utföra sina uppgifter under höjd beredskap och ytterst krig. Medlen ska i huvudsak riktas till investeringar i ledningsplatser och särskilda samlingsplatser men kan vid behov också användas för investeringar eller materiel som syftar till att upprätthålla samhällsviktig verksamhet inom kommunens ansvarsområde som är nödvändig för totalförsvaret, exempelvis reservutrustning eller reparationsutrustning. De medel som myndigheten utbetalar ska som huvudregel användas av kommunerna under 2026 men vid behov kan investeringar eller inköp ske senare, dock inte senare än utgången av 2028. Uppdragets genomförande ska återrapporteras till Regeringskansliet (Försvarsdepartementet) senast 1 september 2026.",
+   "dates": [
+    "2026-09-01"
+   ],
+   "deadlines": [
+    "2026-09-01"
+   ],
+   "recipients": [
+    "Regeringskansliet (Försvarsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "fördela_medel",
+    "utveckla",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27512:assignments:15"
+  },
+  {
+   "title": "Investeringsstöd för decentraliserad försörjningsberedskap",
+   "group": [],
+   "text": "Myndigheten för civilt försvar ska, genom utbetalning av ersättning, fördela medel till kommuner för investeringar i materiel i syfte att stärka kommunernas arbete med civilt försvar och att öka förmågan att utföra sina uppgifter under höjd beredskap och ytterst krig. Ersättningen ska finansiera direkta investeringar i försörjningsberedskap eller ha en nära koppling till försörjningsberedskap och omfattas av den blocköverskridande överenskommelsen från juni 2025 om en historisk upprustning av Sveriges totalförsvar. Investeringsstödet ska utformas på ett sätt som kompletterar insatser inom relevanta beredskapssektorer. Myndigheten för civilt försvar ska närmare specificera villkoren för investeringsstödet, och följa upp att investeringarna motsvarar villkoren. De medel som myndigheten utbetalar ska som huvudregel användas av kommunerna under 2026 men vid behov kan investeringar eller inköp ske senare, dock inte senare än utgången av 2028. Delen av uppdraget som rör villkoren för investeringsstödet ska redovisas till Regeringskansliet (Försvarsdepartementet) senast 1 februari 2026. Uppdragets genomförande ska återrapporteras till Regeringskansliet (Försvarsdepartementet) senast 1 september 2026.",
+   "dates": [
+    "2026-02-01",
+    "2026-09-01"
+   ],
+   "deadlines": [
+    "2026-02-01",
+    "2026-09-01"
+   ],
+   "recipients": [
+    "Regeringskansliet (Försvarsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "fördela_medel",
+    "utveckla",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27512:assignments:16"
+  },
+  {
+   "title": "Cell broadcast",
+   "group": [],
+   "text": "Myndigheten för civilt försvar ska samordna införande av cell broadcast-teknik och vara systemansvarig myndighet för det svenska systemet (SE-Alert) där cell broadcast-tekniken är avsedd att användas för varningar till allmänheten. Uppdraget ska genomföras i samverkan med Post- och telestyrelsen och SOS Alarm Sverige AB. Myndigheten för civilt försvar ska redovisa hur utbetalade medel har använts. Uppdraget ska slutredovisas till Regeringskansliet (Försvarsdepartementet) senast den 30 september 2026. Redovisningen ska redogöra för de åtgärder som vidtagits inom ramen för uppdraget och de kostnader som belastat myndighetens anslag.",
+   "dates": [
+    "2026-09-30"
+   ],
+   "deadlines": [
+    "2026-09-30"
+   ],
+   "recipients": [
+    "Regeringskansliet (Försvarsdepartementet)"
+   ],
+   "partners": [
+    "Post- och telestyrelsen"
+   ],
+   "channels": [
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "fördela_medel",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27512:assignments:17"
+  },
+  {
+   "title": "Rakel",
+   "group": [],
+   "text": "Myndigheten för civilt försvar ska lämna en redovisning avseende kommunikationssystemet Rakel senast den 15 september. Redovisningen ska bl.a. innehålla en redogörelse för hur anslutningen till Rakel har utvecklats och bedöms fortsätta att utvecklas samt en bedömning av kommande års avgiftsintäkter respektive kostnader. Även aktuellt antal grundabonnemang per myndighet inom staten ska redovisas. Redovisningen ska lämnas till Regeringskansliet (Försvarsdepartementet).",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [
+    "Regeringskansliet (Försvarsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27512:assignments:18"
+  },
+  {
+   "title": "Prognoser",
+   "group": [],
+   "text": "Myndigheten för civilt försvar ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Av kommentarerna ska framgå vilka antaganden som använts i prognosen, vilka osäkerhetsfaktorer som finns och vad som orsakat eventuella förändringar. Prognoserna lämnas i informationssystemet Hermes senast den\n\n- 2 februari\n- 22 april\n- 24 juli\n- 9 november\n\nOm prognosen visar på underskott ska myndigheten redovisa vilka åtgärder som har vidtagits eller planeras att vidtas för att verksamheten ska kunna bedrivas inom ramen för tilldelade medel samt vilka konsekvenserna blir för verksamheten på grund av dessa åtgärder.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27512:assignments:19"
+  },
+  {
+   "title": "Prognoser för beställningsbemyndiganden",
+   "group": [],
+   "text": "Myndigheten för civilt försvar ska redovisa en prognos för de förslag om beställningsbemyndiganden som lämnats i budgetunderlaget och för de åtaganden som ingåtts med stöd av äldre beställningsbemyndiganden. Prognosen ska lämnas senast den 24 juli 2026 via Statsredovisningssystem i Hermes och utformas enligt närmare information från Ekonomistyrningsverket.",
+   "dates": [
+    "2026-07-24"
+   ],
+   "deadlines": [
+    "2026-07-24"
+   ],
+   "forecast_dates": [],
+   "recipients": [],
+   "partners": [
+    "Ekonomistyrningsverket"
+   ],
+   "channels": [
+    "hermes",
+    "budgetunderlag"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27512:assignments:20"
+  },
+  {
+   "title": "Pågående uppdrag",
+   "group": [],
+   "text": "Pågående regeringsuppdrag redovisas i*bilaga\\*\\*1*.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "27512:assignments:21"
+  },
+  {
+   "title": "Stöd till Ukraina enligt Extra ändringsbudget för 2026 – Stöd till Ukraina och vaccinberedskap",
+   "group": [],
+   "text": "Myndigheten för civilt försvar ska lämna stöd till Ukraina i form av materiel, utbildning och expertis med sammanlagt 138 100 000 kronor 2026 inom följande områden: räddningstjänstens förmåga till vattenburen minhantering, medicinsk evakuering, räddningstjänst i krig, Ukrainas maritima säkerhet, räddningstjänstens CBRN-förmåga, Repower, innovationsprojekt, skydd av kritisk infrastruktur i samverkan med andra myndigheter, samt Nato-sekundering. Myndigheten ska löpande informera Regeringskansliet (Försvarsdepartementet) om uppdragets utveckling.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "samordna",
+    "informera",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27512:assignments:22"
+  },
+  {
+   "title": "Stöd till Ukraina enligt Extra ändringsbudget för 2026 – proposition 2025/26:275",
+   "group": [],
+   "text": "Myndigheten för civilt försvar ska lämna utbildnings- och materielstöd till ukrainska frivilligorganisationer aktiva inom sjukvårdsutbildning med 20 000 000 kronor 2026. Myndigheten ska löpande informera Regeringskansliet (Försvarsdepartementet) om uppdragets utveckling.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "informera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27512:assignments:23"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "2:2",
+   "name": "Förebyggande åtgärder mot jordskred och andra naturolyckor",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 6,
+    "name": "Försvar och samhällets krisberedskap"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Myndigheten för civilt försvar",
+     "amount_tkr": 506850,
+     "items": [
+      {
+       "ap": "2",
+       "name": "Förebygg. åtgärd. - del till Myndigheten för civilt försvar (ram)",
+       "amount_tkr": 506850
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "2",
+     "name": "Förebygg. åtgärd. - del till Myndigheten för civilt försvar",
+     "text": "**1. Anslagsposten får användas för utbetalning av statsbidrag enligt förordningen (2022:1395) om statsbidrag till kommuner för förebyggande åtgärder mot naturolyckor.**\n**2. Av anslagsposten får högst 15 000 000 kronor användas av Myndigheten för civilt försvar för att bedöma och hantera översvämningsrisker samt för bekostande av uppgifter som enligt förordningen (2009:956) om översvämningsrisker ankommer på länsstyrelser. Medel från anslaget får utbetalas enligt myndighetens anvisningar till länsstyrelserna.**"
+    }
+   ],
+   "caps": [
+    {
+     "ap": "2",
+     "max": 15000000,
+     "unit": "kronor"
+    }
+   ]
+  },
+  {
+   "code": "2:3",
+   "name": "Ersättning för räddningstjänst m.m.",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 6,
+    "name": "Försvar och samhällets krisberedskap"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Myndigheten för civilt försvar",
+     "amount_tkr": 27580,
+     "items": [
+      {
+       "ap": "2",
+       "name": "Ersättning för räddningstjänst m.m. (ram)",
+       "amount_tkr": 27580
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "2",
+     "name": "Ersättning för räddningstjänst m.m.",
+     "text": "**1. Anslagsposten ska användas för ersättning i enlighet med 7 kap. 2 och 3 §§ lagen (2003:778) om skydd mot olyckor.**\n**2. Anslagsposten ska användas för ersättning för miljöräddningstjänst till sjöss. Medlen ska betalas ut till Kustbevakningen efter rekvisition. Medlen ska betalas ut till icke räntebärande konto hos Kustbevakningen.**\n**3. Anslagsposten får användas för kostnader för stöd från andra länder som lämnas till Sverige. Om en annan aktör än Myndigheten för civilt försvar begär hjälpen ska den stå för kostnaderna vid räddningstjänst enligt lagen (2003:778) om skydd mot olyckor.**\n**4. Anslagsposten får användas för att ersätta skada enligt lagen (1977:266) om statlig ersättning vid ideell skada m.m. som avser en försäkrad enligt 7 kap. 2 § andra punkten socialförsäkringsbalken (2010:110).**\n**5. Anslagsposten får användas för att ersätta länsstyrelserna för de bidrag som lämnas för bevakning med skogsbrandsflyg.**"
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "2:4",
+   "name": "Krisberedskap",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 6,
+    "name": "Försvar och samhällets krisberedskap"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Myndigheten för civilt försvar",
+     "amount_tkr": 4102481,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Viss internationell säkerhetsfrämjande och humanitär verksamhet (ram)",
+       "amount_tkr": 328469
+      },
+      {
+       "ap": "4",
+       "name": "Statlig ålderspensionsavgift (ram)",
+       "amount_tkr": 1801
+      },
+      {
+       "ap": "5",
+       "name": "Krisberedskap och totalförsvar (ram)",
+       "amount_tkr": 2872211
+      },
+      {
+       "ap": "6",
+       "name": "Decentraliserad försörjningsberedskap (ram)",
+       "amount_tkr": 900000
+      }
+     ],
+     "sum_ok": true
+    },
+    {
+     "by": "Kammarkollegiet",
+     "amount_tkr": 0,
+     "items": [
+      {
+       "ap": "2",
+       "name": "Krisberedskap - Kommande satsningar civilt försvar (ram)",
+       "amount_tkr": 0
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Viss internationell säkerhetsfrämjande och humanitär verksamhet",
+     "text": "Anslagsposten får användas till vissa internationella civila insatser av förtroendeskapande, humanitära och säkerhetsfrämjande skäl, för att civila resurser ska kunna stödja andra länder. Stödet avser främst länder som inte kategoriseras som biståndsmottagande land av OECD/DAC och länder i EU:s närområde som inte kan finansieras via Sida:s humanitära anslag vid en allvarlig kris eller inför en möjlig allvarlig kris. Anslagsposten får också användas för att anskaffa och skänka materiel för civilt stöd till Ukraina. I det innefattas utgifter för eventuell återanskaffning av bortskänkt materiel. Anslagsposten får även användas för att finansiera fredstida stöd från andra länder vid en allvarlig kris eller inför en möjlig allvarlig kris i Sverige. Anslagsposten får användas först efter beslut av Regeringskansliet (Försvarsdepartementet) med undantag av medel som tillförs anslaget genom extra ändringsbudget för stöd till Ukraina."
+    },
+    {
+     "ap": "4",
+     "name": "Statlig ålderspensionsavgift",
+     "text": "Anslagsposten får användas för utgifter för statlig ålderspensionsavgift enligt lagen (1998:676) om statlig ålderspensionsavgift, för totalförsvarspliktiga som genomför repetitionsutbildning. Anslagsbeloppet avser preliminär statlig ålderspensionsavgift för 2026 om 1 801 000 kronor."
+    },
+    {
+     "ap": "5",
+     "name": "Krisberedskap och totalförsvar",
+     "text": "**1. Bidrag från anslagsposten får lämnas till sådana myndigheter som anges i bilaga 1 till förordningen (2022:524) om statliga myndigheters beredskap eller som har pekats ut efter särskilt beslut av regeringen eller av Myndigheten för civilt försvar.**\nBidragen ska fördelas i enlighet med gällande principer och bör bl.a. användas för att utveckla följande områden:\n- sektorsövergripande arbete för att säkerställa viktiga samhällsfunktioner, särskilt: ekonomisk säkerhet, elektroniska kommunikationer och post, energiförsörjning, finansiella tjänster, försörjning av grunddata, hälsa, vård och omsorg, livsmedelsförsörjning och dricksvatten, ordning och säkerhet, räddningstjänst och skydd av civilbefolkningen, transporter, industri, byggande och handel samt utrikeshandel.\n- planering och förberedelser för stöd till Försvarsmakten under höjd beredskap avseende försörjning av kritiska förnödenheter, egendom och tjänster.\n- näringslivets medverkan i den samlade beredskapen, inklusive eventuella ersättningar enligt gällande regelverk avseende försörjningsberedskap.\n- sektorsövergripande förmågor för ledning och samverkan, kriskommunikation och informationssamordning.\n- åtgärder för att stärka samhällets samlade beredskap och förmåga inom det psykologiska försvaret.\n- planering och förberedelser för att ta emot, hantera och använda nationella och internationella förstärkningsresurser inklusive från frivilligsektorn, i hela hotskalan.\n- åtgärder för att öka människors kunskap om förberedelser inför kriser och höjd beredskap.\nI de fall mottagande myndighet tar in bidraget i icke räntebärande flöden kopplat till statens checkräkning, har de också rätt att använda detta flöde för sina löpande utgifter för den verksamhet som bidragen har utbetalats för.\n**2. Högst 37 000 000 kronor av anslagsposten får användas av Myndigheten för civilt försvar för drift och förvaltning av de regionala ledningsplatserna. I detta belopp ingår inte åtgärder för att höja den tekniska ledningsförmågan.**\n**3. Högst 389 000 000 kronor av anslagsposten får fördelas till kommunerna i enlighet med vad som anges i 10 § förordningen (2006:637) om kommuners och regioners åtgärder inför och vid extraordinära händelser i fredstid och höjd beredskap. Ersättningen avser uppgifter som åligger kommunerna enligt 2 och 3 kap. lagen (2006:544) om kommuners och regioners åtgärder inför och vid extraordinära händelser i fredstid och höjd beredskap.**\nAv det angivna högstbeloppet får 27 000 000 kronor användas för att finansiera kommunernas kostnader för kommunikationssystemet Rakel.\n**4. Högst 50 000 000 kronor av anslagsposten får fördelas till regionerna i enlighet med vad som anges i 11 § förordningen (2006:637) om kommuners och regioners åtgärder inför och vid extraordinära händelser i fredstid och höjd beredskap. Ersättningen avser de uppgifter som åligger regionerna enligt 2 och 3 kap. lagen (2006:544) om kommuners och regioners åtgärder inför och vid extraordinära händelser i fredstid och höjd beredskap.**\n**5. Högst 315 000 000 kronor av anslagsposten får fördelas till kommuner och regioner för att stärka arbetet med civilt försvar, varav 55 000 000 kronor ska fördelas till regionerna.**\n**6. Anslagsposten får användas för att delfinansiera åtgärder för att stärka den tekniska ledningsförmågan genom att lämna bidrag till kommuner, regioner, myndigheter och samhällets alarmeringstjänst för ledningscentraler och räddningscentraler.**\n**7. Anslagsposten får användas för att finansiera utvecklingen av tekniska stödsystem i syfte att förbättra förmågan att gemensamt hantera kriser och situationer under höjd beredskap.**\n**8. Anslagsposten får användas för att arrangera större samverkansövningar, både nationellt och internationellt, i syfte att stärka krisberedskapen och det civila försvaret.**\n**9. Högst 122 400 000 kronor av anslagsposten får användas för uppdragsersättning till frivillig försvarsverksamhet för att höja krisberedskapen i samhället och främja totalförsvaret. För personlig utrustning och kostnader för övningar får högst 25 000 000 kronor användas.**\n**10. Högst 51 000 000 kronor av anslagsposten får användas för organisationsstöd enligt 5 § förordningen (1994:524) om frivillig försvarsverksamhet.**\n**11. Anslagsposten får användas för att finansiera kostnader för stödresurser och förstärkningsmateriel för det civila försvaret och för nationella förstärkningsresurser samt för åtgärder för att vidmakthålla och utveckla krigsspecifika anläggningar. Anslagsposten får även användas för att finansiera investeringar, drift och förvaltning av aktörsgemensamma skyddsvärda utrymmen.**\n**12. Anslagsposten får användas för att finansiera ersättning till civilpliktiga samt övriga kostnader relaterade till en aktivering av civilplikten.**\n**13. Anslagsposten får användas för att finansiera forskning, innovation och studier för civilt försvar, skydd mot olyckor och krisberedskap. I detta ingår inte Myndigheten för civilt försvars administrativa uppgifter.**\n**14. Högst 25 000 000 kronor av anslagsposten får användas för ersättning till SOS Alarm Sverige AB för utveckling av tekniska system och tjänster för att stödja ansvariga aktörer vid hantering av kriser, i enlighet med alarmeringsavtalet mellan svenska staten och SOS Alarm Sverige AB samt för bolagets förmåga att möta totalförsvarets behov.**\n**15. Högst 30 000 000 kronor av anslagsposten får användas för ersättning till SOS Alarm Sverige AB för införandet av cell broadcast-teknik samt för ersättning till berörda aktörer för förvaltning av systemet SE Alert.**\n**16. Anslagsposten får användas för att delfinansiera länsstyrelsernas kostnader för att utveckla krisberedskapen och civilt försvar regionalt och lokalt. I detta ingår länsstyrelsernas arbete med att samordna, stödja och följa upp kommunernas arbete med krisberedskap.**\n**17. Anslagsposten får användas till att finansiera åtgärder inom signalskyddsområdet vid Försvarets radioanstalt.**\n**18. Högst 69 000 000 kronor av anslagsposten får användas för att genomföra förslagen i lagrådsremissen Ett starkare skydd för civilbefolkningen vid höjd beredskap. Medlen får användas i Myndigheten för civilt försvars verksamhet samt fördelas till länsstyrelser, kommuner och regioner som omfattas av genomförandet av lagrådsremissen.**\n**19. Högst 5 000 000 kronor får utbetalas till Totalförsvarets forskningsinstitut (FOI) och användas för genomförande av en konferens avseende civilt försvar.**\n**20. Högst 490 000 000 kronor får fördelas till kommuner med särskild betydelse för totalförsvaret i syfte att stärka förmågan inom det civila försvaret. Ersättning får ges i första hand för investeringskostnader avseende ledningsplatser och särskilda samlingsplatser men vid behov också till investeringar eller material för att säkra upprätthållandet av samhällsviktig verksamhet som är nödvändig för totalförsvaret, t.ex. reparationsutrustning eller reservdelar. Maximalt 10 procent av det utbetalade beloppet får användas till förvaltningskostnader med direkt koppling till investeringen eller inköpet. Medlen får betalas ut engångsvis, i samband med att bidraget beviljas, till de kommuner som Myndigheten för civilt försvar utser efter samverkan med Försvarsmakten.**"
+    },
+    {
+     "ap": "6",
+     "name": "Decentraliserad försörjningsberedskap",
+     "text": "Högst 400 000 000 kronor får fördelas till kommunerna i syfte att stärka förmågan inom det civila försvaret. Ersättning får endast ges för investeringskostnader i enlighet med vad som framgår i uppdraget Investeringsstöd för decentraliserad försörjningsberedskap. Medlen får betalas ut engångsvis, i samband med att bidraget beviljas.\nHögst 500 000 000 kronor får användas för anskaffning av materiel i syfte att bidra till att stärka kommunernas och regionernas försörjningsberedskap. Medlen får användas i enlighet med vad som framgår av uppdrag till Myndigheten för civilt försvar att anskaffa materiel för en decentraliserad försörjningsberedskap (regeringsbeslut den 5 mars 2026, Fö II:3)."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "5",
+     "max": 37000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "5",
+     "max": 389000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "5",
+     "max": 50000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "5",
+     "max": 315000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "5",
+     "max": 122400000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "5",
+     "max": 25000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "5",
+     "max": 51000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "5",
+     "max": 25000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "5",
+     "max": 30000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "5",
+     "max": 69000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "5",
+     "max": 5000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "5",
+     "max": 490000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "6",
+     "max": 400000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "6",
+     "max": 500000000,
+     "unit": "kronor"
+    }
+   ]
+  },
+  {
+   "code": "2:6",
+   "name": "Myndigheten för civilt försvar",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 6,
+    "name": "Försvar och samhällets krisberedskap"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Myndigheten för civilt försvar",
+     "amount_tkr": 2048949,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Myndigheten för civilt försvar (ram)",
+       "amount_tkr": 2048949
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Myndigheten för civilt försvar",
+     "text": "**1. Myndigheten för civilt försvar ska kunna använda och samverka med det gemensamma radiokommunikationssystemet Rakel. Myndigheten ska betala totalt 10 192 000 kronor som abonnemangsavgift för systemet.**\n**2. Högst 33 000 000 kronor av anslagsposten får användas för uppdragsersättning till ideella organisationer för att öka den enskildes förmåga att förebygga och hantera olyckor, allvarliga händelser och kriser samt hantera konsekvenser av höjd beredskap och ytterst krig. Myndigheten för civilt försvar ska som villkor för bidrag ställa krav på redovisning från organisationerna.**\n**3. Högst 30 000 000 kronor av anslagsposten får användas för drift och vidmakthållande av vissa reservfunktioner inom etermedia.**\n**4. Högst 35 000 000 kronor av anslagsposten får användas för ersättning till kommunerna för kostnader relaterade till grundutbildning för deltidsanställd räddningstjänstpersonal.**\n**5. Myndigheten för civilt försvar får använda och fördela 62 000 000 kronor av anslaget för beredskapsåtgärder avseende kärnteknisk verksamhet. Medlen får användas i Myndigheten för civilt försvars verksamhet samt fördelas till länsstyrelser som omfattas av beredskaps- och planeringszoner samt till länsstyrelser med särskilt ansvar att hålla personalberedskap efter överenskommelse med Strålsäkerhetsmyndigheten.**\n**6. Anslagsposten får användas för att finansiera kostnader för varning till allmänheten vid olyckor och kriser samt höjd beredskap.**\n**7. Anslagsposten får användas för att betala ut bidrag till kommunal räddningstjänst för att stärka förmågan att agera under höjd beredskap.**\n**8. 30 000 000 kronor av anslagsposten får användas för nationell kartläggning av teknisk förmåga hos små och medelstora aktörer.**\n**9. Anslagsposten får användas för utbetalning av stöd enligt förordning (2024:664) om stöd till åtgärder för cybersäkerhet inom näringsliv, teknik och forskning.**\n**10. Högst 115 000 000 kronor av anslagsposten får användas för att finansiera beredskap och indirekta kostnader för att genomföra internationella insatser som är i enlighet med OECD/DAC:s riktlinjer för vad som kan klassificeras som bistånd.**"
+    }
+   ],
+   "caps": [
+    {
+     "ap": "1",
+     "max": 33000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "1",
+     "max": 30000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "1",
+     "max": 35000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "1",
+     "max": 115000000,
+     "unit": "kronor"
+    }
+   ]
+  },
+  {
+   "code": "2:9",
+   "name": "Rakel Generation 2",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 6,
+    "name": "Försvar och samhällets krisberedskap"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Myndigheten för civilt försvar",
+     "amount_tkr": 799389,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Rakel Generation 2 (ram)",
+       "amount_tkr": 799389
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Rakel Generation 2",
+     "text": "Anslagsposten får användas för utgifter för att finansiera förberedelser samt drifts- och investeringskostnader avseende Rakel Generation 2."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "2:2 Förebyggande åtgärder mot jordskred och andra naturolyckor",
+   "ap": "ap.2",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:3 Ersättning för räddningstjänst m.m.",
+   "ap": "ap.2",
+   "Anslagskredit": 1379,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:4 Krisberedskap",
+   "ap": "ap.1",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": 60000,
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:4 Krisberedskap",
+   "ap": "ap.2",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:4 Krisberedskap",
+   "ap": "ap.4",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:4 Krisberedskap",
+   "ap": "ap.5",
+   "Anslagskredit": 85699,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:4 Krisberedskap",
+   "ap": "ap.6",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:6 Myndigheten för civilt försvar",
+   "ap": "ap.1",
+   "Anslagskredit": 60523,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:9 Rakel Generation 2",
+   "ap": "ap.1",
+   "Anslagskredit": 23981,
+   "Anslagsbehållning som disponeras 2026": "Allt",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 550000,
+  "Räntekontokredit": 400000,
+  "- Låneram": 1200000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 234737
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 234737
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 234737
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 234737
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 234737
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 241523
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 238856
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 238856
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 238856
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 238856
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 238856
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 238850
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "2:2 Förebyggande åtgärder mot jordskred och andra naturolyckor",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.2",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "2:3 Ersättning för räddningstjänst m.m.",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.2",
+     "1 379",
+     "Inget",
+     "0"
+    ],
+    [
+     "2:4 Krisberedskap",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "0",
+     "60 000",
+     "0"
+    ],
+    [
+     "ap.2",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.4",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.5",
+     "85 699",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.6",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "2:6 Myndigheten för civilt försvar",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "60 523",
+     "3 %",
+     "0"
+    ],
+    [
+     "2:9 Rakel Generation 2",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "23 981",
+     "Allt",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Beställningsbemyndiganden",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Bemyndigande",
+     "Utgifter mot anslag till följd av ekonomiska åtaganden",
+     "",
+     "",
+     ""
+    ],
+    [
+     "2026",
+     "2027",
+     "2028",
+     "2029 -",
+     "Slutår"
+    ],
+    [
+     "2:2 Förebyggande åtgärder mot jordskred och andra naturolyckor",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.2",
+     "750 000",
+     "231 000",
+     "238 000",
+     "281 000",
+     "2032"
+    ],
+    [
+     "2:4 Krisberedskap",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.5",
+     "2 600 000",
+     "1 306 675",
+     "832 967",
+     "460 358",
+     "2032"
+    ],
+    [
+     "ap.6",
+     "500 000",
+     "250 000",
+     "250 000",
+     "0",
+     "2032"
+    ],
+    [
+     "ap.1",
+     "132 100",
+     "101 100",
+     "31 000",
+     "",
+     "2028"
+    ],
+    [
+     "2:9 Rakel Generation 2",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "2 595 000",
+     "840 000",
+     "827 000",
+     "928 000",
+     "2029"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "550 000"
+    ],
+    [
+     "Räntekontokredit",
+     "400 000"
+    ],
+    [
+     "Låneram för samhällsinvesteringar"
+    ],
+    [
+     "- Låneram",
+     "1 200 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "234 737"
+    ],
+    [
+     "2026-02-25",
+     "234 737"
+    ],
+    [
+     "2026-03-25",
+     "234 737"
+    ],
+    [
+     "2026-04-25",
+     "234 737"
+    ],
+    [
+     "2026-05-25",
+     "234 737"
+    ],
+    [
+     "2026-06-25",
+     "241 523"
+    ],
+    [
+     "2026-07-25",
+     "238 856"
+    ],
+    [
+     "2026-08-25",
+     "238 856"
+    ],
+    [
+     "2026-09-25",
+     "238 856"
+    ],
+    [
+     "2026-10-25",
+     "238 856"
+    ],
+    [
+     "2026-11-25",
+     "238 856"
+    ],
+    [
+     "2026-12-25",
+     "238 850"
+    ],
+    [
+     "Summa",
+     "2 848 338"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "2:6 ap.1",
+     "Myndigheten för civilt försvar"
+    ],
+    [
+     "2:9 ap.1",
+     "Rakel Generation 2"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Offentligrättslig verksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Intyg förare1",
+     "3 038",
+     "0",
+     "6 615",
+     "7 496",
+     "-881",
+     "2 157"
+    ],
+    [
+     "Uppdragsverksamhet med bestämt ekonomiskt mål",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Tekniska system1",
+     "0",
+     "-6 647",
+     "50 200",
+     "51 646",
+     "-1 446",
+     "-8 093"
+    ],
+    [
+     "Tjänsteexport1",
+     "74",
+     "0",
+     "4 000",
+     "4 000",
+     "0",
+     "74"
+    ],
+    [
+     "Internationella insatser2",
+     "88",
+     "0",
+     "195 000",
+     "195 000",
+     "0",
+     "88"
+    ],
+    [
+     "Rakel2",
+     "115 196",
+     "-217 070",
+     "812 500",
+     "1 034 625",
+     "-222 125",
+     "-323 999"
+    ],
+    [
+     "Uppdragsutbildning kost och logi1",
+     "6 183",
+     "-1 500",
+     "46 000",
+     "47 500",
+     "-1 500",
+     "3 183"
+    ],
+    [
+     "Beredskapslagring1",
+     "0",
+     "0",
+     "20",
+     "20",
+     "0",
+     "0"
+    ],
+    [
+     "Summa",
+     "121 541",
+     "-225 217",
+     "1 107 720",
+     "1 332 791",
+     "-225 071",
+     "-328 747"
+    ],
+    [
+     "Övrig uppdragsverksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Tjänsteexport uppdrag åt EU3",
+     "0"
+    ],
+    [
+     "Uppdragsutbildning utförare Försvarshögskolan3",
+     "12 000"
+    ],
+    [
+     "Summa",
+     "0",
+     "0",
+     "12 000",
+     "0",
+     "0",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna ej disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "Ink. tit.",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Offentligrättslig verksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Ersättning för kostnader för räddningstjänst och sanering1",
+     "2713",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0"
+    ]
+   ]
+  }
+ ],
+ "has_fee_section": true,
+ "exceptions_text": "1. Anläggningstillgångar som finansieras från anslaget 2:4*Krisberedskap*är undantagna från kravet på lånefinansiering i 2 kap. 1 § kapitalförsörjningsförordningen (2011:210). Detta undantag gäller även för de anläggningstillgångar som övriga myndigheter anskaffar och som finansieras från anslaget 2:4 Krisberedskap.\n\n**2. Överskottsmateriel som Myndigheten för civilt försvar tar emot från Försvarsmakten får skänkas bort i samband med internationella insatser och ska därför inte ha något bokfört värde. Övertalig räddningstjänstmateriel för höjd beredskap får skänkas bort till kommuner, ideella organisationer och myndigheter. Överlåtelse får göras med undantag från krav på affärsmässighet i 7 § förordningen (1996:1191) om överlåtelse av statens lösa egendom.**\n\n**3. Myndigheten för civilt försvar medges att för utbyggnaden av infrastrukturen för Rakel, med undantag från 9 § förordningen (1993:528) om statliga myndigheters lokalförsörjning, teckna arrende och hyresavtal som omfattar en period om högst 20 år. Myndigheten för civilt försvar får vidare köpa reservkraft kopplat till Rakel, som en förskottsbetald tjänst. Förskottsbetalningen får omfatta en tid om högst 15 år per installationsplats.**\n\nVidare får uppförande och förvaltning av master med tillhörande teknisk utrustning inom Rakelverksamheten enligt 16 § förordningen (2008:1002) med instruktion för Myndigheten för civilt försvar, genomföras utan hinder av förordningen (1993:527) om förvaltning av statliga fastigheter, m.m.\n\n**4. Internationella insatser enligt 8 eller 9 §§ förordningen (2008:1002) med instruktion för Myndigheten för civilt försvar som inbegriper att på uppdrag av annan uppföra och överlåta fast egendom får genomföras utan hinder av förordningen (1993:527) om förvaltning av statliga fastigheter, m.m. eller förordningen (1996:1190) om överlåtelse av statens fasta egendom, m.m.**\n\n**5. Myndigheten för civilt försvar får, i likhet med fastighetsförvaltande myndigheter enligt förordningen (1993:527) om förvaltning av statliga fastigheter, m.m., bedriva fastighetsförvaltning inom utbildningsverksamheten i Revinge avseende byggnaderna Osby (lektionssal och omklädningsrum), Kallgarage 1, Kallgarage 2, Carport, Lastbils- och bussgarage, Lektionssal 11 samt Högby (kontorslokal).**\n\n**6. Bestämmelsen i 9 a § första stycket förordningen (1993:528) om statliga myndigheters lokalförsörjning om att en myndighet inte får ingå hyresavtal för bostadslägenhet i syfte att upplåta lägenheten i andra hand för att förse någon enskild med bostad, ska inte tillämpas på myndigheten.**\n\n**7. Anläggningstillgångar avseende Rakel Generation 2 som finansieras från balanserat överskott i nuvarande Rakelverksamhet är undantagna från kravet på lånefinansiering i 2 kap. 1 § kapitalförsörjningsförordningen (2011:210).**\n\n8. Anläggningstillgångar som anskaffas för att planera och förbereda vidare utveckling och etablering av Rakel Generation 2 och där finansiering sker från anslaget 2:9*Rakel Generation 2*är undantagna från kravet på lånefinansiering i 2 kap. 1 § kapitalförsörjningsförordningen (2011:210). Detta undantag gäller även för de anläggningstillgångar som övriga myndigheter anskaffar och som finansieras från anslaget 2:9*Rakel Generation 2*.\n\n**9. Myndigheten för civilt försvar medges, med undantag från 9 § förordningen (1993:528) om statliga myndigheters lokalförsörjning, att för ett lokalbehov som föranleds av ett behov av lagerhållning inför höjd beredskap teckna hyres- och arrendeavtal som omfattar en period om högst 15 år.**\n\nPå regeringens vägnar\n\nCarl-Oskar Bohlin\n\nAnna Jarnhamn\n\n**Kopia till**\n\nStatsrådsberedningen, internrevisionen, samordningen\\\nFinansdepartementets budgetavdelning\\\nFörvaltningsavdelningen, RK Ekonomi och affärer\\\nRiksdagens försvarsutskott\\\nAffärsverket svenska kraftnät\\\nFolke Bernadotteakademin\\\nFörsvarshögskolan (Campus Totalförsvar)\\\nFörsvarsmakten\\\nKammarkollegiet\\\nKustbevakningen\\\nLänsstyrelserna\\\nMigrationsverket\\\nMyndigheten för totalförsvarsanalys\\\nNaturvårdsverket\\\nPensionsmyndigheten\\\nPost- och telestyrelsen\\\nRiksgäldskontoret\\\nRymdstyrelsen\\\nStrålsäkerhetsmyndigheten\\\nSveriges geologiska undersökning\\\nTrafikverket\\\nVetenskapsrådet\\\nVinnova\\\nSOS Alarm Sverige AB",
+ "summary": {
+  "n_goals": 14,
+  "n_org": 1,
+  "n_assignments": 24,
+  "n_deadlines": 12,
+  "deadlines": [
+   "2026-02-01",
+   "2026-03-31",
+   "2026-04-30",
+   "2026-05-04",
+   "2026-06-15",
+   "2026-07-24",
+   "2026-09-01",
+   "2026-09-30",
+   "2026-10-30",
+   "2026-12-31",
+   "2027-02-22",
+   "2027-02-28"
+  ],
+  "partners": [
+   "Ekonomistyrningsverket",
+   "Försvarsmakten",
+   "Migrationsverket",
+   "Naturvårdsverket",
+   "Post- och telestyrelsen",
+   "Rymdstyrelsen",
+   "Sveriges geologiska undersökning",
+   "Säkerhetspolisen",
+   "Verket för innovationssystem",
+   "Vetenskapsrådet"
+  ],
+  "n_appropriations": 5,
+  "appropriations_total_tkr": 7485249,
+  "payment_plan_total_tkr": 2848338,
+  "md_chars": 53006
+ },
+ "layout": "standard",
+ "warnings": []
+}

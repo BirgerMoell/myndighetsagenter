@@ -1,0 +1,25 @@
+year  agency  with_items  untitled/items  with_appr  sums_ok/checked  pay_plan  | anslag letters with_appr | warnings
+2003    597     89%     905/6643       94%        0/0           0%  |    3   33% | {'no_verksamhet_block': 20, 'no_finansiering_block': 2}
+2004    567     96%     397/11462      97%        0/0           7%  |  143   98% | {'verksamhet_unstructured': 3, 'appropriations_not_parsed': 1}
+2005    642    100%     228/15938      95%        0/0           8%  |  203  100% | {'appropriations_not_parsed': 2, 'no_finansiering_block': 5}
+2006    461     96%     159/10337      94%     2137/2137       86%  |  166   99% | {'no_verksamhet_block': 7, 'verksamhet_unstructured': 1, 'no_finansiering_block': 5}
+2007    472     96%     134/9790       94%     2164/2164       87%  |  151   98% | {'no_verksamhet_block': 18, 'no_finansiering_block': 12, 'verksamhet_unstructured': 1}
+2008    500     96%     130/9307       94%     2190/2190       87%  |  176   99% | {'no_finansiering_block': 9, 'no_verksamhet_block': 14, 'verksamhet_unstructured': 1}
+2009    607     94%     222/5522       95%     2662/2662       88%  |  195   97% | {'no_verksamhet_block': 30, 'no_finansiering_block': 8, 'verksamhet_unstructured': 2}
+2010    462     95%     182/4096       94%     2133/2133       84%  |  182  100% | {'no_finansiering_block': 9, 'no_verksamhet_block': 20}
+2011    413     95%     145/4295       95%     1931/1931       90%  |  204   99% | {'no_verksamhet_block': 15, 'no_finansiering_block': 6}
+2012    447     93%     161/3797       95%     1675/1675       90%  |  193  100% | {'no_verksamhet_block': 15, 'no_finansiering_block': 4}
+2013    423     97%     120/3954       96%     1590/1590       91%  |  185   99% | {'no_verksamhet_block': 9, 'no_finansiering_block': 2}
+2014    424     97%     113/4453       96%     1623/1623       91%  |  204   99% | {'no_verksamhet_block': 11, 'no_finansiering_block': 2}
+2015    440     97%     135/3767       96%     1530/1530       92%  |  220  100% | {'no_verksamhet_block': 10, 'verksamhet_unstructured': 1, 'no_finansiering_block': 4}
+2016    439     94%     169/3938       97%     1670/1670       92%  |  204  100% | {'no_verksamhet_block': 10, 'no_finansiering_block': 1}
+2017    399     97%     105/4123       97%     1378/1378       92%  |  183   99% | {'no_verksamhet_block': 9, 'no_finansiering_block': 1}
+2018    445     97%     134/5037       96%     1865/1865       92%  |  209  100% | {'no_verksamhet_block': 8, 'no_finansiering_block': 1}
+2019    528     99%     131/4772       98%     1962/1962       95%  |  208  100% | {'no_verksamhet_block': 3, 'no_finansiering_block': 2}
+2020    549     95%     174/5358       98%     2108/2108       95%  |  252  100% | {'no_finansiering_block': 4, 'no_verksamhet_block': 4}
+2021    588     99%     144/6090       99%     2487/2487       96%  |  242  100% | {'no_finansiering_block': 3, 'no_verksamhet_block': 3}
+2022    480     99%      92/6067       98%     2092/2092       95%  |  246  100% | {'no_finansiering_block': 1, 'no_verksamhet_block': 2}
+2023    463     98%      75/5320       99%     1954/1954       95%  |  219   99% | {'no_verksamhet_block': 3, 'no_finansiering_block': 2}
+2024    435     98%      62/4892       99%     1715/1715       95%  |  236  100% | {'no_finansiering_block': 2, 'no_verksamhet_block': 3}
+2025    521     99%      39/5740       99%     2098/2098       95%  |  215   98% | {'no_verksamhet_block': 1, 'no_finansiering_block': 2}
+2026    400     99%      33/5020       98%     1588/1588       94%  |  192  100% | {'no_finansiering_block': 2, 'no_verksamhet_block': 1}

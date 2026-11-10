@@ -1,0 +1,541 @@
+{
+ "schema_version": 1,
+ "id": 27529,
+ "original_rbid": 25715,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-09-03",
+ "year": "2026",
+ "name": "Etikprövningsmyndigheten",
+ "slug": "etikprovningsmyndigheten",
+ "department": "Utbildningsdepartementet",
+ "expenditure_areas": [
+  16
+ ],
+ "registry_numbers": [
+  "U2026/01563"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1",
+   "2025/26:99"
+  ],
+  "bet": [
+   "2025/26:FiU",
+   "2025/26:UbU1"
+  ],
+  "rskr": [
+   "2025/26:124",
+   "2025/26:349"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "",
+ "goals": [
+  {
+   "title": "Återrapportering av ärenden",
+   "group": [],
+   "text": "Etikprövningsmyndigheten ska redovisa inkomna, avgjorda, överklagade och överlämnade ärenden. Avgiftsinkomster ska vara uppdelade enligt de olika typer av ansökningar som anges i bilagan till förordningen (2003:615) om etikprövning av forskning som avser människor. Vidare ska antalet ärenden inom medicinsk respektive övrig forskning specificeras.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2003:615"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27529:goals:0"
+  },
+  {
+   "title": "Effektiv tillståndsprocess",
+   "group": [],
+   "text": "Etikprövningsmyndigheten ska återrapportera hur myndigheten arbetar för att effektivisera tillståndsprocessen för kliniska prövningar enligt nationella förordningar samt Europaparlamentets och rådets förordning (EU) nr 536/2014 om kliniska prövningar av humanläkemedel, förordning (EU) 2017/745 om medicintekniska produkter och förordning (EU) 2017/746 om medicintekniska produkter för in vitro-diagnostik. Vidare ska Etikprövningsmyndigheten återrapportera hur myndigheten samverkar med Läkemedelsverket och Regionala Biobankscentra för att skapa en mer sammanhållen och förutsägbar process.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Läkemedelsverket"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27529:goals:1"
+  },
+  {
+   "title": "Informations- och cybersäkerhet",
+   "group": [],
+   "text": "Etikprövningsmyndigheten ska övergripande redogöra för hur myndigheten arbetar för att stärka den egna informations- och cybersäkerheten och hur myndigheten planerar för att möta framtida behov. Redovisningen ska innehålla en beskrivning av åtgärder för att utveckla den interna styrningen och uppföljningen av informations- och cybersäkerhetsarbetet.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27529:goals:2"
+  }
+ ],
+ "org": [],
+ "assignments": [
+  {
+   "title": "Statistik över klinisk forskning",
+   "group": [],
+   "text": "Etikprövningsmyndigheten ska redovisa statistik över klinisk forskning i Sverige. Redovisningen ska lämnas till Regeringskansliet (Utbildningsdepartementet) senast den 15 maj 2026.",
+   "dates": [
+    "2026-05-15"
+   ],
+   "deadlines": [
+    "2026-05-15"
+   ],
+   "recipients": [
+    "Regeringskansliet (Utbildningsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "statistik_data"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27529:assignments:0"
+  },
+  {
+   "title": "Prognoser",
+   "group": [],
+   "text": "Etikprövningsmyndigheten ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Prognoserna lämnas i informationssystemet Hermes senast den\n\n– 2 februari,\n\n– 22 april,\n\n– 24 juli, och\n\n– 9 november.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27529:assignments:1"
+  },
+  {
+   "title": "Verksamhetens indelning",
+   "group": [],
+   "text": "För att möta krav på kortare handläggningstider för kliniska prövningar av läkemedel och medicintekniska produkter ska Etikprövningsmyndigheten se över rådande indelning av verksamhetsregioner, verksamhetsorter och avdelningar och vid behov föreslå en alternativ indelning. I uppdraget ingår att bedöma hur en ökad effektivitet i verksamheten kan uppnås genom en förändrad indelning. Uppdraget ska redovisas till Regeringskansliet (Utbildningsdepartementet) senast den 31 december 2026.",
+   "dates": [
+    "2026-12-31"
+   ],
+   "deadlines": [
+    "2026-12-31"
+   ],
+   "recipients": [
+    "Regeringskansliet (Utbildningsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "föreslå"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27529:assignments:2"
+  },
+  {
+   "title": "Vägledning om begreppet ringa risk och tillämpning av undantag från kravet på etikgodkännande för viss forskning",
+   "group": [],
+   "text": "Etikprövningsmyndigheten ska ta fram en vägledning vad gäller bedömningen av begreppet ringa risk och i vilka fall undantagen från kravet på etikgodkännande för viss forskning kan tillämpas. Uppdraget ges med anledning av propositionen En mer ändamålsenlig reglering av etikprövning av forskning som avser människor (prop. 2025/26:260). I genomförandet av uppdraget ska synpunkter inhämtas från relevanta myndigheter och aktörer såsom Överklagandenämnden för etikprövning, Vetenskapsrådet och universitet och högskolor. Uppdraget ska redovisas till Regeringskansliet (Utbildningsdepartementet) senast den 31 mars 2027.",
+   "dates": [
+    "2027-03-31"
+   ],
+   "deadlines": [
+    "2027-03-31"
+   ],
+   "recipients": [
+    "Regeringskansliet (Utbildningsdepartementet)"
+   ],
+   "partners": [
+    "Vetenskapsrådet",
+    "universitet och högskolor",
+    "Överklagandenämnden för etikprövning"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla",
+    "informera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27529:assignments:3"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "3:11",
+   "name": "Etikprövningsmyndigheten",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 16,
+    "name": "Utbildning och universitetsforskning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Etikprövningsmyndigheten",
+     "amount_tkr": 64495,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Etikprövningsmyndigheten (ram)",
+       "amount_tkr": 64495
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Etikprövningsmyndigheten",
+     "text": "Anslagsposten får användas för Etikprövningsmyndighetens förvaltningsutgifter."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "3:11 Etikprövningsmyndigheten",
+   "ap": "ap.1",
+   "Anslagskredit": 1754,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 3000,
+  "Räntekontokredit": 3500
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 4875
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 4875
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 4875
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 4875
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 4875
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 4875
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 5875
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 5875
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 5875
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 5875
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 5875
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 5870
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "3:11 Etikprövningsmyndigheten",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "1 754",
+     "3 %",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "3 000"
+    ],
+    [
+     "Räntekontokredit",
+     "3 500"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "4 875"
+    ],
+    [
+     "2026-02-25",
+     "4 875"
+    ],
+    [
+     "2026-03-25",
+     "4 875"
+    ],
+    [
+     "2026-04-25",
+     "4 875"
+    ],
+    [
+     "2026-05-25",
+     "4 875"
+    ],
+    [
+     "2026-06-25",
+     "4 875"
+    ],
+    [
+     "2026-07-25",
+     "5 875"
+    ],
+    [
+     "2026-08-25",
+     "5 875"
+    ],
+    [
+     "2026-09-25",
+     "5 875"
+    ],
+    [
+     "2026-10-25",
+     "5 875"
+    ],
+    [
+     "2026-11-25",
+     "5 875"
+    ],
+    [
+     "2026-12-25",
+     "5 870"
+    ],
+    [
+     "Summa",
+     "64 495"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "3:11 ap.1",
+     "Etikprövningsmyndigheten"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Avgiftsbelagd verksamhet där intäkterna disponeras",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Avgifter avseende Nämnden för prövning av oredlighet i forskning2",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0"
+    ],
+    [
+     "Avgifter avseende Nämnden för prövning av oredlighet i forskning3",
+     "12 800"
+    ],
+    [
+     "Summa",
+     "0",
+     "0",
+     "12 800",
+     "0",
+     "0",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna ej disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "Ink. tit.",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Avgiftsbelagd verksamhet där avgifterna ej disponeras",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Avgifter för etikprövning3",
+     "2559",
+     "32 000"
+    ]
+   ]
+  }
+ ],
+ "has_fee_section": true,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 3,
+  "n_org": 0,
+  "n_assignments": 4,
+  "n_deadlines": 3,
+  "deadlines": [
+   "2026-05-15",
+   "2026-12-31",
+   "2027-03-31"
+  ],
+  "partners": [
+   "Läkemedelsverket",
+   "Vetenskapsrådet",
+   "universitet och högskolor",
+   "Överklagandenämnden för etikprövning"
+  ],
+  "n_appropriations": 1,
+  "appropriations_total_tkr": 64495,
+  "payment_plan_total_tkr": 64495,
+  "md_chars": 7748
+ },
+ "layout": "standard",
+ "warnings": []
+}

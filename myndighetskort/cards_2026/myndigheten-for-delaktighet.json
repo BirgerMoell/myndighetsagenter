@@ -1,0 +1,403 @@
+{
+ "schema_version": 1,
+ "id": 25691,
+ "original_rbid": 25691,
+ "type": "Regleringsbrev",
+ "category": "Myndighet",
+ "date": "2025-12-18",
+ "year": "2026",
+ "name": "Myndigheten för delaktighet",
+ "slug": "myndigheten-for-delaktighet",
+ "department": "Socialdepartementet",
+ "expenditure_areas": [
+  9
+ ],
+ "registry_numbers": [
+  "S2025/02147 (delvis)"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1"
+  ],
+  "bet": [
+   "2025/26:SoU1"
+  ],
+  "rskr": [
+   "2025/26:114"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "Myndigheten för delaktighet ska genom uppfyllandet av sina uppgifter bidra till att beslutat mål för funktionshinderspolitiken uppnås (prop. 2016/17:188, bet. 2017/18:SoU5, rskr. 2017/18:86).",
+ "goals": [
+  {
+   "title": "Öka förmågan att använda AI och ny teknik genom datadrivet arbete",
+   "group": [],
+   "text": "Myndigheten för delaktighet ska redovisa i vilken utsträckning de arbetar datadrivet samt vilka åtgärder de vidtagit för att förbättra sin förmåga att arbeta datadrivet.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "statistik_data",
+    "digitalisering_ai"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25691:goals:0"
+  }
+ ],
+ "org": [],
+ "assignments": [
+  {
+   "title": null,
+   "group": [],
+   "text": "*1. Prognoser*\n\nMyndigheten för delaktighet ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Prognoserna ska lämnas i informationssystemet Hermes senast den:\n\n2 februari,\n\n22 april,\n\n24 juli,\n\n9 november.\n\nMyndigheten för delaktighet ska även redovisa en prognos för de förslag om beställningsbemyndiganden som lämnats i budgetunderlaget och för de åtaganden som ingåtts med stöd av äldre beställningsbemyndiganden. Prognosen ska lämnas senast 24 juli 2026 via Statsredovisningssystemet i Hermes och utformas enligt närmare information från Statskontoret.\n\n*2. Uppdrag att se över översättning av Sveriges rekommendationer från FN:s kommitté för rättigheter för personer med funktionsnedsättning*\n\nMyndigheten för delaktighet ska, i dialog med funktionshindersorganisationerna, se över den svenska översättningen av de rekommendationer som Sverige mottog i mars 2024 från FN:s kommitté för rättigheter för personer med funktionsnedsättning (CRPD/C/SWE/CO/2–3). Myndigheten ska senast den 5 juni 2026 lämna ett förslag på nödvändiga rättelser till Regeringskansliet (Socialdepartementet).\n\n*3. Uppdrag att bidra med kunskap i Jämställdhetsmyndighetens uppdrag om könsstympning*\n\nMyndigheten för delaktighet ska bidra med kunskap och erfarenheter i Jämställdhetsmyndighetens uppdrag att samordna arbetet med att förebygga och bekämpa könsstympning av flickor och kvinnor som gavs i regleringsbreven för budgetåren 2024 och 2026 avseende Jämställdhetsmyndigheten. För uppdraget får Myndigheten för delaktighet under 2026 använda högst 750 000 kronor som ska redovisas mot det under utgiftsområde 13 Integration och jämställdhet för budgetåret 2026 uppförda anslaget 3:1 Särskilda jämställdhetsåtgärder, anslagsposten 12 Jämställdhetsinsatser efter regeringsbeslut. Medlen betalas ut engångsvis efter rekvisition till Kammarkollegiet senast den 1 december 2026. Medel som inte har använts för avsett ändamål ska återbetalas senast den 31 mars 2027 till Kammarkollegiet. En ekonomisk redovisning ska lämnas till Kammarkollegiet senast 31 mars 2027. Redovisning, rekvisition och återbetalning ska hänvisa till regleringsbrevet för budgetåret 2026 avseende Myndigheten för delaktighet.",
+   "dates": [
+    "2026-06-05",
+    "2026-07-24",
+    "2026-12-01",
+    "2027-03-31"
+   ],
+   "deadlines": [
+    "2026-06-05",
+    "2026-07-24",
+    "2026-12-01",
+    "2027-03-31"
+   ],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [
+    "Kammarkollegiet",
+    "Regeringskansliet (Socialdepartementet)"
+   ],
+   "partners": [
+    "Jämställdhetsmyndigheten",
+    "Kammarkollegiet",
+    "Statskontoret"
+   ],
+   "channels": [
+    "hermes",
+    "budgetunderlag"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos",
+    "samordna"
+   ],
+   "anslag_refs": [
+    "3:1"
+   ],
+   "expenditure_area_refs": [
+    13
+   ],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "25691:assignments:0"
+  },
+  {
+   "title": "Pågående uppdrag",
+   "group": [],
+   "text": "| | | |\n| --- | --- | --- |\n| **Uppdrag** | **Uppdrag givet i** | **Avrapportering** |\n| Uppdrag att ge stöd till de myndigheter som omfattas av regeringens strategi för systematisk uppföljning av funktionshinderspolitiken 2021–2031 | Regeringsbeslut S2021/06596 och S2025/01367 | Årligen den 1 april t.o.m 2031. |\n| Uppdrag att ge stöd och vägledning till Folkbildningsrådet 2021–2031 när det gäller uppföljningen av det nationella målet för funktionshinderspolitiken samt hur Folkbildningsrådets redovisning av genomförandet av funktionshinderspolitiken ska ske | Regleringsbrev 2021 (ändringsbeslut) och S2025/01367 | Löpande t.o.m. 2031. |\n| Uppdrag att hålla rådet för hållbara städer informerat om nya kunskapsstöd, metoder och finansieringsmöjligheter inom rådets sakområde som myndigheterna tillhandahåller | Regeringsbeslut Fi2022/00907 | Den 31 december 2030. |\n| Uppdrag att bistå Socialstyrelsen i arbetet med kvalitetsindikatorer för skyddade boenden utifrån ett funktionshindersperspektiv | Regleringsbrev 2024 | Den 1 december 2026. |\n| Uppdrag att informera berörda aktörer om de rekommendationer som Förenta nationernas kommitté för rättigheter för personer med funktionsnedsättning har lämnat till Sverige | Regleringsbrev 2024 (ändringsbeslut) | Den 15 februari 2026. |\n| Uppdrag att stärka och främja sexuell och reproduktiv hälsa och rättigheter | Regeringsbeslut A2024/01236 | Delredovisas av Folkhälsomyndigheten den 31 mars 2026 och den 31 mars 2027. Slutredovisas av Folkhälsomyndigheten den 31 mars 2028. |\n| Uppdrag att redovisa resultat inom ramen för regeringens utvecklingsprogram för jämställdhetsintegrering i statliga myndigheter | Regeringsbeslut A2024/01457 | Den 20 januari 2026. |\n| Uppdrag att medverka i Folkhälsomyndighetens och Socialstyrelsens uppdrag att samordna, stödja och följa upp genomförandet av den nationella strategin inom området psykisk hälsa och suicidprevention | Regeringsbeslut S2025/00016 (delvis) | Delredovisas av Folkhälsomyndigheten och Socialstyrelsen senast den 19 december 2026 respektive den 19 december 2027. Slutredovisas av Folkhälsomyndigheten och Socialstyrelsen den 19 december 2028. |\n| Uppdrag att bidra med kunskap och erfarenheter i Jämställdhetsmyndighetens samordnande uppdrag om könsstympning | Regleringsbrev 2025 | Den 31 mars 2026 (ekonomisk redovisning). |\n| Uppdrag att ta fram och sprida stödmaterial om hur behov och förutsättningar bland barn och unga med funktionsnedsättning kan integreras i arbetet med att förebygga och motverka kriminellt beteende bland barn och unga | Regleringsbrev 2025 (ändringsbeslut) | Den 30 april 2026. |\n| Uppdrag att med utgångspunkt i tidigare redovisade uppdrag (S2023/02178) sprida framtaget stöd- och utbildningsmaterial för att förebygga och motverka våld mot barn och unga med funktionsnedsättning | Regleringsbrev 2025 (ändringsbeslut) | Muntlig delredovisning den 15 februari 2026. Slutredovisning den 30 mars 2027. |\n| Uppdrag att inrätta en nationell funktion för samordning av tolktjänsten | Regeringsbeslut S2025/00795 | Den 1 mars 2026. |\n| Uppdrag att stödja kommuner och regioner i deras genomförande av funktionshinderspolitiken | Regeringsbeslut S2025/00795 | Den 1 april 2026 och sedan årligen för 2027-2031. |\n\n*För regeringsuppdrag som lämnats i ett särskilt regeringsbeslut utgör tabellen endast en upplysning om vilka uppdrag som vid årets början var riktade till myndigheten och vilka tider som då gällde för återrapportering eller liknande.*",
+   "dates": [
+    "2026-01-20",
+    "2026-02-15",
+    "2026-03-01",
+    "2026-03-31",
+    "2026-04-01",
+    "2026-04-30",
+    "2026-12-01",
+    "2026-12-19",
+    "2027-03-30",
+    "2027-03-31",
+    "2027-12-19",
+    "2028-03-31",
+    "2028-12-19",
+    "2030-12-31"
+   ],
+   "deadlines": [
+    "2026-12-19"
+   ],
+   "recipients": [],
+   "partners": [
+    "Folkhälsomyndigheten",
+    "Jämställdhetsmyndigheten",
+    "Socialstyrelsen"
+   ],
+   "channels": [
+    "muntlig",
+    "delredovisning",
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna",
+    "utveckla",
+    "informera",
+    "statistik_data"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "25691:assignments:1"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "3:1",
+   "name": "Myndigheten för delaktighet",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 9,
+    "name": "Hälsovård, sjukvård och social omsorg"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Myndigheten för delaktighet",
+     "amount_tkr": 72911,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Myndigheten för delaktighet (ram)",
+       "amount_tkr": 72911
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Myndigheten för delaktighet",
+     "text": "Anslagsposten får användas för myndighetens förvaltningsutgifter."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "3:1 Myndigheten för delaktighet",
+   "ap": "ap.1",
+   "Anslagskredit": 2187,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 5000,
+  "Räntekontokredit": 5000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 6076
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 6076
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 6076
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 6076
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 6076
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 6076
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 6076
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 6076
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 6076
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 6076
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 6076
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 6075
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "3:1 Myndigheten för delaktighet",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "2 187",
+     "3 %",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "5 000"
+    ],
+    [
+     "Räntekontokredit",
+     "5 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "6 076"
+    ],
+    [
+     "2026-02-25",
+     "6 076"
+    ],
+    [
+     "2026-03-25",
+     "6 076"
+    ],
+    [
+     "2026-04-25",
+     "6 076"
+    ],
+    [
+     "2026-05-25",
+     "6 076"
+    ],
+    [
+     "2026-06-25",
+     "6 076"
+    ],
+    [
+     "2026-07-25",
+     "6 076"
+    ],
+    [
+     "2026-08-25",
+     "6 076"
+    ],
+    [
+     "2026-09-25",
+     "6 076"
+    ],
+    [
+     "2026-10-25",
+     "6 076"
+    ],
+    [
+     "2026-11-25",
+     "6 076"
+    ],
+    [
+     "2026-12-25",
+     "6 075"
+    ],
+    [
+     "Summa",
+     "72 911"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "3:1 ap.1",
+     "Myndigheten för delaktighet"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [],
+ "has_fee_section": false,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 1,
+  "n_org": 0,
+  "n_assignments": 2,
+  "n_deadlines": 5,
+  "deadlines": [
+   "2026-06-05",
+   "2026-07-24",
+   "2026-12-01",
+   "2026-12-19",
+   "2027-03-31"
+  ],
+  "partners": [
+   "Folkhälsomyndigheten",
+   "Jämställdhetsmyndigheten",
+   "Kammarkollegiet",
+   "Socialstyrelsen",
+   "Statskontoret"
+  ],
+  "n_appropriations": 1,
+  "appropriations_total_tkr": 72911,
+  "payment_plan_total_tkr": 72911,
+  "md_chars": 9124
+ },
+ "layout": "standard",
+ "warnings": []
+}

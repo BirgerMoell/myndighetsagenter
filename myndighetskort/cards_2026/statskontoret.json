@@ -1,0 +1,787 @@
+{
+ "schema_version": 1,
+ "id": 26373,
+ "original_rbid": 25830,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-06-11",
+ "year": "2026",
+ "name": "Statskontoret",
+ "slug": "statskontoret",
+ "department": "Finansdepartementet",
+ "expenditure_areas": [
+  2
+ ],
+ "registry_numbers": [
+  "Fi2026/01437 (delvis)"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1",
+   "2025/26:99"
+  ],
+  "bet": [
+   "2025/26:FiU2",
+   "2025/26:FiU21"
+  ],
+  "rskr": [
+   "2025/26:133",
+   "2025/26:344"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "",
+ "goals": [
+  {
+   "title": "Stöd till Regeringskansliet och remisser",
+   "group": [],
+   "text": "Myndigheten ska redovisa de totala kostnaderna för olika typer av stöd till Regeringskansliet, och hur stor andel av dessa som finansieras med avgifter. Kostnaderna för framtagande av remissyttranden ska särredovisas.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [
+    "Regeringskansliet"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26373:goals:0"
+  },
+  {
+   "title": "Uppföljning av utbildningar",
+   "group": [],
+   "text": "Myndigheten ska genom en kvalitativ undersökning följa upp ett urval av myndigheters erfarenheter av introduktionsutbildningen för statligt anställda och den nya utbildningen om otillåten påverkan i den offentliga förvaltningen.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "analysera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26373:goals:1"
+  },
+  {
+   "title": "Arbetet med den gemensamma jordbrukspolitiken",
+   "group": [],
+   "text": "Myndigheten ska redovisa utfallet av belopp och andel av förvaltningsanslaget som använts för myndighetens arbete med den gemensamma jordbrukspolitiken under perioden 2020–2025.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26373:goals:2"
+  },
+  {
+   "title": "Färdval och resepolicy vid tjänsteresor",
+   "group": [],
+   "text": "Alla trafikslag ska kunna nyttjas (väg, järnväg, luft- och sjöfart) för att säkerställa effektiva och ändamålsenliga transporter. Myndigheten ska därför redovisa hur den har säkerställt att val av färdsätt vid tjänsteresor sker färdmedelsneutralt och utifrån behov. Vidare ska myndigheten redovisa huruvida myndigheten köpt in hållbart flygbränsle till organisationens flygresor. När kostnader jämförs för olika färdval ska hela resans kostnad beaktas, exempelvis kostnader för nödvändig övernattning samt total arbetstid för hela resan.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26373:goals:3"
+  }
+ ],
+ "org": [
+  {
+   "title": "Uppdrag med anledning av organisationsförändring",
+   "group": [],
+   "text": "Myndigheten ska fr.o.m. den 1 januari 2026 ansvara för det arbete som kvarstår med anledning av avvecklingen av den myndighet som fram t.o.m. den 31 december 2025 heter Statskontoret.\n\nMyndigheten ska bistå den person som har fått i uppdrag av regeringen att ansvara för Statskontorets årsredovisning för 2025 med erforderligt underlag (Fi2025/02172).",
+   "dates": [
+    "2025-12-31",
+    "2026-01-01"
+   ],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "årsredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "samordna"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "org",
+   "item_id": "26373:org:0"
+  }
+ ],
+ "assignments": [
+  {
+   "title": "Nya uppdrag",
+   "group": [],
+   "text": "",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26373:assignments:0"
+  },
+  {
+   "title": "Föreslå analyser som kan leda till omprövning och effektivisering",
+   "group": [],
+   "text": "Myndigheten ska lämna förslag på analyser som myndigheten kan utföra och som kan leda till omprövning och effektivisering, i enlighet med sin instruktionsenliga uppgift och utifrån Statskontorets och Ekonomistyrningsverkets gemensamma rapport Metoder för omprövande analyser (ESV 2025:28 och Statskontoret 2025:14). Förslagen ska senast den 1 december 2026 redovisas till Regeringskansliet (Finansdepartementet).",
+   "dates": [
+    "2026-12-01"
+   ],
+   "deadlines": [
+    "2026-12-01"
+   ],
+   "recipients": [
+    "Regeringskansliet (Finansdepartementet)"
+   ],
+   "partners": [
+    "Ekonomistyrningsverket"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "föreslå"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26373:assignments:1"
+  },
+  {
+   "title": "Information om riktade statsbidrag till kommuner och regioner",
+   "group": [],
+   "text": "Myndigheten ska fortsätta utveckla och förvalta den webbportal med information om riktade statsbidrag till kommuner och regioner, som ska inrättas senast den 31 mars 2026 (Fi2025/01420). Webbportalen ska ge övergripande information om statliga myndigheters riktade statsbidrag samt möjliggöra för de kommuner, regioner och enskilda utförare som använder portalen att komma vidare till de bidragsgivande myndigheterna för närmare information.",
+   "dates": [
+    "2026-03-31"
+   ],
+   "deadlines": [
+    "2026-03-31"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "fördela_medel",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26373:assignments:2"
+  },
+  {
+   "title": "Sammanfattning av genomförda revisioner inom den gemensamma jordbrukspolitiken",
+   "group": [],
+   "text": "Myndigheten ska årligen senast den 15 mars lämna en sammanfattning av genomförda revisioner inom den gemensamma jordbrukspolitiken, inklusive uppgifter om konstaterade brister och eventuella korrigerande åtgärder som behöver vidtas, till Regeringskansliet (Landsbygds- och infrastrukturdepartementet). Sammanfattningen ska även innehålla en bedömning av risker för brister i förvaltnings- och kontrollsystemet. Sammanfattningen ska bidra till att ge behörig myndighet en bättre bild av läget i förvaltningen av EU:s gemensamma jordbrukspolitik och därigenom stödja arbetet med att utveckla förvaltningen av politiken, så att den lever upp till Europeiska kommissionens krav. Myndigheten ska även senast den 15 september 2026 till Regeringskansliet lämna en muntlig redogörelse för pågående revisioner och preliminära iakttagelser, samt en preliminär redogörelse för de risker för brister i förvaltnings- och kontrollsystemet som identifierats.",
+   "dates": [
+    "2026-09-15"
+   ],
+   "deadlines": [
+    "2026-09-15"
+   ],
+   "recipients": [
+    "Regeringskansliet",
+    "Regeringskansliet (Landsbygds- och infrastrukturdepartementet)"
+   ],
+   "partners": [],
+   "channels": [
+    "muntlig"
+   ],
+   "task_types": [
+    "analysera",
+    "utveckla",
+    "tillsyn_kontroll",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26373:assignments:3"
+  },
+  {
+   "title": "Granskning av intressekonflikter inom Sveriges återhämtningsplan",
+   "group": [],
+   "text": "Myndigheten ska genomföra en särskild granskning avseende förekomsten av intressekonflikter i genomförda upphandlingar och beslutade stöd kopplade till åtgärderna inom Sveriges återhämtningsplan, i enlighet med artikel 22 i Europaparlamentets och rådets förordning (EU) 2021/241 av den 12 februari 2021 om inrättande av en facilitet för återhämtning och resiliens. Myndigheten ska genomföra revisioner utifrån en samlad riskbedömning och god revisionssed för att säkerställa att granskningen utförs på ett resurseffektivt och ändamålsenligt sätt. Myndigheten ska senast den 27 februari 2026 lämna en delredovisning av uppdraget till Regeringskansliet (Finansdepartementet). Av delredovisningen ska framgå vilka metoder för granskningen som tillämpas, vilka riskbedömningar som gjorts och utfallet av genomförda revisioner. Myndigheten ska senast den 1 december 2026 slutredovisa uppdraget till Regeringskansliet. Slutredovisningen ska inkludera en redogörelse för erfarenheter och lärdomar från revisionerna i syfte att stärka förvaltnings- och kontrollsystemen, särskilt avseende intressekonflikter som medför risker för felaktiga utbetalningar av offentliga medel.",
+   "dates": [
+    "2021-02-12",
+    "2026-02-27",
+    "2026-12-01"
+   ],
+   "deadlines": [
+    "2026-02-27",
+    "2026-12-01"
+   ],
+   "recipients": [
+    "Regeringskansliet",
+    "Regeringskansliet (Finansdepartementet)"
+   ],
+   "partners": [],
+   "channels": [
+    "delredovisning",
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla",
+    "tillsyn_kontroll",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26373:assignments:4"
+  },
+  {
+   "title": "Återkommande uppdrag",
+   "group": [
+    "Granskning av intressekonflikter inom Sveriges återhämtningsplan"
+   ],
+   "text": "",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "26373:assignments:5"
+  },
+  {
+   "title": "Prognosjämförelse",
+   "group": [],
+   "text": "Myndigheten ska senast den 8 maj 2026 publicera en redovisning av prognosprecisionen och prognosavvikelser för centrala variabler av de prognoser som myndigheten gör, dock inte prognoser av myndighetens förvaltningsanslag. Myndigheten ska även jämföra sina prognoser med motsvarande prognoser som görs av regeringen.",
+   "dates": [
+    "2026-05-08"
+   ],
+   "deadlines": [
+    "2026-05-08"
+   ],
+   "forecast_dates": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26373:assignments:6"
+  },
+  {
+   "title": "Tidsserier över utfallet på statens budget",
+   "group": [],
+   "text": "Myndigheten ska senast den 13 mars 2026 i två rapporter redovisa tidsserier över utfallet för statens budget för perioden 2003–2025 i 2025 respektive 2026 års budgetstruktur.",
+   "dates": [
+    "2026-03-13"
+   ],
+   "deadlines": [
+    "2026-03-13"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26373:assignments:7"
+  },
+  {
+   "title": "Underlag om investeringar för forskning och utveckling",
+   "group": [],
+   "text": "Myndigheten ska ta fram ett underlag som visar utfallet 2025 för utgifterna för den forskning och utveckling (FoU) som staten ansvarat för och som motsvarar nationalräkenskapernas definition av dessa utgifter. Underlaget ska även innehålla en redovisning av hur stor del av varje anslag som använts för FoU, som möjliggör en prognos för framtida utfall. Underlaget ska senast den 12 juni 2026 redovisas till Regeringskansliet (Finansdepartementet).",
+   "dates": [
+    "2026-06-12"
+   ],
+   "deadlines": [
+    "2026-06-12"
+   ],
+   "forecast_dates": [],
+   "recipients": [
+    "Regeringskansliet (Finansdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26373:assignments:8"
+  },
+  {
+   "title": "Prognoser för myndighetens anslag",
+   "group": [],
+   "text": "Myndigheten ska redovisa prognoser för 2025–2028 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Prognoserna lämnas i informationssystemet Hermes senast den\n\n– 2 februari\\\n– 22 april\\\n– 24 juli\\\n– 9 november.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26373:assignments:9"
+  },
+  {
+   "title": "Pågående uppdrag",
+   "group": [
+    "Prognoser för myndighetens anslag"
+   ],
+   "text": "Pågående uppdrag redovisas i*bilaga 2*.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "26373:assignments:10"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "1:7",
+   "name": "Statskontoret",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 2,
+    "name": "Samhällsekonomi och finansförvaltning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Statskontoret",
+     "amount_tkr": 328361,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Statskontorets förvaltning (ram)",
+       "amount_tkr": 303432
+      },
+      {
+       "ap": "2",
+       "name": "RK Statsbudgetstöd (ram)",
+       "amount_tkr": 24929
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Statskontorets förvaltning",
+     "text": "Anslagsposten får användas för Statskontorets förvaltningsutgifter. Av beloppet får 300 000 kronor endast användas för uppdraget om utvärdering av statsskuldens förvaltning."
+    },
+    {
+     "ap": "2",
+     "name": "RK Statsbudgetstöd",
+     "text": "Medlen får användas för utgifter för förvaltning, utveckling och myndighetens deltagande i kravarbete avseende RK Statsbudgetstöd.\nAv medlen får 5 000 000 kronor användas först efter beslut av Regeringskansliet (Finansdepartementet)."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "1:7 Statskontoret",
+   "ap": "ap.1",
+   "Anslagskredit": 9006,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:7 Statskontoret",
+   "ap": "ap.2",
+   "Anslagskredit": 747,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 44000,
+  "Räntekontokredit": 21000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 26855
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 26855
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 26855
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 26855
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 26855
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 27726
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 27726
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 27726
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 27726
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 27726
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 27726
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 27730
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:7 Statskontoret",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "9 006",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.2",
+     "747",
+     "3 %",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Avslutade anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagstyp"
+    ],
+    [
+     "1:1 (2025) Statskontoret",
+     ""
+    ],
+    [
+     "ap.3 (2025)",
+     "ram"
+    ],
+    [
+     "1:7 Statskontoret",
+     ""
+    ],
+    [
+     "ap.3",
+     "ram"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "44 000"
+    ],
+    [
+     "Räntekontokredit",
+     "21 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "26 855"
+    ],
+    [
+     "2026-02-25",
+     "26 855"
+    ],
+    [
+     "2026-03-25",
+     "26 855"
+    ],
+    [
+     "2026-04-25",
+     "26 855"
+    ],
+    [
+     "2026-05-25",
+     "26 855"
+    ],
+    [
+     "2026-06-25",
+     "27 726"
+    ],
+    [
+     "2026-07-25",
+     "27 726"
+    ],
+    [
+     "2026-08-25",
+     "27 726"
+    ],
+    [
+     "2026-09-25",
+     "27 726"
+    ],
+    [
+     "2026-10-25",
+     "27 726"
+    ],
+    [
+     "2026-11-25",
+     "27 726"
+    ],
+    [
+     "2026-12-25",
+     "27 730"
+    ],
+    [
+     "Summa",
+     "328 361"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "1:7 ap.1",
+     "Statskontorets förvaltning"
+    ],
+    [
+     "1:7 ap.2",
+     "RK Statsbudgetstöd"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Avgiftsbelagd verksamhet där intäkterna disponeras",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Avgift för samråd enligt 7 § avgiftsförordningen1",
+     "649",
+     "117",
+     "1 732",
+     "1 230",
+     "502",
+     "1 268"
+    ],
+    [
+     "Tjänsteexport1",
+     "1 049",
+     "0",
+     "0",
+     "0",
+     "0",
+     "1 049"
+    ],
+    [
+     "Ekonomisk styrning3",
+     "5 300"
+    ],
+    [
+     "Summa",
+     "1 698",
+     "117",
+     "7 032",
+     "1 230",
+     "502",
+     "2 317"
+    ]
+   ]
+  }
+ ],
+ "has_fee_section": true,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 4,
+  "n_org": 1,
+  "n_assignments": 11,
+  "n_deadlines": 7,
+  "deadlines": [
+   "2026-02-27",
+   "2026-03-13",
+   "2026-03-31",
+   "2026-05-08",
+   "2026-06-12",
+   "2026-09-15",
+   "2026-12-01"
+  ],
+  "partners": [
+   "Ekonomistyrningsverket"
+  ],
+  "n_appropriations": 1,
+  "appropriations_total_tkr": 328361,
+  "payment_plan_total_tkr": 328361,
+  "md_chars": 11516
+ },
+ "layout": "standard",
+ "warnings": []
+}

@@ -1,0 +1,617 @@
+{
+ "schema_version": 1,
+ "id": 27494,
+ "original_rbid": 25875,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-07-16",
+ "year": "2026",
+ "name": "Statens geotekniska institut",
+ "slug": "statens-geotekniska-institut",
+ "department": "Klimat- och näringslivsdepartementet",
+ "expenditure_areas": [
+  18,
+  20
+ ],
+ "registry_numbers": [
+  "KN2026/01562"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1"
+  ],
+  "bet": [
+   "2025/26:CU1",
+   "2025/26:MJU1"
+  ],
+  "rskr": [
+   "2025/26:105",
+   "2025/26:128"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "",
+ "goals": [
+  {
+   "title": "Uppdragsverksamhet",
+   "group": [],
+   "text": "Statens geotekniska institut (SGI) ska redovisa intäkter och kostnader från uppdragsverksamheten samt hur stor del av kostnaderna som har belastat förvaltningsanslaget.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27494:goals:0"
+  },
+  {
+   "title": "Göta älv",
+   "group": [],
+   "text": "SGI ska samlat redovisa hur anslag 1:19 Åtgärder för ras- och skredsäkring längs Göta älv, utgiftsområde 20 Klimat, miljö och natur, har använts. Redovisningen ska omfatta verksamheten vid delegationen för Göta älv, arbetet med utbetalning och fördelning av bidrag för planering samt genomförande av åtgärder som minskar sannolikheten för ras och skred. SGI ska särskilt redovisa och utvärdera hur bidraget fördelats samt analysera vilka resultat bidraget lett till.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "fördela_medel",
+    "utveckla"
+   ],
+   "anslag_refs": [
+    "1:19"
+   ],
+   "expenditure_area_refs": [
+    20
+   ],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27494:goals:1"
+  },
+  {
+   "title": "Informationssäkerhet",
+   "group": [],
+   "text": "SGI ska övergripande redogöra för hur myndigheten arbetat för att förvalta och utveckla sin informationssäkerhet och för hur den planerar för att möta framtida behov.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "utveckla",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27494:goals:2"
+  }
+ ],
+ "org": [],
+ "assignments": [
+  {
+   "title": "Uppdrag att analysera kostnader för inträffade händelser",
+   "group": [],
+   "text": "SGI ska analysera historiska kostnader kopplat till exempelvis olika skred, erosion, ras och översvämningar i syfte att kunna uppskatta framtida skadehändelser som motiverar klimatanpassningsåtgärder. Uppdraget ska redovisas till Regeringskansliet (Klimat- och näringslivsdepartementet) den 1 april 2027 och delrapporteras den 1 oktober 2026.",
+   "dates": [
+    "2026-10-01",
+    "2027-04-01"
+   ],
+   "deadlines": [],
+   "recipients": [
+    "Regeringskansliet (Klimat- och näringslivsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [
+    "delredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27494:assignments:0"
+  },
+  {
+   "title": "Prognoser",
+   "group": [],
+   "text": "SGI ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Prognoserna lämnas i informationssystemet Hermes senast den\n\n- 2 februari\n- 22 april\n- 24 juli\n- 9 november.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27494:assignments:1"
+  },
+  {
+   "title": "Prognos för beställningsbemyndiganden",
+   "group": [],
+   "text": "Myndigheten ska redovisa en prognos för de förslag om beställningsbemyndiganden som lämnats i budgetunderlaget och för de åtaganden som ingåtts med stöd av äldre beställningsbemyndiganden. Prognosen ska lämnas senast den 24 juli 2026 via Statsredovisningssystemet i Hermes och utformas enligt närmare information från Statskontoret.",
+   "dates": [
+    "2026-07-24"
+   ],
+   "deadlines": [
+    "2026-07-24"
+   ],
+   "forecast_dates": [],
+   "recipients": [],
+   "partners": [
+    "Statskontoret"
+   ],
+   "channels": [
+    "hermes",
+    "budgetunderlag"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27494:assignments:2"
+  },
+  {
+   "title": "Uppdrag om forskning och ökad kunskap om PFAS-förorenade områden (M2021/02281, KN2023/02439 och KN2025/02302)",
+   "group": [
+    "Pågående uppdrag"
+   ],
+   "text": "För att minska spridningen av PFAS ska SGI under perioden 2022–2030 arbeta med forskning och kunskapsspridning rörande undersökning, utredning och åtgärder av PFAS-förorenade områden. Uppdraget ska innefatta både laboratorieverksamhet och lämpliga pilotprojekt för att undersöka och åtgärda statligt förorenade områden som förorenats av PFAS. Myndigheten ska utnyttja befintliga samverkansformer och nätverk. Myndigheten ska sprida kunskap och resultat till statliga, privata och kommunala aktörer med syftet att åstadkomma en ökad implementering av ny kunskap och tillämpning av nya effektiva metoder. Uppdraget ska delredovisas senast den 1 september 2026. Uppdraget slutredovisas 1 september 2030.",
+   "dates": [
+    "2026-09-01",
+    "2030-09-01"
+   ],
+   "deadlines": [
+    "2026-09-01"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "delredovisning",
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "informera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "27494:assignments:3"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "1:4",
+   "name": "Statens geotekniska institut",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 18,
+    "name": "Samhällsplanering, bostadsförsörjning och byggande samt konsumentpolitik"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Statens geotekniska institut",
+     "amount_tkr": 58872,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Statens geotekniska institut (ram)",
+       "amount_tkr": 58872
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Statens geotekniska institut",
+     "text": "Anslaget får användas för SGI:s förvaltningsutgifter."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "1:19",
+   "name": "Åtgärder för ras- och skredsäkring längs Göta älv",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 20,
+    "name": "Klimat, miljö och natur"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Statens geotekniska institut",
+     "amount_tkr": 115000,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Åtgärder för ras- och skredsäkring längs Göta älv (ram)",
+       "amount_tkr": 115000
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Åtgärder för ras- och skredsäkring längs Göta älv",
+     "text": "Anslagsposten får användas dels för övervakning av stabilitetsförhållanden och insatser för ras- och skredsäkring längs Göta älv, dels för delegationen för Göta älv, dels för utbetalning av bidrag för planering och genomförande av åtgärder som minskar sannolikheten för ras och skred.\n- Kostnaderna för verksamheten får uppgå till högst 40 000 000 kronor. I det ingår att samordna, prioritera och stödja insatser som minskar ras- och skredrisker längs Göta älv, besiktning och kontroll av Göta älv samt att genomföra geotekniska utredningar.\n- Resterande medel får fördelas som bidrag. Av dessa får SGI använda högst 2 000 000 kronor för utgifter i samband med administration av bidraget."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "1",
+     "max": 40000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "1",
+     "max": 2000000,
+     "unit": "kronor"
+    }
+   ]
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "1:4 Statens geotekniska institut",
+   "ap": "ap.1",
+   "Anslagskredit": 1766,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:19 Åtgärder för ras- och skredsäkring längs Göta älv",
+   "ap": "ap.1",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 12000,
+  "Räntekontokredit": 12000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 4906
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 4906
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 4906
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 4906
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 4906
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 4906
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 4906
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 4906
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 4906
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 4906
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 4906
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 4906
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:4 Statens geotekniska institut",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "1 766",
+     "3 %",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:19 Åtgärder för ras- och skredsäkring längs Göta älv",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "0",
+     "Inget",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Beställningsbemyndiganden",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Bemyndigande",
+     "Utgifter mot anslag till följd av ekonomiska åtaganden",
+     "",
+     "",
+     ""
+    ],
+    [
+     "2026",
+     "2027",
+     "2028",
+     "2029 -",
+     "Slutår"
+    ],
+    [
+     "1:19 Åtgärder för ras- och skredsäkring längs Göta älv",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "160 000",
+     "60 000",
+     "45 000",
+     "55 000",
+     "2030"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "12 000"
+    ],
+    [
+     "Räntekontokredit",
+     "12 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "4 906"
+    ],
+    [
+     "2026-02-25",
+     "4 906"
+    ],
+    [
+     "2026-03-25",
+     "4 906"
+    ],
+    [
+     "2026-04-25",
+     "4 906"
+    ],
+    [
+     "2026-05-25",
+     "4 906"
+    ],
+    [
+     "2026-06-25",
+     "4 906"
+    ],
+    [
+     "2026-07-25",
+     "4 906"
+    ],
+    [
+     "2026-08-25",
+     "4 906"
+    ],
+    [
+     "2026-09-25",
+     "4 906"
+    ],
+    [
+     "2026-10-25",
+     "4 906"
+    ],
+    [
+     "2026-11-25",
+     "4 906"
+    ],
+    [
+     "2026-12-25",
+     "4 906"
+    ],
+    [
+     "Summa",
+     "58 872"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "1:4 ap.1",
+     "Statens geotekniska institut"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Uppdragsverksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Geoteknisk forskning, utveckling, kunskapsförmedling och rådgivning2",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0"
+    ],
+    [
+     "Geoteknisk forskning, utveckling, kunskapsförmedling och rådgivning3",
+     "7 000"
+    ],
+    [
+     "Summa",
+     "0",
+     "0",
+     "7 000",
+     "0",
+     "0",
+     "0"
+    ]
+   ]
+  }
+ ],
+ "has_fee_section": true,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 3,
+  "n_org": 0,
+  "n_assignments": 4,
+  "n_deadlines": 2,
+  "deadlines": [
+   "2026-07-24",
+   "2026-09-01"
+  ],
+  "partners": [
+   "Statskontoret"
+  ],
+  "n_appropriations": 2,
+  "appropriations_total_tkr": 173872,
+  "payment_plan_total_tkr": 58872,
+  "md_chars": 8701
+ },
+ "layout": "standard",
+ "warnings": []
+}

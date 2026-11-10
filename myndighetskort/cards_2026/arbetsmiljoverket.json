@@ -1,0 +1,1054 @@
+{
+ "schema_version": 1,
+ "id": 26274,
+ "original_rbid": 25909,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-06-18",
+ "year": "2026",
+ "name": "Arbetsmiljöverket",
+ "slug": "arbetsmiljoverket",
+ "department": "Arbetsmarknadsdepartementet",
+ "expenditure_areas": [
+  14
+ ],
+ "registry_numbers": [
+  "A2026/00627 (delvis)",
+  "A2026/00668"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1",
+   "2025/26:99"
+  ],
+  "bet": [
+   "2025/26:AU2",
+   "2025/26:FiU21"
+  ],
+  "rskr": [
+   "2025/26:119",
+   "2025/26:352"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "",
+ "goals": [
+  {
+   "title": "Tillsynsverksamheten",
+   "group": [],
+   "text": "Arbetsmiljöverket ska redovisa resultat av vidtagna åtgärder för att tillsynsverksamhetens effektivitet och antalet inspektioner ska öka.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "tillsyn_kontroll"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26274:goals:0"
+  },
+  {
+   "title": "Förebygga dödsolyckor och andra allvarliga arbetsolyckor",
+   "group": [],
+   "text": "Arbetsmiljöverket ska rapportera hur myndigheten arbetar med att bidra till att förebygga dödsolyckor och andra allvarliga arbetsolyckor. Myndigheten ska särskilt rapportera hur myndigheten arbetar med att utveckla regelverk, information och tillsyn för att ingen ska dö eller skadas till följd av sitt arbete.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla",
+    "tillsyn_kontroll"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26274:goals:1"
+  },
+  {
+   "title": "Åtgärder och aktiviteter som myndigheten har genomfört och utvecklat inom det brottsförebyggande området",
+   "group": [],
+   "text": "Arbetsmiljöverket ska redovisa hur myndigheten har fortsatt det arbete som påbörjats inom ramen för uppdraget att bidra till att utveckla det brottsförebyggande arbetet (Ju2024/02612) som redovisades den 31 augusti 2025. Redovisningen ska omfatta vilka åtgärder och aktiviteter som myndigheten har genomfört och utvecklat inom det brottsförebyggande området.",
+   "dates": [
+    "2025-08-31"
+   ],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26274:goals:2"
+  },
+  {
+   "title": "Redovisa hur myndigheten arbetar mot människohandel och människoexploatering",
+   "group": [],
+   "text": "Arbetsmiljöverket får i uppdrag att redovisa hur myndigheten arbetar och kan utveckla arbetet mot människohandel och människoexploateringinom ramen för myndighetens instruktionsenliga uppgift enligt 2§ första stycket pt.12 i förordningen (2007:913) med instruktion för Arbetsmiljöverkets och i enlighet med uppdraget \"Ändring av uppdraget att inrätta regionala center mot arbetslivskriminalitet och om varaktig myndighetssamverkan (A2024/01109)\".",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2007:913"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26274:goals:3"
+  }
+ ],
+ "org": [
+  {
+   "title": "Avvecklingsfrågor",
+   "group": [],
+   "text": "Arbetsmiljöverket ska fr.o.m. den 1 januari 2026 hantera kvarvarande avvecklingsfrågor efter det att Myndigheten för arbetsmiljökunskap avvecklats och upphört som myndighet den 31 december 2025.\n\nArbetsmiljöverket ska bistå den som enligt uppdrag (A2025/01203) utsetts att ansvara för att lämna en årsredovisning för 2025 för Myndigheten för arbetsmiljökunskap med erforderligt underlag.",
+   "dates": [
+    "2025-12-31",
+    "2026-01-01"
+   ],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Myndigheten för arbetsmiljökunskap"
+   ],
+   "channels": [
+    "årsredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "samordna"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "org",
+   "item_id": "26274:org:0"
+  }
+ ],
+ "assignments": [
+  {
+   "title": "Utgiftsprognoser",
+   "group": [],
+   "text": "Arbetsmiljöverket ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Prognoserna lämnas i informationssystemet Hermes senast den:\n\n- 2 februari\n- 22 april\n- 24 juli och\n- 9 november.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26274:assignments:0"
+  },
+  {
+   "title": "Prognos för beställningsbemyndiganden",
+   "group": [],
+   "text": "Myndigheten ska redovisa en prognos för de förslag om beställningsbemyndiganden som lämnats i budgetunderlaget och för de åtaganden som ingåtts med stöd av äldre beställningsbemyndiganden. Prognosen ska lämnas senast den 24 juli 2026 via Statsredovisningssystemet i Hermes och utformas enligt närmare information från Ekonomistyrningsverket.",
+   "dates": [
+    "2026-07-24"
+   ],
+   "deadlines": [
+    "2026-07-24"
+   ],
+   "forecast_dates": [],
+   "recipients": [],
+   "partners": [
+    "Ekonomistyrningsverket"
+   ],
+   "channels": [
+    "hermes",
+    "budgetunderlag"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26274:assignments:1"
+  },
+  {
+   "title": "Regional skyddsombudsverksamhet",
+   "group": [],
+   "text": "Arbetsmiljöverket ska senast den 18 maj 2027 till Regeringskansliet (Arbetsmarknadsdepartementet) redovisa en sammanställning av de centrala arbetstagarorganisationernas (LO, TCO och Saco) och Svenska Hamnarbetarförbundets redovisningar för regional skyddsombudsverksamhet för 2026.\n\nRedovisningarna ska göras enligt följande nio mätbara prestationer:",
+   "dates": [
+    "2027-05-18"
+   ],
+   "deadlines": [
+    "2027-05-18"
+   ],
+   "recipients": [
+    "Regeringskansliet (Arbetsmarknadsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26274:assignments:2"
+  },
+  {
+   "title": "Antal regionala skyddsombud",
+   "group": [
+    "Regional skyddsombudsverksamhet"
+   ],
+   "text": "",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26274:assignments:3"
+  },
+  {
+   "title": "Antal årsarbetskrafter regionala skyddsombud",
+   "group": [
+    "Regional skyddsombudsverksamhet"
+   ],
+   "text": "",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26274:assignments:4"
+  },
+  {
+   "title": "Antal arbetsställen",
+   "group": [
+    "Regional skyddsombudsverksamhet"
+   ],
+   "text": "",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26274:assignments:5"
+  },
+  {
+   "title": "Antal besök på arbetsställen och dess huvudsakliga inriktning",
+   "group": [
+    "Regional skyddsombudsverksamhet"
+   ],
+   "text": "",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26274:assignments:6"
+  },
+  {
+   "title": "Rådgivning per telefon och e-post",
+   "group": [
+    "Regional skyddsombudsverksamhet"
+   ],
+   "text": "",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26274:assignments:7"
+  },
+  {
+   "title": "Utbildning internt",
+   "group": [
+    "Regional skyddsombudsverksamhet"
+   ],
+   "text": "",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26274:assignments:8"
+  },
+  {
+   "title": "Utbildning externt",
+   "group": [
+    "Regional skyddsombudsverksamhet"
+   ],
+   "text": "",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26274:assignments:9"
+  },
+  {
+   "title": "Utbildningskostnad",
+   "group": [
+    "Regional skyddsombudsverksamhet"
+   ],
+   "text": "**9. Totalkostnad och bidrag.**",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26274:assignments:10"
+  },
+  {
+   "title": "Kartläggning och stöd gällande arbetet med att hantera tillbud i skolverksamheter",
+   "group": [],
+   "text": "Uppdraget Kartläggning och stöd gällande arbetet med att hantera tillbud i skolverksamheter ändras på så sätt att det ska slutredovisas till Regeringskansliet (Arbetsmarknadsdepartementet och Utbildningsdepartementet) senast den 31 mars 2027.",
+   "dates": [
+    "2027-03-31"
+   ],
+   "deadlines": [
+    "2027-03-31"
+   ],
+   "recipients": [
+    "Regeringskansliet (Arbetsmarknadsdepartementet och Utbildningsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26274:assignments:11"
+  },
+  {
+   "title": "Kartläggning av smittsamma sjukdomar",
+   "group": [],
+   "text": "Arbetsmiljöverket ska tillsammans med Folkhälsomyndigheten ta fram en analys av olika smittsamma sjukdomars relevans i förhållande till 5 § p. 2 förordning (1977:284) om arbetsskadeförsäkring och statligt personskadeskydd och tillhörande bilaga. Inom ramen för uppdraget bör myndigheterna genom en internationell utblick hämta ledning från andra jämförbara länder. Uppdraget ska redovisas till Regeringskansliet (Socialdepartementet) senast den 7 juni 2027.",
+   "dates": [
+    "2027-06-07"
+   ],
+   "deadlines": [
+    "2027-06-07"
+   ],
+   "recipients": [
+    "Regeringskansliet (Socialdepartementet)"
+   ],
+   "partners": [
+    "Folkhälsomyndigheten"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "1977:284"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26274:assignments:12"
+  },
+  {
+   "title": "Distansarbete och jämställdhet",
+   "group": [],
+   "text": "Arbetsmiljöverket ska redovisa hur ett ökat distansarbete efter covid 19 pandemin fortsatt påverkar jämställdheten mellan kvinnor och män på arbetsmarknaden. Uppdraget ska redovisas senast den 22 februari 2027 till Regeringskansliet (Arbetsmarknadsdepartementet). För uppdraget får myndigheten under 2026 använda 1 000 000 kronor. som ska redovisas mot det under utgiftsområde 13 Integration och jämställdhet för budgetåret 2026 uppförda anslaget 3:1 Särskilda jämställdhetsåtgärder anslagsposten 12 Jämställdhetsinsatser efter regeringsbeslut. Medlen betalas ut engångsvis efter rekvisition till Kammarkollegiet senast den 1 december 2026. Medel som inte har använts för avsett ändamål ska återbetalas senast den 31 mars 2027 till Kammarkollegiet. Vid samma tidpunkt ska en ekonomisk redovisning av använda medel lämnas till Kammarkollegiet. Rekvisition, återbetalning och redovisning av medel ska hänvisa till regleringsbrevet för budgetåret 2026 avseende Arbetsmiljöverket.",
+   "dates": [
+    "2026-12-01",
+    "2027-02-22",
+    "2027-03-31"
+   ],
+   "deadlines": [
+    "2026-12-01",
+    "2027-02-22",
+    "2027-03-31"
+   ],
+   "recipients": [
+    "Kammarkollegiet",
+    "Regeringskansliet (Arbetsmarknadsdepartementet)"
+   ],
+   "partners": [
+    "Kammarkollegiet"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [
+    "3:1"
+   ],
+   "expenditure_area_refs": [
+    13
+   ],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26274:assignments:13"
+  },
+  {
+   "title": "Behov av stöd hos personer som är utsatta för arbetskraftsexploatering",
+   "group": [],
+   "text": "Arbetsmiljöverket ska inventera stödbehovet hos personer som är utsatta för arbetskraftsexploatering och lämna förslag på målgruppsanpassade stödinsatser. Arbetsmiljöverket ska i genomförandet av uppdraget inhämta kunskap från Jämställdhetsmyndigheten. Arbetsmiljöverket ska senast den 31 mars 2027 lämna en skriftlig redovisning av uppdraget till Regeringskansliet (Arbetsmarknadsdepartementet).",
+   "dates": [
+    "2027-03-31"
+   ],
+   "deadlines": [
+    "2027-03-31"
+   ],
+   "recipients": [
+    "Regeringskansliet (Arbetsmarknadsdepartementet)"
+   ],
+   "partners": [
+    "Jämställdhetsmyndigheten"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "föreslå",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26274:assignments:14"
+  },
+  {
+   "title": "Förenkla för företag genom verksamhet.se",
+   "group": [],
+   "text": "Arbetsmiljöverket ska förvalta myndighetens innehåll på den myndighetsgemensamma webbplatsen verksamt.se.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26274:assignments:15"
+  },
+  {
+   "title": "Tidigare givna uppdrag i regleringsbrev eller särskilda regeringsbeslut",
+   "group": [],
+   "text": "| | | |\n| --- | --- | --- |\n| **Uppdrag** | **Beslut** | **Återrapportering** |\n| Ändring av uppdraget att inrätta regionala center mot arbetslivskriminalitet och om varaktig myndighetssamverkan | A2024/01109 | Uppdraget ska, i stället för vad som anges i tidigare beslut (A2022/00333 och A2023/01693), årligen och senast den 31 mars 2025–2027 redovisas av Arbetsmiljöverket |\n| Uppdrag att genomföra kunskapshöjande insatser för att främja arbetet med att förebygga och motverka rasism i arbetsmiljön | A2024/01130 | Delredovisas senast den 1 mars 2026 och slutredovisas senast den 1 mars 2027 till Regeringskansliet (Arbetsmarknadsdepartementet) med kopia till Forum för levande historia. |\n| Uppdrag att förenkla regelverk i syfte att minska regelbördan för företag | KN2024/01546 | Slutredovisas senast den 15 mars 2026 |\n| Uppdrag att stärka och påskynda regelförenklingsarbetet | Regleringsbrev för 2024 | Slutredovisas senast den 15 mars 2026 |\n| Uppdrag om regional skyddsombudsverksamhet | Regleringsbrev för 2025 | Slutredovisas senast den 18 maj 2026 |\n| Uppdrag att ta fram åtgärdsplaner till regeringens arbetsmiljöstrategi för 2021–2025 | A2021/00338 | Senast den 1 mars årligen och slutredovisas senast den 1 mars 2026 |\n| Uppdrag om en systematisk uppföljning av funktionshinderspolitiken under 2021–2031 | S2025/01367 | Årligen senast den 1 februari till Myndigheten för delaktighet |\n| Uppdrag att medverka i arbetet med att samordna, stödja och följa upp genomförandet av den nationella strategin inom området psykisk hälsa och suicidprevention | S2025/00016 | Delredovisas 19 december 2026 och 19 december 2027 samt slutredovisas 19 december 2028 |\n| Uppdrag till Arbetsmiljöverket att vara strategisk myndighet för hbtqi-personers lika rättigheter och möjligheter | A2025/00044 | Delredovisas senast den 1 mars 2026 och 2027 samt slutredovisas senast den 1 mars 2028 till Regeringskansliet (Arbetsmarknadsdepartementet) med kopia till Folkhälsomyndigheten. |\n| Uppdrag om utvecklingsarbete för en mer träffsäker och riskbaserad tillsyn | Reglerinsbrev för 2025 | I årsredovisningarna för 2026–2028 |\n| Uppdrag att lämna förslag på en ny modell för redovisning av den regionala skyddsombudsverksamheten | A2024/00531 | I samband med årsredovisningen för 2025 |\n| Uppdrag om nationell samverkan och handlingsplan för arbetet mot antimikrobiell resistens | S2025/01938 | Slutredovisas senast den 31 december 2030 |\n\nFör regeringsuppdrag som lämnats i ett särskilt regeringsbeslut utgör tabellen/uppräkningen/bilagan endast en upplysning om vilka uppdrag som vid årets början var riktade till myndigheten och vilka tider som då gällde för återrapportering eller liknande.",
+   "dates": [
+    "2025-03-31",
+    "2026-03-01",
+    "2026-03-15",
+    "2026-05-18",
+    "2026-12-19",
+    "2027-03-01",
+    "2027-12-19",
+    "2028-03-01",
+    "2028-12-19",
+    "2030-12-31"
+   ],
+   "deadlines": [
+    "2025-03-31",
+    "2026-03-01",
+    "2026-03-15",
+    "2026-05-18",
+    "2027-03-01",
+    "2028-03-01",
+    "2030-12-31"
+   ],
+   "recipients": [
+    "Folkhälsomyndigheten",
+    "Forum för levande historia",
+    "Myndigheten för delaktighet",
+    "Regeringskansliet (Arbetsmarknadsdepartementet)"
+   ],
+   "partners": [
+    "Folkhälsomyndigheten",
+    "Forum för levande historia",
+    "Myndigheten för delaktighet"
+   ],
+   "channels": [
+    "årsredovisning",
+    "delredovisning",
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "föreslå",
+    "samordna",
+    "utveckla",
+    "tillsyn_kontroll",
+    "informera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "26274:assignments:16"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "2:1",
+   "name": "Arbetsmiljöverket",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 14,
+    "name": "Arbetsmarknad och arbetsliv"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Arbetsmiljöverket",
+     "amount_tkr": 1007926,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Förvaltningskostnader (ram)",
+       "amount_tkr": 1004426
+      },
+      {
+       "ap": "2",
+       "name": "Medel för arbete mot arbetslivskriminalitet (ram)",
+       "amount_tkr": 2000
+      },
+      {
+       "ap": "3",
+       "name": "Medel för statsbidrag för information och rådgivning om skydd för personer som rapporterar om missförhållanden (ram)",
+       "amount_tkr": 1500
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Förvaltningskostnader",
+     "text": "Anslagsposten får användas för Arbetsmiljöverkets förvaltningsutgifter.\nArbetsmiljöverket ska betala ut ett arvode om 6 000 kronor till den som enligt uppdrag (A2025/01203) utsetts att ansvara för att lämna en årsredovisning för 2025 för Myndigheten för arbetsmiljökunskap med erforderligt underlag. Ansvaret omfattar även hanteringen av revisionsberättelse och rapporter från Riksrevisionen."
+    },
+    {
+     "ap": "2",
+     "name": "Medel för arbete mot arbetslivskriminalitet",
+     "text": "Arbetsmiljöverket ska betala ut 2 000 000 kronor enligt förordningen\\\n(2018:1404) om statsbidrag till arbetsmarknadens parter för att främja\\\nkunskapsutbyte och samverkan med myndigheter i syfte att motverka\\\nbrott och andra regelöverträdelser i arbetslivet. Medel som inte används\\\nska återbetalas till Arbetsmiljöverket. Arbetsmiljöverket ska senast den\\\n18 maj 2027 till Regeringskansliet (Arbetsmarknadsdepartementet)\\\nlämna en sammanställning av de redovisningar som lämnats enligt 13 § i\\\nförordningen."
+    },
+    {
+     "ap": "3",
+     "name": "Medel för statsbidrag för information och rådgivning om skydd för personer som rapporterar om missförhållanden",
+     "text": "Arbetsmiljöverket ska betala ut 1 500 000 kronor enligt förordningen (2021:950) om statsbidrag för information och rådgivning om skydd för personer som rapporterar om missförhållanden. Medel som inte används ska återbetalas till Arbetsmiljöverket. Arbetsmiljöverket ska senast den 31 maj 2027 till Regeringskansliet (Arbetsmarknadsdepartementet) lämna en sammanfattande redogörelse för vad bidragen har använts till och, om möjligt, ge en samlad bedömning av bidragets effekter i förhållande till dess syfte enligt 15 § i förordningen."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "2:5",
+   "name": "Regional skyddsombudsverksamhet",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 14,
+    "name": "Arbetsmarknad och arbetsliv"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Arbetsmiljöverket",
+     "amount_tkr": 112000,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Regional skyddsombudsverksamhet (ram)",
+       "amount_tkr": 112000
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Regional skyddsombudsverksamhet",
+     "text": "Arbetsmiljöverket ska betala ut högst 110 500 000 kronor efter rekvisition från de centrala arbetstagarorganisationerna (LO, TCO och Saco) och Svenska Hamnarbetarförbundet för den regionala skyddsombudsverksamheten.\nArbetsmiljöverket ska betala ut högst 1 500 000 kronor efter rekvisition från de centrala arbetstagarorganisationerna (LO, TCO och Saco) för stöd till deras deltagande i standardiseringsverksamheten."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "1",
+     "max": 110500000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "1",
+     "max": 1500000,
+     "unit": "kronor"
+    }
+   ]
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "2:1 Arbetsmiljöverket",
+   "ap": "ap.1",
+   "Anslagskredit": 30327,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:1 Arbetsmiljöverket",
+   "ap": "ap.2",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:1 Arbetsmiljöverket",
+   "ap": "ap.3",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:5 Regional skyddsombudsverksamhet",
+   "ap": "ap.1",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 50000,
+  "Räntekontokredit": 60000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 83952
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 83952
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 83952
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 83952
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 83952
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 83523
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 83523
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 83523
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 83523
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 83523
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 83523
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 83528
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "2:1 Arbetsmiljöverket",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "30 327",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.2",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.3",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "2:5 Regional skyddsombudsverksamhet",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "0",
+     "Inget",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Avslutade anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagstyp"
+    ],
+    [
+     "2:5 (2025) Myndigheten för arbetsmiljökunskap",
+     ""
+    ],
+    [
+     "ap.1 (2025)",
+     "ram"
+    ],
+    [
+     "ap.2 (2025)",
+     "ram"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Beställningsbemyndiganden",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Bemyndigande",
+     "Utgifter mot anslag till följd av ekonomiska åtaganden",
+     "",
+     "",
+     ""
+    ],
+    [
+     "2026",
+     "2027",
+     "2028",
+     "2029 -",
+     "Slutår"
+    ],
+    [
+     "2:5 Regional skyddsombudsverksamhet",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "20 000",
+     "20 000",
+     "",
+     "",
+     "2027"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "50 000"
+    ],
+    [
+     "Räntekontokredit",
+     "60 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "83 952"
+    ],
+    [
+     "2026-02-25",
+     "83 952"
+    ],
+    [
+     "2026-03-25",
+     "83 952"
+    ],
+    [
+     "2026-04-25",
+     "83 952"
+    ],
+    [
+     "2026-05-25",
+     "83 952"
+    ],
+    [
+     "2026-06-25",
+     "83 523"
+    ],
+    [
+     "2026-07-25",
+     "83 523"
+    ],
+    [
+     "2026-08-25",
+     "83 523"
+    ],
+    [
+     "2026-09-25",
+     "83 523"
+    ],
+    [
+     "2026-10-25",
+     "83 523"
+    ],
+    [
+     "2026-11-25",
+     "83 523"
+    ],
+    [
+     "2026-12-25",
+     "83 528"
+    ],
+    [
+     "Summa",
+     "1 004 426"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "2:1 ap.1",
+     "Förvaltningskostnader"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Uppdragsverksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Särskild informationsverksamhet3",
+     "1 100"
+    ]
+   ]
+  }
+ ],
+ "has_fee_section": true,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 4,
+  "n_org": 1,
+  "n_assignments": 17,
+  "n_deadlines": 13,
+  "deadlines": [
+   "2025-03-31",
+   "2026-03-01",
+   "2026-03-15",
+   "2026-05-18",
+   "2026-07-24",
+   "2026-12-01",
+   "2027-02-22",
+   "2027-03-01",
+   "2027-03-31",
+   "2027-05-18",
+   "2027-06-07",
+   "2028-03-01",
+   "2030-12-31"
+  ],
+  "partners": [
+   "Ekonomistyrningsverket",
+   "Folkhälsomyndigheten",
+   "Forum för levande historia",
+   "Jämställdhetsmyndigheten",
+   "Kammarkollegiet",
+   "Myndigheten för arbetsmiljökunskap",
+   "Myndigheten för delaktighet"
+  ],
+  "n_appropriations": 2,
+  "appropriations_total_tkr": 1119926,
+  "payment_plan_total_tkr": 1004426,
+  "md_chars": 16165
+ },
+ "layout": "standard",
+ "warnings": []
+}

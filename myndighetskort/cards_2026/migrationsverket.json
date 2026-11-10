@@ -1,0 +1,2066 @@
+{
+ "schema_version": 1,
+ "id": 27514,
+ "original_rbid": 26057,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-09-03",
+ "year": "2026",
+ "name": "Migrationsverket",
+ "slug": "migrationsverket",
+ "department": "Justitiedepartementet",
+ "expenditure_areas": [
+  8
+ ],
+ "registry_numbers": [
+  "Ju2026/02002"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1",
+   "2025/26:99"
+  ],
+  "bet": [
+   "2025/26:FiU2",
+   "2025/26:SfU4"
+  ],
+  "rskr": [
+   "2025/26:103",
+   "2025/26:345"
+  ]
+ },
+ "n_attachments_stated": 3,
+ "mission": "",
+ "goals": [
+  {
+   "title": "Återvändandet ska fortsätta öka",
+   "group": [],
+   "text": "Migrationsverket ska vidta åtgärder för att andelen personer med lagakraftvunna avlägsnandebeslut som återvänder självmant ska öka samt för att minska tiden mellan lagakraftvunnet avlägsnandebeslut och utresa. Myndigheten ska fortsätta fördjupa sin samverkan med Polismyndigheten och Kriminalvården, såväl på operativ som strategisk nivå. Migrationsverket ska även fortsatt arbeta aktivt med att minska andelen personer som avviker.\n\nMigrationsverket ska redovisa:\n\n- Åtgärder som myndigheten har vidtagit för att återvändandet ska öka och resultatet av dessa.\n- Tiden mellan lagakraftvunnet avlägsnandebeslut och utresa.\n- Resultatet av de åtgärder som vidtagits för att öka och effektivisera användandet av uppsikt.\n- Arbetet som bedrivits för en fördjupad samverkan med Polismyndigheten och Kriminalvården och dess effekt på återvändandearbetet.\n- Andelen personer med lagakraftvunna avlägsnandebeslut som avvikit under de senaste tre åren, samt resultatet av de åtgärder som vidtagits för att minska andelen avvikna.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Kriminalvården",
+    "Polismyndigheten"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "Åtgärder som myndigheten har vidtagit för att återvändandet ska öka och resultatet av dessa.",
+    "Tiden mellan lagakraftvunnet avlägsnandebeslut och utresa.",
+    "Resultatet av de åtgärder som vidtagits för att öka och effektivisera användandet av uppsikt.",
+    "Arbetet som bedrivits för en fördjupad samverkan med Polismyndigheten och Kriminalvården och dess effekt på återvändandearbetet.",
+    "Andelen personer med lagakraftvunna avlägsnandebeslut som avvikit under de senaste tre åren, samt resultatet av de åtgärder som vidtagits för att minska andelen avvikna."
+   ],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27514:goals:0"
+  },
+  {
+   "title": "Strategisk användning av förvarsplatser för ett ökat återvändande",
+   "group": [],
+   "text": "Förvar är ett verktyg i återvändandearbetet som ska användas strategiskt i dialog och samverkan med Polismyndigheten. Migrationsverket, Polismyndigheten och Kriminalvården ansvarar gemensamt för att goda planeringsförutsättningar skapas i syfte att uppnå bättre framförhållning, en effektiv och ändamålsenlig användning av förvarsplatser samt säkerställande av nödvändiga transporter. Handläggning och reseplanering ska främja en kort vistelsetid mellan inskrivning på förvar och utresa.\n\nMigrationsverket ska redovisa:\n\n- Resultatet av de åtgärder som har vidtagits, enskilt och samordnat med Polismyndigheten och Kriminalvården, för att på ett strategiskt sätt effektivisera användningen av förvarsplatser.\n- Vistelsetider i förvaren under de senaste tre åren.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Kriminalvården",
+    "Polismyndigheten"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "Resultatet av de åtgärder som har vidtagits, enskilt och samordnat med Polismyndigheten och Kriminalvården, för att på ett strategiskt sätt effektivisera användningen av förvarsplatser.",
+    "Vistelsetider i förvaren under de senaste tre åren."
+   ],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27514:goals:1"
+  },
+  {
+   "title": "Öka och effektivisera användandet av återvändandecentren",
+   "group": [],
+   "text": "Migrationsverket ska tilldela en plats i ett återvändandecenter till alla personer med verkställbara överförings-, utvisnings- eller avvisningsbeslut som har rätt till bistånd enligt lagen (1994:137) om mottagande av asylsökande m.fl. och alla personer vars överklagande i ett ärende om asyl har avslagits av migrationsdomstol. Det kan alltjämt göras undantag från att tilldela en person en plats i ett återvändandecenter men undantaget ska tillämpas restriktivt.\n\nMigrationsverket ska redovisa:\n\n- Antalet platser i återvändandecenter, kostnader och beläggningsgrad, uppdelat per kvartal samt föregående år.\n- Åtgärder som myndigheten har genomfört på återvändandecentren, inklusive för att öka och effektivisera användandet av platser.\n- Undantag som har gjorts från att erbjuda personer en plats i återvändandecenter.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "1994:137"
+   ],
+   "sub_questions": [
+    "Antalet platser i återvändandecenter, kostnader och beläggningsgrad, uppdelat per kvartal samt föregående år.",
+    "Åtgärder som myndigheten har genomfört på återvändandecentren, inklusive för att öka och effektivisera användandet av platser.",
+    "Undantag som har gjorts från att erbjuda personer en plats i återvändandecenter."
+   ],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27514:goals:2"
+  },
+  {
+   "title": "Övergripande mål- och återrapporteringskrav",
+   "group": [],
+   "text": "Kontroller av de sökandes identitet ska ske med hög kvalitet. Vistelsetiderna i mottagandet ska kortas och barn ska prioriteras så att de snabbt kan få ett beslut.\n\nMigrationsverket ska redovisa:\n\n- Kostnad per avgjort ärende och antalet avgjorda ärenden per årsarbetskraft. För asylärenden ska redovisningen delas upp på initialprocess, förstagångsärenden, Dublinärenden och förlängningsärenden. Redovisning ska även ske för personer med tillfälligt skydd enligt massflyktsdirektivet. För anknytnings-, studerande- och arbetsmarknadsärenden ska redovisningen delas upp på ärendeslag samt förstagångs- och förlängningsärenden. För arbetstillståndsärenden ska redovisningen ske per kategori.\n- Antalet inkommande asylärenden där det tidigare finns ett avlägsnandebeslut som preskriberats.\n- Handläggningstider samt andel avgjorda ärenden inom författningsstyrd tid, uppdelat på ärendeslag samt förstagångs- och förlängningsärenden där det är relevant. För öppna ärenden bör den genomsnittliga tiden, s.k. kötid, redovisas med samma uppdelning. För arbetstillståndsärenden ska redovisningen ske per kategori samt förstagångs- och förlängningsärenden.\n- Genomsnittlig vistelsetid för de som har lämnat mottagningssystemet uppdelat på utgång i ärendet.\n- Antal personer som deltagit i den obligatoriska samhällsintroduktionen, samt genomsnittlig tid mellan ansökan om asyl till genomförd introduktion, under de senaste tre åren.\n- Vilka åtgärder som har vidtagits för att öka enhetlighet och rättslig kvalitet i ärendeprövningen samt resultatet av dessa.\n\nMigrationsverket ska därutöver redovisa vilka åtgärder som vidtagits för att korta handläggningstiderna för tillståndsärenden kopplade till arbete, studier och forskning och vilka effekter dessa åtgärder har haft. Myndigheten ska också redovisa vilka åtgärder som vidtagits för att upptäcka potentiella säkerhetshot i handläggningen av medborgarskapsärenden samt ärenden om uppehållstillstånd på grund av anknytning, arbete, forskning och studier.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "tillsyn_kontroll"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "Kostnad per avgjort ärende och antalet avgjorda ärenden per årsarbetskraft. För asylärenden ska redovisningen delas upp på initialprocess, förstagångsärenden, Dublinärenden och förlängningsärenden. Redovisning ska även ske för personer med tillfälligt skydd enligt massflyktsdirektivet. För anknytnings-, studerande- och arbetsmarknadsärenden ska redovisningen delas upp på ärendeslag samt förstagångs- och förlängningsärenden. För arbetstillståndsärenden ska redovisningen ske per kategori.",
+    "Antalet inkommande asylärenden där det tidigare finns ett avlägsnandebeslut som preskriberats.",
+    "Handläggningstider samt andel avgjorda ärenden inom författningsstyrd tid, uppdelat på ärendeslag samt förstagångs- och förlängningsärenden där det är relevant. För öppna ärenden bör den genomsnittliga tiden, s.k. kötid, redovisas med samma uppdelning. För arbetstillståndsärenden ska redovisningen ske per kategori samt förstagångs- och förlängningsärenden.",
+    "Genomsnittlig vistelsetid för de som har lämnat mottagningssystemet uppdelat på utgång i ärendet.",
+    "Antal personer som deltagit i den obligatoriska samhällsintroduktionen, samt genomsnittlig tid mellan ansökan om asyl till genomförd introduktion, under de senaste tre åren.",
+    "Vilka åtgärder som har vidtagits för att öka enhetlighet och rättslig kvalitet i ärendeprövningen samt resultatet av dessa."
+   ],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27514:goals:3"
+  },
+  {
+   "title": "Utvecklingen av den digitala infrastrukturen och datadrivet arbete",
+   "group": [],
+   "text": "Migrationsverket ska med hjälp av digital teknik öka effektiviteten i verksamheten. Nya digitala lösningar som tas fram ska bidra till ett ökat och mer effektivt informationsutbyte inom myndigheten och med andra myndigheter. Migrationsverket ska säkerställa en hög grad av informationssäkerhet. Migrationsverket ska därtill arbeta för att möjliggöra användning av AI och ny teknik genom datadrivet arbete. Vidare ska Migrationsverket löpande hålla Myndigheten för digital förvaltning (Digg) informerad om förberedelser för anslutning till infrastrukturen för säker digital kommunikation inom offentlig sektor.\n\nMigrationsverket ska redovisa:\n\n- Effekter av de viktigaste it-utvecklingsinsatserna som har genomförts under året eller tidigare, inklusive myndighetens ansvarsområden inom utrikesförvaltningen. Redovisningen ska innehålla förväntad nytta, kostnader och finansiering, påverkan på myndighetens arbete och när effekten förväntas uppstå.\n- Hur myndigheten arbetat för att förvalta och utveckla sin informationssäkerhet samt hur myndigheten planerar för att möta framtida behov.\n- Vilka åtgärder som vidtagits för att möjliggöra användning av AI och ny teknik genom datadrivet arbete, och resultatet av dessa.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Myndigheten för digital förvaltning"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla",
+    "informera",
+    "statistik_data",
+    "digitalisering_ai",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "Effekter av de viktigaste it-utvecklingsinsatserna som har genomförts under året eller tidigare, inklusive myndighetens ansvarsområden inom utrikesförvaltningen. Redovisningen ska innehålla förväntad nytta, kostnader och finansiering, påverkan på myndighetens arbete och när effekten förväntas uppstå.",
+    "Hur myndigheten arbetat för att förvalta och utveckla sin informationssäkerhet samt hur myndigheten planerar för att möta framtida behov.",
+    "Vilka åtgärder som vidtagits för att möjliggöra användning av AI och ny teknik genom datadrivet arbete, och resultatet av dessa."
+   ],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27514:goals:4"
+  },
+  {
+   "title": "Utvecklingssamarbete med tredjeland",
+   "group": [],
+   "text": "Migrationsverkets utvecklingssamarbete ska i första hand genomföras i de prioriterade länderna och längs de prioriterade rutterna. Myndigheten ska genom användande av sin expertkunskap bidra till stärkt kapacitet för migrations- och asylhantering i partnerländer, inklusive gränskontroller, med fokus på att motverka irreguljär migration. Myndigheten ska också bidra till stärkta förutsättningar för ökat återvändande, frivillig återvandring och hållbar återintegrering. Insatserna ska i första hand vara kapacitetsstärkande och genomföras i direkt samarbete med partnerländers myndigheter, där Migrationsverkets mervärde som expertmyndighet nyttjas. Migrationsverkets verksamhet på området ska bidra till Styrelsen för internationellt utvecklingssamarbetes (Sidas) genomförande av strategin för Sveriges globala utvecklingssamarbete inom migration, återvändande och frivillig återvandring 2024-2028 (UD2024/14340). Synergier och samordning med andra biståndsstrategier som har mål inom migrationsområdet, eller vars verksamhet har beröringspunkter med migrationsfrågorna, ska särskilt eftersträvas.\n\nMigrationsverket ska redovisa vilka insatser som genomförts på området utvecklingssamarbete med tredjeland, resultatet av dessa insatser och en plan för det fortsatta arbetet.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [
+    "Styrelsen för internationellt utvecklingssamarbete"
+   ],
+   "partners": [
+    "Styrelsen för internationellt utvecklingssamarbete"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "utveckla",
+    "tillsyn_kontroll",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27514:goals:5"
+  },
+  {
+   "title": "Förutsättningarna för frivilligt återvandring ska förbättras",
+   "group": [],
+   "text": "Migrationsverket ska redovisa hur många som ansökt om och hur många som har beviljats återvandringsbidrag. Myndigheten ska även redovisa antal ansökningar som har avslagits samt grunder för avslag. Myndighetens ska också redovisa kostnaderna för administrationen av bidraget.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27514:goals:6"
+  },
+  {
+   "title": "Förstärkt kontrollverksamhet för att motverka fusk och missbruk",
+   "group": [],
+   "text": "Möjligheterna att upptäcka fusk och missbruk ska öka och bli effektivare. Migrationsverket ska fortsatt prioritera och stärka kontrollverksamheten och arbetet med återkallelseärenden.\n\nMigrationsverket ska redovisa:\n\n- Antalet ärenden om återkallelse som initierats, fördelat på ärendeslag och med angivna orsaker till att återkallelse har initierats.\n- Utfallet av avslutade ärenden om återkallelse, inklusive antal beslut samt grund för återkallelse.\n- Utvecklingen av styckkostnaden per återkallelseärende för de senaste tre åren.\n- Hur myndigheten arbetar med att initiera ärenden om återkallelse i ärenden där det finns indikationer på arbetslivskriminalitet.\n- Statistik för det nya ärendeslaget Kontroll av information (KAI).\n\nFör det fall fullständig statistik inte kan lämnas ska myndigheten redovisa varför så inte kan ske. Myndigheten ska redovisa genomförda utvecklingsinsatser och resultatet av dessa inom kontroll- och återkallelseområdet samt vilka anpassningar av IT-stöd som genomförts för att stärka kontrollarbetet, exempelvis vad gäller ett effektivt informationsutbyte med andra myndigheter. Vidare ska myndigheten redovisa hur efterkontroller genomförs och utvecklas inom all ärendeprövning som rör tillstånd och statusförklaringar.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "fördela_medel",
+    "utveckla",
+    "tillsyn_kontroll",
+    "statistik_data"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "Antalet ärenden om återkallelse som initierats, fördelat på ärendeslag och med angivna orsaker till att återkallelse har initierats.",
+    "Utfallet av avslutade ärenden om återkallelse, inklusive antal beslut samt grund för återkallelse.",
+    "Utvecklingen av styckkostnaden per återkallelseärende för de senaste tre åren.",
+    "Hur myndigheten arbetar med att initiera ärenden om återkallelse i ärenden där det finns indikationer på arbetslivskriminalitet.",
+    "Statistik för det nya ärendeslaget Kontroll av information (KAI)."
+   ],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27514:goals:7"
+  },
+  {
+   "title": "Effektivisera delgivning av beslut",
+   "group": [],
+   "text": "Migrationsverket ska vidta åtgärder för att förbättra och effektivisera delgivningsförfarandet i samtliga ärendeslag där myndigheten fattar beslut och delgivning är relevant.\n\nMigrationsverket ska redovisa:\n\n- Genomsnittlig tid mellan beslutsfattande och delgivning, per ärendeslag, samt orsaker till tidsutdräkter i delgivningsförfarandet. För det fall fullständig statistik inte kan lämnas ska myndigheten redovisa varför så inte kan ske.\n- Vilka delgivningsformer som används i olika ärendeslag samt en bedömning av vilka former som är möjliga att använda inom ramen för gällande rätt.\n- Resultatet av de åtgärder som vidtagit för att förbättra och effektivisera delgivningsförfarandet inom ramen för gällande rätt.\n- Eventuella hinder i nuvarande regelverk som påverkar effektiviteten i delgivningsförfarandet.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "statistik_data"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "Genomsnittlig tid mellan beslutsfattande och delgivning, per ärendeslag, samt orsaker till tidsutdräkter i delgivningsförfarandet. För det fall fullständig statistik inte kan lämnas ska myndigheten redovisa varför så inte kan ske.",
+    "Vilka delgivningsformer som används i olika ärendeslag samt en bedömning av vilka former som är möjliga att använda inom ramen för gällande rätt.",
+    "Resultatet av de åtgärder som vidtagit för att förbättra och effektivisera delgivningsförfarandet inom ramen för gällande rätt.",
+    "Eventuella hinder i nuvarande regelverk som påverkar effektiviteten i delgivningsförfarandet."
+   ],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27514:goals:8"
+  },
+  {
+   "title": "Främjande av högkvalificerad arbetskraft",
+   "group": [],
+   "text": "Migrationsverket ska främja högkvalificerad arbetskraftsinvandring och annan utländsk arbetskraft som är viktig för Sveriges konkurrenskraft samt vidta åtgärder för att förbättra Sveriges möjligheter att attrahera och behålla internationell kompetens. Åtgärderna ska bidra till snabba och smidiga tillståndsprocesser samt en god service till arbetsgivare.\n\nMigrationsverket ska redovisa vilka åtgärder som har vidtagits för att främja högkvalificerad arbetskraftsinvandring och för att förbättra Sveriges möjligheter att attrahera internationell kompetens, samt resultatet av åtgärderna.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27514:goals:9"
+  },
+  {
+   "title": "Vidarebosättning",
+   "group": [],
+   "text": "Migrationsverket ska under 2026 vidarebosätta 900 personer till Sverige. Urvalet ska utgå från kriterier som ger en välgrundad prognos för god integration i det svenska samhället. Kvinnor, flickor och utsatta grupper som hbtqi-personer ska prioriteras. Migrationsverket ska samråda med Regeringskansliet (Justitiedepartementet) om fördelningen av 2026 års vidarebosättningsplatser och återrapportera hur myndigheten arbetar för att säkerställa att uttag kan ske.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27514:goals:10"
+  },
+  {
+   "title": "Arbete mot felaktiga utbetalningar",
+   "group": [],
+   "text": "Migrationsverket ska bidra till målet att de felaktiga utbetalningarna från välfärdssystemen och den brottslighet som riktas mot dessa system ska minska. Omfattningen av felaktiga utbetalningar från de ersättningar som Migrationsverket hanterar och den brottslighet som riktas mot dessa ersättningar ska därför minska.\n\nMigrationsverket ska redovisa måluppfyllelsen, genomförda åtgärder för att minska de felaktiga utbetalningarna och den brottslighet som riktas mot välfärdssystemen, samt en bedömning av åtgärdernas effekter.\n\nRedovisningen ska därutöver omfatta följande:\n\n- Upptäckta felaktiga utbetalningar (antal utbetalningar och totalt belopp).\n- De upptäckta felaktiga utbetalningarnas andel av det totalt utbetalda.\n- Andelen upptäckta felaktiga utbetalningar av de uppskattade totala felaktiga utbetalningarna.\n- Upptäckta felaktiga utbetalningar i kontrollarbetet per krona i kostnader för kontrollarbetet.\n- Återbetalda medel samt andelen återbetalda medel av upptäckta felaktiga utbetalningar.\n- Återkrav (antal, orsaker och belopp) och total fordran avseende återvandringsbidrag.\n- Antal polisanmälningar.\n\nMed kostnader för kontrollarbetet avses en uppskattning av de kostnader som är direkt relaterade till åtgärder utanför den ordinarie handläggningen av ärenden, där syftet är att upptäcka felaktiga utbetalningar.\n\nRedovisningen ska ske för återvandringsbidraget, dagersättningen och för det särskilda bidraget. Därtill ska en analys, där det är möjligt, göras av hur utfallet av indikatorerna förändrats över tid samt orsaker till förändringen.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "tillsyn_kontroll",
+    "statistik_data"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "Upptäckta felaktiga utbetalningar (antal utbetalningar och totalt belopp).",
+    "De upptäckta felaktiga utbetalningarnas andel av det totalt utbetalda.",
+    "Andelen upptäckta felaktiga utbetalningar av de uppskattade totala felaktiga utbetalningarna.",
+    "Upptäckta felaktiga utbetalningar i kontrollarbetet per krona i kostnader för kontrollarbetet.",
+    "Återbetalda medel samt andelen återbetalda medel av upptäckta felaktiga utbetalningar.",
+    "Återkrav (antal, orsaker och belopp) och total fordran avseende återvandringsbidrag.",
+    "Antal polisanmälningar."
+   ],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27514:goals:11"
+  },
+  {
+   "title": "Genomförande av internationella sanktioner",
+   "group": [],
+   "text": "Migrationsverket ska redovisa vilka åtgärder som har vidtagits, enskilt och i samverkan med andra myndigheter, för att främja efterlevnaden av EU:s sanktionsförordningar och den svenska sanktionslagstiftningen.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "utveckla",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27514:goals:12"
+  }
+ ],
+ "org": [
+  {
+   "title": "Arbetsmiljö och kompetensförsörjning inom förvarsverksamheten",
+   "group": [],
+   "text": "Migrationsverket ska redovisa vilka åtgärder som har vidtagits för att främja god hälsa och minska sjukfrånvaron för anställda, både kvinnor och män, inom förvarsverksamheten. Myndigheten ska även redovisa vilka åtgärder som har vidtagits för att stärka kompetensförsörjningen inom förvarsverksamheten.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "org",
+   "item_id": "27514:org:0"
+  }
+ ],
+ "assignments": [
+  {
+   "title": "Planering och genomförande av en skyndsam utökning av förvarskapaciteten",
+   "group": [],
+   "text": "Migrationsverket ska fortsatt genomföra en skyndsam utökning av antalet förvarsplatser. Migrationsverket ska efter samråd med Polismyndigheten och Kriminalvården uppdatera*Plan för utökad förvarskapacitet*(Ju2024/00901) i enlighet med de tillskott som myndigheten fått i budgetpropositionen för 2024 och 2025. Av planen ska bland annat uppdaterade bedömningar av hur många nya förvarsplatser som kan inrättas till följd av tillskotten och vilka investeringar i lokaler som krävs framgå. Den ska även uppdateras med en analys, kostnadsberäkningar och en plan för hur en utbyggnad som motsvarar totalt 1 000 förvarsplatser kommer att nås senast 2029. Migrationsverket ska även redovisa en plan för inrättandet, inkl. kostnadsberäkningar, av säkerhetsavdelningar motsvarande 100 platser i enlighet med tillskottet i budgetpropositionen för 2026.\n\nMigrationsverket ska även, i samråd med Polismyndigheten, ta ställning till om de 1 000 platserna som ska finnas på plats senast 2029 motsvarar ett framtida behov. Hänsyn ska tas till pågående arbeten med lagändringar, såväl på nationell nivå som EU-nivå.\n\nUppdraget ska redovisas till Regeringskansliet (Justitiedepartementet) senast den 15 april 2026.",
+   "dates": [
+    "2026-04-15"
+   ],
+   "deadlines": [
+    "2026-04-15"
+   ],
+   "recipients": [
+    "Regeringskansliet (Justitiedepartementet)"
+   ],
+   "partners": [
+    "Kriminalvården",
+    "Polismyndigheten"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna",
+    "utveckla",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27514:assignments:0"
+  },
+  {
+   "title": "Prioritetsordning för användning av förvarsplatser",
+   "group": [],
+   "text": "Migrationsverket och Polismyndigheten ska ta fram en gemensam prioritetsordning för hur förvarsplatser ska användas på ett sådant sätt att tillgången till förvarsplatser får en så begränsad effekt som möjligt på förutsättningarna för ett effektivt återvändande. Prioritetsordningen ska syfta till att förvarstagna personer alltid ska kunna erbjudas plats och att myndigheterna samordnar sig i situationer där brist på förvarsplatser kan riskera att uppstå. Uppdraget ska redovisas till Regeringskansliet (Justitiedepartementet) senast den 22 maj 2026.",
+   "dates": [
+    "2026-05-22"
+   ],
+   "deadlines": [
+    "2026-05-22"
+   ],
+   "recipients": [
+    "Regeringskansliet (Justitiedepartementet)"
+   ],
+   "partners": [
+    "Polismyndigheten"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27514:assignments:1"
+  },
+  {
+   "title": "Stärkta informationsinsatser för att uppmuntra frivillig återvandring",
+   "group": [],
+   "text": "Migrationsverket ska fortsätta arbetet med informationsinsatser i syfte att öka kunskapen om möjligheten att frivilligt återvandra. Migrationsverket ska samverka med den nationella samordnaren för arbetet med frivillig återvandring, relevanta myndigheter och andra berörda parter i syfte att nå de personer som omfattas av möjligheten att ansöka om återvandringsbidrag. Arbetsförmedlingen, Polismyndigheten, Kriminalvården och Försäkringskassan ska bistå Migrationsverket. Migrationsverket ska redovisa vilka informationsinsatser som har genomförts, kostnader och resultatet av insatserna samt hur myndigheten har samverkat med relevanta myndigheter och andra aktuella aktörer. Uppdraget ska redovisas till Regeringskansliet (Justitiedepartementet) senast den 30 september 2026.",
+   "dates": [
+    "2026-09-30"
+   ],
+   "deadlines": [
+    "2026-09-30"
+   ],
+   "recipients": [
+    "Regeringskansliet (Justitiedepartementet)"
+   ],
+   "partners": [
+    "Arbetsförmedlingen",
+    "Försäkringskassan",
+    "Kriminalvården",
+    "Polismyndigheten"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "informera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27514:assignments:2"
+  },
+  {
+   "title": "Åtgärder inför övergången från tillfälligt skydd",
+   "group": [],
+   "text": "Migrationsverket ska vidta åtgärder inför övergången från tillfälligt skydd. Förslag ska tas fram om hur ett frivilligt tidsbegränsat återvändandeprogram för personer från Ukraina som beviljats tillfälligt skydd kan utformas. Återvändandeprogrammet ska beakta rådets rekommendation av den 16 september 2025 om övergången från tillfälligt skydd för fördrivna personer från Ukraina (C/2025/5129) samt eventuella kommande förslag från EU-kommissionen. Förslaget ska bland annat omfatta villkor för deltagande i programmet. Återvändandeprogrammet ska utformas på ett kostnadseffektivt sätt som värnar Ukrainas sammanhållning, genom fokus på stöd till integrering i samhällen i Ukraina och begränsat direktstöd till personer som ska återvända. Möjligheten att helt eller delvis finansiera programmet genom extern finansiering ska undersökas. Återvändandeprogrammet ska kunna anpassas utifrån utvecklingen i Ukraina. Olika möjliga förslag till återvändandeprogrammets utformning, inklusive kostnadsberäkningar, ska lämnas till Regeringskansliet (Justitiedepartementet) senast den 27 november 2026.\n\nMigrationsverket ska även samverka med ICMPD om bl.a. informationsgivning till personer från Ukraina inom ramen för den inrättade enhetshubben (Ju2026/00067). Rapportering om informationsgivning och samverkan med ICMPD ska ske löpande till Regeringskansliet (Justitiedepartementet).",
+   "dates": [
+    "2025-09-16",
+    "2026-11-27"
+   ],
+   "deadlines": [
+    "2026-11-27"
+   ],
+   "recipients": [
+    "Regeringskansliet (Justitiedepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "samordna",
+    "utveckla",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27514:assignments:3"
+  },
+  {
+   "title": "Information om medborgarskapsceremonier",
+   "group": [],
+   "text": "Migrationsverket ska, i samverkan med Sveriges Kommuner och Regioner, ta fram ett informationsblad om medborgarskapsceremonier, i syfte att fler berörda ska nås av information om möjligheten och öka deltagandet i sådana ceremonier. Synpunkter ska inhämtas från berörda myndigheter. Uppdraget ska redovisas till Regeringskansliet (Justitiedepartementet) senast den 30 april 2026.",
+   "dates": [
+    "2026-04-30"
+   ],
+   "deadlines": [
+    "2026-04-30"
+   ],
+   "recipients": [
+    "Regeringskansliet (Justitiedepartementet)"
+   ],
+   "partners": [
+    "Sveriges Kommuner och Regioner"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27514:assignments:4"
+  },
+  {
+   "title": "Samverkan kring migration och civilt försvar",
+   "group": [],
+   "text": "Migrationsverket ska, i samverkan med Myndigheten för civilt försvar, analysera beröringspunkter mellan Migrationsverkets verksamhet och verksamhet inom beredskapssektorn för räddningstjänst och skydd av civilbefolkningen. I genomförandet av uppdraget ska myndigheterna särskilt beakta scenarier med massflykt, med utgångspunkt i Natos krav på förmåga hos de allierade att hantera okontrollerade befolkningsrörelser. Myndigheterna ska identifiera behov av samordning, informationsdelning och utvecklingsområden med betydelse för det civila försvaret. Uppdraget ska genomföras i dialog med civilområdesansvariga länsstyrelser, kommuner och andra relevanta aktörer inom det civila försvaret. Uppdraget ska redovisas till Regeringskansliet (Justitiedepartementet och Försvarsdepartementet) senast den 22 februari 2027 och ingå i den särskilda redovisningen för civilt försvar.",
+   "dates": [
+    "2027-02-22"
+   ],
+   "deadlines": [
+    "2027-02-22"
+   ],
+   "recipients": [
+    "Regeringskansliet (Justitiedepartementet och Försvarsdepartementet)"
+   ],
+   "partners": [
+    "Myndigheten för civilt försvar"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna",
+    "utveckla",
+    "tillsyn_kontroll",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27514:assignments:5"
+  },
+  {
+   "title": "Avgiftshanteringen av viseringar på utlandsmyndigheterna",
+   "group": [],
+   "text": "Migrationsverket ska redogöra för förutsättningarna att ta över avgiftshanteringen för viseringar från utlandsmyndigheterna under 2027. Uppdraget ska genomföras i nära dialog och samråd med Regeringskansliet (Justitiedepartementet och Utrikesdepartementet). Redovisningen ska omfatta vilka åtgärder som behöver vidtas, kostnader och finansiering, tidplan samt övriga förutsättning för att ett övertagande ska kunna ske, däribland eventuella behov av författningsändringar. Uppdraget ska redovisas till Regeringskansliet (Justitiedepartementet och Utrikesdepartementet) senast den 12 juni 2026.",
+   "dates": [
+    "2026-06-12"
+   ],
+   "deadlines": [
+    "2026-06-12"
+   ],
+   "recipients": [
+    "Regeringskansliet (Justitiedepartementet och Utrikesdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27514:assignments:6"
+  },
+  {
+   "title": "Avtal för stärkt försörjningsberedskap",
+   "group": [],
+   "text": "Migrationsverket ska identifiera behov av och, i de fall myndigheten bedömer att det är lämpligt, teckna avtal som syftar till att upprätthålla försörjningen av varor och tjänster som är nödvändiga för myndighetens prioriterade uppgifter vid fredstida kriser och höjd beredskap. I de fall Migrationsverket nyttjar särskilda avtalsformer i form av sådana försörjningsberedskapsavtal (F-avtal) som beskrivs i SOU 2025:68 ska dessa avtal löpande rapporteras till Myndigheten för civilt försvar. Uppdraget ska redovisas till Regeringskansliet (Justitiedepartementet och Försvarsdepartementet) senast den 22 februari 2027, och ingå i den särskilda redovisningen för civilt försvar. Som stöd för arbetet kan myndigheten använda bland annat Utgångspunkter för totalförsvaret 2025–2030.",
+   "dates": [
+    "2027-02-22"
+   ],
+   "deadlines": [
+    "2027-02-22"
+   ],
+   "recipients": [
+    "Myndigheten för civilt försvar",
+    "Regeringskansliet (Justitiedepartementet och Försvarsdepartementet)"
+   ],
+   "partners": [
+    "Myndigheten för civilt försvar"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27514:assignments:7"
+  },
+  {
+   "title": "Samarbete mot kriminella sammanslutningar",
+   "group": [],
+   "text": "Inom Regeringskansliet bereds lagstiftningsförslag som rör återkallelse av medborgarskap i vissa fall samt återkallelse av uppehållstillstånd på grund av bristande levnadssätt (SOU 2025:33). Polismyndigheten och Migrationsverket ges i uppdrag att följa det pågående lagstiftningsarbetet för att gemensamt förbereda processer och arbetsmetoder som kan användas för att vid ett ikraftträdande snabbt kunna använda den nya lagstiftningen, särskilt när den kan tillämpas på personer med samröre med kriminella sammanslutningar och gängmiljö.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Polismyndigheten"
+   ],
+   "channels": [],
+   "task_types": [
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27514:assignments:8"
+  },
+  {
+   "title": "Barnperspektiv i återvändandecenter",
+   "group": [],
+   "text": "Migrationsverket arbetar inom sedan tidigare angivna riktlinjer om skydd av barn på mottagande- och återrvändandecenter genom sektionering. Migrationsverket får i uppdrag att redovisa vilka åtgärder som genomförts inom ramen för uppbyggnaden av sådana center för att sektionera boendet i syfte att skapa en lämplig boendemiljö för barn och familjer fritt från otrygga miljöer och olämpliga personer. Uppdraget ska redovisas till Regeringskansliet (Justitiedepartementet) senast den 30 december 2026.",
+   "dates": [
+    "2026-12-30"
+   ],
+   "deadlines": [
+    "2026-12-30"
+   ],
+   "recipients": [
+    "Regeringskansliet (Justitiedepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27514:assignments:9"
+  },
+  {
+   "title": "Anvisning av ensamkommande barn till kommuner",
+   "group": [],
+   "text": "Migrationsverket ska utarbeta anvisningsandelar som ska användas för fördelning av ensamkommande barn som omfattas av anvisningar till kommunerna enligt lagen (1994:137) om mottagande av asylsökande m.fl. eller mottagandelagen (2026:999) under 2027. Anvisningsandelarna ska ge en jämn fördelning och ta hänsyn till kommunernas befolkningsstorlek, tidigare mottagande av asylsökande, nyanlända, mottagande av ensamkommande barn och unga samt screening eller initiala förfaranden för ensamkommande barn. Vid anvisning av ensamkommande barn ska anknytningsanvisningar göras restriktivt med barnets bästa i beaktande. Kommuner inom ett län får göra omfördelning utan krav på att alla kommuner får anvisningsandelar innan anvisningsandelarna fastställs av Migrationsverket. Länsstyrelserna har i uppdrag att delta i genomförandet av uppdraget. Migrationsverket ska inhämta och beakta synpunkter från Sveriges Kommuner och Regioner. Uppdraget ska redovisas till Regeringskansliet (Justitiedepartementet) senast den 30 december 2026. Migrationsverket ska samverka i Länsstyrelsernas uppdrag att utreda möjligheten till omfördelning av anvisningsdelar för ensamkommande barn även mellan län.",
+   "dates": [
+    "2026-12-30"
+   ],
+   "deadlines": [
+    "2026-12-30"
+   ],
+   "recipients": [
+    "Regeringskansliet (Justitiedepartementet)"
+   ],
+   "partners": [
+    "Länsstyrelserna",
+    "Sveriges Kommuner och Regioner",
+    "länsstyrelserna"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "1994:137",
+    "2026:999"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27514:assignments:10"
+  },
+  {
+   "title": "Anvisning av personer med tillfälligt skydd till kommuner",
+   "group": [],
+   "text": "Migrationsverket ska redovisa förslag på antalet personer som under 2027 behöver anvisas en kommun enligt förordningen (2022:1008) om anvisning av en kommun som ska ordna boende för vissa utlänningar. Uppdraget ska redovisas till Regeringskansliet (Justitiedepartementet) senast den 15 augusti 2026. Om behovet för 2026 eller 2027 ändras ska det nya antalet redovisas så fort som möjligt. Migrationsverket ska enligt förordningen om anvisning av en kommun som ska ordna boende för vissa utlänningar ta fram en beräkning av antalet anvisningar per kommun (fördelningstal). Det beräknade antalet per kommun får omfördelas mellan kommuner inom ett län innan fördelningstalen fastställs av Migrationsverket. Länsstyrelserna och Arbetsförmedlingen har i uppdrag att delta i genomförande av uppdraget. Migrationsverket ska inhämta och beakta synpunkter från Sveriges Kommuner och Regioner.",
+   "dates": [
+    "2026-08-15"
+   ],
+   "deadlines": [
+    "2026-08-15"
+   ],
+   "recipients": [
+    "Regeringskansliet (Justitiedepartementet)"
+   ],
+   "partners": [
+    "Arbetsförmedlingen",
+    "Länsstyrelserna",
+    "Sveriges Kommuner och Regioner",
+    "länsstyrelserna"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "fördela_medel",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2022:1008"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27514:assignments:11"
+  },
+  {
+   "title": "Prognoser",
+   "group": [],
+   "text": "Migrationsverket ska med utgångspunkt i tillgängliga medel redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Vid behov och efter dialog med Justitiedepartementet kan även alternativa scenarion redovisas.\n\nPrognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Prognoserna ska lämnas i informationssystemet Hermes. Prognoskommentarer ska lämnas till Regeringskansliet (Justitiedepartementet) och för berörda anslag på utgiftsområde 13 Integration och jämställdhet till Regeringskansliet (Arbetsmarknadsdepartementet) senast kl. 9 den\n\n- 2 februari\n- 22 april\n- 24 juli\n- 9 november.\n\nAv kommentarerna ska det framgå vilka antaganden som har använts i prognosen, vilka osäkerhetsfaktorer som finns och vad som har orsakat eventuella utgiftsförändringar uppdelat per anslag och anslagsposter på utgiftsområde 8 Migration respektive utgiftsområde 13 Integration och jämställdhet.\n\nVidare ska en digital bilaga med detaljerad information om prognosen för varje anslagspost under anslag 1:1*Migrationsverket,*1:2*Ersättningar och bostadskostnader*på utgiftsområde 8 Migration samt för anslag 1:2*Kommunersättningar vid flyktingmottagande på*utgiftsområde 13 Integration och jämställdhet lämnas.\n\nI varje prognos och för varje år i prognosperioden ska myndigheten redovisa prognoser för de kostnader på utgiftsområde 8 Migration och utgiftsområde 13 Integration och jämställdhet som ska räknas som bistånd enligt beskrivningen i bilaga 5. Prognosförändringar ska kommenteras och förklaras i likhet med övriga utgiftsförändringar i prognosen.\n\nInför varje prognos ska myndigheten också lämna uppgifter till Arbetsförmedlingen om det prognostiserade antalet kommunmottagna fördelat på vidarebosatta (kvotflyktingar), anhöriga till skyddsbehövande samt personer som beviljats uppehållstillstånd efter att ha varit asylsökande. Prognostiserad genomsnittlig vistelsetid i mottagningssystemet ska redovisas för de som lämnar mottagningssystemet (tidigare asylsökande). Prognosförändringar ska kommenteras.\n\nMyndigheten ska redovisa en prognos för de förslag om beställningsbemyndiganden som lämnats i budgetunderlaget och för de åtaganden som ingåtts med stöd av äldre beställningsbemyndiganden. Prognosen ska lämnas senast den 24 juli 2026 via statsredovisningssystemet i Hermes och utformas enligt närmare information från Statskontoret.",
+   "dates": [
+    "2026-07-24"
+   ],
+   "deadlines": [
+    "2026-07-24"
+   ],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [
+    "Arbetsförmedlingen",
+    "Regeringskansliet (Arbetsmarknadsdepartementet)",
+    "Regeringskansliet (Justitiedepartementet)"
+   ],
+   "partners": [
+    "Arbetsförmedlingen",
+    "Statskontoret"
+   ],
+   "channels": [
+    "hermes",
+    "budgetunderlag"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos",
+    "samordna",
+    "fördela_medel"
+   ],
+   "anslag_refs": [
+    "1:1",
+    "1:2"
+   ],
+   "expenditure_area_refs": [
+    8,
+    13
+   ],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27514:assignments:12"
+  },
+  {
+   "title": "Beräkning av utfallet av biståndskostnaderna",
+   "group": [],
+   "text": "Migrationsverket ska redovisa uppgifter och beräkna utfallet av kostnader på utgiftsområde 8 Migration och utgiftsområde 13 Integration och jämställdhet som ska räknas som bistånd under 2026 enligt bilaga 4. Redovisningen ska lämnas till Regeringskansliet (Utrikesdepartementet) senast den 26 februari 2027.\n\nMigrationsverket ska också redovisa uppgifter om antalet kommunmottagna under året fördelat på vidarebosatta (kvotflyktingar), anhöriga till skyddsbehövande samt personer som beviljats uppehållstillstånd efter att ha varit asylsökande. Genomsnittlig vistelsetid i mottagningssystemet ska redovisas för de som har lämnat mottagningssystemet (tidigare asylsökande). Uppgifterna ska redovisas till Arbetsförmedlingen senast den 9 februari 2027.",
+   "dates": [
+    "2027-02-09",
+    "2027-02-26"
+   ],
+   "deadlines": [
+    "2027-02-09",
+    "2027-02-26"
+   ],
+   "recipients": [
+    "Arbetsförmedlingen",
+    "Regeringskansliet (Utrikesdepartementet)"
+   ],
+   "partners": [
+    "Arbetsförmedlingen"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "fördela_medel"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [
+    8,
+    13
+   ],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27514:assignments:13"
+  },
+  {
+   "title": "Yrken som kan undantas lönekravet för arbetstillstånd",
+   "group": [],
+   "text": "Med utgångspunkt i att behovet av undantag är begränsat, ska Migrationsverket redovisa en lista med förslag på yrken som kan undantas från ett lönekrav som villkor för arbetstillstånd i enlighet med förslagen i prop. 2025/26:87 (Nya regler för arbetskraftsinvandring) för regeringen att ta ställning till vilka yrken som ska undantas lönekravet. Varje enskilt förslag ska motiveras. Antalet ansökningar om arbetstillstånd, bifallsfrekvensen inom yrket samt skillnaden mellan lägsta månadslön enligt svenska kollektivavtal eller praxis inom yrket eller branschen och lönekravet ska tillmätas särskild betydelse. Migrationsverket ska tillsammans med Arbetsförmedlingen identifiera yrken där behovet av arbetskraft inte kan tillgodoses inom Sverige, eller inom en viss del av Sverige, och som har en lägsta månadslön enligt svenska kollektivavtal eller praxis inom yrket eller branschen som understiger det lönekrav som föreslås i prop. 2025/26:87. Migrationsverket ska i sitt arbete ha dialog med sammanslutningar av arbetsgivare respektive arbetstagare samt andra berörda aktörer.Uppdraget ska redovisas till Regeringskansliet (Justitiedepartementet) senast den 20 mars 2026.",
+   "dates": [
+    "2026-03-20"
+   ],
+   "deadlines": [
+    "2026-03-20"
+   ],
+   "recipients": [
+    "Regeringskansliet (Justitiedepartementet)"
+   ],
+   "partners": [
+    "Arbetsförmedlingen"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "föreslå"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27514:assignments:14"
+  },
+  {
+   "title": "Skärpta krav för svenskt medborgarskap",
+   "group": [
+    "Yrken som kan undantas lönekravet för arbetstillstånd"
+   ],
+   "text": "Migrationsverket ges i uppdrag att förbereda för de skärpta krav för svenskt medborgarskap som regeringen har föreslagit i lagrådsremissen Skärpta krav för svenskt medborgarskap som beslutades den 10 februari 2026. Myndigheten ska särskilt förbereda införandet av ett krav på självförsörjning, en särskild bestämmelse för barns ansökan om medborgarskap, förändrade regler avseende förlust av medborgarskap samt utmönstring i viss utsträckning av anmälningsförfarandet. Åtgärderna ska bland annat omfatta planering och anpassning av system, rutiner och blanketter. Därutöver ska den kompletterande information om innebörden av ett medborgarskap som lämnas i ansökningsförfarandet förtydligas. Uppdraget ska redovisas genom att Migrationsverket löpande informerar Regeringskansliet (Justitiedepartementet) om hur arbetet med uppdraget fortskrider.",
+   "dates": [
+    "2026-02-10"
+   ],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla",
+    "informera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27514:assignments:15"
+  },
+  {
+   "title": "Kunskapskrav för svenskt medborgarskap",
+   "group": [
+    "Yrken som kan undantas lönekravet för arbetstillstånd"
+   ],
+   "text": "Migrationsverket ges i uppdrag att förbereda för de kunskapskrav för svenskt medborgarskap som regeringen har föreslagit i lagrådsremissen Skärpta krav för svenskt medborgarskap den 10 februari 2026. Myndigheten ska vidta åtgärder för att identifiera personer som kan vara aktuella för medborgarskap och förbereda anvisning av dessa till Universitets- och högskolerådet för genomförande av medborgarskapsprov. Åtgärderna ska avse exempelvis planering, anpassning av system samt framtagande av blanketter och rutiner för prioritering och anvisning av provdeltagare, prövning av dispens samt skydd av eventuellt känsliga uppgifter. Vidare ska myndigheten överväga att, om det bedöms lämpligt och efter det att riksdagen har beslutat om lagändringarna, i förväg informera om kommande skärpta krav på området och hur de kan uppfyllas. För att minska risken för fusk och missbruk ska myndigheten även förbereda handläggningen och bedömningen av kunskapskraven. Dessutom ska myndigheten förbereda för mottagandet av provresultat från Universitets- och högskolerådet. I förberedelsearbetet ska Migrationsverket också utforma rutiner för deltagare som vid det första provtillfället inte visar tillräckliga kunskaper om det svenska samhället för att beviljas medborgarskap och som vill visa sådana kunskaper vid ett senare provtillfälle. Myndigheten ska under arbetet föra en nära dialog med Universitets- och högskolerådet och, i de fall det är lämpligt, inhämta synpunkter från andra berörda myndigheter. Uppdraget ska redovisas genom att Migrationsverket löpande informerar Regeringskansliet (Justitiedepartementet) om hur arbetet med uppdraget fortskrider.",
+   "dates": [
+    "2026-02-10"
+   ],
+   "deadlines": [],
+   "recipients": [
+    "Universitets- och högskolerådet"
+   ],
+   "partners": [
+    "Universitets- och högskolerådet"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna",
+    "utveckla",
+    "informera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27514:assignments:16"
+  },
+  {
+   "title": "Förbereda informationsutbyte",
+   "group": [
+    "Yrken som kan undantas lönekravet för arbetstillstånd"
+   ],
+   "text": "Migrationsverket ska förbereda för ett ändamålsenligt och effektivt informationsutbyte med Arbetsförmedlingen, Centrala studiestödsnämnden, Försäkringskassan, Pensionsmyndigheten, Skatteverket samt med kommuner och regioner med anledning av förslagen i lagrådsremissen En ny mottagandelag (Ju2026/00246). Informationsutbytet ska avse den samordning mellan ersättningar m.m. som följer av förslagen i lagrådsremissen och bör så långt som möjligt vara automatiserat. Förslagen i lagrådsremissen avser bl.a. samordning mellan bestämmelserna om bistånd enligt den nya mottagandelag som föreslås och övriga ersättningssystem, samt hantering av välfärdsförmåner vid ansökan om nytt uppehållstillstånd.\n\nMigrationsverket ska under uppdragets genomförande inhämta synpunkter från berörda myndigheter och Sveriges Kommuner och Regioner i syfte att informationsutbytet kan ske på ett effektivt sätt. Migrationsverket ska löpande informera Regeringskansliet (Justitiedepartementet) om uppdragets genomförande. Uppdraget ska redovisas till Regeringskansliet (Justitiedepartementet) senast den 1 oktober 2026.",
+   "dates": [
+    "2026-10-01"
+   ],
+   "deadlines": [
+    "2026-10-01"
+   ],
+   "recipients": [
+    "Regeringskansliet (Justitiedepartementet)"
+   ],
+   "partners": [
+    "Arbetsförmedlingen",
+    "Centrala studiestödsnämnden",
+    "Försäkringskassan",
+    "Pensionsmyndigheten",
+    "Skatteverket",
+    "Sveriges Kommuner och Regioner"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "föreslå",
+    "samordna",
+    "utveckla",
+    "informera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27514:assignments:17"
+  },
+  {
+   "title": "Motverka missbruk av regelverket för varaktigt bosatta",
+   "group": [
+    "Yrken som kan undantas lönekravet för arbetstillstånd"
+   ],
+   "text": "Migrationsverket ska vidta åtgärder i syfte att stärka arbetet med att motverka missbruk av reglerna för personer som har getts ställning som varaktigt bosatta i Sverige eller ett annat EU-land. I arbetet ska Migrationsverket särskilt beakta riskfaktorer kopplade till missbruk av reglerna, bland annat individers utsatthet på arbetsmarknaden, lågt ställda försörjningskrav och villkor som avviker från andra jämförbara regelverk på migrationsområdet. Migrationsverket ska redovisa vilka åtgärder som har vidtagits för att motverka att reglerna för varaktigt bosatta missbrukas och vid behov redogöra för kvarstående utmaningar. Uppdraget ska redovisas till Regeringskansliet (Justitiedepartementet) senast den 1 oktober 2026.",
+   "dates": [
+    "2026-10-01"
+   ],
+   "deadlines": [
+    "2026-10-01"
+   ],
+   "recipients": [
+    "Regeringskansliet (Justitiedepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27514:assignments:18"
+  },
+  {
+   "title": "Motverka missbruk av regelverket för arbetskraftsinvandring",
+   "group": [
+    "Yrken som kan undantas lönekravet för arbetstillstånd"
+   ],
+   "text": "Migrationsverket ska vidta åtgärder för att stärka arbetet med att upptäcka och motverka missbruk av regelverket för arbetskraftsinvandring. I arbetet med uppdraget ska Migrationsverket särskilt fokusera på att säkerställa att kontroller är effektiva och ändamålsenliga i sådana ärenden, både före och efter det att arbetstillstånd beviljas. Det kan till exempel handla om att utveckla handläggningsrutiner och förbättra samverkan inom myndigheten. Åtgärderna får inte medföra högre administrativa kostnader för arbetsgivare än vad som bedöms vara nödvändigt för att uppnå uppdragets syfte. Uppdraget ska redovisas till Regeringskansliet (Justitiedepartementet) senast den 1 oktober 2026.",
+   "dates": [
+    "2026-10-01"
+   ],
+   "deadlines": [
+    "2026-10-01"
+   ],
+   "recipients": [
+    "Regeringskansliet (Justitiedepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna",
+    "utveckla",
+    "tillsyn_kontroll"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27514:assignments:19"
+  },
+  {
+   "title": "Rättslig kvalitet i ärendeprövningen",
+   "group": [
+    "Yrken som kan undantas lönekravet för arbetstillstånd"
+   ],
+   "text": "Migrationsverket ska, inom ramen för myndighetens löpande arbete med rättslig kvalitet, utveckla en metod som möjliggör identifiering av avvikelser och eventuella brister i ärendehandläggningen på en övergripande nivå och som kan ligga till grund för beslut om fördjupade uppföljningsinsatser. Redovisningen ska innehålla en beskrivning av metodens utformning och tillämpning. Myndigheten ska även redovisa centrala slutsatser från de kvalitetsuppföljningar på nationell nivå som har genomförts under 2025 och 2026 inklusive eventuella återkommande eller systematiska brister, vilka åtgärder som har vidtagits eller planeras att vidtas med anledning av identifierade brister samt lämna en bedömning av vilka ärendeslag som kan bli föremål för kvalitetsuppföljning under 2027. Uppdraget ska redovisas till Regeringskansliet (Justitiedepartementet) senast den 1 juni 2027.",
+   "dates": [
+    "2027-06-01"
+   ],
+   "deadlines": [
+    "2027-06-01"
+   ],
+   "recipients": [
+    "Regeringskansliet (Justitiedepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27514:assignments:20"
+  },
+  {
+   "title": "Genomförande av bilateralt pilotprogram för laglig migration",
+   "group": [
+    "Yrken som kan undantas lönekravet för arbetstillstånd"
+   ],
+   "text": "Migrationsverket ska planera och genomföra åtgärder inom ramen för det pilotprogram för laglig migration som ingicks den 10 juni 2026 mellan Sverige och Uzbekistan. Myndigheten ska samordna genomförandet av programmets aktiviteter i nära samarbete med berörda aktörer, däribland Svenska institutet, arbetsgivare, kommuner, regioner, relevanta branschorganisationer och den Internationella migrationsorganisationen, (IOM). Uppdraget omfattar även att Migrationsverket ska delta i en styrkommitté tillsammans med företrädare för Uzbekistans migrationsmyndighet och IOM. Migrationsverket ska löpande informera Regeringskansliet (Justitiedepartementet) om hur arbetet fortskrider och uppdraget ska slutredovisas senast den 31 december 2027.",
+   "dates": [
+    "2026-06-10",
+    "2027-12-31"
+   ],
+   "deadlines": [
+    "2027-12-31"
+   ],
+   "recipients": [],
+   "partners": [
+    "Svenska institutet"
+   ],
+   "channels": [
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "utveckla",
+    "informera",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27514:assignments:21"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "1:1",
+   "name": "Migrationsverket",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 8,
+    "name": "Migration"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Migrationsverket",
+     "amount_tkr": 5512282,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Migrationsverket (ram)",
+       "amount_tkr": 5512282
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Migrationsverket",
+     "text": "Anslagsposten får användas för Migrationsverkets förvaltningsutgifter. Anslagsposten får även användas för utgifter för förvarslokaler.\nAv anslagsposten bör 390 000 000 kronor användas för att utöka antalet förvarsplatser för att uppnå 1 000 platser senast 2029.\nMigrationsverket ska kunna använda och samverka med det gemensamma radiokommunikationssystemet Rakel. Migrationsverket ska betala 4 883 000 kronor till Myndigheten för civilt försvar som abonnemangsavgift för detta system. Beloppet ska betalas efter fakturering från Myndigheten för civilt försvar.\nAv anslagsposten får 41 000 000 kronor användas först efter beslut av regeringen för ökade kostnader med anledning av förslagen i Miniminivåutredningens slutbetänkande."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "1:2",
+   "name": "Ersättningar och bostadskostnader",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 8,
+    "name": "Migration"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Migrationsverket",
+     "amount_tkr": 4223000,
+     "items": [
+      {
+       "ap": "2",
+       "name": "Ersättningar till asylsökande, kommuner och regioner (ram)",
+       "amount_tkr": 2063000
+      },
+      {
+       "ap": "3",
+       "name": "Boende för asylsökande (ram)",
+       "amount_tkr": 2160000
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "2",
+     "name": "Ersättningar till asylsökande, kommuner och regioner",
+     "text": "Anslagsposten får användas för:\n- Ersättningar enligt förordningen (1994:361) om mottagande av asylsökande m.fl.\n- Ersättningar till regioner, kommuner och apotek enligt förordningen (1996:1357) om statlig ersättning för hälso- och sjukvård till asylsökande.\n- Ersättningar enligt förordningen (2008:778) om återetableringsstöd för vissa utlänningar.\n- Ersättningar till kommuner och regioner enligt förordningen (2017:193) om statlig ersättning för asylsökande m.fl.\n- Statsbidrag till kommuner och regioner.\nErsättning upp till ett belopp om 3 000 000 kronor enligt 3 a § förordningen om statlig ersättning för asylsökande m.fl. får utbetalas av Migrationsverket.\nErsättning för logi och kost enligt 15 § lagen (1994:137) om mottagande av asylsökande m.fl. disponeras av myndigheten med stöd av 6 kap. 1 § kapitalförsörjningsförordningen (2011:210).\nAnslagsposten får även användas för resor som möjliggör för asylsökande och övriga kategorier som omfattas av lagen om mottagande av asylsökande m.fl. att delta i tidiga insatser.\nAv medel på anslagsposten ska Migrationsverket betala ut 696 000 kronor till Region Norrbotten, 2 087 000 kronor till Region Skåne, 3 130 000 kronor till Region Stockholm och 2 087 000 kronor till Västra Götalandsregionen för tillhandhållandet av hälsokontroller inom ramen för screeningförfarandet. Medlen betalas ut engångsvis efter rekvisition till Migrationsverket senast den 1 december 2026."
+    },
+    {
+     "ap": "3",
+     "name": "Boende för asylsökande",
+     "text": "Anslagsposten får användas för utgifter för boende för asylsökande och övriga kategorier som omfattas av lagen (1994:137) om mottagande av asylsökande m.fl.\nKostnaderna får inkludera lokaler (exklusive samtliga utgifter för förvarslokaler), hyror, investerings- och finansieringskostnader, drift och utrustning samt inköp av mat i vissa fall.\nErsättning för logi och kost enligt 15 § lagen om mottagande av asylsökande m.fl. disponeras av myndigheten med stöd av 6 kap. 1 § kapitalförsörjningsförordningen (2011:210)."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "1:3",
+   "name": "Migrationspolitiska åtgärder",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 8,
+    "name": "Migration"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Migrationsverket",
+     "amount_tkr": 1404500,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Informationsinsatser frivillig återvandring (ram)",
+       "amount_tkr": 35000
+      },
+      {
+       "ap": "4",
+       "name": "Återvandringsförberedelser (ram)",
+       "amount_tkr": 6000
+      },
+      {
+       "ap": "5",
+       "name": "Återvandringsbidrag (ram)",
+       "amount_tkr": 1363000
+      },
+      {
+       "ap": "8",
+       "name": "Anhörigresor (ram)",
+       "amount_tkr": 500
+      }
+     ],
+     "sum_ok": true
+    },
+    {
+     "by": "Kammarkollegiet",
+     "amount_tkr": 175513,
+     "items": [
+      {
+       "ap": "2",
+       "name": "Migrationspolitiska projekt och bidrag (ram)",
+       "amount_tkr": 172578
+      },
+      {
+       "ap": "13",
+       "name": "Efterforskningsverksamhet (ram)",
+       "amount_tkr": 2935
+      }
+     ],
+     "sum_ok": true
+    },
+    {
+     "by": "Länsstyrelsen i Örebro län",
+     "amount_tkr": 10000,
+     "items": [
+      {
+       "ap": "3",
+       "name": "Migrationspol. åtg. - del till Länsstyrelsen i Örebro län (ram)",
+       "amount_tkr": 10000
+      }
+     ],
+     "sum_ok": true
+    },
+    {
+     "by": "Regeringskansliet/Justitiedepartementet",
+     "amount_tkr": 10000,
+     "items": [
+      {
+       "ap": "6",
+       "name": "Nationell samordnare återvandring (ram)",
+       "amount_tkr": 10000
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Informationsinsatser frivillig återvandring",
+     "text": "Anslagsposten får användas för utgifter för informationsinsatser, inklusive personalkostnader, i syfte att öka den frivilliga återvandringen."
+    },
+    {
+     "ap": "2",
+     "name": "Migrationspolitiska projekt och bidrag",
+     "text": "Anslagsposten får användas för utgifter för:\n- Migrationspolitiska projekt, tillfälliga uppdrag, studier och analyser inom det migrationspolitiska området.\n- Sveriges deltagande i bilateralt och internationellt samarbete som syftar till att genomföra regeringens migrationspolitiska prioriteringar.\n- Sveriges bidrag till internationella organisationer inom det migrationspolitiska området.\n- Bidrag inom ramen för EU:s solidaritetsmekanism.\nMedlen får användas först efter beslut av regeringen.\nKammarkollegiet ska betala ut 3 500 000 kronor till Länsstyrelsen i Stockholms län för uppdraget om att delta vid genomförandet av Migrationsverkets uppdrag om anvisning av ensamkommande barn, nyanlända och personer med tillfälligt skydd till kommuner."
+    },
+    {
+     "ap": "3",
+     "name": "Migrationspol. åtg. - del till Länsstyrelsen i Örebro län",
+     "text": "Anslagsposten disponeras av Länsstyrelsen i Örebro län för fördelning till länsstyrelsernas arbete med att genom sina ordinarie samverkansstrukturer med kommunerna möjliggöra för Migrationsverket och den nationella samordnaren för frivillig återvandring (Ju 2025:14) att sprida information om frivillig återvandring i enlighet med uppdraget under B. Samordnande och sektorsövergripande i länsstyrelsernas regleringsbrev för 2026."
+    },
+    {
+     "ap": "4",
+     "name": "Återvandringsförberedelser",
+     "text": "Anslagsposten får användas för utgifter för förberedelser inför återvandring eller tillfälligt återvändande samt för deltagande i återuppbyggnad och utveckling av ursprungslandet i samråd med företrädare för berörda grupper genom:\n- Inhämtning och spridning av information, råd och vägledning till enskilda, organisationer och kommuner.\n- Utbildningsinsatser.\n- Insatser för återintegrering under en inledande period.\nÄven personer som ska återvända får omfattas av verksamheten."
+    },
+    {
+     "ap": "5",
+     "name": "Återvandringsbidrag",
+     "text": "Anslagsposten får användas för bidrag enligt förordningen (2025:970) om återvandringsbidrag för vissa utlänningar, förordningen (1984:890) om bidrag till utlänningars resor från Sverige för bosättning i annat land och för personalkostnader och administrativa kostnader för bidraget.\nAnslagsposten får även användas till bidrag för återresa för skyddsbehövande och deras anhöriga enligt vad som anges i*Utökat uppdrag om medicinska evakueringar med anledning av situationen i Ukraina*(Ju2024/02509). Bidraget uppgår till 3 000 kronor per person och får beviljas efter ansökan."
+    },
+    {
+     "ap": "6",
+     "name": "Nationell samordnare återvandring",
+     "text": "Anslagsposten får användas för kostnader för en nationell samordnare för arbetet med frivillig återvandring och för åtgärder för att stimulera frivillig återvandring som vidtas inom ramen för uppdrag i direktiv."
+    },
+    {
+     "ap": "8",
+     "name": "Anhörigresor",
+     "text": "Anslagsposten får användas till bidrag enligt förordningen (1984:936) om bidrag till flyktingar för kostnader för anhörigas resor till Sverige."
+    },
+    {
+     "ap": "13",
+     "name": "Efterforskningsverksamhet",
+     "text": "Anslagsposten får användas till bidrag till Svenska Röda Korset för dess verksamhet med efterforskning av familjemedlemmar och släktingar under fredstid, enligt avtal med Svenska Röda Korset. Medlen utbetalas efter beslut av regeringen."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "1:6",
+   "name": "Offentligt biträde i utlänningsärenden",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 8,
+    "name": "Migration"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Migrationsverket",
+     "amount_tkr": 107602,
+     "items": [
+      {
+       "ap": "2",
+       "name": "Migrationsverket (ram)",
+       "amount_tkr": 107602
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "2",
+     "name": "Migrationsverket",
+     "text": "Anslagsposten får användas för utgifter för offentliga biträden enligt utlänningslagen (2005:716).\nAnslagsposten får användas till ersättning för offentligt biträde och tolk enligt lagen (2022:700) om särskild kontroll av vissa utlänningar efter rekvisition till Migrationsverket från Regeringskansliet (Justitiedepartementet)."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "1:7",
+   "name": "Utresor för avvisade och utvisade",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 8,
+    "name": "Migration"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Kriminalvården",
+     "amount_tkr": 277000,
+     "items": [
+      {
+       "ap": "2",
+       "name": "Kriminalvården (ram)",
+       "amount_tkr": 277000
+      }
+     ],
+     "sum_ok": true
+    },
+    {
+     "by": "Migrationsverket",
+     "amount_tkr": 63202,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Migrationsverket (ram)",
+       "amount_tkr": 63202
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Migrationsverket",
+     "text": "Anslagsposten får användas för utgifter vid utresa ur Sverige för:\n- Utlänningar som avvisats eller utvisats enligt beslut av regeringen, Migrationsverket, migrationsdomstolarna eller Migrationsöverdomstolen med stöd av utlänningslagen (2005:716) eller lagen (2022:700) om särskild kontroll av vissa utlänningar.\n- Utlänningar som återtagit sina ansökningar om asyl eller vars tillstånd har upphört.\n- Utlänningar vars avlägsnandebeslut har preskriberats.\n- Barn födda i Sverige utan legal vistelse, vars förälder har avlägsnandebeslut.\nUtgifterna ska avse resor för de berörda utlänningarna såväl inom som utom Sverige, inklusive utgifter för resehandlingar och övriga kostnader som är nödvändiga för att utresor ska kunna genomföras. Utgifterna ska även avse resor, traktamenten och övriga omkostnader för personal från Migrationsverket som utan att bevaka utresan beledsagar utlänningar ut ur Sverige alternativt kontrollerar utresan (DEPA). Vid behov kan även sjukvårdspersonal, god man eller annan person fungera som beledsagare, och reskostnader och kostnader för resehandlingar för dessa kan då belasta anslagsposten.\nUtgifterna kan också avse resekostnader i samband med återvändandesamtal, inställelse för uppsikt, till utreseboende eller resekostnader och kringkostnader i samband med utfärdande av resehandlingar när det gäller utlänningar som inte längre omfattas av lagen (1994:137) om mottagande av asylsökande m.fl. men har ett öppet återvändandeärende hos Migrationsverket.\nAnslagsposten får också användas för kostnader för Migrationsverket som uppstår i samband med övervakning av tvångsvist återvändande. För detta ändamål får användas högst 7 000 000 kronor.\nAnslagsposten får också användas för kostnader för återintegreringsstöd till personer som återvänder självmant eller med tvång.\nAv anslagsposten får högst 21 000 000 kronor användas för statsbidrag till eller enligt avtal med svenska, utländska och internationella organisationer avseende utlänningars återvändande. Migrationsverket får göra ekonomiska åtaganden upp till högst 10 000 000 kronor för denna verksamhet."
+    },
+    {
+     "ap": "2",
+     "name": "Kriminalvården",
+     "text": "Anslagsposten får användas för utgifter vid utresa ur Sverige för utlänningar som avvisats eller utvisats enligt beslut av Migrationsverket, migrationsdomstolarna, Migrationsöverdomstolen, Polismyndigheten eller regeringen med stöd av utlänningslagen eller lagen (2022:700) om särskild kontroll av vissa utlänningar där kostnaden avser:\n- Resor för de berörda utlänningarna såväl inom som utanför Sverige.\n- Löner, resor, traktamenten och övriga omkostnader för bevakningspersonal från Kriminalvården.\n- Löner, resor, traktamenten och övriga omkostnader för bevakningspersonal från polisväsendet.\n- Administration hänförlig till den verksamhet som finansieras via anslaget.\nAnslagsposten får också användas för kostnader för Kriminalvården för långtidsstationeringar vid Europeiska gräns- och kustbevakningsbyrån, Frontex.\nKriminalvården får inte göra ekonomiska åtaganden med stöd av 17 § andra stycket i anslagsförordningen (2011:223)."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "1",
+     "max": 7000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "1",
+     "max": 21000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "1",
+     "max": 10000000,
+     "unit": "kronor"
+    }
+   ]
+  },
+  {
+   "code": "1:8",
+   "name": "Från EU-budgeten finansierade insatser för asylsökande och flyktingar",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 8,
+    "name": "Migration"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Migrationsverket",
+     "amount_tkr": 665000,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Från EU-budgeten finansierade insatser för asylsökande och flyktingar (ram)",
+       "amount_tkr": 665000
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Från EU-budgeten finansierade insatser för asylsökande och flyktingar",
+     "text": "Medlen får användas för utgifter avseende verksamhet som bedrivs inom ramen för den Europeiska asyl-, migrations-, och integrationsfonden samt för administration av fonden.\nAnslagsposten får även användas för utgifter för statlig medfinansiering av projekt som beviljats bidrag inom ramen för den Europeiska asyl-, migrations- och integrationsfonden. Högst 60 000 000 kronor får användas för detta ändamål.\nBidrag från EU ska redovisas mot inkomsttitel 6911 Övriga bidrag från EU, undertitel 010 Bidrag från asyl-, migrations- och integrationsfonden samt 012 Beviljat nödbistånd från asyl-, migrations- och integrationsfonden."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "1",
+     "max": 60000000,
+     "unit": "kronor"
+    }
+   ]
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "1:1 Migrationsverket",
+   "ap": "ap.1",
+   "Anslagskredit": 165368,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:2 Ersättningar och bostadskostnader",
+   "ap": "ap.2",
+   "Anslagskredit": 103150,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:2 Ersättningar och bostadskostnader",
+   "ap": "ap.3",
+   "Anslagskredit": 108000,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:3 Migrationspolitiska åtgärder",
+   "ap": "ap.1",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": 47000,
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:3 Migrationspolitiska åtgärder",
+   "ap": "ap.2",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:3 Migrationspolitiska åtgärder",
+   "ap": "ap.3",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:3 Migrationspolitiska åtgärder",
+   "ap": "ap.4",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:3 Migrationspolitiska åtgärder",
+   "ap": "ap.5",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:3 Migrationspolitiska åtgärder",
+   "ap": "ap.6",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:3 Migrationspolitiska åtgärder",
+   "ap": "ap.8",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:3 Migrationspolitiska åtgärder",
+   "ap": "ap.13",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:6 Offentligt biträde i utlänningsärenden",
+   "ap": "ap.2",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:7 Utresor för avvisade och utvisade",
+   "ap": "ap.1",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:7 Utresor för avvisade och utvisade",
+   "ap": "ap.2",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:8 Från EU-budgeten finansierade insatser för asylsökande och flyktingar",
+   "ap": "ap.1",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 1162000,
+  "Räntekontokredit": 250000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 459357
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 459357
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 459357
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 459357
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 459357
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 459357
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 459357
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 459357
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 459357
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 459357
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 459357
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 459355
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:1 Migrationsverket",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "165 368",
+     "3 %",
+     "0"
+    ],
+    [
+     "1:2 Ersättningar och bostadskostnader",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.2",
+     "103 150",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.3",
+     "108 000",
+     "Inget",
+     "0"
+    ],
+    [
+     "1:3 Migrationspolitiska åtgärder",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "0",
+     "47 000",
+     "0"
+    ],
+    [
+     "ap.2",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.3",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.4",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.5",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.6",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.8",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.13",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "1:6 Offentligt biträde i utlänningsärenden",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.2",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "1:7 Utresor för avvisade och utvisade",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.2",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "1:8 Från EU-budgeten finansierade insatser för asylsökande och flyktingar",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "0",
+     "Inget",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Beställningsbemyndiganden",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Bemyndigande",
+     "Utgifter mot anslag till följd av ekonomiska åtaganden",
+     "",
+     "",
+     ""
+    ],
+    [
+     "2026",
+     "2027",
+     "2028",
+     "2029 -",
+     "Slutår"
+    ],
+    [
+     "1:3 Migrationspolitiska åtgärder",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.5",
+     "737 000",
+     "362 000",
+     "375 000",
+     "",
+     "2028"
+    ],
+    [
+     "ap.2",
+     "50 000",
+     "50 000",
+     "",
+     "",
+     "2027"
+    ],
+    [
+     "1:8 Från EU-budgeten finansierade insatser för asylsökande och flyktingar",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "870 000",
+     "517 616",
+     "304 833",
+     "47 551",
+     "2030"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "1 162 000"
+    ],
+    [
+     "Räntekontokredit",
+     "250 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "459 357"
+    ],
+    [
+     "2026-02-25",
+     "459 357"
+    ],
+    [
+     "2026-03-25",
+     "459 357"
+    ],
+    [
+     "2026-04-25",
+     "459 357"
+    ],
+    [
+     "2026-05-25",
+     "459 357"
+    ],
+    [
+     "2026-06-25",
+     "459 357"
+    ],
+    [
+     "2026-07-25",
+     "459 357"
+    ],
+    [
+     "2026-08-25",
+     "459 357"
+    ],
+    [
+     "2026-09-25",
+     "459 357"
+    ],
+    [
+     "2026-10-25",
+     "459 357"
+    ],
+    [
+     "2026-11-25",
+     "459 357"
+    ],
+    [
+     "2026-12-25",
+     "459 355"
+    ],
+    [
+     "Summa",
+     "5 512 282"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "1:1 ap.1",
+     "Migrationsverket"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Uppdragsverksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Tjänsteexport1",
+     "0",
+     "0",
+     "4 000",
+     "4 000",
+     "0",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna ej disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "Ink. tit.",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Offentligrättslig verksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Svenskt medborgarskap2",
+     "2511",
+     "-577 694",
+     "-209 000",
+     "99 000",
+     "318 000",
+     "-219 000",
+     "-1 005 694"
+    ],
+    [
+     "Tillståndsansökningar2",
+     "2511",
+     "-6 929 293",
+     "-1 197 000",
+     "317 000",
+     "1 505 000",
+     "-1 188 000",
+     "-9 314 293"
+    ],
+    [
+     "varav arbetstillstånd2",
+     "2511",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0"
+    ],
+    [
+     "varav studerandetillstånd2",
+     "2511",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0"
+    ],
+    [
+     "varav anknytning2",
+     "2511",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0"
+    ],
+    [
+     "Pass (främlingspass och resedokument)2",
+     "2511",
+     "-163 887",
+     "-19 000",
+     "15 000",
+     "34 000",
+     "-19 000",
+     "-201 887"
+    ],
+    [
+     "Summa",
+     "-7 670 874",
+     "-1 425 000",
+     "431 000",
+     "1 857 000",
+     "-1 426 000",
+     "-10 521 874"
+    ]
+   ]
+  }
+ ],
+ "has_fee_section": true,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 13,
+  "n_org": 1,
+  "n_assignments": 22,
+  "n_deadlines": 16,
+  "deadlines": [
+   "2026-03-20",
+   "2026-04-15",
+   "2026-04-30",
+   "2026-05-22",
+   "2026-06-12",
+   "2026-07-24",
+   "2026-08-15",
+   "2026-09-30",
+   "2026-10-01",
+   "2026-11-27",
+   "2026-12-30",
+   "2027-02-09",
+   "2027-02-22",
+   "2027-02-26",
+   "2027-06-01",
+   "2027-12-31"
+  ],
+  "partners": [
+   "Arbetsförmedlingen",
+   "Centrala studiestödsnämnden",
+   "Försäkringskassan",
+   "Kriminalvården",
+   "Länsstyrelserna",
+   "Myndigheten för civilt försvar",
+   "Myndigheten för digital förvaltning",
+   "Pensionsmyndigheten",
+   "Polismyndigheten",
+   "Skatteverket",
+   "Statskontoret",
+   "Styrelsen för internationellt utvecklingssamarbete",
+   "Svenska institutet",
+   "Sveriges Kommuner och Regioner",
+   "Universitets- och högskolerådet",
+   "länsstyrelserna"
+  ],
+  "n_appropriations": 6,
+  "appropriations_total_tkr": 12448099,
+  "payment_plan_total_tkr": 5512282,
+  "md_chars": 54343
+ },
+ "layout": "standard",
+ "warnings": []
+}

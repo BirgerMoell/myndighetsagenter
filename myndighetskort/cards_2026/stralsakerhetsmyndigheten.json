@@ -1,0 +1,941 @@
+{
+ "schema_version": 1,
+ "id": 26370,
+ "original_rbid": 26004,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-05-13",
+ "year": "2026",
+ "name": "Strålsäkerhetsmyndigheten",
+ "slug": "stralsakerhetsmyndigheten",
+ "department": "Klimat- och näringslivsdepartementet",
+ "expenditure_areas": [
+  6
+ ],
+ "registry_numbers": [
+  "KN2026/01077"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1"
+  ],
+  "bet": [
+   "2025/26:FöU1",
+   "2025/26:MJU1"
+  ],
+  "rskr": [
+   "2025/26:112",
+   "2025/26:128"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "",
+ "goals": [
+  {
+   "title": "Nationell kompetensförsörjning",
+   "group": [],
+   "text": "Myndigheten ska redovisa hur medlen för nationell kompetensförsörjning inom strålsäkerhetsområdet har använts och resultatet av detta. Beviljade och utbetalade forskningsbidrag ska redovisas uppdelat på mottagare. Redovisningen ska beskriva hur användningen av medlen svarar mot behoven av kompetens som följer av utvecklingen av ny kärnkraft samt omhändertagande och slutförvar av icke kärntekniskt avfall.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "fördela_medel"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26370:goals:0"
+  },
+  {
+   "title": "Internationellt arbete med harmonisering för ny kärnkraft",
+   "group": [],
+   "text": "Strålsäkerhetsmyndigheten ska redovisa genomförda insatser som myndigheten gjort inom olika internationella och europeiska organisationer och samarbeten för att bidra till ökad harmonisering inom ny kärnkraft, med syftet att effektivisera tillståndsprövning inkl. förhandsbesked. Insatserna ska bland annat syfta till att dra nytta av prövningar av samma typ av tekniklösningar m.m. som gjorts i andra länder. Myndigheten ska redovisa hur insatserna förväntas bidra till en mer effektiv prövning.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26370:goals:1"
+  }
+ ],
+ "org": [
+  {
+   "title": "IRRS rekommendationer för Strålsäkerhetsmyndigheten",
+   "group": [],
+   "text": "Myndigheten ska redovisa sitt arbete med att genomföra rekommendationerna från den internationella granskning som genomfördes 2022, så kallad IRRS-granskning (Integrated Regulatory Review Service). En redovisning av myndighetens arbete med att genomföra rekommendationerna från IRRS-granskningen ska redovisas till Regeringskansliet (Klimat- och näringslivsdepartementet) senast den 13 juni 2026.",
+   "dates": [
+    "2026-06-13"
+   ],
+   "deadlines": [
+    "2026-06-13"
+   ],
+   "recipients": [
+    "Regeringskansliet (Klimat- och näringslivsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "org",
+   "item_id": "26370:org:0"
+  },
+  {
+   "title": "Säkerställa proaktivitet och handlingskraft vid fredstida krissituationer eller vid krig och krigsfara",
+   "group": [],
+   "text": "Strålsäkerhetsmyndigheten ska säkerställa att myndigheten har förmåga att agera proaktivt och handlingskraftigt i hanteringen av såväl fredstida krissituationer som vid krig och krigsfara. Utöver de krav som ställs i förordningen (2022:524) om statliga myndigheters beredskap ska myndigheten i detta syfte utbilda och öva sin personal samt se till att myndigheten stärker kultur och arbetssätt som utgår från de krav som ett krig ställer. Uppdraget ska redovisas till Regeringskansliet (Klimat- och näringslivsdepartementet och Försvarsdepartementet) senast den 22 februari 2027. Detta ska ingå i den särskilda redovisningen för civilt försvar.",
+   "dates": [
+    "2027-02-22"
+   ],
+   "deadlines": [
+    "2027-02-22"
+   ],
+   "recipients": [
+    "Regeringskansliet (Klimat- och näringslivsdepartementet och Försvarsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2022:524"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "org",
+   "item_id": "26370:org:1"
+  }
+ ],
+ "assignments": [
+  {
+   "title": "Utgiftsprognoser",
+   "group": [],
+   "text": "Myndigheten ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Prognoserna lämnas i informationssystemet Hermes senast den\\\n2 februari,\\\n22 april,\\\n24 juli, och\\\n9 november.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26370:assignments:0"
+  },
+  {
+   "title": "Avgiftsprognoser",
+   "group": [],
+   "text": "Strålsäkerhetsmyndigheten ska till Regeringskansliet (Klimat- och näringslivsdepartementet) senast den 24 juli och den 23 oktober 2026 redovisa prognoser för innevarande års avgiftsbelagda verksamhet. Prognoserna ska redovisas och kommenteras i förhållande till budgeterade intäkter och kostnader för den avgiftsbelagda verksamheten i regleringsbrevet för 2026 samt i förhållande till tilldelade anslagsposter på anslaget 3:1*Strålsäkerhetsmyndigheten*. Redovisningen av prognoserna ska delas upp i avgiftskollektiv för kärnkraftverk, övriga kärntekniska anläggningar och tillståndspliktig verksamhet enligt strålskyddslagen (2018:396). Redovisningen ska också innehålla prognoser för den avgiftsbelagda verksamheten för 2027–2029.",
+   "dates": [
+    "2026-10-23"
+   ],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-07-24"
+   ],
+   "recipients": [
+    "Regeringskansliet (Klimat- och näringslivsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [
+    "3:1"
+   ],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2018:396"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26370:assignments:1"
+  },
+  {
+   "title": "Kärnavfallsfonden",
+   "group": [],
+   "text": "Strålsäkerhetsmyndigheten ska till Regeringskansliet (Klimat- och näringslivsdepartementet) senast den 2 februari och 9 november 2026 lämna en prognos för hur myndighetens användning av medel ur kärnavfallsfonden för 2026 fördelats enligt 4 § lagen (2006:647) om finansiering av kärntekniska restprodukter (finansieringslagen). I februari ska prognosen även innehålla en redovisning av hur medlen har använts 2025. I oktober ska underlaget även omfatta beräknat behov av ersättning under 2027 för sådana kostnader som avses i 4 § 4–7 och 9 finansieringslagen och vilka kostnader som avses samt prognoser för åren 2028–2029. Beräknade kostnader ska beskrivas och motiveras.",
+   "dates": [
+    "2026-11-09"
+   ],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02"
+   ],
+   "recipients": [
+    "Regeringskansliet (Klimat- och näringslivsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "prognos",
+    "fördela_medel"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2006:647"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26370:assignments:2"
+  },
+  {
+   "title": "Prognos för beställningsbemyndiganden",
+   "group": [],
+   "text": "Strålsäkerhetsmyndigheten ska redovisa en prognos för de förslag om beställningsbemyndiganden som lämnats i budgetunderlaget och för de åtaganden som ingåtts med stöd av äldre beställningsbemyndiganden. Prognosen ska lämnas senast fredag den 24 juli via Statsredovisningssystemet i Hermes och utformas enligt närmare information från Ekonomistyrningsverket.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-07-24"
+   ],
+   "recipients": [],
+   "partners": [
+    "Ekonomistyrningsverket"
+   ],
+   "channels": [
+    "hermes",
+    "budgetunderlag"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26370:assignments:3"
+  },
+  {
+   "title": "Analys och bedömning av handläggningstider för nya reaktorer",
+   "group": [],
+   "text": "Myndigheten ska analysera och redovisa en bedömning av genomsnittliga handläggningstider för ansökningar om kärntekniskt tillstånd för olika typer av kärnkraftsreaktorer utifrån olika antaganden. Uppdraget ska redovisas senast 25 september 2026 till Regeringskansliet (Klimat- och näringslivsdepartementet).",
+   "dates": [
+    "2026-09-25"
+   ],
+   "deadlines": [
+    "2026-09-25"
+   ],
+   "recipients": [
+    "Regeringskansliet (Klimat- och näringslivsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26370:assignments:4"
+  },
+  {
+   "title": "Internationellt miljö- och strålsäkerhetssamarbete med Östeuropa",
+   "group": [],
+   "text": "Strålsäkerhetsmyndigheten ska bedriva utvecklingssamarbete med Ukraina, Moldavien och Armenien. Utvecklingssamarbetet ska främst avse samarbete inom kärnsäkerhet, strålskydd, icke-spridning, miljöövervakning och hantering av radioaktivt avfall.\n\nAlla pågående bilaterala myndighetssamarbeten som innefattar georgiska statliga aktörer ska tills vidare pausas och inga nya avtal eller förlängningar av avtal ska ingås.\n\nStrålsäkerhetsmyndigheten ska redovisa hur användningen av anslaget fördelar sig mellan Ukraina och de övriga länderna. Av redovisningen ska även myndighetens användning av anslaget för samordning och administration framgå.\n\nStrålsäkerhetsmyndigheten ska senast den 30 april 2026 redovisa till Regeringskansliet (Klimat- och näringslivsdepartementet med kopia till Utrikesdepartementet) genomförda insatser och pågående arbete. Redovisningen ska omfatta samarbetet med de nordiska länderna och andra länder och parter, en bedömning av insatsernas effekter och en analys av fortsatta insatsbehov.",
+   "dates": [
+    "2026-04-30"
+   ],
+   "deadlines": [
+    "2026-04-30"
+   ],
+   "recipients": [
+    "Regeringskansliet (Klimat- och näringslivsdepartementet med kopia till Utrikesdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "fördela_medel",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26370:assignments:5"
+  },
+  {
+   "title": "Åtgärder för stärkt civilt försvar",
+   "group": [],
+   "text": "Strålsäkerhetsmyndigheten ska vidta särskilda åtgärder för att stärka Sveriges förmåga att bedriva samhällsviktig verksamhet och hantera nukleära och radiologiska nödsituationer. Åtgärderna ska syfta till att utveckla och stärka det civila försvaret inom beredskapssektorn Räddningstjänst och skydd av civilbefolkningen samt beredskapssektorn Energiförsörjning, och därmed bidra till en högre samlad förmåga inom totalförsvaret. Myndigheten ska redovisa vidtagna åtgärder och resultatet av dessa. Uppdraget ska redovisas till Regeringskansliet (Klimat- och näringslivsdepartementet och Försvarsdepartementet) senast den 22 februari 2027. Detta ska ingå i den särskilda redovisningen för civilt försvar.",
+   "dates": [
+    "2027-02-22"
+   ],
+   "deadlines": [
+    "2027-02-22"
+   ],
+   "recipients": [
+    "Regeringskansliet (Klimat- och näringslivsdepartementet och Försvarsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26370:assignments:6"
+  },
+  {
+   "title": "Avtal för stärkt försörjningsberedskap",
+   "group": [],
+   "text": "Strålsäkerhetsmyndigheten ska identifiera behov av och, i de fall myndigheten bedömer det lämpligt, teckna avtal som syftar till att upprätthålla försörjningen av varor och tjänster som är nödvändiga för myndighetens prioriterade uppgifter vid fredstida kriser och höjd beredskap. I de fall Strålsäkerhetsmyndigheten nyttjar särskilda avtalsformer i form av sådana försörjningsberedskapsavtal (F-avtal) som beskrivs i SOU 2025:68 ska dessa avtal löpande rapporteras till Myndigheten för civilt försvar.\n\nUppdraget ska redovisas till Regeringskansliet (Klimat- och näringslivsdepartementet och Försvarsdepartementet) senast den 22 februari 2027, och ingå i den särskilda redovisningen för civilt försvar. Som stöd för arbetet kan myndigheten använda bland annat Utgångspunkter för totalförsvaret 2025–2030.",
+   "dates": [
+    "2027-02-22"
+   ],
+   "deadlines": [
+    "2027-02-22"
+   ],
+   "recipients": [
+    "Myndigheten för civilt försvar",
+    "Regeringskansliet (Klimat- och näringslivsdepartementet och Försvarsdepartementet)"
+   ],
+   "partners": [
+    "Myndigheten för civilt försvar"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26370:assignments:7"
+  },
+  {
+   "title": "Pågående uppdrag",
+   "group": [],
+   "text": "| | | |\n| --- | --- | --- |\n| **Sammanfattning av uppdraget** | **Beslut om uppdraget** | **Rapporteringstidpunkt** |\n| Uppdrag om hudcancerprevention 2024-2027 | KN2024/01132 | 31 mars 2026 och 31 mars 2027 |\n| Åtgärder för ett stärkt civilt försvar | KN2024/01132 | 22 februari 2026 |\n| Metoder för utdelning av jodtabletter | KN2025/01812 | 31 mars 2026 |\n\n*För regeringsuppdrag som lämnats i ett särskilt regeringsbeslut utgör tabellen endast en upplysning om vilka uppdrag som vid årets början var riktade till myndigheten och vilka tider som då gällde för återrapportering eller liknande.*",
+   "dates": [
+    "2026-02-22",
+    "2026-03-31",
+    "2027-03-31"
+   ],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "26370:assignments:8"
+  },
+  {
+   "title": "Effektiv handläggning av tillståndsansökningar för nya reaktorer",
+   "group": [],
+   "text": "Strålsäkerhetsmyndigheten får i uppdrag att redovisa hur handläggningen för ansökan om ny kärnkraft ska kunna effektiviseras för olika typer av kärnkraftsreaktorer och utifrån olika antaganden, så att det blir en så enkel, snabb och kostnadseffektiv handläggning som möjligt. I uppdraget ingår det att identifiera och hantera eventuella hinder för en effektiv handläggning.\n\nUppdraget ska redovisas senast 30 november 2026 till Regeringskansliet (Klimat- och näringslivsdepartementet).",
+   "dates": [
+    "2026-11-30"
+   ],
+   "deadlines": [
+    "2026-11-30"
+   ],
+   "recipients": [
+    "Regeringskansliet (Klimat- och näringslivsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26370:assignments:9"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "3:1",
+   "name": "Strålsäkerhetsmyndigheten",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 6,
+    "name": "Försvar och samhällets krisberedskap"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Strålsäkerhetsmyndigheten",
+     "amount_tkr": 655092,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Strålsäkerhetsmynd. - del till SSM (ram)",
+       "amount_tkr": 416252
+      },
+      {
+       "ap": "3",
+       "name": "Kärnteknisk verksamhet (ram)",
+       "amount_tkr": 238840
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Strålsäkerhetsmynd. - del till SSM",
+     "text": "Anslagsposten får användas för Strålsäkerhetsmyndighetens förvaltningsutgifter.\nAnslagsposten får användas för grundläggande och tillämpad forskning för att utveckla nationell kompetens inom myndighetens verksamhetsområde och för att stödja och utveckla myndighetens verksamhet.\nStrålsäkerhetsmyndigheten ska kunna använda och samverka med det gemensamma radiokommunikationssystemet Rakel. Strålsäkerhetsmyndigheten ska betala totalt 807 500 kronor till Myndigheten för samhällsskydd och beredskap (MSB) som abonnemangsavgift för detta system. Beloppet ska betalas efter fakturering från MSB.\nHögst 5 000 000 kronor får användas som bidrag till andra berörda myndigheter för att kunna bidra i arbetet med att utveckla regelverk m.m. för ny kärnkraft.\nAnslagsposten får användas för att täcka historiska underskott i den avgiftsfinansierade verksamheten enligt 5 och 9 §§ förordningen (2008:463) om vissa avgifter till Strålsäkerhetsmyndigheten.\\\nMaximalt får 5 000 000 kronor användas för att täcka det historiska underskottet."
+    },
+    {
+     "ap": "3",
+     "name": "Kärnteknisk verksamhet",
+     "text": "Anslagsposten ska användas för Strålsäkerhetsmyndighetens verksamhet som omfattas av avgifter enligt 11–13 och 15 §§ förordningen (2008:463) om vissa avgifter till Strålsäkerhetsmyndigheten.\nAnslagsposten får även användas för att täcka Socialstyrelsens kostnader under 2026 för inköp och lagerhållning av jodtabletter. Högst 2 500 000 kronor får användas för detta. Myndigheten ska betala efter fakturering från Socialstyrelsen.\nMedel för de lokala säkerhetsnämnderna i Forsmark, Oskarshamn och Ringhals ska utbetalas från anslagsposten. Nämndernas redovisning av medel och årliga berättelser ska ske enligt de anvisningar som Strålsäkerhetsmyndigheten lämnar. Medlen ska betalas i förskott efter rekvisition och får uppgå till högst 400 000 kronor per nämnd. Nämnderna ska lämna en slutredovisning den 1 mars 2027 och medel som inte har förbrukats ska betalas tillbaka till myndigheten senast den 1 mars 2027.\nAnslagsposten får användas för grundläggande och tillämpad forskning för att utveckla nationell kompetens inom myndighetens verksamhetsområde och för att stödja och utveckla myndighetens verksamhet. Anslagsposten får användas till myndighetens kostnader för resor, information och administration, inklusive personalkostnader som är direkt föranledda av myndighetens verksamhet inom det kärntekniska området."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "1",
+     "max": 5000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "3",
+     "max": 2500000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "3",
+     "max": 400000,
+     "unit": "kronor"
+    }
+   ]
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "3:1 Strålsäkerhetsmyndigheten",
+   "ap": "ap.1",
+   "Anslagskredit": 12487,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "3:1 Strålsäkerhetsmyndigheten",
+   "ap": "ap.3",
+   "Anslagskredit": 7165,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 100000,
+  "Räntekontokredit": 30000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 54591
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 54591
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 54591
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 54591
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 54591
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 54591
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 54591
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 54591
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 54591
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 54591
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 54591
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 54591
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "3:1 Strålsäkerhetsmyndigheten",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "12 487",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.3",
+     "7 165",
+     "3 %",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Beställningsbemyndiganden",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Bemyndigande",
+     "Utgifter mot anslag till följd av ekonomiska åtaganden",
+     "",
+     "",
+     ""
+    ],
+    [
+     "2026",
+     "2027",
+     "2028",
+     "2029 -",
+     "Slutår"
+    ],
+    [
+     "3:1 Strålsäkerhetsmyndigheten",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "180 000",
+     "53 525",
+     "26 097",
+     "100 378",
+     "2032"
+    ],
+    [
+     "ap.3",
+     "120 000",
+     "46 475",
+     "30 090",
+     "43 435",
+     "2032"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "100 000"
+    ],
+    [
+     "Räntekontokredit",
+     "30 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "54 591"
+    ],
+    [
+     "2026-02-25",
+     "54 591"
+    ],
+    [
+     "2026-03-25",
+     "54 591"
+    ],
+    [
+     "2026-04-25",
+     "54 591"
+    ],
+    [
+     "2026-05-25",
+     "54 591"
+    ],
+    [
+     "2026-06-25",
+     "54 591"
+    ],
+    [
+     "2026-07-25",
+     "54 591"
+    ],
+    [
+     "2026-08-25",
+     "54 591"
+    ],
+    [
+     "2026-09-25",
+     "54 591"
+    ],
+    [
+     "2026-10-25",
+     "54 591"
+    ],
+    [
+     "2026-11-25",
+     "54 591"
+    ],
+    [
+     "2026-12-25",
+     "54 591"
+    ],
+    [
+     "Summa",
+     "655 092"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "3:1 ap.1",
+     "Strålsäkerhetsmynd. - del till SSM"
+    ],
+    [
+     "3:1 ap.3",
+     "Kärnteknisk verksamhet"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Uppdragsverksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Riksmätplats3",
+     "900"
+    ],
+    [
+     "Radonlab.3",
+     "200"
+    ],
+    [
+     "Summa",
+     "0",
+     "0",
+     "1 100",
+     "0",
+     "0",
+     "0"
+    ],
+    [
+     "Offentligrättslig verksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Övrig tillståndsprövning1",
+     "8 085",
+     "-5 600",
+     "26 700",
+     "25 400",
+     "1 300",
+     "3 785"
+    ],
+    [
+     "Anmälningsplikt1",
+     "-7 136",
+     "-1 700",
+     "7 400",
+     "8 900",
+     "-1 500",
+     "-10 336"
+    ],
+    [
+     "Summa",
+     "949",
+     "-7 300",
+     "34 100",
+     "34 300",
+     "-200",
+     "-6 551"
+    ]
+   ]
+  },
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna ej disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "Ink. tit.",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Offentligrättslig verksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Kärnteknisk verksamhet - tillsyn1",
+     "2551",
+     "29 281",
+     "-29 320",
+     "144 731",
+     "144 700",
+     "31",
+     "-8"
+    ],
+    [
+     "Kärnteknisk verksamhet - beredskap1",
+     "2551",
+     "8 149",
+     "-10 485",
+     "32 040",
+     "36 000",
+     "-3 960",
+     "-6 296"
+    ],
+    [
+     "Kärnteknisk verksamhet - nukleär ickespridning1",
+     "2551",
+     "3 144",
+     "-3 348",
+     "11 231",
+     "11 200",
+     "31",
+     "-173"
+    ],
+    [
+     "Kärnteknisk verksamhet - forskning1",
+     "2551",
+     "0",
+     "0",
+     "44 400",
+     "44 400",
+     "0",
+     "0"
+    ],
+    [
+     "Kärnteknisk verksamhet- MCF, länsstyrelser, Socialstyrelsen1",
+     "2551",
+     "0",
+     "0",
+     "64 200",
+     "64 200",
+     "0",
+     "0"
+    ],
+    [
+     "Icke kärnteknisk verksamhet1",
+     "2511",
+     "-42 108",
+     "-253",
+     "20 700",
+     "20 700",
+     "0",
+     "-42 361"
+    ],
+    [
+     "Kärnteknisk verksamhet - prövning ny kärnkraft avgiftsklass 11",
+     "2551",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0"
+    ],
+    [
+     "Kärnteknisk verksamhet - prövning ny kärnkraft avgiftsklass 2.1",
+     "2551",
+     "0",
+     "0",
+     "25 000",
+     "25 000",
+     "0",
+     "0"
+    ],
+    [
+     "Summa",
+     "-1 534",
+     "-43 406",
+     "342 302",
+     "346 200",
+     "-3 898",
+     "-48 838"
+    ]
+   ]
+  }
+ ],
+ "has_fee_section": true,
+ "exceptions_text": "Med undantag från 2 kap. 1 § kapitalförsörjningsförordningen (2011:210) får anläggningstillgångar som Strålsäkerhetsmyndigheten\\\nanvänder i den nationella strålskyddsberedskapen och inom det civila försvaret finansieras från anslaget 3:1*Strålsäkerhetsmyndigheten*.\n\nPå regeringens vägnar\n\nJohan Britz\n\nEva Iveroth\n\n**Kopia till**\n\nStatsrådsberedningen, internrevisionen\\\nFinansdepartementet, budgetavdelningen\\\nFörvaltningsavdelningen, RK Ekonomi och affärer\\\nRiksdagen, försvarsutskottet\\\nRiksdagen, miljö- och jordbruksutskottet\\\nKammarkollegiet",
+ "summary": {
+  "n_goals": 2,
+  "n_org": 2,
+  "n_assignments": 10,
+  "n_deadlines": 5,
+  "deadlines": [
+   "2026-04-30",
+   "2026-06-13",
+   "2026-09-25",
+   "2026-11-30",
+   "2027-02-22"
+  ],
+  "partners": [
+   "Ekonomistyrningsverket",
+   "Myndigheten för civilt försvar"
+  ],
+  "n_appropriations": 1,
+  "appropriations_total_tkr": 655092,
+  "payment_plan_total_tkr": 655092,
+  "md_chars": 17793
+ },
+ "layout": "standard",
+ "warnings": []
+}

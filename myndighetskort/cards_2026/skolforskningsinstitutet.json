@@ -1,0 +1,436 @@
+{
+ "schema_version": 1,
+ "id": 25952,
+ "original_rbid": 25952,
+ "type": "Regleringsbrev",
+ "category": "Myndighet",
+ "date": "2025-12-18",
+ "year": "2026",
+ "name": "Skolforskningsinstitutet",
+ "slug": "skolforskningsinstitutet",
+ "department": "Utbildningsdepartementet",
+ "expenditure_areas": [
+  16
+ ],
+ "registry_numbers": [
+  "U2025/02412 (delvis)"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1"
+  ],
+  "bet": [],
+  "rskr": [
+   "2025/26:124"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "",
+ "goals": [
+  {
+   "title": "Information om förstärkning och erfarenheter av uppdrag",
+   "group": [],
+   "text": "Skolforskningsinstitutet ska redovisa vilka insatser som myndigheten har vidtagit och planerar att vidta med anledning av den förstärkning som tilldelats förvaltningsanslaget (prop. 2025/26:1 utg.omr. 16 avsnitt 3.6.11). Vidare ska Skolforskningsinstitutet redovisa hur myndigheten har omhändertagit de erfarenheter och det arbete som har gjorts, bl.a. vad gäller samverkan mellan skolmyndigheterna, inom ramen för uppdraget om en översyn av stöd och information via webbplatser samt om utveckling och samordning av forskningsspridning (U2023/02135).",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25952:goals:0"
+  }
+ ],
+ "org": [],
+ "assignments": [
+  {
+   "title": "Prognoser",
+   "group": [],
+   "text": "Myndigheten ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Prognoserna lämnas i informationssystemet Hermes senast den\n\n– 2 februari\n\n– 22 april\n\n– 24 juli\n\n– 9 november.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "25952:assignments:0"
+  },
+  {
+   "title": "Prognos för beställningsbemyndiganden",
+   "group": [],
+   "text": "Myndigheten ska redovisa en prognos för de förslag om beställningsbemyndiganden som lämnats i budgetunderlaget och för de åtaganden som ingåtts med stöd av äldre beställningsbemyndiganden. Prognosen ska lämnas senast den 24 juli 2026 via Statsredovisningssystemet i Hermes och utformas enligt närmare information från Statskontoret.",
+   "dates": [
+    "2026-07-24"
+   ],
+   "deadlines": [
+    "2026-07-24"
+   ],
+   "forecast_dates": [],
+   "recipients": [],
+   "partners": [
+    "Statskontoret"
+   ],
+   "channels": [
+    "hermes",
+    "budgetunderlag"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "25952:assignments:1"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "1:11",
+   "name": "Skolforskningsinstitutet",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 16,
+    "name": "Utbildning och universitetsforskning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Skolforskningsinstitutet",
+     "amount_tkr": 47910,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Skolforskningsinstitutet (ram)",
+       "amount_tkr": 47910
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Skolforskningsinstitutet",
+     "text": "Anslaget får användas för Skolforskningsinstitutets förvaltningsutgifter."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "1:12",
+   "name": "Praktiknära skolforskning",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 16,
+    "name": "Utbildning och universitetsforskning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Skolforskningsinstitutet",
+     "amount_tkr": 36043,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Praktiknära skolforskning (ram)",
+       "amount_tkr": 36043
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Praktiknära skolforskning",
+     "text": "Anslaget får användas till finansieringsbidrag inom den praktiknära skolforskningen."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "1:11 Skolforskningsinstitutet",
+   "ap": "ap.1",
+   "Anslagskredit": 1437,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:12 Praktiknära skolforskning",
+   "ap": "ap.1",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 3000,
+  "Räntekontokredit": 1500
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 3993
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 3993
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 3993
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 3993
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 3993
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 3993
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 3993
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 3993
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 3993
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 3993
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 3993
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 3987
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:11 Skolforskningsinstitutet",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "1 437",
+     "3 %",
+     "0"
+    ],
+    [
+     "1:12 Praktiknära skolforskning",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "0",
+     "Inget",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Beställningsbemyndiganden",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Bemyndigande",
+     "Utgifter mot anslag till följd av ekonomiska åtaganden",
+     "",
+     "",
+     ""
+    ],
+    [
+     "2026",
+     "2027",
+     "2028",
+     "2029 -",
+     "Slutår"
+    ],
+    [
+     "1:12 Praktiknära skolforskning",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "72 100",
+     "36 043",
+     "24 057",
+     "12 000",
+     "2029"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "3 000"
+    ],
+    [
+     "Räntekontokredit",
+     "1 500"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "3 993"
+    ],
+    [
+     "2026-02-25",
+     "3 993"
+    ],
+    [
+     "2026-03-25",
+     "3 993"
+    ],
+    [
+     "2026-04-25",
+     "3 993"
+    ],
+    [
+     "2026-05-25",
+     "3 993"
+    ],
+    [
+     "2026-06-25",
+     "3 993"
+    ],
+    [
+     "2026-07-25",
+     "3 993"
+    ],
+    [
+     "2026-08-25",
+     "3 993"
+    ],
+    [
+     "2026-09-25",
+     "3 993"
+    ],
+    [
+     "2026-10-25",
+     "3 993"
+    ],
+    [
+     "2026-11-25",
+     "3 993"
+    ],
+    [
+     "2026-12-25",
+     "3 987"
+    ],
+    [
+     "Summa",
+     "47 910"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "1:11 ap.1",
+     "Skolforskningsinstitutet"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [],
+ "has_fee_section": false,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 1,
+  "n_org": 0,
+  "n_assignments": 2,
+  "n_deadlines": 1,
+  "deadlines": [
+   "2026-07-24"
+  ],
+  "partners": [
+   "Statskontoret"
+  ],
+  "n_appropriations": 2,
+  "appropriations_total_tkr": 83953,
+  "payment_plan_total_tkr": 47910,
+  "md_chars": 5429
+ },
+ "layout": "standard",
+ "warnings": []
+}

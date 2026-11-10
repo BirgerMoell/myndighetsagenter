@@ -1,0 +1,1222 @@
+{
+ "schema_version": 1,
+ "id": 26312,
+ "original_rbid": 26030,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-05-13",
+ "year": "2026",
+ "name": "Boverket",
+ "slug": "boverket",
+ "department": "Landsbygds- och infrastrukturdepartementet",
+ "expenditure_areas": [
+  18
+ ],
+ "registry_numbers": [
+  "LI2026/00910"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [],
+  "bet": [],
+  "rskr": [
+   "2025/26:106"
+  ]
+ },
+ "n_attachments_stated": 1,
+ "mission": "",
+ "goals": [
+  {
+   "title": "Uppdatering av förteckning över uppvärmda och kylda byggnader",
+   "group": [],
+   "text": "Boverket ska redovisa hur myndigheten har arbetat med att uppdatera och för allmänheten tillgängliggöra den förteckning över uppvärmda och kylda byggnader som ägs och nyttjas av offentliga organ i enlighet med artikel 6.5 i Europaparlamentets och rådets direktiv (EU) 2023/1791 av den 13 september 2023 om energieffektivitet och om ändring av förordning (EU) 2023/955 (omarbetning). Boverket ska även redovisa för hur myndigheten har arbetat med att utveckla systemet för energideklarationer för att inbegripa möjligheten att ange om en byggnad ägs av en enhet som ingår i definitionen offentliga organ.",
+   "dates": [
+    "2023-09-13"
+   ],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26312:goals:0"
+  },
+  {
+   "title": "Färdval och resepolicy vid tjänsteresor",
+   "group": [],
+   "text": "Alla trafikslag ska kunna nyttjas (väg, järnväg, luft- och sjöfart) för att säkerställa effektiva och ändamålsenliga transporter. Boverket ska därför redovisa hur myndigheten har säkerställt att val av färdsätt vid tjänsteresor sker färdmedelsneutralt och utifrån behov. Vidare ska Boverket redovisa huruvida myndigheten köpt in hållbart flygbränsle till organisationens flygresor. När kostnader jämförs för olika färdval ska hela resans kostnad beaktas, exempelvis kostnader för nödvändig övernattning samt total arbetstid för hela resan.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26312:goals:1"
+  },
+  {
+   "title": "Marknadskontroll för ökad regelefterlevnad",
+   "group": [],
+   "text": "Boverket ska arbeta aktivt och riskbaserat inom marknadskontroll med särskilt fokus på produkter som inte lever upp till Europaparlamentets och rådets förordning (EU) 2019/1020 av den 20 juni 2019 om marknadskontroll och överensstämmelse för produkter och om ändring av direktiv 2004/42/EG och förordningarna (EG) nr 765/2008 och (EU) nr 305/2011, Europaparlamentets och rådets förordning (EU) 2024/3110 av den 27 november 2024 om fastställande av harmoniserade regler för saluföring av byggprodukter och om upphävande av förordning (EU) nr 305/2011 samt Europaparlamentets och rådets förordning (EU) förordning (EU) nr 305/2011 av den 9 mars 2011 om fastställande av harmoniserade villkor för saluföring av byggprodukter och om upphävande av rådets direktiv 89/106/EG, inklusive produkter för privat användning. Boverket ska även beskriva hur myndigheten har samarbetat med övriga relevanta marknadskontrollmyndigheter och Tullverket, inklusive bidragit till marknadskontrollinsatser i och marknadskontrollaktiviteter på EU-nivå, och vad samarbetet resulterat i gällande operativa insatser avseende e-handel från tredje land.",
+   "dates": [
+    "2011-03-09",
+    "2019-06-20",
+    "2024-11-27"
+   ],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Tullverket"
+   ],
+   "channels": [],
+   "task_types": [
+    "tillsyn_kontroll",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26312:goals:2"
+  },
+  {
+   "title": "Korttidsuthyrning",
+   "group": [],
+   "text": "Boverket ska vara nationell samordnare enligt Europaparlamentets och rådets förordning (EU) 2024/1028 av den 11 april 2024 om uppgiftsinsamling och uppgiftsdelning avseende korttidsuthyrning av boende och om ändring av förordning (EU) 2018/1724. Boverket ska föreslå hur uppgiften kan regleras permanent.",
+   "dates": [
+    "2024-04-11"
+   ],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "föreslå",
+    "samordna",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26312:goals:3"
+  }
+ ],
+ "org": [
+  {
+   "title": "Säkerställa proaktivitet och handlingskraft vid kris eller krig",
+   "group": [],
+   "text": "Boverket ska säkerställa att myndigheten har förmåga att agera proaktivt och handlingskraftigt i hanteringen av såväl fredstida krissituationer som vid krig och krigsfara. Utöver de krav som ställs i förordningen (2022:524) om statliga myndigheters beredskap ska myndigheten i detta syfte utbilda och öva sin personal samt se till att myndigheten stärker en kultur och arbetssätt som utgår från de krav som ett krig ställer. Boverket ska senast den 22 februari 2027 redovisa vidtagna åtgärder och resultat av dessa till Regeringskansliet (Landsbygds-och infrastrukturdepartementet och Försvarsdepartementet). Detta ska ingå i den särskilda redovisningen för civilt försvar.",
+   "dates": [
+    "2027-02-22"
+   ],
+   "deadlines": [
+    "2027-02-22"
+   ],
+   "recipients": [
+    "Regeringskansliet (Landsbygds-och infrastrukturdepartementet och Försvarsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2022:524"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "org",
+   "item_id": "26312:org:0"
+  }
+ ],
+ "assignments": [
+  {
+   "title": "Avtal för stärkt försörjningsberedskap",
+   "group": [],
+   "text": "Boverket ska identifiera behov av och, i de fall myndigheten bedömer det lämpligt, teckna avtal som syftar till att upprätthålla försörjningen av varor och tjänster som är nödvändiga för myndighetens prioriterade uppgifter vid fredstida kriser och höjd beredskap. I de fall Boverket nyttjar särskilda avtalsformer i form av sådana försörjningsberedskapsavtal (F-avtal) som beskrivs i betänkandet Nya samverkansformer, modern byggnads- och reparationsberedskap – för ökad försörjningsberedskap (SOU 2025:68) ska dessa avtal löpande rapporteras till den blivande Myndigheten för civilt försvar. Boverket ska senast den 22 februari 2027 redovisa till Regeringskansliet (Landsbygds- och infrastrukturdepartementet och Försvarsdepartementet), och ingå i den särskilda redovisningen för civilt försvar.",
+   "dates": [
+    "2027-02-22"
+   ],
+   "deadlines": [
+    "2027-02-22"
+   ],
+   "recipients": [
+    "Regeringskansliet (Landsbygds- och infrastrukturdepartementet och Försvarsdepartementet)"
+   ],
+   "partners": [
+    "Myndigheten för civilt försvar"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26312:assignments:0"
+  },
+  {
+   "title": "Upphandlingsfaktorer som främjar konkurrensen inom bygg- och anläggningssektorn",
+   "group": [],
+   "text": "Boverket ska, tillsammans med Upphandlingsmyndigheten, kartlägga upphandlingsfaktorer inom bygg- och anläggningssektorn som kan främja att fler anbudsgivare deltar i upphandlingar i sektorn. Vid genomförandet av uppdraget ska myndigheterna ha ett särskilt fokus på små- och medelstora företag. Myndigheterna ska vidare, baserat på resultatet av kartläggningen, ta fram och vidareutveckla informationsinsatser och stöd samt tillhandahålla och sprida informationen på lämpligt sätt. Uppdraget innefattar inte upphandling av statlig transportinfrastruktur. Boverket och Upphandlingsmyndigheten ska senast den 1 december 2027 lämna en gemensam redovisning av uppdraget till Regeringskansliet (Landsbygds- och infrastrukturdepartementet).",
+   "dates": [
+    "2027-12-01"
+   ],
+   "deadlines": [
+    "2027-12-01"
+   ],
+   "recipients": [
+    "Regeringskansliet (Landsbygds- och infrastrukturdepartementet)"
+   ],
+   "partners": [
+    "Upphandlingsmyndigheten"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla",
+    "informera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26312:assignments:1"
+  },
+  {
+   "title": "Bistå i arbetet med organisationen Visions and Strategies around the Baltic Sea",
+   "group": [],
+   "text": "Boverket ska bistå Regeringskansliet i arbetet med den multilaterala organisationen Visions and Strategies around the Baltic Sea (VASAB). I uppdraget ingår att Boverket ska delta som biträdande svensk representant i VASAB:s styrkommitté och s.k. trio-grupp.\n\nBoverket ska även bidra i arbetet med planeringen av Sveriges ordförandeskap i VASAB under perioden januari 2027–juni 2028 avseende det löpande arbetet i VASAB:s styrgrupp CSPD/BSR, samt med konkretisering av förslag till ordförandeskapets fokusområden och aktiviteter.\n\nBoverket ska vid genomförandet av uppdraget samverka med Havs- och vattenmyndigheten avseende arbetet i VASAB-Helcom arbetsgrupp för havsplanering inom ramen för EU:s strategi för Östersjöregionen. Boverket ska senast den 30 september 2026 redovisa uppdraget till Regeringskansliet (Landsbygds- och Infrastrukturdepartementet).\n\nFör uppdraget får Boverket under 2026 använda 250 000 kronor som ska redovisas mot det under utgiftsområde 19 Regional utveckling för budgetåret 2026 uppförda anslaget 1:1 Regionala utvecklingsåtgärder, anslagsposten 22 Regionala utg.omr - del till Kammarkollegiet (ram). Medlen utbetalas engångsvis efter rekvisition till Kammarkollegiet senast den 30 november 2026. Medel som inte har använts för avsett ändamål ska återbetalas senast den 31 mars 2027 till Kammarkollegiet. Vid redovisning, rekvisition och återbetalning ska Boverket hänvisa till diarienummer för detta beslut.",
+   "dates": [
+    "2026-09-30",
+    "2026-11-30",
+    "2027-03-31"
+   ],
+   "deadlines": [
+    "2026-09-30",
+    "2026-11-30",
+    "2027-03-31"
+   ],
+   "recipients": [
+    "Kammarkollegiet",
+    "Regeringskansliet (Landsbygds- och Infrastrukturdepartementet)"
+   ],
+   "partners": [
+    "Havs- och vattenmyndigheten",
+    "Kammarkollegiet"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "fördela_medel",
+    "utveckla",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [
+    "1:1"
+   ],
+   "expenditure_area_refs": [
+    19
+   ],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26312:assignments:2"
+  },
+  {
+   "title": "Arbetet mot utanförskap",
+   "group": [],
+   "text": "Boverket ska förvalta och utveckla ett verktyg för sammanställning av områdesspecifik statistik med betydelse för arbetet mot utanförskap. Myndigheten ska på en strategisk nivå bidra till kunskaps- och erfarenhetsutbyte mellan berörda statliga myndigheter, regioner, kommuner och andra samhällsaktörer. Boverket ska senast den 15 juni 2026 redovisa en samlad och sektorsövergripande analys av utvecklingen i områden där utanförskapet är stort till Regeringskansliet (Arbetsmarknadsdepartementet).\n\nFör genomförande av uppdraget får Boverket under 2026 använda högst 12 000 000 kronor som ska redovisas mot det under utgiftsområde 13 Integration och jämställdhet uppförda anslaget 4:1 Åtgärder mot utanförskap, anslagsposten 6 Åtgärder mot utanförskap - del till Boverket.",
+   "dates": [
+    "2026-06-15"
+   ],
+   "deadlines": [
+    "2026-06-15"
+   ],
+   "recipients": [
+    "Regeringskansliet (Arbetsmarknadsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla",
+    "statistik_data"
+   ],
+   "anslag_refs": [
+    "4:1"
+   ],
+   "expenditure_area_refs": [
+    13
+   ],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26312:assignments:3"
+  },
+  {
+   "title": "Vägledning om kommunala vattentjänstplaner",
+   "group": [],
+   "text": "Boverket ska, tillsammans med Havs- och vattenmyndigheten, Naturvårdsverket och Livsmedelsverket, ta fram en vägledning för kommunala vattentjänstplaner enligt 6 a och b §§ lagen (2006:412) om allmänna vattentjänster. Uppdraget samordnas av Havs- och vattenmyndigheten. Vid genomförandet av uppdraget ska synpunkter inhämtas från andra berörda myndigheter och aktörer. Uppdraget omfattar att se över hur befintlig vägledning behöver kompletteras och anpassas för att beakta klimatförändringars effekter, både avseende nederbörd och torka, samt behovet av beredskapsåtgärder. Uppdraget omfattar däremot inte att ta fram någon vägledning inom plan- och byggområdet. Havs- och vattenmyndigheten ska enligt myndighetens regleringsbrev för budgetåret 2026 också överväga om det finns behov av en tillsynsmyndighet för kommunala vattentjänstplaner. Om det behövs ska Havs- och vattenmyndigheten, med stöd av berörda myndigheter, lämna förslag på författningsändringar samt redovisa skäl och en konsekvensbeskrivning, i enlighet med förordningen (2024:183) om konsekvensutredningar. Av Havs- och vattenmyndighetens regleringsbrev för budgetåret 2026 framgår att Havs- och vattenmyndigheten senast den 31 december 2026 ska redovisa uppdraget till Regeringskansliet (Klimat- och näringslivsdepartementet).",
+   "dates": [
+    "2026-12-31"
+   ],
+   "deadlines": [
+    "2026-12-31"
+   ],
+   "recipients": [
+    "Regeringskansliet (Klimat- och näringslivsdepartementet)"
+   ],
+   "partners": [
+    "Havs- och vattenmyndigheten",
+    "Livsmedelsverket",
+    "Naturvårdsverket"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "föreslå",
+    "samordna",
+    "utveckla",
+    "tillsyn_kontroll",
+    "informera",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2006:412",
+    "2024:183"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26312:assignments:4"
+  },
+  {
+   "title": "Förenkla för företag genom verksamt.se",
+   "group": [],
+   "text": "Boverket ska förvalta myndighetens innehåll på den myndighetsgemensamma webbplatsen verksamt.se.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26312:assignments:5"
+  },
+  {
+   "title": "Marknadskontroll för ökad regelefterlevnad",
+   "group": [],
+   "text": "",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "tillsyn_kontroll"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26312:assignments:6"
+  },
+  {
+   "title": "Prognoser",
+   "group": [],
+   "text": "Myndigheten ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Av kommentarerna ska framgå vilka antaganden som använts i prognosen.\\\nPrognoserna lämnas i informationssystemet Hermes senast den\n\n- 2 februari\n- 22 april\n- 24 juli\n- 9 november",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26312:assignments:7"
+  },
+  {
+   "title": "Prognos för beställningsbemyndiganden",
+   "group": [],
+   "text": "Myndigheten ska redovisa en prognos för de förslag om beställningsbemyndiganden som lämnats i budgetunderlaget och för de åtaganden som ingåtts med stöd av äldre beställningsbemyndiganden. Prognosen ska lämnas senast den 24 juli 2026 i informationssystemet Hermes och utformas enligt närmare information från Ekonomistyrningsverket.",
+   "dates": [
+    "2026-07-24"
+   ],
+   "deadlines": [
+    "2026-07-24"
+   ],
+   "forecast_dates": [],
+   "recipients": [],
+   "partners": [
+    "Ekonomistyrningsverket"
+   ],
+   "channels": [
+    "hermes",
+    "budgetunderlag"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26312:assignments:8"
+  },
+  {
+   "title": "Uppdrag att översätta och tillgängliggöra nya generationens eurokoder",
+   "group": [],
+   "text": "Boverket ska översätta och tillgängliggöra den nya generationens eurokoder. Standarderna ska finnas tillgängliga kostnadsfritt senast den 30 mars 2028. För uppdraget får Boverket använda högst 7 000 000 kronor årligen.",
+   "dates": [
+    "2028-03-30"
+   ],
+   "deadlines": [
+    "2028-03-30"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26312:assignments:9"
+  },
+  {
+   "title": "Pågående uppdrag",
+   "group": [],
+   "text": "I*bilagan*redovisas myndighetens pågående uppdrag. För regeringsuppdrag som lämnats i ett särskilt regeringsbeslut utgör tabellen i bilagan endast en upplysning om vilka uppdrag som vid årets början var riktade till myndigheten och vilka tider som då gällde för återrapportering eller liknande.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "26312:assignments:10"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "1:2",
+   "name": "Stöd för att underlätta för enskilda att ordna bostad",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 18,
+    "name": "Samhällsplanering, bostadsförsörjning och byggande samt konsumentpolitik"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Boverket",
+     "amount_tkr": 4000,
+     "items": [
+      {
+       "ap": "2",
+       "name": "Stöd till byggemenskaper (ram)",
+       "amount_tkr": 4000
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "2",
+     "name": "Stöd till byggemenskaper",
+     "text": "Anslagsposten får användas för stöd enligt förordningen (2019:676) om stöd till byggemenskaper."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "1:3",
+   "name": "Boverket",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 18,
+    "name": "Samhällsplanering, bostadsförsörjning och byggande samt konsumentpolitik"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Boverket",
+     "amount_tkr": 320063,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Förvaltningskostnader (ram)",
+       "amount_tkr": 320063
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Förvaltningskostnader",
+     "text": "Anslagsposten får användas för förvaltningskostnader, dock inte för sådana kostnader som är hänförliga till de helt avgiftsfinansierade kreditgarantierna.\nAv anslagsposten får 3 000 000 kronor användas för att förbereda och administrera stöd i enlighet med förordningen (2023:903) om stöd till kommuner för detaljplaner som möjliggör småhusbebyggelse och omvandlingar från lokaler till bostäder.\nAv anslagsposten får 1 000 000 kronor användas för genomförandet av regeringens uppdrag den 22 maj 2025 till Boverket att ta fram förslag på hur typgodkännande av småhus kan genomföras (LI2025/01072).\nAv anslagsposten får 1 000 000 kronor användas för genomförandet av uppdraget om upphandlingsfaktorer som främjar konkurrensen inom bygg- och anläggningssektorn. Regeringen beräknar att 1 000 000 kronor kommer att avsättas för uppdraget för 2027 under förutsättning att riksdagen anvisat medel för det aktuella anslaget.\nAv anslagsposten får 800 000 kronor användas för arbete med ett nytt system för bosättning av vissa nyanlända först efter beslut från regeringen."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "1:7",
+   "name": "Energieffektivisering av flerbostadshus",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 18,
+    "name": "Samhällsplanering, bostadsförsörjning och byggande samt konsumentpolitik"
+   },
+   "older_budget_year": 2025,
+   "disposals": [
+    {
+     "by": "Boverket",
+     "amount_tkr": 0,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Energieffektivisering och renovering av flerbostadshus (ram)",
+       "amount_tkr": 0
+      },
+      {
+       "ap": "4",
+       "name": "Energieffektivisering och renovering av flerbostadshus RRF (ram)",
+       "amount_tkr": 0
+      },
+      {
+       "ap": "5",
+       "name": "Energieffektivisering av flerbostadshus (ram)",
+       "amount_tkr": 0
+      }
+     ],
+     "sum_ok": true
+    },
+    {
+     "by": "Länsstyrelsen i Örebro län",
+     "amount_tkr": 0,
+     "items": [
+      {
+       "ap": "3",
+       "name": "Energieffektivisering och renovering av flerbostadshus - del till Länsstyrelsen i Örebro län (ram)",
+       "amount_tkr": 0
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Energieffektivisering och renovering av flerbostadshus",
+     "text": "Anslagsposten får användas för stöd till renovering och energieffektivisering i vissa bostadsområden enligt förordningen (2016:837) om stöd för renovering och energieffektivisering i vissa\\\nbostadsområden, där myndighetens beslut om stöd har fattats före den\\\n1 januari 2019. Högst 4 500 000 kronor av anslagsposterna 1, 4 och 5 får användas för Boverkets kostnader för att administrera detta stöd och stöd i enlighet med förordningen (2021:664) om stöd till energieffektivisering i flerbostadshus."
+    },
+    {
+     "ap": "3",
+     "name": "Energieffektivisering och renovering av flerbostadshus - del till Länsstyrelsen i Örebro län",
+     "text": "Anslagsposten får användas för vidarefördelning till länsstyrelserna för finansiering av verksamhet som de bedriver enligt förordningen om stöd för renovering och energieffektivisering i vissa bostadsområden och förordningen om stöd till energieffektivisering i flerbostadshus."
+    },
+    {
+     "ap": "4",
+     "name": "Energieffektivisering och renovering av flerbostadshus RRF",
+     "text": "Medlen på anslagsposten ska användas i enlighet med Europaparlamentets och rådets förordning (EU) 2021/241 av den\\\n12 februari 2021 om inrättande av faciliteten för återhämtning och resiliens (RRF). Anslagsposten får användas för stöd i enlighet med förordningen om stöd till energieffektivisering i flerbostadshus där ansökningar om stöd har beviljats från och med den 24 januari 2022 till och med den 31 december 2022. Utgifterna ska redovisas mot anslagspost 4 upp till den tilldelade nivån och därefter mot anslagspost 5. Rapporteringskrav för medlens användning utöver vad som anges i detta regleringsbrev framgår av regeringens uppdrag till Boverket den 30 september 2021 (Fi2021/03192), den 9 februari 2023 (LI2023/01723) och den 23 maj 2024 (LI2024/01160). Högst 4 500 000 kronor av anslagsposterna 1, 4 och 5 får användas för Boverkets kostnader för att administrera detta stöd och stöd enligt förordningen om stöd för renovering och energieffektivisering i vissa bostadsområden."
+    },
+    {
+     "ap": "5",
+     "name": "Energieffektivisering av flerbostadshus",
+     "text": "Anslagsposten får användas för stöd i enlighet med förordningen om stöd till energieffektivisering i flerbostadshus där beslut om stöd är fattat före den 31 december 2022. Högst 4 500 000 kronor av anslagsposterna 1, 4 och 5 får användas för Boverkets kostnader för att administrera detta stöd och stöd enligt förordningen om stöd för renovering och energieffektivisering i vissa bostadsområden."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "1",
+     "max": 4500000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "4",
+     "max": 4500000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "5",
+     "max": 4500000,
+     "unit": "kronor"
+    }
+   ]
+  },
+  {
+   "code": "1:8",
+   "name": "Investeringsstöd för anordnande av hyresbostäder och bostäder för studerande",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 18,
+    "name": "Samhällsplanering, bostadsförsörjning och byggande samt konsumentpolitik"
+   },
+   "older_budget_year": 2025,
+   "disposals": [
+    {
+     "by": "Boverket",
+     "amount_tkr": 0,
+     "items": [
+      {
+       "ap": "2",
+       "name": "Investeringsstöd för anordnade av hyresbostäder och bostäder för studerande RRF (ram)",
+       "amount_tkr": 0
+      },
+      {
+       "ap": "3",
+       "name": "Investeringsstöd för anordnande av hyresbostäder och bostäder för studerande (ram)",
+       "amount_tkr": 0
+      }
+     ],
+     "sum_ok": true
+    },
+    {
+     "by": "Länsstyrelsen i Stockholms län",
+     "amount_tkr": 0,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Investeringsstöd för anordnande av hyresbostäder och bostäder för studerande - del till Länsstyrelsen i Stockholms län (ram)",
+       "amount_tkr": 0
+      }
+     ],
+     "sum_ok": true
+    },
+    {
+     "by": "Länsstyrelsen i Örebro län",
+     "amount_tkr": 0,
+     "items": [
+      {
+       "ap": "5",
+       "name": "Investeringsstöd för anordnande av hyresbostäder och bostäder för studerande - del till Länsstyrelsen i Örebro län (ram)",
+       "amount_tkr": 0
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Investeringsstöd för anordnande av hyresbostäder och bostäder för studerande - del till Länsstyrelsen i Stockholms län",
+     "text": "Anslagsposten får användas för att finansiera en stödfunktion för samtliga länsstyrelser i frågor rörande investeringsstödet."
+    },
+    {
+     "ap": "2",
+     "name": "Investeringsstöd för anordnade av hyresbostäder och bostäder för studerande RRF",
+     "text": "Medlen på anslagsposten ska användas i enlighet med Europaparlamentets och rådets förordning (EU) 2021/241 av den\\\n12 februari 2021 om inrättande av faciliteten för återhämtning och resiliens (RRF). Anslagsposten får användas för statligt stöd enligt förordningen (2016:881) om statligt investeringsstöd för hyresbostäder och bostäder för studerande där ansökningar om stöd har beviljats från och med den 24 januari 2022 till och med den 31 december 2022. Medlen på anslagsposten får inte användas för bostäder som omfattas av förordningen (2022:1056) om undantag från vissa bestämmelser om uthyrning i investeringsstödsförordningarna. Rapporteringskrav för medlens användning utöver vad som anges i detta regleringsbrev framgår av regeringen uppdrag till Boverket den 30 september 2021 (Fi2021/03192), den 9 februari 2023 (LI2023/01723) och den 23 maj 2024 (LI2024/01160). Utgifterna ska redovisas mot anslagspost 2 upp till den tilldelade nivån och därefter mot anslagspost 3. Högst\\\n7 500 000 kronor av anslagsposterna 2 och 3 får användas för Boverkets kostnader för att administrera stöden."
+    },
+    {
+     "ap": "3",
+     "name": "Investeringsstöd för anordnande av hyresbostäder och bostäder för studerande",
+     "text": "Anslagsposten får användas för statligt stöd enligt förordningen (2016:880) om statligt stöd för att anordna och tillhandahålla hyresbostäder och bostäder för studerande och förordningen (2016:881) om statligt investeringsstöd för hyresbostäder och bostäder för studerande där beslut om stöd är fattat före den 31 december 2022.\\\nHögst 7 500 000 kronor av anslagsposterna 2 och 3 får användas för Boverkets kostnader för att administrera stöden."
+    },
+    {
+     "ap": "5",
+     "name": "Investeringsstöd för anordnande av hyresbostäder och bostäder för studerande - del till Länsstyrelsen i Örebro län",
+     "text": "Anslagsposten får användas för vidarefördelning till länsstyrelserna för finansiering av verksamhet som länsstyrelserna bedriver enligt förordningen om statligt stöd för att anordna och tillhandahålla hyresbostäder och bostäder för studerande och förordningen om statligt investeringsstöd för hyresbostäder och bostäder för studerande."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "3",
+     "max": 7500000,
+     "unit": "kronor"
+    }
+   ]
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "1:2 Stöd för att underlätta för enskilda att ordna bostad",
+   "ap": "ap.2",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:3 Boverket",
+   "ap": "ap.1",
+   "Anslagskredit": 9541,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:7 (2025) Energieffektivisering av flerbostadshus",
+   "ap": "ap.1 (2025)",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Allt",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:7 (2025) Energieffektivisering av flerbostadshus",
+   "ap": "ap.3 (2025)",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Allt",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:7 (2025) Energieffektivisering av flerbostadshus",
+   "ap": "ap.4 (2025)",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Allt",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:7 (2025) Energieffektivisering av flerbostadshus",
+   "ap": "ap.5 (2025)",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Allt",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:8 (2025) Investeringsstöd för anordnande av hyresbostäder och bostäder för studerande",
+   "ap": "ap.1 (2025)",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Allt",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:8 (2025) Investeringsstöd för anordnande av hyresbostäder och bostäder för studerande",
+   "ap": "ap.2 (2025)",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Allt",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:8 (2025) Investeringsstöd för anordnande av hyresbostäder och bostäder för studerande",
+   "ap": "ap.3 (2025)",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Allt",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:8 (2025) Investeringsstöd för anordnande av hyresbostäder och bostäder för studerande",
+   "ap": "ap.5 (2025)",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Allt",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 70000,
+  "Räntekontokredit": 6000,
+  "- Kreditgarantier för nybyggnad och ändring av bostäder mm": 8000000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 26672
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 26672
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 26672
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 26672
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 26672
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 26672
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 26672
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 26672
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 26672
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 26672
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 26672
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 26671
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:2 Stöd för att underlätta för enskilda att ordna bostad",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.2",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "1:3 Boverket",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "9 541",
+     "3 %",
+     "0"
+    ],
+    [
+     "1:7 (2025) Energieffektivisering av flerbostadshus",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1 (2025)",
+     "0",
+     "Allt",
+     "0"
+    ],
+    [
+     "ap.3 (2025)",
+     "0",
+     "Allt",
+     "0"
+    ],
+    [
+     "ap.4 (2025)",
+     "0",
+     "Allt",
+     "0"
+    ],
+    [
+     "ap.5 (2025)",
+     "0",
+     "Allt",
+     "0"
+    ],
+    [
+     "1:8 (2025) Investeringsstöd för anordnande av hyresbostäder och bostäder för studerande",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1 (2025)",
+     "0",
+     "Allt",
+     "0"
+    ],
+    [
+     "ap.2 (2025)",
+     "0",
+     "Allt",
+     "0"
+    ],
+    [
+     "ap.3 (2025)",
+     "0",
+     "Allt",
+     "0"
+    ],
+    [
+     "ap.5 (2025)",
+     "0",
+     "Allt",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Omfördelning av anslagssparande",
+   "rows": [
+    [
+     "Omfördelning från anslag/ap1",
+     "Omfördelning till anslag/ap2",
+     "Belopp (tkr)",
+     "Belopp andel (%)"
+    ],
+    [
+     "1:7 (2025) Energieffektivisering av flerbostadshus",
+     "",
+     "",
+     ""
+    ],
+    [
+     "1:7 ap.4 (2025)",
+     "1:7 ap.3 (2025)",
+     "5 000"
+    ],
+    [
+     "1:8 (2025) Investeringsstöd för anordnande av hyresbostäder och bostäder för studerande",
+     "",
+     "",
+     ""
+    ],
+    [
+     "1:8 ap.2 (2025)",
+     "1:8 ap.1 (2025)",
+     "3 000"
+    ],
+    [
+     "1:8 ap.2 (2025)",
+     "1:8 ap.5 (2025)",
+     "27 000"
+    ],
+    [
+     "1:8 ap.2 (2025)",
+     "1:8 ap.3 (2025)",
+     "1 066 343"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Avslutade anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagstyp"
+    ],
+    [
+     "1:2 Stöd för att underlätta för enskilda att ordna bostad",
+     ""
+    ],
+    [
+     "ap.1",
+     "ram"
+    ],
+    [
+     "1:2 (2025) Omstrukturering av kommunala bostadsföretag",
+     ""
+    ],
+    [
+     "ap.1 (2025)",
+     "ram"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar, krediter och garantier",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "70 000"
+    ],
+    [
+     "Räntekontokredit",
+     "6 000"
+    ],
+    [
+     "Övriga kontokrediter"
+    ],
+    [
+     "- Garantiverksamheten",
+     "Obegränsad"
+    ],
+    [
+     "Garantier"
+    ],
+    [
+     "- Kreditgarantier för nybyggnad och ändring av bostäder mm",
+     "8 000 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "26 672"
+    ],
+    [
+     "2026-02-25",
+     "26 672"
+    ],
+    [
+     "2026-03-25",
+     "26 672"
+    ],
+    [
+     "2026-04-25",
+     "26 672"
+    ],
+    [
+     "2026-05-25",
+     "26 672"
+    ],
+    [
+     "2026-06-25",
+     "26 672"
+    ],
+    [
+     "2026-07-25",
+     "26 672"
+    ],
+    [
+     "2026-08-25",
+     "26 672"
+    ],
+    [
+     "2026-09-25",
+     "26 672"
+    ],
+    [
+     "2026-10-25",
+     "26 672"
+    ],
+    [
+     "2026-11-25",
+     "26 672"
+    ],
+    [
+     "2026-12-25",
+     "26 671"
+    ],
+    [
+     "Summa",
+     "320 063"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "1:3 ap.1",
+     "Förvaltningskostnader"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Garantier",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Kreditgarantier1",
+     "34 098",
+     "-4 029",
+     "2 500",
+     "4 080",
+     "-1 580",
+     "28 489"
+    ]
+   ]
+  },
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna ej disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "Ink. tit.",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Garantier",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Garantiavgifter3",
+     "2127",
+     "700"
+    ],
+    [
+     "Handläggning och prövning",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Enligt 3 kap. 3 a § bostadsrättslagen (1991:614)1",
+     "2511",
+     "0",
+     "0",
+     "1 400",
+     "1 400",
+     "0",
+     "0"
+    ]
+   ]
+  }
+ ],
+ "has_fee_section": true,
+ "exceptions_text": "Boverket ska inte tillämpa 25 a § avgiftsförordingen (1992:191) inom verksamheten med kreditgarantier.\n\nPå regeringens vägnar\n\nAndreas Carlson\n\nHelen Ekstam\n\n**Kopia till**\n\nStatsrådsberedningen/REV\\\nUtrikesdepartementet HF\\\nFinansdepartementet BA\\\nRegeringskansliets förvaltningsavdelningen/RK Ekonomi och affärer\\\nRiksdagen, civilutskottet\\\nKammarkollegiet\\\nRiksgäldskontoret\\\nTullverket",
+ "summary": {
+  "n_goals": 4,
+  "n_org": 1,
+  "n_assignments": 11,
+  "n_deadlines": 9,
+  "deadlines": [
+   "2026-06-15",
+   "2026-07-24",
+   "2026-09-30",
+   "2026-11-30",
+   "2026-12-31",
+   "2027-02-22",
+   "2027-03-31",
+   "2027-12-01",
+   "2028-03-30"
+  ],
+  "partners": [
+   "Ekonomistyrningsverket",
+   "Havs- och vattenmyndigheten",
+   "Kammarkollegiet",
+   "Livsmedelsverket",
+   "Myndigheten för civilt försvar",
+   "Naturvårdsverket",
+   "Tullverket",
+   "Upphandlingsmyndigheten"
+  ],
+  "n_appropriations": 4,
+  "appropriations_total_tkr": 324063,
+  "payment_plan_total_tkr": 320063,
+  "md_chars": 25082
+ },
+ "layout": "standard",
+ "warnings": []
+}

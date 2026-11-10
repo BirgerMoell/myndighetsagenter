@@ -1,0 +1,459 @@
+{
+ "schema_version": 1,
+ "id": 25745,
+ "original_rbid": 25745,
+ "type": "Regleringsbrev",
+ "category": "Myndighet",
+ "date": "2025-12-18",
+ "year": "2026",
+ "name": "Högskolan i Skövde",
+ "slug": "hogskolan-i-skovde",
+ "department": "Utbildningsdepartementet",
+ "expenditure_areas": [
+  16
+ ],
+ "registry_numbers": [
+  "U2025/02412 (delvis)"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1"
+  ],
+  "bet": [
+   "2025/26:UbU1"
+  ],
+  "rskr": [
+   "2025/26:124"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "Gemensamma bestämmelser för universitet och högskolor finns i regleringsbrev för budgetåret 2026 avseende universitet och högskolor.",
+ "goals": [
+  {
+   "title": "Rekryteringsmål för professorer",
+   "group": [
+    "Mål"
+   ],
+   "text": "Under 2025–2028 har lärosätet ett mål för könsfördelningen bland nyrekryterade professorer om 48 procent kvinnor.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25745:goals:0"
+  },
+  {
+   "title": "Mål för antal examina",
+   "group": [
+    "Mål"
+   ],
+   "text": "Under 2025–2028 har lärosätet mål om antal utfärdade examina från vissa utbildningar inom nedan angivet område. Målet och de examina som omfattas av detta anges i tabellen nedan. Lärosätet ska i årsredovisningen redovisa antalet utfärdade examina inom området de senaste tre åren för de yrkesexamina som anges i tabellen samt vilka åtgärder som har vidtagits för att uppnå målet.\n\n| | |\n| --- | --- |\n| **Område (examina som omfattas av målet inom parentes)** | **Mål för antal utfärdade examina under 2025–2028** |\n| Hälso- och sjukvårdsutbildningar (sjuksköterskeexamina och specialistsjuksköterskeexamina) | 780 |",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "årsredovisning"
+   ],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25745:goals:1"
+  }
+ ],
+ "org": [],
+ "assignments": [],
+ "appropriations": [
+  {
+   "code": "2:49",
+   "name": "Högskolan i Skövde: Utbildning på grundnivå och avancerad nivå",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 16,
+    "name": "Utbildning och universitetsforskning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Högskolan i Skövde",
+     "amount_tkr": 386068,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Takbelopp (ram)",
+       "amount_tkr": 386068
+      },
+      {
+       "ap": "1.1",
+       "name": "Takbelopp (ram)",
+       "amount_tkr": 386068
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1.1",
+     "name": "Takbelopp",
+     "text": "Anslagsposten får användas för högskoleutbildning på grundnivå och avancerad nivå samt behörighetsgivande och högskoleintroducerande utbildning.\nAnvisningar för avräkning av helårsstudenter och helårsprestationer finns i bilaga till regleringsbrev avseende universitet och högskolor."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "2:50",
+   "name": "Högskolan i Skövde: Forskning och utbildning på forskarnivå",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 16,
+    "name": "Utbildning och universitetsforskning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Högskolan i Skövde",
+     "amount_tkr": 74265,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Basresurs (ram)",
+       "amount_tkr": 74265
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Basresurs",
+     "text": "Anslagsposten får användas för forskning och utbildning på forskarnivå."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "2:65",
+   "name": "Särskilda medel till universitet och högskolor",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 16,
+    "name": "Utbildning och universitetsforskning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Högskolan i Skövde",
+     "amount_tkr": 675,
+     "items": [
+      {
+       "ap": "78",
+       "name": "Medel för studenthälsa (ram)",
+       "amount_tkr": 675
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "78",
+     "name": "Medel för studenthälsa",
+     "text": "Anslagsposten får användas för att stärka studenthälsan och bl.a. möjliggöra mer preventivt arbete för att minska studenternas psykiska och fysiska ohälsa samt stärka stödet för studieovana studenter. Av medlen avser 290 000 kronor arbete med att särskilt främja psykisk hälsa bland studenter."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "2:49 Högskolan i Skövde: Utbildning på grundnivå och avancerad nivå",
+   "ap": "ap.1.1",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "10 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:50 Högskolan i Skövde: Forskning och utbildning på forskarnivå",
+   "ap": "ap.1",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Allt",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.78",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 70000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 38417
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 38417
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 38417
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 38417
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 38417
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 38417
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 38417
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 38417
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 38417
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 38417
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 38417
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 38421
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "2:49 Högskolan i Skövde: Utbildning på grundnivå och avancerad nivå",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1.1",
+     "0",
+     "10 %",
+     "0"
+    ],
+    [
+     "2:50 Högskolan i Skövde: Forskning och utbildning på forskarnivå",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "0",
+     "Allt",
+     "0"
+    ],
+    [
+     "2:65 Särskilda medel till universitet och högskolor",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.78",
+     "0",
+     "3 %",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Omfördelning av anslagssparande",
+   "rows": [
+    [
+     "Omfördelning från anslag/ap1",
+     "Omfördelning till anslag/ap2",
+     "Belopp (tkr)",
+     "Belopp andel (%)"
+    ],
+    [
+     "2:49 Högskolan i Skövde: Utbildning på grundnivå och avancerad nivå",
+     "",
+     "",
+     ""
+    ],
+    [
+     "2:49 ap.1.2",
+     "2:49 ap.1.1",
+     "100 %"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Avslutade anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagstyp"
+    ],
+    [
+     "2:49 Högskolan i Skövde: Utbildning på grundnivå och avancerad nivå",
+     ""
+    ],
+    [
+     "ap.1.2",
+     "ram"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "70 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "38 417"
+    ],
+    [
+     "2026-02-25",
+     "38 417"
+    ],
+    [
+     "2026-03-25",
+     "38 417"
+    ],
+    [
+     "2026-04-25",
+     "38 417"
+    ],
+    [
+     "2026-05-25",
+     "38 417"
+    ],
+    [
+     "2026-06-25",
+     "38 417"
+    ],
+    [
+     "2026-07-25",
+     "38 417"
+    ],
+    [
+     "2026-08-25",
+     "38 417"
+    ],
+    [
+     "2026-09-25",
+     "38 417"
+    ],
+    [
+     "2026-10-25",
+     "38 417"
+    ],
+    [
+     "2026-11-25",
+     "38 417"
+    ],
+    [
+     "2026-12-25",
+     "38 421"
+    ],
+    [
+     "Summa",
+     "461 008"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "2:49 ap.1.1",
+     "Takbelopp"
+    ],
+    [
+     "2:50 ap.1",
+     "Basresurs"
+    ],
+    [
+     "2:65 ap.78",
+     "Medel för studenthälsa"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [],
+ "has_fee_section": false,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 2,
+  "n_org": 0,
+  "n_assignments": 0,
+  "n_deadlines": 0,
+  "deadlines": [],
+  "partners": [],
+  "n_appropriations": 3,
+  "appropriations_total_tkr": 461008,
+  "payment_plan_total_tkr": 461008,
+  "md_chars": 5837
+ },
+ "layout": "standard",
+ "warnings": []
+}

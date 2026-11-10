@@ -1,0 +1,491 @@
+{
+ "schema_version": 1,
+ "id": 26238,
+ "original_rbid": 25969,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-02-12",
+ "year": "2026",
+ "name": "Elsäkerhetsverket",
+ "slug": "elsakerhetsverket",
+ "department": "Klimat- och näringslivsdepartementet",
+ "expenditure_areas": [
+  21
+ ],
+ "registry_numbers": [
+  "KN2026/00309"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1"
+  ],
+  "bet": [
+   "2025/26:NU3"
+  ],
+  "rskr": [
+   "2025/26:118"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "",
+ "goals": [],
+ "org": [],
+ "assignments": [
+  {
+   "title": "Undantag vid höjd beredskap - förlängning",
+   "group": [],
+   "text": "Elsäkerhetsverket ska, som en utvidgning av befintligt uppdrag om undantag vid höjd beredskap, utreda behovet av eventuella undantag från gällande bestämmelser avseende utförande av elinstallationsarbete vid höjd beredskap, och för det fall det bedöms nödvändigt, föreslå författningsändringar inklusive konsekvensanalyser. Uppdraget ska redovisas till Regeringskansliet (Klimat- och näringslivsdepartementet) i anslutning till årsredovisningen för år 2026. Denna tidpunkt ersätter det återrapporteringsdatum som givits i regleringsbrev för 2025.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [
+    "Regeringskansliet (Klimat- och näringslivsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [
+    "årsredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "föreslå",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26238:assignments:0"
+  },
+  {
+   "title": "Civilt försvar - Stärkt operativ förmåga",
+   "group": [],
+   "text": "Elsäkerhetsverket ska vidta åtgärder för att stärka den operativa förmågan och redundansen för att kunna verka under höjd beredskap och ytterst krig. Åtgärderna ska syfta till att utveckla och stärka det civila försvaret och därmed bidra till en högre samlad förmåga inom totalförsvaret. Elsäkerhetsverket ska redovisa genomförda huvudsakliga åtgärder för att höja det civila försvarets förmåga inom myndighetens ansvarsområde och hur vidtagna åtgärder har bidragit till att uppfylla målet för det civila försvaret. Myndigheten ska också redovisa hur de ytterligare medel som tillförts för civilt försvar har använts för detta ändamål. Uppdraget ska redovisas i årsredovisningen för år 2026.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "årsredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "utveckla",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26238:assignments:1"
+  },
+  {
+   "title": "Marknadskontroll för ökad regelefterlevnad",
+   "group": [],
+   "text": "Elsäkerhetsverket ska arbeta aktivt och riskbaserat inom marknadskontroll med särskilt fokus på produkter som inte lever upp till Europaparlamentets och rådets förordning (EU) 2019/1020 av den 20 juni 2019 om marknadskontroll och överensstämmelse för produkter, inklusive produkter för privat användning. Myndigheten ska även beskriva hur myndigheten har samarbetat med övriga relevanta marknadskontrollmyndigheter och Tullverket, inklusive bidragit till marknadskontrollinsatser och marknadskontrollaktiviteter på EU-nivå, och vad samarbetet resulterat i gällande operativa insatser avseende e-handel från tredje land. Uppdragets ska redovisas till Regeringskansliet (Utrikesdepartementet) senast den 15 mars 2027.",
+   "dates": [
+    "2019-06-20",
+    "2027-03-15"
+   ],
+   "deadlines": [
+    "2027-03-15"
+   ],
+   "recipients": [
+    "Regeringskansliet (Utrikesdepartementet)"
+   ],
+   "partners": [
+    "Tullverket"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "tillsyn_kontroll",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26238:assignments:2"
+  },
+  {
+   "title": "Förenkla för företag genom verksamt.se",
+   "group": [],
+   "text": "Elsäkerhetsverket ska förvalta myndighetens innehåll på den verksamhetsgemensamma webbplatsen verksamt.se.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26238:assignments:3"
+  },
+  {
+   "title": "Prognoser",
+   "group": [],
+   "text": "Elsäkerhetsverket ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Prognoserna lämnas i informationssystemet Hermes senast den\n\n- 2 februari,\n- 22 april,\n- 24 juli och\n- 9 november.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26238:assignments:4"
+  },
+  {
+   "title": "Pågående uppdrag",
+   "group": [],
+   "text": "| | | |\n| --- | --- | --- |\n| **Sammanfattning av uppdraget** | **Beslut om uppdraget** | **Rapporteringstidpunkt** |\n| Undantag vid höjd beredskap | Den 19 december 2024 KN2024/02561 | I anslutning till årsredovisningen för år 2026. |\n| Enkla regelverk och rutiner | Den 21 december 2023 KN2023/04606 | Årligen den 15 mars till och med 2026. |\n| Uppdrag att redovisa resultat inom ramen för regeringens utvecklingsprogram för jämställdhetsintegrering i statliga myndigheter | Den 19 december 2024 | Den 20 januari 2026. |\n\n*För regeringsuppdrag som lämnats i ett särskilt regeringsbeslut utgör tabellen ovan endast en upplysning om vilka uppdrag som vid årets början var riktade till myndigheten och vilka tider som då gällde för återrapportering eller liknande.*",
+   "dates": [
+    "2023-12-21",
+    "2024-12-19",
+    "2026-01-20"
+   ],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "årsredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "26238:assignments:5"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "1:7",
+   "name": "Elsäkerhetsverket",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 21,
+    "name": "Energi"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Elsäkerhetsverket",
+     "amount_tkr": 89285,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Elsäkerhetsverket (ram)",
+       "amount_tkr": 89285
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Elsäkerhetsverket",
+     "text": "Anslagsposten får användas för Elsäkerhetsverkets förvaltningsutgifter.\nElsäkerhetsverket ska kunna använda och samverka med det gemensamma radiokommunikationssystemet Rakel. Elsäkerhetsverket ska betala totalt 57 000 kronor till Myndigheten för civilt försvar som abonnemangsavgift för detta system. Beloppet ska betalas efter fakturering från Myndigheten för civilt försvar.\nAnslagsposten får användas för ersättning till ledamöter i Elsäkerhetsverkets expertråd."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "1:7 Elsäkerhetsverket",
+   "ap": "ap.1",
+   "Anslagskredit": 2678,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 6000,
+  "Räntekontokredit": 3000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 7440
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 7440
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 7440
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 7440
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 7440
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 7440
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 7440
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 7440
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 7440
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 7440
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 7440
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 7445
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:7 Elsäkerhetsverket",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "2 678",
+     "3 %",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "6 000"
+    ],
+    [
+     "Räntekontokredit",
+     "3 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "7 440"
+    ],
+    [
+     "2026-02-25",
+     "7 440"
+    ],
+    [
+     "2026-03-25",
+     "7 440"
+    ],
+    [
+     "2026-04-25",
+     "7 440"
+    ],
+    [
+     "2026-05-25",
+     "7 440"
+    ],
+    [
+     "2026-06-25",
+     "7 440"
+    ],
+    [
+     "2026-07-25",
+     "7 440"
+    ],
+    [
+     "2026-08-25",
+     "7 440"
+    ],
+    [
+     "2026-09-25",
+     "7 440"
+    ],
+    [
+     "2026-10-25",
+     "7 440"
+    ],
+    [
+     "2026-11-25",
+     "7 440"
+    ],
+    [
+     "2026-12-25",
+     "7 445"
+    ],
+    [
+     "Summa",
+     "89 285"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "1:7 ap.1",
+     "Elsäkerhetsverket"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna ej disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "Ink. tit.",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Offentligrättslig verksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Ansökningsavgifter3",
+     "2552",
+     "1 950"
+    ],
+    [
+     "Nätövervakningsavgift enligt förordning (2017:1040) om elberedskapsavgift, nätövervakningsavgift m.m3",
+     "2552",
+     "33 372"
+    ],
+    [
+     "Elsäkerhetsavgift enligt förordning (2017:1040) om elberedskapsavgift, nätövervakningsavgift m.m.1",
+     "2552",
+     "-4 471",
+     "-9 246",
+     "72 050",
+     "89 285",
+     "-17 235",
+     "-30 952"
+    ],
+    [
+     "Elberedskapsavgift enligt förordning (2017:1040) om elberedskapsavgift, nätövervakningsavgift m.m.1",
+     "2552",
+     "-344 254",
+     "-69 426",
+     "559 859",
+     "600 000",
+     "-40 141",
+     "-453 821"
+    ],
+    [
+     "Summa",
+     "-348 725",
+     "-78 672",
+     "667 231",
+     "689 285",
+     "-57 376",
+     "-484 773"
+    ]
+   ]
+  }
+ ],
+ "has_fee_section": true,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 0,
+  "n_org": 0,
+  "n_assignments": 6,
+  "n_deadlines": 1,
+  "deadlines": [
+   "2027-03-15"
+  ],
+  "partners": [
+   "Tullverket"
+  ],
+  "n_appropriations": 1,
+  "appropriations_total_tkr": 89285,
+  "payment_plan_total_tkr": 89285,
+  "md_chars": 8804
+ },
+ "layout": "standard",
+ "warnings": []
+}

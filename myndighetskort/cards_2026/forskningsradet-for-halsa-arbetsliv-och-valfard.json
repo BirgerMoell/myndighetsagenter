@@ -1,0 +1,583 @@
+{
+ "schema_version": 1,
+ "id": 25730,
+ "original_rbid": 25730,
+ "type": "Regleringsbrev",
+ "category": "Myndighet",
+ "date": "2025-12-18",
+ "year": "2026",
+ "name": "Forskningsrådet för hälsa, arbetsliv och välfärd",
+ "slug": "forskningsradet-for-halsa-arbetsliv-och-valfard",
+ "department": "Socialdepartementet",
+ "expenditure_areas": [
+  9
+ ],
+ "registry_numbers": [
+  "S2025/02147 (delvis)"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1"
+  ],
+  "bet": [
+   "2025/26:SoU1"
+  ],
+  "rskr": [
+   "2025/26:114"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "",
+ "goals": [
+  {
+   "title": "Horisont Europa",
+   "group": [],
+   "text": "Forskningsrådet för hälsa, arbetsliv och välfärd ska redovisa vilka insatser som vidtagits för att myndigheten ska bidra till de mål som anges i den nationella strategin för svenskt deltagande i Horisont Europa 2021–2027 (U2021/03975).",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25730:goals:0"
+  },
+  {
+   "title": "Öka förmågan att använda AI och ny teknik genom datadrivet arbete",
+   "group": [],
+   "text": "Forskningsrådet för hälsa, arbetsliv och välfärd ska redovisa i vilken utsträckning myndigheten arbetar datadrivet samt vilka åtgärder som vidtagits för att förbättra myndighetens förmåga att arbeta datadrivet.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "statistik_data",
+    "digitalisering_ai"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25730:goals:1"
+  }
+ ],
+ "org": [],
+ "assignments": [
+  {
+   "title": "Prognoser",
+   "group": [],
+   "text": "Forskningsrådet för hälsa, arbetsliv och välfärd ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Prognoserna lämnas i Statsredovisningssystemet Hermes senast den\n\n2 februari,\n\n22 april,\n\n24 juli,\n\n9 november.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "25730:assignments:0"
+  },
+  {
+   "title": "Prognos för beställningsbemyndiganden",
+   "group": [],
+   "text": "Myndigheten ska redovisa en prognos för de förslag om beställningsbemyndiganden som lämnats i budgetunderlaget och för de åtaganden som ingåtts med stöd av äldre beställningsbemyndiganden. Prognosen ska lämnas senast den 24 juli 2026 via Statsredovisningssystemet i Hermes och utformas enligt närmare information från Ekonomistyrningsverket.",
+   "dates": [
+    "2026-07-24"
+   ],
+   "deadlines": [
+    "2026-07-24"
+   ],
+   "forecast_dates": [],
+   "recipients": [],
+   "partners": [
+    "Ekonomistyrningsverket"
+   ],
+   "channels": [
+    "hermes",
+    "budgetunderlag"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "25730:assignments:1"
+  },
+  {
+   "title": "Intern redovisning och resultatmätning",
+   "group": [],
+   "text": "Forskningsrådet för hälsa, arbetsliv och välfärd ska redovisa vilka åtgärder som genomförts för att öka kvaliteten i myndighetens interna redovisning och resultatmätning. Uppdraget ska redovisas till Regeringskansliet (Socialdepartementet) senast den 1 oktober 2026.",
+   "dates": [
+    "2026-10-01"
+   ],
+   "deadlines": [
+    "2026-10-01"
+   ],
+   "recipients": [
+    "Regeringskansliet (Socialdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "25730:assignments:2"
+  },
+  {
+   "title": "Åldrande i arbetslivet",
+   "group": [],
+   "text": "Forskningsrådet för hälsa, arbetsliv och välfärd ska göra en analys av forskningsbehovet inom området åldrande i arbetslivet. Analysen ska fokusera på frågor kring ålderism, äldre kvinnor och mäns möjligheter att stanna kvar i arbetslivet samt ofrivillig ensamhet som konsekvens av förlorad arbetsgemenskap. En central utgångspunkt i uppdraget är att undersöka skillnaderna mellan kvinnor och män. Analysen ska inbegripa olika vetenskapliga ansatser och perspektiv. Uppdraget ska bidra till planeringen av den förstärkning av det nationella forskningsprogrammet för arbetsliv som regeringen aviserat i forsknings- och innovationspropositionen Forskning och innovation för framtid, nyfikenhet och nytta (prop. 2024/25:60). För uppdraget får Forte under 2026 använda 250 000 kronor som ska redovisas mot det under utgiftsområde 13 Integration och jämställdhet för budgetåret 2026 uppförda anslaget 3:1 Särskilda jämställdhetsåtgärder, anslagspost 12 Jämställdhetsinsatser efter regeringsbeslut. Medlen utbetalas engångsvis efter rekvisition till Kammarkollegiet. Rekvisition ska lämnas senast den 1 december 2026. Medel som inte har förbrukats ska återbetalas till Kammarkollegiet senast den 31 mars 2027. En ekonomisk redovisning ska lämnas till Kammarkollegiet senast den 31 mars 2027. Redovisning av uppdraget ska lämnas till Regeringskansliet (Socialdepartementet, med kopia till Arbetsmarknadsdepartementet) senast den 1 september 2026.",
+   "dates": [
+    "2026-09-01",
+    "2026-12-01",
+    "2027-03-31"
+   ],
+   "deadlines": [
+    "2026-09-01",
+    "2026-12-01",
+    "2027-03-31"
+   ],
+   "recipients": [
+    "Kammarkollegiet",
+    "Regeringskansliet (Socialdepartementet, med kopia till Arbetsmarknadsdepartementet)"
+   ],
+   "partners": [
+    "Kammarkollegiet"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "fördela_medel"
+   ],
+   "anslag_refs": [
+    "3:1"
+   ],
+   "expenditure_area_refs": [
+    13
+   ],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "25730:assignments:3"
+  },
+  {
+   "title": "Pågående uppdrag",
+   "group": [],
+   "text": "| | | |\n| --- | --- | --- |\n| **Uppdrag** | **Uppdrag givet i** | **Avrapporteringstidpunkt** |\n| Nationellt forskningsprogram om arbetsliv | Regleringsbrev för 2025 Regleringsbrev för 2018 | Årligen den 1 mars |\n| Nationellt forskningsprogram om tillämpad välfärdsforskning | Regleringsbrev för 2018 | Årligen den 1 mars |\n| Nationellt forskningsprogram om psykisk hälsa | Regleringsbrev för 2025 Regleringsbrev för 2021 | Årligen den 1 mars |\n| Uppdrag att redovisa resultat inom ramen för regeringens utvecklingsprogram för jämställdhetsintegrering i statliga myndigheter | Regeringsbeslut (A2024/01457) | Senast den 20 januari 2026 |\n| Prevention och folkhälsa | Regleringsbrev för 2025 | Senast den 15 mars 2026 |\n| Kvinnors hälsa och sjukdomar | Regleringsbrev för 2025 | Senast den 15 mars 2026 |\n| Vården och omsorgen för personer med demenssjukdom | Regleringsbrev för 2025 | Senast den 15 mars 2026 |\n| Omställningen mot en god och nära vård | Regleringsbrev för 2025 | Senast den 15 mars 2026 |\n| Nationellt forskningsprogram för socialtjänsten | Regleringsbrev för 2025 | Årligen den 1 mars |\n| Nationellt forskningsprogram om barn och unga | Regleringsbrev för 2025 | Årligen den 1 mars |\n| Uppdrag att samordna, stödja och följa upp genomförandet av den nationella strategin inom området psykisk hälsa och suicidprevention | Regeringsbeslut (S2025/00016) | Redovisas av Folkhälsomyndigheten och Socialstyrelsen senast den 19 december 2028 |\n| Uppdrag om riktlinjer för ansvarsfull internationalisering vid utbildnings-, forsknings- och innovationssamarbeten | Regeringsbeslut (U2025/01518) | Årsredovisning 2025-2026 |\n| Uppdrag att lämna förslag om utveckling av finansieringsinstrumentet nationella forskningsprogram | Regeringsbeslut (U2025/02083) | Redovisas via Formas senast den 1 juni 2026 |\n| Uppdrag att genomföra utvärderingar av nationella forskningsprogram | Regeringsbeslut (U2025/02339) | Redovisas via Formas senast den 31 augusti 2027 |\n| Uppdrag om nationell samverkan och handlingsplan för arbetet mot antimikrobiell resistens | Regeringsbeslut (S2025/01938) | Redovisas av Folkhälsomyndigheten och Statens jordbruksverk senast den 31 december 2030 |\n\n*För regeringsuppdrag som lämnats i ett särskilt regeringsbeslut utgör tabellen endast en upplysning om vilka uppdrag som vid årets början var riktade till myndigheten och vilka tider som då gällde för avrapportering eller liknande.*",
+   "dates": [
+    "2026-01-20",
+    "2026-03-15",
+    "2026-06-01",
+    "2027-08-31",
+    "2028-12-19",
+    "2030-12-31"
+   ],
+   "deadlines": [
+    "2026-01-20",
+    "2026-03-15",
+    "2026-06-01",
+    "2027-08-31",
+    "2028-12-19",
+    "2030-12-31"
+   ],
+   "recipients": [],
+   "partners": [
+    "Folkhälsomyndigheten",
+    "Forskningsrådet för miljö, areella näringar och samhällsbyggande",
+    "Socialstyrelsen",
+    "Statens jordbruksverk"
+   ],
+   "channels": [
+    "årsredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "föreslå",
+    "samordna",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "25730:assignments:4"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "6:1",
+   "name": "Forskningsrådet för hälsa, arbetsliv och välfärd: Förvaltning",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 9,
+    "name": "Hälsovård, sjukvård och social omsorg"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Forskningsrådet för hälsa, arbetsliv och välfärd",
+     "amount_tkr": 59049,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Forskningsrådet för hälsa, arbetsliv och välfärd: Förvaltning (ram)",
+       "amount_tkr": 59049
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Forskningsrådet för hälsa, arbetsliv och välfärd: Förvaltning",
+     "text": "Anslagsposten får användas för Forskningsrådet för hälsa, arbetsliv och välfärds förvaltningsutgifter."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "6:2",
+   "name": "Forskningsrådet för hälsa, arbetsliv och välfärd: Forskning",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 9,
+    "name": "Hälsovård, sjukvård och social omsorg"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Forskningsrådet för hälsa, arbetsliv och välfärd",
+     "amount_tkr": 921503,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Forskningsrådet för hälsa, arbetsliv och välfärd: Forskning (ram)",
+       "amount_tkr": 921503
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Forskningsrådet för hälsa, arbetsliv och välfärd: Forskning",
+     "text": "Anslagsposten får användas för att finansiera olika former av stöd till forskning och internationellt forskningssamarbete, utvärderingar, beredningsarbete, kommunikationsinsatser, konferenser samt vissa resor och seminarier som är kopplade till forskningsstödet.\nForskningsmedel bör så långt som möjligt utbetalas med högst en tolftedel av anslaget före utgången av varje månad i enlighet med rådets beslut.\nMedel får inte användas för stipendier som är avsedda att vara ett alternativ till lön eller annan studiefinansiering för doktorander.\nBidrag till forskningsprojekt vid universitet och högskolor ska omfatta medel för direkta och indirekta kostnader i samma proportioner som beräknats för projektet i sin helhet.\nAnslagsposten ska finansiera nedanstående satsningar i enlighet med vad som presenterades i regeringens propositioner Kunskap i samverkan – för samhällets utmaningar och stärkt konkurrenskraft (prop. 2016/17:50), Forskning, frihet, framtid – kunskap och innovation för Sverige (prop. 2020/21:60) och Forskning och innovation för framtid, nyfikenhet och nytta (prop.2024/25:60), varav minst\n- 80 miljoner kronor till ett nationellt forskningsprogram om arbetslivsforskning,\n- 100 miljoner kronor till ett nationellt forskningsprogram om tillämpad välfärdsforskning inklusive forskarskolor,\n- 120 miljoner kronor till ett nationellt forskningsprogram om psykisk hälsa, varav 25 miljoner kronor till centrumbildningar för återgång i arbete,\n- 30 miljoner kronor till forskning om prevention och folkhälsa,\n- 20 miljoner kronor till forskning om kvinnors hälsa och sjukdomar,\n- 25 miljoner kronor till forskning om insatser för personer med demenssjukdom,\n- 10 miljoner kronor till forskning och utveckling för att stödja omställningen mot en god och nära vård,\n- 20 miljoner kronor till ett nationellt forskningsprogram för socialtjänsten,\n- 20 miljoner kronor till ett nationellt forskningsprogram om barn och unga."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "6:1 Forskningsrådet för hälsa, arbetsliv och välfärd: Förvaltning",
+   "ap": "ap.1",
+   "Anslagskredit": 1771,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "6:2 Forskningsrådet för hälsa, arbetsliv och välfärd: Forskning",
+   "ap": "ap.1",
+   "Anslagskredit": 27645,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 3000,
+  "Räntekontokredit": 2000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 4921
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 4921
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 4921
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 4921
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 4921
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 4921
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 4921
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 4921
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 4921
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 4921
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 4921
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 4918
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "6:1 Forskningsrådet för hälsa, arbetsliv och välfärd: Förvaltning",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "1 771",
+     "3 %",
+     "0"
+    ],
+    [
+     "6:2 Forskningsrådet för hälsa, arbetsliv och välfärd: Forskning",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "27 645",
+     "Inget",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Beställningsbemyndiganden",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Bemyndigande",
+     "Utgifter mot anslag till följd av ekonomiska åtaganden",
+     "",
+     "",
+     ""
+    ],
+    [
+     "2026",
+     "2027",
+     "2028",
+     "2029 -",
+     "Slutår"
+    ],
+    [
+     "6:2 Forskningsrådet för hälsa, arbetsliv och välfärd: Forskning",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "2 500 000",
+     "983 503",
+     "1 086 503",
+     "429 994",
+     "2032"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "3 000"
+    ],
+    [
+     "Räntekontokredit",
+     "2 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "4 921"
+    ],
+    [
+     "2026-02-25",
+     "4 921"
+    ],
+    [
+     "2026-03-25",
+     "4 921"
+    ],
+    [
+     "2026-04-25",
+     "4 921"
+    ],
+    [
+     "2026-05-25",
+     "4 921"
+    ],
+    [
+     "2026-06-25",
+     "4 921"
+    ],
+    [
+     "2026-07-25",
+     "4 921"
+    ],
+    [
+     "2026-08-25",
+     "4 921"
+    ],
+    [
+     "2026-09-25",
+     "4 921"
+    ],
+    [
+     "2026-10-25",
+     "4 921"
+    ],
+    [
+     "2026-11-25",
+     "4 921"
+    ],
+    [
+     "2026-12-25",
+     "4 918"
+    ],
+    [
+     "Summa",
+     "59 049"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "6:1 ap.1",
+     "Forskningsrådet för hälsa, arbetsliv och välfärd: Förvaltning"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [],
+ "has_fee_section": false,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 2,
+  "n_org": 0,
+  "n_assignments": 5,
+  "n_deadlines": 11,
+  "deadlines": [
+   "2026-01-20",
+   "2026-03-15",
+   "2026-06-01",
+   "2026-07-24",
+   "2026-09-01",
+   "2026-10-01",
+   "2026-12-01",
+   "2027-03-31",
+   "2027-08-31",
+   "2028-12-19",
+   "2030-12-31"
+  ],
+  "partners": [
+   "Ekonomistyrningsverket",
+   "Folkhälsomyndigheten",
+   "Forskningsrådet för miljö, areella näringar och samhällsbyggande",
+   "Kammarkollegiet",
+   "Socialstyrelsen",
+   "Statens jordbruksverk"
+  ],
+  "n_appropriations": 2,
+  "appropriations_total_tkr": 980552,
+  "payment_plan_total_tkr": 59049,
+  "md_chars": 12028
+ },
+ "layout": "standard",
+ "warnings": []
+}

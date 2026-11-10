@@ -1,0 +1,518 @@
+{
+ "schema_version": 1,
+ "id": 27453,
+ "original_rbid": 25856,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-06-11",
+ "year": "2026",
+ "name": "Statens beredning för medicinsk och social utvärdering",
+ "slug": "statens-beredning-for-medicinsk-och-social-utvardering",
+ "department": "Socialdepartementet",
+ "expenditure_areas": [
+  9
+ ],
+ "registry_numbers": [
+  "S2026/01247"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1"
+  ],
+  "bet": [
+   "2024/2025:SoU1"
+  ],
+  "rskr": [
+   "2025/26:114"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "",
+ "goals": [
+  {
+   "title": "Det nationella Health Technology Assessment-nätverket",
+   "group": [],
+   "text": "Statens beredning för medicinsk och social utvärdering ska redovisa myndighetens arbete med det nationella Health Technology Assessment (HTA)-nätverket.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27453:goals:0"
+  },
+  {
+   "title": "Den nationella läkemedelsstrategin",
+   "group": [],
+   "text": "Statens beredning för medicinsk och social utvärdering ska redogöra för hur myndigheten har arbetat för att bidra till för myndigheten relevanta fokusområden i den nationella läkemedelsstrategin.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "analysera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27453:goals:1"
+  },
+  {
+   "title": "Öka förmågan att använda AI och ny teknik genom datadrivet arbete",
+   "group": [],
+   "text": "Statens beredning för medicinsk och social utvärdering ska redovisa i vilken utsträckning myndigheten arbetar datadrivet samt vilka åtgärder myndigheten vidtagit för att förbättra sin förmåga att arbeta datadrivet.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "statistik_data",
+    "digitalisering_ai"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27453:goals:2"
+  }
+ ],
+ "org": [],
+ "assignments": [
+  {
+   "title": "Nya uppdrag",
+   "group": [],
+   "text": "*Uppdrag att**sammanställa kunskap om**metoder inom tandvården i syfte att förebygga och identifiera medicinska sjukdomar och ohälsotillstånd*\n\nStatens beredning för medicinsk och social utvärdering ska sammanställa kunskap om metoder inom tandvården för att på ett rutinmässigt sätt förebygga och identifiera medicinska sjukdomar och ohälsotillstånd. I uppdraget ingår att genomföra hälsoekonomiska bedömningar samt att löpande sprida och kommunicera resultaten av arbetet till berörda aktörer på ett målgruppsanpassat sätt. När uppdraget utförs ska Statens beredning för medicinsk och social utvärdering föra dialog med och inhämta kunskap och erfarenheter från berörda myndigheter och andra berörda aktörer, såsom professionsföreningar och regioner. I uppdraget ingår även att sammanställa vetenskapligt underlag för de organisatoriska strukturerna och faktorerna som kan bidra till en stärkt samverkan mellan tandvården, hälso- och sjukvården och socialtjänsten. Statens beredning för medicinsk och social utvärdering ska senast den 31 mars 2027 lämna en slutredovisning av uppdraget till Regeringskansliet (Socialdepartementet). För uppdraget får Statens beredning för medicinsk och social utvärdering under 2026 använda 5 000 000 kronor som ska redovisas mot det under utgiftsområde 9 Hälsovård, sjukvård och social omsorg för budgetåret 2026 uppförda anslaget 1:6 Bidrag till folkhälsa och sjukvård, anslagsposten 19 Metoder inom tandvården för att förebygga och identifiera medicinska sjukdomar och ohälsotillstånd. Medlen betalas ut engångsvis efter rekvisition till Kammarkollegiet senast den 1 december 2026. Medel som inte har använts för avsett ändamål ska återbetalas senast den 31 mars 2027 till Kammarkollegiet. Vid samma tidpunkt ska en ekonomisk redovisning av använda medel lämnas till Kammarkollegiet. Redovisning, rekvisition och återbetalning ska hänvisa till regleringsbrevet för budgetåret 2026 avseende Statens beredning av medicinsk och social utvärdering.\n\n*U\\*\\*ppdrag att ta fram kunskapsunderlag inom området adhd och autismspektrumtillstånd*\n\nStatens beredning för medicinsk och social utvärdering ska ta fram kunskapsunderlag inom området adhd och autismspektrumtillstånd. I uppdraget ingår att genomföra hälsoekonomiska bedömningar och att löpande sprida och kommunicera resultaten av arbetet till berörda aktörer på ett målgruppsanpassat sätt. I uppdraget ingår även att uppmärksamma faktorer såsom kön och socioekonomi. Statens beredning för medicinsk och social utvärdering ska senast den 29 maj 2026 lämna en delredovisning av uppdraget till Regeringskansliet (Socialdepartementet). Statens beredning för medicinsk och social utvärdering ska senast den 29 maj 2027 lämna en slutredovisning av uppdraget till Regeringskansliet (Socialdepartementet). Redovisningarna ska hänvisa till regleringsbrevet för budgetåret 2026 avseende Statens beredning för medicinsk och social utvärdering.\n\n*Ändring av uppdrag att ta fram kunskapssammanställningar m.m. inom området psykisk hälsa och suicidprevention*\n\nUppdraget att ta fram kunskapssammanställningar m.m. inom området psykisk hälsa och suicidprevention ändras på följande sätt. Uppdragstiden förlängs. Statens beredning för medicinsk och social utvärdering ska senast den 31 mars 2026, den 31 mars 2027, den 31 mars 2028 och den 31 mars 2029 lämna en delredovisning av uppdraget till Regeringskansliet (Socialdepartementet). Statens beredning för medicinsk och social utvärdering ska senast den 31 mars 2030 lämna en slutredovisning av uppdraget till Regeringskansliet (Socialdepartementet). Redovisningarna ska hänvisa till regleringsbrevet för budgetåret 2026 avseende Statens beredning för medicinsk och social utvärdering. För uppdraget får Statens beredning för medicinsk och social utvärdering under 2026 använda 16 000 000 kronor som ska redovisas mot det under utgiftsområde 9 Hälsovård, sjukvård och social omsorg för budgetåret 2026 uppförda anslaget 1:8 Bidrag till psykiatri, anslagsposten 3 Till Kammarkollegiets disposition. Medlen betalas ut engångsvis efter rekvisition till Kammarkollegiet senast den 1 december 2026. Medel som inte har använts för avsett ändamål ska återbetalas senast den 31 mars 2027 till Kammarkollegiet. Vid samma tidpunkt ska en ekonomisk redovisning av använda medel lämnas till Kammarkollegiet. Redovisning, rekvisition och återbetalning ska hänvisa till regleringsbrevet för budgetåret 2026 avseende Statens beredning för medicinsk och social utvärdering.\n\n*Kunskapsunderlag inom området kvinnors hälsa*\n\nStatens beredning för medicinsk och social utvärdering ska ta fram kunskapsunderlag inom området kvinnors hälsa. Identifiering av relevanta områden ska ske i samverkan med Socialstyrelsen och andra berörda myndigheter och aktörer inbegripet patient-, brukar- och anhörigorganisationer och kan t.ex. beröra endometrios, klimakteriet och kvinnors sexuella och reproduktiva hälsa. När uppdraget utförs ska bl.a. ett funktionshinders- och jämlikhetsperspektiv tas i beaktande. Statens beredning för medicinsk och social utvärdering ska senast den 30 oktober 2026 och 31 mars 2027 lämna en delredovisning av uppdraget till Regeringskansliet (Socialdepartementet). En slutredovisning ska lämnas till Regeringskansliet (Socialdepartementet) senast den 31 januari 2028. Redovisningarna ska hänvisa till regleringsbrevet för 2026 avseende Statens beredning för medicinsk och social utvärdering. För uppdraget får Statens beredning för medicinsk och social utvärdering under 2026 använda 6 000 000 kronor som ska redovisas mot det under utgiftsområde 9 Hälsovård, sjukvård och social omsorg för budgetåret 2026 uppförda anslaget 1:6 Bidrag till folkhälsa och sjukvård, anslagsposten 33 Förlossningsvård och kvinnors hälsa. Medlen betalas ut engångsvis efter rekvisition till Kammarkollegiet senast den 1 december 2026. Medel som inte har använts för avsett ändamål ska återbetalas senast den 31 mars 2027 till Kammarkollegiet. Vid samma tidpunkt ska en ekonomisk redovisning av använda medel lämnas till Kammarkollegiet. Redovisning, rekvisition och återbetalning ska hänvisa till regleringsbrevet för budgetåret 2026 avseende Statens beredning för medicinsk och social utvärdering.\n\n*Sammanställning av vetenskaplig kunskap om metoder, arbetssätt och insatser i det återfallsförebyggande arbetet med våldsutövare, med fokus på våld i nära relationer och hedersrelaterat våld och förtryck*\n\nStatens beredning för medicinsk och social utvärdering ska göra en sammanställning av vetenskaplig kunskap om metoder, arbetssätt och verkningsfulla insatser i det återfallsförebyggande arbetet för att personer som utövar eller har utövat våld i nära relationer eller hedersrelaterat våld och förtryck ska upphöra med sitt beteende. Statens beredning för medicinsk och social utvärdering ska inhämta kunskap och erfarenheter från Socialstyrelsen inom ramen för Socialstyrelsens uppdrag att utveckla återfallsförebyggande metoder i arbetet mot hedersrelaterat våld och förtryck (se regleringsbrev för budgetåret 2026 avseende Socialstyrelsen [S2025/02147]. Uppdraget ska delredovisas senast den 31 mars 2027 och slutredovisas 15 februari 2028 till Regeringskansliet (Arbetsmarknadsdepartementet med kopia till Socialdepartementet). För uppdraget får Statens beredning för medicinsk och social utvärdering under 2026 använda 1 000 000 kronor som ska redovisas mot det under utgiftsområde 13 Integration och jämställdhet för budgetåret 2026 uppförda anslaget 3:1 Särskilda jämställdhetsåtgärder, anslagsposten 12 Jämställdhetsinsatser efter regeringsbeslut. Medlen betalas ut engångsvis efter rekvisition till Kammarkollegiet senast den 1 december 2026. Medel som inte har använts för avsett ändamål ska återbetalas senast den 31 mars 2027 till Kammarkollegiet. Vid samma tidpunkt ska en ekonomisk redovisning av använda medel lämnas till Kammarkollegiet. Redovisning, rekvisition och återbetalning ska hänvisa till regleringsbrevet för budgetåret 2026 avseende Statens beredning för medicinsk och social utvärdering. Regeringen beräknar att avsätta medel för uppdraget även 2027 under förutsättning att riksdagen anvisat medel för det aktuella anslaget.\n\n*Uppdrag att ta fram kunskapsunderlag om arbetsmiljöns betydelse för uppkomst av cancersjukdomar hos brandmän*\n\nStatens beredning för medicinsk och social utvärdering ska ta fram kunskapsunderlag om arbetsmiljöns betydelse för uppkomsten av cancersjukdomar hos brandmän. Statens beredning för medicinsk och social utvärdering ska senast den 12 december 2026 lämna en redovisning av uppdraget till Regeringskansliet (Socialdepartementet).\n\n\\*Uppdrag att ta fram kunskapsunderlag inom området skadligt bruk,\\**beroende och samsjuklighet*\n\nSBU ska ta fram kunskapsunderlag inom området skadligt bruk,beroende (inklusive spelberoende) och samsjuklighet vidberoendesjukdom och psykisk ohälsa. Kunskapsunderlagen ska bl.a.innefatta studier om effekter av behandling för ADHD medcentralstimulantia vid samtidigt alkohol- eller annat substansberoende.Kunskapsunderlag om effektiv behandling vid skadligt bruk eller beroende av kokain ska också ingå samt även skadereducerande insatser,såsom t.ex. läkemedelsassisterad rehabilitering vid opioidberoende (LARO) och sprututbytesprogram, och hur sådana kansamordnas mellan olika verksamheter och huvudmän. I uppdraget ingårockså att ta fram kunskapsunderlag om insatser för anhöriga ochnärstående, inklusive vårdnadshavare till personer med skadligt bruk ochberoende eller samsjuklighet. SBU ska även sammanställa vetenskapligtunderlag till uppdateringen av Socialstyrelsens nationella riktlinjer förvård och stöd vid missbruk och beroende. Uppdraget kan i lämpliga delargenomföras inom ramen för, eller i nära samverkan med, uppdraget omatt ta fram en myndighetsgemensam nationell plan för en bättreberoendevård och ett stärkt förebyggande arbete (S2025/01284). Underuppdragets genomförande ska SBU vid behov inhämta kunskap ocherfarenhet från Läkemedelsverket och andra berörda aktörer, bådenationellt och internationellt. Vid genomförandet av uppdraget skabarnrätts-, jämställdhets- och funktionshinderperspektivet beaktas.\n\nSBU ska senast den 1 juni 2027 lämna en första delredovisning avuppdraget till Regeringskansliet (Socialdepartementet) och en andradelredovisning ska lämnas senast den 1 december 2028. SBU ska redovisaden del som rör underlag till uppdateringen av Socialstyrelsens nationellariktlinjer för vård och stöd vid missbruk och beroende vid det datumsom de båda myndigheterna kommer överens om. SBU ska senast den 1december 2029 lämna en slutredovisning av uppdraget tillRegeringskansliet (Socialdepartementet). För uppdraget får SBU under 2026 använda 4 000 000kronor som ska redovisas mot det under utgiftsområde 9 Hälsovård,sjukvård och social omsorg för budgetåret 2026 uppförda anslaget 1:8Bidrag till psykiatri, anslagsposten 3 Till Kammarkollegiets disposition.Medlen betalas ut engångsvis efter rekvisition till Kammarkollegietsenast den 1 december 2026. Medel som inte har använts för avsettändamål ska återbetalas senast den 31 mars 2027 till Kammarkollegiet.Vid samma tidpunkt ska en ekonomisk redovisning av använda medellämnas till Kammarkollegiet. Redovisning, rekvisition och återbetalningska hänvisa till regleringsbrevet för budgetåret 2026 avseende SBU.",
+   "dates": [
+    "2026-03-31",
+    "2026-05-29",
+    "2026-10-30",
+    "2026-12-01",
+    "2026-12-12",
+    "2027-03-31",
+    "2027-05-29",
+    "2027-06-01",
+    "2028-01-31",
+    "2028-02-15",
+    "2028-03-31",
+    "2028-12-01",
+    "2029-03-31",
+    "2030-03-31"
+   ],
+   "deadlines": [
+    "2026-03-31",
+    "2026-05-29",
+    "2026-10-30",
+    "2026-12-01",
+    "2026-12-12",
+    "2027-03-31",
+    "2027-05-29",
+    "2027-06-01",
+    "2028-01-31",
+    "2028-12-01",
+    "2030-03-31"
+   ],
+   "recipients": [
+    "Kammarkollegiet",
+    "Regeringskansliet (Arbetsmarknadsdepartementet med kopia till Socialdepartementet)",
+    "Regeringskansliet (Socialdepartementet)"
+   ],
+   "partners": [
+    "Kammarkollegiet",
+    "Läkemedelsverket",
+    "Socialstyrelsen"
+   ],
+   "channels": [
+    "delredovisning",
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna",
+    "fördela_medel",
+    "utveckla",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [
+    "1:6",
+    "1:8",
+    "3:1"
+   ],
+   "expenditure_area_refs": [
+    9,
+    13
+   ],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27453:assignments:0"
+  },
+  {
+   "title": "Återkommande uppdrag",
+   "group": [],
+   "text": "*Prognoser*\n\nStatens beredning för medicinsk och social utvärdering ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Prognoserna lämnas i informationssystemet Hermes senast den\n\n2 februari\\\n2 april\\\n24 juli\\\n9 november.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-02",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos",
+    "analysera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "27453:assignments:1"
+  },
+  {
+   "title": "Tidigare givna, pågående uppdrag",
+   "group": [],
+   "text": "| | | |\n| --- | --- | --- |\n| **Uppdrag** | **Beslut om uppdraget** | **Redovisningstidpunkt** |\n| Uppdrag internationellt nätverk inom social utvärdering | Regeringsbeslut från den 15 augusti 2019 (S2019/03408) | Delredovisas årligen den 31 mars |\n| Kunskapsläget avseende kommunal sjukvård | Regleringsbrev från den 7 juli 2022 (S2022/03243) | Delredovisas årligen den 31 mars och slutredovisas den 1 december 2026 |\n| Uppdrag att förbättra förutsättningarna för fler placeringar i förstärkta familjehem och behandlingsfamiljer | Regeringsbeslut från den 13 april 2023 (S2023/01363) Regeringsbeslut från den 19 december 2024 om förlängd tid för uppdraget | Delredovisas den 26 februari 2026 och slutredovisas den 31 mars 2027 |\n| Uppdrag att ta fram ett nationellt hälsoprogram för barn och unga | Regeringsbeslut från den 10 augusti 2023 (S2023/02379) Regeringsbeslut från den 3 juli 2025 om ändring av uppdraget | Delredovisas av Socialstyrelsen den 31 januari 2026 och 21 augusti 2026. Slutredovisas av Socialstyrelsen den 31 januari 2027 |\n| Uppdrag att ta fram kunskapssammanställningar för att förbättra äldreomsorgen | Regleringsbrev från den 21 december 2023 (S2023/03257) | Slutredovisas den 1 december 2026 |\n| Uppdrag att ta fram förslag till en nationell strategi, handlingsplan och kunskapsunderlag inom allergiområdet | Regeringsbeslut från den 29 februari 2024 (S2024/00482) | Slutredovisas av Socialstyrelsen senast den 5 april 2026 |\n| Uppdrag att genomföra kunskapssammanställningar om insatser inom socialtjänsten för att främja psykisk hälsa och förebygga ohälsa bland barn och unga | Regleringsbrev från den 16 december 2024 (S2024/02156) | Slutredovisas den 31 mars 2028 |\n| Uppdrag att genomföra kartläggningar för att upptäcka sexuell riskutsatthet | Regleringsbrev från den 16 december 2024 (S2024/02156) | Slutredovisas den 31 mars 2027 |\n| Uppdrag att genomföra kunskapssammanställningar för att utvärdera arbetsmiljöns betydelse för uppkomst av psykisk ohälsa | Regleringsbrev från den 16 december 2024 (S2024/02156) | Delredovisas den 11 maj 2026 och slutredovisas den 6 december 2027 |\n| Uppdrag att samordna, stödja och följa upp genomförandet av den nationella strategin inom området psykisk häls och suicidprevention | Regeringsbeslut från den 9 januari 2025 (S2025/00016) | Delredovisas den 19 december 2026 och den 19 december 2027. Slutredovisas den 19 december 2028 |\n| Uppdrag till stöd för socialtjänstens omställning | Regeringsbeslut från den 23 januari 2025 (S2025/00116) | Slutredovisas den 1 mars 2029 |\n| Uppdrag att ta fram kunskapsöversikter om postcovid | Regeringsbeslut från den 30 januari 2025 (S2023/01432) | Slutredovisas den 30 maj 2026 |\n| Uppdrag om att fortsätta samordna det nationella arbetet med att genomföra den nya HTA-förordningen | Regeringsbeslut från den 8 maj 2025 (S2025/00938) | Slutredovisas den 30 oktober 2026 |\n| Uppdrag att förbereda för stöd till utsatta för prostitution och närliggande målgruppen | Regeringsbeslut den 12 juni 2025 (A2025/00637) | Slutredovisas den 1 mars 2029 |\n| Uppdrag att fram en myndighetsgemensam nationell plan för en bättre beroendevård och ett stärkt förebyggande arbete | Regeringsbeslut från den 26 juni 2025 (S2025/01284) | Slutredovisas av Socialstyrelsen och Folkhälsomyndigheten den 1 juni 2026 |\n| Uppdrag att se över kunskapsläget avseende ortorexia nervosa | Regleringsbrev från den 2 oktober 2025 (S2025/01683) | Slutredovisas den 6 mars 2026 |\n| Uppdrag att ta fram kunskapsunderlag avseende fysisk aktivitet | Regleringsbrev från den 2 oktober 2025 (S2025/01683) | Delredovisas den 31 augusti 2026 och slutredovisas den 30 juni 2027 |\n\n*För regeringsuppdrag som lämnats i ett särskilt regeringsbeslut utgör tabellen endast en upplysning om vilka uppdrag som vid årets början var riktade till myndigheten och vilka tider som då gällde för återrapportering eller liknande.*",
+   "dates": [
+    "2019-08-15",
+    "2022-07-07",
+    "2023-04-13",
+    "2023-08-10",
+    "2023-12-21",
+    "2024-02-29",
+    "2024-12-16",
+    "2024-12-19",
+    "2025-01-09",
+    "2025-01-23",
+    "2025-01-30",
+    "2025-05-08",
+    "2025-06-12",
+    "2025-06-26",
+    "2025-07-03",
+    "2025-10-02",
+    "2026-01-31",
+    "2026-02-26",
+    "2026-03-06",
+    "2026-04-05",
+    "2026-05-11",
+    "2026-05-30",
+    "2026-06-01",
+    "2026-08-21",
+    "2026-08-31",
+    "2026-10-30",
+    "2026-12-01",
+    "2026-12-19",
+    "2027-01-31",
+    "2027-03-31",
+    "2027-06-30",
+    "2027-12-06",
+    "2027-12-19",
+    "2028-03-31",
+    "2028-12-19",
+    "2029-03-01"
+   ],
+   "deadlines": [
+    "2026-04-05"
+   ],
+   "recipients": [],
+   "partners": [
+    "Folkhälsomyndigheten",
+    "Socialstyrelsen"
+   ],
+   "channels": [
+    "delredovisning",
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna",
+    "utveckla",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "27453:assignments:2"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "1:2",
+   "name": "Statens beredning för medicinsk och social utvärdering",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 9,
+    "name": "Hälsovård, sjukvård och social omsorg"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Statens beredning för medicinsk och social utvärdering",
+     "amount_tkr": 99354,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Statens beredning för medicinsk och social utvärdering (ram)",
+       "amount_tkr": 99354
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Statens beredning för medicinsk och social utvärdering",
+     "text": "Anslagsposten får användas för SBU:s förvaltningsutgifter."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "1:2 Statens beredning för medicinsk och social utvärdering",
+   "ap": "ap.1",
+   "Anslagskredit": 2980,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 5500,
+  "Räntekontokredit": 5500
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 8280
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 8280
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 8280
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 8280
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 8280
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 8280
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 8280
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 8280
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 8280
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 8280
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 8280
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 8274
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:2 Statens beredning för medicinsk och social utvärdering",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "2 980",
+     "3 %",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "5 500"
+    ],
+    [
+     "Räntekontokredit",
+     "5 500"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "8 280"
+    ],
+    [
+     "2026-02-25",
+     "8 280"
+    ],
+    [
+     "2026-03-25",
+     "8 280"
+    ],
+    [
+     "2026-04-25",
+     "8 280"
+    ],
+    [
+     "2026-05-25",
+     "8 280"
+    ],
+    [
+     "2026-06-25",
+     "8 280"
+    ],
+    [
+     "2026-07-25",
+     "8 280"
+    ],
+    [
+     "2026-08-25",
+     "8 280"
+    ],
+    [
+     "2026-09-25",
+     "8 280"
+    ],
+    [
+     "2026-10-25",
+     "8 280"
+    ],
+    [
+     "2026-11-25",
+     "8 280"
+    ],
+    [
+     "2026-12-25",
+     "8 274"
+    ],
+    [
+     "Summa",
+     "99 354"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "1:2 ap.1",
+     "Statens beredning för medicinsk och social utvärdering"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [],
+ "has_fee_section": false,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 3,
+  "n_org": 0,
+  "n_assignments": 3,
+  "n_deadlines": 12,
+  "deadlines": [
+   "2026-03-31",
+   "2026-04-05",
+   "2026-05-29",
+   "2026-10-30",
+   "2026-12-01",
+   "2026-12-12",
+   "2027-03-31",
+   "2027-05-29",
+   "2027-06-01",
+   "2028-01-31",
+   "2028-12-01",
+   "2030-03-31"
+  ],
+  "partners": [
+   "Folkhälsomyndigheten",
+   "Kammarkollegiet",
+   "Läkemedelsverket",
+   "Socialstyrelsen"
+  ],
+  "n_appropriations": 1,
+  "appropriations_total_tkr": 99354,
+  "payment_plan_total_tkr": 99354,
+  "md_chars": 19487
+ },
+ "layout": "standard",
+ "warnings": []
+}

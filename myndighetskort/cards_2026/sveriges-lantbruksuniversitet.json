@@ -1,0 +1,743 @@
+{
+ "schema_version": 1,
+ "id": 25736,
+ "original_rbid": 25736,
+ "type": "Regleringsbrev",
+ "category": "Myndighet",
+ "date": "2025-12-18",
+ "year": "2026",
+ "name": "Sveriges lantbruksuniversitet",
+ "slug": "sveriges-lantbruksuniversitet",
+ "department": "Landsbygds- och infrastrukturdepartementet",
+ "expenditure_areas": [
+  23
+ ],
+ "registry_numbers": [
+  "LI2025/00421",
+  "LI2025/02156 (delvis)",
+  "LI2025/02206"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1"
+  ],
+  "bet": [
+   "2025/26:MJU2"
+  ],
+  "rskr": [
+   "2025/26:116"
+  ]
+ },
+ "n_attachments_stated": 2,
+ "mission": "De övergripande målen för statliga universitets och högskolors verksamhet anges i högskolelagen (1992:1434).",
+ "goals": [
+  {
+   "title": "Utbildning",
+   "group": [],
+   "text": "Vid SLU ska antalet helårsstudenter under perioden 2025–2027 uppgå till minst 12 600 på grundnivå eller avancerad nivå.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25736:goals:0"
+  },
+  {
+   "title": "Utbildningsutbud",
+   "group": [],
+   "text": "Utbildningsutbudet vid universitet och högskolor ska svara mot studenternas efterfrågan och arbetsmarknadens behov. SLU ska redovisa vilka bedömningar, prioriteringar och behovsanalyser som ligger till grund för beslut om utbildningsutbudet. Redovisningen ska inkludera hur lärosätet möter det omgivande samhällets behov av utbildning. SLU ska särskilt redovisa hur universitetet har utvecklat utbildningsutbudet för att stärka tillgången till utbildning för livslångt lärande och omställning.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "universitet och högskolor"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25736:goals:1"
+  },
+  {
+   "title": "Rekryteringsmål för professorer",
+   "group": [],
+   "text": "Under 2025–2028 ska SLU ha ett mål för könsfördelningen bland nyrekryterade professorer om 51 procent kvinnor. SLU ska redovisa vilka åtgärder som lärosätet avser att vidta för ökad måluppfyllelse 2025–2028 jämfört med föregående period.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25736:goals:2"
+  },
+  {
+   "title": "Veterinärer och djursjukskötare",
+   "group": [],
+   "text": "SLU ska redovisa hur universitetet utökar antalet utbildningsplatser för veterinärer och djursjukskötare. SLU ska även redovisa antalet utländska veterinärer som har fått tilläggsutbildning efter avslutad utländsk utbildning.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25736:goals:3"
+  },
+  {
+   "title": "Viss särskild redovisning",
+   "group": [],
+   "text": "SLU ska redovisa kostnader och intäkter fördelade på områdena utbildning på grundnivå och avancerad nivå, forskning och utbildning på forskarnivå samt fortlöpande miljöanalys. Intäkterna ska fördelas på anslag, avgifter respektive externa bidrag. Kostnader och totala intäkter för uppdragsutbildning, uppdragsforskning samt uppdrag inom fortlöpande miljöanalys ska särredovisas.\n\nSLU ska vidare redovisa\n\n– väsentliga uppgifter enligt*bilaga 1*,\n\n– arbetet med verksamhet som kan betraktas som institutsuppgifter samt hur stor del av anslaget som har använts för dessa områden,\n\n– myndighetskapitalet och dess förändringar,\n\n– ekonomiska eller andra för SLU:s verksamhet viktiga konsekvenser som uppstått eller väntas uppstå exempelvis på grund av att SLU förvaltar aktier eller andelar i intresseföretag och dotterföretag samt stiftelser, och\n\n– huvudsakliga externa finansiärer samt omfattningen av dessas finansiering.\n\nSLU ska redovisa antal helårsstudenter inom utbildning på grundnivå och avancerad nivå samt antal studenter på forskarnivå. Redovisningen ska ske uppdelat på utbildning på grundnivå och avancerad nivå inom utbildningsuppdraget.\n\nSLU ska redovisa den studieavgiftsfinansierade verksamhetens omfattning. Redovisningen ska även innehålla en redogörelse för den studieavgiftsfinansierade verksamhetens eventuella påverkan på SLU:s övriga verksamhet.\n\nSLU sska redovisa antalet tredjelandsstudenter som har deltagit i utbildning inom ett utbytesavtal och de eventuella förändringar som har skett i denna verksamhet. SLU ska även redovisa antalet avgiftsskyldiga studenter som har antagits genom separat antagning samt hur den studieavgiftsfinansierade verksamheten har påverkats av denna.\n\nSLU får hos Stockholms universitet ansöka om bidrag för särskilt pedagogiskt stöd, inklusive teckenspråkstolkning, för studenter med funktionshinder i studiesituationen för de kostnader som överstiger 0,3 procent av anslaget eller bidraget för utbildning på grundnivå och avancerad nivå. Dessa kostnader får, efter att ansökan beviljats, delvis täckas av de medel som disponeras av Stockholms universitet som ett särskilt åtagande som ska finansieras av medel under anslaget 2:65*Särskilda medel till universitet och högskolor*inom utgiftsområde 16 Utbildning och universitetsforskning\\*.\\*Kostnaderna ska redovisas.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [
+    "universitet och högskolor"
+   ],
+   "partners": [
+    "Stockholms universitet",
+    "universitet och högskolor"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "fördela_medel"
+   ],
+   "anslag_refs": [
+    "2:65"
+   ],
+   "expenditure_area_refs": [
+    16
+   ],
+   "sfs_refs": [],
+   "sub_questions": [
+    "väsentliga uppgifter enligt*bilaga 1*,",
+    "arbetet med verksamhet som kan betraktas som institutsuppgifter samt hur stor del av anslaget som har använts för dessa områden,",
+    "myndighetskapitalet och dess förändringar,",
+    "ekonomiska eller andra för SLU:s verksamhet viktiga konsekvenser som uppstått eller väntas uppstå exempelvis på grund av att SLU förvaltar aktier eller andelar i intresseföretag och dotterföretag samt stiftelser, och",
+    "huvudsakliga externa finansiärer samt omfattningen av dessas finansiering."
+   ],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25736:goals:4"
+  },
+  {
+   "title": "Antimikrobiell resistens",
+   "group": [],
+   "text": "SLU ska redovisa hur universitetet, inom sitt ansvarsområde, har bidragit till att genomföra Sveriges strategi mot antimikrobiell resistens, (AMR), (S2025/01940).",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25736:goals:5"
+  },
+  {
+   "title": "Avelsarbete på fisk i Kälarne",
+   "group": [],
+   "text": "SLU ska redovisa universitetets arbete med att säkerställa och utveckla avelsarbetet på fisk i Kälarne.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25736:goals:6"
+  },
+  {
+   "title": "Blåfenad tonfisk",
+   "group": [],
+   "text": "SLU ska redovisa hur forskning som bedrivs kopplat till blåfenad tonfisk bidrar till att stärka kunskapen om artens förekomst i svenska marina ekosystem. Redovisningen ska även innehålla forskningsinsatsernas totala kostnader.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25736:goals:7"
+  },
+  {
+   "title": "Djurskydd",
+   "group": [],
+   "text": "SLU ska redovisa arbetet med Nationellt centrum för djurvälfärd, SCAW, och det vetenskapliga rådet för djurskydd.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25736:goals:8"
+  },
+  {
+   "title": "Inrapportering av artdata",
+   "group": [],
+   "text": "SLU ska redovisa tillämpade metoder och rutiner för att stimulera inrapportering till Artportalen samt för att säkerställa att fynduppgifter håller hög kvalitet, är representativa och tillförlitliga. Redovisningen ska även omfatta insatser för att begränsa felkällor, främja kunskapsspridning och stärka användbarheten utav artdata.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25736:goals:9"
+  },
+  {
+   "title": "Strategisk hantering av immateriella tillgångar",
+   "group": [],
+   "text": "SLU ska redovisa de processer, strukturer och arbetssätt som säkerställer en strategisk hantering av immateriella tillgångar för att säkra skydd och kommersiella värde i enlighet med regeringens proposition Forskning och innovation för framtid, nyfikenhet och nytta (prop. 2024/25:60).",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25736:goals:10"
+  },
+  {
+   "title": "Nationella genbanken",
+   "group": [],
+   "text": "SLU ska redovisa hur utvecklingen av den nationella genbanken för växtgenetiska resurser har bidragit till att uppfylla strategin för programmet för odlad mångfald. SLU ska även redovisa hur universitetet tillvaratagit den kompetens som byggts upp i den ordinarie verksamheten.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25736:goals:11"
+  },
+  {
+   "title": "Naturvetenskapligt basår i Umeå",
+   "group": [],
+   "text": "SLU ska redovisa arbetet med satsningen på ett naturvetenskapligt basår i norra Sverige i syfte att öka rekryteringen till universitetets utbildningar.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25736:goals:12"
+  },
+  {
+   "title": "Påbyggnadsutbildning om livsmedelsförsörjning och livsmedelsberedskap",
+   "group": [],
+   "text": "SLU ska redovisa arbetet med satsningen på en påbyggnadsutbildning om livsmedelsförsörjning och livsmedelsberedskap för yrkesverksamma.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25736:goals:13"
+  },
+  {
+   "title": "Utvecklat utbildningsutbud avseende AI",
+   "group": [],
+   "text": "SLU ska redovisa hur universitetet arbetar med att analysera behov av att utveckla utbildningsutbudet avseende artificiell intelligens (AI) samt insatser för att integrera AI-inslag i relevanta utbildningar.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla",
+    "digitalisering_ai"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25736:goals:14"
+  }
+ ],
+ "org": [],
+ "assignments": [
+  {
+   "title": "Pågående uppdrag",
+   "group": [],
+   "text": "I*bilaga 2*redovisas SLU:s pågående uppdrag. För regeringsuppdrag som lämnats i ett särskilt regeringsbeslut utgör uppräkningen i bilagan endast en upplysning om vilka uppdrag som vid årets början var riktade till myndigheten och vilka tider som då gällde för återrapportering eller liknande.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "25736:assignments:0"
+  },
+  {
+   "title": "Referensnivån för skog för åtagandeperioden 2021–2025",
+   "group": [],
+   "text": "SLU ska genomföra analyser och förbereda tekniska korrigeringar av referensnivån för skog för perioden 2021–2025 i enlighet med artikel 8.11 i Europaparlamentets och rådets förordning (EU) 2018/841 av den 30 maj 2018 om inbegripande av utsläpp och upptag av växthusgaser från markanvändning, förändrad markanvändning och skogsbruk i ramen för klimat- och energipolitiken fram till 2030 och om ändring av förordning (EU) nr 525/2013 och beslut nr 529/2013/EU (LULUCF-förordningen). Uppdraget avser efterlevnadsprocessen för första åtagandeperioden som inleds i mars 2027. SLU ska när uppdraget utförs inhämta synpunkter från Skogsstyrelsen och Naturvårdsverket. SLU ska senast den 15 januari 2027 lämna en redovisning av uppdraget till Regeringskansliet (Klimat- och näringslivsdepartementet).",
+   "dates": [
+    "2018-05-30",
+    "2027-01-15"
+   ],
+   "deadlines": [
+    "2027-01-15"
+   ],
+   "recipients": [
+    "Regeringskansliet (Klimat- och näringslivsdepartementet)"
+   ],
+   "partners": [
+    "Naturvårdsverket",
+    "Skogsstyrelsen"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna",
+    "utveckla",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "25736:assignments:1"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "1:22",
+   "name": "Sveriges lantbruksuniversitet",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 23,
+    "name": "Areella näringar, landsbygd och livsmedel"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Sveriges lantbruksuniversitet",
+     "amount_tkr": 2415987,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Sveriges lantbruksuniversitet (ram)",
+       "amount_tkr": 2407773
+      },
+      {
+       "ap": "3",
+       "name": "Analysverksamhet vid Sveriges lantbruksuniversitet (ram)",
+       "amount_tkr": 8214
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Sveriges lantbruksuniversitet",
+     "text": "1.Anslaget får användas för utgifter för högskoleutbildning på grundnivå och avancerad nivå samt för fortlöpande miljöanalys. Anslaget får även användas för behörighetsgivande och högskoleintroducerande utbildning.\n**2. Av anslaget ska SLU använda minst 1 044 795 428 kronor för forskning och utbildning på forskarnivå varav 32 011 845 kronor ska avse det strategiska forskningsområdet Hållbart nyttjande av naturresurser.**\n**3. Stipendier, som är avsedda att vara ett alternativ till lön eller annan form av studiefinansiering för doktorander, får inte finansieras med medel från statsbudgeten. Med statsbudgeten avses såväl anslag för forskning och utbildning på forskarnivå som andra statliga medel som fördelas via en statlig myndighet.**\n**4. SLU får köpa kurser av svenska statliga universitet och högskolor och enskilda utbildningsanordnare med relevant examenstillstånd (köpt beställd utbildning) eller av utländska lärosäten inom Europeiska ekonomiska samarbetsområdet (EES). Sådana kurser får endast köpas för studenter som antagits till utbildning hos SLU. Samtliga genomförda prestationer i sådana kurser ska registreras av SLU i studieregistret. Sådana kurser ska av det säljande statliga universitetet eller högskolan inte klassificeras som uppdragsutbildning.**\n**5. Av anslaget ska minst 83 200 000 kronor användas till den verksamhet som bedrivs vid Artdatabanken, däribland Artportalen. Av beloppet ska minst 70 000 000 kronor användas för verksamhet med anknytning till Svenska Artprojektet.**\n**6. Av anslaget ska minst 35 000 000 kronor användas för kostnader i samband med förvaltningen av undersöknings- och forskningsfartyget Svea.**\n**7. Av anslaget ska minst 45 000 000 kronor användas för Grogrund, kompetenscentret för växtförädling.**\n**8. Av anslaget ska SLU utbetala 2 422 000 kronor till Gammelkroppa Skogsskola för 25 årsstudieplatser. Redovisning av verksamheten och kostnaderna för denna ska göras till SLU. Redovisningen ska bifogas årsredovisningen.**\n**9. Av anslaget ska efter rekvisition 5 620 000 kronor utbetalas till Nordiskt Genresurscenter för hyreskostnader.**\n**10. Av anslaget får högst 3 674 000 kronor utbetalas till annan utbildningsanordnare för hovslagarutbildning omfattande minst 35 utbildningsplatser per år. Redovisning av verksamheten och kostnaderna för denna ska göras till SLU. Redovisningen ska bifogas årsredovisningen.**\n**11. Av anslaget ska högst 18 845 000 kronor per år bidra till finansiering av utbildning anordnad i samverkan med Hästnäringens Nationella Stiftelse.**\n**12. Av anslaget ska högst 250 000 kronor användas till utgivningen av den vetenskapliga tidskriften Rangifer.**"
+    },
+    {
+     "ap": "3",
+     "name": "Analysverksamhet vid Sveriges lantbruksuniversitet",
+     "text": "Medel ska användas för arbete med kvalificerade samhällsekonomiska analyser inom livsmedels-, jordbruks-, fiskeri- och vattenbruksområdet samt landsbygdsutveckling. Medel ska även användas för förvaltning och utveckling av analysmodeller."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "1",
+     "max": 3674000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "1",
+     "max": 18845000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "1",
+     "max": 250000,
+     "unit": "kronor"
+    }
+   ]
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "1:22 Sveriges lantbruksuniversitet",
+   "ap": "ap.1",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:22 Sveriges lantbruksuniversitet",
+   "ap": "ap.3",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 2000000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 201333
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 201333
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 201333
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 201333
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 201333
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 201333
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 201333
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 201333
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 201333
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 201333
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 201333
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 201324
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:22 Sveriges lantbruksuniversitet",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "0",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.3",
+     "0",
+     "3 %",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "2 000 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "201 333"
+    ],
+    [
+     "2026-02-25",
+     "201 333"
+    ],
+    [
+     "2026-03-25",
+     "201 333"
+    ],
+    [
+     "2026-04-25",
+     "201 333"
+    ],
+    [
+     "2026-05-25",
+     "201 333"
+    ],
+    [
+     "2026-06-25",
+     "201 333"
+    ],
+    [
+     "2026-07-25",
+     "201 333"
+    ],
+    [
+     "2026-08-25",
+     "201 333"
+    ],
+    [
+     "2026-09-25",
+     "201 333"
+    ],
+    [
+     "2026-10-25",
+     "201 333"
+    ],
+    [
+     "2026-11-25",
+     "201 333"
+    ],
+    [
+     "2026-12-25",
+     "201 324"
+    ],
+    [
+     "Summa",
+     "2 415 987"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "1:22 ap.1",
+     "Sveriges lantbruksuniversitet"
+    ],
+    [
+     "1:22 ap.3",
+     "Analysverksamhet vid Sveriges lantbruksuniversitet"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Verksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Uppdragsverksamhet2",
+     "6 274",
+     "0",
+     "910 000",
+     "910 000",
+     "0",
+     "6 274"
+    ],
+    [
+     "Tjänsteexport2",
+     "14 143",
+     "0",
+     "90 000",
+     "90 000",
+     "0",
+     "14 143"
+    ],
+    [
+     "Summa",
+     "20 417",
+     "0",
+     "1 000 000",
+     "1 000 000",
+     "0",
+     "20 417"
+    ]
+   ]
+  }
+ ],
+ "has_fee_section": true,
+ "exceptions_text": "Med undantag från anslagsförordningen (2011:223) ska SLU avräkna anslaget med en tolftedel av anslagsbeloppet per månad i samband med att medel utbetalas till SLU:s räntekonto i Riksgäldskontoret.\n\nSLU har rätt att ta ut ersättning för sådana varor och tjänster som avses i 4 § första stycket avgiftsförordningen utan den begränsning som föreskrivs i andra stycket samma paragraf.\n\nSLU medges undantag från bestämmelsen 6 kap. 2 § förordningen (2000:605) om årsredovisning och budgetunderlag om att i årsredovisningen upprätta och till regeringen lämna en finansieringsanalys.\n\nSLU medges undantag från Ekonomistyrningsverkets föreskrift till 7 kap. 1 § förordningen om årsredovisning och budgetunderlag om att i not till Årets kapitalförändring respektive Förändring av myndighetskapitalet särredovisa över- eller underskott i den bidragsfinansierade verksamheten.\n\nSLU får ingå som medlem i för verksamheten relevanta ekonomiska föreningar.\n\nMed undantag från 2 kap. 1 § kapitalförsörjningsförordningen (2011:210) får en anläggningstillgång helt eller delvis finansieras med bidrag från statliga bidragsgivare under förutsättning att bidraget tilldelats för ändamålet.\n\nMed undantag från 8 kap. 8 § budgetlagen (2011:203) får del av överskottet från försäljningen av fastigheten Ultuna 2:1 investeras i en anläggning för djurstallar till ett värde av högst 30 000 000 kronor.\n\n**ÖVRIGA BESTÄMMELSER**\n\n**Bemyndigande**\n\nSLU bemyndigas att besluta om medlemskap i Agrinaturas ekonomiska förening (EEIG) och att besluta om en årlig medlemsavgift på högst 140 000 kronor under 2026–2028. Utgiften ska belasta anslag 1:22*Sveriges lantbruksuniversitet*.\n\n**Undantag från förordning**\n\nSLU medges under 2026 undantag från bestämmelsen i 2 § i förordningen (2015:665) om statliga myndigheters användning av Statens servicecenters tjänster.\n\nPå regeringens vägnar\n\nAndreas Carlson\n\nLinda Persson\n\n**Kopia till**\n\nStatsrådsberedningen, internrevisionen\\\nJustitiedepartementet/MIG\\\nSocialdepartementet/HC\\\nFinansdepartementet/BA, ESA och SFÖ\\\nUtbildningsdepartementet/F, GV och UH\\\nKlimat- och näringslivsdepartementet/CKS och Nm\\\nKulturdepartementet/KL\\\nArbetsmarknadsdepartementet/JÄM\\\nFörvaltningsavdelningen, RK Ekonomi och Affärer\\\nRiksdagen, miljö- och jordbruksutskottet\\\nForskningsrådet för miljö, areella näringar och samhällsbyggande\\\nHavs- och vattenmyndigheten\\\nJämställdhetsmyndigheten\\\nMigrationsverket\\\nRiksgäldskontoret\\\nSametinget\\\nStatens jordbruksverk\\\nUniversitetskanslersämbetet\\\nGammelkroppa Skogsskola\\\nHästnäringens Nationella Stiftelse\\\nNordiskt Genresurscenter",
+ "summary": {
+  "n_goals": 15,
+  "n_org": 0,
+  "n_assignments": 2,
+  "n_deadlines": 1,
+  "deadlines": [
+   "2027-01-15"
+  ],
+  "partners": [
+   "Naturvårdsverket",
+   "Skogsstyrelsen",
+   "Stockholms universitet",
+   "universitet och högskolor"
+  ],
+  "n_appropriations": 1,
+  "appropriations_total_tkr": 2415987,
+  "payment_plan_total_tkr": 2415987,
+  "md_chars": 19186
+ },
+ "layout": "standard",
+ "warnings": []
+}

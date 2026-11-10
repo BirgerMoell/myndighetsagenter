@@ -1,0 +1,622 @@
+{
+ "schema_version": 1,
+ "id": 26441,
+ "original_rbid": 26025,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-06-18",
+ "year": "2026",
+ "name": "Statens historiska museer",
+ "slug": "statens-historiska-museer",
+ "department": "Kulturdepartementet",
+ "expenditure_areas": [
+  17
+ ],
+ "registry_numbers": [
+  "Ku2026/00572 (delvis)",
+  "Ku2026/00600"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1",
+   "2025/26:99"
+  ],
+  "bet": [
+   "2025/26:FiU21",
+   "2025/26:KrU1"
+  ],
+  "rskr": [
+   "2025/26:351",
+   "2025/26:83"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "",
+ "goals": [
+  {
+   "title": "Publik och tillgänglighet",
+   "group": [],
+   "text": "Statens historiska museer ska redovisa\n\n- den verksamhet som svarar mot den unga publikens behov samt insatser för att öka den unga publiken\n- de åtgärder som vidtagits för att öka tillgängligheten för personer med funktionsnedsättning\n- förändringar i besöksutvecklingen i förhållande till tidigare år.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "den verksamhet som svarar mot den unga publikens behov samt insatser för att öka den unga publiken",
+    "de åtgärder som vidtagits för att öka tillgängligheten för personer med funktionsnedsättning",
+    "förändringar i besöksutvecklingen i förhållande till tidigare år."
+   ],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26441:goals:0"
+  },
+  {
+   "title": "Bevara och tillgängliggöra kulturarvet genom digitisering och digitalisering",
+   "group": [],
+   "text": "Statens historiska museer ska redovisa resultatet av arbetet med digitisering och digitalisering av myndighetens samlingar. Av redovisningen ska följande framgå\n\n• samlingarnas storlek, inklusive årets tillväxt\n\n• hur stort antal i och andel av samlingarna som är digital\n\n• hur stor andel av samlingarna som är digitalt tillgänglig\n\n• vilka delar av resultatet som härrör från den medelsförstärkning som myndigheten har tilldelats\n\n• vilka kostnader som myndigheten har haft för arbetet med digitisering och digitalisering.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "digitalisering_ai"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "samlingarnas storlek, inklusive årets tillväxt",
+    "hur stort antal i och andel av samlingarna som är digital",
+    "hur stor andel av samlingarna som är digitalt tillgänglig",
+    "vilka delar av resultatet som härrör från den medelsförstärkning som myndigheten har tilldelats",
+    "vilka kostnader som myndigheten har haft för arbetet med digitisering och digitalisering."
+   ],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26441:goals:1"
+  },
+  {
+   "title": "Breddad finansiering",
+   "group": [],
+   "text": "Statens historiska museer ska redovisa hur myndigheten arbetar för att bredda finansieringen av verksamheten.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26441:goals:2"
+  },
+  {
+   "title": "Avgiftsbelagd verksamhet",
+   "group": [],
+   "text": "Statens historiska museer ska redovisa hur arbetet med att åstadkomma ekonomisk balans i de avgiftsbelagda verksamheterna Försäljning av varor och Arkeologisk uppdragsverksamhet fortskrider.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26441:goals:3"
+  },
+  {
+   "title": "Arkeologisk uppdragsverksamhet",
+   "group": [],
+   "text": "Statens historiska museer ska särredovisa den arkeologiska uppdragsverksamheten i resultatredovisningen.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26441:goals:4"
+  },
+  {
+   "title": "Lokalkostnader",
+   "group": [],
+   "text": "Statens historiska museer ska specificera myndighetens totala lokalkostnader för 2026 enligt följande:\n\n- hyra, varav kostnadshyra\n- el och uppvärmning\n- reparationer och underhåll\n- övriga driftskostnader.\n\nOm myndigheten har fler än en hyresvärd ska kostnaderna fördelas per hyresvärd.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "fördela_medel"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "hyra, varav kostnadshyra",
+    "el och uppvärmning",
+    "reparationer och underhåll",
+    "övriga driftskostnader."
+   ],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26441:goals:5"
+  },
+  {
+   "title": "Sponsringsintäkter",
+   "group": [],
+   "text": "Statens historiska museer ska särredovisa eventuella sponsringsintäkter i not till resultaträkningen.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26441:goals:6"
+  },
+  {
+   "title": "Bidragsintäkter",
+   "group": [],
+   "text": "Statens historiska museer ska särredovisa fördelningen av eventuella bidragsintäkter mellan statliga bidrag, icke-statliga bidrag respektive bidrag från mellanstatliga organ i not till resultaträkningen.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26441:goals:7"
+  }
+ ],
+ "org": [],
+ "assignments": [
+  {
+   "title": "AI och datadrivet arbete",
+   "group": [],
+   "text": "Statens historiska museer ska redovisa i vilken utsträckning myndigheten arbetar datadrivet och hur AI används i verksamheten. Myndigheten ska även redogöra för på vilket sätt arbetet med data och AI har bidragit till att utveckla verksamheten och höja kvaliteten i utförandet av myndighetens uppgifter och uppdrag. Av redovisningen ska framgå hur myndigheten beaktar risker och arbetar för att användning av data och AI sker på ett etiskt, säkert och icke-diskriminerande sätt. Eventuella hinder eller framgångsfaktorer för datadrivet arbete och användande av AI ska även redovisas.\n\nUppdraget ska redovisas till Regeringskansliet (Kulturdepartementet) senast den 4 maj 2026.",
+   "dates": [
+    "2026-05-04"
+   ],
+   "deadlines": [
+    "2026-05-04"
+   ],
+   "recipients": [
+    "Regeringskansliet (Kulturdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla",
+    "statistik_data",
+    "digitalisering_ai"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26441:assignments:0"
+  },
+  {
+   "title": "Kiruna - Europeisk kulturhuvudstad 2029",
+   "group": [],
+   "text": "Statens historiska museer ska i dialog med Kiruna kommun se över möjligheterna att medverka inför och under evenemanget Europeisk kulturhuvudstad 2029.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "samordna",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26441:assignments:1"
+  },
+  {
+   "title": "Prognoser 2026-2029",
+   "group": [],
+   "text": "Myndigheten ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Av kommentarerna ska det framgå vilka antaganden som använts i prognosen samt eventuella osäkerhetsfaktorer och hur detta påverkat prognosen. Vid väsentliga prognosavvikelser ska myndigheten även ange vilka åtgärder som vidtagits eller planeras att vidtas för att verksamheten ska bedrivas inom ramen för tilldelade medel. Prognoserna lämnas i informationssystemet Hermes senast den\n\n- 2 februari\n- 24 juli\n- 9 november.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26441:assignments:2"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "7:1",
+   "name": "Centrala museer: Myndigheter",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 17,
+    "name": "Kultur, medier, trossamfund och fritid"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Statens historiska museer",
+     "amount_tkr": 245006,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Statens historiska museer (ram)",
+       "amount_tkr": 245006
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Statens historiska museer",
+     "text": "Anslagsposten får användas för Statens historiska museers förvaltningsutgifter.\nTillskottet sker för att en intäktsjusterad hyressättning ska kunna gälla för Historiska museets huvudbyggnad från och med den 1 juli 2026. (Intäktsjusteradhyra innebär att hyran sätts på en marknadsmässig nivå vid inträdet ihyresmodellen. Hyran justeras sedan enligt den årliga pris- och löneomräkningen för lokalkostnader.)"
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "7:1 Centrala museer: Myndigheter",
+   "ap": "ap.1",
+   "Anslagskredit": 7065,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 80000,
+  "Räntekontokredit": 80000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 19626
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 19626
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 19626
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 19626
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 19626
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 20982
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 20982
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 20982
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 20982
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 20982
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 20982
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 20984
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "7:1 Centrala museer: Myndigheter",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "7 065",
+     "3 %",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "80 000"
+    ],
+    [
+     "Räntekontokredit",
+     "80 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "19 626"
+    ],
+    [
+     "2026-02-25",
+     "19 626"
+    ],
+    [
+     "2026-03-25",
+     "19 626"
+    ],
+    [
+     "2026-04-25",
+     "19 626"
+    ],
+    [
+     "2026-05-25",
+     "19 626"
+    ],
+    [
+     "2026-06-25",
+     "20 982"
+    ],
+    [
+     "2026-07-25",
+     "20 982"
+    ],
+    [
+     "2026-08-25",
+     "20 982"
+    ],
+    [
+     "2026-09-25",
+     "20 982"
+    ],
+    [
+     "2026-10-25",
+     "20 982"
+    ],
+    [
+     "2026-11-25",
+     "20 982"
+    ],
+    [
+     "2026-12-25",
+     "20 984"
+    ],
+    [
+     "Summa",
+     "245 006"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "7:1 ap.1",
+     "Statens historiska museer"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Verksamhet med full kostnadstäckning",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Försäljning av varor1",
+     "-5 479",
+     "5 779",
+     "3 500",
+     "3 100",
+     "400",
+     "700"
+    ],
+    [
+     "Undersökningar, utredningar och andra tjänster1",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0"
+    ],
+    [
+     "Tjänsteexport1",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0"
+    ],
+    [
+     "Arkeologisk uppdragsverksamhet1",
+     "-27 290",
+     "-5 400",
+     "150 000",
+     "145 000",
+     "5 000",
+     "-27 690"
+    ],
+    [
+     "Summa",
+     "-32 769",
+     "379",
+     "153 500",
+     "148 100",
+     "5 400",
+     "-26 990"
+    ],
+    [
+     "Övrig avgiftsbelagd verksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Entréer och visningar3",
+     "38 600"
+    ],
+    [
+     "Övrigt3",
+     "5 700"
+    ],
+    [
+     "Summa",
+     "0",
+     "0",
+     "44 300",
+     "0",
+     "0",
+     "0"
+    ]
+   ]
+  }
+ ],
+ "has_fee_section": true,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 8,
+  "n_org": 0,
+  "n_assignments": 3,
+  "n_deadlines": 1,
+  "deadlines": [
+   "2026-05-04"
+  ],
+  "partners": [],
+  "n_appropriations": 1,
+  "appropriations_total_tkr": 245006,
+  "payment_plan_total_tkr": 245006,
+  "md_chars": 8354
+ },
+ "layout": "standard",
+ "warnings": []
+}

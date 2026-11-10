@@ -1,0 +1,1720 @@
+{
+ "schema_version": 1,
+ "id": 27523,
+ "original_rbid": 25785,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-08-27",
+ "year": "2026",
+ "name": "Statens kulturråd",
+ "slug": "statens-kulturrad",
+ "department": "Kulturdepartementet",
+ "expenditure_areas": [
+  17
+ ],
+ "registry_numbers": [
+  "Ku2026/00430",
+  "Ku2026/00683"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1"
+  ],
+  "bet": [
+   "2025/26:KrU1"
+  ],
+  "rskr": [
+   "2025/26:83"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "",
+ "goals": [
+  {
+   "title": "AI i verksamheten",
+   "group": [],
+   "text": "Statens kulturråd ska redovisa hur AI används i verksamheten samt på vilket sätt AI bidrar till att utveckla och höja kvaliteten vid genomförandet av myndighetens uppgifter och uppdrag. Det ska vidare framgå hur myndigheten hanterar risker med AI och hur arbetet bedrivs för att användningen av AI ska ske på ett säkert, etiskt och icke-diskriminerande sätt. Eventuella hinder och framgångsfaktorer ska också redovisas.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla",
+    "digitalisering_ai"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27523:goals:0"
+  },
+  {
+   "title": "Information och kommunikation",
+   "group": [],
+   "text": "Statens kulturråd ska redovisa kostnaderna för myndighetens externa informations- och kommunikationsverksamhet. Statens kulturråd ska också redovisa de motiv som ligger till grund för myndighetens val av externa kommunikationsinsatser och hur insatserna bidragit till genomförandet av myndighetens kärnuppgifter och uppdrag. Vidare ska myndigheten redovisa hur den externa informations- och kommunikationsverksamheten följs upp.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27523:goals:1"
+  },
+  {
+   "title": "Konstnärlig frihet",
+   "group": [],
+   "text": "Statens kulturråd ska redovisa vilka åtgärder som myndigheten vidtagit för att säkra den konstnärliga friheten inom ramen för bidragsgivningen och hur myndigheten i övrigt arbetar för att värna den konstnärliga friheten i enlighet med de nationella kulturpolitiska målen.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27523:goals:2"
+  },
+  {
+   "title": "Kulturella och kreativa branscher",
+   "group": [],
+   "text": "Statens kulturråd ska redovisa hur myndigheten bidrar till genomförandet av regeringens Strategi för företag i kulturella och kreativa branscher (skr. 2023/24:111). Statens kulturråd ska särskilt redovisa hur myndigheten arbetar med att främja förutsättningarna för kulturella och kreativa branscher, i hela landet och internationellt, samt göra en bedömning av resultatet av dessa insatser.\n\nStatens kulturråd ska även redovisa hur myndigheten samverkar med andra myndigheter och främjandeaktörer för att bidra till genomförandet av strategin för Sveriges utrikeshandel, investeringar och globala konkurrenskraft.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna",
+    "utveckla",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27523:goals:3"
+  },
+  {
+   "title": "Kulturlivets internationalisering",
+   "group": [],
+   "text": "Statens kulturråd ska redovisa vilka insatser myndigheten vidtagit för att stärka kulturlivets internationalisering, svenskt deltagande i EU-programmet Kreativa Europa samt främjandet av kulturexport.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27523:goals:4"
+  },
+  {
+   "title": "Kultursamverkansmodellens bidragsgivning",
+   "group": [],
+   "text": "Statens kulturråd ska redovisa kultursamverkansmodellens bidragsgivning fördelat på de stödberättigade områdena.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "fördela_medel"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27523:goals:5"
+  },
+  {
+   "title": "Bidragsintäkter",
+   "group": [],
+   "text": "Statens kulturråd ska särredovisa fördelningen av eventuella bidragsintäkter mellan statliga bidrag, icke-statliga bidrag respektive bidrag från mellanstatliga organ i not till resultaträkningen.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27523:goals:6"
+  },
+  {
+   "title": "Sponsringsintäkter",
+   "group": [],
+   "text": "Statens kulturråd ska särredovisa eventuella sponsringsintäkter i not till resultaträkningen.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27523:goals:7"
+  }
+ ],
+ "org": [
+  {
+   "title": "Inordnande av uppgifter",
+   "group": [],
+   "text": "Statens kulturråd ska den 1 januari 2026 inordna de uppgifter från Nämnden för hemslöjdsfrågor som framgår av regeringens beslut den 13 mars 2025 (Ku2025/00370).\n\nÖvertagande av Nämnden för hemslöjdsfrågors tillgångar och skulder av Statens kulturråd ska ske till bokfört värde enligt 5 kap. 5 och 8 §§ förordningen (2000:605) om årsredovisning och budgetunderlag. Nämnden för hemslöjdsfrågor har ansvaret för sina tillgångar och skulder till och med den 31 december 2025, och Statens kulturråd övertar ansvaret fr.o.m. den 1 januari 2026.\n\nÖvertagna avsättningar för omstruktureringskostnader som inte har redovisats mot anslag hos den avvecklade myndigheten ska redovisas mot anslag i samband med övertagandet.",
+   "dates": [
+    "2025-03-13",
+    "2025-12-31",
+    "2026-01-01"
+   ],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Nämnden för hemslöjdsfrågor"
+   ],
+   "channels": [
+    "årsredovisning",
+    "budgetunderlag"
+   ],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2000:605"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "org",
+   "item_id": "27523:org:0"
+  }
+ ],
+ "assignments": [
+  {
+   "title": "Kiruna - Europeisk kulturhuvudstad 2029",
+   "group": [],
+   "text": "Statens kulturråd ska verka för att Kiruna kommun ges goda förutsättningar för att förbereda och genomföra evenemanget Europeisk kulturhuvudstad 2029. Inom ramen för uppdraget ska myndigheten, i dialog med Kiruna kommun, bidra till samverkan mellan kommunen och de myndigheter och institutioner som enligt regleringsbrev och riktlinjer för 2026 ska se över möjligheterna att medverka inför och under evenemanget Europeisk kulturhuvudstad 2029.\n\nUppdraget ska delredovisas till Regeringskansliet (Kulturdepartementet) senast den 8 mars 2027. Uppdraget ska slutredovisas till Regeringskansliet (Kulturdepartementet) senast den 13 juni 2030.",
+   "dates": [
+    "2027-03-08",
+    "2030-06-13"
+   ],
+   "deadlines": [
+    "2027-03-08",
+    "2030-06-13"
+   ],
+   "recipients": [
+    "Regeringskansliet (Kulturdepartementet)"
+   ],
+   "partners": [],
+   "channels": [
+    "delredovisning",
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "utveckla",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27523:assignments:0"
+  },
+  {
+   "title": "Främja kulturturism med koppling till En kulturkanon för Sverige",
+   "group": [],
+   "text": "Statens kulturråd ska genomföra insatser för att främja kulturturism inom Sverige till platser som har koppling till de 100 verk och företeelser som ingår i En kulturkanon för Sverige (SOU 2025:92). Inom ramen för uppdraget ska myndigheten inhämta kunskaper och erfarenheter från samverkansrådet, regionerna samt andra relevanta myndigheter och aktörer. Statens kulturråd ska redovisa en plan för uppdragets genomförande till Regeringskansliet (Kulturdepartementet) senast den 15 april 2026. Uppdraget ska slutredovisas till Regeringskansliet (Kulturdepartementet) senast den 15 december 2026.",
+   "dates": [
+    "2026-04-15",
+    "2026-12-15"
+   ],
+   "deadlines": [
+    "2026-04-15",
+    "2026-12-15"
+   ],
+   "recipients": [
+    "Regeringskansliet (Kulturdepartementet)"
+   ],
+   "partners": [],
+   "channels": [
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27523:assignments:1"
+  },
+  {
+   "title": "Översyn av kulturskoleklivet",
+   "group": [],
+   "text": "Statens kulturråd ska göra en översyn av utbildningsinsatsen Kulturskoleklivet som finansieras från det inom utgiftsområde 16 Utbildning och universitetsforskning uppförda anslaget 2:64 Särskilda utgifter inom universitet och högskolor. Myndigheten ska följa upp hur väl satsningen tillmötesgår de kompetens- och utbildningsbehov som kulturskolorna har och lämna förslag på hur satsningen kan vidareutvecklas, bl.a. för att stärka kulturskolornas kompetensförsörjning. I uppdraget ingår också att lämna förslag på hur Kulturskoleklivet kan utformas för att möta kulturskolornas kompetensbehov på ett långsiktigt, förutsägbart och kostnadseffektivt sätt. Statens kulturråd ska i arbetet med uppdraget inhämta kunskaper och erfarenheter från de lärosäten som ingår i Kulturskoleklivet. Uppdraget ska redovisas till Regeringskansliet (Kulturdepartementet med kopia till Utbildningsdepartementet) senast den 15 januari 2027.",
+   "dates": [
+    "2027-01-15"
+   ],
+   "deadlines": [
+    "2027-01-15"
+   ],
+   "recipients": [
+    "Regeringskansliet (Kulturdepartementet med kopia till Utbildningsdepartementet)"
+   ],
+   "partners": [
+    "universitet och högskolor"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "föreslå",
+    "utveckla"
+   ],
+   "anslag_refs": [
+    "2:64"
+   ],
+   "expenditure_area_refs": [
+    16
+   ],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27523:assignments:2"
+  },
+  {
+   "title": "Judisk kultur och judiska språk",
+   "group": [],
+   "text": "Statens kulturråd ska fördela bidrag till aktörer som arbetar med att synliggöra judisk kultur och judiska språk. Vid fördelningen av bidragen ska förordningen (2012:517) om statsbidrag till kulturella ändamål tillämpas.\n\nFör uppdraget får Statens kulturråd använda högst 2 000 000 kronor som ska redovisas mot det under utgiftsområde 1 Rikets styrelse för budgetåret 2026 uppförda anslaget 7:1 Åtgärder för nationella minoriteter, anslagspost 2. Medlen betalas ut mot rekvisition till Kammarkollegiet senast den 27 november 2026. Medel som inte används för avsett ändamål ska återbetalas senast den 31 mars 2027 till Kammarkollegiet. Vid samma tidpunkt ska en ekonomisk redovisning lämnas till Kammarkollegiet. Rekvisition, återbetalning och redovisning av medel ska hänvisa till diarienumret för detta beslut. Uppdraget ska redovisas till Regeringskansliet (Kulturdepartementet) senast den 28 februari 2027.",
+   "dates": [
+    "2026-11-27",
+    "2027-02-28",
+    "2027-03-31"
+   ],
+   "deadlines": [
+    "2026-11-27",
+    "2027-02-28",
+    "2027-03-31"
+   ],
+   "recipients": [
+    "Kammarkollegiet",
+    "Regeringskansliet (Kulturdepartementet)"
+   ],
+   "partners": [
+    "Kammarkollegiet"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "fördela_medel"
+   ],
+   "anslag_refs": [
+    "7:1"
+   ],
+   "expenditure_area_refs": [
+    1
+   ],
+   "sfs_refs": [
+    "2012:517"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27523:assignments:3"
+  },
+  {
+   "title": "Verksamhetsbidrag för läsfrämjande insatser",
+   "group": [],
+   "text": "Statens kulturråd ska analysera vilka åtgärder som behövs för att myndigheten inom befintliga ramar från och med bidragsåret 2027 ska kunna betala ut verksamhetsbidrag till aktörer som genomför läsfrämjande insatser. Uppdraget ska redovisas till Regeringskansliet (Kulturdepartementet) senast den 29 april 2026.",
+   "dates": [
+    "2026-04-29"
+   ],
+   "deadlines": [
+    "2026-04-29"
+   ],
+   "recipients": [
+    "Regeringskansliet (Kulturdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "fördela_medel"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27523:assignments:4"
+  },
+  {
+   "title": "Samordning av läsfrämjande insatser av nationellt intresse",
+   "group": [],
+   "text": "Statens kulturråd ska fortsatt utveckla Bokstart till att bl.a. nå fler regioner och satsningen ska som tidigare vara kopplad till barnhälsovård och förskolan.\n\nStatens kulturråd ska genomföra informationsinsatser riktade till föräldrar om vikten av tidig språkstimulans. Vid genomförande av uppdragen ska Statens kulturråd inhämta kunskaper och erfarenheter från Statens skolverk och Socialstyrelsen. Uppdraget ska redovisas till Regeringskansliet (Kulturdepartementet) senast den 22 februari 2027.",
+   "dates": [
+    "2027-02-22"
+   ],
+   "deadlines": [
+    "2027-02-22"
+   ],
+   "recipients": [
+    "Regeringskansliet (Kulturdepartementet)"
+   ],
+   "partners": [
+    "Socialstyrelsen",
+    "Statens skolverk"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla",
+    "informera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27523:assignments:5"
+  },
+  {
+   "title": "Motverka felaktiga utbetalningar",
+   "group": [],
+   "text": "Statens kulturråd ska redovisa en plan för hur myndigheten ska arbeta för att motverka felaktiga utbetalningar av stöd och bidrag till organisationer. Planen ska innehålla identifierade utvecklingsbehov samt mål och aktiviteter som myndigheten avser att vidta under 2027–2029. Vidare ska planen beskriva på vilket sätt arbetet kan integreras i myndighetens ordinarie verksamhet. Uppdraget ska redovisas till Regeringskansliet (Kulturdepartementet med kopia till Finansdepartementet) senast den 30 oktober 2026.",
+   "dates": [
+    "2026-10-30"
+   ],
+   "deadlines": [
+    "2026-10-30"
+   ],
+   "recipients": [
+    "Regeringskansliet (Kulturdepartementet med kopia till Finansdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "fördela_medel"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27523:assignments:6"
+  },
+  {
+   "title": "Kulturens roll för yttrandefrihet och demokratisering",
+   "group": [],
+   "text": "Statens kulturråd ska verka för fler fristäder för förföljda konstnärer samt för en utveckling av fristadssystemet i Sverige.\n\nStatens kulturråd ska i internationella sammanhang främja kulturens roll för yttrandefrihet och demokratisering. Statens kulturråd ska inom ramen för myndighetens uppgift verka för synergier mellan kulturpolitiska och biståndspolitiska insatser. Uppdraget ska redovisas till Regeringskansliet (Kulturdepartementet) senast den 22 februari 2027.",
+   "dates": [
+    "2027-02-22"
+   ],
+   "deadlines": [
+    "2027-02-22"
+   ],
+   "recipients": [
+    "Regeringskansliet (Kulturdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27523:assignments:7"
+  },
+  {
+   "title": "Kreativa Europa 2021–2027",
+   "group": [],
+   "text": "Statens kulturråd är svensk kontraktspart för media- och kulturprogrammet Kreativa Europa 2021–2027 och kontaktkontor för programmets kulturdel. I uppdraget ingår att i samverkan med berörda aktörer främja svenska ansökningar till programmet Kreativa Europa. Strategiska insatser och uppnådda resultat ska redovisas till Regeringskansliet (Kulturdepartementet) senast den 22 februari 2027. Arbetet ska ske i samverkan med Stiftelsen Svenska Filminstitutet.",
+   "dates": [
+    "2027-02-22"
+   ],
+   "deadlines": [
+    "2027-02-22"
+   ],
+   "recipients": [
+    "Regeringskansliet (Kulturdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27523:assignments:8"
+  },
+  {
+   "title": "Publiceringsplan",
+   "group": [],
+   "text": "Statens kulturråd ska till Regeringskansliet (Kulturdepartementet) senast den 27 februari 2026 ange datum för planerade rapporter och publikationer i en publiceringsplan.",
+   "dates": [
+    "2026-02-27"
+   ],
+   "deadlines": [
+    "2026-02-27"
+   ],
+   "recipients": [
+    "Regeringskansliet (Kulturdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27523:assignments:9"
+  },
+  {
+   "title": "Prognoser 2026–2029",
+   "group": [],
+   "text": "Statens kulturråd ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Prognoserna lämnas i informationssystemet Hermes senast den\n\n- 2 februari\n- 22 april\n- 24 juli\n- 9 november.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27523:assignments:10"
+  },
+  {
+   "title": "Prognos för beställningsbemyndiganden",
+   "group": [],
+   "text": "Myndigheten ska redovisa en prognos för de förslag om beställningsbemyndiganden som lämnats i budgetunderlaget och för de åtaganden som ingåtts med stöd av äldre beställningsbemyndiganden. Prognosen ska lämnas senast den 24 juli 2026 via statsredovisningssystemet Hermes och utformas enligt närmare information från Statskontoret.",
+   "dates": [
+    "2026-07-24"
+   ],
+   "deadlines": [
+    "2026-07-24"
+   ],
+   "forecast_dates": [],
+   "recipients": [],
+   "partners": [
+    "Statskontoret"
+   ],
+   "channels": [
+    "hermes",
+    "budgetunderlag"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27523:assignments:11"
+  },
+  {
+   "title": "Tidigare givna uppdrag i regleringsbrev eller särskilda regeringsbeslut",
+   "group": [],
+   "text": "| | | |\n| --- | --- | --- |\n| **Uppdrag** | **Beslut om uppdraget** | **Redovisningstidpunkt** |\n| Kulturens roll för yttrandefrihet och demokratisering | Ku2024/01343 | Till Regeringskansliet (Kulturdepartementet) senast den 22 februari 2026 |\n| Kreativa Europa 2021–2027 | Ku2024/01343 | Till Regeringskansliet (Kulturdepartementet) i årsredovisningen för 2025 |\n| Samordning av läsfrämjande insatser av nationellt intresse | Ku2024/01343 | Till Regeringskansliet (Kulturdepartementet) senast den 22 februari 2026 |\n| Framtagande av läslistor | Ku2023/01350 | Till Regeringskansliet (Kulturdepartementet och Utbildningsdepartementet) vid behov årligen med start i december 2025 |\n| Framtagande av läslistor | Ku2024/01343 | Till Regeringskansliet (Kulturdepartementet och Utbildningsdepartementet) senast den 12 januari 2028 |\n| Svenskt-judiskt liv 250 år | Ku2024/01343 | Till Regeringskansliet (Kulturdepartementet) senast den 31 mars 2026 |\n| Insamling och tillgängliggörande av goda exempel på läs- och skrivfrämjande insatser | Ku2024/01343 | Till Regeringskansliet (Kulturdepartementet) senast den 15 januari 2026 |\n| Strategi för systematisk uppföljning av funktionshinderpolitiken under 2021–2031 | S2021/06595, S2025/01367 | Till Myndigheten för delaktighet (MFD) årligen senast den 1 februari |\n| Uppdrag att förbereda och införa ett fritidskort för barn och unga | S2023/01303 | Delredovisas av E-hälsomyndigheten senast den 31 mars 2026 och slutredovisas av E-hälsomyndigheten senast den 31 mars 2027 |\n| Uppdrag till Statens kulturråd om fritidskortet | S2025/01753 | Till Regeringskansliet (Socialdepartementet) senast den 31 maj 2026 |\n| Uppdrag att redovisa genomförandet av den regionala utvecklingspolitiken och den sammanhållna landsbygdspolitiken | LI2024/00652 | Till Regeringskansliet (Landsbygds- och infrastrukturdepartementet) med kopia till Tillväxtverket senast den 31 mars 2027 |\n\n*För regeringsuppdrag som lämnats i ett särskilt regeringsbeslut utgör tabellen endast en upplysning om vilka uppdrag som vid årets början var riktade till myndigheten och vilka tider som då gällde för återrapportering eller liknande.*",
+   "dates": [
+    "2026-01-15",
+    "2026-02-22",
+    "2026-03-31",
+    "2026-05-31",
+    "2027-03-31",
+    "2028-01-12"
+   ],
+   "deadlines": [
+    "2026-01-15",
+    "2026-02-22",
+    "2026-03-31",
+    "2026-05-31",
+    "2027-03-31",
+    "2028-01-12"
+   ],
+   "recipients": [
+    "Tillväxtverket"
+   ],
+   "partners": [
+    "E-hälsomyndigheten",
+    "Myndigheten för delaktighet",
+    "Tillväxtverket"
+   ],
+   "channels": [
+    "årsredovisning",
+    "delredovisning",
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "27523:assignments:12"
+  },
+  {
+   "title": "Sprida goda exempel på läs- och skrivfrämjande insatser",
+   "group": [],
+   "text": "Statens kulturråd ska sprida de goda exempel på läs- och skrivfrämjande insatser som tagits fram inom ramen för det tidigare redovisade uppdraget om att samla in och tillgängliggöra sådana exempel (Ku2024/01343). Uppdraget ska redovisas senast den 1 januari 2027.",
+   "dates": [
+    "2027-01-01"
+   ],
+   "deadlines": [
+    "2027-01-01"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27523:assignments:13"
+  },
+  {
+   "title": "Judisk litteratur",
+   "group": [],
+   "text": "Statens kulturråd ska fördela bidrag för att dels möjliggöra läsfrämjande insatser som särskilt ska uppmärksamma judisk litteratur, dels öka tillgången till judisk litteratur. Vid fördelningen av bidragen ska förordningen (2010:1058) om statsbidrag till litteratur, kulturtidskrifter och läsfrämjande insatser tillämpas. Uppdraget ges inom ramen för regeringens strategi för att stärka judiskt liv och motverka antisemitism i Sverige (Ku2025/00578). För uppdraget får Statens kulturråd använda högst 900 000 kronor som ska redovisas mot det under utgiftsområde 1 Rikets styrelse för budgetåret 2026 uppförda anslaget 7:1 Åtgärder för nationella minoriteter, anslagspost 2. Medlen betalas ut mot rekvisition till Kammarkollegiet senast den 27 november 2026. Medel som inte används för avsett ändamål ska återbetalas senast den 31 mars 2027 till Kammarkollegiet. Vid samma tidpunkt ska en ekonomisk redovisning lämnas till Kammarkollegiet. Rekvisition, återbetalning och redovisning av medel ska hänvisa till diarienumret för detta beslut. Uppdraget ska redovisas till Regeringskansliet (Kulturdepartementet) senast den 28 februari 2027.",
+   "dates": [
+    "2026-11-27",
+    "2027-02-28",
+    "2027-03-31"
+   ],
+   "deadlines": [
+    "2026-11-27",
+    "2027-02-28",
+    "2027-03-31"
+   ],
+   "recipients": [
+    "Kammarkollegiet",
+    "Regeringskansliet (Kulturdepartementet)"
+   ],
+   "partners": [
+    "Kammarkollegiet"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "fördela_medel"
+   ],
+   "anslag_refs": [
+    "7:1"
+   ],
+   "expenditure_area_refs": [
+    1
+   ],
+   "sfs_refs": [
+    "2010:1058"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27523:assignments:14"
+  },
+  {
+   "title": "Verksamhetsbidrag till aktörer som bedriver läsfrämjande verksamhet",
+   "group": [],
+   "text": "Statens kulturråd ska förbereda och genomföra införandet av verksamhetsbidrag till aktörer som bedriver läsfrämjande verksamhet, i syfte att sådana bidrag ska kunna fördelas från och med bidragsåret 2027. Myndigheten ska säkerställa att bidragsgivningen utformas så att en ändamålsenlig balans upprätthålls mellan verksamhetsbidrag och projektbidrag. Uppdraget ska genomföras med utgångspunkt i myndighetens redovisning av det tidigare uppdraget att analysera vilka åtgärder som krävs för att inom befintliga ramar kunna lämna verksamhetsbidrag till läsfrämjande insatser (Ku2026/00430). Uppdraget ska redovisas senast den 28 februari 2028.",
+   "dates": [
+    "2028-02-28"
+   ],
+   "deadlines": [
+    "2028-02-28"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "fördela_medel",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27523:assignments:15"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "1:1",
+   "name": "Statens kulturråd",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 17,
+    "name": "Kultur, medier, trossamfund och fritid"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Statens kulturråd",
+     "amount_tkr": 83206,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Statens kulturråd (ram)",
+       "amount_tkr": 83206
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Statens kulturråd",
+     "text": "Anslaget får användas för Statens kulturråds förvaltningsutgifter samt för utgifter för avveckling av Nämnden för hemslöjdsfrågor. Högst 10 000 000 kronor får användas för nationellt kulturskolecentrums verksamhet. Högst 10 000 000 kronor får användas för läsrådets verksamhet."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "1",
+     "max": 10000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "1",
+     "max": 10000000,
+     "unit": "kronor"
+    }
+   ]
+  },
+  {
+   "code": "1:2",
+   "name": "Bidrag till allmän kulturverksamhet, utveckling samt internationellt kulturutbyte och samarbete",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 17,
+    "name": "Kultur, medier, trossamfund och fritid"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Statens kulturråd",
+     "amount_tkr": 382403,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Bidrag till allmän kulturverksamhet, internationell verksamhet och nationella minoriteters språk och kultur (ram)",
+       "amount_tkr": 110143
+      },
+      {
+       "ap": "2",
+       "name": "Bidrag till alliansverksamheter (ram)",
+       "amount_tkr": 92260
+      },
+      {
+       "ap": "9",
+       "name": "Bidrag till folkbibliotek för läsfrämjande insatser (ram)",
+       "amount_tkr": 80000
+      },
+      {
+       "ap": "11",
+       "name": "Bidrag till kulturskolor (ram)",
+       "amount_tkr": 100000
+      }
+     ],
+     "sum_ok": true
+    },
+    {
+     "by": "Tillväxtverket",
+     "amount_tkr": 87000,
+     "items": [
+      {
+       "ap": "18",
+       "name": "Stöd till produktion av audiovisuella verk (ram)",
+       "amount_tkr": 87000
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Bidrag till allmän kulturverksamhet, internationell verksamhet och nationella minoriteters språk och kultur",
+     "text": "Anslagsposten ska användas för bidrag enligt förordningen (2012:517) om statsbidrag till kulturella ändamål.\nAnslagsposten ska därutöver användas för bidrag till\n- verksamhet eller projekt som drivs genom de utsända kulturråden och som främst avser kulturlivets internationalisering (minst 1 000 000 kronor)\n- centrumbildningar bl.a. för arbetsförmedlande verksamhet eller projekt\n- centrala amatörkulturorganisationer\n- skådebaneverksamhet\n- Sveriges Radio AB, Berwaldhallen för Östersjöfestivalen (1 000 000 kronor)\n- insatser för att stärka musikexport genom Export Music Sweden (minst 1 000 000 kronor)\n- Folkets Hus och Parker, Bygdegårdarnas Riksförbund och Riksföreningen Våra Gårdar\n- European Union Youth Orchestra\n- den kommun som ansvarar för nationell samordning av fristadssystemet\n- Konstnärscentrum för projektet Konsten att delta\n- Ideella föreningen Kulturlyftet – Kultur i hela landet för samordning av det kulturpolitiska konventet Folk och kultur.\nAnslagsposten får även användas för utgifter för administration, genomförande, främjande och uppföljning av verksamheten, dock högst 12 000 000 kronor."
+    },
+    {
+     "ap": "2",
+     "name": "Bidrag till alliansverksamheter",
+     "text": "Anslagsposten ska användas för bidrag till\n- Teateralliansen AB (39 419 672 kronor)\n- Dansalliansen AB (20 237 533 kronor)\n- Musikalliansen AB (32 602 795 kronor).\nMedlen ska i huvudsak användas för att säkra antalet anställda men får också användas för insatser för karriärväxling och kompetensutveckling."
+    },
+    {
+     "ap": "9",
+     "name": "Bidrag till folkbibliotek för läsfrämjande insatser",
+     "text": "Anslagsposten ska användas för bidrag enligt förordningen (2018:66) om statsbidrag till folkbibliotek.\nAnslagsposten får även användas för utgifter för administration, främjande, uppföljning och genomförande av verksamheten, dock högst 5 000 000 kronor."
+    },
+    {
+     "ap": "11",
+     "name": "Bidrag till kulturskolor",
+     "text": "Anslagsposten ska användas för bidrag enligt förordningen (2019:470) om statsbidrag till kommuner som bedriver kulturskoleverksamhet.\nAnslagsposten får även användas för statsbidrag till aktörer som bedriver undervisning med nationell spetskompetens där barn och unga kan fördjupa sig inom ett visst konstnärligt uttryck eller ett musikinstrument. Bidrag ska då lämnas enligt förordningen (2012:517) om statsbidrag till kulturella ändamål.\nAv anslagsposten ska högst 10 000 000 kr användas för kulturskolors digitala insatser för att barn och unga ska kunna ta del av kulturskolornas utbud enligt förordningen (2019:470) om statsbidrag till kommuner som bedriver kulturskoleverksamhet.\nAnslagsposten får även användas för utgifter för administration, främjande, uppföljning och genomförande av verksamheten, dock högst 3 000 000 kronor."
+    },
+    {
+     "ap": "18",
+     "name": "Stöd till produktion av audiovisuella verk",
+     "text": "Anslagsposten får användas enligt förordningen (2022:1386) om statligt stöd till produktion av audiovisuella verk. Tillväxtverket får använda högst 4 500 000 kronor för genomförande av stödet."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "1",
+     "max": 12000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "9",
+     "max": 5000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "11",
+     "max": 10000000,
+     "unit": "kr"
+    },
+    {
+     "ap": "11",
+     "max": 3000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "18",
+     "max": 4500000,
+     "unit": "kronor"
+    }
+   ]
+  },
+  {
+   "code": "1:3",
+   "name": "Skapande skola",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 17,
+    "name": "Kultur, medier, trossamfund och fritid"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Statens kulturråd",
+     "amount_tkr": 226464,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Skapande skola (ram)",
+       "amount_tkr": 226464
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Skapande skola",
+     "text": "Anslagsposten ska användas för bidrag enligt förordningen (2007:1436) om statsbidrag till kulturell verksamhet i skolan.\nAnslagsposten får även användas för statsbidrag till andra verksamheter som syftar till att stärka kultur i skolan. Bidrag ska då lämnas enligt förordningen (2012:517) om statsbidrag till kulturella ändamål.\nAnslagsposten får vidare användas för utgifter för administration, främjande, uppföljning och genomförande av verksamheten, dock högst 5 300 000 kronor."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "1",
+     "max": 5300000,
+     "unit": "kronor"
+    }
+   ]
+  },
+  {
+   "code": "1:6",
+   "name": "Bidrag till regional kulturverksamhet",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 17,
+    "name": "Kultur, medier, trossamfund och fritid"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Statens kulturråd",
+     "amount_tkr": 1631569,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Bidrag till regional kulturverksamhet (ram)",
+       "amount_tkr": 1631569
+      }
+     ],
+     "sum_ok": true
+    },
+    {
+     "by": "Kungl. biblioteket",
+     "amount_tkr": 58543,
+     "items": [
+      {
+       "ap": "2",
+       "name": "Samordning inom biblioteksväsendet (ram)",
+       "amount_tkr": 58543
+      }
+     ],
+     "sum_ok": true
+    },
+    {
+     "by": "Kammarkollegiet",
+     "amount_tkr": 1580,
+     "items": [
+      {
+       "ap": "6",
+       "name": "Filmkulturell verksamhet (ram)",
+       "amount_tkr": 1580
+      }
+     ],
+     "sum_ok": true
+    },
+    {
+     "by": "Riksarkivet",
+     "amount_tkr": 563,
+     "items": [
+      {
+       "ap": "5",
+       "name": "Bidrag till regional arkivverksamhet (ram)",
+       "amount_tkr": 563
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Bidrag till regional kulturverksamhet",
+     "text": "Anslagsposten ska användas för bidragsgivning enligt förordningen (2010:2012) om fördelning av vissa statsbidrag till regional kulturverksamhet.\nAnslagsposten ska även användas för bidragsgivning enligt förordningen (1996:1598) om statsbidrag till regional kulturverksamhet till\n- Cirkus Cirkör AB\n- Folkoperan AB\n- Grafikens hus\n- Oktoberteatern\n- Region Stockholm för regional biblioteksverksamhet, regional musikverksamhet, regional danskonsulentverksamhet, regional slöjdkonsulentverksamhet och Stockholms läns museum\n- Stockholms stad för Stadsmuseet\n- Stockholms Stadsteater AB för teater-, dans- och musikverksamhet.\nAnslagsposten får dessutom användas för bidrag till\n- Sveriges Radio AB för Berwaldhallen\n- Stockholms konserthusstiftelse.\nAnslagsposten får även användas för Statens kulturråds arbete med bedömning, uppföljning och främjande inom ramen för kultursamverkansmodellen, dock högst 3 000 000 kronor."
+    },
+    {
+     "ap": "2",
+     "name": "Samordning inom biblioteksväsendet",
+     "text": "Anslagsposten ska användas för uppgiften att ha nationell överblick och främja samverkan samt tillhandahålla informationssystem och verka för utveckling och samordning av digitala tjänster inom det allmänna biblioteksväsendet i enlighet med 3 § förordningen (2008:1421) med instruktion för Kungl. biblioteket.\nKungl. biblioteket ska fördela bidrag till vissa delar av biblioteksområdets nationella infrastruktur som lånecentrals- och depåbiblioteksverksamhet, nationella digitala bibliotekstjänster riktade mot de nationella minoritetsspråken och andra språk än svenska samt fortsatt drift av Digiteket i syfte att stödja tillhandahållandet av likvärdig biblioteksverksamhet i hela landet.\nAv anslagsposten får högst 10 000 000 kronor fördelas till satsningen på nationella minoriteters bibliotek.\nAv anslagsposten får högst 10 000 000 kronor användas för att stärka samverkan inom det allmänna biblioteksväsendet och bidra till den långsiktiga utvecklingen för vissa nationella digitala bibliotekstjänster."
+    },
+    {
+     "ap": "5",
+     "name": "Bidrag till regional arkivverksamhet",
+     "text": "Anslaget ska användas till Föreningsarkiven i Region Stockholm enligt förordningen (1996:1598) om statsbidrag till regional kulturverksamhet.\nAnslaget får även användas för bidragsgivning till enskilda regionala arkiv."
+    },
+    {
+     "ap": "6",
+     "name": "Filmkulturell verksamhet",
+     "text": "Kammarkollegiet ska betala ut bidraget engångsvis till Stiftelsen Svenska Filminstitutet efter rekvisition.\nAnslagsposten ska användas till Region Stockholm enligt förordningen (1996:1598) om statsbidrag till regional kulturverksamhet."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "1",
+     "max": 3000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "2",
+     "max": 10000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "2",
+     "max": 10000000,
+     "unit": "kronor"
+    }
+   ]
+  },
+  {
+   "code": "2:3",
+   "name": "Bidrag till vissa teater-, dans- och musikändamål",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 17,
+    "name": "Kultur, medier, trossamfund och fritid"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Statens kulturråd",
+     "amount_tkr": 249098,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Bidrag till den fria scenkonsten, arrangörer, fonogramverksamhet och vissa aktörer av kulturpolitiskt intresse (ram)",
+       "amount_tkr": 249098
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Bidrag till den fria scenkonsten, arrangörer, fonogramverksamhet och vissa aktörer av kulturpolitiskt intresse",
+     "text": "Anslagsposten ska användas för bidrag enligt\n- förordningen (2012:516) om statsbidrag till det fria kulturlivet inom teater-, dans- och musikområdet\n- förordningen (2012:517) om statsbidrag till kulturella ändamål.\nAnslagsposten ska därutöver användas för bidrag till\n- Dansnät Sverige\n- Eric Ericsons Kammarkör\n- Eric Sahlström-institutet\n- Ulriksdals slottsteater (Confidencen)\n- Stiftelsen Internationella Vadstena-akademin\n- Kungl. Musikaliska Akademien\n- Orionteatern\n- Strindbergs Intima Teater.\nAnslagsposten får även användas för utgifter för administration och genomförande av verksamheten, dock högst 6 300 000 kronor."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "1",
+     "max": 6300000,
+     "unit": "kronor"
+    }
+   ]
+  },
+  {
+   "code": "3:1",
+   "name": "Bidrag till litteratur och kulturtidskrifter",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 17,
+    "name": "Kultur, medier, trossamfund och fritid"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Statens kulturråd",
+     "amount_tkr": 233678,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Bidrag till litteratur, kulturtidskrifter och läsfrämjande (ram)",
+       "amount_tkr": 233678
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Bidrag till litteratur, kulturtidskrifter och läsfrämjande",
+     "text": "Anslagsposten ska användas för bidrag enligt\n- förordningen (2010:1058) om statsbidrag till litteratur, kulturtidskrifter och läsfrämjande insatser\n- förordningen (2002:1091) om litteraturpris till Astrid Lindgrens minne\n- förordningen (2007:1435) om statsbidrag till internationellt utbyte och samarbete på litteraturområdet\n- förordningen (2018:66) om statsbidrag till folkbibliotek.\nAnslagsposten ska därutöver användas för bidrag till\n- Berättarministeriet för läsfrämjande insatser av nationellt strategiskt intresse (30 000 000 kronor).\nAnslagsposten får även användas för att främja svensk litteratur i utlandet.\nAnslagsposten får även användas för kostnader i samband med myndighetens insatser för att initiera, samordna och följa upp läsfrämjande insatser av nationellt strategiskt intresse. Av anslagsposten ska minst 15 000 000 kronor användas för att förstärka det läsfrämjande arbetet. Därutöver ska minst 20 000 000 kronor användas för en förstärkning av Bokstart.\nAv anslagsposten ska minst 48 000 000 kronor avsättas för litteraturstödet.\nAnslagsposten får även användas för utgifter för administration och genomförande av verksamheten, dock högst 10 000 000 kronor.\nEtt exemplar av tidskrift som tilldelas bidrag enligt förordningen (2010:1058) om statsbidrag till litteratur, kulturtidskrifter och läsfrämjande insatser ska överlämnas till Regeringskansliet (Kulturdepartementet)."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "1",
+     "max": 10000000,
+     "unit": "kronor"
+    }
+   ]
+  },
+  {
+   "code": "7:7",
+   "name": "Bidrag till bild-, form- och slöjdområdet",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 17,
+    "name": "Kultur, medier, trossamfund och fritid"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Statens kulturråd",
+     "amount_tkr": 53708,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Bidrag till organisationer inom bild-, form- och slöjdområdet och verksamhetsstöd till vissa utställare. (ram)",
+       "amount_tkr": 53708
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Bidrag till organisationer inom bild-, form- och slöjdområdet och verksamhetsstöd till vissa utställare.",
+     "text": "Anslagsposten ska bl.a. användas för bidrag enligt\n- förordning (2020:337) om statsbidrag till aktörer inom bildkonst, form, konsthantverk och slöjd\n- förordningen (2012:517) om statsbidrag till kulturella ändamål.\nAnslagsposten ska därutöver användas för bidrag till\n- Carl Eldhs ateljémuseum (minst 500 000 kronor)\n- Folkets Hus och Parker, Bygdegårdarnas Riksförbund och Riksföreningen Våra Gårdar för förvärv av konst\n- Kungl. Akademien för de fria konsterna\n- Svenska Hemslöjdsföreningarnas Riksförbund."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "1:1 Statens kulturråd",
+   "ap": "ap.1",
+   "Anslagskredit": 2496,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:2 Bidrag till allmän kulturverksamhet, utveckling samt internationellt kulturutbyte och samarbete",
+   "ap": "ap.1",
+   "Anslagskredit": 3500,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:2 Bidrag till allmän kulturverksamhet, utveckling samt internationellt kulturutbyte och samarbete",
+   "ap": "ap.2",
+   "Anslagskredit": 2400,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:2 Bidrag till allmän kulturverksamhet, utveckling samt internationellt kulturutbyte och samarbete",
+   "ap": "ap.9",
+   "Anslagskredit": 2572,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:2 Bidrag till allmän kulturverksamhet, utveckling samt internationellt kulturutbyte och samarbete",
+   "ap": "ap.11",
+   "Anslagskredit": 3000,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:2 Bidrag till allmän kulturverksamhet, utveckling samt internationellt kulturutbyte och samarbete",
+   "ap": "ap.18",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:3 Skapande skola",
+   "ap": "ap.1",
+   "Anslagskredit": 6793,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:6 Bidrag till regional kulturverksamhet",
+   "ap": "ap.1",
+   "Anslagskredit": 48947,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:6 Bidrag till regional kulturverksamhet",
+   "ap": "ap.2",
+   "Anslagskredit": 1756,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:6 Bidrag till regional kulturverksamhet",
+   "ap": "ap.5",
+   "Anslagskredit": 16,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:6 Bidrag till regional kulturverksamhet",
+   "ap": "ap.6",
+   "Anslagskredit": 47,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:3 Bidrag till vissa teater-, dans- och musikändamål",
+   "ap": "ap.1",
+   "Anslagskredit": 7472,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "3:1 Bidrag till litteratur och kulturtidskrifter",
+   "ap": "ap.1",
+   "Anslagskredit": 7010,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "7:7 Bidrag till bild-, form- och slöjdområdet",
+   "ap": "ap.1",
+   "Anslagskredit": 1611,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 12000,
+  "Räntekontokredit": 8000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 6934
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 6934
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 6934
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 6934
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 6934
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 6934
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 6934
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 6934
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 6934
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 6934
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 6934
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 6932
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:1 Statens kulturråd",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "2 496",
+     "3 %",
+     "0"
+    ],
+    [
+     "1:2 Bidrag till allmän kulturverksamhet, utveckling samt internationellt kulturutbyte och samarbete",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "3 500",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.2",
+     "2 400",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.9",
+     "2 572",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.11",
+     "3 000",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.18",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "1:3 Skapande skola",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "6 793",
+     "Inget",
+     "0"
+    ],
+    [
+     "1:6 Bidrag till regional kulturverksamhet",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "48 947",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.2",
+     "1 756",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.5",
+     "16",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.6",
+     "47",
+     "Inget",
+     "0"
+    ],
+    [
+     "2:3 Bidrag till vissa teater-, dans- och musikändamål",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "7 472",
+     "Inget",
+     "0"
+    ],
+    [
+     "3:1 Bidrag till litteratur och kulturtidskrifter",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "7 010",
+     "Inget",
+     "0"
+    ],
+    [
+     "7:7 Bidrag till bild-, form- och slöjdområdet",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "1 611",
+     "Inget",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Avslutade anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagstyp"
+    ],
+    [
+     "1:6 Bidrag till regional kulturverksamhet",
+     ""
+    ],
+    [
+     "ap.4",
+     "ram"
+    ],
+    [
+     "7:9 (2025) Nämnden för hemslöjdsfrågor",
+     ""
+    ],
+    [
+     "ap.1 (2025)",
+     "ram"
+    ],
+    [
+     "ap.2 (2025)",
+     "ram"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Beställningsbemyndiganden",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Bemyndigande",
+     "Utgifter mot anslag till följd av ekonomiska åtaganden",
+     "",
+     "",
+     ""
+    ],
+    [
+     "2026",
+     "2027",
+     "2028",
+     "2029 -",
+     "Slutår"
+    ],
+    [
+     "1:2 Bidrag till allmän kulturverksamhet, utveckling samt internationellt kulturutbyte och samarbete",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "12 000",
+     "12 000",
+     "",
+     "",
+     "2027"
+    ],
+    [
+     "ap.18",
+     "150 000",
+     "82 500",
+     "52 235",
+     "15 265",
+     "2029"
+    ],
+    [
+     "2:3 Bidrag till vissa teater-, dans- och musikändamål",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "160 000",
+     "160 000",
+     "",
+     "",
+     "2027"
+    ],
+    [
+     "3:1 Bidrag till litteratur och kulturtidskrifter",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "40 000",
+     "35 000",
+     "5 000",
+     "",
+     "2028"
+    ],
+    [
+     "7:7 Bidrag till bild-, form- och slöjdområdet",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "40 000",
+     "40 000",
+     "",
+     "",
+     "2027"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "12 000"
+    ],
+    [
+     "Räntekontokredit",
+     "8 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "6 934"
+    ],
+    [
+     "2026-02-25",
+     "6 934"
+    ],
+    [
+     "2026-03-25",
+     "6 934"
+    ],
+    [
+     "2026-04-25",
+     "6 934"
+    ],
+    [
+     "2026-05-25",
+     "6 934"
+    ],
+    [
+     "2026-06-25",
+     "6 934"
+    ],
+    [
+     "2026-07-25",
+     "6 934"
+    ],
+    [
+     "2026-08-25",
+     "6 934"
+    ],
+    [
+     "2026-09-25",
+     "6 934"
+    ],
+    [
+     "2026-10-25",
+     "6 934"
+    ],
+    [
+     "2026-11-25",
+     "6 934"
+    ],
+    [
+     "2026-12-25",
+     "6 932"
+    ],
+    [
+     "Summa",
+     "83 206"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "1:1 ap.1",
+     "Statens kulturråd"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Avgiftsfinansierad verksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Avgifter enligt 15 § i förordning (2012:515) med instruktion för Statens kulturråd1",
+     "0",
+     "0",
+     "1 000",
+     "1 000",
+     "0",
+     "0"
+    ]
+   ]
+  }
+ ],
+ "has_fee_section": true,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 8,
+  "n_org": 1,
+  "n_assignments": 16,
+  "n_deadlines": 20,
+  "deadlines": [
+   "2026-01-15",
+   "2026-02-22",
+   "2026-02-27",
+   "2026-03-31",
+   "2026-04-15",
+   "2026-04-29",
+   "2026-05-31",
+   "2026-07-24",
+   "2026-10-30",
+   "2026-11-27",
+   "2026-12-15",
+   "2027-01-01",
+   "2027-01-15",
+   "2027-02-22",
+   "2027-02-28",
+   "2027-03-08",
+   "2027-03-31",
+   "2028-01-12",
+   "2028-02-28",
+   "2030-06-13"
+  ],
+  "partners": [
+   "E-hälsomyndigheten",
+   "Kammarkollegiet",
+   "Myndigheten för delaktighet",
+   "Nämnden för hemslöjdsfrågor",
+   "Socialstyrelsen",
+   "Statens skolverk",
+   "Statskontoret",
+   "Tillväxtverket",
+   "universitet och högskolor"
+  ],
+  "n_appropriations": 7,
+  "appropriations_total_tkr": 3007812,
+  "payment_plan_total_tkr": 83206,
+  "md_chars": 33104
+ },
+ "layout": "standard",
+ "warnings": []
+}

@@ -1,0 +1,672 @@
+{
+ "schema_version": 1,
+ "id": 26351,
+ "original_rbid": 25687,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-06-11",
+ "year": "2026",
+ "name": "Försvarshögskolan",
+ "slug": "forsvarshogskolan",
+ "department": "Utbildningsdepartementet",
+ "expenditure_areas": [
+  16
+ ],
+ "registry_numbers": [
+  "U2026/01202 (delvis)"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1",
+   "2025/26:99"
+  ],
+  "bet": [
+   "2025/26:FiU21",
+   "2025/26:UbU1"
+  ],
+  "rskr": [
+   "2025/26:124",
+   "2025/26:349"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "Gemensamma bestämmelser för universitet och högskolor finns i regleringsbrev för budgetåret 2026 avseende universitet och högskolor.",
+ "goals": [
+  {
+   "title": "Officersutbildning på grundnivå",
+   "group": [
+    "Särskilda åtaganden"
+   ],
+   "text": "Försvarshögskolan ska i årsredovisningen redovisa antalet helårsstudenter och helårsprestationer inom utbildningen. En övergripande analys av hur officersutbildningen på grundnivå bidrar till att det militära försvarets kompetensbehov tillgodoses ska genomföras. Väsentliga avvikelser mellan planerad och genomförd verksamhet ska redovisas och kommenteras. Redovisningen ska vara såväl samlad som könsuppdelad.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "årsredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26351:goals:0"
+  },
+  {
+   "title": "Forskning inom officersutbildningens centrala ämnen",
+   "group": [
+    "Särskilda åtaganden"
+   ],
+   "text": "Försvarshögskolan ska i årsredovisningen redovisa hur den professionsnära forskningen i krigföring har bidragit till den vetenskapliga förankringen av officersutbildningen.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "årsredovisning"
+   ],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26351:goals:1"
+  },
+  {
+   "title": "Högre officersutbildning",
+   "group": [
+    "Särskilda åtaganden"
+   ],
+   "text": "Inom ramen för Försvarshögskolans kompetensområden ska högskolan på uppdrag av Försvarsmakten utbilda personal för att därigenom bidra till att det militära försvarets kompetensbehov tillgodoses. Försvarshögskolan ska i årsredovisningen redovisa hur utbildningsuppdragen har genomförts. En övergripande analys av måluppfyllelsen och väsentliga avvikelser mellan planerad och genomförd verksamhet ska redovisas och kommenteras.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Försvarsmakten"
+   ],
+   "channels": [
+    "årsredovisning"
+   ],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26351:goals:2"
+  },
+  {
+   "title": "Rekryteringsmål för professorer",
+   "group": [
+    "Särskilda åtaganden"
+   ],
+   "text": "Under 2025–2028 har lärosätet ett mål för könsfördelningen bland nyrekryterade professorer om 53 procent kvinnor.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26351:goals:3"
+  }
+ ],
+ "org": [],
+ "assignments": [
+  {
+   "title": "Prognoser",
+   "group": [],
+   "text": "Försvarshögskolan ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Prognoserna lämnas i informationssystemet Hermes senast den\n\n– 2 februari,\\\n– 22 april,\\\n– 24 juli,\\\n– 9 november.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26351:assignments:0"
+  },
+  {
+   "title": "Bidra till genomförandet av FN:s säkerhetsrådsresolutioner om kvinnor, fred och säkerhet",
+   "group": [],
+   "text": "Försvarshögskolan ska bidra till att genomföra FN:s säkerhetsrådsresolutioner om kvinnor, fred och säkerhet med utgångspunkt i den nationella handlingsplanen på området (UD2023/04798). Myndighetens arbete ska redovisas utifrån de fyra övergripande målen i handlingsplanen. Redovisningen ska lämnas i särskild ordning i samband med årsredovisningarna för 2025–2028.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "årsredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26351:assignments:1"
+  },
+  {
+   "title": "Utveckla plattformen Campus totalförsvar",
+   "group": [],
+   "text": "Försvarshögskolan ska, genom plattformen Campus totalförsvar, verka för att lärosätenas utbildning och forskning inom området samordnas och ökar i syfte att stärka myndigheters och näringslivs pågående uppbyggnad av totalförsvaret. Försvarshögskolan ska redovisa vidtagna åtgärder rörande Campus totalförsvar och resultatet av dessa. Uppdraget ska redovisas till Regeringskansliet (Utbildningsdepartementet) och ingå i årsredovisningen. En kopia av redovisningen ska skickas till Myndigheten för samhällsskydd och beredskap senast den 22 februari 2026.",
+   "dates": [
+    "2026-02-22"
+   ],
+   "deadlines": [
+    "2026-02-22"
+   ],
+   "recipients": [
+    "Myndigheten för samhällsskydd och beredskap",
+    "Regeringskansliet (Utbildningsdepartementet)"
+   ],
+   "partners": [
+    "Myndigheten för samhällsskydd och beredskap"
+   ],
+   "channels": [
+    "årsredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "utveckla",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26351:assignments:2"
+  },
+  {
+   "title": "Kartlägga förekomsten av skadliga utlandsvistelser bland barn och unga",
+   "group": [],
+   "text": "Försvarshögskolan ska studera och kartlägga förekomsten av utlandsvistelser där barn och unga utsätts för hedersrelaterat våld och förtyck, våldsbejakande extremism, eller som mynnar ut i terrorhandlingar utomlands. Medel för uppdraget har beslutats i vårändringsbudget för 2026 (prop. 2025:26:99 avsnitt 5.13, bet. 2025/26:FiU21, rskr. 2025/26:349). I arbetet med kartläggningen ingår även att samla in erfarenheter och ta fram förslag på arbetsmetoder för att motverka sådan skadlig utlandsvistelse bland barn och unga. I arbetet ska högskolan föra dialog med relevanta aktörer. Uppdraget ska redovisas till Regeringskansliet (Utbildningsdepartementet) den 31 mars 2027.",
+   "dates": [
+    "2027-03-31"
+   ],
+   "deadlines": [],
+   "recipients": [
+    "Regeringskansliet (Utbildningsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26351:assignments:3"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "2:61",
+   "name": "Försvarshögskolan: Utbildning på grundnivå och avancerad nivå",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 16,
+    "name": "Utbildning och universitetsforskning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Försvarshögskolan",
+     "amount_tkr": 47704,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Försvarshögskolan: Grundutbildning (ram)",
+       "amount_tkr": 47704
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Försvarshögskolan: Grundutbildning",
+     "text": "Anslagsposten får användas för högskoleutbildning på grundnivå och avancerad nivå samt behörighetsgivande och högskoleintroducerande utbildning.\nAv anslaget är 5 092 000 kronor beräknat för Campus totalförsvar."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "2:62",
+   "name": "Försvarshögskolan: Forskning och utbildning på forskarnivå",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 16,
+    "name": "Utbildning och universitetsforskning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Försvarshögskolan",
+     "amount_tkr": 56667,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Basresurs (ram)",
+       "amount_tkr": 56667
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Basresurs",
+     "text": "Anslagsposten får användas för forskning och utbildning på forskarnivå.\nI anslagsposten ingår medel för att finansiera utgifter för en professur och forskningsprogram inom området kvinnor, fred och säkerhet.\nAv anslagsposten är 4 213 000 kronor beräknat för en utvecklad uppdragsutbildning inom säkerhetsskydd.\nAv anslagsposten är 7 129 000 kronor beräknat för Campus totalförsvar."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "2:65",
+   "name": "Särskilda medel till universitet och högskolor",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 16,
+    "name": "Utbildning och universitetsforskning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Försvarshögskolan",
+     "amount_tkr": 5319,
+     "items": [
+      {
+       "ap": "64",
+       "name": "Utveckling säkerhetsskyddsutbildningar (ram)",
+       "amount_tkr": 1263
+      },
+      {
+       "ap": "103",
+       "name": "Medel för studenthälsa (ram)",
+       "amount_tkr": 156
+      },
+      {
+       "ap": "116",
+       "name": "Utveckling utbildning krishantering m.m. (ram)",
+       "amount_tkr": 1400
+      },
+      {
+       "ap": "137",
+       "name": "Kartläggning av förekomsten av skadliga utlandsvistelser (ram)",
+       "amount_tkr": 2500
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "64",
+     "name": "Utveckling säkerhetsskyddsutbildningar",
+     "text": "Anslagsposten får användas för utveckling av säkerhetsskyddsutbildningar."
+    },
+    {
+     "ap": "103",
+     "name": "Medel för studenthälsa",
+     "text": "Anslagsposten får användas för att stärka studenthälsan och bl.a. möjliggöra mer preventivt arbete för att minska studenternas psykiska och fysiska ohälsa samt stärka stödet för studieovana studenter. Av\\\nmedlen avser 90 000 kronor arbete med att särskilt främja psykisk hälsa\\\nbland studenter."
+    },
+    {
+     "ap": "116",
+     "name": "Utveckling utbildning krishantering m.m.",
+     "text": "Anslagsposten får användas för att i samarbete med Umeå universitet och Malmö universitet ta fram utbildning inom bl.a. ledarskap, konflikt- och krishantering som ska kunna användas inom lärar- och förskollärarutbildningarna. Högskolan ska ansvara för att samordna samt samlat redovisa arbetet. Redovisning av arbetet under 2026 ska lämnas till Regeringskansliet (Utbildningsdepartementet) senast den 15 mars 2027."
+    },
+    {
+     "ap": "137",
+     "name": "Kartläggning av förekomsten av skadliga utlandsvistelser",
+     "text": "Anslagsposten får användas för uppdrag att kartlägga förekomsten av skadliga utlandsvistelser bland barn och unga."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "2:61 Försvarshögskolan: Utbildning på grundnivå och avancerad nivå",
+   "ap": "ap.1",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "10 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:62 Försvarshögskolan: Forskning och utbildning på forskarnivå",
+   "ap": "ap.1",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Allt",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.64",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.103",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.116",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.137",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 65000,
+  "Räntekontokredit": 50000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 8932
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 8932
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 8932
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 8932
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 8932
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 8932
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 9349
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 9349
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 9349
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 9349
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 9349
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 9353
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "2:61 Försvarshögskolan: Utbildning på grundnivå och avancerad nivå",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "0",
+     "10 %",
+     "0"
+    ],
+    [
+     "2:62 Försvarshögskolan: Forskning och utbildning på forskarnivå",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "0",
+     "Allt",
+     "0"
+    ],
+    [
+     "2:65 Särskilda medel till universitet och högskolor",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.64",
+     "0",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.103",
+     "0",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.116",
+     "0",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.137",
+     "0",
+     "Inget",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "65 000"
+    ],
+    [
+     "Räntekontokredit",
+     "50 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "8 932"
+    ],
+    [
+     "2026-02-25",
+     "8 932"
+    ],
+    [
+     "2026-03-25",
+     "8 932"
+    ],
+    [
+     "2026-04-25",
+     "8 932"
+    ],
+    [
+     "2026-05-25",
+     "8 932"
+    ],
+    [
+     "2026-06-25",
+     "8 932"
+    ],
+    [
+     "2026-07-25",
+     "9 349"
+    ],
+    [
+     "2026-08-25",
+     "9 349"
+    ],
+    [
+     "2026-09-25",
+     "9 349"
+    ],
+    [
+     "2026-10-25",
+     "9 349"
+    ],
+    [
+     "2026-11-25",
+     "9 349"
+    ],
+    [
+     "2026-12-25",
+     "9 353"
+    ],
+    [
+     "Summa",
+     "109 690"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "2:61 ap.1",
+     "Försvarshögskolan: Grundutbildning"
+    ],
+    [
+     "2:62 ap.1",
+     "Basresurs"
+    ],
+    [
+     "2:65 ap.64",
+     "Utveckling säkerhetsskyddsutbildningar"
+    ],
+    [
+     "2:65 ap.103",
+     "Medel för studenthälsa"
+    ],
+    [
+     "2:65 ap.116",
+     "Utveckling utbildning krishantering m.m."
+    ],
+    [
+     "2:65 ap.137",
+     "Kartläggning av förekomsten av skadliga utlandsvistelser"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [],
+ "has_fee_section": true,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 4,
+  "n_org": 0,
+  "n_assignments": 4,
+  "n_deadlines": 1,
+  "deadlines": [
+   "2026-02-22"
+  ],
+  "partners": [
+   "Försvarsmakten",
+   "Myndigheten för samhällsskydd och beredskap"
+  ],
+  "n_appropriations": 3,
+  "appropriations_total_tkr": 109690,
+  "payment_plan_total_tkr": 109690,
+  "md_chars": 10642
+ },
+ "layout": "standard",
+ "warnings": []
+}

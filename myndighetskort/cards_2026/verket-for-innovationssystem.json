@@ -1,0 +1,837 @@
+{
+ "schema_version": 1,
+ "id": 26438,
+ "original_rbid": 25966,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-06-11",
+ "year": "2026",
+ "name": "Verket för innovationssystem",
+ "slug": "verket-for-innovationssystem",
+ "department": "Klimat- och näringslivsdepartementet",
+ "expenditure_areas": [
+  24
+ ],
+ "registry_numbers": [
+  "KN2026/01307 (delvis)",
+  "KN2026/01326"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1",
+   "2025/26:99"
+  ],
+  "bet": [
+   "2025/26:FiU21",
+   "2025/26:NU1"
+  ],
+  "rskr": [
+   "2025/26:131",
+   "2025/26:350"
+  ]
+ },
+ "n_attachments_stated": 1,
+ "mission": "",
+ "goals": [
+  {
+   "title": "Tillgängliggöra data",
+   "group": [],
+   "text": "Vinnova ska redogöra för hur myndigheten, tillsammans med Forskningsrådet för hälsa, arbetsliv och välfärd, Forskningsrådet för miljö, areella näringar och samhällsbyggande, Statens energimyndighet och Vetenskapsrådet, har bidragit till det gemensamma arbetet att ta fram specifikationer för att dela data via elektroniska format (API). Myndigheten ska särskilt redovisa åtgärder som vidtagits i syfte att skapa en aktuell, jämförbar och samlad bild av olika finansiärers data om finansiering av forskning och innovation.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Forskningsrådet för hälsa, arbetsliv och välfärd",
+    "Forskningsrådet för miljö, areella näringar och samhällsbyggande",
+    "Statens energimyndighet",
+    "Vetenskapsrådet"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26438:goals:0"
+  },
+  {
+   "title": "Effektutvärderingar",
+   "group": [],
+   "text": "Vinnova ska redovisa hur myndigheten har arbetat för att utveckla förutsättningarna för att myndighetens insatser på ett systematiskt sätt ska kunna effektutvärderas. Av redovisningen ska framgå hur myndigheten har samarbetat med andra myndigheter och aktörer i frågan.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26438:goals:1"
+  },
+  {
+   "title": "Svenskt deltagande i Horisont Europa",
+   "group": [],
+   "text": "Vinnova ska redovisa vilka insatser som har vidtagits för att bidra till de mål som anges i den nationella strategin för svenskt deltagande i Horisont Europa 2021–2027 (U2021/03975).",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26438:goals:2"
+  },
+  {
+   "title": "Nationell strategi för life science",
+   "group": [],
+   "text": "Vinnova ska redogöra för hur myndigheten har arbetat för att bidra till de målsättningar som anges i den nationella strategin för life science (KN2024/02228).",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26438:goals:3"
+  },
+  {
+   "title": "Förbättrad hantering av immateriella tillgångar",
+   "group": [],
+   "text": "Vinnova ska redogöra för hur myndigheten har arbetat med och bistått i finansierade aktörers hantering av immateriella tillgångar i syfte att möjliggöra ökat värdeskapande.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "samordna"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26438:goals:4"
+  },
+  {
+   "title": "Insatser för nyttiggörande och kommersialisering av innovation",
+   "group": [],
+   "text": "Vinnova ska redovisa vilka insatser myndigheten har genomfört för att främja verifiering och validering av idéer och forskningsresultat med stor potential för kommersialisering och nyttiggörande. En viktig målgrupp är forskare, studenter och anställda vid universitet, högskolor och forskningsinstitut som önskar verifiera sina idéer eller forskningsresultat. Redovisningen ska innehålla uppgifter om hur medlen har fördelats på olika aktörer och på olika typer av stöd samt en analys av hur behoven ser ut och en framtida förväntad efterfrågan.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "fördela_medel"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26438:goals:5"
+  },
+  {
+   "title": "Brottsförebyggande arbete och felaktiga utbetalningar",
+   "group": [],
+   "text": "Vinnova ska redovisa vilka åtgärder som har vidtagits för att motverka felaktiga utbetalningar av stöd och bidrag till företag och civilsamhälle, samt andra initiativ som myndigheten har vidtagit inom det brottsförebyggande arbetet.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "fördela_medel"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26438:goals:6"
+  },
+  {
+   "title": "Färdval och resepolicy vid tjänsteresor",
+   "group": [],
+   "text": "Alla trafikslag ska kunna nyttjas (väg, järnväg, luft- och sjöfart) för att säkerställa effektiva och ändamålsenliga transporter. Vinnova ska därför redovisa hur myndigheten har säkerställt att val av färdsätt vid tjänsteresor sker färdmedelsneutralt och utifrån behov. Vidare ska Vinnova redovisa huruvida myndigheten köpt in hållbart flygbränsle till organisationens flygresor. När kostnader jämförs för olika färdval ska hela resans kostnad beaktas, exempelvis kostnader för nödvändig övernattning samt total arbetstid för hela resan.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26438:goals:7"
+  }
+ ],
+ "org": [],
+ "assignments": [
+  {
+   "title": "Stöd till Ukraina",
+   "group": [],
+   "text": "Vinnova ska i samverkan med relevanta svenska myndigheter och andra aktörer bidra till innovationssamarbete med aktörer i Ukraina. Uppdraget ska redovisas löpande i dialog med Regeringskansliet (Klimat- och Näringslivsdepartementet).",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26438:assignments:0"
+  },
+  {
+   "title": "Prognoser",
+   "group": [],
+   "text": "Vinnova ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Prognoserna lämnas i informationssystemet Hermes senast den\n\n– 2 februari,\n\n– 22 april,\n\n– 24 juli och\n\n– 9 november.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26438:assignments:1"
+  },
+  {
+   "title": "Prognos för beställningsbemyndiganden",
+   "group": [],
+   "text": "Myndigheten ska redovisa en prognos för de förslag om beställningsbemyndiganden som lämnats i budgetunderlaget och för de åtaganden som ingåtts med stöd av äldre beställningsbemyndiganden. Prognosen ska lämnas senast den 24 juli 2026 via Statsredovisningssystemet i Hermes och utformas enligt närmare information från Statskontoret.",
+   "dates": [
+    "2026-07-24"
+   ],
+   "deadlines": [
+    "2026-07-24"
+   ],
+   "forecast_dates": [],
+   "recipients": [],
+   "partners": [
+    "Statskontoret"
+   ],
+   "channels": [
+    "hermes",
+    "budgetunderlag"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26438:assignments:2"
+  },
+  {
+   "title": "Pågående uppdrag",
+   "group": [],
+   "text": "I*bilagan*anges Vinnovas pågående uppdrag.\n\n*För regeringsuppdrag som lämnats i ett särskilt regeringsbeslut utgör bilagan endast en upplysning om vilka uppdrag som vid årets början var riktade till myndigheten och vilka tider som då gällde för återrapportering eller liknande.*",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "26438:assignments:3"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "1:1",
+   "name": "Verket för innovationssystem",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 24,
+    "name": "Näringsliv"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Verket för innovationssystem",
+     "amount_tkr": 309753,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Verket för innovationssystem (ram)",
+       "amount_tkr": 309753
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Verket för innovationssystem",
+     "text": "Anslagsposten disponeras av Vinnova för myndighetens förvaltningsutgifter."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "1:2",
+   "name": "Verket för innovationssystem: Forskning och utveckling",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 24,
+    "name": "Näringsliv"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Verket för innovationssystem",
+     "amount_tkr": 3244595,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Verket för innovationssystem (ram)",
+       "amount_tkr": 3244595
+      }
+     ],
+     "sum_ok": true
+    },
+    {
+     "by": "Forskningsrådet för miljö, areella näringar och samhällsbyggande",
+     "amount_tkr": 43000,
+     "items": [
+      {
+       "ap": "3",
+       "name": "Verk f innov.syst: F - del till Forskningsrådet för miljö, areella näringar och samhällsbyggande (ram)",
+       "amount_tkr": 43000
+      }
+     ],
+     "sum_ok": true
+    },
+    {
+     "by": "Forskningsrådet för hälsa, arbetsliv och välfärd",
+     "amount_tkr": 8000,
+     "items": [
+      {
+       "ap": "2",
+       "name": "Verk f innov.syst: F - del till Forskningsrådet för hälsa, arbetsliv och välfärd (ram)",
+       "amount_tkr": 8000
+      }
+     ],
+     "sum_ok": true
+    },
+    {
+     "by": "Vetenskapsrådet",
+     "amount_tkr": 62860,
+     "items": [
+      {
+       "ap": "5",
+       "name": "Verk f innov.syst: F - del till Vetenskapsrådet (ram)",
+       "amount_tkr": 62860
+      }
+     ],
+     "sum_ok": true
+    },
+    {
+     "by": "Statens energimyndighet",
+     "amount_tkr": 47000,
+     "items": [
+      {
+       "ap": "4",
+       "name": "Verk f innov.syst: F - del till Statens energimyndighet (ram)",
+       "amount_tkr": 47000
+      }
+     ],
+     "sum_ok": true
+    },
+    {
+     "by": "Rymdstyrelsen",
+     "amount_tkr": 3000,
+     "items": [
+      {
+       "ap": "7",
+       "name": "Verk f innov.syst: F - del till Rymdstyrelsen (ram)",
+       "amount_tkr": 3000
+      }
+     ],
+     "sum_ok": true
+    },
+    {
+     "by": "Kammarkollegiet",
+     "amount_tkr": 20000,
+     "items": [
+      {
+       "ap": "6",
+       "name": "Verk f innov.syst: F - del till Kammarkollegiet (ram)",
+       "amount_tkr": 20000
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Verket för innovationssystem",
+     "text": "Anslagsposten får användas för utgifter för behovsmotiverad forsknings- och utvecklingsverksamhet, utveckling av innovationssystem och programanknutna utgifter såsom utvärderingar, beredningsarbete, revision, informationsinsatser, verksamhetsrelaterade it-system, konferenser, resor och seminarier.\nVinnova ska använda minst:\n- 87 miljoner kronor för svenskt deltagande i det europeiska forsknings- och innovationssamarbetet, inklusive samarbete med Ukraina. Anslagsposten får även användas för insatser för att stärka svenska aktörers deltagande exempelvis genom sekondering av nationella experter vid EU:s institutioner. Högst 17,14 miljoner kronor får användas för att koordinera och finansiera deltagande i internationellt forsknings- och innovationssamarbete,\n- 321 miljoner kronor för att underlätta etablering, användning, tillgängliggörande och utveckling av test- och demonstrationsmiljöer, varav minst 28 miljoner kronor ska användas till nyttiggörande av forskningsinfrastruktur för näringslivet,\n- 60 miljoner kronor för insatser kopplade till lärosätenas arbete med strategier för samverkan, hantering av immateriella tillgångar och nyttiggörande av kunskap och kompetens,\n- 80 miljoner kronor till verifiering och validering av forskningsresultat och idéer med stor innovationspotential, där minst 50 miljoner kronor ska riktas till forskare, studenter och anställda vid universitet, högskolor och forskningsinstitut,\n- 100 miljoner kronor för stöd till inkubation,\n- 570 miljoner kronor för innovations- och forskningsprogrammet Avancerad digitalisering,\n- 17 miljoner kronor för deltagande i EU:s partnerskapsprogram och för svenska aktörers deltagande i EU-program och projekt inom metaller och mineral, samt\n- 20 miljoner kronor för medfinansiering av AI-fabrik. Medlen, som avser återflöde av EU-medel från tidigare finansieringsinstrument under programperioden 2007–2013, ska enligt EU:s regelverk användas för det ursprungliga ändamålet vilket är till förmån för små och medelstora företag.\nAv anslaget får högst 662 miljoner kronor användas för strategiska innovationsområden.\nAv anslaget får högst 97 miljoner kronor användas för genomförandet av uppdrag att stärka flygteknisk forskning utveckling och innovation, Nationella flygtekniska forskningsprogrammet (NFFP) (KN2025/01329).\nAv anslaget ska minst 100 miljoner kronor användas för genomförandet av uppdraget att stärka forskning och innovation för sjätte generationens trådlösa system 6G (KN2024/00613).\nAv anslaget får högst 60 miljoner kronor användas för genomförandet av uppdraget att öka innovationskraft och innovationsförmåga längs hela batterivärdekedjan (KN2025/00885).\nAv anslaget ska minst 143 miljoner kronor användas för uppdraget att genomföra insatser för samverkansbaserad forskning och innovation inom excellenskluster för banbrytande och strategisk teknik (KN2025/01161).\nAv anslaget ska minst 52 miljoner kronor användas för uppdraget att inrätta ett program för avancerad life science (KN2025/01485).\nAv anslaget ska medel användas för statsbidrag till RISE Research Institutes of Sweden AB för riksmätplatser och dithörande verksamhet.\nStipendier för doktorander som är avsedda att vara ett alternativ till lön eller annan studiefinansiering får inte finansieras via anslaget.\nI det fall förordningen (2015:208) om stöd till forskning och utveckling samt innovation är tillämplig, får stödåtgärder som omfattas av EU:s regler om statsstöd ges ut med högst 1 300 miljoner kronor per år i enlighet med kommissionens förordning (EU) 651/2014."
+    },
+    {
+     "ap": "2",
+     "name": "Verk f innov.syst: F - del till Forskningsrådet för hälsa, arbetsliv och välfärd",
+     "text": "Anslagsposten får användas för svenskt deltagande i det europeiska forsknings- och innovationssamarbetet, inklusive samarbete med Ukraina. Anslagsposten får även användas för insatser för att stärka svenska aktörers deltagande exempelvis genom sekondering av nationella experter vid EU:s institutioner."
+    },
+    {
+     "ap": "3",
+     "name": "Verk f innov.syst: F - del till Forskningsrådet för miljö, areella näringar och samhällsbyggande",
+     "text": "Anslagsposten får användas för svenskt deltagande i det europeiska forsknings- och innovationssamarbetet, inklusive samarbete med Ukraina. Anslagsposten får även användas för insatser för att stärka svenska aktörers deltagande exempelvis genom sekondering av nationella experter vid EU:s institutioner."
+    },
+    {
+     "ap": "4",
+     "name": "Verk f innov.syst: F - del till Statens energimyndighet",
+     "text": "Anslagsposten får användas för svenskt deltagande i det europeiska forsknings- och innovationssamarbetet, inklusive samarbete med Ukraina. Anslagsposten får även användas för insatser för att stärka svenska aktörers deltagande exempelvis genom sekondering av nationella experter vid EU:s institutioner. Högst 3 miljoner kronor av anslagsposten får användas för att finansiera deltagande i internationellt forsknings- och innovationssamarbete."
+    },
+    {
+     "ap": "5",
+     "name": "Verk f innov.syst: F - del till Vetenskapsrådet",
+     "text": "Anslagsposten får användas för svenskt deltagande i det europeiska forsknings- och innovationssamarbetet, inklusive samarbete med Ukraina. Anslagsposten får även användas för insatser för att stärka svenska aktörers deltagande exempelvis genom sekondering av nationella experter vid EU:s institutioner. Högst 4,86 miljoner kronor av anslagsposten får användas för att finansiera deltagande i internationellt forsknings- och innovationssamarbete."
+    },
+    {
+     "ap": "6",
+     "name": "Verk f innov.syst: F - del till Kammarkollegiet",
+     "text": "Från anslagsposten ska Kammarkollegiet mot rekvisition senast den 1 november 2026 betala ut bidrag till Swerim AB med 20 000 0000 kronor (KN2026/01215)."
+    },
+    {
+     "ap": "7",
+     "name": "Verk f innov.syst: F - del till Rymdstyrelsen",
+     "text": "Anslagsposten får användas för svenskt deltagande i det europeiska forsknings- och innovationssamarbetet, inklusive samarbete med Ukraina. Anslagsposten får även användas för insatser för att stärka svenska aktörers deltagande exempelvis genom sekondering av nationella experter vid EU:s institutioner."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "1:1 Verket för innovationssystem",
+   "ap": "ap.1",
+   "Anslagskredit": 9292,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:2 Verket för innovationssystem: Forskning och utveckling",
+   "ap": "ap.1",
+   "Anslagskredit": 99132,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:2 Verket för innovationssystem: Forskning och utveckling",
+   "ap": "ap.2",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:2 Verket för innovationssystem: Forskning och utveckling",
+   "ap": "ap.3",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:2 Verket för innovationssystem: Forskning och utveckling",
+   "ap": "ap.4",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:2 Verket för innovationssystem: Forskning och utveckling",
+   "ap": "ap.5",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:2 Verket för innovationssystem: Forskning och utveckling",
+   "ap": "ap.6",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:2 Verket för innovationssystem: Forskning och utveckling",
+   "ap": "ap.7",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 31000,
+  "Räntekontokredit": 8000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 25813
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 25813
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 25813
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 25813
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 25813
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 25813
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 25813
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 25813
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 25813
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 25813
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 25813
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 25810
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:1 Verket för innovationssystem",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "9 292",
+     "3 %",
+     "0"
+    ],
+    [
+     "1:2 Verket för innovationssystem: Forskning och utveckling",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "99 132",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.2",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.3",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.4",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.5",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.6",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.7",
+     "0",
+     "Inget",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Beställningsbemyndiganden",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Bemyndigande",
+     "Utgifter mot anslag till följd av ekonomiska åtaganden",
+     "",
+     "",
+     ""
+    ],
+    [
+     "2026",
+     "2027",
+     "2028",
+     "2029 -",
+     "Slutår"
+    ],
+    [
+     "1:2 Verket för innovationssystem: Forskning och utveckling",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "3 750 000",
+     "2 000 000",
+     "1 000 000",
+     "750 000",
+     "2031"
+    ],
+    [
+     "ap.3",
+     "62 000",
+     "30 000",
+     "20 000",
+     "12 000",
+     "2031"
+    ],
+    [
+     "ap.5",
+     "68 513",
+     "30 000",
+     "25 000",
+     "13 513",
+     "2031"
+    ],
+    [
+     "ap.4",
+     "50 000",
+     "25 000",
+     "25 000",
+     "",
+     "2028"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "31 000"
+    ],
+    [
+     "Räntekontokredit",
+     "8 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "25 813"
+    ],
+    [
+     "2026-02-25",
+     "25 813"
+    ],
+    [
+     "2026-03-25",
+     "25 813"
+    ],
+    [
+     "2026-04-25",
+     "25 813"
+    ],
+    [
+     "2026-05-25",
+     "25 813"
+    ],
+    [
+     "2026-06-25",
+     "25 813"
+    ],
+    [
+     "2026-07-25",
+     "25 813"
+    ],
+    [
+     "2026-08-25",
+     "25 813"
+    ],
+    [
+     "2026-09-25",
+     "25 813"
+    ],
+    [
+     "2026-10-25",
+     "25 813"
+    ],
+    [
+     "2026-11-25",
+     "25 813"
+    ],
+    [
+     "2026-12-25",
+     "25 810"
+    ],
+    [
+     "Summa",
+     "309 753"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "1:1 ap.1",
+     "Verket för innovationssystem"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [],
+ "has_fee_section": false,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 8,
+  "n_org": 0,
+  "n_assignments": 4,
+  "n_deadlines": 1,
+  "deadlines": [
+   "2026-07-24"
+  ],
+  "partners": [
+   "Forskningsrådet för hälsa, arbetsliv och välfärd",
+   "Forskningsrådet för miljö, areella näringar och samhällsbyggande",
+   "Statens energimyndighet",
+   "Statskontoret",
+   "Vetenskapsrådet"
+  ],
+  "n_appropriations": 2,
+  "appropriations_total_tkr": 3738208,
+  "payment_plan_total_tkr": 309753,
+  "md_chars": 16301
+ },
+ "layout": "standard",
+ "warnings": []
+}

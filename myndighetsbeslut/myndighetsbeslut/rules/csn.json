@@ -1,0 +1,5 @@
+{
+ "default_year": 2026,
+ "prisbasbelopp": {"2025": 58800, "2026": 59200},
+ "source": "Prisbasbelopp 2026 enligt csn.se (se sources/csn_rules_2026.json); procentsatser ur studiestödslagen 3 kap. och studiestödsförordningen 3 kap. (sources/lag)."
+}

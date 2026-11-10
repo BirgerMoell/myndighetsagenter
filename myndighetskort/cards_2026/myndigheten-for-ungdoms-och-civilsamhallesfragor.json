@@ -1,0 +1,824 @@
+{
+ "schema_version": 1,
+ "id": 27468,
+ "original_rbid": 25827,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-05-28",
+ "year": "2026",
+ "name": "Myndigheten för ungdoms- och civilsamhällesfrågor",
+ "slug": "myndigheten-for-ungdoms-och-civilsamhallesfragor",
+ "department": "Socialdepartementet",
+ "expenditure_areas": [
+  17
+ ],
+ "registry_numbers": [
+  "S2026/01093"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1"
+  ],
+  "bet": [
+   "2025/26:KrU1"
+  ],
+  "rskr": [
+   "2025/26:80"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "Myndigheten för ungdoms- och civilsamhällesfrågors huvudsakliga uppgifter framgår från och med den 1 januari 2026 av förordningen (2025:900) med instruktion för Myndigheten för ungdoms- och civilsamhällesfrågor.",
+ "goals": [
+  {
+   "title": "Mål för ungdomspolitiken",
+   "group": [],
+   "text": "Myndigheten ska särskilt prioritera:\n\n- ungas psykiska hälsa,\n- ungas sociala inkludering och etablering på arbetsmarknaden,\n- ungas delaktighet i samhällsbygget, och\n- ungas fritid.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "ungas psykiska hälsa,",
+    "ungas sociala inkludering och etablering på arbetsmarknaden,",
+    "ungas delaktighet i samhällsbygget, och"
+   ],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27468:goals:0"
+  },
+  {
+   "title": "Återrapportering, ungdomspolitiken",
+   "group": [],
+   "text": "Myndigheten ska, utöver vad som anges i 29 § förordningen (2011:65) om statsbidrag till barn- och ungdomsorganisationer, redovisa uppgifter om vilka ideella organisationer som har fått organisationsbidrag respektive projektbidrag. Redovisningen ska också innehålla en samlad uppställning av antalet bidragsgrundande medlemmar fördelat på ålder och kön om det inte finns särskilda skäl mot detta.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "fördela_medel"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2011:65"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27468:goals:1"
+  },
+  {
+   "title": "Mål för politiken för det civila samhället",
+   "group": [],
+   "text": "Myndigheten ska särskilt prioritera att:\n\n- öka kunskapen om civilsamhällets förutsättningar, roll och mervärde hos offentliga aktörer, bl.a. genom sina nätverk för myndighetssamverkan, samt bidra till ökad samverkan mellan civilsamhälle och offentliga aktörer, och\n- säkerställa att framtaget uppföljningssystem om det civila samhället förvaltas.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "analysera",
+    "samordna"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "öka kunskapen om civilsamhällets förutsättningar, roll och mervärde hos offentliga aktörer, bl.a. genom sina nätverk för myndighetssamverkan, samt bidra till ökad samverkan mellan civilsamhälle och offentliga aktörer, och",
+    "säkerställa att framtaget uppföljningssystem om det civila samhället förvaltas."
+   ],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27468:goals:2"
+  },
+  {
+   "title": "Återrapportering, politiken för det civila samhället",
+   "group": [],
+   "text": "Myndigheten ska redovisa vilka åtgärder som har vidtagits för att stödja civila samhällets organisationer i att utveckla organisationernas förmåga att hantera nödvändiga krav på administrativ kompetens.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27468:goals:3"
+  },
+  {
+   "title": "Återrapportering, trossamfund",
+   "group": [],
+   "text": "Myndigheten ska redovisa vilka åtgärder som har vidtagits för att verka för ökad kunskap om religion och trossamfund hos offentliga aktörer.\n\nMyndigheten ska redovisa vilka åtgärder som har vidtagits avseende arbetet med försäkringsfrågor gentemot trossamfunden (S2024/02154).",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27468:goals:4"
+  },
+  {
+   "title": "Demokrativillkor",
+   "group": [],
+   "text": "Myndigheten ska redovisa hur den säkerställer att de statsbidrag som myndigheten betalar ut går till verksamheter som uppfyller demokrativillkoren enligt statsbidragsförordningarna.\n\nMyndigheten ska lämna en analys av hur bidragsgivande aktörer har tillämpat det nya demokrativillkoret och bestämmelser för att motverka felaktiga utbetalningar samt redogöra för eventuella behov av ytterligare åtgärder för att stärka regelverk inom bidragsgivningen och för att säkerställa att demokrativillkoret efterlevs och felaktiga utbetalningar motverkas. Myndigheten ska vidare redovisa vidtagna åtgärder samt resultat av myndighetens arbete med att stödja bidragsgivande aktörer och civilsamhällesaktörer i bidragsgivningen. Myndigheten ska också redogöra för hur förutsättningarna för civilsamhällets organisationer påverkas av regelverket i bidragsgivningen.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "fördela_medel"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27468:goals:5"
+  },
+  {
+   "title": "Färdval och resepolicy vid tjänsteresor",
+   "group": [],
+   "text": "Alla trafikslag ska kunna nyttjas (väg, järnväg, luft- och sjöfart) för att säkerställa effektiva och ändamålsenliga transporter. Myndigheten för ungdoms- och civilsamhällesfrågor ska därför redovisa hur myndigheten har säkerställt att val av färdsätt vid tjänsteresor sker färdmedelsneutralt och utifrån behov. Vidare ska Myndigheten för ungdoms- och civilsamhällesfrågor redovisa huruvida myndigheten köpt in hållbart flygbränsle till organisationens flygresor. När kostnader jämförs för olika färdval ska hela resans kostnad beaktas, exempelvis kostnader för nödvändig övernattning samt total arbetstid för hela resan.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27468:goals:6"
+  }
+ ],
+ "org": [
+  {
+   "title": null,
+   "group": [],
+   "text": "Övertagna avsättningar för omstruktureringskostnader som inte har redovisats mot anslag hos Myndigheten för stöd till trossamfund ska redovisas mot anslag i samband med övertagandet.\n\nMyndigheten för ungdoms- och civilsamhällesfrågor ska bistå den som enligt uppdrag (S2025/02015) utsetts att ansvara för Myndigheten för stöd till trossamfunds årsredovisning för 2025 med erforderliga underlag.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Myndigheten för stöd till trossamfund"
+   ],
+   "channels": [
+    "årsredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "samordna"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "org",
+   "item_id": "27468:org:0"
+  }
+ ],
+ "assignments": [
+  {
+   "title": "Politiken för det civila samhället",
+   "group": [],
+   "text": "1. Myndigheten ska betala ut 5 700 000 kronor för verksamhet under 2026 inom ramen för Nationellt organ för dialog och samråd mellan regeringen och det civila samhället (NOD) (Ku2018/00152). Myndigheten ska besluta om de riktlinjer och villkor som ska gälla för utbetalning och redovisning av medlen. Medel för uppdraget ska redovisas mot det under utgiftsområde 17 Kultur, medier, trossamfund och fritid för budgetåret 2026 uppförda anslaget 12:5 Insatser för den ideella sektorn, anslagsposten 5 Nationellt organ för dialog och samråd mellan regeringen och det civila samhället.\n2. Myndighetens årliga rapport för uppföljning av det civila samhällets villkor ska utarbetas i dialog med representanter från det civila samhället och följas upp genom bl.a. dialog inom ramen för NOD. Rapporten ska redovisas till Regeringskansliet (Socialdepartementet) senast den 15 maj 2026.\n3. Myndigheten ska fördela bidrag för studier om det civila samhället. Myndigheten ska i sin årsredovisning för 2026 redovisa de studier som har fått medel från myndigheten. För uppdraget får myndigheten under 2026 använda högst 3 058 000 kronor som ska redovisas mot det under utgiftsområde 17 Kultur, medier, trossamfund och fritid för budgetåret 2026 uppförda anslaget 12:5 Insatser för den ideella sektorn, anslagsposten 6 Studier inom identifierade behovsområden.",
+   "dates": [
+    "2026-05-15"
+   ],
+   "deadlines": [
+    "2026-05-15"
+   ],
+   "recipients": [
+    "Regeringskansliet (Socialdepartementet)"
+   ],
+   "partners": [],
+   "channels": [
+    "årsredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna",
+    "fördela_medel"
+   ],
+   "anslag_refs": [
+    "12:5"
+   ],
+   "expenditure_area_refs": [
+    17
+   ],
+   "sfs_refs": [],
+   "sub_questions": [
+    "Myndigheten ska betala ut 5 700 000 kronor för verksamhet under 2026 inom ramen för Nationellt organ för dialog och samråd mellan regeringen och det civila samhället (NOD) (Ku2018/00152). Myndigheten ska besluta om de riktlinjer och villkor som ska gälla för utbetalning och redovisning av medlen. Medel för uppdraget ska redovisas mot det under utgiftsområde 17 Kultur, medier, trossamfund och fritid för budgetåret 2026 uppförda anslaget 12:5 Insatser för den ideella sektorn, anslagsposten 5 Nationellt organ för dialog och samråd mellan regeringen och det civila samhället.",
+    "Myndighetens årliga rapport för uppföljning av det civila samhällets villkor ska utarbetas i dialog med representanter från det civila samhället och följas upp genom bl.a. dialog inom ramen för NOD. Rapporten ska redovisas till Regeringskansliet (Socialdepartementet) senast den 15 maj 2026.",
+    "Myndigheten ska fördela bidrag för studier om det civila samhället. Myndigheten ska i sin årsredovisning för 2026 redovisa de studier som har fått medel från myndigheten. För uppdraget får myndigheten under 2026 använda högst 3 058 000 kronor som ska redovisas mot det under utgiftsområde 17 Kultur, medier, trossamfund och fritid för budgetåret 2026 uppförda anslaget 12:5 Insatser för den ideella sektorn, anslagsposten 6 Studier inom identifierade behovsområden."
+   ],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27468:assignments:0"
+  },
+  {
+   "title": "Nationella minoriteter",
+   "group": [],
+   "text": "1. Myndigheten ska främja samverkan, följa upp och genomföra insatser inom ramen för den samordnande och långsiktiga strategin för romsk inkludering 2012–2032 (skr. 2011/12:56, bet. 2011/12:KU17, rskr. 2011/12:227). I uppdraget ingår att stödja kommuner som bedriver eller avser att bedriva arbete inom området, och att sprida kunskap om strategin. Ett jämställdhetsperspektiv ska integreras i arbetet. Uppdraget ska redovisas till Regeringskansliet (Kulturdepartementet) senast den 31 mars 2027. Myndigheten ska därutöver i dialog med Länsstyrelsen i Stockholms län färdigställa redovisningen av arbetet med strategin för romsk inkludering under 2025. Uppdraget ska redovisas till Regeringskansliet (Kulturdepartementet) senast den 31 mars 2026.\n2. Myndigheten ska i dialog med Länsstyrelsen i Stockholms län och i samarbete med Sametinget färdigställa redovisningen av utvecklingen inom minoritetspolitiken. Uppdraget ska redovisas till Regeringskansliet (Kulturdepartementet) senast den 31 mars 2026.\n3. Myndigheten ska genomföra en kartläggning av unga judars psykiska hälsa och ohälsa. I kartläggningen ska omgivande faktorer såsom otrygghet, utsatthet för antisemitism och bemötande i bl.a. hälso- och sjukvården samt främjande och förebyggande faktorer som har påverkan på den psykiska hälsan hos unga judar särskilt uppmärksammas. Vidare ska faktorer som hör samman med bl.a. bostadsort uppmärksammas. Kartläggningen ska även ge svar på vilket stöd unga judar själva efterfrågar och vilka aktörer som unga judar upplever att de kan, eller skulle vilja, få stöd från. När uppdraget utförs ska unga judars egna erfarenheter genomgående tas tillvara och unga judar själva få komma till tals och beskriva sin livssituation utifrån det egna perspektivet. När uppdraget utförs ska myndigheten föra dialog med och inhämta kunskap och erfarenheter från berörda aktörer, däribland Folkhälsomyndigheten, Socialstyrelsen, den nationella samordnaren för regeringens strategi för att stärka judiskt liv och motverka antisemitism och Judiska ungdomsförbundet. Ett jämställdhetsperspektiv ska integreras i arbetet. Myndigheten ska senast den 30 april 2027 lämna en slutredovisning av uppdraget till Regeringskansliet (Socialdepartementet). För uppdraget får myndigheten under 2026 använda 1 300 000 kronor som ska redovisas mot det under utgiftsområde 9 Hälsovård, sjukvård och social omsorg för budgetåret 2026 uppförda anslaget 1:8 Bidrag till psykiatri, anslagsposten 3 Till Kammarkollegiets disposition. Medlen betalas ut engångsvis efter rekvisition till Kammarkollegiet senast den 1 december 2026. Medel som inte har använts för avsett ändamål ska återbetalas senast den 31 mars 2027 till Kammarkollegiet. Vid samma tidpunkt ska en ekonomisk redovisning av använda medel lämnas till Kammarkollegiet. Redovisning, rekvisition och återbetalning ska hänvisa till diarienumret för detta beslut.",
+   "dates": [
+    "2026-03-31",
+    "2026-12-01",
+    "2027-03-31",
+    "2027-04-30"
+   ],
+   "deadlines": [
+    "2026-03-31",
+    "2026-12-01",
+    "2027-03-31",
+    "2027-04-30"
+   ],
+   "recipients": [
+    "Kammarkollegiet",
+    "Regeringskansliet (Kulturdepartementet)",
+    "Regeringskansliet (Socialdepartementet)"
+   ],
+   "partners": [
+    "Folkhälsomyndigheten",
+    "Kammarkollegiet",
+    "Sametinget",
+    "Socialstyrelsen",
+    "länsstyrelserna"
+   ],
+   "channels": [
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna",
+    "fördela_medel",
+    "utveckla",
+    "informera"
+   ],
+   "anslag_refs": [
+    "1:8"
+   ],
+   "expenditure_area_refs": [
+    9
+   ],
+   "sfs_refs": [],
+   "sub_questions": [
+    "Myndigheten ska främja samverkan, följa upp och genomföra insatser inom ramen för den samordnande och långsiktiga strategin för romsk inkludering 2012–2032 (skr. 2011/12:56, bet. 2011/12:KU17, rskr. 2011/12:227). I uppdraget ingår att stödja kommuner som bedriver eller avser att bedriva arbete inom området, och att sprida kunskap om strategin. Ett jämställdhetsperspektiv ska integreras i arbetet. Uppdraget ska redovisas till Regeringskansliet (Kulturdepartementet) senast den 31 mars 2027. Myndigheten ska därutöver i dialog med Länsstyrelsen i Stockholms län färdigställa redovisningen av arbetet med strategin för romsk inkludering under 2025. Uppdraget ska redovisas till Regeringskansliet (Kulturdepartementet) senast den 31 mars 2026.",
+    "Myndigheten ska i dialog med Länsstyrelsen i Stockholms län och i samarbete med Sametinget färdigställa redovisningen av utvecklingen inom minoritetspolitiken. Uppdraget ska redovisas till Regeringskansliet (Kulturdepartementet) senast den 31 mars 2026.",
+    "Myndigheten ska genomföra en kartläggning av unga judars psykiska hälsa och ohälsa. I kartläggningen ska omgivande faktorer såsom otrygghet, utsatthet för antisemitism och bemötande i bl.a. hälso- och sjukvården samt främjande och förebyggande faktorer som har påverkan på den psykiska hälsan hos unga judar särskilt uppmärksammas. Vidare ska faktorer som hör samman med bl.a. bostadsort uppmärksammas. Kartläggningen ska även ge svar på vilket stöd unga judar själva efterfrågar och vilka aktörer som unga judar upplever att de kan, eller skulle vilja, få stöd från. När uppdraget utförs ska unga judars egna erfarenheter genomgående tas tillvara och unga judar själva få komma till tals och beskriva sin livssituation utifrån det egna perspektivet. När uppdraget utförs ska myndigheten föra dialog med och inhämta kunskap och erfarenheter från berörda aktörer, däribland Folkhälsomyndigheten, Socialstyrelsen, den nationella samordnaren för regeringens strategi för att stärka judiskt liv och motverka antisemitism och Judiska ungdomsförbundet. Ett jämställdhetsperspektiv ska integreras i arbetet. Myndigheten ska senast den 30 april 2027 lämna en slutredovisning av uppdraget till Regeringskansliet (Socialdepartementet). För uppdraget får myndigheten under 2026 använda 1 300 000 kronor som ska redovisas mot det under utgiftsområde 9 Hälsovård, sjukvård och social omsorg för budgetåret 2026 uppförda anslaget 1:8 Bidrag till psykiatri, anslagsposten 3 Till Kammarkollegiets disposition. Medlen betalas ut engångsvis efter rekvisition till Kammarkollegiet senast den 1 december 2026. Medel som inte har använts för avsett ändamål ska återbetalas senast den 31 mars 2027 till Kammarkollegiet. Vid samma tidpunkt ska en ekonomisk redovisning av använda medel lämnas till Kammarkollegiet. Redovisning, rekvisition och återbetalning ska hänvisa till diarienumret för detta beslut."
+   ],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27468:assignments:1"
+  },
+  {
+   "title": "Demokrati",
+   "group": [],
+   "text": "1. Myndigheten ska genomföra skolval 2026, riktat till gymnasieelever och elever i grundskolans årskurs 7–9, i samband med de allmänna valen 2026. Särskild vikt ska läggas vid att tillgängliggöra skolval för att nå grupper med traditionellt sett lägre valdeltagande såsom unga, utrikes födda, personer med funktionsnedsättning, unga personer med låg utbildning samt boende i områden där utanförskapet är stort, samt vid att tillgängliggöra skolval för anpassade grundskolan och anpassade gymnasieskolan. I uppdraget ingår att följa upp och utvärdera genomförandet av skolval 2026. För uppdraget får myndigheten under 2026 använda högst 6 900 000 kronor som ska redovisas mot det under utgiftsområde 1 Rikets styrelse uppförda anslaget 6:1 Allmänna val och demokrati, anslagsposten 2 Valdeltagande - skolval 2026. Beloppet inkluderar utgifter för valsedlar och administrativa kostnader. Uppdraget ska redovisas till Regeringskansliet (Kulturdepartementet) senast den 3 april 2027. Vid genomförandet av uppdraget ska myndigheten samråda med Statens skolverk och Valmyndigheten samt med relevanta aktörer inom det civila samhället.\n2. Myndigheten ska bistå dels utredningen om parallella samhällsstrukturer (A 2025:02), dels den utredning för att ta fram kunskapsunderlag om religiös radikalisering som regeringen aviserat, bl.a. vad gäller politisk islam och andra former av extremism (jfr prop. 2025/2026:1, utg.omr. 13, s. 94, och svar på riksdagsfråga 2025/26:246).",
+   "dates": [
+    "2027-04-03"
+   ],
+   "deadlines": [
+    "2027-04-03"
+   ],
+   "recipients": [
+    "Regeringskansliet (Kulturdepartementet)"
+   ],
+   "partners": [
+    "Statens skolverk",
+    "Valmyndigheten"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna",
+    "utveckla"
+   ],
+   "anslag_refs": [
+    "6:1"
+   ],
+   "expenditure_area_refs": [
+    1
+   ],
+   "sfs_refs": [],
+   "sub_questions": [
+    "Myndigheten ska genomföra skolval 2026, riktat till gymnasieelever och elever i grundskolans årskurs 7–9, i samband med de allmänna valen 2026. Särskild vikt ska läggas vid att tillgängliggöra skolval för att nå grupper med traditionellt sett lägre valdeltagande såsom unga, utrikes födda, personer med funktionsnedsättning, unga personer med låg utbildning samt boende i områden där utanförskapet är stort, samt vid att tillgängliggöra skolval för anpassade grundskolan och anpassade gymnasieskolan. I uppdraget ingår att följa upp och utvärdera genomförandet av skolval 2026. För uppdraget får myndigheten under 2026 använda högst 6 900 000 kronor som ska redovisas mot det under utgiftsområde 1 Rikets styrelse uppförda anslaget 6:1 Allmänna val och demokrati, anslagsposten 2 Valdeltagande - skolval 2026. Beloppet inkluderar utgifter för valsedlar och administrativa kostnader. Uppdraget ska redovisas till Regeringskansliet (Kulturdepartementet) senast den 3 april 2027. Vid genomförandet av uppdraget ska myndigheten samråda med Statens skolverk och Valmyndigheten samt med relevanta aktörer inom det civila samhället.",
+    "Myndigheten ska bistå dels utredningen om parallella samhällsstrukturer (A 2025:02), dels den utredning för att ta fram kunskapsunderlag om religiös radikalisering som regeringen aviserat, bl.a. vad gäller politisk islam och andra former av extremism (jfr prop. 2025/2026:1, utg.omr. 13, s. 94, och svar på riksdagsfråga 2025/26:246)."
+   ],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27468:assignments:2"
+  },
+  {
+   "title": "Jämställdhet och mänskliga rättigheter",
+   "group": [],
+   "text": "1. Myndigheten ska bidra med kunskap och erfarenheter i Jämställdhetsmyndighetens uppdrag att samordna arbetet med att förebygga och bekämpa könsstympning av flickor och kvinnor (Jämställdhetsmyndighetens regleringsbrev för budgetåret 2026). Myndigheten ska arbeta med att öka kunskapen om hedersrelaterat våld och förtryck, med fokus på könsstympning, kopplat till trossamfundens verksamhet genom kunskapshöjande insatser och kompetensutveckling som kan bidra till attityd- och strukturförändringar. För uppdraget får myndigheten använda medel som har avsatts och ska redovisas mot det under utgiftsområde 13 Integration och jämställdhet för budgetåret 2026 uppförda anslaget 3:1 Särskilda jämställdhetsåtgärder, anslagsposten 11 Särskilda jämställdhetsåtgärder - del till MUCF.\n2. Myndighetens uppdrag i regleringsbrevet för 2024 om att genomföra en fördjupad analys av behovet av stödinsatser om hedersrelaterat våld och förtryck, inklusive utsatthet för s.k. omvändelseförsök mot unga hbtqi-personer ändras på följande sätt. Myndigheten ska även sprida kunskap om hur det straffrättsliga skyddet mot omvändelseförsök genom hot eller tvång stärks genom den nya straffbestämmelsen om psykiskt våld som träder i kraft den 1 juli 2026 (prop. 2025/26:138). För ändringen får myndigheten använda högst 750 000 kronor som ska redovisas mot det under utgiftsområde 13 Integration och jämställdhet för budgetåret 2026 uppförda anslaget 3:1 Särskilda jämställdhetsåtgärder, anslagsposten 11 Särskilda jämställdhetsåtgärder - del till MUCF.",
+   "dates": [
+    "2026-07-01"
+   ],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Jämställdhetsmyndigheten"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "utveckla",
+    "informera"
+   ],
+   "anslag_refs": [
+    "3:1"
+   ],
+   "expenditure_area_refs": [
+    13
+   ],
+   "sfs_refs": [],
+   "sub_questions": [
+    "Myndigheten ska bidra med kunskap och erfarenheter i Jämställdhetsmyndighetens uppdrag att samordna arbetet med att förebygga och bekämpa könsstympning av flickor och kvinnor (Jämställdhetsmyndighetens regleringsbrev för budgetåret 2026). Myndigheten ska arbeta med att öka kunskapen om hedersrelaterat våld och förtryck, med fokus på könsstympning, kopplat till trossamfundens verksamhet genom kunskapshöjande insatser och kompetensutveckling som kan bidra till attityd- och strukturförändringar. För uppdraget får myndigheten använda medel som har avsatts och ska redovisas mot det under utgiftsområde 13 Integration och jämställdhet för budgetåret 2026 uppförda anslaget 3:1 Särskilda jämställdhetsåtgärder, anslagsposten 11 Särskilda jämställdhetsåtgärder - del till MUCF.",
+    "Myndighetens uppdrag i regleringsbrevet för 2024 om att genomföra en fördjupad analys av behovet av stödinsatser om hedersrelaterat våld och förtryck, inklusive utsatthet för s.k. omvändelseförsök mot unga hbtqi-personer ändras på följande sätt. Myndigheten ska även sprida kunskap om hur det straffrättsliga skyddet mot omvändelseförsök genom hot eller tvång stärks genom den nya straffbestämmelsen om psykiskt våld som träder i kraft den 1 juli 2026 (prop. 2025/26:138). För ändringen får myndigheten använda högst 750 000 kronor som ska redovisas mot det under utgiftsområde 13 Integration och jämställdhet för budgetåret 2026 uppförda anslaget 3:1 Särskilda jämställdhetsåtgärder, anslagsposten 11 Särskilda jämställdhetsåtgärder - del till MUCF."
+   ],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27468:assignments:3"
+  },
+  {
+   "title": "Utveckling av registret över verkliga huvudmän",
+   "group": [],
+   "text": "1. Myndigheten ska bistå Bolagsverket i deras uppdrag att i arbetet med utvecklingen av registret över verkliga huvudmän ta hänsyn till behovet av informationsinsatser i förhållande till civila samhällets aktörer (Bolagsverkets regleringsbrev för budgetåret 2026).",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Bolagsverket"
+   ],
+   "channels": [],
+   "task_types": [
+    "samordna",
+    "informera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "Myndigheten ska bistå Bolagsverket i deras uppdrag att i arbetet med utvecklingen av registret över verkliga huvudmän ta hänsyn till behovet av informationsinsatser i förhållande till civila samhällets aktörer (Bolagsverkets regleringsbrev för budgetåret 2026)."
+   ],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27468:assignments:4"
+  },
+  {
+   "title": "Prognoser",
+   "group": [],
+   "text": "Myndigheten ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Prognoserna lämnas i informationssystemet Hermes senast den\n\n- 2 februari,\n\n- 22 april,\n\n- 24 juli, och\n\n- 9 november.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27468:assignments:5"
+  },
+  {
+   "title": "Prognos för beställningsbemyndiganden",
+   "group": [],
+   "text": "Myndigheten ska redovisa en prognos för de förslag om beställningsbemyndiganden som lämnats i budgetunderlaget och för de åtaganden som ingåtts med stöd av äldre beställningsbemyndiganden. Prognosen ska lämnas senast den 24 juli 2026 via Statsredovisningssystemet i Hermes och utformas enligt närmare information från Ekonomistyrningsverket.",
+   "dates": [
+    "2026-07-24"
+   ],
+   "deadlines": [
+    "2026-07-24"
+   ],
+   "forecast_dates": [],
+   "recipients": [],
+   "partners": [
+    "Ekonomistyrningsverket"
+   ],
+   "channels": [
+    "hermes",
+    "budgetunderlag"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27468:assignments:6"
+  },
+  {
+   "title": "Tidigare givna uppdrag i regleringsbrev eller särskilda beslut",
+   "group": [],
+   "text": "| | | |\n| --- | --- | --- |\n| Sammanfattning av uppdraget | Beslut om uppdraget | Rapporteringstidpunkt |\n| Uppdrag att betala ut statsbidrag till kommuner och regioner för insatser där kommunen eller regionen samverkar med olika samhällsaktörer i syfte att underlätta etableringen i arbets- och samhällslivet för unga som varken arbetar eller studerar eller som löper risk att hamna i en sådan situation. Särskilt fokus ska ligga på unga med psykisk ohälsa som varken arbetar eller studerar. | Regleringsbrev 2025 | Delredovisning senast 31 mars 2026 och 31 mars 2027. Slutredovisning senast 31 mars 2028. |\n| Uppdrag att fungera som nationell resurs för samordning och stöd i frågor om unga som varken arbetar eller studerar med särskilt fokus på psykisk ohälsa. | S2025/00753 | Delredovisning senast 31 mars 2026 och 31 mars 2027. Slutredovisning senast 31 mars 2028. |\n| Uppdrag att medverka i uppdrag till Folkhälsomyndigheten och Socialstyrelsen om att samordna, stödja och följa upp genomförandet av den nationella strategin inom området psykisk hälsa och suicidprevention | S2025/00016 | Delredovisning av Folkhälsomyndigheten och Socialstyrelsen senast 19 december 2026 och 19 december 2027. Slutredovisning av Folkhälsomyndigheten och Socialstyrelsen senast 19 december 2028. |\n| Uppdrag att förbereda och införa ett fritidskort för barn och unga. | S2023/01303 | Slutredovisning senast 31 mars 2026. |\n| Uppdrag att fördela bidrag för studier om det civila samhället. | Regleringsbrev 2025 | I årsredovisningen. |\n| Uppdrag att redovisa åtgärder för att stödja bidragsgivande aktörer och civilsamhällesaktörer i bidragsgivningen. | Regleringsbrev 2025 | Senast 31 mars 2026. |\n| Uppdrag att utarbeta årlig rapport för uppföljningen av det civila samhällets villkor | Regleringsbrev 2025 | Senast 15 maj 2026. |\n| Uppdrag att stärka kommuners kunskap om religion och trossamfund. | S2024/01772 (delvis) | Senast 16 februari 2026. |\n| Uppdrag att motverka ryktesspridning och desinformation om socialtjänsten. | S2022/03244 | Senast 31 mars 2026. |\n| Uppdrag att utföra insatser för en öppen och inkluderande miljö i skolan för unga hbtq-personer. | Ku2016/01669 och senaste regleringsbrev avseende anslag 2:2. | I årsredovisningen. |\n| Uppdrag att ta fram en kunskapssammanställning om pojkars och unga mäns jämställdhetsutmaningar. | A2025/00636 | Senast 31 mars 2026. |\n| Uppdrag att genomföra insatser som ska bidra till att förebygga och motverka rasism mot samer. | A2025/00674 | Delredovisning senast 31 mars 2027. Slutredovisning senast 31 mars 2028. |\n| Uppdrag att genomföra kunskapshöjande insatser för att förebygga och motverka antimuslimsk rasism. | A2024/00870 | Delredovisning senast 1 mars 2026. Slutredovisning senast 1 mars 2027. |\n| Uppdrag att utveckla och sprida informationsinsatser och kunskapsstöd i syfte att förebygga att unga utnyttjas för sexuella eller pornografiska ändamål, utsätts för sexuellt våld, övergrepp eller kränkningar såväl digitalt som fysiskt. | Regleringsbrev 2024. Uppdraget finansieras under 2026 från anslag 3:1 Särskilda jämställdhetsåtgärder inom utgiftsområde 13. | Delredovisning senast 31 mars 2026. Slutredovisning senast 31 mars 2028. |\n| Uppdrag att genomföra en fördjupad analys av behovet av stödinsatser om hedersrelaterat våld och förtryck, inklusive utsatthet för s.k. omvändelseförsök mot unga hbtqi-personer. | Regleringsbrev 2024. Uppdraget finansieras under 2026 från anslag 3:1 Särskilda jämställdhetsåtgärder inom utgiftsområde 13. | Uppdraget ska, i stället för vad som anges i tidigare regleringsbrev, redovisas senast 31 mars 2027. |\n| Uppdrag att utifrån erfarenheter i tidigare uppdrag från regleringsbrevet 2021 genomföra informationsinsatser rörande bl.a. hedersrelaterat våld och förtryck, riktade till yrkesverksamma och andra vuxna som möter nyanlända och unga asylsökande i sitt arbete eller inom ideella engagemang. | Regleringsbrev 2024. Uppdraget finansieras under 2026 från anslag 3:1 Särskilda jämställdhetsåtgärder inom utgiftsområde 13. | Uppdraget ska, i stället för vad som anges i tidigare regleringsbrev, redovisas senast 31 mars 2027. |\n| Uppdrag att ta fram och sprida kunskapsunderlag med fokus på hedersrelaterat våld och förtryck och på våldsförebyggande arbete dels till fritidsledare och andra yrkesverksamma som arbetar med ungas fritid, dels till idrottsledare och nyckelaktörer som arbetar med ungas idrottsutövande. | Regleringsbrev 2024. Uppdraget finansieras under 2026 från anslag 3:1 Särskilda jämställdhetsåtgärder inom utgiftsområde 13. | Uppdraget ska, i stället för vad som anges i tidigare regleringsbrev, redovisas senast 31 mars 2027. |\n| Uppdrag att stärka och främja sexuell och reproduktiv hälsa och rättigheter (SRHR). | A2024/01236. Uppdraget finansieras under 2026 från anslag 3:1 Särskilda jämställdhetsåtgärder inom utgiftsområde 13. | Slutredovisning senast 31 mars 2028. |\n| Uppdrag att arbeta med att förebygga och bekämpa könsstympning av flickor och kvinnor. | Regleringsbrev 2025 avseende Myndigheten för stöd till trossamfund. | Senast 31 mars 2026. |\n| Uppdrag att förbereda och genomföra inordnandet av den verksamhet inom minoritetspolitiken som Länsstyrelsen i Stockholms län ansvarar för. | Ku2024/01003 | Senast 31 mars 2026. |\n| Uppdrag att följa upp funktionshinderspolitiken 2021–2031. | S2021/06595, S2025/01367 | Årligen den 1 februari till Myndigheten för delaktighet. |\n| Uppdrag att inrätta och medverka i ett nationellt analysnätverk för hållbar regional utveckling i hela landet 2022–2030. | N2022/01543 | Löpande 2022–2030. |\n| Uppdrag att redovisa genomförandet av den regionala utvecklingspolitiken och den sammanhållna landsbygdspolitiken. | LI2024/00652 | Senast 31 januari 2027 till Regeringskansliet (Landsbygds- och infrastrukturdepartementet) med kopia till Tillväxtverket. |\n\n*För regeringsuppdrag som lämnats i ett särskilt regeringsbeslut utgör tabellen endast en upplysning om vilka uppdrag som vid årets början var riktade till myndigheten och vilka tider som då gällde för återrapportering eller liknande.*",
+   "dates": [
+    "2026-02-16",
+    "2026-03-01",
+    "2026-03-31",
+    "2026-05-15",
+    "2026-12-19",
+    "2027-01-31",
+    "2027-03-01",
+    "2027-03-31",
+    "2027-12-19",
+    "2028-03-31",
+    "2028-12-19"
+   ],
+   "deadlines": [
+    "2026-02-16",
+    "2026-03-01",
+    "2026-03-31",
+    "2026-05-15",
+    "2026-12-19",
+    "2027-01-31",
+    "2027-03-01",
+    "2027-03-31",
+    "2028-03-31",
+    "2028-12-19"
+   ],
+   "recipients": [
+    "Folkhälsomyndigheten",
+    "Myndigheten för delaktighet",
+    "Regeringskansliet (Landsbygds- och infrastrukturdepartementet)",
+    "Tillväxtverket"
+   ],
+   "partners": [
+    "Folkhälsomyndigheten",
+    "Myndigheten för delaktighet",
+    "Myndigheten för stöd till trossamfund",
+    "Socialstyrelsen",
+    "Tillväxtverket",
+    "länsstyrelserna"
+   ],
+   "channels": [
+    "årsredovisning",
+    "delredovisning",
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna",
+    "fördela_medel",
+    "utveckla",
+    "informera"
+   ],
+   "anslag_refs": [
+    "2:2",
+    "3:1"
+   ],
+   "expenditure_area_refs": [
+    13
+   ],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "27468:assignments:7"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "11:1",
+   "name": "Myndigheten för ungdoms- och civilsamhällesfrågor",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 17,
+    "name": "Kultur, medier, trossamfund och fritid"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Myndigheten för ungdoms- och civilsamhällesfrågor",
+     "amount_tkr": 86433,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Myndigheten för ungdoms- och civilsamhällesfrågor (ram)",
+       "amount_tkr": 86433
+      }
+     ],
+     "sum_ok": true
+    },
+    {
+     "by": "Kammarkollegiet",
+     "amount_tkr": 1100,
+     "items": [
+      {
+       "ap": "2",
+       "name": "MUCF - Disponeras av Kammarkollegiet (ram)",
+       "amount_tkr": 1100
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Myndigheten för ungdoms- och civilsamhällesfrågor",
+     "text": "Anslagsposten får användas för Myndigheten för ungdoms- och civilsamhällesfrågors förvaltningsutgifter samt för utgifter för avveckling av Myndigheten för stöd till trossamfund."
+    },
+    {
+     "ap": "2",
+     "name": "MUCF - Disponeras av Kammarkollegiet",
+     "text": "Anslagsposten får användas av Kammarkollegiet för utgifter för avveckling av Myndigheten för stöd till trossamfund efter beslut av regeringen."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "11:1 Myndigheten för ungdoms- och civilsamhällesfrågor",
+   "ap": "ap.1",
+   "Anslagskredit": 2625,
+   "Anslagsbehållning som disponeras 2026": 2572,
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "11:1 Myndigheten för ungdoms- och civilsamhällesfrågor",
+   "ap": "ap.2",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 17000,
+  "Räntekontokredit": 7000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 7203
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 7203
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 7203
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 7203
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 7203
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 7203
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 7203
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 7203
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 7203
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 7203
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 7203
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 7200
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "11:1 Myndigheten för ungdoms- och civilsamhällesfrågor",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "2 625",
+     "2 572",
+     "0"
+    ],
+    [
+     "ap.2",
+     "0",
+     "Inget",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "17 000"
+    ],
+    [
+     "Räntekontokredit",
+     "7 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "7 203"
+    ],
+    [
+     "2026-02-25",
+     "7 203"
+    ],
+    [
+     "2026-03-25",
+     "7 203"
+    ],
+    [
+     "2026-04-25",
+     "7 203"
+    ],
+    [
+     "2026-05-25",
+     "7 203"
+    ],
+    [
+     "2026-06-25",
+     "7 203"
+    ],
+    [
+     "2026-07-25",
+     "7 203"
+    ],
+    [
+     "2026-08-25",
+     "7 203"
+    ],
+    [
+     "2026-09-25",
+     "7 203"
+    ],
+    [
+     "2026-10-25",
+     "7 203"
+    ],
+    [
+     "2026-11-25",
+     "7 203"
+    ],
+    [
+     "2026-12-25",
+     "7 200"
+    ],
+    [
+     "Summa",
+     "86 433"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "11:1 ap.1",
+     "Myndigheten för ungdoms- och civilsamhällesfrågor"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [],
+ "has_fee_section": true,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 7,
+  "n_org": 1,
+  "n_assignments": 8,
+  "n_deadlines": 14,
+  "deadlines": [
+   "2026-02-16",
+   "2026-03-01",
+   "2026-03-31",
+   "2026-05-15",
+   "2026-07-24",
+   "2026-12-01",
+   "2026-12-19",
+   "2027-01-31",
+   "2027-03-01",
+   "2027-03-31",
+   "2027-04-03",
+   "2027-04-30",
+   "2028-03-31",
+   "2028-12-19"
+  ],
+  "partners": [
+   "Bolagsverket",
+   "Ekonomistyrningsverket",
+   "Folkhälsomyndigheten",
+   "Jämställdhetsmyndigheten",
+   "Kammarkollegiet",
+   "Myndigheten för delaktighet",
+   "Myndigheten för stöd till trossamfund",
+   "Sametinget",
+   "Socialstyrelsen",
+   "Statens skolverk",
+   "Tillväxtverket",
+   "Valmyndigheten",
+   "länsstyrelserna"
+  ],
+  "n_appropriations": 1,
+  "appropriations_total_tkr": 87533,
+  "payment_plan_total_tkr": 86433,
+  "md_chars": 22314
+ },
+ "layout": "standard",
+ "warnings": []
+}

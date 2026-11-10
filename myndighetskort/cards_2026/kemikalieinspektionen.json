@@ -1,0 +1,770 @@
+{
+ "schema_version": 1,
+ "id": 26298,
+ "original_rbid": 26001,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-06-18",
+ "year": "2026",
+ "name": "Kemikalieinspektionen",
+ "slug": "kemikalieinspektionen",
+ "department": "Klimat- och näringslivsdepartementet",
+ "expenditure_areas": [
+  20
+ ],
+ "registry_numbers": [
+  "KN2026/01390"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1"
+  ],
+  "bet": [
+   "2025/26:MJU1"
+  ],
+  "rskr": [
+   "2025/26:128"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "",
+ "goals": [
+  {
+   "title": "Minskad spridning av PFAS",
+   "group": [],
+   "text": "Kemikalieinspektionen ska redovisa sitt arbete för att fasa ut användningen av PFAS samt myndighetens arbete med att minska spridningen av och risker med PFAS inklusive TFA och andra ultrakorta PFAS.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "tillsyn_kontroll"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26298:goals:0"
+  },
+  {
+   "title": "Genomförande av ekodesignförordningen",
+   "group": [],
+   "text": "Kemikalieinspektionen ska redovisa hur myndigheten tillsammans med Naturvårdsverket, Statens energimyndighet, Styrelsen för ackreditering och teknisk kontroll och Upphandlingsmyndigheten har utarbetat synpunkter och förslag och varit pådrivande i ekodesignforumet och dess expertgrupp för medlemsstater och i andra relevanta processer för genomförandet av Europaparlamentets och rådets förordning (EU) 2024/1781 av den 13 juni 2024 om upprättande av en ram för att fastställa ekodesignkrav för hållbara produkter.",
+   "dates": [
+    "2024-06-13"
+   ],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Naturvårdsverket",
+    "Statens energimyndighet",
+    "Styrelsen för ackreditering och teknisk kontroll",
+    "Upphandlingsmyndigheten"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla",
+    "tillsyn_kontroll",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26298:goals:1"
+  },
+  {
+   "title": "Förenklingsarbete",
+   "group": [],
+   "text": "Kemikalieinspektionen ska redovisa hur de arbetat för att förenkla för företag utifrån den handlingsplan som myndigheten tar fram genom uppdrag KN2024/01546 samt genom att bidra till och uppdatera myndighetens innehåll på den myndighetsgemensamma webbplatsen verksamt.se",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "tillsyn_kontroll"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26298:goals:2"
+  }
+ ],
+ "org": [],
+ "assignments": [
+  {
+   "title": "Kemikaliesäker import och e-handel av varor",
+   "group": [],
+   "text": "Kemikalieinspektionen ska identifiera och föreslå metoder för att stärka marknadskontrollen vid e-handel och import från tredje land.\n\nI uppdraget ingår att:\n\n- identifiera hinder i nuvarande lagstiftning för effektiv tillsyn och kontroll både nationellt och på EU-nivå och föreslå eventuella lag- och förordningsändringar som kan stärka myndigheters möjligheter att agera vid överträdelser eller misstankar om överträdelser av regelverken samt att ta fram en konsekvensutredning av de förslag som lämnas i enlighet med förordningen (2024:183) om konsekvensutredning.\n- utreda hur ett utökat samarbete samt stärkt informationsutbyte mellan myndigheter kan leda till en bättre kontroll av e-handel.\n- utreda hur möjligheterna med ökad digitalisering, användning av AI och andra verktyg kan öka effektiviteten i marknadskontrollen.\n\nFörslagen och utredningen ska bidra till att förbättra myndigheters möjligheter att utöva effektiv tillsyn över e-handelsplattformar, säkerställa konsumentskydd och främja rättvisa konkurrensvillkor genom ökad samverkan och teknisk kapacitet. Kemikalieinspektionen ska inhämta synpunkter och information från Elsäkerhetsverket, Konsumentverket, Läkemedelsverket, Post- och telestyrelsen, Naturvårdsverket och Tullverket. Uppdraget ska redovisas till Regeringskansliet (Klimat- och näringslivsdepartementet) senast den 15 mars 2027.",
+   "dates": [
+    "2027-03-15"
+   ],
+   "deadlines": [
+    "2027-03-15"
+   ],
+   "recipients": [
+    "Regeringskansliet (Klimat- och näringslivsdepartementet)"
+   ],
+   "partners": [
+    "Elsäkerhetsverket",
+    "Konsumentverket",
+    "Läkemedelsverket",
+    "Naturvårdsverket",
+    "Post- och telestyrelsen",
+    "Tullverket"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "föreslå",
+    "samordna",
+    "tillsyn_kontroll",
+    "digitalisering_ai",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2024:183"
+   ],
+   "sub_questions": [
+    "identifiera hinder i nuvarande lagstiftning för effektiv tillsyn och kontroll både nationellt och på EU-nivå och föreslå eventuella lag- och förordningsändringar som kan stärka myndigheters möjligheter att agera vid överträdelser eller misstankar om överträdelser av regelverken samt att ta fram en konsekvensutredning av de förslag som lämnas i enlighet med förordningen (2024:183) om konsekvensutredning.",
+    "utreda hur ett utökat samarbete samt stärkt informationsutbyte mellan myndigheter kan leda till en bättre kontroll av e-handel.",
+    "utreda hur möjligheterna med ökad digitalisering, användning av AI och andra verktyg kan öka effektiviteten i marknadskontrollen."
+   ],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26298:assignments:0"
+  },
+  {
+   "title": "Marknadskontroll för ökad efterlevnad",
+   "group": [],
+   "text": "Kemikalieinspektionen ska inom ramen för tillämpningen av Europaparlamentets och rådets förordning (EU) 2019/1020 av den 20 juni 2019 om marknadskontroll och överensstämmelse för produkter och Europaparlamentets och rådets förordning (EU) 2022/2065 av den 19 oktober 2022 om en inre marknad för digitala tjänster prioritera arbetet inom marknadskontroll och bidra till aktiviteter på europeisk nivå som har särskilt fokus på produkter som inte lever upp till EU-lagstiftning, inklusive produkter för privat användning. Myndigheten ska även beskriva hur myndigheten har samarbetat med övriga relevanta marknadskontrollmyndigheter och Tullverket och vad samarbetet resulterat i när det gäller operativa insatser avseende e-handel från tredje land. Uppdragets ska redovisas till Regeringskansliet (Utrikesdepartementet) senast den 15 mars 2027.",
+   "dates": [
+    "2019-06-20",
+    "2022-10-19",
+    "2027-03-15"
+   ],
+   "deadlines": [
+    "2027-03-15"
+   ],
+   "recipients": [
+    "Regeringskansliet (Utrikesdepartementet)"
+   ],
+   "partners": [
+    "Tullverket"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "tillsyn_kontroll",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26298:assignments:1"
+  },
+  {
+   "title": "Översyn av den nationella regleringen av klorerade lösningsmedel",
+   "group": [],
+   "text": "Kemikalieinspektionen ges i uppdrag att se över 5–7 §§ förordningen (1998:944) om förbud m.m. i vissa fall i samband med hantering, införsel och utförsel av kemiska produkter. I uppdraget ingår att särskilt utreda\n\n- förutsättningarna att undvika prövning av olika myndigheter för verksamheter som både kräver dispens enligt förordningen för användning av klorerade lösningsmedel och tillstånd enligt miljöbalken till miljöfarlig verksamhet,\n- om det finns behov av att på förordningsnivå reglera vilka användningsområden som omfattas, och\n- om det finns behov av ändringar i rekvisiten för att kunna ge dispens.\n\nMyndigheten ska i uppdraget redovisa de hälso- och miljömässiga, samhällsekonomiska och rättsliga konsekvenserna med att ta bort dispensmöjligheten respektive att avveckla regleringen.\n\nMyndigheten ska vid behov lämna nödvändiga författningsförslag. I uppdraget ingår att utföra en konsekvensutredning av de förslag som lämnas i enlighet med förordningen (2024:183) om konsekvensutredning.\n\nMyndigheten ska inhämta synpunkter från Naturvårdsverket, Arbetsmiljöverket och andra berörda myndigheter. Uppdraget ska redovisas till Regeringskansliet (Klimat- och näringslivsdepartementet) senast den 30 januari 2027.",
+   "dates": [
+    "2027-01-30"
+   ],
+   "deadlines": [
+    "2027-01-30"
+   ],
+   "recipients": [
+    "Regeringskansliet (Klimat- och näringslivsdepartementet)"
+   ],
+   "partners": [
+    "Arbetsmiljöverket",
+    "Naturvårdsverket"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "föreslå",
+    "samordna",
+    "tillsyn_kontroll"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "1998:944",
+    "2024:183"
+   ],
+   "sub_questions": [
+    "förutsättningarna att undvika prövning av olika myndigheter för verksamheter som både kräver dispens enligt förordningen för användning av klorerade lösningsmedel och tillstånd enligt miljöbalken till miljöfarlig verksamhet,",
+    "om det finns behov av att på förordningsnivå reglera vilka användningsområden som omfattas, och",
+    "om det finns behov av ändringar i rekvisiten för att kunna ge dispens."
+   ],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26298:assignments:2"
+  },
+  {
+   "title": "Data för statistikframställning av användning av växtskyddsmedel",
+   "group": [],
+   "text": "Kemikalieinspektionen ska i förberedelsefasen av uppdraget utreda behovet av data i syfte att stödja genomförandet av EU:s nya krav på årlig statistikframställning över användning av växtskyddsmedel från och med 2028 i enlighet med Europaparlamentets och rådets förordning (EU) 2022/2379 av den 23 november 2022 om statistik över insatsvaror och produktion i jordbruket. Kemikalieinspektionen ska ta ställning till hur statistikkraven enligt förordning (EU) 2022/2379 ska genomföras i Sverige och ta hänsyn till behoven för den nationella officiella statistiken för växtskyddsmedel. Utifrån den lösning som föreslås ska Kemikalieinspektionen ta fram en plan för genomförande och förvaltningsfasen. Kemikalieinspektionen ska i utredningen värna om statistikens kvalitet och prioritera kostnadseffektiva lösningar.\n\nArbetet ska bedrivas i nära samarbete med Statistiska Centralbyrån. Det ska också ske i nära samarbete med Jordbruksverket, särskilt i det som rör deras uppdrag att föreslå hur kraven på registerhållning enligt artikel 67.1 i Europaparlamentets och rådets förordning (EG) nr 1107/2009 av den 21 oktober 2009 om utsläppande av växtskyddsmedel på marknaden och kommissionens genomförandeförordning (EU) 2023/564 av den 10 mars 2023 vad gäller innehållet i och formatet för de register över växtskyddsmedel som yrkesmässiga användare ska föra i enlighet med Europaparlamentets och rådets förordning (EG) nr 1107/2009 ska uppfyllas.\n\nKemikalieinspektionen ska vid behov föra dialog med andra myndigheter och aktörer. Kemikalieinspektionen ska vid behov lämna förslag till författningsändringar. I uppdraget ingår också att genomföra en konsekvensutredning av förslag till författningsändringar enligt förordningen (2024:183) om konsekvensutredningar. Uppdraget ska redovisas till Regeringskansliet (Klimat- och näringsdepartementet) senast den 1 juni 2027.",
+   "dates": [
+    "2009-10-21",
+    "2022-11-23",
+    "2023-03-10",
+    "2027-06-01"
+   ],
+   "deadlines": [
+    "2027-06-01"
+   ],
+   "recipients": [
+    "Regeringskansliet (Klimat- och näringsdepartementet)"
+   ],
+   "partners": [
+    "Statens jordbruksverk"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "föreslå",
+    "utveckla",
+    "tillsyn_kontroll",
+    "statistik_data",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2024:183"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26298:assignments:3"
+  },
+  {
+   "title": "Utgiftsprognoser",
+   "group": [],
+   "text": "Myndigheten ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Prognoserna lämnas i informationssystemet Hermes senast den\n\n2 februari,\n\n22 april,\n\n24 juli, och\n\n9 november.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26298:assignments:4"
+  },
+  {
+   "title": "Pågående uppdrag",
+   "group": [],
+   "text": "| | | |\n| --- | --- | --- |\n| **Sammanfattning** | **Beslut om uppdraget** | **Rapporteringstidpunkt** |\n| Uppdrag att förenkla regelverk i syfte att minska regelbördan för företag | Den 18 juli 2024 KN2024/01546 | Slutredovisning senast den 15 mars 2026 |\n| Uppdrag om nationell samverkan och handlingsplan för arbetet mot antimikrobiell resistens | Den 13 november 2025 S2025/01938 | 2030-12-31 |\n\n*För regeringsuppdrag som lämnats i ett särskilt regeringsbeslut utgör tabellen endast en upplysning om vilka uppdrag som vid årets början var riktade till myndigheten och vilka tider som då gällde för återrapportering eller liknande.*",
+   "dates": [
+    "2024-07-18",
+    "2025-11-13",
+    "2026-03-15",
+    "2030-12-31"
+   ],
+   "deadlines": [
+    "2026-03-15"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "samordna"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "26298:assignments:5"
+  },
+  {
+   "title": "Föreslå författningsändringar för att komplettera EU:s reviderade förordning om tvätt- och rengöringsmedel",
+   "group": [],
+   "text": "Kemikalieinspektionen ska analysera och föreslå nödvändiga författningsändringar till följd av antagandet av Europaparlamentets och rådets förordning (EU) 2026/405 av den 11 februari 2026 om tvätt- och rengöringsmedel och tensider och om upphävande av förordning (EG) nr 648/2004. I uppdraget ingår att utföra en konsekvensutredning av de förslag som lämnas i enlighet med förordningen (2024:183) om konsekvensutredningar.\n\nKemikalieinspektionen ska vid behov inhämta synpunkter på förslag till författningsändringar från berörda myndigheter och andra aktörer. Kemikalieinspektionen ska löpande informera Regeringskansliet (Klimat- och näringslivsdepartementet) om hur arbetet med uppdraget fortskrider. Uppdraget ska redovisas till Regeringskansliet (Klimat- och näringslivsdepartementet) senast den 31 mars 2027.",
+   "dates": [
+    "2026-02-11",
+    "2027-03-31"
+   ],
+   "deadlines": [
+    "2027-03-31"
+   ],
+   "recipients": [
+    "Regeringskansliet (Klimat- och näringslivsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "föreslå",
+    "samordna",
+    "tillsyn_kontroll",
+    "informera",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2024:183"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26298:assignments:6"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "1:6",
+   "name": "Kemikalieinspektionen",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 20,
+    "name": "Klimat, miljö och natur"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Kemikalieinspektionen",
+     "amount_tkr": 340325,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Kemikalieinspektionen (ram)",
+       "amount_tkr": 340325
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Kemikalieinspektionen",
+     "text": "Anslaget får användas för Kemikalieinspektionens förvaltningsutgifter.\nHögst 5 000 000 kronor får betalas ut till Livsmedelsverket och Statens jordbruksverk för nationell prövning av växtskyddsmedel och biocidprodukter. Dessa medel betalas ut mot rekvisition.\nHögst 3 000 000 kronor får användas för planering och genomförande av stärkt kontroll av fusk i livsmedelskedjan.\nHögst 2 500 000 kronor får användas för bidrag till Internationella kemikaliesekretariatet (the International Chemical Secretariat, ChemSec). Medlen betalas ut mot rekvisition. Som villkor för bidraget ska ChemSec lämna en redovisning till Kemikalieinspektionen om vilket resultat bidraget har gett och hur arbetet bidrar till miljökvalitetsmålet Giftfri miljö.\nKemikalieinspektionen ska betala ut 1 000 000 kronor till Substitutionscentrum vid RISE Research Institutes of Sweden AB. Som villkor för bidraget ska Substitutionscentrum lämna en redovisning till Kemikalieinspektionen om vilket resultat bidraget har gett och hur arbetet bidrar till en giftfri miljö.\n.\nHögst 3 500 000 kronor får användas för Livsmedelsverkets ytterligare miljöövervakningsinsatser under 2026 gällande PFAS. Medlen betalas ut mot rekvisition.\nHögst 1 000 000 kronor får användas för Naturvårdsverkets ytterligare arbete under 2026 för minskad spridning av PFAS. Medlen betalas ut mot rekvisition.\nFrån anslaget får medel användas för att täcka upp eventuella underskott i prövningsverksamheten enligt Europaparlamentets och rådets förordning (EG) nr 1107/2009 av den 21 oktober 2009 om utsläppande av växtskyddsmedel på marknaden och Europaparlamentets och rådets förordning (EU) nr 528/2012 av den 22 maj 2012 om tillhandahållande på marknaden och användning av biocidprodukter inom det svenska rapportörsprogrammet (SERP) rörande riskbedömningar av befintliga och nya verksamma ämnen i bekämpningsmedel. Sådana medel ska hanteras och redovisas separat."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "1",
+     "max": 5000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "1",
+     "max": 3000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "1",
+     "max": 2500000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "1",
+     "max": 3500000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "1",
+     "max": 1000000,
+     "unit": "kronor"
+    }
+   ]
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "1:6 Kemikalieinspektionen",
+   "ap": "ap.1",
+   "Anslagskredit": 10209,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 32000,
+  "Räntekontokredit": 7500
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 28360
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 28360
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 28360
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 28360
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 28360
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 28360
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 28360
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 28360
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 28360
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 28360
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 28360
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 28365
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:6 Kemikalieinspektionen",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "10 209",
+     "3 %",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "32 000"
+    ],
+    [
+     "Räntekontokredit",
+     "7 500"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "28 360"
+    ],
+    [
+     "2026-02-25",
+     "28 360"
+    ],
+    [
+     "2026-03-25",
+     "28 360"
+    ],
+    [
+     "2026-04-25",
+     "28 360"
+    ],
+    [
+     "2026-05-25",
+     "28 360"
+    ],
+    [
+     "2026-06-25",
+     "28 360"
+    ],
+    [
+     "2026-07-25",
+     "28 360"
+    ],
+    [
+     "2026-08-25",
+     "28 360"
+    ],
+    [
+     "2026-09-25",
+     "28 360"
+    ],
+    [
+     "2026-10-25",
+     "28 360"
+    ],
+    [
+     "2026-11-25",
+     "28 360"
+    ],
+    [
+     "2026-12-25",
+     "28 365"
+    ],
+    [
+     "Summa",
+     "340 325"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "1:6 ap.1",
+     "Kemikalieinspektionen"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Offentligrättslig verksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "SERP3",
+     "19 500"
+    ],
+    [
+     "varuprover3",
+     "100"
+    ],
+    [
+     "Summa",
+     "0",
+     "0",
+     "19 600",
+     "0",
+     "0",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna ej disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "Ink. tit.",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Offentligrättslig verksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Allmänkemikalier1",
+     "9433",
+     "91 657",
+     "11 018",
+     "50 000",
+     "42 000",
+     "8 000",
+     "110 675"
+    ],
+    [
+     "Dispensavgifter1",
+     "2811",
+     "-2 740",
+     "-935",
+     "150",
+     "150",
+     "0",
+     "-3 675"
+    ],
+    [
+     "Bekämpningsmedel - Växtskyddsmedelsverksamhet1",
+     "9433",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0"
+    ],
+    [
+     "Bekämpningsmedel - Biocidproduktsverksamhet1",
+     "9433",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0"
+    ],
+    [
+     "Utvidgat godkännande för mindre användningsområde3",
+     "9433",
+     "0"
+    ],
+    [
+     "Bekämpningsmedel - Växtskyddsmedelsverksamhet1",
+     "9437",
+     "0",
+     "6 807",
+     "47 000",
+     "47 000",
+     "0",
+     "6 807"
+    ],
+    [
+     "Bekämpningsmedel - Biocidproduktsverksamhet3",
+     "9437",
+     "25 000"
+    ],
+    [
+     "Bekämpningsmedel - vissa ansöknings- och dispensavgifter för växtskyddsmedel3",
+     "9437",
+     "1 000"
+    ],
+    [
+     "Summa",
+     "88 917",
+     "16 890",
+     "123 150",
+     "89 150",
+     "8 000",
+     "113 807"
+    ]
+   ]
+  }
+ ],
+ "has_fee_section": true,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 3,
+  "n_org": 0,
+  "n_assignments": 7,
+  "n_deadlines": 5,
+  "deadlines": [
+   "2026-03-15",
+   "2027-01-30",
+   "2027-03-15",
+   "2027-03-31",
+   "2027-06-01"
+  ],
+  "partners": [
+   "Arbetsmiljöverket",
+   "Elsäkerhetsverket",
+   "Konsumentverket",
+   "Läkemedelsverket",
+   "Naturvårdsverket",
+   "Post- och telestyrelsen",
+   "Statens energimyndighet",
+   "Statens jordbruksverk",
+   "Styrelsen för ackreditering och teknisk kontroll",
+   "Tullverket",
+   "Upphandlingsmyndigheten"
+  ],
+  "n_appropriations": 1,
+  "appropriations_total_tkr": 340325,
+  "payment_plan_total_tkr": 340325,
+  "md_chars": 16482
+ },
+ "layout": "standard",
+ "warnings": []
+}

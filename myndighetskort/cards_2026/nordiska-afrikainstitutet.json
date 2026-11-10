@@ -1,0 +1,525 @@
+{
+ "schema_version": 1,
+ "id": 25817,
+ "original_rbid": 25817,
+ "type": "Regleringsbrev",
+ "category": "Myndighet",
+ "date": "2025-12-18",
+ "year": "2026",
+ "name": "Nordiska Afrikainstitutet",
+ "slug": "nordiska-afrikainstitutet",
+ "department": "Utrikesdepartementet",
+ "expenditure_areas": [
+  7
+ ],
+ "registry_numbers": [
+  "UD2025/03138",
+  "UD2025/18692 (delvis)",
+  "UD2025/18873"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1"
+  ],
+  "bet": [
+   "2025/26:UU2"
+  ],
+  "rskr": [
+   "2025/26:120"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "Nordiska Afrikainstitutet ska bidra till att uppfylla det av riksdagen beslutade målet för internationellt bistånd att skapa förutsättningar för bättre levnadsvillkor för människor som lever i fattigdom och förtryck. Utvecklingssamarbetet utgör samtidigt ett av de viktigaste utrikespolitiska verktygen för att främja och värna svenska intressen och möta de utmaningar som Sverige och världen står inför.\n\nNordiska Afrikainstitutets huvudsakliga uppgifter framgår av förordningen (2021:371) med instruktion för Nordiska Afrikainstitutet.",
+ "goals": [
+  {
+   "title": "Geopolitikens betydelse för Afrika",
+   "group": [],
+   "text": "Nordiska Afrikainstitutet ska redovisa hur myndigheten bidragit till fördjupad förståelse och ökad kunskap hos Regeringskansliet (Utrikesdepartementet) och andra relevanta svenska aktörer om hur geopolitiska perspektiv, och Rysslands, Kinas, Turkiets, Gulfstaternas och andra icke-traditionella givares intressen, påverkar afrikanska länder. Detta inkluderar exempelvis frågor om digital suveränitet i förhållande till kritiska beroenden av digital infrastruktur och afrikanskt aktörskap i multilaterala fora.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25817:goals:0"
+  },
+  {
+   "title": "Tillväxt och handel",
+   "group": [],
+   "text": "Nordiska Afrikainstitutet ska redovisa hur myndigheten har bidragit till fördjupad förståelse och ökad kunskap hos Regeringskansliet (Utrikesdepartementet) och andra relevanta svenska aktörer om handel och grön omställning samt synergier mellan tillväxt, fördelningspolitik och inhemsk resursmobilisering i Afrika, med fokus på skattereformer. Myndigheten ska generera och till relevanta myndigheter sprida kunskap om förutsättningsskapande faktorer för tillväxt och hållbar ekonomisk utveckling i Afrika samt belysa positiva landexempel.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "informera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25817:goals:1"
+  },
+  {
+   "title": "Kritiska mineral",
+   "group": [],
+   "text": "Nordiska Afrikainstitutet ska redovisa hur myndigheten har bidragit till fördjupad förståelse och ökad kunskap hos Regeringskansliet (Utrikesdepartementet) och andra relevanta svenska aktörer om hur utvecklingen av miljömässigt hållbar, socialt inkluderande och ansvarsfull gruvdrift, bearbetning och återvinning samt ansvarsfulla leveranskedjor för kritiska mineraler i Afrika kan stödjas.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25817:goals:2"
+  },
+  {
+   "title": "Sociala medier och demokrati",
+   "group": [],
+   "text": "Nordiska Afrikainstitutet ska redovisa hur myndigheten har bidragit till fördjupad förståelse och ökad kunskap hos Regeringskansliet (Utrikesdepartementet) och andra relevanta svenska aktörer om kopplingen mellan användning av sociala medier och demokratins utveckling i Afrika.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25817:goals:3"
+  },
+  {
+   "title": "Nordiskt och nordiskt-afrikanskt utbyte",
+   "group": [],
+   "text": "Nordiska Afrikainstitutet ska redovisa och synliggöra hur myndigheten med bas i forskningsbaserad kunskap bidragit till utökat och fördjupat samarbete och dialog mellan nordiska och afrikanska policymakare och andra relevanta aktörer kring gemensamma utmaningar. Verksamhet som sker med finansiering av biståndsmyndigheterna och utrikesministerierna i Finland och Island ska redovisas.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25817:goals:4"
+  }
+ ],
+ "org": [],
+ "assignments": [
+  {
+   "title": "Utgiftsprognoser",
+   "group": [],
+   "text": "Myndigheten ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Prognoserna lämnas i informationssystemet Hermes senast den\n\n2 februari\n\n22 april\n\n24 juli\n\n9 november",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "25817:assignments:0"
+  },
+  {
+   "title": "Prognos för beställningsbemyndiganden",
+   "group": [],
+   "text": "Myndigheten ska redovisa en prognos för de förslag om beställningsbemyndiganden som lämnats i budgetunderlaget och för de åtaganden som ingåtts med stöd av äldre beställningsbemyndiganden. Prognosen ska lämnas senast den 24 juli 2026 via Statsredovisningssystemet i Hermes och utformas enligt närmare information från Ekonomistyrningsverket.",
+   "dates": [
+    "2026-07-24"
+   ],
+   "deadlines": [
+    "2026-07-24"
+   ],
+   "forecast_dates": [],
+   "recipients": [],
+   "partners": [
+    "Ekonomistyrningsverket"
+   ],
+   "channels": [
+    "hermes",
+    "budgetunderlag"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "25817:assignments:1"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "1:1",
+   "name": "Biståndsverksamhet",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 7,
+    "name": "Internationellt bistånd"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Nordiska Afrikainstitutet",
+     "amount_tkr": 22000,
+     "items": [
+      {
+       "ap": "8",
+       "name": "Verksamhetsbidrag (ram)",
+       "amount_tkr": 22000
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "8",
+     "name": "Verksamhetsbidrag",
+     "text": "Verksamhetsbidraget till Nordiska Afrikainstitutet avser den nordiska samfinansierade verksamheten. Verksamheten inom forskning ska prioriteras. Medlen får endast användas i enlighet med OECD:s biståndskommitté DAC:s riktlinjer för vad som kan klassificeras som bistånd."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "1:3",
+   "name": "Nordiska Afrikainstitutet",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 7,
+    "name": "Internationellt bistånd"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Nordiska Afrikainstitutet",
+     "amount_tkr": 18488,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Nordiska Afrikainstitutet (ram)",
+       "amount_tkr": 18488
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Nordiska Afrikainstitutet",
+     "text": "Nordiska Afrikainstitutet får med övriga nordiska länder träffa överenskommelser om bidrag till verksamheten. Myndigheten får disponera dessa bidrag. Medlen får endast användas i enlighet med OECD:s biståndskommitté DAC:s riktlinjer för vad som kan klassificeras som bistånd."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "1:1 Biståndsverksamhet",
+   "ap": "ap.8",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:3 Nordiska Afrikainstitutet",
+   "ap": "ap.1",
+   "Anslagskredit": 554,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 1000,
+  "Räntekontokredit": 1000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 3374
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 3374
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 3374
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 3374
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 3374
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 3374
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 3374
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 3374
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 3374
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 3374
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 3374
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 3374
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:1 Biståndsverksamhet",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.8",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "1:3 Nordiska Afrikainstitutet",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "554",
+     "3 %",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Beställningsbemyndiganden",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Bemyndigande",
+     "Utgifter mot anslag till följd av ekonomiska åtaganden",
+     "",
+     "",
+     ""
+    ],
+    [
+     "2026",
+     "2027",
+     "2028",
+     "2029 -",
+     "Slutår"
+    ],
+    [
+     "1:1 Biståndsverksamhet",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.8",
+     "1 000",
+     "1 000",
+     "",
+     "",
+     "2027"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "1 000"
+    ],
+    [
+     "Räntekontokredit",
+     "1 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "3 374"
+    ],
+    [
+     "2026-02-25",
+     "3 374"
+    ],
+    [
+     "2026-03-25",
+     "3 374"
+    ],
+    [
+     "2026-04-25",
+     "3 374"
+    ],
+    [
+     "2026-05-25",
+     "3 374"
+    ],
+    [
+     "2026-06-25",
+     "3 374"
+    ],
+    [
+     "2026-07-25",
+     "3 374"
+    ],
+    [
+     "2026-08-25",
+     "3 374"
+    ],
+    [
+     "2026-09-25",
+     "3 374"
+    ],
+    [
+     "2026-10-25",
+     "3 374"
+    ],
+    [
+     "2026-11-25",
+     "3 374"
+    ],
+    [
+     "2026-12-25",
+     "3 374"
+    ],
+    [
+     "Summa",
+     "40 488"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "1:1 ap.8",
+     "Verksamhetsbidrag"
+    ],
+    [
+     "1:3 ap.1",
+     "Nordiska Afrikainstitutet"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [],
+ "has_fee_section": true,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 5,
+  "n_org": 0,
+  "n_assignments": 2,
+  "n_deadlines": 1,
+  "deadlines": [
+   "2026-07-24"
+  ],
+  "partners": [
+   "Ekonomistyrningsverket"
+  ],
+  "n_appropriations": 2,
+  "appropriations_total_tkr": 40488,
+  "payment_plan_total_tkr": 40488,
+  "md_chars": 7961
+ },
+ "layout": "standard",
+ "warnings": []
+}

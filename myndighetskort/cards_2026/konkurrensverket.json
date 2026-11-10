@@ -1,0 +1,644 @@
+{
+ "schema_version": 1,
+ "id": 25796,
+ "original_rbid": 25796,
+ "type": "Regleringsbrev",
+ "category": "Myndighet",
+ "date": "2025-12-18",
+ "year": "2026",
+ "name": "Konkurrensverket",
+ "slug": "konkurrensverket",
+ "department": "Klimat- och näringslivsdepartementet",
+ "expenditure_areas": [
+  24
+ ],
+ "registry_numbers": [
+  "KN2025/02359(delvis)",
+  "KN2025/02415"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1"
+  ],
+  "bet": [
+   "2025/26:NU1"
+  ],
+  "rskr": [
+   "2025/26:131"
+  ]
+ },
+ "n_attachments_stated": 1,
+ "mission": "",
+ "goals": [
+  {
+   "title": "Tillsynsverksamheten",
+   "group": [],
+   "text": "Konkurrensverket ska redovisa antal ärenden som avser fullgörandet av de uppgifter som följer av konkurrenslagen (2008:579), 21 kap. 1 § lagen (2016:1145) om offentlig upphandling, 21 kap. 1 § lagen (2016:1146) om upphandling inom försörjningssektorerna, 17 kap. 1 § lagen (2016:1147) om upphandling av koncessioner, 18 kap. 1 § lagen (2011:1029) om upphandling på försvars- och säkerhetsområdet samt 14 § lagen (2021:579) om förbud mot otillbörliga handelsmetoder vid köp av jordbruks- och livsmedelsprodukter. Redovisningen ska göras fördelat på eventuella ärendekategorier och med angivande av genomsnittliga handläggningstider. Andra viktigare tillsynsåtgärder eller ärenden som avser fullgörande av tillsynsuppgifter ska också redovisas i lämplig omfattning.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "fördela_medel",
+    "tillsyn_kontroll"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2008:579",
+    "2011:1029",
+    "2016:1145",
+    "2016:1146",
+    "2016:1147",
+    "2021:579"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25796:goals:0"
+  },
+  {
+   "title": "Förbättringsåtgärder",
+   "group": [],
+   "text": "Konkurrensverket ska redovisa en sammanfattning av de viktigaste utredningsrapporterna, remissyttrandena och förslagen till regeländringar och andra förbättringsåtgärder. De viktigaste förslagen till regeländringar och andra förbättringsåtgärder ska, där det är relevant, kommenteras utifrån hur de främjar effektiv konkurrens, ökad tillväxt och konsumentnytta.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25796:goals:1"
+  },
+  {
+   "title": "Forskning",
+   "group": [],
+   "text": "Konkurrensverket ska redovisa statistik avseende antalet ansökningar om forskningsmedel som kommit in, antalet forskningsprojekt som beviljats stöd och totalt beviljade medel under året. Myndigheten ska även kortfattat beskriva forskningsprojekten samt insatser som gjorts i övrigt, uppdelat på konkurrens och offentlig upphandling, inklusive uppdragsforskning.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "statistik_data"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25796:goals:2"
+  },
+  {
+   "title": "Färdval och resepolicy vid tjänsteresor",
+   "group": [],
+   "text": "Alla trafikslag ska kunna nyttjas (väg, järnväg, luft- och sjöfart) för att säkerställa effektiva och ändamålsenliga transporter. Konkurrensverket ska därför redovisa hur myndigheten har säkerställt att val av färdsätt vid tjänsteresor sker färdmedelsneutralt och utifrån behov. Vidare ska Konkurrensverket redovisa huruvida myndigheten köpt in hållbart flygbränsle till organisationens flygresor. När kostnader jämförs för olika färdval ska hela resans kostnad beaktas, exempelvis kostnader för nödvändig övernattning samt total arbetstid för hela resan.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25796:goals:3"
+  }
+ ],
+ "org": [],
+ "assignments": [
+  {
+   "title": "Prognoser",
+   "group": [],
+   "text": "Myndigheten ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Prognoserna lämnas i informationssystemet Hermes senast den\n\n– 2 februari,\n\n– 22 april,\n\n– 24 juli, och\n\n– 9 november.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "25796:assignments:0"
+  },
+  {
+   "title": "Prognos för beställningsbemyndigande",
+   "group": [],
+   "text": "Konkurrensverket ska redovisa en prognos för de förslag om beställningsbemyndiganden som lämnats i budgetunderlaget och för de åtaganden som ingåtts med stöd av äldre beställningsbemyndiganden. Prognosen ska lämnas senast den 24 juli 2026 via Statsredovisningssystemet i Hermes och utformas enligt närmare information från Statskontoret.",
+   "dates": [
+    "2026-07-24"
+   ],
+   "deadlines": [
+    "2026-07-24"
+   ],
+   "forecast_dates": [],
+   "recipients": [],
+   "partners": [
+    "Statskontoret"
+   ],
+   "channels": [
+    "hermes",
+    "budgetunderlag"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "25796:assignments:1"
+  },
+  {
+   "title": "Kartläggning av hinder för den idéburna sektorns utövare att delta i upphandlingar och valfrihetssystem",
+   "group": [],
+   "text": "Konkurrensverket ska kartlägga hur kommuners, regioners och statliga myndigheters tillämpning av LOU och LOV påverkar den idéburna sektorns utövare att delta som leverantör i såväl lokala upphandlingar som nationella ramavtalsupphandlingar. Myndigheten ska även analysera hinder såsom krav i offentliga upphandlingar som väsentligen hindrar företrädesvis nya och/eller mindre aktörer från att delta. Uppdraget ska redovisas till Regeringskansliet (Finansdepartementet) senast den 30 juni 2027.",
+   "dates": [
+    "2027-06-30"
+   ],
+   "deadlines": [
+    "2027-06-30"
+   ],
+   "recipients": [
+    "Regeringskansliet (Finansdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "25796:assignments:2"
+  },
+  {
+   "title": "Pågående uppdrag",
+   "group": [],
+   "text": "I*bilagan*redovisas Konkurrensverkets pågående uppdrag.*För regeringsuppdrag som lämnats i ett särskilt regeringsbeslut utgör uppräkningen i bilagan endast en upplysning om vilka uppdrag som vid årets början var riktade till myndigheten och vilka tider som då gällde för återrapportering eller liknande.*",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "25796:assignments:3"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "1:13",
+   "name": "Konkurrensverket",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 24,
+    "name": "Näringsliv"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Konkurrensverket",
+     "amount_tkr": 234589,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Konkurrensverket (ram)",
+       "amount_tkr": 234589
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Konkurrensverket",
+     "text": "Anslagsposten får användas för Konkurrensverkets förvaltningsutgifter."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "1:14",
+   "name": "Konkurrensforskning",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 24,
+    "name": "Näringsliv"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Konkurrensverket",
+     "amount_tkr": 10804,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Konkurrensforskning (ram)",
+       "amount_tkr": 10804
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Konkurrensforskning",
+     "text": "Medel för forskningen bör huvudsakligen anslås till forskningsprojekt med en klar anknytning till Konkurrensverkets verksamhetsområden med forskare inom i första hand disciplinerna ekonomi och juridik vid universitet och högskolor. Medel får användas av verket för uppdragsforskning, seminarier och informationsinsatser på konkurrens- och upphandlingsområdet.\nKostnader för arvoden m.m. till ledamöterna i rådet för forskningsfrågor ska belasta anslagsposten."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "1:19",
+   "name": "Finansiering av rättegångskostnader",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 24,
+    "name": "Näringsliv"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Konkurrensverket",
+     "amount_tkr": 18000,
+     "items": [
+      {
+       "ap": "2",
+       "name": "Finansiering av rättegångskostnader (ram)",
+       "amount_tkr": 18000
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "2",
+     "name": "Finansiering av rättegångskostnader",
+     "text": "Anslagsposten ska finansiera utgifter för rättegångskostnader med anledning av mål och ärenden som avser överklagande av Konkurrensverkets beslut eller vari Konkurrensverket för talan."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "1:13 Konkurrensverket",
+   "ap": "ap.1",
+   "Anslagskredit": 7037,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:14 Konkurrensforskning",
+   "ap": "ap.1",
+   "Anslagskredit": 324,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:19 Finansiering av rättegångskostnader",
+   "ap": "ap.2",
+   "Anslagskredit": 900,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 15000,
+  "Räntekontokredit": 6000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 20449
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 20449
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 20449
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 20449
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 20449
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 20449
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 20449
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 20449
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 20449
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 20449
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 20449
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 20454
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:13 Konkurrensverket",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "7 037",
+     "3 %",
+     "0"
+    ],
+    [
+     "1:14 Konkurrensforskning",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "324",
+     "Inget",
+     "0"
+    ],
+    [
+     "1:19 Finansiering av rättegångskostnader",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.2",
+     "900",
+     "Inget",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Beställningsbemyndiganden",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Bemyndigande",
+     "Utgifter mot anslag till följd av ekonomiska åtaganden",
+     "",
+     "",
+     ""
+    ],
+    [
+     "2026",
+     "2027",
+     "2028",
+     "2029 -",
+     "Slutår"
+    ],
+    [
+     "1:14 Konkurrensforskning",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "9 750",
+     "6 000",
+     "3 250",
+     "500",
+     "2029"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "15 000"
+    ],
+    [
+     "Räntekontokredit",
+     "6 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "20 449"
+    ],
+    [
+     "2026-02-25",
+     "20 449"
+    ],
+    [
+     "2026-03-25",
+     "20 449"
+    ],
+    [
+     "2026-04-25",
+     "20 449"
+    ],
+    [
+     "2026-05-25",
+     "20 449"
+    ],
+    [
+     "2026-06-25",
+     "20 449"
+    ],
+    [
+     "2026-07-25",
+     "20 449"
+    ],
+    [
+     "2026-08-25",
+     "20 449"
+    ],
+    [
+     "2026-09-25",
+     "20 449"
+    ],
+    [
+     "2026-10-25",
+     "20 449"
+    ],
+    [
+     "2026-11-25",
+     "20 449"
+    ],
+    [
+     "2026-12-25",
+     "20 454"
+    ],
+    [
+     "Summa",
+     "245 393"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "1:13 ap.1",
+     "Konkurrensverket"
+    ],
+    [
+     "1:14 ap.1",
+     "Konkurrensforskning"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Ansöknings- och registeravgift",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Avgifter (SFS 2020:332)1",
+     "-381",
+     "3",
+     "207",
+     "203",
+     "4",
+     "-374"
+    ]
+   ]
+  }
+ ],
+ "has_fee_section": true,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 4,
+  "n_org": 0,
+  "n_assignments": 4,
+  "n_deadlines": 2,
+  "deadlines": [
+   "2026-07-24",
+   "2027-06-30"
+  ],
+  "partners": [
+   "Statskontoret"
+  ],
+  "n_appropriations": 3,
+  "appropriations_total_tkr": 263393,
+  "payment_plan_total_tkr": 245393,
+  "md_chars": 9092
+ },
+ "layout": "standard",
+ "warnings": []
+}

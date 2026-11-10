@@ -1,0 +1,1458 @@
+{
+ "schema_version": 1,
+ "id": 27486,
+ "original_rbid": 25688,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-06-18",
+ "year": "2026",
+ "name": "Arbetsförmedlingen",
+ "slug": "arbetsformedlingen",
+ "department": "Arbetsmarknadsdepartementet",
+ "expenditure_areas": [
+  14
+ ],
+ "registry_numbers": [
+  "A2026/00627 (Delvis)",
+  "A2026/00665"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1",
+   "2025/26:99"
+  ],
+  "bet": [
+   "2025/26:AU2",
+   "2025/26:FiU21"
+  ],
+  "rskr": [
+   "2025/26:119",
+   "2025/26:352"
+  ]
+ },
+ "n_attachments_stated": 2,
+ "mission": "Myndighetens huvudsakliga uppgifter framgår av förordningen (2022:811) med instruktion för Arbetsförmedlingen.",
+ "goals": [
+  {
+   "title": "Mål",
+   "group": [],
+   "text": "- Arbetsförmedlingen ska i sin verksamhet prioritera arbetet med personer som är eller riskerar att bli långtidsarbetslösa i syfte att dessa personer ska övergå till arbete eller påbörja utbildning. Arbetsförmedlingen ska särskilt prioritera personer som varit utan arbete i mer än två år.\n- Arbetsförmedlingen ska förbättra matchningen och stödja kompetensförsörjningen på arbetsmarknaden samt stärka kontrollen av arbetssökande.\n- Arbetsförmedlingen ska bidra till målet att de felaktiga utbetalningarna från välfärdssystemen och den brottslighet som riktas mot dessa system ska minska. Omfattningen av felaktiga utbetalningar från de ersättningar som Arbetsförmedlingen hanterar och den brottslighet som riktas mot dessa ersättningar ska därför minska.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "tillsyn_kontroll"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "Arbetsförmedlingen ska i sin verksamhet prioritera arbetet med personer som är eller riskerar att bli långtidsarbetslösa i syfte att dessa personer ska övergå till arbete eller påbörja utbildning. Arbetsförmedlingen ska särskilt prioritera personer som varit utan arbete i mer än två år.",
+    "Arbetsförmedlingen ska förbättra matchningen och stödja kompetensförsörjningen på arbetsmarknaden samt stärka kontrollen av arbetssökande.",
+    "Arbetsförmedlingen ska bidra till målet att de felaktiga utbetalningarna från välfärdssystemen och den brottslighet som riktas mot dessa system ska minska. Omfattningen av felaktiga utbetalningar från de ersättningar som Arbetsförmedlingen hanterar och den brottslighet som riktas mot dessa ersättningar ska därför minska."
+   ],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27486:goals:0"
+  },
+  {
+   "title": "God förvaltning",
+   "group": [],
+   "text": "Arbetsförmedlingen ska redovisa vilka åtgärder som myndigheten har vidtagit för att säkerställa att myndigheten uppfyller grunderna för god förvaltning.\n\nArbetsförmedlingen ska särskilt redovisa hur myndigheten arbetar för att\n\n- stärka arbetet med en effektiv och rättssäker ärendehandläggning samt\n- förbättra tillgängligheten och servicen för arbetsgivare och arbetssökande.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "stärka arbetet med en effektiv och rättssäker ärendehandläggning samt",
+    "förbättra tillgängligheten och servicen för arbetsgivare och arbetssökande."
+   ],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27486:goals:1"
+  },
+  {
+   "title": "Arbetet mot felaktiga utbetalningar",
+   "group": [],
+   "text": "Arbetsförmedlingen ska redovisa måluppfyllelsen, genomförda åtgärder för att minska de felaktiga utbetalningarna och den brottslighet som riktas mot välfärdssystemen, samt en bedömning av åtgärdernas effekter.\n\nRedovisningen ska därutöver omfatta följande:\n\n- Upptäckta felaktiga utbetalningar (antal utbetalningar och totalt belopp).\n- De upptäckta felaktiga utbetalningarnas andel av det totalt utbetalda beloppet.\n- Andelen upptäckta felaktiga utbetalningar av de uppskattade totala felaktiga utbetalningarna.\n- Upptäckta felaktiga utbetalningar i kontrollarbetet per krona i kostnader för kontrollarbetet.\n- Återbetalda medel samt andelen återbetalda medel av upptäckta felaktiga utbetalningar.\n- Återkrav och viten (antal och belopp).\n- Antal polisanmälningar.\n\nMed kostnader för kontrollarbetet avses en uppskattning av de kostnader som är direkt relaterade till åtgärder utanför den ordinarie handläggningen av ärenden, där syftet är att upptäcka felaktiga utbetalningar.\n\nRedovisningen ska, där det är möjligt, ske könsuppdelat per ersättning som Arbetsförmedlingen hanterar och totalt. Redovisningen ska även innehålla ersättningar till Arbetsförmedlingens leverantörer av arbetsmarknadspolitiska tjänster. Därtill ska en analys göras av hur utfallet av indikatorerna förändrats över tid samt orsaker till förändringen.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "tillsyn_kontroll",
+    "statistik_data"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "Upptäckta felaktiga utbetalningar (antal utbetalningar och totalt belopp).",
+    "De upptäckta felaktiga utbetalningarnas andel av det totalt utbetalda beloppet.",
+    "Andelen upptäckta felaktiga utbetalningar av de uppskattade totala felaktiga utbetalningarna.",
+    "Upptäckta felaktiga utbetalningar i kontrollarbetet per krona i kostnader för kontrollarbetet.",
+    "Återbetalda medel samt andelen återbetalda medel av upptäckta felaktiga utbetalningar.",
+    "Återkrav och viten (antal och belopp).",
+    "Antal polisanmälningar."
+   ],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27486:goals:2"
+  },
+  {
+   "title": "Samverkan med idéburen sektor",
+   "group": [],
+   "text": "Arbetsförmedlingen ska redovisa hur myndigheten samverkar med den idéburna sektorn.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27486:goals:3"
+  }
+ ],
+ "org": [
+  {
+   "title": "Säkerställa proaktivitet och handlingskraft vid fredstida krissituationer eller vid krig och krigsfara",
+   "group": [],
+   "text": "Arbetsförmedlingen ska säkerställa att myndigheten har förmåga att agera proaktivt och handlingskraftigt i hanteringen av såväl fredstida krissituationer som vid krig och krigsfara. Utöver de krav som ställs i förordningen (2022:524) om statliga myndigheters beredskap ska myndigheten i detta syfte utbilda och öva sin personal samt se till att myndigheten stärker en kultur och arbetssätt som utgår från de krav som ett krig ställer.\n\nUppdraget ska redovisas till Regeringskansliet (Arbetsmarknadsdepartementet och Försvarsdepartementet) senast den 22 februari 2027. Detta ska ingå i den särskilda redovisningen för civilt försvar.",
+   "dates": [
+    "2027-02-22"
+   ],
+   "deadlines": [
+    "2027-02-22"
+   ],
+   "recipients": [
+    "Regeringskansliet (Arbetsmarknadsdepartementet och Försvarsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2022:524"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "org",
+   "item_id": "27486:org:0"
+  }
+ ],
+ "assignments": [
+  {
+   "title": "Utveckla arbetet för att fler arbetslösa ska påbörja utbildning",
+   "group": [],
+   "text": "Matchningen mellan arbetssökande och efterfrågan på arbetsmarknaden behöver förbättras. Arbetsförmedlingen ska redovisa myndighetens fortsatta arbete med att öka antalet arbetslösa som påbörjar utbildning. Redovisningen ska omfatta hur Arbetsförmedlingen arbetar för att göra en tidig bedömning av om individen har behov av yrkesutbildning eller grundläggande utbildning. Arbetsförmedlingen ska även redovisa myndighetens arbete med att utveckla uppföljningen av arbetslösa som har fått bedömningen om stödinriktning utbildning. Uppföljningen bör omfatta i vilken utsträckning arbetssökande har anvisats till att söka utbildning samt i vilken utsträckning arbetssökande har påbörjat respektive genomfört arbetsmarknadsutbildning såväl som utbildning inom det reguljära utbildningsväsendet eller motsvarande utbildning vid folkhögskola. Redovisningen av uppdraget ska även omfatta när de olika åtgärderna förväntas ge resultat i fler som påbörjar utbildning.\n\nDen 1 mars 2026 träder lag- och förordningsändringar i kraft som möjliggör ett förbättrat och ömsesidigt informationsutbyte mellan Arbetsförmedlingen och den kommunala vuxenutbildningen (komvux). Arbetsförmedlingen ska därför redovisa hur dessa regeländringar får genomslag i verksamheten. I redovisningen ska Arbetsförmedlingen även utgå från den plan för ökad användning av arbetsmarknadsutbildning som redovisats enligt regleringsbrevet för 2025 och ökningen av medel för arbetsmarknadsutbildning inom vård.\n\nArbetsförmedlingen ska senast den 12 maj 2026 och senast den 12 november 2026 till Regeringskansliet (Arbetsmarknadsdepartementet) lämna en muntlig lägesbeskrivning av hur arbetet fortskrider. Uppdraget ska slutligt redovisas till Regeringskansliet (Arbetsmarknadsdepartementet) den 12 maj 2027.",
+   "dates": [
+    "2026-03-01",
+    "2026-05-12",
+    "2026-11-12",
+    "2027-05-12"
+   ],
+   "deadlines": [
+    "2026-05-12",
+    "2026-11-12"
+   ],
+   "recipients": [
+    "Regeringskansliet (Arbetsmarknadsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [
+    "muntlig"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27486:assignments:0"
+  },
+  {
+   "title": "Förbereda införandet av ett aktivitetskrav och öka samverkan med kommunernas socialnämnder",
+   "group": [],
+   "text": "Arbetsförmedlingen ska förbereda för införandet av ett aktivitetskrav inom försörjningsstödet inför det att riksdag och regering fattar beslut om den närmare utformningen. Det huvudsakliga regelverket planeras för beslut under våren 2026 och planeras träda i kraft den 1 juli 2026.\n\nI förberedelsearbetet ska Arbetsförmedlingen särskilt utveckla:\n\n- Den digitala infrastruktur som är nödvändig för ett effektivt utbyte av information mellan Arbetsförmedlingen och socialnämnden.\n- Dokumentation, arbetssätt och nya rutiner som underlättar en ändamålsenlig samverkan mellan Arbetsförmedlingen och socialnämnden avseende personer som omfattas av aktivitetskravet.\n\nEn utgångspunkt för förberedelserna är att mottagare av försörjningsstöd som är anvisade att delta i ett arbetsmarknadspolitiskt program på heltid och deltar på heltid i enlighet med anvisningen inte omfattas av aktivitetskravet. Det ankommer på Arbetsförmedlingen att bedöma om programdeltagaren är sysselsatt i den utsträckning som krävs. Detta innebär att Arbetsförmedlingen, för en deltagare som saknar beslutad insats inom ramen för sitt program, bör göra en bedömning av om personen kommer ha tillräcklig sysselsättning inom den närmaste tiden och i annat fall meddela socialnämnden att personen kan omfattas av aktivitetskravet. Arbetsförmedlingen ska även fortsatt anvisa till arbetsmarknadspolitiska program enligt gällande regelverk. Den del av uppdraget som avser utveckling av systemstöd för informationsöverföring till socialnämnden ska genomföras i dialog med Sveriges Kommuner och Regioner (SKR).\n\nArbetsförmedlingen ska senast den 1 juni 2026 lämna en muntlig lägesavstämning avseende utvecklingen av systemstöd och samverkansstrukturer inför ikraftträdandet av aktivitetskravsreformen. En slutredovisning av vidtagna åtgärder och uppnådda resultat ska lämnas till Regeringskansliet (Arbetsmarknadsdepartementet) senast den 15 januari 2028. Regeringskansliet (Arbetsmarknadsdepartementet) ska hållas löpande informerade om arbetet.",
+   "dates": [
+    "2026-06-01",
+    "2026-07-01",
+    "2028-01-15"
+   ],
+   "deadlines": [
+    "2026-06-01",
+    "2028-01-15"
+   ],
+   "recipients": [
+    "Regeringskansliet (Arbetsmarknadsdepartementet)"
+   ],
+   "partners": [
+    "Sveriges Kommuner och Regioner"
+   ],
+   "channels": [
+    "muntlig",
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna",
+    "utveckla",
+    "informera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "Den digitala infrastruktur som är nödvändig för ett effektivt utbyte av information mellan Arbetsförmedlingen och socialnämnden.",
+    "Dokumentation, arbetssätt och nya rutiner som underlättar en ändamålsenlig samverkan mellan Arbetsförmedlingen och socialnämnden avseende personer som omfattas av aktivitetskravet."
+   ],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27486:assignments:1"
+  },
+  {
+   "title": "Ökad kännedom om etableringsjobb",
+   "group": [],
+   "text": "Arbetsförmedlingen ska, som en del i att utveckla sitt arbetsgivararbete för de som vill anställa långtidsarbetslösa, öka kännedomen om etableringsjobb hos arbetsgivare, arbetssökande och andra aktörer i syfte att öka antalet arbetssökande som anställs med etableringsjobb. Uppdraget ska genomföras i dialog med arbetsmarknadens parter.\n\nArbetsförmedlingen ska senast den 28 april 2026 lämna en muntlig lägesbeskrivning till Regeringskansliet (Arbetsmarknadsdepartementet) och senast den 28 april 2027 lämna en slutlig redovisning av uppdraget till Regeringskansliet (Arbetsmarknadsdepartementet).",
+   "dates": [
+    "2026-04-28",
+    "2027-04-28"
+   ],
+   "deadlines": [
+    "2026-04-28",
+    "2027-04-28"
+   ],
+   "recipients": [
+    "Regeringskansliet (Arbetsmarknadsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [
+    "muntlig"
+   ],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27486:assignments:2"
+  },
+  {
+   "title": "Utveckla och följa upp anvisningsprocessen till skyddat arbete hos Samhall Aktiebolag",
+   "group": [],
+   "text": "Arbetsförmedlingen ska följa upp att myndighetens vidtagna utvecklingsåtgärder i fråga om anvisningar till skyddat arbete hos Samhall Aktiebolag har omhändertagit tidigare identifierade brister. Arbetsförmedlingen ska utveckla enhetliga arbetssätt i myndigheten för prioritering och urval när det finns flera kandidater till en ledig plats hos Samhall Aktiebolag.\n\nArbetsförmedlingen ska senast den 14 oktober 2026 lämna en muntlig lägesbeskrivning av uppdraget till Regeringskansliet (Arbetsmarknadsdepartementet). Arbetsförmedlingen ska lämna slutlig redovisning av uppdraget till Regeringskansliet (Arbetsmarknadsdepartementet) senast den 14 oktober 2027.",
+   "dates": [
+    "2026-10-14",
+    "2027-10-14"
+   ],
+   "deadlines": [
+    "2026-10-14",
+    "2027-10-14"
+   ],
+   "recipients": [
+    "Regeringskansliet (Arbetsmarknadsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [
+    "muntlig"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27486:assignments:3"
+  },
+  {
+   "title": "Personer med funktionsnedsättning som medför nedsatt arbetsförmåga i anställning hos Samhall Aktiebolag",
+   "group": [],
+   "text": "Arbetsförmedlingen ska anvisa personer med långa tider utan arbete till lönebidrag för utveckling i anställning hos Samhall Aktiebolag enligt förordningen (2017:462) om särskilda insatser för personer med funktionsnedsättning som medför nedsatt arbetsförmåga. Omfattningen för bolagets uppdrag om anställningar med denna stödform anges i bolagets ägaranvisning. För 2026 beräknas omfattningen motsvara minst 1 800 anställda i genomsnitt under året. Unga vuxna under 30 år ska prioriteras.\n\nMinst hälften av rekryteringen till skyddat arbete hos Samhall Aktiebolag ska komma från de prioriterade grupper som Samhall Aktiebolag och Arbetsförmedlingen gemensamt definierat.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2017:462"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27486:assignments:4"
+  },
+  {
+   "title": "Insatser för personer som är sjukskrivna och för unga med aktivitetsersättning",
+   "group": [],
+   "text": "Försäkringskassan och Arbetsförmedlingen ska i samverkan se till att fler kvinnor och män ges nödvändigt stöd för återgång i arbete eller omställning till ett nytt arbete. Sjukskrivna och unga med aktivitetsersättning ska så tidigt som möjligt få tillgång till insatser inom ramen för myndigheternas rehabiliteringssamverkan för att utveckla eller återfå arbetsförmågan och därmed kunna återgå i, eller få, arbete. Försäkringskassan och Arbetsförmedlingen ska ge kvinnor och män individuellt anpassade förutsättningar för övergången från Försäkringskassan till Arbetsförmedlingen och myndigheternas samverkan ska bidra till att förhindra att individer förlorar sin sjukpenninggrundande inkomst i anslutning till övergången mellan myndigheterna. Myndigheterna ska genom tillgängliga relevanta uppgifter följa upp resultaten för de kvinnor och män som deltagit i myndigheternas samverkan. Genom samverkan ska myndigheterna bidra till det riksdagsbundna målet om att frånvaron från arbete på grund av sjukdom ska ligga på en långsiktigt stabil och låg nivå.\n\nFörsäkringskassan och Arbetsförmedlingen ska arbeta för att samordningsförbunden prioriterar att finansiera insatser för långtidssjukskrivna, unga med funktionsnedsättning och unga som har aktivitetsersättning, i syfte att stärka kvinnors och mäns förmåga till förvärvsarbete. Arbetsförmedlingen och Försäkringskassan ska bidra till att alla parter i samverkan tar ansvar för samordningsförbundens insatser. Försäkringskassan och Arbetsförmedlingen ska genom det Nationella rådet för finansiell samordning stödja utvecklingen av samordningsförbunden.\n\nEn redovisning av uppdraget ska senast den 14 april 2027 lämnas till Regeringskansliet (Arbetsmarknadsdepartementet och Socialdepartementet). Försäkringskassan ska även samlat redovisa målgrupper och insatser som finansieras av samordningsförbunden. En redovisning av denna del av uppdraget ska senast den 14 april 2027 lämnas till Regeringskansliet (Socialdepartementet).",
+   "dates": [
+    "2027-04-14"
+   ],
+   "deadlines": [
+    "2027-04-14"
+   ],
+   "recipients": [
+    "Regeringskansliet (Arbetsmarknadsdepartementet och Socialdepartementet)",
+    "Regeringskansliet (Socialdepartementet)"
+   ],
+   "partners": [
+    "Försäkringskassan"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27486:assignments:5"
+  },
+  {
+   "title": "Avtal med företag för stärkt försörjningsberedskap",
+   "group": [],
+   "text": "Arbetsförmedlingen ska bland annat med stöd i Utgångspunkter för totalförsvaret 2025–2030 identifiera behov av och teckna avtal som syftar till att upprätthålla försörjningen av varor och tjänster som är nödvändiga för myndighetens verksamhetsområde vid fredstida kriser och höjd beredskap. I de fall avtalsbehoven inte kan hanteras med stöd i ordinarie upphandlingsregler och Arbetsförmedlingen därför nyttjar särskilda avtalsformer baserat på förslaget om så kallade försörjningsberedskapsavtal (F-avtal) i SOU 2025:68 ska dessa avtal löpande rapporteras till Myndigheten för civilt försvar som ska föra ett nationellt register över sådana avtal.\n\nUppdraget ska redovisas till Regeringskansliet (Arbetsmarknadsdepartementet och Försvarsdepartementet) senast den 22 februari 2027. Detta ska ingå i den särskilda redovisningen för civilt försvar.",
+   "dates": [
+    "2027-02-22"
+   ],
+   "deadlines": [
+    "2027-02-22"
+   ],
+   "recipients": [
+    "Myndigheten för civilt försvar",
+    "Regeringskansliet (Arbetsmarknadsdepartementet och Försvarsdepartementet)"
+   ],
+   "partners": [
+    "Myndigheten för civilt försvar"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "statistik_data",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27486:assignments:6"
+  },
+  {
+   "title": "Förenkla för företag genom verksamt.se",
+   "group": [],
+   "text": "Arbetsförmedlingen ska förvalta myndighetens innehåll på den myndighetsgemensamma webbplatsen verksamt.se.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27486:assignments:7"
+  },
+  {
+   "title": "Informationsinsatser för att uppmuntra frivillig återvandring",
+   "group": [],
+   "text": "Arbetsförmedlingen ska bistå Migrationsverket i arbetet med att informera om möjligheten till stöd för frivillig återvandring. I arbetet ska Arbetsförmedlingen ta stöd av Migrationsverket och den nationella samordnaren för frivillig återvandring (Ju 2025:14). Arbetsförmedlingen ska rapportera till Regeringskansliet (Arbetsmarknadsdepartementet och Justitiedepartementet) vilka informationsinsatser som har genomförts senast den 30 september 2026.",
+   "dates": [
+    "2026-09-30"
+   ],
+   "deadlines": [
+    "2026-09-30"
+   ],
+   "recipients": [
+    "Regeringskansliet (Arbetsmarknadsdepartementet och Justitiedepartementet)"
+   ],
+   "partners": [
+    "Migrationsverket"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "informera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27486:assignments:8"
+  },
+  {
+   "title": "Delta i genomförandet av Migrationsverkets uppdrag om anvisning av vissa utlänningar till kommuner",
+   "group": [],
+   "text": "Arbetsförmedlingen ska delta i genomförandet av Migrationsverkets uppdrag (SFS 2022:1008) om anvisning av vissa utlänningar och personer med tillfälligt skydd till kommuner samt tillhandahålla statistikunderlag avseende kriteriet om kommunernas arbetsmarknadsförutsättningar.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Migrationsverket"
+   ],
+   "channels": [],
+   "task_types": [
+    "utveckla",
+    "statistik_data"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27486:assignments:9"
+  },
+  {
+   "title": "Beräkning av utfallet av biståndskostnaderna",
+   "group": [],
+   "text": "Myndigheten ska redovisa de totala utgifterna för anslaget 1:2, ap.4 Bidrag till arbetslöshetsersättning och ersättningar till deltagare i arbetsmarknadspolitiska insatser, del till AF etableringsersättning inom utgiftsområde 14 Arbetsmarknad och arbetsliv som ska räknas som bistånd under 2025 enligt bilaga 3. Redovisningen ska lämnas till Regeringskansliet (Utrikesdepartementet) senast den 27 februari 2026.",
+   "dates": [
+    "2026-02-27"
+   ],
+   "deadlines": [
+    "2026-02-27"
+   ],
+   "recipients": [
+    "Regeringskansliet (Utrikesdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "fördela_medel"
+   ],
+   "anslag_refs": [
+    "1:2"
+   ],
+   "expenditure_area_refs": [
+    14
+   ],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27486:assignments:10"
+  },
+  {
+   "title": "Investeringar",
+   "group": [],
+   "text": "Arbetsförmedlingen ska i budgetunderlaget för 2027–2029 göra en redovisning av planeringen för genomförande av investeringar som har påverkan på myndighetens effektivitet. Redovisningen ska omfatta innehåll, tidsplan per investering samt en redogörelse för vad som förväntas uppnås, inklusive kvantifierade nyttorealiseringar där så är möjligt. Redovisningen ska omfatta både pågående investeringar och sådana investeringar som myndigheten bedömer som relevanta kommande år utifrån vid rapporteringstillfället kända förutsättningar. Redovisningen ska även innehålla kostnader som inte är lånefinansierade, men knutna till åtgärder för att effektivisera verksamheten.\n\nMyndigheten ska senast den 28 februari 2027 till Regeringskansliet (Arbetsmarknadsdepartementet) redovisa vilka effektiviseringar som har uppnåtts, inklusive nyttorealiseringar, utifrån de effektiviseringsinsatser som genomförts de senaste tre åren samt de utgifter som myndigheten haft i relation till dessa åtgärder. Redovisningen ska även omfatta en redogörelse för väsentliga avvikelser avseende utgifter för de investeringar som genomförts under 2026 jämfört med de beräknade belopp som myndigheten redovisat i budgetunderlaget för 2026–2028.",
+   "dates": [
+    "2027-02-28"
+   ],
+   "deadlines": [
+    "2027-02-28"
+   ],
+   "recipients": [
+    "Regeringskansliet (Arbetsmarknadsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [
+    "budgetunderlag"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27486:assignments:11"
+  },
+  {
+   "title": "Prognoser",
+   "group": [],
+   "text": "Myndigheten ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Prognoserna lämnas i informationssystemet Hermes senast den\\\n2 februari\\\n22 april\\\n24 juli, och\\\n9 november.\n\nArbetsförmedlingen ska vid samtliga prognostillfällen:\n\n- Redovisa utfall och prognoser för utgifter 2025–2029 per anslag, anslagspost samt per program och insats under anslag som disponeras av Arbetsförmedlingen. Utfall och prognos för innevarande år ska vara månadsfördelad.\n- Redovisningen per program och insats ska inkludera volymer, utgifter och genomsnittliga kostnader. Redovisningen av volymer avseende antal deltagare ska göras utifrån kvarstående beslutsperioder och utifrån sökandekategori.\n- För deltagare i jobb- och utvecklingsgarantin, i jobbgarantin för ungdomar, i etableringsprogrammet samt i program med aktivitetsstöd utanför garantiprogrammen ska redovisningen av volymer, utgifter och genomsnittliga kostnader delas upp per insats. Redovisningen av utgifterna för insatser ska fördelas på anslag. Samtliga insatser ska redovisas separat. Gruppering av insatser med unikt innehåll ska undvikas.\n- Insatser ska redovisas per stödnivå, i de fall fler nivåer är i bruk under prognosperioden.\n- Vid eventuella kreditutnyttjanden ska konsekvenserna för kommande år redovisas.\n- En prognos för utestående åtaganden vid slutet av innevarande år ska redovisas. Utestående åtaganden ska fördelas på respektive insats samt på de år då de beräknas infrias. Det ska även framgå hur mycket av de infriade åtagandena respektive år som beräknas belasta anslagen. Om det finns risk för att tilldelat bemyndigande kommer att överskridas ska detta kommenteras och anledningarna till detta redovisas.\n- Arbetsförmedlingen ska redovisa kostnader på utgiftsområde 14 Arbetsmarknad och arbetsliv för anslagsdel 2*Del till AF etableringsersättning under anslag 1:2 Bidrag till arbetslöshetsersättning och ersättningar till deltagare i arbetsmarknadspolitiska insatser*som ska räknas som bistånd vid varje prognostillfälle. Dessa ska beräknas enligt beskrivningen i bilaga 2. Prognosen ska vara uppdelad på respektive år i den aktuella prognosperioden.\n\nArbetsförmedlingen ska vid samtliga prognostillfällen kommentera prognosen, där det är relevant, i relation till myndighetens egna prioriteringar och resultat. De antaganden och utgiftsstyrande faktorer som påverkat prognoserna ska anges. Arbetsförmedlingen ska redogöra för sambandet mellan förvaltningsanslaget och sakanslagen, dvs. om en förändring av prognosen i den ena delen påverkar den andra.\n\nArbetsförmedlingen ska i processen för framtagande av prognoser, avseende anslag för etablering av vissa nyanlända invandrare, samverka med Försäkringskassan och Migrationsverket. Arbetsförmedlingen ska samordna arbetet.\n\n*Prognos för beställningsbemyndiganden*\\\nMyndigheten ska redovisa en prognos för de förslag om beställningsbemyndiganden som har lämnats i budgetunderlaget och för de åtaganden som ingåtts med stöd av äldre beställningsbemyndiganden. Prognosen ska lämnas senast den 24 juli 2026 via Statsredovisningssystemet i Hermes och utformas enligt närmare information från Statskontoret.\n\n*Ekonomiskt utfall*\\\nArbetsförmedlingen ska månadsvis redovisa utgifter och inkomster vad avser:\n\n- Utbetalda belopp per anslag, anslagspost och insatser under de anslag som disponeras av Arbetsförmedlingen. Insatser som ges inom jobbgarantin för ungdomar, jobb- och utvecklingsgarantin och etableringsprogrammet ska framgå samt\n- inkomster på inkomsttitel.",
+   "dates": [
+    "2026-07-24"
+   ],
+   "deadlines": [
+    "2026-07-24"
+   ],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [
+    "Försäkringskassan",
+    "Migrationsverket",
+    "Statskontoret"
+   ],
+   "channels": [
+    "hermes",
+    "budgetunderlag"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos",
+    "samordna",
+    "fördela_medel"
+   ],
+   "anslag_refs": [
+    "1:2"
+   ],
+   "expenditure_area_refs": [
+    14
+   ],
+   "sfs_refs": [],
+   "sub_questions": [
+    "Redovisa utfall och prognoser för utgifter 2025–2029 per anslag, anslagspost samt per program och insats under anslag som disponeras av Arbetsförmedlingen. Utfall och prognos för innevarande år ska vara månadsfördelad.",
+    "Redovisningen per program och insats ska inkludera volymer, utgifter och genomsnittliga kostnader. Redovisningen av volymer avseende antal deltagare ska göras utifrån kvarstående beslutsperioder och utifrån sökandekategori.",
+    "För deltagare i jobb- och utvecklingsgarantin, i jobbgarantin för ungdomar, i etableringsprogrammet samt i program med aktivitetsstöd utanför garantiprogrammen ska redovisningen av volymer, utgifter och genomsnittliga kostnader delas upp per insats. Redovisningen av utgifterna för insatser ska fördelas på anslag. Samtliga insatser ska redovisas separat. Gruppering av insatser med unikt innehåll ska undvikas.",
+    "Insatser ska redovisas per stödnivå, i de fall fler nivåer är i bruk under prognosperioden.",
+    "Vid eventuella kreditutnyttjanden ska konsekvenserna för kommande år redovisas.",
+    "En prognos för utestående åtaganden vid slutet av innevarande år ska redovisas. Utestående åtaganden ska fördelas på respektive insats samt på de år då de beräknas infrias. Det ska även framgå hur mycket av de infriade åtagandena respektive år som beräknas belasta anslagen. Om det finns risk för att tilldelat bemyndigande kommer att överskridas ska detta kommenteras och anledningarna till detta redovisas.",
+    "Arbetsförmedlingen ska redovisa kostnader på utgiftsområde 14 Arbetsmarknad och arbetsliv för anslagsdel 2*Del till AF etableringsersättning under anslag 1:2 Bidrag till arbetslöshetsersättning och ersättningar till deltagare i arbetsmarknadspolitiska insatser*som ska räknas som bistånd vid varje prognostillfälle. Dessa ska beräknas enligt beskrivningen i bilaga 2. Prognosen ska vara uppdelad på respektive år i den aktuella prognosperioden.",
+    "Utbetalda belopp per anslag, anslagspost och insatser under de anslag som disponeras av Arbetsförmedlingen. Insatser som ges inom jobbgarantin för ungdomar, jobb- och utvecklingsgarantin och etableringsprogrammet ska framgå samt",
+    "inkomster på inkomsttitel."
+   ],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27486:assignments:12"
+  },
+  {
+   "title": "Tidigare givna uppdrag i regleringsbrev eller särskilda regeringsbeslut",
+   "group": [],
+   "text": "| | | |\n| --- | --- | --- |\n| **Sammanfattning av uppdraget** | **Beslut om uppdraget** | **Rapporteringstidpunkt** |\n| Uppdrag till Arbetsförmedlingen att minska långtidsarbetslösheten | A2022/00330 | Redovisning till Regeringskansliet (Arbetsmarknadsdepartementet) senast den 13 mars 2026. |\n| Uppdrag att implementera en myndighetsgemensam plan för att öka utrikes födda kvinnors inträde på arbetsmarknaden | A2022/00923 | Uppdraget ska slutredovisas senast den 31 mars 2026 till Regeringskansliet (Arbetsmarknadsdepartementet). Finansiering för 2025 framgår av regleringsbrevet för anslaget 3:1 under utgiftsområde 13. |\n| Uppdrag till Tillväxtverket att inrätta och medverka i ett nationellt analysnätverk för hållbar regional utveckling i hela landet 2022–2030 | N2022/01543 | Arbetsförmedlingen ska medverka i nätverket. |\n| Förlängd tid för uppdraget att lämna underlag om ungas levnadsvillkor till Myndigheten för ungdoms- och civilsamhällsfrågor (MUCF) | S2023/03148 | Arbetsförmedlingen ska årligen t.o.m. den 31 december 2026 lämna underlag till MUCF om ungas levnadsvillkor med avseende på målet för ungdomspolitiken (Ku2020/02689). |\n| Uppdrag om att stärka samordning kopplat till Sveriges möjligheter att attrahera och behålla högkvalificerad internationell kompetens och annan utländsk arbetskraft som är viktig för Sveriges konkurrenskraft | KN2024/00521 | Tillväxtverket ska senast den 31 mars 2026 lämna en delredovisning till Regeringskansliet (Klimat- och näringslivsdepartementet). Tillväxtverket ska senast den 31 mars 2027 lämna en slutrapport till Regeringskansliet (Klimat- och Näringslivsdepartementet). |\n| Uppdrag att redovisa genomförandet av den regionala utvecklingspolitiken och den sammanhållna landsbygdspolitiken | Li2024/00652 | Redovisas den 31 januari 2027 till Regeringskansliet (Landsbygds- och infrastrukturdepartementet) med kopia till Tillväxtverket. |\n| Uppdrag att sammanställa och sprida information om ekonomiska aspekter av våld i nära relationer | A2024/00777, A2025/00884 | Jämställdhetsmyndigheten ska lämna en samlad slutredovisning senast den 15 december 2027 till Regeringskansliet (Arbetsmarknadsdepartementet). |\n| Ändring av uppdraget att inrätta regionala center mot arbetslivskriminalitet och om varaktig myndighetssamverkan | A2024/01109 | Redovisas årligen och senast den 31 mars 2025–2027 av Arbetsmiljöverket till Regeringskansliet (Arbetsmarknadsdepartementet). Redovisningen ska tas fram tillsammans med övriga myndigheter som omfattas av uppdraget. |\n| Uppdrag att redovisa resultat inom ramen för regeringens utvecklingsprogram för jämställdhetsintegrering i statliga myndigheter | A2024/01457 | Redovisas senast den 20 januari 2026 till Regeringskansliet (Arbetsmarknadsdepartementet). |\n| Inriktning för civilt försvar 2025–2030 | Fö2024/02054 | Arbetsförmedlingen ska årligen i samband med årsredovisningen lämna en särskild redovisning för civilt försvar till Regeringskansliet (Försvarsdepartementet och Arbetsmarknadsdepartementet). |\n| Uppdrag att samordna, stödja och följa upp genomförandet av den nationella strategin inom området psykisk hälsa och suicidprevention | S2025/00016 | Arbetsförmedlingen ska medverka i uppdraget. Arbetsförmedlingen får använda 2 000 000 kr under 2026. Medlen utbetalas engångsvis efter rekvisition till Kammarkollegiet senast den 1 december 2026. Medel som inte har använts för avsett ändamål ska återbetalas senast den 31 mars 2027 till Kammarkollegiet. |\n| Uppdrag till beredskapsmyndigheterna om personallån mellan myndigheter | Fö2025/00670 | Redovisas i årsredovisningen för 2025 eller i särskilt rapport till Regeringskansliet (Arbetsmarknadsdepartementet) senast den 23 februari 2026. |\n| Uppdrag att kraftsamla mot organiserad brottslighet i välfärden | S2025/01085 | Myndigheterna ska senast före utgången av april 2026 lämna en gemensam skriftlig delredovisning av uppdraget enligt anvisning. Myndigheterna ska före utgången av september 2027 lämna en gemensam skriftlig slutredovisning av uppdraget enligt anvisning. |\n| Ändring av uppdrag att följa upp funktionshinderspolitiken 2021–2031 utifrån det nationella målet för funktionshinderspolitiken | S2025/01367 | Redovisas till Myndigheten för delaktighet (MFD) senast den 1 februari under perioden 2021–2031. |\n| Nationellt program för Europeiska socialfonden+ 2021–2027 | Regleringsbrev 2024 | Uppdraget ska årligen under perioden 2025–2031 redovisas till Regeringskansliet (Arbetsmarknadsdepartementet) senast den 31 mars. |\n| Effektivare arbete för integration och minskat utanförskap | Regleringsbrev 2024 | Uppdraget ska slutredovisas till Regeringskansliet (Arbetsmarknadsdepartementet) senast den 5 mars 2026. |\n| Uppdrag för att stärka och påskynda förenklingsarbetet | Regleringsbrev 2024 | Arbetsförmedlingen ska årligen under perioden 2025–2026 lämna en redovisning till Regeringskansliet (Arbetsmarknadsdepartementet och Klimat- och näringslivsdepartementet) senast den 10 mars. |\n| Säkerställa proaktivitet och handlingskraft vid fredstida krissituationer eller vid krig och krigsfara | Regleringsbrev 2025 | Myndigheten ska redovisa vidtagna åtgärder till Regeringskansliet (Arbetsmarknadsdepartementet senast den 1 mars 2026. |\n| Stärkt kontroll av arbetssökande som deltar i arbetsmarknadspolitiska insatser hos leverantörer | Regleringsbrev 2025 | Arbetsförmedlingen ska senast den 8 april 2026 till Regeringskansliet (Arbetsmarknadsdepartementet) redovisa resultatet av vidtagna åtgärder. |\n| Utveckling av arbetsgivararbetet | Regleringsbrev 2025 | Arbetsförmedlingen ska senast den 1 oktober 2026 lämna en slutlig redovisning av uppdraget till Regeringskansliet (Arbetsmarknadsdepartementet). |\n| Fortsättning av uppdraget om förstärkt stöd för att effektivt sammanföra långtidsarbetslösa med arbetsgivare | Regleringsbrev 2025 | Uppdraget ska slutligt redovisas till Regeringskansliet (Arbetsmarknadsdepartementet) den 17 februari 2027. Arbetsförmedlingen ska löpande hålla Regeringskansliet (Arbetsmarknadsdepartementet) informerat om uppdragets genomförande. |\n| Ökad kostnadseffektivitet i matchningstjänsterna | Regleringsbrev 2025 | Uppdraget ska slutligt redovisas till Regeringskansliet (Arbetsmarknadsdepartementet) den 17 februari 2026. |\n| Ökad kännedom om stöd till personer med funktionsnedsättning | Regleringsbrev 2025 | Arbetsförmedlingen ska senast den 15 oktober 2026 redovisa till Regeringskansliet (Arbetsmarknadsdepartementet) hur uppdraget genomförts samt resultat av insatserna. |\n| Identifiering och bedömning av arbetssökande med funktionsnedsättning som medför nedsatt arbetsförmåga | Regleringsbrev 2025 | En slutlig redovisningen av uppdraget, inklusive vidtagna åtgärder, ska lämnas till Regeringskansliet (Arbetsmarknadsdepartementet) senast den 15 oktober 2026. |\n| Insatser för personer som är sjukskrivna och för unga med aktivitetsersättning | Regleringsbrev 2025 | Uppdraget ska redovisas till Regeringskansliet (Arbetsmarknadsdepartementet och Socialdepartementet) senast den 14 april 2026. |\n| Uppdrag om att ta tillvara arbetsförmåga i förvärvsarbete på arbetsmarknaden | Regleringsbrev 2025 | Försäkringskassan och Arbetsförmedlingen ska senast den 14 april 2026 lämna en gemensam redovisning av uppdraget till Regeringskansliet (Socialdepartementet och Arbetsmarknadsdepartementet). |\n| Uppdrag avseende investeringar | Regleringsbrev 2025 | Redovisas till Regeringskansliet (Arbetsmarknadsdepartementet) senast den 28 februari 2026. |\n| Arbetsförmedlingen ska stödja Jobbsprångets arbete för att öka sysselsättningen för utrikes födda. | Regleringsbrev 2025 | Arbetsförmedlingen ska stödja Jobbsprångets arbete. |\n| Sommarjobb för ungdomar och jobb för ungdomar | Regleringsbrev 2025 | Redovisning av använda medel avseende sommarjobb för ungdomar senast den 27 februari 2026 till Regeringskansliet (Arbetsmarknadsdepartement). Redovisning av använda medel avseende jobb för ungdomar senast den 17 april 2026 till Regeringskansliet (Arbetsmarknadsdepartement). |\n| Främjande och utvecklingsinsatser för att påskynda nyanländas etablering (ap. 3) | Regleringsbrev 2025 | Arbetsförmedlingen ska senast den 1 oktober 2026 till Regeringskansliet (Arbetsmarknadsdepartementet) redovisa vilka insatser som har genomförts, vilka resultat som har uppnåtts och hur resultaten förhåller sig till det ändamål som bidraget har beviljats för. |\n\nFör regeringsuppdrag som lämnats i ett särskilt regeringsbeslut utgör tabellen ovan endast en upplysning om vilka uppdrag som vid årets början var riktade till myndigheten och vilka tider som då gällde för återrapportering eller liknande.",
+   "dates": [
+    "2025-03-31",
+    "2026-01-20",
+    "2026-02-17",
+    "2026-02-23",
+    "2026-02-27",
+    "2026-02-28",
+    "2026-03-01",
+    "2026-03-05",
+    "2026-03-13",
+    "2026-03-31",
+    "2026-04-08",
+    "2026-04-14",
+    "2026-04-17",
+    "2026-10-01",
+    "2026-10-15",
+    "2026-12-01",
+    "2026-12-31",
+    "2027-01-31",
+    "2027-02-17",
+    "2027-03-31",
+    "2027-12-15"
+   ],
+   "deadlines": [
+    "2025-03-31",
+    "2026-01-20",
+    "2026-02-23",
+    "2026-02-27",
+    "2026-02-28",
+    "2026-03-01",
+    "2026-03-05",
+    "2026-03-13",
+    "2026-03-31",
+    "2026-04-08",
+    "2026-04-14",
+    "2026-04-17",
+    "2026-10-01",
+    "2026-10-15",
+    "2026-12-01",
+    "2027-03-31",
+    "2027-12-15"
+   ],
+   "recipients": [
+    "Kammarkollegiet",
+    "Myndigheten för delaktighet",
+    "Regeringskansliet",
+    "Regeringskansliet (Arbetsmarknadsdepartement)",
+    "Regeringskansliet (Arbetsmarknadsdepartementet och Klimat- och näringslivsdepartementet)",
+    "Regeringskansliet (Arbetsmarknadsdepartementet och Socialdepartementet)",
+    "Regeringskansliet (Arbetsmarknadsdepartementet)",
+    "Regeringskansliet (Försvarsdepartementet och Arbetsmarknadsdepartementet)",
+    "Regeringskansliet (Klimat- och Näringslivsdepartementet)",
+    "Regeringskansliet (Klimat- och näringslivsdepartementet)",
+    "Regeringskansliet (Landsbygds- och infrastrukturdepartementet)",
+    "Regeringskansliet (Socialdepartementet och Arbetsmarknadsdepartementet)",
+    "Tillväxtverket"
+   ],
+   "partners": [
+    "Arbetsmiljöverket",
+    "Försäkringskassan",
+    "Jämställdhetsmyndigheten",
+    "Kammarkollegiet",
+    "Myndigheten för delaktighet",
+    "Tillväxtverket"
+   ],
+   "channels": [
+    "årsredovisning",
+    "delredovisning",
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna",
+    "fördela_medel",
+    "utveckla",
+    "tillsyn_kontroll",
+    "informera",
+    "beredskap_säkerhet",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [
+    "3:1"
+   ],
+   "expenditure_area_refs": [
+    13
+   ],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "27486:assignments:13"
+  },
+  {
+   "title": "Analysera och lämna förslag på utformning av flyttstöd",
+   "group": [],
+   "text": "För att minska arbetslösheten och förbättra kompetensförsörjningen behöver fler arbetslösa flytta för att få ett arbete. Finanspolitiska rådets (2024) beräkningar indikerar att arbetslösheten skulle ha varit upp till 0,6 procentenheter lägre om arbetslösa i regioner med hög arbetslöshet flyttade till regioner med relativt hög efterfrågan på arbetskraft. En ökad geografisk rörlighet bedöms även bidra till hållbar kompetensförsörjning och därigenom stärka förutsättningarna för större företagsetableringar och företagsexpansioner i hela landet. Arbetsförmedlingen ska därför lämna förslag, inklusive nödvändiga författningsförslag och konsekvensbeskrivning, på hur ett ändamålsenligt flyttstöd kan utformas för att öka den geografiska rörligheten bland arbetslösa och bidra till bättre matchning. Stödet ska vara kostnadseffektivt och utformas på ett sätt som minskar riskerna för dödviktseffekter. Målgruppen för stödet ska därför tydligt definieras och avgränsas till de fall där kostnader för flytt och etablering bedöms vara ett hinder. I utformningen av förslaget ska erfarenheter, forskning och utvärderingar av tidigare liknande stöd beaktas. Vidare ska förslaget utformas med beaktande av relevant EU‑rätt. Redovisningen ska innehålla en analys av det föreslagna stödets omfattning och konsekvenser utifrån förordning (2024:183) om konsekvensutredningar. I redovisningen av konsekvensbeskrivningen ska särskild vikt läggas vid 7 § 5 om hur utvärdering av föreslaget till stöd kan genomföras. Utöver vad som anges i nämnda förordning ska Arbetsförmedlingen föreslå finansiering inom de ekonomiska ramarna för arbetsmarknadspolitiken.\n\nArbetsförmedlingen ska inhämta synpunkter från Institutet för arbetsmarknads- och utbildningspolitisk utvärdering (IFAU) om hur goda förutsättningar för effektutvärdering kan skapas.\n\nArbetsförmedlingen ska senast den 1 februari 2027 lämna en redovisning av uppdraget till Regeringskansliet (Arbetsmarknadsdepartementet).",
+   "dates": [
+    "2027-02-01"
+   ],
+   "deadlines": [
+    "2027-02-01"
+   ],
+   "recipients": [
+    "Regeringskansliet (Arbetsmarknadsdepartementet)"
+   ],
+   "partners": [
+    "Finanspolitiska rådet",
+    "Institutet för arbetsmarknads- och utbildningspolitisk utvärdering"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "föreslå",
+    "samordna",
+    "utveckla",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2024:183"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27486:assignments:14"
+  },
+  {
+   "title": "Sommarjobb för ungdomar och jobb för ungdomar",
+   "group": [],
+   "text": "Arbetsförmedlingen ska möjliggöra sommarjobb för ungdomar och jobb för ungdomar i enlighet med villkor 16 under anslag 1:3 Kostnader för arbetsmarknadspolitiska program och insatser, anslagspost 1.\n\nArbetsförmedlingen ska senast den 26 februari 2027 lämna en redovisning till Regeringskansliet (Arbetsmarknadsdepartementet) av hur kommunerna har använt medel avseende sommarjobb för ungdomar. Av redovisningen ska framgå hur kommunerna har använt medlen och hur många ungdomar som har fått sommarjobb. Statistiken ska redovisas uppdelad på kön och ålder samt huruvida ungdomarna är inrikes eller utrikes födda. Arbetsförmedlingen ska även samma datum lämna en redovisning av uppskattade kostnader för jobb för ungdomar. Arbetsförmedlingen ska senast den 16 april 2027 lämna en redovisning till Regeringskansliet (Arbetsmarknadsdepartementet) av hur kommunerna har använt medel avseende jobb för ungdomar. Av redovisningen ska framgå hur kommunerna har använt medlen och hur många ungdomar, uppdelat på kön och ålder, som har fått jobb för ungdomar.",
+   "dates": [
+    "2027-02-26",
+    "2027-04-16"
+   ],
+   "deadlines": [
+    "2027-02-26",
+    "2027-04-16"
+   ],
+   "recipients": [
+    "Regeringskansliet (Arbetsmarknadsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "statistik_data"
+   ],
+   "anslag_refs": [
+    "1:3"
+   ],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27486:assignments:15"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "1:1",
+   "name": "Arbetsförmedlingens förvaltningskostnader",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 14,
+    "name": "Arbetsmarknad och arbetsliv"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Arbetsförmedlingen",
+     "amount_tkr": 7846683,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Förvaltningskostnader för AF (ram)",
+       "amount_tkr": 7846683
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Förvaltningskostnader för AF",
+     "text": "**1. Anslagsposten får användas för Arbetsförmedlingens förvaltningsutgifter.**\n**2. Arbetsförmedlingen får svara för del av den statliga nationella medfinansieringen av det nationella programmet för Europeiska socialfonden+ 2021–2027, enligt villkoren för anslagsposten. Arbetsförmedlingen får därutöver medfinansiera projekt inom program för Europeiska regionala utvecklingsfonden 2021–2027, som ligger i linje med målen för den svenska arbetsmarknadspolitiken och villkoren för anslagsposten.**\n**3. Arbetsförmedlingen ska kunna använda och samverka med det gemensamma radiokommunikationssystemet Rakel. Arbetsförmedlingen ska betala totalt 456 000 kronor till Myndigheten för civilt försvar som abonnemangsavgift för detta system. Beloppet ska betalas efter fakturering från Myndigheten för civilt försvar.**"
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "1:2",
+   "name": "Bidrag till arbetslöshetsersättning och ersättningar till deltagare i arbetsmarknadspolitiska insatser",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 14,
+    "name": "Arbetsmarknad och arbetsliv"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Arbetsförmedlingen",
+     "amount_tkr": 45973112,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Aktivitetsstöd (ram)",
+       "amount_tkr": 18723930
+      },
+      {
+       "ap": "2",
+       "name": "Bidrag till arbetslöshetsersättning (ram)",
+       "amount_tkr": 23117029
+      },
+      {
+       "ap": "3",
+       "name": "Statliga ålderspensionsavgifter (ram)",
+       "amount_tkr": 3303153
+      },
+      {
+       "ap": "4",
+       "name": "Etableringsersättning (ram)",
+       "amount_tkr": 829000
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Aktivitetsstöd",
+     "text": "**1. Anslagsposten får användas för utgifter för aktivitetsstöd och utvecklingsersättning enligt förordningen (2017:819) om ersättning till deltagare i arbetsmarknadspolitiska insatser.**\n**2. Arbetsförmedlingen får svara för del av den statliga nationella medfinansieringen av det nationella programmet för Europeiska socialfonden+ 2021–2027, enligt villkoren för anslagsposten. Arbetsförmedlingen får därutöver medfinansiera projekt inom program för Europeiska regionala utvecklingsfonden 2021–2027, som ligger i linje med målen för den svenska arbetsmarknadspolitiken och villkoren för anslagsposten.**"
+    },
+    {
+     "ap": "2",
+     "name": "Bidrag till arbetslöshetsersättning",
+     "text": "**1. Anslagsposten får användas för statsbidrag enligt förordningen (1997:836) om arbetslöshetskassor.**\n**2. Anslagsposten får användas för skadestånd till följd av fel eller försummelse vid myndighetsutövning hos arbetslöshetskassorna.**\n**3. Anslagsposten får användas för ersättning till sökande från annat EU/EES-land enligt artikel 69 Rådets förordning (EEG) 1408/71 om tillämpningen av systemen för social trygghet när anställda, egenföretagare eller familjemedlemmar flyttar inom gemenskapen.**\n**4. Anslagsposten får användas för återbetalning av ersättningsbelopp för arbetslösa som var bosatta i en annan medlemsstat än den behöriga staten enligt artikel 65 punkterna 6 och 7 i Europaparlamentets och rådets förordning (EG) nr 883/2004 om samordning av de sociala trygghetssystemen.**\n**5. Anslagsposten får efter särskilt beslut av regeringen användas för bidrag till arbetslöshetskassor enligt 93 a § lagen (1997:239) om arbetslöshetskassor.**"
+    },
+    {
+     "ap": "3",
+     "name": "Statliga ålderspensionsavgifter",
+     "text": "Anslagsposten får användas för utgifter för statlig ålderspensionsavgift enligt lagen (1998:976) om statlig ålderspensionsavgift. Anslagsbeloppet avser preliminär statlig ålderspensionsavgift för 2026 om 4 018 849 000 kronor och ett regleringsbelopp för 2022 om -715 696 000 kronor."
+    },
+    {
+     "ap": "4",
+     "name": "Etableringsersättning",
+     "text": "**1. Anslagsposten avser etableringsersättning, etableringstillägg, bostadsersättning och barntillägg enligt förordningen (2017:819) om ersättning till deltagare i arbetsmarknadspolitiska insatser.**\n**2. Arbetsförmedlingen får svara för del av den statliga nationella medfinansieringen av det nationella programmet för Europeiska socialfonden+ 2021–2027, enligt villkoren för anslagsposten. Arbetsförmedlingen får därutöver medfinansiera projekt inom program för Europeiska regionala utvecklingsfonden 2021–2027, som ligger i linje med målen för den svenska arbetsmarknadspolitiken och villkoren för anslagsposten.**"
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "1:3",
+   "name": "Kostnader för arbetsmarknadspolitiska program och insatser",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 14,
+    "name": "Arbetsmarknad och arbetsliv"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Arbetsförmedlingen",
+     "amount_tkr": 5971822,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Kostnader för arbetsmarknadspolitiska program och insatser (ram)",
+       "amount_tkr": 5921822
+      },
+      {
+       "ap": "3",
+       "name": "Främjande och utvecklingsinsatser för att påskynda nyanländas etablering (ram)",
+       "amount_tkr": 50000
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Kostnader för arbetsmarknadspolitiska program och insatser",
+     "text": "**1. Anslagsposten får användas för kostnader för program och övriga insatser för personer som omfattas av lagen (2017:584) om ansvar för etableringsinsatser för vissa nyanlända invandrare enligt villkoren för anslagsposten.**\n**2. Arbetsförmedlingen får svara för del av den statliga nationella medfinansieringen av det nationella programmet för Europeiska socialfonden+ 2021–2027, enligt villkoren för anslagsposten. Arbetsförmedlingen får därutöver medfinansiera projekt inom program för Europeiska regionala utvecklingsfonden 2021–2027, som ligger i linje med målen för den svenska arbetsmarknadspolitiken och villkoren för anslagsposten.**\n**3. Anslagsposten får användas för följande inom ramen för förordningen (2000:634) om arbetsmarknadspolitiska program: a) Upphandling av arbetsmarknadsutbildning. En utbildning för vilken studiemedel kan lämnas enligt studiestödsförordningen (2000:655) får upphandlas endast om utbildningen är yrkesinriktad. Arbetsförmedlingen svarar för att avtal träffas i fråga om de utbildningsplatser som följer av Sveriges åtagande enligt överenskommelsen från 2023 (A2023/01508) mellan Finland, Norge och Sverige om Stiftelsen Utbildning Nordkalotten (11 §). b) Särskilda yttranden från remissinstans i samband med stöd till start av näringsverksamhet (18 §). c) Validering (13 §). d) Kartläggning, vägledning och rehabilitering (30 §). e) Upphandling av utbildning av förberedande, orienterande karaktär (30 §). f) Efter rekvisition från Folkbildningsrådet får bidrag lämnas till förberedande insatser i form av folkhögskoleutbildning. Utbildningen kan innehålla kurser av orienterande, repeterande och motivationshöjande karaktär, vid behov i kombination med språkstöd, och syftar till att underlätta för den enskilde att påbörja eller återgå till utbildning, se 7 § och 30 § förordning (2000:634) om arbetsmarknadspolitiska program. g) Projekt med arbetsmarknadspolitisk inriktning enligt (31–32 §§). h) Yrkeskompetensbedömning (33 a §).**\n**4. Anslagsbeloppet får i enlighet med 18 § förordningen (2007:414) om jobb- och utvecklingsgarantin användas till ekonomiskt stöd till den som anordnar arbetsträning med 150 kronor per anvisningsdag eller förstärkt arbetsträning med 300 kronor per närvarodag. Under fördjupad bedömning, inom ramen för förstärkt arbetsträning, kan ytterligare 200 kronor utgå under maximalt tre månader. Arbetsförmedlingen ska efter rekvisition ersätta kommuner för merkostnader som föranleds av verksamheter för arbetslösa som deltar i arbetsträning eller förstärkt arbetsträning inom jobb- och utvecklingsgarantin.**\n**5. Anslagsposten får användas för följande inom ramen för förordningen (2007:813) om jobbgaranti för ungdomar: a) Kurskostnader för utbildningar (8 §). b) Arbetsförmedlingen ska efter rekvisition ersätta kommuner med 150 kronor per anvisningsdag och person för merkostnader som föranleds av verksamheter för ungdomar inom jobbgarantin för ungdomar, som efter överenskommelse mellan Arbetsförmedlingen och kommunen deltar i studie- och yrkesvägledning eller jobbsökaraktiviteter med coachning i kommunens regi (14 a §). c) Ekonomiskt stöd till den som anordnar arbetsträning med 150 kronor per anvisningsdag eller förstärkt arbetsträning med 300 kronor per närvarodag. Arbetsförmedlingen ska efter rekvisition ersätta kommuner för merkostnader som föranleds av verksamheter för arbetslösa som deltar i arbetsträning eller förstärkt arbetsträning inom jobbgarantin för ungdomar (14 a §).**\n**6. Anslagsposten får användas för ersättning till resor m.m. enligt 3 kap. 1–9 §§ förordningen (2017:819) om ersättning till deltagare i arbetsmarknadspolitiska insatser.**\n**7. Anslagsposten får användas för försäkringar och ersättningar för skada för deltagare i arbetsmarknadsutbildning, validering, arbetspraktik, jobb- och utvecklingsgarantin, jobbgarantin för ungdomar, förberedande insatser, projekt med arbetsmarknadspolitisk inriktning och förmedlingsinsatser enligt förordningen (1988:244) om grupplivförsäkring för deltagare i vissa arbetsmarknadspolitiska program, förordningen (1980:631) om ersättning av allmänna medel för skada orsakad av deltagare i ett arbetsmarknadspolitiskt program eller arbetslivsinriktad rehabilitering m.m. och förordningen (1998:1785) om ersättning vid skada till deltagare i vissa arbetsmarknadspolitiska program m.m.**\n**8. Anslagsposten får användas för bidrag enligt förordningen (2015:500) om resebidrag.**\n**9. Anslagsposten får användas för utgifter avseende tolkservice vid Arbetsförmedlingen.**\n**10. Anslagsposten får användas för ekonomiskt stöd för lönekostnader och ekonomiskt stöd för handledning enligt förordningen (2018:42) om särskilt anställningsstöd.**\n**11. Anslagsposten får användas för utgifter inom ramen för riktade mobilitetsinsatser (Targeted Mobility Scheme) som initierats av Europeiska kommissionen. När bidraget betalats ut av Europeiska kommissionen ska beloppet återföras till anslaget.**\n12. Anslagsposten får användas för insatser inom ramen för Europeiska fonden för justering för globaliseringseffekter för uppsagda arbetstagare (EGF) i enlighet med särskilda regeringsbeslut. Bidrag från EU ska redovisas mot inkomsttitel 6911*Övriga bidrag från EU, undertitel 009 Europeiska globaliseringsfonden*.\n**13. Anslagsposten får användas för ekonomiskt stöd till den som anordnar arbetsträning med 150 kronor per anvisningsdag eller förstärkt arbetsträning med 300 kronor per närvarodag enligt förordningen (2017:820) om etableringsinsatser för vissa nyanlända invandrare. Arbetsförmedlingen ska efter rekvisition ersätta kommuner för merkostnader som föranleds av verksamheter för vissa nyanlända som deltar i arbetsträning eller förstärkt arbetsträning med högst 150 kronor per anvisningsdag och deltagare.**\n**14. Efter rekvisition från Folkbildningsrådet får bidrag lämnas till särskilt anpassade sammanhållna utbildningar på folkhögskolor som anordnas för nyanlända som omfattas av etableringsprogrammet. Utbildningarna kan utgöra ett komplement till utbildning som avses i 14 § förordningen (2017:820) om etableringsinsatser för vissa nyanlända invandrare. Utbildningarna kan omfatta flera insatser som kombineras med varandra, bl.a. svenska samt orienterande, studieförberedande och arbetsförberedande insatser. Bidrag får även, efter rekvisition från Folkbildningsrådet, lämnas till yrkesinriktad utbildning på folkhögskola, se 13 d § förordningen (2017:820) om etableringsinsatser för vissa nyanlända invandrare.**\n**15. Anslagsposten får användas för utgifter avseende anskaffade förmedlingsinsatser från leverantörer enligt förordningen (2022:812) om förmedlingsinsatser.**\n**16. Av anslagsbeloppet får högst 250 000 000 kronor användas för:**\nBidrag till kommunerna, i enlighet med uppdrag 16, för att skapa sommarjobb under sommarmånaderna för ungdomar som avslutat årskurs åtta eller nio och för ungdomar efter första eller andra året i gymnasieskolan, samt ungdomar som omfattas av det kommunala aktivitetsansvaret.\nBidrag till kommunerna, i enlighet med uppdrag 16 för att skapa jobb för ungdomar som under 2025 har avslutat, eller under innevarande år kommer att avsluta, sin gymnasieutbildning samt ungdomar som omfattas av det kommunala aktivitetsansvaret.\nBidraget får lämnas för jobb under 2026 och får som längst pågå under sammanlagt 4 månader.\nArbetsförmedlingen ska fördela medlen till kommuner som enligt myndighetens statistik 2025 i genomsnitt hade en arbetslöshet i nivå med, eller högre än medianen för Sveriges kommuner.\nVid fördelning av medel ska Arbetsförmedlingen ta hänsyn till antalet ungdomar i åldern 15–19 år samt nivån på arbetslösheten i respektive kommun.\nSatsningen ska riktas till unga som har svårt att hitta anställning själva. Fördelning av medel till kommunerna får inte inverka på tillkomsten av redan planerade jobb."
+    },
+    {
+     "ap": "3",
+     "name": "Främjande och utvecklingsinsatser för att påskynda nyanländas etablering",
+     "text": "Anslagsposten får användas för statsbidrag till arbetsmarknadens parter i enlighet med förordningen (2015:848) om statsbidrag för särskilda främjande- och utvecklingsinsatser i syfte att påskynda nyanlända invandrares etablering på arbetsmarknaden."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "1",
+     "max": 150,
+     "unit": "kronor"
+    },
+    {
+     "ap": "1",
+     "max": 250000000,
+     "unit": "kronor"
+    }
+   ]
+  },
+  {
+   "code": "1:4",
+   "name": "Lönebidrag och Samhall m.m.",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 14,
+    "name": "Arbetsmarknad och arbetsliv"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Arbetsförmedlingen",
+     "amount_tkr": 12598049,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Lönebidrag m.m. (ram)",
+       "amount_tkr": 12598049
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Lönebidrag m.m.",
+     "text": "**1. Anslagsposten får användas för bidrag enligt förordningen (2017:462) om särskilda insatser för personer med funktionsnedsättning som medför nedsatt arbetsförmåga enligt nedan: – lönebidrag för utveckling i anställning, – lönebidrag för anställning, – lönebidrag för trygghet i anställning, – ekonomiskt bidrag till arbetsgivare som kompletterar bidraget för lönekostnaderna, – särskild stödperson för introduktion och uppföljning (SIUS), – skyddat arbete hos offentlig arbetsgivare, – bidrag till hjälpmedel på arbetsplatsen, bidrag för personligt biträde, bidrag till litteratur och tolk för personer med syn- eller hörselnedsättning och bidrag till uppstartskostnader vid start av näringsverksamhet.**\nAnslagsposten får även användas för bidrag som betalas ut i enlighet med övergångsbestämmelserna i nämnda förordning.\nMedel som används för SIUS får avse utgifter av förvaltningskaraktär.\n**2. Anslagsposten får användas för projekt med arbetsmarknadspolitisk inriktning, enligt 31–32 §§ förordningen (2000:634) om arbetsmarknadspolitiska program, för personer med funktionsnedsättning som medför nedsatt arbetsförmåga.**\n**3. Anslagsposten får användas för att utveckla och informera om ny teknik och datorbaserade arbetshjälpmedel för personer med funktionsnedsättning som medför nedsatt arbetsförmåga samt för att bekosta experter som deltar i sådana ärenden.**\n**4. Arbetsförmedlingen får svara för del av den statliga nationella medfinansieringen av det nationella programmet för Europeiska socialfonden+ 2021–2027, enligt villkoren för anslagsposten. Arbetsförmedlingen får därutöver medfinansiera projekt inom program för Europeiska regionala utvecklingsfonden 2021–2027, som ligger i linje med målen för den svenska arbetsmarknadspolitiken och villkoren för anslagsposten.**"
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "1:5",
+   "name": "Nystartsjobb och etableringsjobb",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 14,
+    "name": "Arbetsmarknad och arbetsliv"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Arbetsförmedlingen",
+     "amount_tkr": 2153201,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Nystartsjobb (ram)",
+       "amount_tkr": 2034294
+      },
+      {
+       "ap": "3",
+       "name": "Etableringsjobb (ram)",
+       "amount_tkr": 118907
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Nystartsjobb",
+     "text": "Anslagsposten får användas för stöd enligt förordningen (2018:43) om stöd för nystartsjobb."
+    },
+    {
+     "ap": "3",
+     "name": "Etableringsjobb",
+     "text": "Anslagsposten får användas för stöd enligt förordningen (2022:807) om statlig ersättning för arbete i etableringsjobb. Eftersom summan av regleringsbeloppet och den preliminära statliga ålderspensionsavgiften för 2026 för anslaget 1:5 Nystartsjobb och etableringsjobb avseende etableringsjobb beräknas bli negativ ska Arbetsförmedlingen inte betala någon statlig ålderspensionsavgift för anslaget 2026."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "1:1 Arbetsförmedlingens förvaltningskostnader",
+   "ap": "ap.1",
+   "Anslagskredit": 234650,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:2 Bidrag till arbetslöshetsersättning och ersättningar till deltagare i arbetsmarknadspolitiska insatser",
+   "ap": "ap.1",
+   "Anslagskredit": 936196,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:2 Bidrag till arbetslöshetsersättning och ersättningar till deltagare i arbetsmarknadspolitiska insatser",
+   "ap": "ap.2",
+   "Anslagskredit": 1155851,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:2 Bidrag till arbetslöshetsersättning och ersättningar till deltagare i arbetsmarknadspolitiska insatser",
+   "ap": "ap.3",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:2 Bidrag till arbetslöshetsersättning och ersättningar till deltagare i arbetsmarknadspolitiska insatser",
+   "ap": "ap.4",
+   "Anslagskredit": 41450,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:3 Kostnader för arbetsmarknadspolitiska program och insatser",
+   "ap": "ap.1",
+   "Anslagskredit": 298591,
+   "Anslagsbehållning som disponeras 2026": 400000,
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:3 Kostnader för arbetsmarknadspolitiska program och insatser",
+   "ap": "ap.3",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:4 Lönebidrag och Samhall m.m.",
+   "ap": "ap.1",
+   "Anslagskredit": 629902,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:5 Nystartsjobb och etableringsjobb",
+   "ap": "ap.1",
+   "Anslagskredit": 101714,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:5 Nystartsjobb och etableringsjobb",
+   "ap": "ap.3",
+   "Anslagskredit": 5945,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 1200000,
+  "Räntekontokredit": 300000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 651807
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 651807
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 651807
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 651807
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 651807
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 655378
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 655378
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 655378
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 655378
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 655378
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 655378
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 655380
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:1 Arbetsförmedlingens förvaltningskostnader",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "234 650",
+     "3 %",
+     "0"
+    ],
+    [
+     "1:2 Bidrag till arbetslöshetsersättning och ersättningar till deltagare i arbetsmarknadspolitiska insatser",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "936 196",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.2",
+     "1 155 851",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.3",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.4",
+     "41 450",
+     "Inget",
+     "0"
+    ],
+    [
+     "1:3 Kostnader för arbetsmarknadspolitiska program och insatser",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "298 591",
+     "400 000",
+     "0"
+    ],
+    [
+     "ap.3",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "1:4 Lönebidrag och Samhall m.m.",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "629 902",
+     "Inget",
+     "0"
+    ],
+    [
+     "1:5 Nystartsjobb och etableringsjobb",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "101 714",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.3",
+     "5 945",
+     "Inget",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Avslutade anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagstyp"
+    ],
+    [
+     "1:5 Nystartsjobb och etableringsjobb",
+     ""
+    ],
+    [
+     "ap.5",
+     "ram"
+    ],
+    [
+     "1:13 (2025) Etableringsersättning till vissa nyanlända invandrare",
+     ""
+    ],
+    [
+     "ap.1 (2025)",
+     "ram"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Beställningsbemyndiganden",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Bemyndigande",
+     "Utgifter mot anslag till följd av ekonomiska åtaganden",
+     "",
+     "",
+     ""
+    ],
+    [
+     "2026",
+     "2027",
+     "2028",
+     "2029 -",
+     "Slutår"
+    ],
+    [
+     "1:3 Kostnader för arbetsmarknadspolitiska program och insatser",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "4 400 000",
+     "3 843 875",
+     "525 161",
+     "30 964",
+     "2035"
+    ],
+    [
+     "1:4 Lönebidrag och Samhall m.m.",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "16 000 000",
+     "10 204 270",
+     "4 807 035",
+     "988 695",
+     "2030"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "1 200 000"
+    ],
+    [
+     "Räntekontokredit",
+     "300 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "651 807"
+    ],
+    [
+     "2026-02-25",
+     "651 807"
+    ],
+    [
+     "2026-03-25",
+     "651 807"
+    ],
+    [
+     "2026-04-25",
+     "651 807"
+    ],
+    [
+     "2026-05-25",
+     "651 807"
+    ],
+    [
+     "2026-06-25",
+     "655 378"
+    ],
+    [
+     "2026-07-25",
+     "655 378"
+    ],
+    [
+     "2026-08-25",
+     "655 378"
+    ],
+    [
+     "2026-09-25",
+     "655 378"
+    ],
+    [
+     "2026-10-25",
+     "655 378"
+    ],
+    [
+     "2026-11-25",
+     "655 378"
+    ],
+    [
+     "2026-12-25",
+     "655 380"
+    ],
+    [
+     "Summa",
+     "7 846 683"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "1:1 ap.1",
+     "Förvaltningskostnader för AF"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Tjänsteexport",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Tjänsteexport1",
+     "0",
+     "-612",
+     "900",
+     "1 300",
+     "-400",
+     "-1 012"
+    ]
+   ]
+  }
+ ],
+ "has_fee_section": true,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 4,
+  "n_org": 1,
+  "n_assignments": 16,
+  "n_deadlines": 33,
+  "deadlines": [
+   "2025-03-31",
+   "2026-01-20",
+   "2026-02-23",
+   "2026-02-27",
+   "2026-02-28",
+   "2026-03-01",
+   "2026-03-05",
+   "2026-03-13",
+   "2026-03-31",
+   "2026-04-08",
+   "2026-04-14",
+   "2026-04-17",
+   "2026-04-28",
+   "2026-05-12",
+   "2026-06-01",
+   "2026-07-24",
+   "2026-09-30",
+   "2026-10-01",
+   "2026-10-14",
+   "2026-10-15",
+   "2026-11-12",
+   "2026-12-01",
+   "2027-02-01",
+   "2027-02-22",
+   "2027-02-26",
+   "2027-02-28",
+   "2027-03-31",
+   "2027-04-14",
+   "2027-04-16",
+   "2027-04-28",
+   "2027-10-14",
+   "2027-12-15",
+   "2028-01-15"
+  ],
+  "partners": [
+   "Arbetsmiljöverket",
+   "Finanspolitiska rådet",
+   "Försäkringskassan",
+   "Institutet för arbetsmarknads- och utbildningspolitisk utvärdering",
+   "Jämställdhetsmyndigheten",
+   "Kammarkollegiet",
+   "Migrationsverket",
+   "Myndigheten för civilt försvar",
+   "Myndigheten för delaktighet",
+   "Statskontoret",
+   "Sveriges Kommuner och Regioner",
+   "Tillväxtverket"
+  ],
+  "n_appropriations": 5,
+  "appropriations_total_tkr": 74542867,
+  "payment_plan_total_tkr": 7846683,
+  "md_chars": 54877
+ },
+ "layout": "standard",
+ "warnings": []
+}

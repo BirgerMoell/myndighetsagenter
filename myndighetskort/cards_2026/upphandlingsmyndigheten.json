@@ -1,0 +1,658 @@
+{
+ "schema_version": 1,
+ "id": 26348,
+ "original_rbid": 26067,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-05-21",
+ "year": "2026",
+ "name": "Upphandlingsmyndigheten",
+ "slug": "upphandlingsmyndigheten",
+ "department": "Finansdepartementet",
+ "expenditure_areas": [
+  2
+ ],
+ "registry_numbers": [
+  "Fi2026/01179"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1"
+  ],
+  "bet": [
+   "2025/26:FiU2"
+  ],
+  "rskr": [
+   "2025/26:133"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "Myndighetens huvudsakliga uppgifter framgår av förordningen (2015:527) med instruktion för Upphandlingsmyndigheten.",
+ "goals": [
+  {
+   "title": "Samverkan med civila samhället och idéburna organisationer",
+   "group": [],
+   "text": "Myndigheten ska redovisa vilka åtgärder den har vidtagit för att förbättra civilsamhällets och idéburna organisationers förutsättningar att bidra till utförandet av offentligt finansierade tjänster.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26348:goals:0"
+  },
+  {
+   "title": "Öka förmågan att använda AI och ny teknik genom datadrivet arbete",
+   "group": [],
+   "text": "Myndigheten ska analysera och redovisa hur den arbetar datadrivet, dvs. använder data till stöd för sina analyser och beslut. Myndigheten ska också redovisa de åtgärder som den har vidtagit för att förbättra sin förmåga att arbeta datadrivet och resultatet av åtgärderna. I redovisningen ska ingå en beskrivning av hur ett datadrivet arbetssätt och användning av AI har bidragit till att utveckla myndighetens verksamhet och höja kvaliteten i utförandet av myndighetens uppgifter. Myndigheten ska även redovisa hur den beaktar risker och arbetar för att användningen av data och AI ska ske på ett etiskt, säkert och icke-diskriminerande sätt. Myndigheten ska vidare analysera och redovisa förutsättningarna för att ytterligare öka sin förmåga att använda AI och ny teknik genom att arbeta datadrivet.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla",
+    "statistik_data",
+    "digitalisering_ai"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26348:goals:1"
+  },
+  {
+   "title": "Genomförande av ekodesignförordningen",
+   "group": [],
+   "text": "Myndigheten ska redovisa hur den, tillsammans med Naturvårdsverket, Statens energimyndighet, Kemikalieinspektionen och Styrelsen för ackreditering och teknisk kontroll (Swedac), har utarbetat synpunkter och förslag som bidrar till arbetet i ekodesignforumet och dess expertgrupp för medlemsstater och i andra relevanta processer för genomförandet av Europaparlamentets och rådets förordning (EU) 2024/1781 av den 13 juni 2024 om upprättande av en ram för att fastställa ekodesignkrav för hållbara produkter, om ändring av direktiv (EU) 2020/1828 och förordning (EU) 2023/1542 och om upphävande av direktiv 2009/125/EG.",
+   "dates": [
+    "2024-06-13"
+   ],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Kemikalieinspektionen",
+    "Naturvårdsverket",
+    "Statens energimyndighet",
+    "Styrelsen för ackreditering och teknisk kontroll"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla",
+    "tillsyn_kontroll",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26348:goals:2"
+  },
+  {
+   "title": "Genomförande av Utrikeshandelsstrategin",
+   "group": [],
+   "text": "Myndigheten ska analysera och redovisa hur verksamheten inom myndighetens ansvarsområde ytterligare kan bidra till att främja hållbarhetskrav och livscykelperspektiv i internationella upphandlingar, i syfte att öka svenska företags konkurrensmöjligheter.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26348:goals:3"
+  }
+ ],
+ "org": [],
+ "assignments": [
+  {
+   "title": "Upphandlingsfaktorer som främjar konkurrensen inom bygg- och anläggningssektorn",
+   "group": [],
+   "text": "Myndigheten ska tillsammans med Boverket kartlägga upphandlingsfaktorer inom bygg- och anläggningssektorn som kan främja att fler anbudsgivare deltar i upphandlingar i sektorn. Vid genomförandet av uppdraget ska myndigheterna ha ett särskilt fokus på små och medelstora företag. Myndigheterna ska vidare, baserat på resultatet av kartläggningen, ta fram och vidareutveckla informationsinsatser och stöd samt tillhandahålla och sprida informationen på lämpligt sätt. Uppdraget innefattar inte upphandling av statlig transportinfrastruktur.\n\nBoverket och Upphandlingsmyndigheten ska senast den 1 december 2027 lämna en gemensam redovisning av uppdraget till Regeringskansliet (Landsbygds- och infrastrukturdepartementet, med kopia till Finansdepartementet).",
+   "dates": [
+    "2027-12-01"
+   ],
+   "deadlines": [
+    "2027-12-01"
+   ],
+   "recipients": [
+    "Regeringskansliet (Landsbygds- och infrastrukturdepartementet, med kopia till Finansdepartementet)"
+   ],
+   "partners": [
+    "Boverket"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla",
+    "informera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26348:assignments:0"
+  },
+  {
+   "title": "Stöd till kommuner och idéburna aktörer avseende upphandling av skyddat boende",
+   "group": [],
+   "text": "Myndigheten ska fortsätta uppdraget att ta fram en vägledning och genomföra utbildnings- och rådgivningsinsatser till kommuner och idéburna aktörer i syfte att underlätta tillämpningen av upphandlingsregler när kommunerna anskaffar tjänsten skyddat boende från sådana aktörer (Fi2023/03284). Uppdraget ska senast den 31 mars 2027 redovisas till Regeringskansliet (Socialdepartementet, med kopia till Finansdepartementet och Arbetsmarknadsdepartementet). För genomförandet av uppdraget får myndigheten under 2026 använda högst 1 000 000 kronor från anslaget 3:1 Särskilda jämställdhetsåtgärder, inom utgiftsområde 13 Integration och jämställdhet, anslagspost 12 Jämställdhetsinsatser efter regeringsbeslut. Medlen betalas ut engångsvis efter rekvisition till Kammarkollegiet senast den 1 december 2026. Medel som inte har använts för avsett ändamål ska återbetalas senast den 31 mars 2027 till Kammarkollegiet. Vid samma tidpunkt ska en ekonomisk redovisning av använda medel lämnas till Kammarkollegiet. Rekvisition, återbetalning och redovisning ska hänvisa till detta regleringsbrev.",
+   "dates": [
+    "2026-12-01",
+    "2027-03-31"
+   ],
+   "deadlines": [
+    "2026-12-01",
+    "2027-03-31"
+   ],
+   "recipients": [
+    "Kammarkollegiet",
+    "Regeringskansliet (Socialdepartementet, med kopia till Finansdepartementet och Arbetsmarknadsdepartementet)"
+   ],
+   "partners": [
+    "Kammarkollegiet"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla",
+    "informera"
+   ],
+   "anslag_refs": [
+    "3:1"
+   ],
+   "expenditure_area_refs": [
+    13
+   ],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26348:assignments:1"
+  },
+  {
+   "title": "Praktiskt stöd och vägledning till kommuner om statsstödsregler vid genomförandet av aktivitetskravet",
+   "group": [],
+   "text": "Myndigheten ska, mot bakgrund av det aktivitetskrav för försörjningsstödsmottagare som regeringen har aviserat i budgetpropositionen för 2026, ge vägledning och genomföra utbildnings- och rådgivningsinsatser för kommuner i syfte att underlätta tillämpningen av relevanta statsstödsregler när kommunerna anlitar utförare av aktiviteter för försörjningsstödsmottagare. Uppdraget ska senast den 30 september 2026 delredovisas muntligt till Regeringskansliet (Socialdepartementet) i den del som avser att ge vägledning. Uppdraget ska slutredovisas i samband med årsredovisningen för 2026. I redovisningarna ska särskilt uppmärksammas om det finns behov av ytterligare stöd och åtgärder.\n\nFör genomförandet av uppdraget får myndigheten under 2026 använda högst 1 000 000 kronor som ska redovisas mot det under utgiftsområde 9 Hälsovård, sjukvård och social omsorg för budgetåret 2026 uppförda anslaget 4:7 Bidrag till utveckling av socialt arbete m.m., anslagspost 5 Övriga utvecklingsmedel. Medlen betalas ut engångsvis efter rekvisition till Kammarkollegiet senast den 30 november 2026. Medel som inte har använts för avsett ändamål ska återbetalas senast den 31 mars 2027 till Kammarkollegiet. Vid samma tidpunkt ska en ekonomisk redovisning av använda medel lämnas till Kammarkollegiet. Rekvisition, återbetalning och redovisning ska hänvisa till detta regleringsbrev.",
+   "dates": [
+    "2026-09-30",
+    "2026-11-30",
+    "2027-03-31"
+   ],
+   "deadlines": [
+    "2026-09-30",
+    "2026-11-30",
+    "2027-03-31"
+   ],
+   "recipients": [
+    "Kammarkollegiet",
+    "Regeringskansliet (Socialdepartementet)"
+   ],
+   "partners": [
+    "Kammarkollegiet"
+   ],
+   "channels": [
+    "årsredovisning",
+    "muntlig",
+    "delredovisning",
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "fördela_medel",
+    "utveckla",
+    "informera"
+   ],
+   "anslag_refs": [
+    "4:7"
+   ],
+   "expenditure_area_refs": [
+    9
+   ],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26348:assignments:2"
+  },
+  {
+   "title": "Främja innovativa digitala tjänster",
+   "group": [],
+   "text": "Upphandlingsmyndigheten ska genomföra informationsinsatser och möjliggöra kunskapsutbyte mellan näringslivet och upphandlande organisationer, i syfte att hjälpa små och medelstora företag som erbjuder innovativa digitala tjänster att i större utsträckning hitta och delta i de offentliga affärerna.\n\nMyndigheten ska vid utförandet av uppdraget ta hänsyn till slutredovisningen av Kammarkollegiets uppdrag att genomföra en förstudie om att inrätta ett dynamiskt inköpssystem för innovativa digitala lösningar med fokus på små och medelstora svenska och europeiska företag (Fi2026/00311). Upphandlingsmyndigheten ska också inhämta synpunkter från Försäkringskassan och Skatteverket, som har i uppdrag att etablera en AI-verkstad för den offentliga förvaltningen (Fi2026/00018).\n\nUppdraget ska redovisas till Regeringskansliet (Finansdepartementet) i samband med myndighetens slutredovisning av uppdraget att främja och följa upp genomförandet av färdplanen för de offentliga affärerna (Fi2025/01827).",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [
+    "Regeringskansliet (Finansdepartementet)"
+   ],
+   "partners": [
+    "Försäkringskassan",
+    "Kammarkollegiet",
+    "Skatteverket"
+   ],
+   "channels": [
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna",
+    "utveckla",
+    "informera",
+    "digitalisering_ai",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26348:assignments:3"
+  },
+  {
+   "title": "Samlat stöd och vägledning om reserverade kontrakt",
+   "group": [],
+   "text": "Upphandlingsmyndigheten ska ta fram ett samlat och lättillgängligt stöd för reserverad upphandling för idéburna aktörer i syfte att öka kommuners och regioners kunskaper och främja användningen av reserverade kontrakt. Det samlade stödet ska också innehålla vägledning och lättillgänglig information om Kammarkollegiets register över idéburna organisationer och hur det kan användas som stöd vid upphandlingar av välfärdstjänster. Uppdraget ska senast den 10 maj 2027 redovisas till Regeringskansliet (Finansdepartementet).",
+   "dates": [
+    "2027-05-10"
+   ],
+   "deadlines": [
+    "2027-05-10"
+   ],
+   "recipients": [
+    "Regeringskansliet (Finansdepartementet)"
+   ],
+   "partners": [
+    "Kammarkollegiet"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "informera",
+    "statistik_data"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26348:assignments:4"
+  },
+  {
+   "title": "Prognoser",
+   "group": [],
+   "text": "Myndigheten ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Prognoserna lämnas i informationssystemet Hermes senast den\n\n– 2 februari\\\n– 22 april\\\n– 24 juli\\\n– 9 november.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26348:assignments:5"
+  },
+  {
+   "title": "Pågående uppdrag",
+   "group": [],
+   "text": "| | | |\n| --- | --- | --- |\n| Uppdrag | Beslut om uppdraget | Redovisningstidpunkt |\n| Uppdrag att bistå Miljömålsrådet | M2018/01715 M2022/00273 | - |\n| Uppdrag om systematisk uppföljning av funktionshinderspolitiken under 2021–2031 | S2021/06595 S2025/01367 | Årligen senast den 1 februari till Myndigheten för delaktighet |\n| Uppdrag om åtgärder för att förenkla för företag att delta i offentlig upphandling | Fi2023/03284 | 2026-03-15 |\n| Uppdrag att utveckla arbetet med försörjningsanalyser | Fö2025/01148 | 2026-05-04 |\n| Uppdrag om stöd för socialtjänstens omställning | S2024/00196 (delvis) S2025/00116 (delvis) | 2029-03-01 |\n| Uppdrag om genomförande av en nationell enkätundersökning | Fi2024/02559 (delvis) | 2026-03-15 |\n| Uppdrag att stödja kommunerna i deras arbete med att motverka arbetslivskriminalitet och brottslighet i välfärden | Fi2025/02383 | 2026-05-15 2027-03-31 2028-03-30 2028-12-31 |\n| Uppdrag att främja och följa upp genomförandet av färdplanen för de offentliga affärerna | Fi2025/01827 | 2026-05-15 2027-02-17 2028-03-15 2029-02-14 2030-03-15 2030-09-30 |\n| Uppdrag att förbereda inordnandet av vissa uppgifter från Myndigheten för digital förvaltning och Kammarkollegiet | Fi2025/01825 | - |\n\n*För regeringsuppdrag som lämnats i ett särskilt regeringsbeslut utgör tabellen endast en upplysning om vilka uppdrag som vid årets början var riktade till myndigheten och vilka tider som då gällde för återrapportering eller liknande.*",
+   "dates": [
+    "2026-03-15",
+    "2026-05-04",
+    "2026-05-15",
+    "2027-02-17",
+    "2027-03-31",
+    "2028-03-15",
+    "2028-03-30",
+    "2028-12-31",
+    "2029-02-14",
+    "2029-03-01",
+    "2030-03-15",
+    "2030-09-30"
+   ],
+   "deadlines": [],
+   "recipients": [
+    "Myndigheten för delaktighet"
+   ],
+   "partners": [
+    "Kammarkollegiet",
+    "Myndigheten för delaktighet",
+    "Myndigheten för digital förvaltning"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "26348:assignments:6"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "1:16",
+   "name": "Upphandlingsmyndigheten",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 2,
+    "name": "Samhällsekonomi och finansförvaltning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Upphandlingsmyndigheten",
+     "amount_tkr": 125311,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Upphandlingsmyndigheten (ram)",
+       "amount_tkr": 120311
+      },
+      {
+       "ap": "2",
+       "name": "Vägledning om statsstöd (ram)",
+       "amount_tkr": 5000
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Upphandlingsmyndigheten",
+     "text": "Anslagsposten får användas för Upphandlingsmyndighetens förvaltningsutgifter."
+    },
+    {
+     "ap": "2",
+     "name": "Vägledning om statsstöd",
+     "text": "Anslagsposten får användas för utgifter till följd av myndighetens uppgift att vägleda kommuner och regioner i statsstödsfrågor."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "1:16 Upphandlingsmyndigheten",
+   "ap": "ap.1",
+   "Anslagskredit": 3759,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:16 Upphandlingsmyndigheten",
+   "ap": "ap.2",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 15000,
+  "Räntekontokredit": 7000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 10443
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 10443
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 10443
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 10443
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 10443
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 10443
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 10443
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 10443
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 10443
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 10443
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 10443
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 10438
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:16 Upphandlingsmyndigheten",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "3 759",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.2",
+     "0",
+     "3 %",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "15 000"
+    ],
+    [
+     "Räntekontokredit",
+     "7 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "10 443"
+    ],
+    [
+     "2026-02-25",
+     "10 443"
+    ],
+    [
+     "2026-03-25",
+     "10 443"
+    ],
+    [
+     "2026-04-25",
+     "10 443"
+    ],
+    [
+     "2026-05-25",
+     "10 443"
+    ],
+    [
+     "2026-06-25",
+     "10 443"
+    ],
+    [
+     "2026-07-25",
+     "10 443"
+    ],
+    [
+     "2026-08-25",
+     "10 443"
+    ],
+    [
+     "2026-09-25",
+     "10 443"
+    ],
+    [
+     "2026-10-25",
+     "10 443"
+    ],
+    [
+     "2026-11-25",
+     "10 443"
+    ],
+    [
+     "2026-12-25",
+     "10 438"
+    ],
+    [
+     "Summa",
+     "125 311"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "1:16 ap.1",
+     "Upphandlingsmyndigheten"
+    ],
+    [
+     "1:16 ap.2",
+     "Vägledning om statsstöd"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [],
+ "has_fee_section": false,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 4,
+  "n_org": 0,
+  "n_assignments": 7,
+  "n_deadlines": 6,
+  "deadlines": [
+   "2026-09-30",
+   "2026-11-30",
+   "2026-12-01",
+   "2027-03-31",
+   "2027-05-10",
+   "2027-12-01"
+  ],
+  "partners": [
+   "Boverket",
+   "Försäkringskassan",
+   "Kammarkollegiet",
+   "Kemikalieinspektionen",
+   "Myndigheten för delaktighet",
+   "Myndigheten för digital förvaltning",
+   "Naturvårdsverket",
+   "Skatteverket",
+   "Statens energimyndighet",
+   "Styrelsen för ackreditering och teknisk kontroll"
+  ],
+  "n_appropriations": 1,
+  "appropriations_total_tkr": 125311,
+  "payment_plan_total_tkr": 125311,
+  "md_chars": 12559
+ },
+ "layout": "standard",
+ "warnings": []
+}

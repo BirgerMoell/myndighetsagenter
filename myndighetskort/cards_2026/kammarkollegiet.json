@@ -1,0 +1,856 @@
+{
+ "schema_version": 1,
+ "id": 27464,
+ "original_rbid": 26089,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-06-18",
+ "year": "2026",
+ "name": "Kammarkollegiet",
+ "slug": "kammarkollegiet",
+ "department": "Finansdepartementet",
+ "expenditure_areas": [
+  2
+ ],
+ "registry_numbers": [
+  "Fi2026/01204"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1"
+  ],
+  "bet": [
+   "2025/26:FiU2"
+  ],
+  "rskr": [
+   "2025/26:133"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "",
+ "goals": [
+  {
+   "title": "Allmänna arvsfonden",
+   "group": [],
+   "text": "Myndigheten ska redovisa sina kostnader för bevakning av Allmänna arvsfondens rätt och förvaltning av fonden, samt för administrativa och handläggande uppgifter åt Arvsfondsdelegationen. Redovisningen ska vara uppdelad i kostnader för personal, lokaler och övrigt. Kostnaderna för hanteringen av fondens ekonomiadministration, och för återkrav som Arvsfondsdelegationen överlämnar till myndigheten, ska särskiljas och redovisas uppdelat i den utsträckning som det är möjligt.\n\nMyndigheten ska redovisa vilka åtgärder som har vidtagits för att bibehålla kvaliteten i handläggningen och för att effektivisera verksamheten.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27464:goals:0"
+  },
+  {
+   "title": "Avvecklingsverksamhet",
+   "group": [],
+   "text": "Myndigheten ska redovisa de uppdrag genom vilka regeringen har beslutat att myndigheten ska hantera sådana avvecklingsfrågor som återstår efter det att en myndighet har upphört.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27464:goals:1"
+  },
+  {
+   "title": "Auktorisationsverksamheten",
+   "group": [],
+   "text": "Myndigheten ska redovisa sitt arbete enligt förordningen (1985:613) om auktorisation av tolkar och översättare samt vid behov samla berörda aktörer på tolkområdet för informations- och erfarenhetsutbyte.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "1985:613"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27464:goals:2"
+  },
+  {
+   "title": "Sveriges BNI-baserade EU-avgift",
+   "group": [],
+   "text": "Myndigheten ska redovisa hur stor Sveriges BNI-baserade EU-avgift var 2021–2025. Vid redovisningen ska myndigheten utgå från de delar som den BNI-baserade avgiften består av enligt anslagsredovisningen.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27464:goals:3"
+  },
+  {
+   "title": "Användning av digitala inköp",
+   "group": [],
+   "text": "Myndigheten ska redovisa vilka åtgärder som den har vidtagit för att hantera sina beställningar av varor och tjänster elektroniskt enligt förordningen (2003:770) om statliga myndigheters elektroniska informationsutbyte och för att öka användningen av digitala inköp.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2003:770"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27464:goals:4"
+  },
+  {
+   "title": "Färdval och resepolicy vid tjänsteresor",
+   "group": [],
+   "text": "Alla trafikslag ska kunna nyttjas (väg, järnväg, luft- och sjöfart) för att säkerställa effektiva och ändamålsenliga transporter. Myndigheten ska därför redovisa hur den har säkerställt att val av färdsätt vid tjänsteresor sker färdmedelsneutralt och utifrån behov. Vidare ska myndigheten redovisa huruvida myndigheten köpt in hållbart flygbränsle till organisationens flygresor. När kostnader jämförs för olika färdval ska hela resans kostnad beaktas, exempelvis kostnader för nödvändig övernattning samt total arbetstid för hela resan.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27464:goals:5"
+  },
+  {
+   "title": "Information till reseaktörer",
+   "group": [],
+   "text": "I propositionen Ett förbättrat resegarantisystem (prop. 2025/26:45) lämnas förslag till ändringar i resegarantilagen (2018:1218) som bl.a. innebär att en resegarantifond inrättas. Myndigheten ska redovisa de informationsinsatser som genomförts riktade till berörda reseaktörer om det nya resegarantisystemet.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla",
+    "informera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2018:1218"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27464:goals:6"
+  }
+ ],
+ "org": [
+  {
+   "title": "Avvecklingsverksamhet",
+   "group": [],
+   "text": "Myndigheten ska överta tillgångar och skulder för avvecklade myndigheter till bokfört värde enligt 5 kap. 3 och 8 §§ förordningen (2000:605) om årsredovisning och budgetunderlag. Övertagandet ska ske vid den tidpunkt då en myndighet har upphört, med utgångspunkt från upprättad årsredovisning.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "årsredovisning",
+    "budgetunderlag"
+   ],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2000:605"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "org",
+   "item_id": "27464:org:0"
+  }
+ ],
+ "assignments": [
+  {
+   "title": "Utgiftsprognoser",
+   "group": [],
+   "text": "Myndigheten ska redovisa prognoser för förvaltningsanslaget och anslaget 1:6 Bidrag till folkhälsa och sjukvård, anslagspost 25 Ersättning till narkolepsidrabbade och anslagspost 43 Ersättning för personskador orsakade av vaccin mot covid-19, inom utgiftsområde 9 Hälsovård, sjukvård och social omsorg samt anslaget 1:13 Grundläggande omställnings- och kompetensstöd, inom utgiftsområde 14 Arbetsmarknad och arbetsliv, 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Prognoserna lämnas i informationssystemet Hermes senast den\n\n– 2 februari\\\n– 22 april\\\n– 24 juli\\\n– 9 november.\n\nMyndigheten ska vid samtliga prognostillfällen redovisa dels utgifter per månad och antal individer med offentligt grundläggande omställnings- och kompetensstöd i slutet på respektive månad, fördelat på typ av stöd, dels antalet arbetsgivare som kompenseras för avgifter för omställningstjänster och utgifterna för kompensationen.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos",
+    "fördela_medel"
+   ],
+   "anslag_refs": [
+    "1:13",
+    "1:6"
+   ],
+   "expenditure_area_refs": [
+    9,
+    14
+   ],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27464:assignments:0"
+  },
+  {
+   "title": "Prognos för beställningsbemyndiganden",
+   "group": [],
+   "text": "Myndigheten ska redovisa en prognos för de förslag om beställningsbemyndiganden som lämnats i budgetunderlaget och för de åtaganden som ingåtts med stöd av äldre beställningsbemyndiganden. Prognosen ska lämnas senast den 24 juli 2026 via statsredovisningssystemet Hermes och utformas enligt närmare information från Statskontoret.",
+   "dates": [
+    "2026-07-24"
+   ],
+   "deadlines": [
+    "2026-07-24"
+   ],
+   "forecast_dates": [],
+   "recipients": [],
+   "partners": [
+    "Statskontoret"
+   ],
+   "channels": [
+    "hermes",
+    "budgetunderlag"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27464:assignments:1"
+  },
+  {
+   "title": "Instrumentet för tekniskt stöd",
+   "group": [],
+   "text": "Myndigheten ska utgöra nationell samordningsmyndighet för EU:s stödprogram Instrumentet för tekniskt stöd.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27464:assignments:2"
+  },
+  {
+   "title": "Redovisning av statens tillgångar i Riksbankens grundfond eller reservfond",
+   "group": [],
+   "text": "Myndigheten ska i den löpande bokföringen och i årsredovisningen redovisa kapitaltillskott som har utbetalats till Riksbanken. I årsredovisningen ska vidare statens andel i Riksbankens grundfond och, i förekommande fall, reservfond redovisas som en tillgång under balansposten Andelar i hel- och delägda företag. Myndigheten ska vidare senast den 1 mars 2026 tillsammans med det värderingsunderlag avseende statens hel- och delägda företag som ska lämnas enligt förordningen (2011:231) om underlag för årsredovisning för staten, till Statskontoret lämna underlag avseende denna tillgång och till Riksbanken utbetalda kapitaltillskott. Uppgifterna i underlaget ska tas fram i dialog med Statskontoret.",
+   "dates": [
+    "2026-03-01"
+   ],
+   "deadlines": [
+    "2026-03-01"
+   ],
+   "recipients": [
+    "Statskontoret"
+   ],
+   "partners": [
+    "Statskontoret"
+   ],
+   "channels": [
+    "årsredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "fördela_medel"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2011:231"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27464:assignments:3"
+  },
+  {
+   "title": "Öka förmågan att använda AI och ny teknik genom datadrivet arbete",
+   "group": [],
+   "text": "Myndigheten ska redovisa hur den arbetar datadrivet, dvs. använder data till stöd för sina analyser och beslut. I redovisningen ska ingå en beskrivning av hur ett datadrivet arbetssätt och användning av AI har bidragit till att utveckla myndighetens verksamhet samt exempel på åtgärder som myndigheten har vidtagit för att utveckla verksamheten. Uppdraget ska senast den 15 maj 2026 redovisas till Regeringskansliet (Finansdepartementet).",
+   "dates": [
+    "2026-05-15"
+   ],
+   "deadlines": [
+    "2026-05-15"
+   ],
+   "recipients": [
+    "Regeringskansliet (Finansdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla",
+    "statistik_data",
+    "digitalisering_ai"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27464:assignments:4"
+  },
+  {
+   "title": "Förvalta innehåll på webbplatsen verksamt.se",
+   "group": [],
+   "text": "Kammarkollegiet ska förvalta myndighetens innehåll på den myndighetsgemensamma webbplatsen verksamt.se.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27464:assignments:5"
+  },
+  {
+   "title": "Pågående uppdrag",
+   "group": [],
+   "text": "Myndigheten har i uppdrag att samla in uppgifter och redovisa en analys och uppföljning av det grundläggande omställnings- och kompetensstödet (A2024/00842). Uppdraget ska redovisas till Regeringskansliet (Arbetsmarknadsdepartementet, med kopia till Finansdepartementet) i samband med årsredovisningarna 2025–2027.\n\nMyndigheten har i uppdrag att förbereda en överföring av myndighetens uppgift att upphandla samordnade ramavtal, enligt 8 a § förordningen (2007:824) med instruktion för Kammarkollegiet, så att uppgiften kan inordnas i Upphandlingsmyndigheten den 1 januari 2027. Myndigheten ska senast den 2 mars 2026 redovisa personella och ekonomiska konsekvenser av förändringen till Regeringskansliet (Finansdepartementet).",
+   "dates": [
+    "2026-03-02",
+    "2027-01-01"
+   ],
+   "deadlines": [
+    "2026-03-02"
+   ],
+   "recipients": [
+    "Regeringskansliet (Arbetsmarknadsdepartementet, med kopia till Finansdepartementet)",
+    "Regeringskansliet (Finansdepartementet)"
+   ],
+   "partners": [
+    "Upphandlingsmyndigheten"
+   ],
+   "channels": [
+    "årsredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2007:824"
+   ],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "27464:assignments:6"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "1:1",
+   "name": "Kammarkollegiet",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 2,
+    "name": "Samhällsekonomi och finansförvaltning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Kammarkollegiet",
+     "amount_tkr": 172496,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Kammarkollegiet (ram)",
+       "amount_tkr": 85568
+      },
+      {
+       "ap": "3",
+       "name": "Offentlig omställningsorganisation (ram)",
+       "amount_tkr": 86928
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Kammarkollegiet",
+     "text": "**Förvaltningsutgifter**\nAnslagsposten får användas för myndighetens förvaltningsutgifter. Anslagsposten får även användas för att finansiera förvaltningsutgifter för Alkoholsortimentsnämnden, Fideikommissnämnden, Nämnden för styrelserepresentationsfrågor, Statens skaderegleringsnämnd, Statens nämnd för arbetstagares uppfinningar, Skiljenämnden i vissa trygghetsfrågor och Statens överklagandenämnd.\n**Skadestånd**\nSammanlagt högst 600 000 kronor av anslagsposten får användas för ersättning enligt 4 § förordningen (1995:1301) om handläggning av skadeståndsanspråk mot staten, i de fall då någon annan myndighet inte har ansetts ansvarig.\n**Fordringsbevakning**\nHögst 720 000 kronor av anslagsposten får användas för att finansiera fordringsbevakning."
+    },
+    {
+     "ap": "3",
+     "name": "Offentlig omställningsorganisation",
+     "text": "**Förvaltningsutgifter**\nAnslagsposten får användas för myndighetens förvaltningsutgifter för den offentliga omställningsorganisationen."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "1",
+     "max": 600000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "1",
+     "max": 720000,
+     "unit": "kronor"
+    }
+   ]
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "1:1 Kammarkollegiet",
+   "ap": "ap.1",
+   "Anslagskredit": 2567,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:1 Kammarkollegiet",
+   "ap": "ap.3",
+   "Anslagskredit": 2607,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 75000,
+  "Räntekontokredit": 12000,
+  "- Kammarkollegiets behov av likviditet för inrättande av nya myndigheter": 250000,
+  "- Kammarkollegiets behov av likviditet i det statliga försäkringssystemet": 100000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 14375
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 14375
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 14375
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 14375
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 14375
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 14375
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 14375
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 14375
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 14375
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 14375
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 14375
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 14371
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:1 Kammarkollegiet",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "2 567",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.3",
+     "2 607",
+     "3 %",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Avslutade anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagstyp"
+    ],
+    [
+     "1:1 Kammarkollegiet",
+     ""
+    ],
+    [
+     "ap.2",
+     "ram"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "75 000"
+    ],
+    [
+     "Räntekontokredit",
+     "12 000"
+    ],
+    [
+     "Övriga kontokrediter"
+    ],
+    [
+     "- Kammarkollegiets behov av likviditet för inrättande av nya myndigheter",
+     "250 000"
+    ],
+    [
+     "- Kammarkollegiets behov av likviditet i det statliga försäkringssystemet",
+     "100 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "14 375"
+    ],
+    [
+     "2026-02-25",
+     "14 375"
+    ],
+    [
+     "2026-03-25",
+     "14 375"
+    ],
+    [
+     "2026-04-25",
+     "14 375"
+    ],
+    [
+     "2026-05-25",
+     "14 375"
+    ],
+    [
+     "2026-06-25",
+     "14 375"
+    ],
+    [
+     "2026-07-25",
+     "14 375"
+    ],
+    [
+     "2026-08-25",
+     "14 375"
+    ],
+    [
+     "2026-09-25",
+     "14 375"
+    ],
+    [
+     "2026-10-25",
+     "14 375"
+    ],
+    [
+     "2026-11-25",
+     "14 375"
+    ],
+    [
+     "2026-12-25",
+     "14 371"
+    ],
+    [
+     "Summa",
+     "172 496"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "1:1 ap.1",
+     "Kammarkollegiet"
+    ],
+    [
+     "1:1 ap.3",
+     "Offentlig omställningsorganisation"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Verksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Kapitalförvaltning1",
+     "16 283",
+     "-774",
+     "98 019",
+     "98 723",
+     "-704",
+     "14 805"
+    ],
+    [
+     "Fordringsbevakning1",
+     "15 251",
+     "-4 600",
+     "25 500",
+     "29 100",
+     "-3 600",
+     "7 051"
+    ],
+    [
+     "Registrering av trossamfund1",
+     "-135",
+     "193",
+     "2 045",
+     "2 000",
+     "45",
+     "103"
+    ],
+    [
+     "Samordnade ramavtal1",
+     "31 577",
+     "-4 000",
+     "125 000",
+     "130 000",
+     "-5 000",
+     "22 577"
+    ],
+    [
+     "Idéburen välfärd1",
+     "-4 257",
+     "-1 151",
+     "90",
+     "1 100",
+     "-1 010",
+     "-6 418"
+    ],
+    [
+     "Summa",
+     "58 719",
+     "-10 332",
+     "250 654",
+     "260 923",
+     "-10 269",
+     "38 118"
+    ]
+   ]
+  },
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna ej disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "Ink. tit.",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Verksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Stiftelserätt1",
+     "2552",
+     "-57 567",
+     "-6 414",
+     "1 800",
+     "8 200",
+     "-6 400",
+     "-70 381"
+    ],
+    [
+     "Tolkar och översättare1",
+     "2552",
+     "-198 853",
+     "-20 044",
+     "2 000",
+     "22 178",
+     "-20 178",
+     "-239 075"
+    ],
+    [
+     "Summa",
+     "-256 420",
+     "-26 458",
+     "3 800",
+     "30 378",
+     "-26 578",
+     "-309 456"
+    ]
+   ]
+  }
+ ],
+ "has_fee_section": true,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 7,
+  "n_org": 1,
+  "n_assignments": 7,
+  "n_deadlines": 4,
+  "deadlines": [
+   "2026-03-01",
+   "2026-03-02",
+   "2026-05-15",
+   "2026-07-24"
+  ],
+  "partners": [
+   "Statskontoret",
+   "Upphandlingsmyndigheten"
+  ],
+  "n_appropriations": 1,
+  "appropriations_total_tkr": 172496,
+  "payment_plan_total_tkr": 172496,
+  "md_chars": 16758
+ },
+ "layout": "standard",
+ "warnings": []
+}

@@ -1,0 +1,4355 @@
+{
+ "schema_version": 1,
+ "id": 27519,
+ "original_rbid": 26031,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-08-27",
+ "year": "2026",
+ "name": "länsstyrelserna",
+ "slug": "lansstyrelserna",
+ "department": "Finansdepartementet",
+ "expenditure_areas": [
+  1
+ ],
+ "registry_numbers": [
+  "Fi2026/01798"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1",
+   "2025/26:143"
+  ],
+  "bet": [
+   "2025/26:FiU46",
+   "2025/26:KU1"
+  ],
+  "rskr": [
+   "2025/26:179",
+   "2025/26:86"
+  ]
+ },
+ "n_attachments_stated": 6,
+ "mission": "Länsstyrelserna bedriver verksamhet inom ett stort antal utgiftsområden. I detta regleringsbrev behandlas i huvudsak anslaget 5:1 Länsstyrelserna m.m\\*.\\*inom utgiftsområde 1 Rikets styrelse. Anslaget beräknas finansiera omkring hälften av länsstyrelsernas verksamhet. Övrig finansiering sker från andra anslag och inomstatliga bidrag.\n\nNär återrapporteringskrav och uppdrag ges till samtliga länsstyrelser anges \"länsstyrelserna\". I annat fall anges det särskilt vilken eller vilka länsstyrelser som avses.\n\nPågående uppdrag redovisas i*bilaga 2.*",
+ "goals": [
+  {
+   "title": "A. Nationella mål",
+   "group": [],
+   "text": "**1. Länsstyrelserna ska redovisa vilka åtgärder som de har vidtagit för att återställa förorenade områden i så stor utsträckning att de inte utgör något hot mot människors hälsa eller miljön. Av redovisningen ska bl.a. framgå hur länsstyrelserna har arbetat med tillsyn och tillsynsvägledning, samt hur de har arbetat med hantering av problem med förorenade sediment.**\n\n**2. Länsstyrelserna ska redovisa vilka insatser som har genomförts för att minska spridningen av högfluorerade ämnen, s.k. PFAS, i miljön. Länsstyrelserna ska särskilt redovisa hur de har arbetat med fortsatt inventering, provtagning och tillsyn av PFAS-förorenade områden för att få en bättre lägesbild, samt med effektiv hantering och begränsning av spridningen av PFAS.**\n\n**3. Länsstyrelserna ska redovisa de översyner som har genomförts av bevarandeplanerna för de Natura 2000-områden som berörs av den nationella planen för moderna miljövillkor (M2019/01769). Bevarandeplanerna ska vid behov utvecklas och förtydligas avseende vilka förutsättningar och åtgärder som behövs för att uppnå bevarandemålen. Länsstyrelserna ska, efter dialog med Affärsverket svenska kraftnät och Statens energimyndighet, prioritera att se över bevarandeplaner för Natura 2000-områden som påverkas av kraftverk av särskild betydelse för elsystemet. Samtliga översyner ska vara genomförda i god tid innan de prövningar som avses i 11 kap. 27 § miljöbalken påbörjas för respektive huvudavrinningsområde.**\n\n**4. Länsstyrelserna ska redovisa vilka resultat som har uppnåtts i arbetet med den nationella planen för omprövning av vattenkraften och hur de medel som anvisats för detta ändamål har använts.**\n\n**5. De länsstyrelser som är vattenmyndigheter ska redovisa hur undantagen i 4 kap. 9 och 10 §§ vattenförvaltningsförordningen (2004:660) har tillämpats avseende de miljökvalitetsnormer som vattenmyndigheterna ska samråda om under 2026 och 2027.**",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Affärsverket svenska kraftnät",
+    "Länsstyrelserna",
+    "Statens energimyndighet"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla",
+    "tillsyn_kontroll",
+    "informera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2004:660"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27519:goals:0"
+  },
+  {
+   "title": "B. Sektorsövergripande och samordnande",
+   "group": [],
+   "text": "**1. Länsstyrelserna ska, inom ramen för sina uppgifter i fråga om samhällsplanering och boende, redovisa vilka åtgärder som har vidtagits i samverkan med kommunerna för att främja ett ökat bostadsbyggande och bostadstillskott där det finns underskott av bostäder. Länsstyrelserna ska redovisa exempel på arbetssätt, metoder och samverkansformer som har varit framgångsrika. Om inga konkreta åtgärder har genomförts under året ska detta redovisas.**\n\n**2. Länsstyrelsen i Västra Götalands län ska redovisa sitt arbete med att samordna och förvalta webbplatsen informationsverige.se.**\n\n**3. Länsstyrelserna ska, efter samråd med Sveriges Kommuner och Regioner (SKR), fortsatt verka för att kommunerna ska få stöd i hur medborgarskapsceremonier kan genomföras och information om hur sådana ceremonier genomförs i andra kommuner.**",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Länsstyrelserna",
+    "Sveriges Kommuner och Regioner"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27519:goals:1"
+  },
+  {
+   "title": "C. Främjande av länets utveckling",
+   "group": [],
+   "text": "**1. Länsstyrelserna ska redovisa hur de har bidragit till tillväxt, med utgångspunkt i deras uppgifter att utifrån ett statligt helhetsperspektiv arbeta sektorsövergripande och inom sitt ansvarsområde samordna olika samhällsintressen och statliga myndigheters insatser samt att främja länets utveckling. Redovisningen ska inkludera en beskrivning av länsstyrelsernas arbetssätt för att beakta tillväxt och hur myndigheterna vid målkonflikter som uppstår i deras verksamheter har arbetat för att frågor om tillväxt beaktas. Redovisningen ska avse ledningens arbete och hur medarbetarna involveras.**",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Länsstyrelserna"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27519:goals:2"
+  },
+  {
+   "title": "D. Tillsyn",
+   "group": [],
+   "text": "**1. Länsstyrelserna ska redovisa resultatet av arbetet med att utveckla effektivitet och enhetlighet i sin tillsyns- respektive prövningsverksamhet. Redovisningen ska innehålla en bedömning av dels hur arbetet med att tillämpa gemensamma arbetsmetoder har utvecklats, dels hur samarbetet vid arbetstoppar har utökats. Av redovisningen ska även framgå om vidtagna åtgärder inom områden där gemensamma metoder har tillämpats har bidragit till kortare handläggningstider, och hur länsstyrelserna i arbetet har verkat för att begränsa de administrativa kostnader som uppstår för kommuner och regioner när länsstyrelserna begär in uppgifter eller utövar tillsyn. Länsstyrelsen i Västernorrlands län ska samordna arbetet och på en övergripande nivå redovisa hur arbetet har utvecklats.**\n\n**2. Länsstyrelserna i Dalarnas, Västernorrlands, Jämtlands, Västerbottens och Norrbottens län ska, i samråd med Sametinget och samebyarna i respektive län, utveckla förvaltningsverktyget för rovdjur inom renskötselområdet, i syfte att upprätthålla en hållbar rennäring och en gynnsam bevarandestatus för stora rovdjur. Berörda länsstyrelser ska redovisa hur arbetet med förvaltningsverktyget bedrivs och redovisa skadenivån för respektive sameby.**\n\n**3. Berörda länsstyrelser ska redovisa sitt arbete med en långsiktigt hållbar rennäring enligt rennäringslagen (1971:437), baserat på tillgängliga betesresurser och renantal, samt en uppföljning av den gränsöverskridande renskötseln.**\n\n**4. Länsstyrelsen i Jämtlands län ska redovisa arbetet med att samordna befintliga renbetesavtal mellan privata markägare och samebyar, verka för att upprätthålla befintliga avtal samt upprätta avtal om vinterbete för ren i Härjedalen, i den utsträckning som det finns behov av och förutsättningar för sådana avtal. Även arbetet med barmarksavtalen och samordningen av det fortsatta underhållet av renstängslet vid Särvfjället ska redovisas. Arbetet ska utföras i dialog med Sametinget och i samarbete med Skogsstyrelsen.**",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Länsstyrelserna",
+    "Sametinget",
+    "Skogsstyrelsen"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna",
+    "utveckla",
+    "tillsyn_kontroll"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "1971:437"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27519:goals:3"
+  },
+  {
+   "title": "E. Övriga återrapporteringskrav",
+   "group": [],
+   "text": "**1. Länsstyrelserna ska sammanställa och redovisa de insatser som de har genomfört, eller avser att genomföra, i syfte att utveckla sin användning av artificiell intelligens (AI). Av redovisningen ska framgå hur användningen av AI har förändrat eller kan förändra myndigheternas arbetssätt, särskilt med fokus på effektivitet. Uppdraget ska genomföras på ett sätt som främjar erfarenhetsutbyte och som medför att goda exempel på användning av AI sprids mellan länsstyrelserna. Länsstyrelserna ska även lämna förslag på insatser som kan stärka länsstyrelsernas gemensamma utveckling mot ett effektivt utnyttjande av AI. Länsstyrelsen i Södermanlands län ska samordna arbetet med genomförandet av uppdraget och länsstyrelsernas redovisning av återrapporteringskravet.**\n\n**2. Länsstyrelserna ska redovisa kostnaderna för sin informations- och kommunikationsverksamhet och hur verksamheten har bidragit till myndighetens förmåga att uppfylla sina kärnuppgifter. Av redovisningen ska bl.a. framgå vilken uppgift eller vilka uppdrag som ligger till grund för respektive verksamhet/insats och vad som motiverar de val av kommunikationsmedel (kanalval) som har gjorts, t.ex. framtagandet av profilprodukter (väskor, märkesnålar m.m. med myndighetens namn eller budskap från myndigheten), annonskampanjer eller utgivning av tidningar.**\n\n**3. Alla trafikslag ska kunna nyttjas (väg, järnväg, luft- och sjöfart) för att säkerställa effektiva och ändamålsenliga transporter. Länsstyrelserna ska därför redovisa hur de har säkerställt att val av färdsätt vid tjänsteresor sker färdmedelsneutralt och utifrån behov. Vidare ska länsstyrelserna redovisa huruvida myndigheten köpt in hållbart flygbränsle till organisationens flygresor. När kostnader jämförs för olika färdval ska hela resans kostnad beaktas, exempelvis kostnader för nödvändig övernattning samt total arbetstid för hela resan.**\n\n**4. Länsstyrelserna i Värmlands och Västernorrlands län ska utveckla samarbetet med provinsen Zaporizjzja oblast i Ukraina i syfte att bidra till utveckling och återuppbyggnad i provinsen samt till kunskaps- och erfarenhetsutbyte på regional nivå inom civil beredskap.**",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Länsstyrelserna"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "föreslå",
+    "samordna",
+    "utveckla",
+    "digitalisering_ai",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27519:goals:4"
+  }
+ ],
+ "org": [
+  {
+   "title": "Organisationsstyrning",
+   "group": [],
+   "text": "**1. Länsstyrelserna ska säkerställa att de har förmåga att agera proaktivt och handlingskraftigt vid hanteringen av sina uppgifter i samband med fredstida krissituationer, krig och krigsfara. Utöver de krav som framgår av förordningen (2022:524) om statliga myndigheters beredskap ska myndigheterna i detta syfte utbilda och öva sin personal samt stärka en kultur och ett arbetssätt som utgår från de krav som ett krig ställer. Uppdraget ska senast den 22 februari 2027 redovisas till Regeringskansliet (Försvarsdepartementet, med kopia till Finansdepartementet) och ingå i den särskilda redovisningen för civilt försvar.**",
+   "dates": [
+    "2027-02-22"
+   ],
+   "deadlines": [
+    "2027-02-22"
+   ],
+   "recipients": [
+    "Regeringskansliet (Försvarsdepartementet, med kopia till Finansdepartementet)"
+   ],
+   "partners": [
+    "Länsstyrelserna"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2022:524"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "org",
+   "item_id": "27519:org:0"
+  },
+  {
+   "title": "Länsstyrelsernas årsredovisningar ska följa en enhetlig struktur. I årsredovisningen ska följande redovisas",
+   "group": [
+    "Organisationsstyrning"
+   ],
+   "text": "– overheadkostnader per sakområde\n\n– verksamhetskostnader och årsarbetskrafter fördelade enligt länsstyrelsernas koder för verksamhets- och ärendestruktur (VÄS) på nivå 2 för 2024, 2025 och 2026\n\n– statistik avseende ärendehantering fördelade enligt länsstyrelsernas VÄS-koder.\n\n**3. Länsstyrelserna ska till Länsstyrelsen i Örebro län lämna underlag till de tabeller som redovisas i resultatredovisningen i årsredovisningen. Underlagen ska lämnas i samband med att årsredovisningarna färdigställs, enligt anvisningar från Länsstyrelsen i Örebro län.**",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Länsstyrelserna"
+   ],
+   "channels": [
+    "årsredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "fördela_medel",
+    "statistik_data"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "overheadkostnader per sakområde",
+    "verksamhetskostnader och årsarbetskrafter fördelade enligt länsstyrelsernas koder för verksamhets- och ärendestruktur (VÄS) på nivå 2 för 2024, 2025 och 2026",
+    "statistik avseende ärendehantering fördelade enligt länsstyrelsernas VÄS-koder."
+   ],
+   "ongoing": false,
+   "section": "org",
+   "item_id": "27519:org:1"
+  }
+ ],
+ "assignments": [
+  {
+   "title": "A. Nationella mål",
+   "group": [],
+   "text": "**1. Länsstyrelserna ska redovisa den statliga närvaron och servicen i länen. Av redovisningen ska framgå i vilken utsträckning statliga myndigheter finns närvarade och erbjuder service i områden där utanförskapet är stort. Vid genomförandet av uppdraget ska befintlig statistik användas. Uppdraget ska senast den 15 oktober 2026 redovisas till Regeringskansliet (Finansdepartementet). Länsstyrelsen i Örebro län ska samordna länsstyrelsernas redovisning av uppdraget.**\n\n**2. Länsstyrelserna i Halland, Kalmar, Gävleborg, Uppsala, Södermanland, Östergötland, Västra Götaland, Blekinge och Skåne ska samordna statliga myndigheters, kommuners och vid behov andra aktörers arbete kopplat till initiativ för ny kärnkraft och stödja kommunerna i deras roll i tillståndsprocessen inför etableringen av ny kärnkraft. Inom ramen för uppdraget ska myndigheterna redovisa de insatser som har genomförts för att etablera en regional samordning och samverkan i frågor om ny kärnkraft.**\n\nLänsstyrelsen i Hallands län ska samordna uppdraget, inklusive länsstyrelsernas kompetensuppbyggnad gällande processer för etablering av ny kärnkraft samt deras redovisningar. Av redovisningen ska bl.a. framgå vilka organisatoriska och finansiella förutsättningar som krävs för att upprätthålla en långsiktig samordning och samverkan i länet. Detta inbegriper nödvändig och samhällsviktig infrastruktur, som bedöms behövas för etablering och drift av ny kärnkraft i Sverige, samt för att erfarenheter ska kunna föras vidare till andra län. Uppdraget ska i den del som avser förutsättningar för en långsiktig samordning och samverkan i länet senast den 15 april 2026 redovisas till Regeringskansliet (Klimat- och näringslivsdepartementet). Uppdraget ska i övrigt redovisas senast den 1 mars 2027.\n\n**3. Berörda länsstyrelser ska tillsammans med Energimarknadsinspektionen och Lantmäteriet arbeta för kortare ledtider vid prövning av nätkoncessioner, för att bidra till en ändamålsenlig utbyggnad av elsystemet utifrån de energipolitiska målen och därmed bidra till näringslivets gröna omställning. Länsstyrelserna ska bistå Energimarknadsinspektionen vid redovisningen av uppdraget.**\n\n**4. Länsstyrelserna ska leda och samordna det regionala genomförandet av energi- och klimatpolitiken genom att bl.a. utveckla den regionala energiplaneringen och främja klimatåtgärder, i syfte att bidra till stärkt näringslivsutveckling, minskad klimatpåverkan, förbättrad energiberedskap och trygg energiförsörjning. Inom ramen för uppdraget ska länsstyrelserna:**\n\n– fortsätta framtagandet av regionala handlingsplaner för elektrifiering som ska vara klara senast den 15 maj 2026\n\n– verka för ett ökat genomslag av de nationella energimålen, i synnerhet planeringsmålet och leveranssäkerhetsmålet för energi inom sina relevanta verksamhetsområden, t.ex. i plan- och tillståndsprocesser och beredskapsarbetet\n\n– främja samverkan och erbjuda stöd till nationella myndigheter, regionala aktörer och kommuner, samt främja samverkan mellan andra lokala och regionala aktörer i arbetet med regional energiplanering, inklusive nätanslutningar för laddinfrastruktur med höga effektkrav och värme- och kylplaner, så att arbetet i större utsträckning kan integreras i övrig samhällsplanering\n\n– administrera Klimatklivet och främja tillkomsten av viktiga klimatinvesteringar som kan finansieras genom denna satsning\n\n– vidta åtgärder för att främja utbyggnaden av hemmaladdning för elfordon för hushåll i flerfamiljshus.\n\nUppdraget ska senast den 21 februari 2027 redovisas till Regeringskansliet (Klimat- och näringslivsdepartementet).\n\nLänsstyrelsen i Dalarnas län ska samordna uppdraget och länsstyrelsernas redovisningar av uppdraget.\n\n**5. Länsstyrelserna ska bistå Statens energimyndighet med kontroll och uppföljning av den utbyggnad av laddinfrastruktur som fått statligt stöd i enlighet med förordningen (2022:107) om statligt stöd till regionala elektrifieringspiloter för tunga transporter.**\n\n**6. En representant för länsstyrelserna ska delta i det samverkansråd vid Statens kulturråd som samordnar de nationella kulturpolitiska intressena inom ramen för kultursamverkansmodellen.**\n\n**7. Länsstyrelserna ska ge stöd och följa upp kommunernas kontinuitetsplanering och beredskapsåtgärder för att säkerställa dricksvattenförsörjningen under fredstida kriser och höjd beredskap. Länsstyrelserna ska vidare ta fram underlag till stöd för prioritering av nödvatten vid fredstida kriser och höjd beredskap inom det egna länet. I uppdraget ingår även att planera och genomföra nödvattenövningar. Arbetet ska redovisas i beredskapssektorns gemensamma redovisning som Livsmedelsverket senast den 22 februari 2027 ska lämna till Regeringskansliet (Landsbygds- och infrastrukturdepartementet). Länsstyrelsen i Jönköpings län ska samordna uppdraget.**\n\n**8. Länsstyrelserna ska utveckla sitt arbete i beredskapssektorn Livsmedelsförsörjning och dricksvatten i syfte att öka förmågan att agera samordnat, samt bistå Livsmedelsverket och Naturvårdsverket i arbetet med att utveckla investeringsprogram för förmågeutveckling som riktar sig till kommuner och regioner. Länsstyrelserna ska i sin roll som beredskapsmyndigheter bidra till sektorns arbete på regional nivå när det gäller livsmedelsberedskap, bl.a. genom utveckling och samordning av den privat-offentliga samverkan. Arbetet ska redovisas i beredskapssektorns gemensamma redovisning som Livsmedelsverket senast den 22 februari 2027 ska lämna till Regeringskansliet (Landsbygds- och infrastrukturdepartementet). Länsstyrelsen i Jämtlands län ska samordna uppdraget.**\n\n**9. Länsstyrelserna ska leda och samordna det statliga arbetet på regional nivå avseende naturvård, biologisk mångfald, friluftsliv, vilt- och rovdjursförvaltning, invasiva främmande arter samt havs- och vattenmiljöer. Länsstyrelserna ska i samband med detta föra en dialog med andra berörda aktörer. Länsstyrelserna ska redovisa vilka resultat som har uppnåtts och hur medel har använts från anslagen 1:3 Åtgärder för värdefull natur, 1:11 Åtgärder för havs- och vattenmiljö och 1:14 Skydd av värdefull natur inom utgiftsområde 20 Klimat, miljö och natur. Även för de medel som disponeras av Länsstyrelsen i Örebro län på dessa anslag ska resultat och användning redovisas. Uppdraget ska senast den 15 februari 2027 redovisas till Regeringskansliet (Klimat- och näringslivsdepartementet), med kopia till Naturvårdsverket respektive Havs- och vattenmyndigheten. Redovisningen ska utformas enligt anvisning från Naturvårdsverket respektive Havs- och vattenmyndigheten.**\n\n**10. Länsstyrelserna ska samordna och leda det statliga arbetet med friluftslivspolitiken på regional nivå. Länsstyrelserna ska vid genomförandet av arbetet samverka med Skogsstyrelsen och kommunerna. Länsstyrelserna ska redovisa vilka åtgärder som har vidtagits för att stärka arbetet med tätortsnära natur, och för att målen för friluftslivspolitiken ska få ett ökat genomslag (skr. 2012/13:51, bet.2012/13:KrU4, rskr. 2012/13:278). Uppdraget ska senast den 15 februari 2027 redovisas till Regeringskansliet (Klimat- och näringslivsdepartementet), med kopia till Naturvårdsverket. Naturvårdsverket ska ges möjlighet att yttra sig inför utformningen av redovisningen.**\n\n**11. Länsstyrelserna ska göra en bedömning av statusen för livsmiljötyper i beslutade Natura 2000-områden i enlighet med Europeiska kommissionens genomförandebeslut (EU) 2023/2806 av den 15 december 2023 om ett formulär för upplysningar om Natura 2000-områden. Länsstyrelserna ska bedöma arealen för olika livsmiljötyper och om status för dessa är i gott, icke gott eller i okänt tillstånd. För livsmiljötyper med okänd status ska länsstyrelsen lägga upp en plan för att kunna bedöma deras status till 2028. Bedömningarna ska ske enligt riktlinjer från Naturvårdsverket och Havs- och vattenmyndigheten. Av redovisningen ska framgå hur många Natura 2000-områden som har bedömts och för hur många områden som en plan lagts upp. Länsstyrelserna ska redovisa uppdraget i sin årsredovisning.**\n\n**12. Länsstyrelserna ska redovisa resultatet av sitt arbete med att skydda dricksvattenförsörjningen vad gäller skyddet av vatten som utnyttjas eller som kan komma att utnyttjas som vattentäkt enligt 7 kap. 21 och 22 §§ miljöbalken, enligt vad som anges i 7 kap. 21 och 22 §§ miljöbalken samt förordningen (1998:1252) om områdesskydd enligt miljöbalken. Uppdraget ska senast den 1 mars 2027 redovisas till Regeringskansliet (Klimat- och näringslivsdepartementet).**\n\n**13. Länsstyrelserna ska stödja utvecklingen av kommunernas kontinuitetsplanering för avloppsrening vid bristsituationer, fredstida kriser, under höjd beredskap och ytterst vid krig. Länsstyrelserna ska utarbeta regionala analyser och kunskapsunderlag för att stödja prioriteringsförmågan nationellt, regionalt och lokalt vid störningar i försörjningen av viktiga varor för avloppsrening, och därmed förebygga negativa konsekvenser för dricksvattenproduktionen. Länsstyrelsen i Västernorrlands län ska samordna uppdraget och länsstyrelsernas redovisningar av detta. Uppdraget ska senast den 1 mars 2027 redovisas till Regeringskansliet (Klimat- och näringslivsdepartementet).**\n\n**14. Länsstyrelserna ska inom sin verksamhet samordna och leda arbetet med restaurering och anläggning av våtmarker i länet, bl.a. inom ramen för förordningen (2003:598) om statliga bidrag till lokala naturvårdsprojekt eller bidrag från Naturvårdsverket. Länsstyrelserna ska även själva anlägga och restaurera våtmarker. Länsstyrelserna ska vidare i samverkan med Skogsstyrelsen och Statens jordbruksverk arbeta med kunskapshöjande åtgärder och informationsspridning om återvätning. I uppdraget ingår att till Naturvårdsverket rapportera den restaurering, anläggning och skötsel av våtmarker som länsstyrelserna själva har genomfört, eller som andra aktörer har utfört med finansiering via länsstyrelserna. Länsstyrelsen i Gotlands län ska samordna länsstyrelsernas redovisning av uppdraget. Uppdraget ska senast den 31 mars 2027 redovisas till Regeringskansliet (Klimat- och näringslivsdepartementet).**\n\n**15. Länsstyrelserna ska arbeta för kortare ledtider vid prövning av våtmarksåtgärder, för att åstadkomma en ökad takt i restaureringen av våtmarker och återvätningen av utdikade organogena marker. Vid utförandet av uppdraget ska det arbete som länsstyrelserna bedriver för att utveckla effektivitet och enhetlighet i prövningsverksamheter beaktas. Länsstyrelsen i Gotlands län ska samordna länsstyrelsernas redovisning av uppdraget. Av redovisningen ska framgå hur länsstyrelserna har använt avsatta medel för att påskynda prövningen av våtmarksåtgärder. Uppdraget ska senast den 28 mars 2027 redovisas till Regeringskansliet (Klimat- och näringslivsdepartementet).**\n\n**16. Länsstyrelserna ska registrera uppgifter om kommunernas och länsstyrelsernas samtliga beslut om upphävande av eller dispens från strandskyddet och samtliga tillsynsbeslut i strandskyddsärenden. Uppgifterna ska sammanställas i statistik som bl.a. visar hur många beslut som har fattats under året, fördelat på kommuner, samt skälen för och ändamålen med varje beslut och om besluten avser nyetableringar. Länsstyrelserna ska även registrera uppgifter om sådana kommunala beslut som en länsstyrelse har beslutat att överpröva enligt 19 kap. 3 b § miljöbalken eller som har överklagats. Uppdraget ska senast den 15 februari 2027 redovisas till Regeringskansliet (Klimat- och näringslivsdepartementet), med kopia till Naturvårdsverket.**\n\n**17. De länsstyrelser som är vattenmyndigheter, och andra berörda länsstyrelser, ska ta fram delåtgärdsprogram för kust- och avrinningsområden. Programmen ska bidra till en effektiv vattenförvaltning och vara ett stöd för en effektiv miljöprövning. Uppdraget ska senast den 31 januari 2028 redovisas till Regeringskansliet (Klimat- och näringslivsdepartementet).**\n\n**18. De länsstyrelser som är vattenmyndigheter ska undersöka behovet av och potentialen för kompensationsåtgärder mot övergödning i enlighet med de förslag som rapporterats i slutredovisningen av uppdraget om kompensationsåtgärder mot övergödning. Myndigheterna ska genomföra en rättslig analys av möjligheterna att genomföra pilotprojekt. Uppdraget ska senast den 31 december 2026 redovisas till Regeringskansliet (Klimat- och näringslivsdepartementet).**\n\n**19. Länsstyrelserna ska redovisa uppgifter om det stöd som varje år lämnas för att förebygga skada av vilt och som ersättning för skada av vilt på annat än renar, fisk och fiskeredskap. Vidare ska länsstyrelserna redovisa sin uppföljning av det årliga stöd som lämnas enligt förordningen (2017:1254) om statligt stöd av mindre betydelse inom jordbrukssektorn för viltskador och förebyggande av viltskador. Uppdraget ska senast den 15 mars 2026 redovisas till Naturvårdsverket, med kopia till Regeringskansliet (Landsbygds- och infrastrukturdepartementet).**\n\n**20. Länsstyrelserna ska redovisa omfattningen av föregående års fisketillsyn avseende havet och de stora sjöarna, respektive övriga sötvattensområden. Fisketillsynens samlade kostnader och effekter, särskilt avseende ålfiske, ska specificeras. Havs- och vattenmyndigheten ska ges möjlighet att lämna synpunkter på utformningen av redovisningen. Uppdraget ska senast den 15 mars 2026 redovisas till Havs- och vattenmyndigheten, med kopia till Regeringskansliet (Landsbygds- och infrastrukturdepartementet).**\n\n**21. Länsstyrelserna ska sprida kunskap till kommuner och regioner om tillämpningen av barnets rättigheter i verksamheter som rör barn, såsom socialtjänst, skola, hälso- och sjukvård, inklusive psykiatri samt familjerätt- och föräldraskapsstöd, samt möjliggöra erfarenhetsutbyten mellan olika aktörer. Viktiga utgångspunkter för uppdraget är principen om barnets bästa och barnets rätt att uttrycka sina åsikter och få dem beaktade i beslutsprocesser. Uppdraget ska utföras i samverkan med Barnombudsmannen och i dialog med SKR. Länsstyrelsen i Dalarnas län ska samordna uppdraget och länsstyrelsernas redovisningar av uppdraget. Uppdraget ska senast den 1 mars 2027 redovisas till Regeringskansliet (Socialdepartementet).**\n\n**22. Länsstyrelserna i Stockholms län, Södermanlands län, Uppsala län, Västmanlands län och Örebro län ska ta fram en gemensam, adaptiv och effektiv skarvförvaltningsplan för Mälaren och Hjälmaren som kan komplettera och skapa synergier med det pågående arbetet med en gemensam fiskeriförvaltning för långsiktigt hållbara fiskbestånd i sjöarna. Länsstyrelserna ska vid utförandet av sitt uppdrag beakta de slutsatser som redovisats med anledning av tidigare uppdrag om effektiva åtgärder som förebygger skada och som ger stöd åt en mer ekosystembaserad förvaltning med fokus på återhämtning av förekomsten av rovfisk i inlandsvattenekosystem (LI2025/01880). Uppdraget ska samordnas av Länsstyrelsen i Västmanlands län och senast den 30 maj 2027 redovisas till Regeringskansliet (Landsbygds- och infrastrukturdepartementet).**\n\n**23. Länsstyrelserna ska beskriva resultatet av de ärenden om tillsyn och restaurering av dammar som har avslutats under den senaste femårsperioden och redovisa antalet pågående ärenden. Länsstyrelserna ska vidare beskriva vilka överväganden som görs vid avvägningen mellan behovet av miljöanpassning och behovet av att behålla en damm med hänsyn till exempelvis värdefulla kulturmiljöer, biologisk mångfald, rekreationsvärden, boendemiljöer, hydrologi, dammars nytta ur ett beredskapsperspektiv eller utifrån andra samhällsnyttor. Länsstyrelsen i Skåne län ska samordna uppdraget och länsstyrelsernas redovisningar av uppdraget. Uppdraget ska senast den 30 juni 2026 redovisas till Regeringskansliet (Klimat- och näringslivsdepartementet).**",
+   "dates": [
+    "2023-12-15",
+    "2026-03-15",
+    "2026-04-15",
+    "2026-05-15",
+    "2026-06-30",
+    "2026-10-15",
+    "2026-12-31",
+    "2027-02-15",
+    "2027-02-21",
+    "2027-02-22",
+    "2027-03-01",
+    "2027-03-28",
+    "2027-03-31",
+    "2027-05-30",
+    "2028-01-31"
+   ],
+   "deadlines": [
+    "2026-03-15",
+    "2026-04-15",
+    "2026-05-15",
+    "2026-06-30",
+    "2026-10-15",
+    "2026-12-31",
+    "2027-02-15",
+    "2027-02-21",
+    "2027-02-22",
+    "2027-03-01",
+    "2027-03-28",
+    "2027-03-31",
+    "2027-05-30",
+    "2028-01-31"
+   ],
+   "recipients": [
+    "Havs- och vattenmyndigheten",
+    "Naturvårdsverket",
+    "Regeringskansliet (Finansdepartementet)",
+    "Regeringskansliet (Klimat- och näringslivsdepartementet)",
+    "Regeringskansliet (Landsbygds- och infrastrukturdepartementet)",
+    "Regeringskansliet (Socialdepartementet)"
+   ],
+   "partners": [
+    "Barnombudsmannen",
+    "Energimarknadsinspektionen",
+    "Havs- och vattenmyndigheten",
+    "Lantmäteriet",
+    "Livsmedelsverket",
+    "Länsstyrelserna",
+    "Naturvårdsverket",
+    "Skogsstyrelsen",
+    "Statens energimyndighet",
+    "Statens jordbruksverk",
+    "Statens kulturråd",
+    "Sveriges Kommuner och Regioner"
+   ],
+   "channels": [
+    "årsredovisning",
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna",
+    "fördela_medel",
+    "utveckla",
+    "tillsyn_kontroll",
+    "informera",
+    "statistik_data",
+    "beredskap_säkerhet",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [
+    "1:3"
+   ],
+   "expenditure_area_refs": [
+    20
+   ],
+   "sfs_refs": [
+    "1998:1252",
+    "2003:598",
+    "2017:1254",
+    "2022:107"
+   ],
+   "sub_questions": [
+    "fortsätta framtagandet av regionala handlingsplaner för elektrifiering som ska vara klara senast den 15 maj 2026",
+    "verka för ett ökat genomslag av de nationella energimålen, i synnerhet planeringsmålet och leveranssäkerhetsmålet för energi inom sina relevanta verksamhetsområden, t.ex. i plan- och tillståndsprocesser och beredskapsarbetet",
+    "främja samverkan och erbjuda stöd till nationella myndigheter, regionala aktörer och kommuner, samt främja samverkan mellan andra lokala och regionala aktörer i arbetet med regional energiplanering, inklusive nätanslutningar för laddinfrastruktur med höga effektkrav och värme- och kylplaner, så att arbetet i större utsträckning kan integreras i övrig samhällsplanering",
+    "administrera Klimatklivet och främja tillkomsten av viktiga klimatinvesteringar som kan finansieras genom denna satsning",
+    "vidta åtgärder för att främja utbyggnaden av hemmaladdning för elfordon för hushåll i flerfamiljshus."
+   ],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27519:assignments:0"
+  },
+  {
+   "title": "För överklagade kommunala beslut om lov (bygglov, marklov, rivningslov och förhandsbesked) ska följande inriktningsmål gälla",
+   "group": [
+    "B. Samordnande och sektorsövergripande"
+   ],
+   "text": "– 80 procent av ärendena ska vara avgjorda inom 105 dagar och 90 procent inom 150 dagar.\n\n– Handläggningen av överklagade bygglov för bostäder ska särskilt prioriteras, dock inte bygglov för fritidshus. Av de ärenden som avser bostäder ska 80 procent vara avgjorda inom 75 dagar och 90 procent inom 120 dagar.\n\nUppdraget ska senast den 28 februari 2027 redovisas till Boverket, med kopia till Regeringskansliet (Landsbygds- och infrastrukturdepartementet).\n\n**2. Länsstyrelsen i Norrbottens län ska stödja statens pågående försoningsprocess med tornedalingar, kväner och lantalaiset i länet. Länsstyrelsen ska också verka för ökad kunskap om den historiska behandlingen av tornedalingar, kväner och lantalaiset i länet. Uppdraget ska genomföras i dialog med minoriteten och senast den 1 mars 2027 redovisas till Regeringskansliet (Kulturdepartementet).**\n\n**3. Länsstyrelserna ska redovisa hur de utifrån sitt geografiska områdesansvar genom samverkan har verkat för att stärka försörjningsberedskapen, t.ex. genom att skapa eller utveckla befintliga forum för samverkan mellan privata och offentliga aktörer. Uppdraget ska redovisas i den särskilda redovisningen för civilt försvar (Fö2024/02054). I sin redovisning ska länsstyrelserna beskriva hur arbetet har bedrivits och hur samverkan har utvecklats.**\n\n**4. Länsstyrelserna i Jämtlands, Dalarnas, Västerbottens och Norrbottens län ska tillsammans med Naturvårdsverket arbeta för att utveckla vandringslederna i fjällen. Arbetet ska bl.a. innebära en ökad ambition kring skötsel, besöksförvaltning och säkerhethetsanordningar i syfte att skapa god tillgänglighet och ett aktivt friluftsliv, även för de mindre vana besökarna, och därigenom på ett kostnadseffektivt sätt bidra till regional tillväxt och uppnåendet av de folkhälsopolitiska målen. Länsstyrelserna ska vid utförandet av uppdraget inhämta synpunkter från friluftsorganisationerna. Naturvårdsverket ska redovisa uppdraget årligen, med slutredovisning senast den 28 februari 2028. Länsstyrelserna ska bistå Naturvårdsverket vid framtagandet av redovisningarna.**\n\n**5. Länsstyrelserna ska bistå Statens jordbruksverk i arbetet med att lämna förslag till utvecklingen av den gemensamma jordbrukspolitiken för planperioden 2023–2027 och vid förberedelserna inför nästa budgetperiod.**\n\n**6. Länsstyrelserna ska bidra till Statens jordbruksverks redovisningar av genomförandet av Sveriges strategiska plan för den gemensamma jordbrukspolitiken samt Havsfiskeri- och vattenbruksprogrammet.**\n\n**7. Länsstyrelserna ska stödja kommuner och regioner i arbetet med mänskliga rättigheter. Stödet ska bl.a. innefatta att sprida kunskap och metoder inom området samt främja erfarenhetsutbyte. Stödet ska också omfatta arbetet mot olika former av rasism, däribland antisemitism. Uppdraget ska genomföras i dialog med SKR och Forum för levande historia. Länsstyrelsen i Dalarnas län ska samordna uppdraget och senast den 1 mars 2027 lämna en samlad redovisning till Regeringskansliet (Arbetsmarknadsdepartementet), med kopia till Forum för levande historia.**\n\n**8. Länsstyrelserna ska fortsätta arbetet med de beslutade länsstrategierna för 2024–2027 i syfte att bidra till uppfyllandet av de jämställdhetspolitiska målen. Myndigheterna ska årligen i årsredovisningen redovisa resultatet av arbetet med strategierna. Redovisningen ska bl.a. fokusera på hur strategierna bidrar till att uppfylla de jämställdhetspolitiska målen, inklusive fokusområdena ekonomisk jämställdhet, utrikes födda kvinnors etablering på arbetsmarknaden och civil beredskap på länsnivå. Länsstyrelserna ska också stödja statliga myndigheters arbete med jämställdhetsintegrering på regional och lokal nivå. Uppdraget ska senast den 1 mars 2028 slutredovisas till Regeringskansliet (Arbetsmarknadsdepartementet), med kopia till Jämställdhetsmyndigheten.**\n\n**9. Länsstyrelserna ska tillsammans med Jämställdhetsmyndigheten inventera behovet av utbildning om människohandel för personal i berörda yrkesgrupper. Inventeringen ska omfatta kunskap dels om den information som utsatta och riskgrupper behöver, dels om vilka åtgärder som bör vidtas i mötet med utsatta och riskgrupper, med hänsyn till deras olika behov och förutsättningar. Länsstyrelserna ska ansvara för inventeringen på lokal och regional nivå. Jämställdhetsmyndigheten ska samordna genomförandet av uppdraget och redovisningen. Uppdraget ska senast den 30 oktober 2026 redovisas till Regeringskansliet (Arbetsmarknadsdepartementet).**\n\n**10. Länsstyrelserna i Norrbottens, Stockholms, Västra Götalands, Skåne, Västmanlands, Södermanlands, Hallands och Västernorrlands län ska undersöka förutsättningarna för kommuner att ingå frivilliga överenskommelser om mottagande av elever från andra kommuner. Överenskommelserna ska innebära att en grundskola i en kommun tar emot elever som är bosatta på Migrationsverkets mottagnings- eller återvändandecenter i en annan närliggande kommun. Länsstyrelserna ska analysera möjligheterna att genomföra pilotprojekt avseende sådana överenskommelser. Länsstyrelsen i Stockholms län ska samordna uppdraget och länsstyrelsernas redovisningar av uppdraget. Uppdraget ska senast den 5 mars 2027 redovisas till Regeringskansliet (Justitiedepartementet).**\n\n**11. Länsstyrelserna ska genom sina ordinarie samverkansstrukturer med kommunerna möjliggöra för Migrationsverket och den nationella samordnaren för frivillig återvandring (Ju 2025:14) att sprida information om frivillig återvandring. Länsstyrelsen i Västernorrlands län ska samordna arbetet med och redovisningen av uppdraget. Uppdraget ska senast den 26 februari 2027 lredovisas till Regeringskansliet (Justitiedepartementet).**\n\n**12. Länsstyrelserna ska delta vid genomförandet av Migrationsverkets uppdrag om anvisning av ensamkommande barn och personer med tillfälligt skydd till kommuner. Länsstyrelserna ska också föra en dialog med kommunerna och möjliggöra omfördelning av anvisningsandelar för ensamkommande barn och av fördelningstalen per kommun för personer med tillfälligt skydd, innan dessa fastställs av Migrationsverket. Länsstyrelserna ska i samverkan med Migrationsverket och SKR, och i samråd med Socialstyrelsen, inom ramen för det befintliga systemet se över möjligheten till omfördelning av anvisningsandelar för ensamkommande barn även mellan län. Länsstyrelserna ska senast den 30 april 2026 lämna en skriftlig redovisning av uppdraget till Regeringskansliet (Justitiedepartementet).**\n\n**13. Länsstyrelser i län med sådana utsatta områden, särskilt utsatta områden och riskområden som identifierats av Polismyndigheten ska 2023–2026 erbjuda stöd till kommuner, regioner och andra relevanta aktörer med att utveckla ett kunskapsbaserat, samordnat och långsiktigt stöd i föräldraskapet till föräldrar med barn upp till 18 år. Stödet ska bidra till att bekämpa och förebygga våld och att barn och unga utnyttjas i kriminalitet. Länsstyrelserna ska föra dialog med samt inhämta kunskap från Myndigheten för familjerätt och föräldraskapsstöd och Linköpings universitet (Barnafrid — Nationellt centrum för kunskap om våld mot barn). Länsstyrelserna ska senast den 1 mars 2026 lämna en samlad delredovisning av uppdraget till Regeringskansliet (Socialdepartementet). Till redovisningen ska rapporter från varje berörd länsstyrelse bifogas. Uppdraget ska senast den 1 mars 2027 slutredovisas till Regeringskansliet.**\n\n**14. Länsstyrelsen i Västernorrlands län ska samordna länsstyrelsernas redovisning av arbetet med mottagande av ensamkommande barn och vissa nyanlända invandrare enligt förordningen (2016:1363) om länsstyrelsernas uppdrag avseende insatser för asylsökande och vissa nyanlända invandrare. Länsstyrelsen ska även redovisa hur medel för att skapa beredskap och mottagningskapacitet samt för att utveckla samverkan enligt 37 § förordningen (2010:1122) om statlig ersättning för insatser för vissa utlänningar har använts. En bedömning ska göras av resultaten av länsstyrelsernas insatser. Uppdraget ska senast den 5 mars 2027 redovisas till Regeringskansliet (Arbetsmarknadsdepartementet).**\n\n**15. Länsstyrelsen i Västernorrlands län ska samordna länsstyrelsernas redovisning av arbetet med insatser för asylsökande m.fl. enligt förordningen om länsstyrelsernas uppdrag avseende insatser för asylsökande och vissa nyanlända invandrare och förordningen (2016:1364) om statsbidrag till verksamheter för asylsökande m.fl. Av redovisningen ska framgå hur arbetet har påverkats av regleringen i lagen (1994:137) om mottagande av asylsökande m.fl. om att asylsökande som huvudregel ska bo på mottagningscenter. Länsstyrelsen ska även redovisa hur det nya demokrativillkoret har tillämpats. Uppdraget ska senast den 5 mars 2027 redovisas till Regeringskansliet (Arbetsmarknadsdepartementet).**\n\n**16. Länsstyrelsen i Västernorrlands län ska samordna länsstyrelsernas redovisning av insatser som beviljats enligt 37 a § förordningen om statlig ersättning för insatser för vissa utlänningar och göra en bedömning av resultaten. Länsstyrelserna ska särskilt redovisa i vilken utsträckning insatserna har avsett verksamheter för personer som är hemma med små barn, t.ex. språkträning i svenska, läsfrämjande insatser eller studie- och yrkesvägledning. Uppdraget ska senast den 5 mars 2027 redovisas till Regeringskansliet (Arbetsmarknadsdepartementet).**\n\n**17. Länsstyrelserna ska verka för att de integrationspolitiska målen, inklusive delmålen, får genomslag i länen genom att främja samverkan om insatser för integration av utrikes födda mellan kommuner, myndigheter, företag och organisationer. Länsstyrelserna ska även föreslå åtgärder, inom ramen för deras ansvarsområde, som bidrar till att målen kan uppnås. Länsstyrelsen i Västernorrlands län ska samordna arbetet och redovisningen. Uppdraget ska senast den 5 mars 2027 redovisas till Regeringskansliet (Arbetsmarknadsdepartementet).**\n\n**18. Länsstyrelserna ska analysera och redovisa i vilka avseenden deras verksamhet, enligt nuvarande uppgifter och förutsättningar, kan påverka utvecklingen i områden där utanförskapet är stort. Länsstyrelserna får även lämna förslag på hur deras verksamhet kan utvecklas. Uppdraget ska genomföras i dialog med Boverket och samordnas med arbetet inom andra relevanta områden, t.ex. integration, brottsförebyggande arbete och bostadsförsörjning. Länsstyrelsen i Västernorrlands län ska samordna arbetet och redovisningen. Uppdraget ska senast den 5 mars 2027 redovisas till Regeringskansliet (Arbetsmarknadsdepartementet).**\n\n**19. Länsstyrelserna ska i samverkan med respektive läns kommuner genomföra insatser, såsom t.ex. prisceremonier eller annan form av aktivitet, för att uppmärksamma och sprida information om unga eller ungdomsorganisationer som inom länet har gjort förtjänstfulla insatser genom ideellt engagemang. Länsstyrelsen i Skåne län ska samordna uppdraget och senast den 1 mars 2027 lämna en samlad redovisning till Regeringskansliet (Socialdepartementet).**",
+   "dates": [
+    "2026-03-01",
+    "2026-04-30",
+    "2026-10-30",
+    "2027-02-26",
+    "2027-02-28",
+    "2027-03-01",
+    "2027-03-05",
+    "2028-02-28",
+    "2028-03-01"
+   ],
+   "deadlines": [
+    "2026-03-01",
+    "2026-04-30",
+    "2026-10-30",
+    "2027-02-26",
+    "2027-02-28",
+    "2027-03-01",
+    "2027-03-05",
+    "2028-02-28",
+    "2028-03-01"
+   ],
+   "recipients": [
+    "Boverket",
+    "Forum för levande historia",
+    "Jämställdhetsmyndigheten",
+    "Regeringskansliet",
+    "Regeringskansliet (Arbetsmarknadsdepartementet)",
+    "Regeringskansliet (Justitiedepartementet)",
+    "Regeringskansliet (Kulturdepartementet)",
+    "Regeringskansliet (Landsbygds- och infrastrukturdepartementet)",
+    "Regeringskansliet (Socialdepartementet)",
+    "Statens jordbruksverk"
+   ],
+   "partners": [
+    "Boverket",
+    "Forum för levande historia",
+    "Jämställdhetsmyndigheten",
+    "Linköpings universitet",
+    "Länsstyrelserna",
+    "Migrationsverket",
+    "Myndigheten för familjerätt och föräldraskapsstöd",
+    "Naturvårdsverket",
+    "Polismyndigheten",
+    "Socialstyrelsen",
+    "Statens jordbruksverk",
+    "Sveriges Kommuner och Regioner"
+   ],
+   "channels": [
+    "årsredovisning",
+    "delredovisning",
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "föreslå",
+    "samordna",
+    "fördela_medel",
+    "utveckla",
+    "informera",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "1994:137",
+    "2010:1122",
+    "2016:1363",
+    "2016:1364"
+   ],
+   "sub_questions": [
+    "80 procent av ärendena ska vara avgjorda inom 105 dagar och 90 procent inom 150 dagar.",
+    "Handläggningen av överklagade bygglov för bostäder ska särskilt prioriteras, dock inte bygglov för fritidshus. Av de ärenden som avser bostäder ska 80 procent vara avgjorda inom 75 dagar och 90 procent inom 120 dagar."
+   ],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27519:assignments:1"
+  },
+  {
+   "title": "C. Främjande av länets utveckling",
+   "group": [],
+   "text": "**1. Länsstyrelserna ska förvalta myndigheternas innehåll på den myndighetsgemensamma webbplatsen verksamt.se. Länsstyrelserna ska även följa upp arbetet med att uppnå de förenklingspolitiska målen, i linje med vad som framgår av tidigare givna uppdrag om att följa upp mål om handläggningstider samt om bemötande och service hos vissa myndigheter (N2020/01493 och N2022/01751). Uppdraget ska senast den 16 februari 2027 redovisas till Regeringskansliet (Klimat- och näringslivsdepartementet), med kopia till Tillväxtverket. Länsstyrelsen i Kronobergs län ska samordna uppdraget och länsstyrelsernas redovisningar av uppdraget.**\n\n**2. Länsstyrelserna i Norrbottens och Västerbottens län ska genomföra insatser som bidrar till att hantera de målkonflikter som uppstår vid handläggning av ärenden med anledning av den pågående nyindustrialiseringen och samhällsomvandlingen i länen. I detta arbete ingår att utveckla nya arbetssätt och vidareutveckla befintliga samarbeten. Vid genomförandet av uppdraget ska länsstyrelserna utbyta erfarenheter med Tillväxtverket. Länsstyrelsernas kompetens avseende jämställdhet ska tas tillvara i arbetet. Uppdraget ska senast den 10 april 2026 delredovisas och senast den 10 februari 2027 slutredovisas till Regeringskansliet (Klimat- och näringslivsdepartementet).**\n\n**3. Länsstyrelserna ska redogöra för antalet kommuner som har antagit en handlingsplan för bostadsförsörjningen sedan lagen (2000:1383) om kommunernas bostadsförsörjningsansvar ändrades den 1 mars 2025. Berörda länsstyrelser ska även analysera om kommunala bostadsförmedlingar i de egna länen har förmedlat fler bostäder genom att göra avsteg från principen om turordning efter kötid (förturer) eller genom att reservera lägenheter för olika kategorier av sökanden, utan att göra avsteg från denna princip (reservationer), sedan den nya regleringen trädde i kraft. Den första delen av uppdraget ska redovisas i 2027 års bostadsmarknadsanalys enligt 2 § förordningen (2011:1160) om regionala bostadsmarknadsanalyser och kommunernas bostadsförsörjningsansvar. Den andra delen av uppdraget ska redovisas i 2026 års bostadsmarknadsanalys.**\n\n**4. Länsstyrelserna i Västra Götalands, Västernorrlands och Kalmar län ska i samverkan med Konstnärsnämnden skapa mötesplatser mellan näringsliv och kultursektor med det långsiktiga syftet att bredda finansieringen av kulturlivet.**\n\n**5. Länsstyrelserna i Jämtlands, Norrbottens och Västerbottens län ska, i egenskap av förvaltande myndigheter för de territoriella programmen Aurora, Norra periferin och Arktis samt Sverige–Norge 2021–2027, redovisa beslutade och utbetalade EU-medel totalt och fördelade på politiska mål. Myndigheterna ska därutöver redovisa förväntade och uppnådda resultat enligt programmens output- och resultatindikatorer. Uppdraget ska senast den 26 mars 2026 redovisas till Tillväxtverket, med kopia till Regeringskansliet (Landsbygds- och infrastrukturdepartementet).**\n\n**6. Länsstyrelserna i Jämtlands och Norrbottens län ska, i egenskap av förvaltande myndigheter för de territoriella programmen Aurora och Sverige–Norge 2021–2027, redovisa den svenska beslutade och utbetalda medfinansieringen för beslutade och utbetalda EU-medel. Medfinansieringen ska redovisas fördelad på staten (inklusive medel från anslaget 1:1 Regionala utvecklingsåtgärder inom utgiftsområde 19 Regional utveckling), regioner, kommuner och den privata sektorn. Uppdraget ska senast den 26 mars 2026 redovisas till Tillväxtverket, med kopia till Regeringskansliet (Landsbygds- och infrastrukturdepartementet).**\n\n**7. Länsstyrelserna ska fortsatt, fram t.o.m. 2028, genomföra kunskapshöjande insatser och främja erfarenhetsutbyten för yrkesverksamma som möter barn i skyddat boende eller arbetar för att personer som utsätter eller har utsatt närstående för våld eller andra övergrepp ska ändra sitt beteende. Länsstyrelsen i Östergötlands län ska samordna uppdraget, samt senast den 30 april 2026 lämna en muntlig delredovisning och senast den 30 april 2028 en samlad slutredovisning till Regeringskansliet (Arbetsmarknadsdepartementet).**\n\n**8. Länsstyrelserna ska erbjuda stöd för civilsamhällets utvecklingsarbete och samverkan avseende mäns våld mot kvinnor, våld i nära relationer, hedersrelaterat våld och förtryck samt prostitution och människohandel för sexuella ändamål. Uppdraget omfattar att stödja kommunernas regionkoordinatorer mot prostitution och människohandel. Uppdraget ska redovisas i samband med redovisningen enligt 5 § förordningen (2021:995) om länsstyrelsernas regionala arbete mot mäns våld mot kvinnor.**\n\n**9. Länsstyrelserna ska delta i en nationell informationssatsning 2026–2028 om hedersrelaterat våld och förtryck riktad till yrkesverksamma och allmänheten. Länsstyrelserna ska även bidra i arbetet med att inventera, uppdatera och genomföra utbildningar till yrkesverksamma för att motverka hedersrelaterat våld, inklusive bortföranden i hederskontexter. Länsstyrelserna ska, med utgångspunkt i sin kännedom om olika regionala behov av utbildning och kompetenshöjande insatser, bistå i arbetet genom att sprida och implementera kunskap på regional nivå. De länsstyrelser som har inrättat regionala resurscentrum mot hedersrelaterat våld och förtryck i sina län ska involvera dessa i arbetet. Jämställdhetsmyndigheten, som samordnar arbetet, ska senast den 18 augusti 2026 och 30 mars 2027 lämna en muntlig delredovisning och senast den 16 februari 2029 en samlad slutredovisning av uppdraget till Regeringskansliet (Arbetsmarknadsdepartementet). Länsstyrelserna ska bistå Jämställdhetsmyndigheten vid redovisningen.**",
+   "dates": [
+    "2025-03-01",
+    "2026-03-26",
+    "2026-04-10",
+    "2026-04-30",
+    "2026-08-18",
+    "2027-02-10",
+    "2027-02-16",
+    "2027-03-30",
+    "2028-04-30",
+    "2029-02-16"
+   ],
+   "deadlines": [
+    "2026-03-26",
+    "2026-04-10",
+    "2026-04-30",
+    "2026-08-18",
+    "2027-02-10",
+    "2027-02-16",
+    "2028-04-30",
+    "2029-02-16"
+   ],
+   "recipients": [
+    "Regeringskansliet (Arbetsmarknadsdepartementet)",
+    "Regeringskansliet (Klimat- och näringslivsdepartementet)",
+    "Regeringskansliet (Landsbygds- och infrastrukturdepartementet)",
+    "Tillväxtverket"
+   ],
+   "partners": [
+    "Jämställdhetsmyndigheten",
+    "Konstnärsnämnden",
+    "Länsstyrelserna",
+    "Tillväxtverket"
+   ],
+   "channels": [
+    "muntlig",
+    "delredovisning",
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna",
+    "fördela_medel",
+    "utveckla",
+    "informera",
+    "statistik_data",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [
+    "1:1"
+   ],
+   "expenditure_area_refs": [
+    19
+   ],
+   "sfs_refs": [
+    "2000:1383",
+    "2011:1160",
+    "2021:995"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27519:assignments:2"
+  },
+  {
+   "title": "D. Tillsyn",
+   "group": [],
+   "text": "**1. Länsstyrelserna ska vid sin uppföljning av kommunernas tillämpning av plan- och bygglagen (2010:900) enligt 8 kap. 18 § plan- och byggförordningen (2011:338) redovisa i vilken omfattning kommunerna har medgett att planintressenter får inhämta yttrande från länsstyrelsen vid begäran om planbesked enligt 5 kap. 5a och 5b §§ samma lag. Länsstyrelserna ska även redovisa vilken typ av planeringsunderlag som efterfrågas, samt hur detta har påverkat planprocessens effektivitet och förutsebarhet. Uppföljningen ska inkludera exempel från kommuner och länsstyrelser.**\n\n**2. Länsstyrelserna ska vid uppföljningen av byggnadsnämndernas tillsynsarbete enligt 8 kap. 14 § plan- och byggförordningen redovisa vilka tillsynsvägledande insatser som har genomförts under 2026. Uppföljningen ska bl.a. omfatta goda exempel och en bedömning av hur insatserna har bidragit till en effektiv, rättssäker och enhetlig tillämpning av plan- och bygglagen. Formerna för återrapportering ska utformas i dialog med Boverket.**\n\n**3. Länsstyrelserna ska planera och vidta förberedande åtgärder för att möjliggöra för myndigheterna att den 1 januari 2027 överta ansvaret för kontroller av skyddsrum. Inom ramen för arbetet ska länsstyrelserna samverka med Myndigheten för civilt försvar (MCF). Uppdraget ska senast den 4 december 2026 redovisas till Regeringskansliet (Försvarsdepartementet). Redovisningen ska innehålla en redogörelse av hur varje länsstyrelse planerar att uppfylla sitt ansvar att kontrollera skyddsrum. Länsstyrelsen i Stockholms län ska samordna uppdraget.**\n\n**4. Länsstyrelserna ska effektivisera myndigheternas tillsyn och tillsynsvägledningen enligt miljöbalken och utveckla dialogen med verksamhetsutövarna. Insatserna ska leda till en effektiv och ändamålsenlig tillsyn, inklusive en effektiv hantering av verksamhetsutövarnas anmälningar om ändringar av miljöfarlig verksamhet. Insatserna ska också leda till en ändamålsenlig tillsynsvägledning, samt bidra till genomförandet av den nationella miljötillsynsstrategin och ett ökat samarbete mellan länsstyrelserna. Insatserna bör utgå ifrån det arbete som påbörjats genom tidigare regleringsbrevsuppdrag om effektivitet och enhetlighet i tillsynsverksamheten. Uppgifter om länsstyrelsernas tillsyn och tillsynsvägledning enligt miljöbalken ska senast den 15 februari varje år redovisas till Naturvårdsverket.**\n\nLänsstyrelsen i Västernorrlands län ska samordna uppdraget och senast den 15 februari 2027 lämna en samlad redovisning till Regeringskansliet (Klimat- och näringslivsdepartementet).\n\n**5. Länsstyrelserna ska redovisa antalet utredningar per detaljplan för detaljplaneprocesser som under 2026 har befunnit sig i samråds-, gransknings- eller antagandeskedet. I redovisningen ska länsstyrelserna kategorisera detaljplaneutredningarna utifrån kommun och enligt följande ämnesområden:**\n\n- antikvariska frågor och kulturmiljö\n- arkeologi och fornlämningar\n- barn- och socialkonsekvensanalys\n- dagsljus, skugga och luft\n- dagvatten, skyfall och hav\n- geoteknik och markförhållanden\n- miljö och natur\n- trafik, mobilitet och buller\n- riskbedömningar\n- övrigt.\n\nLänsstyrelserna ska vidare redovisa vilka åtgärder som myndigheterna har vidtagit för att tydliggöra för kommunerna i vilka fall de, inom ramen för sin tillsyn enligt 11 kap. 10 och 11 §§ plan- och bygglagen (2010:900), bedömer att kommunen behöver ta fram ytterligare utredningar i detaljplaneprocessen och i vilka fall de bedömer att en detaljplan är godtagbar utifrån de intressen som kan leda till överprövning. Länsstyrelserna ska vidare redovisa vilket stöd som erbjudits kommunerna inför och under detaljplaneprocessen i syfte att korta ledtiderna. Uppdraget ska senast den 31 januari 2027 redovisas till Boverket, med kopia till Regeringskansliet (Landsbygds- och infrastrukturdepartementet).",
+   "dates": [
+    "2026-12-04",
+    "2027-01-01",
+    "2027-01-31",
+    "2027-02-15"
+   ],
+   "deadlines": [
+    "2026-12-04",
+    "2027-01-31",
+    "2027-02-15"
+   ],
+   "recipients": [
+    "Boverket",
+    "Naturvårdsverket",
+    "Regeringskansliet (Försvarsdepartementet)",
+    "Regeringskansliet (Klimat- och näringslivsdepartementet)",
+    "Regeringskansliet (Landsbygds- och infrastrukturdepartementet)"
+   ],
+   "partners": [
+    "Boverket",
+    "Länsstyrelserna",
+    "Myndigheten för civilt försvar",
+    "Naturvårdsverket"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna",
+    "utveckla",
+    "tillsyn_kontroll",
+    "informera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2010:900",
+    "2011:338"
+   ],
+   "sub_questions": [
+    "antikvariska frågor och kulturmiljö",
+    "arkeologi och fornlämningar",
+    "barn- och socialkonsekvensanalys",
+    "dagsljus, skugga och luft",
+    "dagvatten, skyfall och hav",
+    "geoteknik och markförhållanden",
+    "trafik, mobilitet och buller"
+   ],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27519:assignments:3"
+  },
+  {
+   "title": "E. Övriga uppdrag",
+   "group": [],
+   "text": "**1. Länsstyrelserna i Hallands, Kalmars och Uppsala län ska upphandla öppenvårdsapotek för distribution av jodtabletter. Upphandlingen ska säkerställa att jodtabletter kan delas ut i berörda län i enlighet med förordningen (2003:789) om skydd mot olyckor. Uppdraget ska senast den 1 december 2027 slutredovisas till Regeringskansliet (Klimat- och näringslivsdepartementet).**\n\n**2. Länsstyrelserna ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Prognoserna lämnas i informationssystemet Hermes senast den**\n\n– 2 februari\\\n– 22 april\\\n– 24 juli\\\n– 9 november.\n\n**3. Länsstyrelserna ska redogöra för hur myndigheterna säkerställer en driftsäker och effektiv lönehantering som svarar mot relevanta informationssäkerhetskrav. Redovisningen ska även innehålla en analys och bedömning av möjligheterna att nyttja statliga förvaltningsgemensamma lösningar för att uppnå en driftsäker och effektiv lönehantering så att fördelar kan dras för både enskilda myndigheter och staten som helhet. Länsstyrelserna ska löpande hålla Regeringskansliet (Finansdepartementet) informerat om uppdragets genomförande. Uppdraget ska samordnas av Länsstyrelsen i Uppsala län och senast den 1 maj 2026 redovisas till Regeringskansliet.**\n\n4. Länsstyrelserna ska redovisa en plan med förslag på hur länsstyrelserna kan utveckla arbetet med att motverka felaktiga utbetalningar av stöd och bidrag till företag och civilsamhälle. Planen ska innehålla identifierade utvecklingsbehov samt mål och aktiviteter som länsstyrelserna kan vidta 2027\\*\\*–\\*\\*2029. Vidare ska planen beskriva på vilket sätt arbetet kan integreras och bli en del av länsstyrelserna ordinarie verksamhet. Uppdraget ska senast den 30 oktober 2026 redovisas till Regeringskansliet (Finansdepartementet).\n\n**5. Länsstyrelserna ska redogöra för hur myndigheterna säkerställer en driftsäker och effektiv lönehantering som svarar mot relevanta informationssäkerhetskrav. Redovisningen ska innehålla en analys och bedömning av möjligheterna att nyttja statliga förvaltningsgemensamma lösningar för att uppnå en driftsäker och effektiv lönehantering, så att fördelar kan dras för både enskilda myndigheter och staten som helhet. Redovisningen ska även innehålla en redogörelse för för- och nackdelar med tillgängliga lönehanteringssystem. Uppdraget ska samordnas av Länsstyrelsen i Uppsala län och senast den 8 februari 2027 redovisas till Regeringskansliet (Finansdepartementet). Länsstyrelsen ska löpande hålla Regeringskansliet informerat om uppdragets genomförande.**",
+   "dates": [
+    "2026-05-01",
+    "2026-10-30",
+    "2027-02-08",
+    "2027-12-01"
+   ],
+   "deadlines": [
+    "2026-05-01",
+    "2026-10-30",
+    "2027-02-08",
+    "2027-12-01"
+   ],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [
+    "Regeringskansliet",
+    "Regeringskansliet (Finansdepartementet)",
+    "Regeringskansliet (Klimat- och näringslivsdepartementet)"
+   ],
+   "partners": [
+    "Länsstyrelserna"
+   ],
+   "channels": [
+    "hermes",
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos",
+    "analysera",
+    "samordna",
+    "fördela_medel",
+    "utveckla",
+    "informera",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2003:789"
+   ],
+   "sub_questions": [
+    "Länsstyrelserna ska redovisa en plan med förslag på hur länsstyrelserna kan utveckla arbetet med att motverka felaktiga utbetalningar av stöd och bidrag till företag och civilsamhälle. Planen ska innehålla identifierade utvecklingsbehov samt mål och aktiviteter som länsstyrelserna kan vidta 2027\\*\\*–\\*\\*2029. Vidare ska planen beskriva på vilket sätt arbetet kan integreras och bli en del av länsstyrelserna ordinarie verksamhet. Uppdraget ska senast den 30 oktober 2026 redovisas till Regeringskansliet (Finansdepartementet)."
+   ],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27519:assignments:4"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "5:1",
+   "name": "Länsstyrelserna m.m.",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 1,
+    "name": "Rikets styrelse"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Länsstyrelsen i Örebro län",
+     "amount_tkr": 243656,
+     "items": [
+      {
+       "ap": "14",
+       "name": "Örebro län (ram)",
+       "amount_tkr": 191389
+      },
+      {
+       "ap": "22",
+       "name": "Beredning av vindkraft till havs (ram)",
+       "amount_tkr": 15000
+      },
+      {
+       "ap": "23",
+       "name": "Livsmedelsberedskap (ram)",
+       "amount_tkr": 5095
+      },
+      {
+       "ap": "24",
+       "name": "Omhändertagande av djur (ram)",
+       "amount_tkr": 10235
+      },
+      {
+       "ap": "26",
+       "name": "Utvecklingsinsatser m.m. (ram)",
+       "amount_tkr": 0
+      },
+      {
+       "ap": "27",
+       "name": "Länsstyrelserna m.m. - Ofördelad anslagsdel (ram)",
+       "amount_tkr": 0
+      },
+      {
+       "ap": "32",
+       "name": "Avloppsrening (ram)",
+       "amount_tkr": 11937
+      },
+      {
+       "ap": "28",
+       "name": "Översyn nationell fysisk planering (ram)",
+       "amount_tkr": 10000
+      }
+     ],
+     "sum_ok": true
+    },
+    {
+     "by": "Länsstyrelsen i Stockholms län",
+     "amount_tkr": 516215,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Stockholms län (ram)",
+       "amount_tkr": 516215
+      }
+     ],
+     "sum_ok": true
+    },
+    {
+     "by": "Länsstyrelsen i Uppsala län",
+     "amount_tkr": 149419,
+     "items": [
+      {
+       "ap": "2",
+       "name": "Uppsala län (ram)",
+       "amount_tkr": 149419
+      }
+     ],
+     "sum_ok": true
+    },
+    {
+     "by": "Länsstyrelsen i Södermanlands län",
+     "amount_tkr": 119285,
+     "items": [
+      {
+       "ap": "3",
+       "name": "Södermanlands län (ram)",
+       "amount_tkr": 119285
+      }
+     ],
+     "sum_ok": true
+    },
+    {
+     "by": "Länsstyrelsen i Östergötlands län",
+     "amount_tkr": 240584,
+     "items": [
+      {
+       "ap": "4",
+       "name": "Östergötlands län (ram)",
+       "amount_tkr": 240584
+      }
+     ],
+     "sum_ok": true
+    },
+    {
+     "by": "Länsstyrelsen i Jönköpings län",
+     "amount_tkr": 155746,
+     "items": [
+      {
+       "ap": "5",
+       "name": "Jönköpings län (ram)",
+       "amount_tkr": 155746
+      }
+     ],
+     "sum_ok": true
+    },
+    {
+     "by": "Länsstyrelsen i Kronobergs län",
+     "amount_tkr": 111207,
+     "items": [
+      {
+       "ap": "6",
+       "name": "Kronobergs län (ram)",
+       "amount_tkr": 111207
+      }
+     ],
+     "sum_ok": true
+    },
+    {
+     "by": "Länsstyrelsen i Kalmar län",
+     "amount_tkr": 134472,
+     "items": [
+      {
+       "ap": "7",
+       "name": "Kalmar län (ram)",
+       "amount_tkr": 134472
+      }
+     ],
+     "sum_ok": true
+    },
+    {
+     "by": "Länsstyrelsen i Gotlands län",
+     "amount_tkr": 84020,
+     "items": [
+      {
+       "ap": "8",
+       "name": "Gotlands län (ram)",
+       "amount_tkr": 84020
+      }
+     ],
+     "sum_ok": true
+    },
+    {
+     "by": "Länsstyrelsen i Blekinge län",
+     "amount_tkr": 83759,
+     "items": [
+      {
+       "ap": "9",
+       "name": "Blekinge län (ram)",
+       "amount_tkr": 83759
+      }
+     ],
+     "sum_ok": true
+    },
+    {
+     "by": "Länsstyrelsen i Skåne län",
+     "amount_tkr": 433398,
+     "items": [
+      {
+       "ap": "10",
+       "name": "Skåne län (ram)",
+       "amount_tkr": 433398
+      }
+     ],
+     "sum_ok": true
+    },
+    {
+     "by": "Länsstyrelsen i Hallands län",
+     "amount_tkr": 141284,
+     "items": [
+      {
+       "ap": "11",
+       "name": "Hallands län (ram)",
+       "amount_tkr": 141284
+      }
+     ],
+     "sum_ok": true
+    },
+    {
+     "by": "Länsstyrelsen i Västra Götalands län",
+     "amount_tkr": 661668,
+     "items": [
+      {
+       "ap": "12",
+       "name": "Västra Götalands län (ram)",
+       "amount_tkr": 562668
+      },
+      {
+       "ap": "25",
+       "name": "Digital infrastruktur (ram)",
+       "amount_tkr": 99000
+      }
+     ],
+     "sum_ok": true
+    },
+    {
+     "by": "Länsstyrelsen i Värmlands län",
+     "amount_tkr": 150898,
+     "items": [
+      {
+       "ap": "13",
+       "name": "Värmlands län (ram)",
+       "amount_tkr": 150898
+      }
+     ],
+     "sum_ok": true
+    },
+    {
+     "by": "Länsstyrelsen i Västmanlands län",
+     "amount_tkr": 146878,
+     "items": [
+      {
+       "ap": "15",
+       "name": "Västmanlands län (ram)",
+       "amount_tkr": 146878
+      }
+     ],
+     "sum_ok": true
+    },
+    {
+     "by": "Länsstyrelsen i Dalarnas län",
+     "amount_tkr": 157561,
+     "items": [
+      {
+       "ap": "16",
+       "name": "Dalarnas län (ram)",
+       "amount_tkr": 157561
+      }
+     ],
+     "sum_ok": true
+    },
+    {
+     "by": "Länsstyrelsen i Gävleborgs län",
+     "amount_tkr": 156601,
+     "items": [
+      {
+       "ap": "17",
+       "name": "Gävleborgs län (ram)",
+       "amount_tkr": 156601
+      }
+     ],
+     "sum_ok": true
+    },
+    {
+     "by": "Länsstyrelsen i Västernorrlands län",
+     "amount_tkr": 150904,
+     "items": [
+      {
+       "ap": "18",
+       "name": "Västernorrlands län (ram)",
+       "amount_tkr": 150904
+      }
+     ],
+     "sum_ok": true
+    },
+    {
+     "by": "Länsstyrelsen i Jämtlands län",
+     "amount_tkr": 135280,
+     "items": [
+      {
+       "ap": "19",
+       "name": "Jämtlands län (ram)",
+       "amount_tkr": 135280
+      }
+     ],
+     "sum_ok": true
+    },
+    {
+     "by": "Länsstyrelsen i Västerbottens län",
+     "amount_tkr": 198215,
+     "items": [
+      {
+       "ap": "20",
+       "name": "Västerbottens län (ram)",
+       "amount_tkr": 198215
+      }
+     ],
+     "sum_ok": true
+    },
+    {
+     "by": "Länsstyrelsen i Norrbottens län",
+     "amount_tkr": 250334,
+     "items": [
+      {
+       "ap": "21",
+       "name": "Norrbottens län (ram)",
+       "amount_tkr": 250334
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Stockholms län",
+     "text": "Anslagsposten får användas för Länsstyrelsen i Stockholms läns förvaltningsutgifter."
+    },
+    {
+     "ap": "2",
+     "name": "Uppsala län",
+     "text": "Anslagsposten får användas för Länsstyrelsen i Uppsala läns förvaltningsutgifter."
+    },
+    {
+     "ap": "3",
+     "name": "Södermanlands län",
+     "text": "Anslagsposten får användas för Länsstyrelsen i Södermanlands läns förvaltningsutgifter."
+    },
+    {
+     "ap": "4",
+     "name": "Östergötlands län",
+     "text": "Anslagsposten får användas för Länsstyrelsen i Östergötlands läns förvaltningsutgifter.\nLägst 15 000 000 kronor och högst 22 000 000 får användas för utbetalning till övriga länsstyrelser för utvecklingen av regionala resurscentrum för att bekämpa hedersrelaterat våld och förtryck."
+    },
+    {
+     "ap": "5",
+     "name": "Jönköpings län",
+     "text": "Anslagsposten får användas för Länsstyrelsen i Jönköpings läns förvaltningsutgifter."
+    },
+    {
+     "ap": "6",
+     "name": "Kronobergs län",
+     "text": "Anslagsposten får användas för Länsstyrelsen i Kronobergs läns förvaltningsutgifter.\nHögst 2 600 000 kronor får användas för utbetalningar till övriga länsstyrelser för den nationella samordningen avseende mäns våld mot kvinnor."
+    },
+    {
+     "ap": "7",
+     "name": "Kalmar län",
+     "text": "Anslagsposten får användas för Länsstyrelsen i Kalmar läns förvaltningsutgifter."
+    },
+    {
+     "ap": "8",
+     "name": "Gotlands län",
+     "text": "Anslagsposten får användas för Länsstyrelsen i Gotlands läns förvaltningsutgifter."
+    },
+    {
+     "ap": "9",
+     "name": "Blekinge län",
+     "text": "Anslagsposten får användas för Länsstyrelsen i Blekinge läns förvaltningsutgifter."
+    },
+    {
+     "ap": "10",
+     "name": "Skåne län",
+     "text": "Anslagsposten får användas för Länsstyrelsen i Skåne läns förvaltningsutgifter."
+    },
+    {
+     "ap": "11",
+     "name": "Hallands län",
+     "text": "Anslagsposten får användas för Länsstyrelsen i Hallands läns förvaltningsutgifter."
+    },
+    {
+     "ap": "12",
+     "name": "Västra Götalands län",
+     "text": "Anslagsposten får användas för Länsstyrelsen i Västra Götalands läns förvaltningsutgifter.\nI anslagsposten ingår 775 000 kronor för utveckling av det länsstyrelsegemensamma arbetet avseende it-system, datainsamling och bearbetning för havsplanering."
+    },
+    {
+     "ap": "13",
+     "name": "Värmlands län",
+     "text": "Anslagsposten får användas för Länsstyrelsen i Värmlands läns förvaltningsutgifter."
+    },
+    {
+     "ap": "14",
+     "name": "Örebro län",
+     "text": "Anslagsposten får användas för Länsstyrelsen i Örebro läns förvaltningsutgifter.\nHögst 576 000 kronor får utbetalas till den länsstyrelse som samordnar Seveso-verksamheten.\nAnslagsposten får användas till att täcka befintligt ackumulerat underskott som uppstått inom tidigare avgiftsbelagd verksamhet. Underskottet ska vara slutreglerat vid utgången av 2026.\nHögst 8 150 000 kronor får utbetalas till och användas av länsstyrelserna i Norrbottens, Örebro, Stockholms, Östergötlands, Västra Götalands och Skåne län för arbete enligt cybersäkerhetsförordningen (2025:1507)."
+    },
+    {
+     "ap": "15",
+     "name": "Västmanlands län",
+     "text": "Anslagsposten får användas för Länsstyrelsen i Västmanlands läns förvaltningsutgifter."
+    },
+    {
+     "ap": "16",
+     "name": "Dalarnas län",
+     "text": "Anslagsposten får användas för Länsstyrelsen i Dalarnas läns förvaltningsutgifter."
+    },
+    {
+     "ap": "17",
+     "name": "Gävleborgs län",
+     "text": "Anslagsposten får användas för Länsstyrelsen i Gävleborgs läns förvaltningsutgifter.\nHögst 15 715 000 kr får användas för åtgärder för begränsning av massförekomst av översvämningsmyggor. Länsstyrelsen får utbetala medel till kommuner eller andra offentliga aktörer som har kostnader för sådana åtgärder."
+    },
+    {
+     "ap": "18",
+     "name": "Västernorrlands län",
+     "text": "Anslagsposten får användas för Länsstyrelsen i Västernorrlands läns förvaltningsutgifter."
+    },
+    {
+     "ap": "19",
+     "name": "Jämtlands län",
+     "text": "Anslagsposten får användas för Länsstyrelsen i Jämtlands läns förvaltningsutgifter.\nLänsstyrelsen i Jämtlands län ska svara för den svenska offentliga medfinansieringen av tekniskt stöd i det territoriella programmet Sverige–Norge."
+    },
+    {
+     "ap": "20",
+     "name": "Västerbottens län",
+     "text": "Anslagsposten får användas för Länsstyrelsen i Västerbottens läns förvaltningsutgifter.\nLänsstyrelsen i Västerbottens län ska svara för den svenska offentliga medfinansieringen av tekniskt stöd i det territoriella programmet Norra periferin och Arktis.\nHögst 10 000 000 kronor får användas för att bistå andra länsstyrelser i beredningen av A-ärenden med betydelse för den gröna omställningen."
+    },
+    {
+     "ap": "21",
+     "name": "Norrbottens län",
+     "text": "Anslagsposten får användas för Länsstyrelsen i Norrbottens läns förvaltningsutgifter.\nLänsstyrelsen i Norrbottens län ska svara för den svenska offentliga medfinansieringen av tekniskt stöd i det territoriella programmet Aurora.\nLänsstyrelsen i Norrbottens län ska med 1 520 000 kronor delfinansiera den ideella föreningen Laponiatjuottjudus för förvaltningen av världsarvet Laponia enligt Laponiaförordningen (2011:840)."
+    },
+    {
+     "ap": "22",
+     "name": "Beredning av vindkraft till havs",
+     "text": "Anslagsposten får användas för arbete med att bereda ärenden om tillstånd för havsbaserad vindkraft och till länsstyrelsegemensam kunskapsutveckling avseende sådana frågor.\nHögst 3 000 000 kronor får fördelas till Länsstyrelsen i Hallands län för länsstyrelsegemensam kunskapsutveckling och samordning avseende beredning av ärenden om tillstånd för vindkraft till havs.\nResterande medel får användas först efter beslut av regeringen."
+    },
+    {
+     "ap": "23",
+     "name": "Livsmedelsberedskap",
+     "text": "Anslagsposten får användas för länsstyrelsernas arbete med livsmedelsberedskap."
+    },
+    {
+     "ap": "24",
+     "name": "Omhändertagande av djur",
+     "text": "Anslagsposten får användas för länsstyrelsernas kostnader i samband med omhändertagande av djur."
+    },
+    {
+     "ap": "25",
+     "name": "Digital infrastruktur",
+     "text": "Anslagsposten får användas för att genomföra investeringar i länsstyrelsernas digitala infrastruktur och vidmakthålla förmågor inom krisberedskap och civilt försvar."
+    },
+    {
+     "ap": "26",
+     "name": "Utvecklingsinsatser m.m.",
+     "text": "Anslagsposten får användas för löpande utgifter i samband med länsstyrelsegemensamma aktiviteter och gemensamma utvecklingsprojekt.\nMedlen disponeras efter beslut av regeringen."
+    },
+    {
+     "ap": "27",
+     "name": "Länsstyrelserna m.m. - Ofördelad anslagsdel",
+     "text": "Anslagsposten får användas först efter beslut av regeringen."
+    },
+    {
+     "ap": "28",
+     "name": "Översyn nationell fysisk planering",
+     "text": "Anslagsposten får användas för arbete med översyn av nationell fysisk planering. Högst 5 000 000 kronor ska fördelas till länsstyrelserna för genomförande av uppdrag till länsstyrelserna att bistå utredningen om En utvecklad nationell fysisk planering (LI2026/01544). Högst 5 000 000 kronor ska fördelas lika till Boverket, Försvarsmakten, Havs- och vattenmyndigheten, Myndigheten för civilt försvar, Naturvårdsverket, Post- och telestyrelsen, Riksantikvarieämbetet, Sametinget, Statens energimyndighet, Strålsäkerhetsmyndigheten, Sveriges geologiska undersökning, Tillväxtverket och Trafikverket, för genomförande av Uppdrag att bistå utredningen om En utvecklad nationell fysisk planering (LI2026/01547)."
+    },
+    {
+     "ap": "32",
+     "name": "Avloppsrening",
+     "text": "Anslagsposten får användas för länsstyrelsernas åtgärder för att förebygga störningar och minska sårbarheten när det gäller tillgång till kemikalier för dricksvattenproduktion och avloppsrening."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "6",
+     "max": 2600000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "14",
+     "max": 576000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "14",
+     "max": 8150000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "17",
+     "max": 15715000,
+     "unit": "kr"
+    },
+    {
+     "ap": "20",
+     "max": 10000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "22",
+     "max": 3000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "28",
+     "max": 5000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "28",
+     "max": 5000000,
+     "unit": "kronor"
+    }
+   ]
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "5:1 Länsstyrelserna m.m.",
+   "ap": "ap.1",
+   "Anslagskredit": 15486,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "5:1 Länsstyrelserna m.m.",
+   "ap": "ap.2",
+   "Anslagskredit": 4482,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "5:1 Länsstyrelserna m.m.",
+   "ap": "ap.3",
+   "Anslagskredit": 3578,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "5:1 Länsstyrelserna m.m.",
+   "ap": "ap.4",
+   "Anslagskredit": 7217,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "5:1 Länsstyrelserna m.m.",
+   "ap": "ap.5",
+   "Anslagskredit": 4672,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "5:1 Länsstyrelserna m.m.",
+   "ap": "ap.6",
+   "Anslagskredit": 3336,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "5:1 Länsstyrelserna m.m.",
+   "ap": "ap.7",
+   "Anslagskredit": 4034,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "5:1 Länsstyrelserna m.m.",
+   "ap": "ap.8",
+   "Anslagskredit": 2520,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "5:1 Länsstyrelserna m.m.",
+   "ap": "ap.9",
+   "Anslagskredit": 2512,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "5:1 Länsstyrelserna m.m.",
+   "ap": "ap.10",
+   "Anslagskredit": 13001,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "5:1 Länsstyrelserna m.m.",
+   "ap": "ap.11",
+   "Anslagskredit": 4238,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "5:1 Länsstyrelserna m.m.",
+   "ap": "ap.12",
+   "Anslagskredit": 16880,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "5:1 Länsstyrelserna m.m.",
+   "ap": "ap.13",
+   "Anslagskredit": 4481,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "5:1 Länsstyrelserna m.m.",
+   "ap": "ap.14",
+   "Anslagskredit": 5741,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "5:1 Länsstyrelserna m.m.",
+   "ap": "ap.15",
+   "Anslagskredit": 4406,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "5:1 Länsstyrelserna m.m.",
+   "ap": "ap.16",
+   "Anslagskredit": 4726,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "5:1 Länsstyrelserna m.m.",
+   "ap": "ap.17",
+   "Anslagskredit": 4698,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "5:1 Länsstyrelserna m.m.",
+   "ap": "ap.18",
+   "Anslagskredit": 4482,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "5:1 Länsstyrelserna m.m.",
+   "ap": "ap.19",
+   "Anslagskredit": 4058,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "5:1 Länsstyrelserna m.m.",
+   "ap": "ap.20",
+   "Anslagskredit": 5946,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "5:1 Länsstyrelserna m.m.",
+   "ap": "ap.21",
+   "Anslagskredit": 7510,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "5:1 Länsstyrelserna m.m.",
+   "ap": "ap.22",
+   "Anslagskredit": 450,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "5:1 Länsstyrelserna m.m.",
+   "ap": "ap.23",
+   "Anslagskredit": 153,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "5:1 Länsstyrelserna m.m.",
+   "ap": "ap.24",
+   "Anslagskredit": 307,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "5:1 Länsstyrelserna m.m.",
+   "ap": "ap.25",
+   "Anslagskredit": 2970,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "5:1 Länsstyrelserna m.m.",
+   "ap": "ap.26",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "5:1 Länsstyrelserna m.m.",
+   "ap": "ap.27",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "5:1 Länsstyrelserna m.m.",
+   "ap": "ap.28",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "5:1 Länsstyrelserna m.m.",
+   "ap": "ap.32",
+   "Anslagskredit": 358,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {},
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 6902
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 6987
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 6987
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 6987
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 6987
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 6987
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 6987
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 6987
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 6987
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 6987
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 6987
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 6987
+  },
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 12965
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 13146
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 13146
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 13146
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 13146
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 13146
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 13146
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 13146
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 13146
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 13146
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 13146
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 13136
+  },
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 7042
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 6998
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 6998
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 6998
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 6998
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 6998
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 6998
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 6998
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 6998
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 6998
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 6998
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 6998
+  },
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 12897
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 13064
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 13064
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 13064
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 13064
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 13064
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 13064
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 13064
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 13064
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 13064
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 13064
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 13064
+  },
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 11515
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 11798
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 11798
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 11798
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 11798
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 11798
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 11798
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 11798
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 11798
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 11798
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 11798
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 11789
+  },
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 11012
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 11297
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 11297
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 11297
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 11297
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 11297
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 11297
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 11297
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 11297
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 11297
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 11297
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 11298
+  },
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 12944
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 12982
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 12982
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 12982
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 12982
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 12982
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 12982
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 12982
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 12982
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 12982
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 12982
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 12982
+  },
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 10998
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 11225
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 11225
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 11225
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 11225
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 11225
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 11225
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 11225
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 11225
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 11225
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 11225
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 11224
+  },
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 9146
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 9278
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 9278
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 9278
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 9278
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 9278
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 9278
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 9278
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 9278
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 9278
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 9278
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 9281
+  },
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 20596
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 20886
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 20886
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 20886
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 20886
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 20886
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 20886
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 20886
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 20886
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 20886
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 20886
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 20878
+  },
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 36816
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 36052
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 36052
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 36052
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 36052
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 36052
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 36052
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 36052
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 36052
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 36052
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 36052
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 36062
+  },
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 44369
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 42895
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 42895
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 42895
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 42895
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 42895
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 42895
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 42895
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 42895
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 42895
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 42895
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 42896
+  },
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 10016
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 9934
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 9934
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 9934
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 9934
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 9934
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 9934
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 9934
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 9934
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 9934
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 9934
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 9929
+  },
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 12605
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 12437
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 12437
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 12437
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 12437
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 12437
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 12437
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 12437
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 12437
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 12437
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 12437
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 12444
+  },
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 12245
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 12469
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 12469
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 12636
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 12636
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 12636
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 12636
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 12636
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 12636
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 12636
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 12636
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 12627
+  },
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 16472
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 16522
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 16522
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 16522
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 16522
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 16522
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 16522
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 16522
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 16522
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 16522
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 16522
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 16523
+  },
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 12220
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 12472
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 12472
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 12639
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 12639
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 12639
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 12639
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 12639
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 12639
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 12639
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 12639
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 12628
+  },
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 12195
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 12244
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 12244
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 12244
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 12244
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 12244
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 12244
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 12244
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 12244
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 12244
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 12244
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 12243
+  },
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 55661
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 55092
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 55092
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 55092
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 55092
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 55092
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 55092
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 55092
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 55092
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 55092
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 55092
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 55087
+  },
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 15445
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 15995
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 15995
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 15995
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 15995
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 15995
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 15995
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 15995
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 15995
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 15995
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 15995
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 15994
+  },
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 19784
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 20073
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 20073
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 20073
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 20073
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 20073
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 20073
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 20073
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 20073
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 20073
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 20073
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 20070
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "5:1 Länsstyrelserna m.m.",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "15 486",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.2",
+     "4 482",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.3",
+     "3 578",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.4",
+     "7 217",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.5",
+     "4 672",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.6",
+     "3 336",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.7",
+     "4 034",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.8",
+     "2 520",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.9",
+     "2 512",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.10",
+     "13 001",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.11",
+     "4 238",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.12",
+     "16 880",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.13",
+     "4 481",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.14",
+     "5 741",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.15",
+     "4 406",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.16",
+     "4 726",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.17",
+     "4 698",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.18",
+     "4 482",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.19",
+     "4 058",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.20",
+     "5 946",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.21",
+     "7 510",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.22",
+     "450",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.23",
+     "153",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.24",
+     "307",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.25",
+     "2 970",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.26",
+     "0",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.27",
+     "0",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.28",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.32",
+     "358",
+     "3 %",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "6 902"
+    ],
+    [
+     "2026-02-25",
+     "6 987"
+    ],
+    [
+     "2026-03-25",
+     "6 987"
+    ],
+    [
+     "2026-04-25",
+     "6 987"
+    ],
+    [
+     "2026-05-25",
+     "6 987"
+    ],
+    [
+     "2026-06-25",
+     "6 987"
+    ],
+    [
+     "2026-07-25",
+     "6 987"
+    ],
+    [
+     "2026-08-25",
+     "6 987"
+    ],
+    [
+     "2026-09-25",
+     "6 987"
+    ],
+    [
+     "2026-10-25",
+     "6 987"
+    ],
+    [
+     "2026-11-25",
+     "6 987"
+    ],
+    [
+     "2026-12-25",
+     "6 987"
+    ],
+    [
+     "Summa",
+     "83 759"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "5:1 ap.9",
+     "Blekinge län"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "12 965"
+    ],
+    [
+     "2026-02-25",
+     "13 146"
+    ],
+    [
+     "2026-03-25",
+     "13 146"
+    ],
+    [
+     "2026-04-25",
+     "13 146"
+    ],
+    [
+     "2026-05-25",
+     "13 146"
+    ],
+    [
+     "2026-06-25",
+     "13 146"
+    ],
+    [
+     "2026-07-25",
+     "13 146"
+    ],
+    [
+     "2026-08-25",
+     "13 146"
+    ],
+    [
+     "2026-09-25",
+     "13 146"
+    ],
+    [
+     "2026-10-25",
+     "13 146"
+    ],
+    [
+     "2026-11-25",
+     "13 146"
+    ],
+    [
+     "2026-12-25",
+     "13 136"
+    ],
+    [
+     "Summa",
+     "157 561"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "5:1 ap.16",
+     "Dalarnas län"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "7 042"
+    ],
+    [
+     "2026-02-25",
+     "6 998"
+    ],
+    [
+     "2026-03-25",
+     "6 998"
+    ],
+    [
+     "2026-04-25",
+     "6 998"
+    ],
+    [
+     "2026-05-25",
+     "6 998"
+    ],
+    [
+     "2026-06-25",
+     "6 998"
+    ],
+    [
+     "2026-07-25",
+     "6 998"
+    ],
+    [
+     "2026-08-25",
+     "6 998"
+    ],
+    [
+     "2026-09-25",
+     "6 998"
+    ],
+    [
+     "2026-10-25",
+     "6 998"
+    ],
+    [
+     "2026-11-25",
+     "6 998"
+    ],
+    [
+     "2026-12-25",
+     "6 998"
+    ],
+    [
+     "Summa",
+     "84 020"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "5:1 ap.8",
+     "Gotlands län"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "12 897"
+    ],
+    [
+     "2026-02-25",
+     "13 064"
+    ],
+    [
+     "2026-03-25",
+     "13 064"
+    ],
+    [
+     "2026-04-25",
+     "13 064"
+    ],
+    [
+     "2026-05-25",
+     "13 064"
+    ],
+    [
+     "2026-06-25",
+     "13 064"
+    ],
+    [
+     "2026-07-25",
+     "13 064"
+    ],
+    [
+     "2026-08-25",
+     "13 064"
+    ],
+    [
+     "2026-09-25",
+     "13 064"
+    ],
+    [
+     "2026-10-25",
+     "13 064"
+    ],
+    [
+     "2026-11-25",
+     "13 064"
+    ],
+    [
+     "2026-12-25",
+     "13 064"
+    ],
+    [
+     "Summa",
+     "156 601"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "5:1 ap.17",
+     "Gävleborgs län"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "11 515"
+    ],
+    [
+     "2026-02-25",
+     "11 798"
+    ],
+    [
+     "2026-03-25",
+     "11 798"
+    ],
+    [
+     "2026-04-25",
+     "11 798"
+    ],
+    [
+     "2026-05-25",
+     "11 798"
+    ],
+    [
+     "2026-06-25",
+     "11 798"
+    ],
+    [
+     "2026-07-25",
+     "11 798"
+    ],
+    [
+     "2026-08-25",
+     "11 798"
+    ],
+    [
+     "2026-09-25",
+     "11 798"
+    ],
+    [
+     "2026-10-25",
+     "11 798"
+    ],
+    [
+     "2026-11-25",
+     "11 798"
+    ],
+    [
+     "2026-12-25",
+     "11 789"
+    ],
+    [
+     "Summa",
+     "141 284"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "5:1 ap.11",
+     "Hallands län"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "11 012"
+    ],
+    [
+     "2026-02-25",
+     "11 297"
+    ],
+    [
+     "2026-03-25",
+     "11 297"
+    ],
+    [
+     "2026-04-25",
+     "11 297"
+    ],
+    [
+     "2026-05-25",
+     "11 297"
+    ],
+    [
+     "2026-06-25",
+     "11 297"
+    ],
+    [
+     "2026-07-25",
+     "11 297"
+    ],
+    [
+     "2026-08-25",
+     "11 297"
+    ],
+    [
+     "2026-09-25",
+     "11 297"
+    ],
+    [
+     "2026-10-25",
+     "11 297"
+    ],
+    [
+     "2026-11-25",
+     "11 297"
+    ],
+    [
+     "2026-12-25",
+     "11 298"
+    ],
+    [
+     "Summa",
+     "135 280"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "5:1 ap.19",
+     "Jämtlands län"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "12 944"
+    ],
+    [
+     "2026-02-25",
+     "12 982"
+    ],
+    [
+     "2026-03-25",
+     "12 982"
+    ],
+    [
+     "2026-04-25",
+     "12 982"
+    ],
+    [
+     "2026-05-25",
+     "12 982"
+    ],
+    [
+     "2026-06-25",
+     "12 982"
+    ],
+    [
+     "2026-07-25",
+     "12 982"
+    ],
+    [
+     "2026-08-25",
+     "12 982"
+    ],
+    [
+     "2026-09-25",
+     "12 982"
+    ],
+    [
+     "2026-10-25",
+     "12 982"
+    ],
+    [
+     "2026-11-25",
+     "12 982"
+    ],
+    [
+     "2026-12-25",
+     "12 982"
+    ],
+    [
+     "Summa",
+     "155 746"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "5:1 ap.5",
+     "Jönköpings län"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "10 998"
+    ],
+    [
+     "2026-02-25",
+     "11 225"
+    ],
+    [
+     "2026-03-25",
+     "11 225"
+    ],
+    [
+     "2026-04-25",
+     "11 225"
+    ],
+    [
+     "2026-05-25",
+     "11 225"
+    ],
+    [
+     "2026-06-25",
+     "11 225"
+    ],
+    [
+     "2026-07-25",
+     "11 225"
+    ],
+    [
+     "2026-08-25",
+     "11 225"
+    ],
+    [
+     "2026-09-25",
+     "11 225"
+    ],
+    [
+     "2026-10-25",
+     "11 225"
+    ],
+    [
+     "2026-11-25",
+     "11 225"
+    ],
+    [
+     "2026-12-25",
+     "11 224"
+    ],
+    [
+     "Summa",
+     "134 472"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "5:1 ap.7",
+     "Kalmar län"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "9 146"
+    ],
+    [
+     "2026-02-25",
+     "9 278"
+    ],
+    [
+     "2026-03-25",
+     "9 278"
+    ],
+    [
+     "2026-04-25",
+     "9 278"
+    ],
+    [
+     "2026-05-25",
+     "9 278"
+    ],
+    [
+     "2026-06-25",
+     "9 278"
+    ],
+    [
+     "2026-07-25",
+     "9 278"
+    ],
+    [
+     "2026-08-25",
+     "9 278"
+    ],
+    [
+     "2026-09-25",
+     "9 278"
+    ],
+    [
+     "2026-10-25",
+     "9 278"
+    ],
+    [
+     "2026-11-25",
+     "9 278"
+    ],
+    [
+     "2026-12-25",
+     "9 281"
+    ],
+    [
+     "Summa",
+     "111 207"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "5:1 ap.6",
+     "Kronobergs län"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "20 596"
+    ],
+    [
+     "2026-02-25",
+     "20 886"
+    ],
+    [
+     "2026-03-25",
+     "20 886"
+    ],
+    [
+     "2026-04-25",
+     "20 886"
+    ],
+    [
+     "2026-05-25",
+     "20 886"
+    ],
+    [
+     "2026-06-25",
+     "20 886"
+    ],
+    [
+     "2026-07-25",
+     "20 886"
+    ],
+    [
+     "2026-08-25",
+     "20 886"
+    ],
+    [
+     "2026-09-25",
+     "20 886"
+    ],
+    [
+     "2026-10-25",
+     "20 886"
+    ],
+    [
+     "2026-11-25",
+     "20 886"
+    ],
+    [
+     "2026-12-25",
+     "20 878"
+    ],
+    [
+     "Summa",
+     "250 334"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "5:1 ap.21",
+     "Norrbottens län"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "36 816"
+    ],
+    [
+     "2026-02-25",
+     "36 052"
+    ],
+    [
+     "2026-03-25",
+     "36 052"
+    ],
+    [
+     "2026-04-25",
+     "36 052"
+    ],
+    [
+     "2026-05-25",
+     "36 052"
+    ],
+    [
+     "2026-06-25",
+     "36 052"
+    ],
+    [
+     "2026-07-25",
+     "36 052"
+    ],
+    [
+     "2026-08-25",
+     "36 052"
+    ],
+    [
+     "2026-09-25",
+     "36 052"
+    ],
+    [
+     "2026-10-25",
+     "36 052"
+    ],
+    [
+     "2026-11-25",
+     "36 052"
+    ],
+    [
+     "2026-12-25",
+     "36 062"
+    ],
+    [
+     "Summa",
+     "433 398"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "5:1 ap.10",
+     "Skåne län"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "44 369"
+    ],
+    [
+     "2026-02-25",
+     "42 895"
+    ],
+    [
+     "2026-03-25",
+     "42 895"
+    ],
+    [
+     "2026-04-25",
+     "42 895"
+    ],
+    [
+     "2026-05-25",
+     "42 895"
+    ],
+    [
+     "2026-06-25",
+     "42 895"
+    ],
+    [
+     "2026-07-25",
+     "42 895"
+    ],
+    [
+     "2026-08-25",
+     "42 895"
+    ],
+    [
+     "2026-09-25",
+     "42 895"
+    ],
+    [
+     "2026-10-25",
+     "42 895"
+    ],
+    [
+     "2026-11-25",
+     "42 895"
+    ],
+    [
+     "2026-12-25",
+     "42 896"
+    ],
+    [
+     "Summa",
+     "516 215"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "5:1 ap.1",
+     "Stockholms län"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "10 016"
+    ],
+    [
+     "2026-02-25",
+     "9 934"
+    ],
+    [
+     "2026-03-25",
+     "9 934"
+    ],
+    [
+     "2026-04-25",
+     "9 934"
+    ],
+    [
+     "2026-05-25",
+     "9 934"
+    ],
+    [
+     "2026-06-25",
+     "9 934"
+    ],
+    [
+     "2026-07-25",
+     "9 934"
+    ],
+    [
+     "2026-08-25",
+     "9 934"
+    ],
+    [
+     "2026-09-25",
+     "9 934"
+    ],
+    [
+     "2026-10-25",
+     "9 934"
+    ],
+    [
+     "2026-11-25",
+     "9 934"
+    ],
+    [
+     "2026-12-25",
+     "9 929"
+    ],
+    [
+     "Summa",
+     "119 285"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "5:1 ap.3",
+     "Södermanlands län"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "12 605"
+    ],
+    [
+     "2026-02-25",
+     "12 437"
+    ],
+    [
+     "2026-03-25",
+     "12 437"
+    ],
+    [
+     "2026-04-25",
+     "12 437"
+    ],
+    [
+     "2026-05-25",
+     "12 437"
+    ],
+    [
+     "2026-06-25",
+     "12 437"
+    ],
+    [
+     "2026-07-25",
+     "12 437"
+    ],
+    [
+     "2026-08-25",
+     "12 437"
+    ],
+    [
+     "2026-09-25",
+     "12 437"
+    ],
+    [
+     "2026-10-25",
+     "12 437"
+    ],
+    [
+     "2026-11-25",
+     "12 437"
+    ],
+    [
+     "2026-12-25",
+     "12 444"
+    ],
+    [
+     "Summa",
+     "149 419"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "5:1 ap.2",
+     "Uppsala län"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "12 245"
+    ],
+    [
+     "2026-02-25",
+     "12 469"
+    ],
+    [
+     "2026-03-25",
+     "12 469"
+    ],
+    [
+     "2026-04-25",
+     "12 636"
+    ],
+    [
+     "2026-05-25",
+     "12 636"
+    ],
+    [
+     "2026-06-25",
+     "12 636"
+    ],
+    [
+     "2026-07-25",
+     "12 636"
+    ],
+    [
+     "2026-08-25",
+     "12 636"
+    ],
+    [
+     "2026-09-25",
+     "12 636"
+    ],
+    [
+     "2026-10-25",
+     "12 636"
+    ],
+    [
+     "2026-11-25",
+     "12 636"
+    ],
+    [
+     "2026-12-25",
+     "12 627"
+    ],
+    [
+     "Summa",
+     "150 898"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "5:1 ap.13",
+     "Värmlands län"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "16 472"
+    ],
+    [
+     "2026-02-25",
+     "16 522"
+    ],
+    [
+     "2026-03-25",
+     "16 522"
+    ],
+    [
+     "2026-04-25",
+     "16 522"
+    ],
+    [
+     "2026-05-25",
+     "16 522"
+    ],
+    [
+     "2026-06-25",
+     "16 522"
+    ],
+    [
+     "2026-07-25",
+     "16 522"
+    ],
+    [
+     "2026-08-25",
+     "16 522"
+    ],
+    [
+     "2026-09-25",
+     "16 522"
+    ],
+    [
+     "2026-10-25",
+     "16 522"
+    ],
+    [
+     "2026-11-25",
+     "16 522"
+    ],
+    [
+     "2026-12-25",
+     "16 523"
+    ],
+    [
+     "Summa",
+     "198 215"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "5:1 ap.20",
+     "Västerbottens län"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "12 220"
+    ],
+    [
+     "2026-02-25",
+     "12 472"
+    ],
+    [
+     "2026-03-25",
+     "12 472"
+    ],
+    [
+     "2026-04-25",
+     "12 639"
+    ],
+    [
+     "2026-05-25",
+     "12 639"
+    ],
+    [
+     "2026-06-25",
+     "12 639"
+    ],
+    [
+     "2026-07-25",
+     "12 639"
+    ],
+    [
+     "2026-08-25",
+     "12 639"
+    ],
+    [
+     "2026-09-25",
+     "12 639"
+    ],
+    [
+     "2026-10-25",
+     "12 639"
+    ],
+    [
+     "2026-11-25",
+     "12 639"
+    ],
+    [
+     "2026-12-25",
+     "12 628"
+    ],
+    [
+     "Summa",
+     "150 904"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "5:1 ap.18",
+     "Västernorrlands län"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "12 195"
+    ],
+    [
+     "2026-02-25",
+     "12 244"
+    ],
+    [
+     "2026-03-25",
+     "12 244"
+    ],
+    [
+     "2026-04-25",
+     "12 244"
+    ],
+    [
+     "2026-05-25",
+     "12 244"
+    ],
+    [
+     "2026-06-25",
+     "12 244"
+    ],
+    [
+     "2026-07-25",
+     "12 244"
+    ],
+    [
+     "2026-08-25",
+     "12 244"
+    ],
+    [
+     "2026-09-25",
+     "12 244"
+    ],
+    [
+     "2026-10-25",
+     "12 244"
+    ],
+    [
+     "2026-11-25",
+     "12 244"
+    ],
+    [
+     "2026-12-25",
+     "12 243"
+    ],
+    [
+     "Summa",
+     "146 878"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "5:1 ap.15",
+     "Västmanlands län"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "55 661"
+    ],
+    [
+     "2026-02-25",
+     "55 092"
+    ],
+    [
+     "2026-03-25",
+     "55 092"
+    ],
+    [
+     "2026-04-25",
+     "55 092"
+    ],
+    [
+     "2026-05-25",
+     "55 092"
+    ],
+    [
+     "2026-06-25",
+     "55 092"
+    ],
+    [
+     "2026-07-25",
+     "55 092"
+    ],
+    [
+     "2026-08-25",
+     "55 092"
+    ],
+    [
+     "2026-09-25",
+     "55 092"
+    ],
+    [
+     "2026-10-25",
+     "55 092"
+    ],
+    [
+     "2026-11-25",
+     "55 092"
+    ],
+    [
+     "2026-12-25",
+     "55 087"
+    ],
+    [
+     "Summa",
+     "661 668"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "5:1 ap.12",
+     "Västra Götalands län"
+    ],
+    [
+     "5:1 ap.25",
+     "Digital infrastruktur"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "15 445"
+    ],
+    [
+     "2026-02-25",
+     "15 995"
+    ],
+    [
+     "2026-03-25",
+     "15 995"
+    ],
+    [
+     "2026-04-25",
+     "15 995"
+    ],
+    [
+     "2026-05-25",
+     "15 995"
+    ],
+    [
+     "2026-06-25",
+     "15 995"
+    ],
+    [
+     "2026-07-25",
+     "15 995"
+    ],
+    [
+     "2026-08-25",
+     "15 995"
+    ],
+    [
+     "2026-09-25",
+     "15 995"
+    ],
+    [
+     "2026-10-25",
+     "15 995"
+    ],
+    [
+     "2026-11-25",
+     "15 995"
+    ],
+    [
+     "2026-12-25",
+     "15 994"
+    ],
+    [
+     "Summa",
+     "191 389"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "5:1 ap.14",
+     "Örebro län"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "19 784"
+    ],
+    [
+     "2026-02-25",
+     "20 073"
+    ],
+    [
+     "2026-03-25",
+     "20 073"
+    ],
+    [
+     "2026-04-25",
+     "20 073"
+    ],
+    [
+     "2026-05-25",
+     "20 073"
+    ],
+    [
+     "2026-06-25",
+     "20 073"
+    ],
+    [
+     "2026-07-25",
+     "20 073"
+    ],
+    [
+     "2026-08-25",
+     "20 073"
+    ],
+    [
+     "2026-09-25",
+     "20 073"
+    ],
+    [
+     "2026-10-25",
+     "20 073"
+    ],
+    [
+     "2026-11-25",
+     "20 073"
+    ],
+    [
+     "2026-12-25",
+     "20 070"
+    ],
+    [
+     "Summa",
+     "240 584"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "5:1 ap.4",
+     "Östergötlands län"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Offentligrättslig verksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Registreringsavgift för jaktområden1",
+     "-923",
+     "-256",
+     "1 898",
+     "2 164",
+     "-266",
+     "-1 445"
+    ],
+    [
+     "Djur och lantbruk (avgift för extra kontroller m.m.)1",
+     "-37 560",
+     "-3 390",
+     "12 712",
+     "16 086",
+     "-3 374",
+     "-44 324"
+    ],
+    [
+     "Delgivning1",
+     "1 305",
+     "-1 405",
+     "4 719",
+     "6 124",
+     "-1 405",
+     "-1 505"
+    ],
+    [
+     "Övrig offentligrättslig verksamhet1",
+     "11 385",
+     "369",
+     "16 681",
+     "16 361",
+     "320",
+     "12 074"
+    ],
+    [
+     "Summa",
+     "-25 793",
+     "-4 682",
+     "36 010",
+     "40 735",
+     "-4 725",
+     "-35 200"
+    ],
+    [
+     "Uppdragverksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Resurssamordning1",
+     "60 156",
+     "-20 098",
+     "610 085",
+     "642 215",
+     "-32 130",
+     "7 928"
+    ],
+    [
+     "Övrig uppdragsverksamhet1",
+     "5 765",
+     "-1 235",
+     "74 335",
+     "75 045",
+     "-710",
+     "3 820"
+    ],
+    [
+     "Fjällförvaltning1",
+     "15 490",
+     "-2 155",
+     "9 045",
+     "11 200",
+     "-2 155",
+     "11 180"
+    ],
+    [
+     "Summa",
+     "81 411",
+     "-23 488",
+     "693 465",
+     "728 460",
+     "-34 995",
+     "22 928"
+    ]
+   ]
+  },
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna ej disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "Ink. tit.",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Samtliga länsstyrelser",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Expeditions- och ansökningsavgifter1",
+     "2511",
+     "-41 031",
+     "-15 676",
+     "37 999",
+     "53 353",
+     "-15 354",
+     "-72 061"
+    ],
+    [
+     "Avgifter vid Bergsstaten1",
+     "2528",
+     "-114",
+     "-20",
+     "0",
+     "20",
+     "-20",
+     "-154"
+    ],
+    [
+     "Miljöskyddsavgift1",
+     "2537",
+     "113 239",
+     "14 929",
+     "195 770",
+     "182 841",
+     "12 929",
+     "141 097"
+    ],
+    [
+     "Övriga offentligrättsliga avgifter1",
+     "2552",
+     "12 299",
+     "1 715",
+     "17 470",
+     "14 962",
+     "2 508",
+     "16 522"
+    ],
+    [
+     "Övriga inkomster av statens verksamhet1",
+     "2811",
+     "18 386",
+     "421",
+     "-150",
+     "50",
+     "-200",
+     "18 607"
+    ],
+    [
+     "Övriga ränteinkomster1",
+     "2394",
+     "19",
+     "0",
+     "0",
+     "0",
+     "0",
+     "19"
+    ],
+    [
+     "Restavgifter och dröjsmålsavgifter3",
+     "2711",
+     "4 800"
+    ],
+    [
+     "Summa",
+     "102 798",
+     "1 369",
+     "255 889",
+     "251 226",
+     "-137",
+     "104 030"
+    ]
+   ]
+  }
+ ],
+ "has_fee_section": true,
+ "exceptions_text": "Bestämmelsen i 3 kap. 1 § andra stycket förordningen (2000:605) om årsredovisning och budgetunderlag, om att resultatredovisningen ska omfatta antalet och styckkostnaden för handläggningen av ärendeslag som omfattar ett stort antal ärenden, ska inte tillämpas på länsstyrelserna.\n\nMed undantag från vad som gäller enligt 3 kap. 1 § tredje stycket och 2 § förordningen om årsredovisning och budgetunderlag, ska verksamhetskostnader och årsarbetskrafter redovisas i en för länsstyrelserna enhetlig struktur efter närmare anvisningar från Länsstyrelsen i Örebro län.\n\n**ÖVRIGA BESTÄMMELSER**\n\n**Villkor för anslag 5:1 Länsstyrelserna m.m.**\n\nI*bilaga 3*finns beräkningar av fördelningen av anslaget 2026. Av bilagan framgår också de riktade medel som tilldelats vissa länsstyrelser. Medel från anslaget får inte användas till verksamhet som bedrivs av en stiftelse vars bildande länsstyrelsen har medverkat till, om inte regeringen har godkänt stiftelsebildningen.\n\n**Radiokommunikationssystemet Rakel**\n\nVarje länsstyrelse ska betala 645 952 kronor till MCF som abonnemangsavgift för radiokommunikationssystemet Rakel. Beloppet ska betalas efter fakturering från MCF.\n\n**Finansiering av anläggningstillgångar**\n\nLänsstyrelserna disponerar en total låneram på 599 200 000 kronor i Riksgäldskontoret för investeringar i anläggningstillgångar som används i verksamheten. Låneramens fördelning på respektive länsstyrelse redovisas i*bilaga 4.*\n\n**Räntekonto**\n\nLänsstyrelserna disponerar var sitt räntekonto med kredit i Riksgäldskontoret. Länsstyrelsernas totala kreditutrymme på räntekontona är 216 700 000 kronor. Kreditutrymmets fördelning på respektive länsstyrelse redovisas i*bilaga 4*. Till räntekontona överförs varje månad en tolftedel av de tilldelade anslagsmedlen. Medel som deponeras hos en länsstyrelse ska sättas in på ett särskilt räntekonto i Riksgäldskontoret.\n\n**Lönegarantiförordningen**\n\nLänsstyrelserna ska bokföra sådana inbetalningar som avses i 4 och 11 §§ lönegarantiförordningen (1992:501) mot ett konto som inte är räntebärande och varje månad betala in beloppen till Kammarkollegiet. Länsstyrelserna ska på begäran av Kammarkollegiet lämna de uppgifter som behövs för att den senare myndigheten ska kunna utföra sitt uppdrag och sin återrapportering till regeringen avseende lönegarantiersättningen.\n\n**Ersättning för uppdrag i statliga styrelser, nämnder och råd m.m.**\n\nLänsstyrelserna ska tillämpa kategori D i 4 § förordningen (1992:1299) om ersättning för uppdrag i statliga styrelser, nämnder och råd m.m. för rennäringsdelegationerna och viltförvaltningsdelegationerna.\n\nErsättning kan lämnas för förlorade avlöningsförmåner enligt 7 § samma förordning och för reseförmåner enligt förordningen (1981:1265) om reseförmåner i statliga uppdrag m.m. Kostnaderna ska belasta länsstyrelsen i det län där berörd ledamot eller ersättare är bosatt.\n\n**Ersättning för uppdrag i miljöprövningsdelegationer**\n\nLänsstyrelserna ska tillämpa 26 § kommittéförordningen (1998:1474) när det gäller ersättning till ersättare i länsstyrelsernas miljöprövningsdelegationer.\n\nPå regeringens vägnar\n\nErik Slottner\n\nAlice Sjöstedt\n\n**Kopia till**\n\nStatsrådsberedningen/FCK, RCK och REV\\\nJustitiedepartementet\\\nUtrikesdepartementet\\\nFörsvarsdepartementet\\\nSocialdepartementet\\\nFinansdepartementet/BA och ESA\\\nUtbildningsdepartementet\\\nKlimat- och näringslivsdepartementet\\\nKulturdepartementet\\\nArbetsmarknadsdepartementet\\\nLandsbygds- och infrastrukturdepartementet\\\nFörvaltningsavdelningen\\\nriksdagen, konstitutionsutskottet\\\nArbetsförmedlingen\\\nBarnombudsmannen\\\nBoverket\\\nFörsvarsmakten\\\nGotlands kommun\\\nHavs- och vattenmyndigheten\\\nKammarkollegiet\\\nMigrationsverket\\\nMyndigheten för civilt försvar\\\nMyndigheten för familjerätt och föräldraskapsstöd\\\nMyndigheten för samhällsskydd och beredskap\\\nMyndigheten för ungdoms- och civilsamhällesfrågor\\\nNaturvårdsverket\\\nPolismyndigheten\\\nPost- och telestyrelsen\\\nRiksantikvarieämbetet\\\nRiksgäldskontoret\\\nSametinget\\\nSkogsstyrelsen\\\nSocialstyrelsen\\\nStatens energimyndighet\\\nStatens jordbruksverk\\\nStatens kulturråd\\\nStatskontoret\\\nStrålsäkerhetsmyndigheten\\\nSveriges geologiska undersökning\\\nSveriges Kommuner och Regioner\\\nTillväxtverket\\\nTrafikverket\\\nRegion Stockholm\\\nRegion Uppsala\\\nRegion Södermanland\\\nRegion Östergötland\\\nRegion Jönköping\\\nRegion Kronoberg\\\nRegion Kalmar\\\nRegion Blekinge\\\nRegion Skåne\\\nRegion Halland\\\nRegion Västra Götaland\\\nRegion Värmland\\\nRegion Örebro\\\nRegion Västmanland\\\nRegion Dalarna\\\nRegion Gävleborg\\\nRegion Västernorrland\\\nRegion Jämtland\\\nRegion Västerbotten\\\nRegion Norrbotten",
+ "summary": {
+  "n_goals": 5,
+  "n_org": 2,
+  "n_assignments": 5,
+  "n_deadlines": 34,
+  "deadlines": [
+   "2026-03-01",
+   "2026-03-15",
+   "2026-03-26",
+   "2026-04-10",
+   "2026-04-15",
+   "2026-04-30",
+   "2026-05-01",
+   "2026-05-15",
+   "2026-06-30",
+   "2026-08-18",
+   "2026-10-15",
+   "2026-10-30",
+   "2026-12-04",
+   "2026-12-31",
+   "2027-01-31",
+   "2027-02-08",
+   "2027-02-10",
+   "2027-02-15",
+   "2027-02-16",
+   "2027-02-21",
+   "2027-02-22",
+   "2027-02-26",
+   "2027-02-28",
+   "2027-03-01",
+   "2027-03-05",
+   "2027-03-28",
+   "2027-03-31",
+   "2027-05-30",
+   "2027-12-01",
+   "2028-01-31",
+   "2028-02-28",
+   "2028-03-01",
+   "2028-04-30",
+   "2029-02-16"
+  ],
+  "partners": [
+   "Affärsverket svenska kraftnät",
+   "Barnombudsmannen",
+   "Boverket",
+   "Energimarknadsinspektionen",
+   "Forum för levande historia",
+   "Havs- och vattenmyndigheten",
+   "Jämställdhetsmyndigheten",
+   "Konstnärsnämnden",
+   "Lantmäteriet",
+   "Linköpings universitet",
+   "Livsmedelsverket",
+   "Länsstyrelserna",
+   "Migrationsverket",
+   "Myndigheten för civilt försvar",
+   "Myndigheten för familjerätt och föräldraskapsstöd",
+   "Naturvårdsverket",
+   "Polismyndigheten",
+   "Sametinget",
+   "Skogsstyrelsen",
+   "Socialstyrelsen",
+   "Statens energimyndighet",
+   "Statens jordbruksverk",
+   "Statens kulturråd",
+   "Sveriges Kommuner och Regioner",
+   "Tillväxtverket"
+  ],
+  "n_appropriations": 1,
+  "appropriations_total_tkr": 4421384,
+  "payment_plan_total_tkr": 4369117,
+  "md_chars": 81847
+ },
+ "layout": "standard",
+ "warnings": []
+}

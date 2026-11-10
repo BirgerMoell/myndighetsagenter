@@ -1,0 +1,765 @@
+{
+ "schema_version": 1,
+ "id": 26295,
+ "original_rbid": 25917,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-06-11",
+ "year": "2026",
+ "name": "Inspektionen för vård och omsorg",
+ "slug": "inspektionen-for-vard-och-omsorg",
+ "department": "Socialdepartementet",
+ "expenditure_areas": [
+  9
+ ],
+ "registry_numbers": [
+  "S2026/01224 (delvis)"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1",
+   "2025/26:99"
+  ],
+  "bet": [
+   "2025/26:FiU21",
+   "2025/26:SoU1"
+  ],
+  "rskr": [
+   "2025/26:114",
+   "2025/26:348"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "",
+ "goals": [
+  {
+   "title": "Utlämnande av allmän handling",
+   "group": [],
+   "text": "Inspektionen för vård och omsorg ska redovisa det totala antalet ärenden som rör utlämnande av allmän handling och vilka åtgärder som myndigheten vidtar för att säkerställa att handläggningen sker i enlighet med skyndsamhetskravet i 2 kap. 15 § tryckfrihetsförordningen. Myndigheten ska även redovisa vilka utmaningar som myndigheten står inför i arbetet med att säkerställa att handläggningen sker i enlighet med skyndsamhetskravet.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "tillsyn_kontroll"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26295:goals:0"
+  },
+  {
+   "title": "Nationella läkemedelstrategin",
+   "group": [],
+   "text": "Inspektionen för vård och omsorg ska redogöra för hur myndigheten har arbetat för att bidra till fokusområden i den nationella läkemedelsstrategin som är relevanta för myndigheten.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "tillsyn_kontroll"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26295:goals:1"
+  },
+  {
+   "title": "Informations- och cybersäkerhet",
+   "group": [],
+   "text": "Inspektionen för vård och omsorg ska redogöra för de åtgärder som vidtagits för att dels höja myndighetens generella säkerhetsnivå, dels beakta nya krav enligt Europaparlamentets och rådets direktiv (EU) 2022/2555 av den 14 december 2022 om åtgärder för en hög gemensam cybersäkerhetsnivå i hela unionen, om ändring av förordning (EU) nr 910/2014 och direktiv (EU) 2018/1972 och om upphävande av direktiv (EU) 2016/1148 (NIS 2-direktivet). Inspektionen för vård och omsorg ska även redogöra för de åtgärder som vidtagits för att utveckla tillsynsverksamheten till följd av NIS 2-direktivet.",
+   "dates": [
+    "2022-12-14"
+   ],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "utveckla",
+    "tillsyn_kontroll",
+    "beredskap_säkerhet",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26295:goals:2"
+  },
+  {
+   "title": "Uppföljning av nya verktyg",
+   "group": [],
+   "text": "Inspektionen för vård och omsorg ska redovisa myndighetens arbete med anledning av ändringar i socialtjänstlagen (2005:400) och lagen (1993:387) om stöd och service till vissa funktionshindrade som träder ikraft den 1 januari 2026 (prop. 2025/26:15, bet. 2025/26:SoU8, rskr. 2025/26:53). Redovisningen ska innehålla uppgifter om antal beslut som myndigheten har fattat om sanktionsavgift, återkallelse av tillstånd för vilande verksamheter och förbud av olovlig verksamhet samt utfall av domstolsprövningar i fråga om överklagade beslut. Myndigheten ska också i möjligaste mån redovisa eventuella effekter av kommunernas utökade anmälningsskyldighet, såsom anmälningsskyldighetens effekter på registerkvalitet.",
+   "dates": [
+    "2026-01-01"
+   ],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "tillsyn_kontroll",
+    "statistik_data"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "1993:387",
+    "2005:400"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26295:goals:3"
+  },
+  {
+   "title": "Förbättrad datakvalitet för effektiv tillsyn",
+   "group": [],
+   "text": "Inspektionen för vård och omsorg ska redovisa hur arbetet med att förvalta, utveckla och kvalitetssäkra leder till förbättrad datakvaliteten i omsorgsregistret, som förs med stöd av 11 b § förordningen (1993:1090) om stöd och service till vissa funktionshindrade och 4 kap. 3 a § socialtjänstförordningen (2025:468), samt hur den har utvecklats under 2026. Inspektionen för vård och omsorg ska också redovisa hur arbetet med att förvalta, utveckla och kvalitetssäkra leder till förbättrad datakvalité i vårdgivarregistret, som förs med stöd av 2 kap. 4 § patientsäkerhetslagen (2010:659). Myndigheten ska redovisa hur förbättrad datakvalitet i omsorgsregistret och vårdgivarregistret bidragit till att effektivisera tillsynen, särskilt mot oseriösa och kriminella aktörer.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla",
+    "tillsyn_kontroll"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "1993:1090",
+    "2010:659",
+    "2025:468"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26295:goals:4"
+  },
+  {
+   "title": "Stärkt patientsäkerhet",
+   "group": [],
+   "text": "Inspektionen för vård och omsorg ska redovisa hur myndigheten inom ramen för pågående tillsyner av hälso– och sjukvårdsverksamheter särskilt följer upp vårdgivarnas arbete med systematiskt kvalitetsarbete. Uppföljningen ska ta avstamp i exempelvis avvikelsehantering samt att vårdgivarna genomför utredningar och efterföljande anmälan enligt lex Maria till tillsynsmyndigheten. Syftet är att i enlighet med lagstiftningen undanröja eller minimera risken för allvarliga vårdskador i samband med vård och behandling.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "tillsyn_kontroll"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26295:goals:5"
+  },
+  {
+   "title": "Samverkan för att stärka arbetet mot oseriösa och kriminella aktörer",
+   "group": [],
+   "text": "Inspektionen för vård och omsorg ska redovisa hur samverkan med Ekobrottsmyndigheten, Försäkringskassan, Polismyndigheten och Skatteverket har genomförts och på vilket sätt resultatet av samverkan har bidragit till att förbättra arbetet mot oseriösa och kriminella aktörer inom hälso- och sjukvården och tandvården samt omsorgen.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Ekobrottsmyndigheten",
+    "Försäkringskassan",
+    "Polismyndigheten",
+    "Skatteverket"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "tillsyn_kontroll"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26295:goals:6"
+  },
+  {
+   "title": "Färdval och resepolicy vid tjänsteresor",
+   "group": [],
+   "text": "Alla trafikslag ska kunna nyttjas (väg, järnväg, luft- och sjöfart) för att säkerställa effektiva och ändamålsenliga transporter. Myndigheten ska därför redovisa hur den har säkerställt att val av färdsätt vid tjänsteresor sker färdmedelsneutralt och utifrån behov. Vidare ska myndigheten redovisa huruvida myndigheten köpt in hållbart flygbränsle till organisationens flygresor. När kostnader jämförs för olika färdval ska hela resans kostnad beaktas, exempelvis kostnader för nödvändig övernattning samt total arbetstid för hela resan.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26295:goals:7"
+  }
+ ],
+ "org": [],
+ "assignments": [
+  {
+   "title": "Nya uppdrag",
+   "group": [],
+   "text": "*Uppdrag att analysera och utveckla samverkan för att avhjälpa brister tillsammans med bl.a. Socialstyrelsen*\n\nInspektionen för vård och omsorg ska analysera och redogöra för hur de inom ramen för sin tillsyn lämnar råd och ger vägledning samt kontrollerar att brister och missförhållanden avhjälps i enlighet med 7 kap. 4 § patientsäkerhetslagen (2010:659), 28 kap. 3 § socialtjänstlagen (2025:400) och 26 a § lagen (1993:387) om stöd och service till vissa funktionshindrade. Myndigheten ska vidare analysera och redogöra för hur myndigheten kan utveckla sitt arbete med att ge råd och vägledning så att de brister och missförhållanden som påtalats av Inspektionen för vård och omsorg inom ramen för tillsynen avhjälps. Inspektionen för vård och omsorg ska när så bedöms lämpligt utbyta information och samarbeta med Socialstyrelsen för att möjliggöra för berörda huvudmän, vårdgivare och verksamheter att ta del av lämpligt kunskapsstöd i syfte att åtgärda de brister och missförhållanden som påtalats av Inspektionen för vård och omsorg vid en tillsynsinsats. Myndigheten ska senast den 31 mars 2027 lämna en redovisning av uppdraget till Regeringskansliet (Socialdepartementet).\n\n*Uppdrag att ta fram en plan för hantering av myndighetens handläggningstider och balanser*\n\nInspektionen för vård och omsorg ska ta fram en plan för hanteringen av myndighetens handläggningstider och ärendebalanser, vad gäller t.ex. enskildas klagomål enligt patientsäkerhetslagen. Myndighetens mål för handläggningstid och ärendebalans för respektive ärendeslag ska framgå av planen liksom tidsatta mål för när handläggningstider respektive ärendebalanser ska vara åtgärdade i förhållande till målen. Planen ska redogöra för vilka åtgärder som vidtas, såsom utveckling av ändamålsenliga IT-stöd. Planen ska också redogöra för hur åtgärderna kommer att effektivisera handläggningskostnaderna vad gäller tillståndsprövningen enligt socialtjänstlagen och lagen om stöd och service till vissa funktionshindrade. Myndigheten ska senast den 1 mars 2026 lämna en delredovisning av uppdraget till Regeringskansliet (Socialdepartementet) som avser denna plan. Myndigheten ska sedan varannan månad redovisa myndighetens handläggningstider och ärendebalanser. Myndigheten ska senast den 22 februari 2027 lämna en slutredovisning av uppdraget. Av slutredovisningen ska resultatet av arbetet framgå liksom utvecklingen av ändamålsenliga IT-stöd för ärendehantering samt hur årsredovisningen kommer utvecklas med anledning av arbetet.\n\n*Uppdrag att redovisa myndighetens arbete mot oseriösa och kriminella aktörer*\n\nInspektionen för vård och omsorg ska redovisa de åtgärder som myndigheten vidtar för att stärka arbetet mot oseriösa och kriminella aktörer. Myndigheten ska senast den 30 april 2026 lämna en delredovisning av uppdraget till Regeringskansliet (Socialdepartementet). Delredovisningen ska innehålla en redogörelse av planerade åtgärder och förväntande effekter av dessa. Myndigheten ska senast den 31 mars 2027 lämna en redovisning av uppdraget till Regeringskansliet (Socialdepartementet). I redovisningen ska myndigheten göra en bedömning av åtgärdernas effekter, vilka resultat som uppnåtts och hur myndighetens arbete har effektiviserats.\n\n*Öka förmågan att använda AI och ny teknik genom datadrivet arbete*\n\nInspektionen för vård och omsorg ska analysera vilka kvalitets- och effektivitetsvinster som kan uppnås genom ett AI- och datadrivet arbetssätt. Myndigheten ska även bedöma sin egen förmåga att arbeta datadrivet, redovisa vilka åtgärder som har genomförts samt vilka resultat och effekter dessa åtgärder har lett till. Av redovisningen ska framgå hur myndigheten beaktar risker och arbetar för att användning av data och AI sker på ett etiskt, säkert och icke-diskriminerande sätt. Eventuella hinder eller framgångsfaktorer för datadrivet arbete och användande av AI-teknik ska även redovisas samt förväntade kostnader kopplat till utveckling och förvaltning av relevanta IT-system. Myndigheten ska senast den 28 maj 2027 lämna en redovisning av uppdraget till Regeringskansliet (Socialdepartementet).\n\n*Patientsäker vård på distans*\n\nInspektionen för vård och omsorg ska granska regionernas arbete med att kvalitetssäkra vård där personal helt eller delvis tjänstgör på distans. Fokus i tillsynen ska vara en tillgänglig, patientsäker och trygg vård. Inspektionen för vård och omsorg ska vidare granska hur regionerna säkerställer informations- och cybersäkerhet samt att personuppgiftsbehandling av patienternas data vid distansarbete är i enlighet med den reglering som gäller för behandling av personuppgifter. Myndigheten ska senast den 30 november 2026 lämna en slutredovisning av uppdraget till Regeringskansliet (Socialdepartementet).\n\n*Uppdrag om ökad tillsyn och kontroll efter implementering av reformen om ett förstärkt högkostnadsskydd för tandvård*\n\nInspektionen för vård och omsorg ska till följd av implementeringen av reformen om ett förstärkt högkostnadsskydd för tandvård öka sin tillsyn av tandvårdssektorn för att tillse att tandvårdsverksamheten fortsatt håller god kvalitet. IVO ska senast den 1 februari 2027 lämna en delredovisning och senast den 1 februari 2029 lämna en slutredovisning till Regeringskansliet (Socialdepartementet). För uppdraget får IVO under 2026 använda högst 5 000 000 kronor som ska redovisas mot det under utgiftsområde 9 Hälsovård, sjukvård och social omsorg uppförda anslaget 1:6 Bidrag till folkhälsa och sjukvård, anslagsposten 9 Högkostnadsskydd tandvård uppföljning m.m. Medlen betalas ut engångsvis efter rekvisition till Kammarkollegiet senast den 1 december 2026. Medel som inte har använts för avsett ändamål ska återbetalas senast den 31 mars 2027 till Kammarkollegiet. Vid samma tidpunkt ska en ekonomisk redovisning av använda medel lämnas till Kammarkollegiet. Redovisningar, rekvisition och återbetalning ska hänvisa till regleringsbrevet för budgetåret 2026 avseende Inspektionen för vård och omsorg.\n\n*Stärkt ägar- och ledningsprövning i tillsynen*\n\nInspektionen för vård och omsorg ska under 2026–2028 inom ramen för tillsyn genomföra ägar- och ledningsprövning av tillstånd som har beviljats före den 1 januari 2019 enligt socialtjänstlagen (2025:400) respektive före den 1 juli 2013 enligt lagen (1993:387) om stöd och service till vissa funktionshindrade. Tillsynen ska genomföras med utgångpunkt i myndighetens egen riskanalys. Inspektionen för vård och omsorg ska löpande informera Regeringskansliet (Socialdepartementet) om hur arbetet med uppdraget fortskrider. Inspektionen för vård och omsorg ska senast den 31 januari 2027 och senast den 31 januari 2028 lämna delredovisning av uppdraget till Regeringskansliet (Socialdepartementet). IVO ska senast den 31 januari 2029 lämna en slutredovisning till Regeringskansliet (Socialdepartementet).\n\n*Uppdrag att analysera missförhållanden inom äldreomsorgen*\n\nInspektionen för vård och omsorg ska göra en analys av inkomna lex Sarah-anmälningar som avser äldreomsorgen under åren 2023–2025. Analysen ska redogöra för verksamhetstyp, vilka missförhållanden eller risker som äldre utsätts för och vilka åtgärder verksamheterna vidtar. Andra relevanta iakttagelser såsom misstanke om underrapportering eller vanligt förekommande brister i utredningarna som föranleder kompletteringar ska också analyseras och redovisas. I den mån det är möjligt ska IVO i uppdraget undersöka i vilken utsträckning den enskilde involveras i hur brister och missförhållanden enligt lex Sarah avhjälps. I uppdraget ingår också att redovisa resultatet av uppföljande tillsyn i förekommande fall, det vill säga om brister och missförhållanden avhjälpts, samt att förmedla kunskapen och erfarenheterna till huvudmän och verksamheter inom äldreomsorgen i enlighet med 28 kap. 3 § socialtjänstlagen (2025:400). Inspektionen för vård och omsorg ska senast den 15 juni 2026 lämna en delredovisning av uppdraget till Regeringskansliet (Socialdepartementet) i den del som avser analys av inkomna lex Sarah-anmälningar. Inspektionen för vård och omsorg ska senast den 29 januari 2027 lämna en slutredovisning av uppdraget till Regeringskansliet (Socialdepartementet).",
+   "dates": [
+    "2013-07-01",
+    "2019-01-01",
+    "2026-03-01",
+    "2026-04-30",
+    "2026-06-15",
+    "2026-11-30",
+    "2026-12-01",
+    "2027-01-29",
+    "2027-01-31",
+    "2027-02-01",
+    "2027-02-22",
+    "2027-03-31",
+    "2027-05-28",
+    "2028-01-31",
+    "2029-01-31",
+    "2029-02-01"
+   ],
+   "deadlines": [
+    "2026-03-01",
+    "2026-04-30",
+    "2026-06-15",
+    "2026-11-30",
+    "2026-12-01",
+    "2027-01-29",
+    "2027-01-31",
+    "2027-02-01",
+    "2027-02-22",
+    "2027-03-31",
+    "2027-05-28",
+    "2028-01-31",
+    "2029-01-31",
+    "2029-02-01"
+   ],
+   "recipients": [
+    "Kammarkollegiet",
+    "Regeringskansliet (Socialdepartementet)"
+   ],
+   "partners": [
+    "Kammarkollegiet",
+    "Socialstyrelsen"
+   ],
+   "channels": [
+    "årsredovisning",
+    "delredovisning",
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna",
+    "fördela_medel",
+    "utveckla",
+    "tillsyn_kontroll",
+    "informera",
+    "statistik_data",
+    "digitalisering_ai",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [
+    "1:6"
+   ],
+   "expenditure_area_refs": [
+    9
+   ],
+   "sfs_refs": [
+    "1993:387",
+    "2010:659",
+    "2025:400"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26295:assignments:0"
+  },
+  {
+   "title": "Prognos",
+   "group": [],
+   "text": "Myndigheten ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Prognoserna lämnas i informationssystemet Hermes senast den\n\n- 2 februari\n- 22 april\n- 24 juli\n- 9 november",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26295:assignments:1"
+  },
+  {
+   "title": "Pågående uppdrag",
+   "group": [],
+   "text": "*För regeringsuppdrag som lämnats i ett särskilt regeringsbeslut utgör tabellen endast en upplysning om vilka uppdrag som vid årets början var riktade till myndigheten och vilka tider som då gällde för återrapportering eller liknande.*\n\n| | | |\n| --- | --- | --- |\n| **Uppdrag** | **Uppdrag givet i** | **Avrapporteringstidpunkt** |\n| Uppdrag att följa upp mål om handläggningstider samt om bemötande och service hos vissa myndigheter | N2020/01493 N2022/01751 | Årligen till Tillväxtverket senast den 15 februari t.o.m. 2029. |\n| Uppdrag om strategi för systematisk uppföljning av funktionshinderspolitiken under 2021–2031 | S2021/06595 S2025/01367 | Till Myndigheten för delaktighet (MFD) årligen senast den 1 februari. |\n| Uppdrag att genomföra insatser för att utveckla hälso- och sjukvårdens systematiska kvalitets- och patientsäkerhetsarbete avseende utredningar och anmälningar som rör suicid och suicidförsök | S2022/03299 | Slutredovisning senast den 30 november 2026 av Socialstyrelsen. |\n| Uppdrag om förstärkt tillsyn av mödrahälsovård och förlossningsvård | S2023/00971 | Slutredovisning senast den 31 mars 2026. |\n| Uppdrag om förstärkt tillsyn mot välfärdsbrottslighet inom omsorgen | S2024/00041 | Delredovisning senast den 31 januari 2026. Slutredovisning senast den 31 januari 2027. |\n| Uppdrag om förstärkt tillsyn mot välfärdsbrottslighet inom hälso- och sjukvården och tandvården | S2024/00037 | Delredovisning senast den 31 januari 2026. Slutredovisning senast den 31 januari 2027. |\n| Uppdrag att stärka tillsynen av stödboende och hem för vård eller boende som tar emot barn och unga | S2024/01643 | Slutredovisning senast den 27 februari 2026. |\n| Uppdrag att stödja kommunerna i omställningen till en mer förebyggande, lätt tillgänglig och kunskapsbaserad socialtjänst | S2025/00116 | Redovisning senast den 1 juni 2027. |\n| Uppdrag att förbereda införandet av den utökade kommunala anmälningsskyldigheten | S2025/01847 | Redovisning senast den 31 mars 2026. |\n| Uppdrag att stärka och utveckla tillsynen inom området psykisk hälsa och suicidprevention | S2025/01452 | Delredovisning senast den 31 mars 2027 respektive den 31 mars 2028. Slutredovisning senast 31 mars 2029. |\n| Uppdrag att kraftsamla mot organiserad brottslighet i välfärden | S2025/01085 | Delredovisning senast före utgången av november 2025 och senast före utgången av april 2026. Slutredovisning före utgången av september 2027. |\n| Uppdrag att utreda möjligheten att flytta över tillsynen över egentillverkade medicintekniska produkter från Inspektionen för vård och omsorg till Läkemedelsverket | S2025/00577 | Redovisning senast den 31 januari 2026. |\n| Stärkt samverkan med Socialstyrelsen | Regleringsbrevet 2025 | Redovisas senast den 31 mars 2026. |\n| Fortsatt uppdrag om ökad tillgänglighet för barn | Regleringsbrevet 2025 | Slutredovisas senast den 27 februari 2026. |\n| Nationell digital infrastruktur | Regleringsbrevet 2025 | Slutredovisning i årsredovisningen för 2025. |\n| Stärka och påskynda förenklingsarbete | Regleringsbrevet 2025 | Redovisas senast den 16 mars 2026. Slutredovisas senast den 16 mars 2027. |\n| Uppdrag att genomföra en riktad tillsynsinsats av aktörer som erbjuder och utför privat finansierad vård avseende neuropsykiatriska bedömningar, utredningar och behandlingar | Regleringsbrevet 2025 | Redovisas senast den 30 januari 2026. |\n| Uppdrag att samordna, stödja och följa upp genomförandet av den nationella strategin inom området psykisk hälsa och suicidprevention | S2025/00016 | Delredovisning av Folkhälsomyndigheten och Socialstyrelsen senast den 19 december 2026 respektive den 19 december 2027. Slutredovisning av Folkhälsomyndigheten och Socialstyrelsen senast den 19 december 2028. |",
+   "dates": [
+    "2026-01-30",
+    "2026-01-31",
+    "2026-02-27",
+    "2026-03-16",
+    "2026-03-31",
+    "2026-11-30",
+    "2026-12-19",
+    "2027-01-31",
+    "2027-03-16",
+    "2027-03-31",
+    "2027-06-01",
+    "2027-12-19",
+    "2028-03-31",
+    "2028-12-19",
+    "2029-03-31"
+   ],
+   "deadlines": [
+    "2026-01-30",
+    "2026-01-31",
+    "2026-02-27",
+    "2026-03-16",
+    "2026-03-31",
+    "2026-11-30",
+    "2026-12-19",
+    "2027-01-31",
+    "2027-03-16",
+    "2027-03-31",
+    "2027-06-01",
+    "2028-12-19",
+    "2029-03-31"
+   ],
+   "recipients": [
+    "Läkemedelsverket",
+    "Tillväxtverket"
+   ],
+   "partners": [
+    "Folkhälsomyndigheten",
+    "Läkemedelsverket",
+    "Myndigheten för delaktighet",
+    "Socialstyrelsen",
+    "Tillväxtverket"
+   ],
+   "channels": [
+    "årsredovisning",
+    "delredovisning",
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna",
+    "utveckla",
+    "tillsyn_kontroll"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "26295:assignments:2"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "1:12",
+   "name": "Inspektionen för vård och omsorg",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 9,
+    "name": "Hälsovård, sjukvård och social omsorg"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Inspektionen för vård och omsorg",
+     "amount_tkr": 1086386,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Inspektionen för vård och omsorg (ram)",
+       "amount_tkr": 1086386
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Inspektionen för vård och omsorg",
+     "text": "Anslagsposten får användas för Inspektionen för vård och omsorgs förvaltningsutgifter."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "1:12 Inspektionen för vård och omsorg",
+   "ap": "ap.1",
+   "Anslagskredit": 31571,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 125000,
+  "Räntekontokredit": 30000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 87699
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 87699
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 87699
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 87699
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 87699
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 92556
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 92556
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 92556
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 92556
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 92556
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 92556
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 92555
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:12 Inspektionen för vård och omsorg",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "31 571",
+     "3 %",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "125 000"
+    ],
+    [
+     "Räntekontokredit",
+     "30 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "87 699"
+    ],
+    [
+     "2026-02-25",
+     "87 699"
+    ],
+    [
+     "2026-03-25",
+     "87 699"
+    ],
+    [
+     "2026-04-25",
+     "87 699"
+    ],
+    [
+     "2026-05-25",
+     "87 699"
+    ],
+    [
+     "2026-06-25",
+     "92 556"
+    ],
+    [
+     "2026-07-25",
+     "92 556"
+    ],
+    [
+     "2026-08-25",
+     "92 556"
+    ],
+    [
+     "2026-09-25",
+     "92 556"
+    ],
+    [
+     "2026-10-25",
+     "92 556"
+    ],
+    [
+     "2026-11-25",
+     "92 556"
+    ],
+    [
+     "2026-12-25",
+     "92 555"
+    ],
+    [
+     "Summa",
+     "1 086 386"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "1:12 ap.1",
+     "Inspektionen för vård och omsorg"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna ej disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "Ink. tit.",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Offentligrättslig verksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Blodverksamhet1",
+     "2552",
+     "9 801",
+     "1 215",
+     "1 458",
+     "324",
+     "1 134",
+     "12 150"
+    ],
+    [
+     "Vävnads- och cellverksamhet1",
+     "2552",
+     "5 148",
+     "706",
+     "1 320",
+     "727",
+     "593",
+     "6 447"
+    ],
+    [
+     "Avgift för tillsyn av estetiska behandlingar1",
+     "2552",
+     "24 101",
+     "13 111",
+     "21 600",
+     "7 666",
+     "13 934",
+     "51 146"
+    ],
+    [
+     "Tillståndsprövning enligt SoL och LSS1",
+     "2552",
+     "-224 182",
+     "-19 402",
+     "50 935",
+     "83 189",
+     "-32 254",
+     "-275 838"
+    ],
+    [
+     "Tillståndsprövning av skyddade boenden1",
+     "2552",
+     "-1 614",
+     "-12 954",
+     "1 450",
+     "3 642",
+     "-2 192",
+     "-16 760"
+    ],
+    [
+     "Avgift för tillstånd att bedriva tandvårdsverksamhet2",
+     "2552",
+     "0",
+     "0",
+     "31 000",
+     "50 000",
+     "-19 000",
+     "-19 000"
+    ],
+    [
+     "Summa",
+     "-186 746",
+     "-17 324",
+     "107 763",
+     "145 548",
+     "-37 785",
+     "-241 855"
+    ]
+   ]
+  }
+ ],
+ "has_fee_section": true,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 8,
+  "n_org": 0,
+  "n_assignments": 3,
+  "n_deadlines": 24,
+  "deadlines": [
+   "2026-01-30",
+   "2026-01-31",
+   "2026-02-27",
+   "2026-03-01",
+   "2026-03-16",
+   "2026-03-31",
+   "2026-04-30",
+   "2026-06-15",
+   "2026-11-30",
+   "2026-12-01",
+   "2026-12-19",
+   "2027-01-29",
+   "2027-01-31",
+   "2027-02-01",
+   "2027-02-22",
+   "2027-03-16",
+   "2027-03-31",
+   "2027-05-28",
+   "2027-06-01",
+   "2028-01-31",
+   "2028-12-19",
+   "2029-01-31",
+   "2029-02-01",
+   "2029-03-31"
+  ],
+  "partners": [
+   "Ekobrottsmyndigheten",
+   "Folkhälsomyndigheten",
+   "Försäkringskassan",
+   "Kammarkollegiet",
+   "Läkemedelsverket",
+   "Myndigheten för delaktighet",
+   "Polismyndigheten",
+   "Skatteverket",
+   "Socialstyrelsen",
+   "Tillväxtverket"
+  ],
+  "n_appropriations": 1,
+  "appropriations_total_tkr": 1086386,
+  "payment_plan_total_tkr": 1086386,
+  "md_chars": 20957
+ },
+ "layout": "standard",
+ "warnings": []
+}

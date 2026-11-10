@@ -1,0 +1,1608 @@
+{
+ "schema_version": 1,
+ "id": 27559,
+ "original_rbid": 25821,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-10-01",
+ "year": "2026",
+ "name": "Vetenskapsrådet",
+ "slug": "vetenskapsradet",
+ "department": "Utbildningsdepartementet",
+ "expenditure_areas": [
+  16
+ ],
+ "registry_numbers": [
+  "U2026/01705"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1",
+   "2025/26:99"
+  ],
+  "bet": [
+   "2025/26:FiU21",
+   "2025/26:UbU1"
+  ],
+  "rskr": [
+   "2025/2026:349",
+   "2025/26:124"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "",
+ "goals": [
+  {
+   "title": "Forskningsstöd",
+   "group": [],
+   "text": "Vetenskapsrådet ska redovisa\n\n- hur forskningsstödet har fördelats mellan olika universitet och högskolor samt olika stödformer,\n- antalet beviljade ansökningar i förhållande till totala antalet ansökningar,\n- storleken på beviljade bidrag i förhållande till storleken på sökta bidrag,\n- genomsnittlig bidragsstorlek för projektbidrag, och\n- forskares nationella och internationella mobilitet.\n\nOvanstående uppgifter ska redovisas totalt för Vetenskapsrådet och fördelat per ämnesområde. Återrapporteringen ska där så är möjligt redovisas i form av tidsserier för de fem senaste budgetåren.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "universitet och högskolor"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "fördela_medel",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "hur forskningsstödet har fördelats mellan olika universitet och högskolor samt olika stödformer,",
+    "antalet beviljade ansökningar i förhållande till totala antalet ansökningar,",
+    "storleken på beviljade bidrag i förhållande till storleken på sökta bidrag,",
+    "genomsnittlig bidragsstorlek för projektbidrag, och",
+    "forskares nationella och internationella mobilitet."
+   ],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27559:goals:0"
+  },
+  {
+   "title": "Kliniska studier",
+   "group": [],
+   "text": "Vetenskapsrådet ska redogöra för arbetet med kliniska studier. Redogörelsen ska innefatta en beskrivning av hur myndigheten verkar för att stödja och utveckla förutsättningarna för kliniska studier i Sverige och hur medel fördelas för ändamålet. Vidare ska myndigheten redogöra för hur stödet bidrar till att utveckla samarbetet inom hälso- och sjukvårdens nationella samordning av kliniska studier samt hur myndigheten arbetar för att kunna redovisa statistik, analys och uppföljning inom området.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "fördela_medel",
+    "utveckla",
+    "statistik_data"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27559:goals:1"
+  },
+  {
+   "title": "Funktion för nyttjande av hälsodata",
+   "group": [],
+   "text": "Vetenskapsrådet ska redovisa arbetet med den rådgivande funktionen för nyttjande av hälsodata, hur funktionen används och utvecklas samt hur samverkan sker med relevanta myndigheter och andra aktörer.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27559:goals:2"
+  },
+  {
+   "title": "Uppföljning av utbetalade bidrag",
+   "group": [],
+   "text": "Vetenskapsrådet ska redovisa myndighetens uppföljning av de ekonomiska återrapporteringar som har inkommit från bidragsmottagarna.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "fördela_medel"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27559:goals:3"
+  },
+  {
+   "title": "Internationellt forskningssamarbete",
+   "group": [],
+   "text": "Vetenskapsrådet ska redovisa vilka åtgärder som har vidtagits för att främja svenskt forskningssamarbete med USA i linje med implementeringsavtalet mellan Socialdepartementet och amerikanska Department of Health and Human Services inom cancerområdet (S2024/00594) och samarbeten med det amerikanska Department of Energy.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27559:goals:4"
+  },
+  {
+   "title": "Svenskt deltagande i Horisont Europa",
+   "group": [],
+   "text": "Vetenskapsrådet ska redovisa vilka insatser som vidtagits för att myndigheten ska bidra till de mål som anges i den nationella strategin för svenskt deltagande i Horisont Europa 2021–2027 (U2021/03975).",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27559:goals:5"
+  },
+  {
+   "title": "Tillgängliggöra data",
+   "group": [],
+   "text": "Vetenskapsrådet ska redogöra för hur myndigheten, tillsammans med Forskningsrådet för hälsa, arbetsliv och välfärd, Forskningsrådet för miljö, areella näringar och samhällsbyggande, Statens energimyndighet och Verket för innovationssystem, har bidragit till det gemensamma arbetet att ta fram specifikationer för att dela data via elektroniska format (API). Vetenskapsrådet ska särskilt redovisa åtgärder som har vidtagits i syfte att skapa en aktuell, jämförbar och samlad bild av olika finansiärers data om finansiering av forskning och innovation.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Forskningsrådet för hälsa, arbetsliv och välfärd",
+    "Forskningsrådet för miljö, areella näringar och samhällsbyggande",
+    "Statens energimyndighet",
+    "Verket för innovationssystem"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27559:goals:6"
+  },
+  {
+   "title": "Samverkan",
+   "group": [],
+   "text": "Vetenskapsrådet ska redovisa genomförda åtgärder för att bidra till ökad samverkan mellan forskare och omgivande samhälle i enlighet med propositionen Forskning, frihet, framtid – kunskap och innovation för Sverige (prop. 2020/21:60).",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27559:goals:7"
+  },
+  {
+   "title": "Informations- och cybersäkerhet",
+   "group": [],
+   "text": "Vetenskapsrådet ska övergripande redogöra för hur myndigheten har förvaltat och utvecklat sitt arbete med informations- och cybersäkerhet inbegripet den egna organisationens beredskap och möjlighet att hantera incidenter samt en beskrivning av åtgärder för att utveckla den interna styrningen och uppföljningen av arbetet. Vetenskapsrådet ska även redogöra för huruvida en analys gjorts av hot och sårbarheter för myndigheten samt om åtgärder vidtagits och hur myndigheten arbetar för att minska eventuella identifierade risker med anledning av detta.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "analysera",
+    "utveckla",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27559:goals:8"
+  },
+  {
+   "title": "Nationell strategi för life science",
+   "group": [],
+   "text": "Vetenskapsrådet ska redogöra för hur myndigheten har arbetat för att bidra till de målsättningar som anges i den nationella strategin för life science (KN2024/02228).",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27559:goals:9"
+  },
+  {
+   "title": "Uppföljning och utvärdering av forskningsinfrastrukturer",
+   "group": [],
+   "text": "Vetenskapsrådet ska redogöra för hur myndigheten arbetar med uppföljning och utvärdering av hur väl forskningsinfrastrukturer som finansieras helt eller delvis av myndigheten svarar mot forskningens och samhällets behov.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "analysera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27559:goals:10"
+  },
+  {
+   "title": "Utvecklingsforskning",
+   "group": [],
+   "text": "Inom utvecklingsforskning, som finansieras från utgiftsområde 7 Internationellt bistånd, ska Vetenskapsrådet redovisa i enlighet med uppdraget i regeringens strategi för Sveriges utvecklingssamarbete inom forskning för fattigdomsbekämpning och hållbar utveckling 2022-2028 (UD2022/09061).",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [
+    7
+   ],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27559:goals:11"
+  },
+  {
+   "title": "Övrigt",
+   "group": [],
+   "text": "Vetenskapsrådet ska redovisa\n\n- hur rådet har arbetat med bevakning av försöksdjursvetenskap och utveckling av området, och\n- myndighetens finansiering av driften vid den nationella forskningsanläggningen MAX IV-laboratoriet vid Lunds universitet, varvid kostnader för lokaler, el, värme och vatten ska redovisas särskilt.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Lunds universitet"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "hur rådet har arbetat med bevakning av försöksdjursvetenskap och utveckling av området, och",
+    "myndighetens finansiering av driften vid den nationella forskningsanläggningen MAX IV-laboratoriet vid Lunds universitet, varvid kostnader för lokaler, el, värme och vatten ska redovisas särskilt."
+   ],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27559:goals:12"
+  }
+ ],
+ "org": [],
+ "assignments": [
+  {
+   "title": "Det strategiska arbetet med European Spallation Source ERIC och MAX IV",
+   "group": [],
+   "text": "Vetenskapsrådet ska bistå Regeringskansliet i frågor kopplade till Sveriges värdskap för European Spallation Source ERIC (ESS) genom att:\n\n- tillhandahålla strategiskt och operativt stöd i internationella förhandlingar, bedriva strategiskt påverkansarbete för att långsiktigt främja ESS utveckling,\n- tillhandahålla kostnadsberäkningar, analyser och underlag kopplat till värdskapet och inför ESS Council-möten,\n- identifiera och verka för synergier mellan det svenska värdskapsarbetet för ESS och nationella insatser rörande ESS och MAX IV, bland annat genom att främja möjligheterna för svenska aktörer att bidra till ESS inom ramen för det svenska medlemsbidraget och genom att genomföra åtgärder för att stimulera en bred svensk användning av anläggningarna, och\n- stödja systematisk uppbyggnad av kunskap och kompetens för utveckling och användning av anläggningarna inom universitet och högskolor, näringsliv och andra sektorer i syfte att främja och möjliggöra vetenskaplig och samhällelig nytta av ESS och MAX IV.\n\nVetenskapsrådet ska i en årlig rapport senast den 1 februari redovisa arbetet och göra en sammanfattning av utvecklingen.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "universitet och högskolor"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna",
+    "utveckla",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "tillhandahålla strategiskt och operativt stöd i internationella förhandlingar, bedriva strategiskt påverkansarbete för att långsiktigt främja ESS utveckling,",
+    "tillhandahålla kostnadsberäkningar, analyser och underlag kopplat till värdskapet och inför ESS Council-möten,",
+    "identifiera och verka för synergier mellan det svenska värdskapsarbetet för ESS och nationella insatser rörande ESS och MAX IV, bland annat genom att främja möjligheterna för svenska aktörer att bidra till ESS inom ramen för det svenska medlemsbidraget och genom att genomföra åtgärder för att stimulera en bred svensk användning av anläggningarna, och",
+    "stödja systematisk uppbyggnad av kunskap och kompetens för utveckling och användning av anläggningarna inom universitet och högskolor, näringsliv och andra sektorer i syfte att främja och möjliggöra vetenskaplig och samhällelig nytta av ESS och MAX IV."
+   ],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27559:assignments:0"
+  },
+  {
+   "title": "Drift och förvaltning för inloggning till provtjänst för digitala nationella prov",
+   "group": [],
+   "text": "Vetenskapsrådet har i regleringsbrev för 2024 fått uppdrag att möjliggöra den tekniska driften och förvaltningen av lösningar för inloggning till Statens skolverks provtjänst för digitala nationella prov. Uppdraget ändras på så sätt att uppdragstiden förlängs till den 30 juni 2028. Vetenskapsrådet får för detta uppdrag årligen för 2026, 2027 respektive 2028 fakturera Skolverket högst 12 000 000 kronor senast den 1 december respektive år. Vidare ändras uppdraget på så sätt att uppdraget ska delredovisas till Regeringskansliet (Utbildningsdepartementet) senast den 1 oktober 2026 och 2027 och slutredovisas till Regeringskansliet (Utbildningsdepartementet) senast den 31 december 2028.",
+   "dates": [
+    "2026-10-01",
+    "2028-06-30",
+    "2028-12-31"
+   ],
+   "deadlines": [
+    "2026-10-01",
+    "2028-12-31"
+   ],
+   "recipients": [
+    "Regeringskansliet (Utbildningsdepartementet)",
+    "Statens skolverk"
+   ],
+   "partners": [
+    "Statens skolverk"
+   ],
+   "channels": [
+    "delredovisning",
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27559:assignments:1"
+  },
+  {
+   "title": "Forskningsprogram om det civila samhället",
+   "group": [],
+   "text": "Vetenskapsrådet ska genomföra ett flervetenskapligt grundforskningsprogram om det civila samhället i enlighet med vad som anges i propositionen En politik för det civila samhället (prop. 2009/10:55, bet. 2009/10:KrU7, rskr. 2009/10:195). Under 2026 disponerar Vetenskapsrådet 10 000 000 kronor för grundforskningsprogrammet från det under utgiftsområde 17 för budgetåret 2026 uppförda anslaget 12:5*Insatser för den ideella sektorn*, anslagspost 1 Forskningsprogram om det civila samhället. Av medlen får högst 400 000 kronor användas för administrativa kostnader. Vetenskapsrådet ska senast den 31 mars 2027 till Regeringskansliet (Socialdepartementet och Utbildningsdepartementet) redovisa vilka bidrag som under 2026 har beviljats för forskningsprojekt, forskningsmiljöer och anställningar som postdok, inklusive uppgift om forskningens inriktning.",
+   "dates": [
+    "2027-03-31"
+   ],
+   "deadlines": [
+    "2027-03-31"
+   ],
+   "recipients": [
+    "Regeringskansliet (Socialdepartementet och Utbildningsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla"
+   ],
+   "anslag_refs": [
+    "12:5"
+   ],
+   "expenditure_area_refs": [
+    17
+   ],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27559:assignments:2"
+  },
+  {
+   "title": "Statistiska underlag 1",
+   "group": [],
+   "text": "Vetenskapsrådet ska redovisa och kommentera statistiska data för perioden 2005–2025 när det gäller följande indikatorer:\n\n- Antalet vetenskapliga artiklar i Sverige och andra länder.\n- Andelen publikationer bland de tio procent högst citerade för de högst citerade länderna inklusive Sverige.\n- Andelen publikationer bland de tio procent högst citerade för olika vetenskapsområden i Sverige.\n\nUppdraget ska redovisas till Regeringskansliet (Utbildningsdepartementet) senast den 30 april 2026.",
+   "dates": [
+    "2026-04-30"
+   ],
+   "deadlines": [
+    "2026-04-30"
+   ],
+   "recipients": [
+    "Regeringskansliet (Utbildningsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "statistik_data"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "Antalet vetenskapliga artiklar i Sverige och andra länder.",
+    "Andelen publikationer bland de tio procent högst citerade för de högst citerade länderna inklusive Sverige.",
+    "Andelen publikationer bland de tio procent högst citerade för olika vetenskapsområden i Sverige."
+   ],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27559:assignments:3"
+  },
+  {
+   "title": "Statistiska underlag 2",
+   "group": [],
+   "text": "Vetenskapsrådet ska bistå regeringen med underlag för att följa upp de forskningspolitiska delmålen. Detta innebär bl.a. att ta fram statistiska data för svensk forsknings internationella attraktivitet och omfattningen av investeringarna inom forskning och utveckling för Sverige och andra länder samt kommentera dessa. Dessutom ska statistiska data tas fram och kommenteras för forskningens kvalitetsförstärkning, inklusive utfall inom EU:s forskningsfinansiering, och jämställdhet inom universitet och högskolor, internationalisering, samt högskolesektorns FoU-utgifter som andel av BNP i relation till andelen högciterade publikationer. På sikt ska även forskares mobilitet i relation till högciterade artiklar redovisas. Uppdraget ska redovisas till Regeringskansliet (Utbildningsdepartementet) senast den 30 april 2026.",
+   "dates": [
+    "2026-04-30"
+   ],
+   "deadlines": [
+    "2026-04-30"
+   ],
+   "recipients": [
+    "Regeringskansliet (Utbildningsdepartementet)"
+   ],
+   "partners": [
+    "universitet och högskolor"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27559:assignments:4"
+  },
+  {
+   "title": "Artificiell intelligens och ny teknik",
+   "group": [],
+   "text": "Vetenskapsrådet ska redovisa hur myndigheten arbetar datadrivet och hur arbetet med data och AI har bidragit till att utveckla verksamheten. Av redovisningen ska framgå hur myndigheten beaktar risker och arbetar för att användningen av data och AI sker på ett etiskt och säkert sätt. Även eventuella hinder och framgångsfaktorer för datadrivet arbete och användande av AI-teknik ska redovisas. Uppdraget ska redovisas till Regeringskansliet (Utbildningsdepartementet) senast den 15 oktober 2026.",
+   "dates": [
+    "2026-10-15"
+   ],
+   "deadlines": [
+    "2026-10-15"
+   ],
+   "recipients": [
+    "Regeringskansliet (Utbildningsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla",
+    "statistik_data",
+    "digitalisering_ai"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27559:assignments:5"
+  },
+  {
+   "title": "Information till forskare om värdet och hantering av immateriella tillgångar",
+   "group": [],
+   "text": "Vetenskapsrådet ska sprida kunskap, i de utlysningar där det är relevant, om värdet och hantering av immateriella tillgångar, inkl. immaterialrättsligt skydd, hos de aktörer som söker om samt tilldelas forskningsmedel. Uppdraget ska redovisas i årsredovisningen för 2026.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "årsredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "informera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27559:assignments:6"
+  },
+  {
+   "title": "Drift av de svenska förbindelsepunkterna för gränsöverskridande elektronisk identifiering samt tillhörande infrastruktur",
+   "group": [],
+   "text": "Vetenskapsrådet ska ingå en överenskommelse med Myndigheten för digital förvaltning om att Vetenskapsrådet ska sköta it-driften av de svenska förbindelsepunkterna (noderna) för gränsöverskridande elektronisk identifiering och tillhörande infrastruktur t.o.m. den 31 december 2027. Överenskommelsen ska bl.a. innehålla villkoren för den ersättning som Myndigheten för digital förvaltning ska betala till Vetenskapsrådet.",
+   "dates": [
+    "2027-12-31"
+   ],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Myndigheten för digital förvaltning"
+   ],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27559:assignments:7"
+  },
+  {
+   "title": "Prognoser",
+   "group": [],
+   "text": "Vetenskapsrådet ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Prognoserna lämnas i informationssystemet Hermes senast den\n\n– 2 februari,\n\n– 22 april,\n\n– 24 juli, och\n\n– 9 november.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27559:assignments:8"
+  },
+  {
+   "title": "Prognos för beställningsbemyndiganden",
+   "group": [],
+   "text": "Vetenskapsrådet ska redovisa en prognos för de förslag om beställningsbemyndiganden som lämnats i budgetunderlaget och för de åtaganden som ingåtts med stöd av äldre beställningsbemyndiganden. Prognosen ska lämnas senast den 24 juli 2026 via Statsredovisningssystemet i Hermes och utformas enligt närmare information från Statskontoret.",
+   "dates": [
+    "2026-07-24"
+   ],
+   "deadlines": [
+    "2026-07-24"
+   ],
+   "forecast_dates": [],
+   "recipients": [],
+   "partners": [
+    "Statskontoret"
+   ],
+   "channels": [
+    "hermes",
+    "budgetunderlag"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27559:assignments:9"
+  },
+  {
+   "title": "Uppdrag med anledning av Forskning och innovation för framtid, nyfikenhet och nytta",
+   "group": [],
+   "text": "Följande uppdrag ges med anledning av propositionen Forskning och innovation för framtid, nyfikenhet och nytta (prop. 2024/25:60).",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27559:assignments:10"
+  },
+  {
+   "title": "Ett nytt program för banbrytande forskning",
+   "group": [
+    "Uppdrag med anledning av Forskning och innovation för framtid, nyfikenhet och nytta"
+   ],
+   "text": "Vetenskapsrådet får i uppdrag att, i enlighet med förslag i myndighetens redovisning av uppdraget Förslag på program för banbrytande forskning (U2025/02117), etablera ett nytt program för banbrytande forskning för att främja vetenskapligt risktagande och forskningsgenombrott på högsta internationella nivå. Syftet på sikt är fler svenska forskningsgenombrott i Nobelprisklass. Uppdraget ska redovisas årligen i årsredovisningen.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "årsredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27559:assignments:11"
+  },
+  {
+   "title": "Ett vidareutvecklat bedömningssystem för forskning",
+   "group": [
+    "Uppdrag med anledning av Forskning och innovation för framtid, nyfikenhet och nytta"
+   ],
+   "text": "Vetenskapsrådet får i uppdrag att samordna, främja och följa upp det nationella arbetet med en gemensam riktning för ett vidareutvecklat gemensamt bedömningssystem för hur forskning bedöms och värderas. Uppdraget ska redovisas i årsredovisningen för 2026.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "årsredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27559:assignments:12"
+  },
+  {
+   "title": "Analys av jämställdhet och främjande av kvalitet",
+   "group": [
+    "Uppdrag med anledning av Forskning och innovation för framtid, nyfikenhet och nytta"
+   ],
+   "text": "För att Sverige fortsatt ska vara en ledande kunskaps- och forskningsnation måste lika villkor för likartat arbete och meriter gälla för kvinnor och män. Vetenskapsrådet ska därför tillsammans med Universitetskanslersämbetet analysera jämställdheten vid svenska universitet och högskolor, i syfte att identifiera kvalitetsrisker och goda exempel på åtgärder som främjar kvalitet i forskning och utbildning. Vetenskapsrådet ska särskilt ansvara för analysen av jämställdhet kopplat till forskningskvalitet och Universitetskanslersämbetet ska särskilt ansvara för analysen av jämställdhet kopplat till utbildningskvalitet. Uppdraget ska redovisas av Universitetskanslersämbetet senast den 1 februari 2027 till Regeringskansliet (Utbildningsdepartementet).\n\nFör uppdraget får Vetenskapsrådet under 2026 använda 1 000 000 kronor som ska redovisas mot det under utgiftsområde 13 Integration och jämställdhet uppförda anslaget 3:1*Särskilda jämställdhetsåtgärder*, anslagsposten 12 – Jämställdhetsinsatser efter regeringsbeslut. Medlen betalas ut efter rekvisition till Kammarkollegiet senast den 1 december 2026. Medel som inte har använts för avsett ändamål ska återbetalas senast den 31 mars 2027 till Kammarkollegiet. Vid samma tidpunkt ska en ekonomisk redovisning av använda medel lämnas till Kammarkollegiet. Redovisning, rekvisition och återbetalning ska hänvisa till diarienumret för detta beslut.",
+   "dates": [
+    "2026-12-01",
+    "2027-02-01",
+    "2027-03-31"
+   ],
+   "deadlines": [
+    "2026-12-01",
+    "2027-02-01",
+    "2027-03-31"
+   ],
+   "recipients": [
+    "Kammarkollegiet",
+    "Regeringskansliet (Utbildningsdepartementet)"
+   ],
+   "partners": [
+    "Kammarkollegiet",
+    "Universitetskanslersämbetet",
+    "universitet och högskolor"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera"
+   ],
+   "anslag_refs": [
+    "3:1"
+   ],
+   "expenditure_area_refs": [
+    13
+   ],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27559:assignments:13"
+  },
+  {
+   "title": "Tidigare givna uppdrag i regleringsbrev eller särskilda regeringsbeslut",
+   "group": [],
+   "text": "| | | |\n| --- | --- | --- |\n| Uppdrag | Beslut om uppdraget | Redovisningstidpunkt |\n| Uppdrag avseende forskning om rasism | U2016/00588 | Årligen den 1 mars |\n| Uppdrag att inrätta nationella forskningsprogram | U2017/02404 | Årligen den 1 mars |\n| Uppdrag att inrätta nationellt forskningsprogram inom antibiotikaresistens samt inom migration och integration | U2017/02405 Regleringsbrev för 2021 Regleringsbrev för 2025 | Årligen den 1 mars |\n| Uppdrag att inrätta nya nationella forskningsprogram inom områdena virus och pandemier, brottslighet, segregation samt digitaliseringens samhälleliga konsekvenser | Regleringsbrev för 2021 Regleringsbrev för 2025 | Årligen den 1 mars |\n| Uppdrag att ansvara för Europeiska unionens ramprogram för forskning och innovation (Horisont Europa) och för Euratoms forsknings- och utbildningsprogram | U2021/01620 | - |\n| Uppdrag om nationella kontaktpunkter för Europeiska unionens ramprogram för forskning och innovation och Europeiska atomenergigemenskapens forsknings- och utbildningsprogram | U2021/01835 | - |\n| Uppdrag att genomföra en forskningssatsning om Förintelsen och antisemitism | Regleringsbrev för 2022 | Årligen den 31 mars t.o.m. 2028 |\n| Uppdrag att kommunicera information om svenskt stöd till forskare från Ukraina (Uppdraget förlängs) | Regleringsbrev för 2022 | Den 30 september 2026 |\n| Uppdrag om fusionsforskning inom Euroatom | Regleringsbrev för 2022 | - |\n| | | |\n| Uppdrag att stärka forskning och innovation för sjätte generationens trådlösa system (6G) | U2024/00713 | Årligen den 31 mars t.o.m. 2027 |\n| Bemyndigande och uppdrag att bilda och förvalta aktiebolag | U2024/02291 | Årligen senast den 31 januari t.o.m. 2026 |\n| Uppdrag om riktlinjer för ansvarsfull internationalisering vid utbildnings-, forsknings-, och innovationssamarbeten | U2025/01518 | I årsredovisning för åren 2025 och 2026 |\n| Uppdrag om utlysning, kvalitetsutvärdering och bedömning av strategiska forskningsområden | U2025/00730 | Den 31 mars 2026 |\n| Uppdrag att utveckla och redovisa kvalitetsindikatorer | U2025/01143 | Årligen senast den 30 april t.o.m. 2028 |\n| Uppdrag att inrätta ett program för strategisk rekrytering | U2025/01318 | Den 1 juni 2027 och senast den 15 januari 2028 |\n| Uppdrag att inrätta ett program för excellenskluster för banbrytande teknik | U2025/01359 | Årligen den 1 februari |\n| Uppdrag att nationellt samordna arbetet med att främja användningen av artificiell intelligens inom forskningen | U2025/01836 | Årligen senast den 1 mars t.o.m. 2028 |\n| Information om svenskt stöd till forskare verksamma utanför Europa | Regleringsbrev för 2025 | I årsredovisningen för 2026 |\n| Riktlinjer i enlighet med NIS 2-direktivet | Regleringsbrev för 2025 | Den 15 maj 2026 |\n| Uppdrag avseende Bildningslyftet 2.0 | Regleringsbrev för 2025 | Årligen i årsredovisningen |\n| Uppdrag avseende forskning om kvinnors hälsa och sjukdomar | Regleringsbrev för 2025 | Årligen i årsredovisningen |\n| Uppdrag avseende stärkt forskning inom primärvården | Regleringsbrev för 2025 | Årligen i årsredovisningen |\n| Uppdrag att inrätta ett forskningsprogram inom life science med fokus på precisionsmedicin | Regleringsbrev för 2025 | Årligen i årsredovisningen |\n| Uppdrag att inrätta ett program för grundforskning inom området metaller och mineral | Regleringsbrev för 2025 | Årligen i årsredovisningen |\n| Uppdrag avseende kärnteknisk grundforskning | Regleringsbrev för 2025 | Årligen i årsredovisningen |\n| Uppdrag avseende forskning om mäns våld mot kvinnor och hedersrelaterat våld och förtryck | Regleringsbrev för 2025 | Årligen i årsredovisningen |\n| Uppdrag avseende forskning om demokrati, samhällelig motståndskraft och reformprocesser | Regleringsbrev för 2025 | Årligen i årsredovisningen |\n| Uppdrag att utforma en nationell polarforskarskola | Regleringsbrev för 2025 | Årligen i årsredovisningen |\n| Uppdrag att stödja utvecklingen av Polar Connect | Regleringsbrev för 2025 | Löpande redovisning |\n| Uppdrag avseende European High Performance Computing (EuroHPC) | Regleringsbrev för 2025 | Årligen i årsredovisningen |\n| Uppdrag avseende Nationell akademisk infrastruktur för superdatorer i Sverige (NAISS) | Regleringsbrev för 2025 | Årligen i årsredovisningen |\n| Uppdrag avseende ett gemensamt ansöknings- och ärendehanteringssystem | Regleringsbrev för 2025 | Senast den 1 februari 2026 |\n| Uppdrag avseende stärkta incitament för deltagande i EU:s ramprogram för forskning och innovation med fokus på pelare 1 | Regleringsbrev för 2025 | Årligen i årsredovisningen |\n| Uppdrag att lämna förslag om utveckling av finansieringsinstrumentet nationella forskningsprogram | U2025/02083 | Den 1 juni 2026 |\n| Uppdrag om nationell samverkan och handlingsplan för arbetet mot antimikrobiell resistens | S2025/01938 | Den 31 december 2030 |\n| Uppdrag till Forskningsrådet för miljö, areella näringar och samhällsbyggande, Forskningsrådet för hälsa, arbetsliv och välfärd och Vetenskapsrådet att ansvara för utvärderingar av nationella forskningsprogram | U2025/02339 | Den 31 augusti 2027 |\n\n*För regeringsuppdrag som lämnats i ett särskilt regeringsbeslut utgör tabellen endast en upplysning om vilka uppdrag som vid årets början var riktade till myndigheten och vilka tider som då gällde för återrapportering eller liknande.*",
+   "dates": [
+    "2026-02-01",
+    "2026-03-31",
+    "2026-05-15",
+    "2026-06-01",
+    "2026-09-30",
+    "2027-06-01",
+    "2027-08-31",
+    "2028-01-15",
+    "2030-12-31"
+   ],
+   "deadlines": [
+    "2026-02-01",
+    "2028-01-15"
+   ],
+   "recipients": [
+    "Forskningsrådet för miljö, areella näringar och samhällsbyggande"
+   ],
+   "partners": [
+    "Forskningsrådet för hälsa, arbetsliv och välfärd",
+    "Forskningsrådet för miljö, areella näringar och samhällsbyggande"
+   ],
+   "channels": [
+    "årsredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "föreslå",
+    "samordna",
+    "utveckla",
+    "statistik_data",
+    "digitalisering_ai",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "27559:assignments:14"
+  },
+  {
+   "title": "Pilotprojekt för nytt ansökningssystem",
+   "group": [],
+   "text": "Vetenskapsrådet ska i samarbete med Vinnova och i nära dialog med de primära forskningsfinansiärerna samt målgrupper som exempelvis universitet och högskolor, forskningsinstitut och företag, genomföra ett pilotprojekt för ett nytt gemensamt ansökningssystem för finansiering av forskning och innovation. Myndigheterna ska i pilotprojektet fokusera på hur ansöknings- och beredningsprocessen kan göras enklare och mer sammanhängande, tillhandahålla data som möjliggör uppföljning och utvärdering av finansierade insatser, samt säkerställa säker hantering av information. Pilotstudien ska också bidra till ökad förståelse för tekniska och organisatoriska förutsättningar och krav för ett gemensamt system. I arbetet ska erfarenheter från andra myndigheter och aktörer inhämtas. Uppdraget ska redovisas till Regeringskansliet (Utbildningsdepartementet) senast den 1 februari 2027.",
+   "dates": [
+    "2027-02-01"
+   ],
+   "deadlines": [
+    "2027-02-01"
+   ],
+   "recipients": [
+    "Regeringskansliet (Utbildningsdepartementet)"
+   ],
+   "partners": [
+    "Verket för innovationssystem",
+    "universitet och högskolor"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27559:assignments:15"
+  },
+  {
+   "title": "Nyttiggörande av grundforskning",
+   "group": [],
+   "text": "Vetenskapsrådet ska ta fram en analys, inkluderande en genomlysning av internationell litteratur och rapporter, över på vilka sätt grundläggande forskning av högsta vetenskapliga kvalitet idag nyttiggörs inom universitet och högskola, övrig offentlig sektor, näringsliv och samhället i stort. I arbetet ska erfarenheter från andra forskningsfinansiärer samt ett urval av universitet och högskolor inhämtas. Med utgångspunkt i den analysen kan Vetenskapsrådet föreslå finansieringsinstrument eller andra åtgärder som kan bidra till att resultat av grundforskning kommer till än större nytta och att detta sker med hög kvalitet. Där det är möjligt ska indikatorer tas fram för att följa upp nyttiggörande av grundforskning. Uppdraget ska redovisas till Regeringskansliet (Utbildningsdepartementet) senast den 1 september 2027.",
+   "dates": [
+    "2027-09-01"
+   ],
+   "deadlines": [
+    "2027-09-01"
+   ],
+   "recipients": [
+    "Regeringskansliet (Utbildningsdepartementet)"
+   ],
+   "partners": [
+    "universitet och högskolor"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "föreslå",
+    "statistik_data",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27559:assignments:16"
+  },
+  {
+   "title": "Förlängning av nationella forskningsprogram",
+   "group": [],
+   "text": "Vetenskapsrådet fick 2017 i uppdrag att inrätta tioåriga nationella forskningsprogram inom områdena antibiotikaresistens samt migration och integration (U2017/02405/F). Uppdraget ändras på så sätt att programperioden förlängs med två år och pågår därmed t.o.m. 2028.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27559:assignments:17"
+  },
+  {
+   "title": "Forskarskola inom kognitionsvetenskap",
+   "group": [],
+   "text": "För att stärka implementeringen av en reformerad lärarutbildning ska Vetenskapsrådet förbereda för att fördela medel för att fr.o.m. 2027 finansiera en forskarskola i kognitionsvetenskap med relevans för lärarutbildningarna. Utlysningen ska beredas gemensamt av utbildningsvetenskapliga kommittén, ämnesrådet för humaniora och samhällsvetenskap samt ämnesrådet för medicin och hälsa. Av de medel som Vetenskapsrådet tilldelas för att finansiera forskning inom utbildningsvetenskap beräknas 10 miljoner kronor avsättas för forskarskolan 2027 och fr.o.m. 2028 beräknas 20 miljoner kronor avsättas för samma ändamål.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "fördela_medel",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27559:assignments:18"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "3:1",
+   "name": "Vetenskapsrådet: Forskning och forskningsinformation",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 16,
+    "name": "Utbildning och universitetsforskning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Vetenskapsrådet",
+     "amount_tkr": 8021296,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Kliniska studier (ram)",
+       "amount_tkr": 50000
+      },
+      {
+       "ap": "5",
+       "name": "Forskningsfinansiering och forskningsinfrastruktur (ram)",
+       "amount_tkr": 7831296
+      },
+      {
+       "ap": "6",
+       "name": "Klinisk behandlingsforskning (ram)",
+       "amount_tkr": 140000
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Kliniska studier",
+     "text": "Medlen under anslagsposten ska användas för att stödja och utveckla förutsättningarna för kliniska studier i Sverige. För myndighetens arbete får högst 12 000 000 kronor användas. Resterande medel ska användas till den nationella samordningen av kliniska studier samt fördelas till hälso- och sjukvårdsregionerna för deras arbete med stöd för kliniska studier."
+    },
+    {
+     "ap": "5",
+     "name": "Forskningsfinansiering och forskningsinfrastruktur",
+     "text": "**1. Från anslagsposten bör minst – 343 000 000 kronor finansiera forskning inom humaniora och samhällsvetenskap, – 884 000 000 kronor finansiera forskning inom medicin och hälsa, – 1 066 000 000 kronor finansiera forskning inom naturvetenskap och teknikvetenskap, och – 159 000 000 kronor finansiera forskning inom utbildningsvetenskap.**\nForskningsmedel för nationell verksamhet får utbetalas med högst en tolftedel av anslagsposten före utgången av varje månad.\n**2. Anslagsposten ska, förutom olika former av stöd för forskning och internationellt forskningssamarbete, finansiera utvärderingar, beredningsarbete, konferenser samt vissa resor och seminarier som är kopplade till forskningsstödet.**\n**3. Bidrag för forskningsprojekt vid universitet och högskolor ska omfatta medel för de direkta och de indirekta kostnaderna i samma proportioner som beräknats för projektet i dess helhet.**\n**4. Anslagsposten får användas för stipendier till forskarstuderande vid Europeiska universitetsinstitutet (EUI) som är avsedda att vara ett alternativ till lön eller annan form av studiefinansiering.**\n**5. Anslagsposten ska finansiera utgifter för följande gästprofessurer: – en anställning benämnd Olof Palmes gästprofessur som ska inriktas mot områden av betydelse för fredssträvanden i vid bemärkelse, – en anställning benämnd Kerstin Hesselgrens gästprofessur som ska innehas av en framstående kvinnlig forskare, och – en anställning benämnd Tage Erlanders gästprofessur som får utses inom naturvetenskap och teknikvetenskap.**\n**6. Medel som har beviljats av Vetenskapsrådet för anskaffning och förnyelse av dyrbar vetenskaplig utrustning får utbetalas med hälften före utgången av varje halvår. Vidare ska Vetenskapsrådet betala ut bidrag i en takt motsvarande avskrivningstiden och betala räntekostnaden för lånefinansierad utrustning.**\n**7. Anslagsposten ska finansiera Sveriges deltagande i Nordiska samarbetsnämnden (NOS).**\n**8. Anslagsposten ska finansiera del av driften vid de nationella forskningsanläggningarna MAX IV-laboratoriet vid Lunds universitet och Onsala rymdobservatorium vid Chalmers Tekniska Högskola Aktiebolag.**\n**9. Av de medel som har tillförts Vetenskapsrådet för finansiering av ESS i enlighet med vad som presenterades i forsknings- och innovationspropositionerna 2008, 2012 och 2020 (prop. 2008/09:50, prop. 2012/13:30 och prop. 2020/21:60) och budgetpropositionerna för 2015, 2017, 2022 och 2023 (prop. 2014/15:1, prop. 2016/17:1, prop. 2021/22:1 och prop. 2022/23:1), ska 470 000 000 kronor användas 2026 för bidrag till ESS. Utbetalning av det totala beloppet ska ske senast den 31 januari 2026. Därutöver får högst 4 000 000 kronor användas för finansiering av Vetenskapsrådets stödfunktion för Sveriges värdskap för ESS.**\n**10. Anslagsposten ska finansiera utgifter för Sveriges deltagande i och bidrag för – den europeiska röntgenfrielektronlasern (XFEL), – den europeiska tungjonsacceleratorn (FAIR), och – den europeiska organisationen för astronomisk forskning rörande den södra stjärnhimlen (ESO).**\n**11. Anslagsposten ska finansiera forskning som drivs i samarbete med Italien, med Tyskland om materialforskning och strukturbiologi, med Frankrike inom klimat-, kärn- och neutronområdet och utveckling av synkrotronljusanläggningar samt med Schweiz om frielektronlaser och neutronforskning.**\n**12. Från anslagsposten får högst 5 000 000 kronor användas för ett ovillkorat kapitaltillskott till EISCAT AB.**\n**13. Från anslagsposten ska minst 80 000 000 kronor användas för att finansiera den svenska AI-fabriken Mimer vid Linköpings universitet.**\n**14. Från anslagsposten ska högst 35 000 000 kronor användas för att finansiera utgifter avseende strategiska dataresurser för registerbaserad forskning.**\n**15. Från anslagsposten ska minst 12 000 000 kronor användas för uppdraget om forskning om Förintelsen och antisemitism.**\n**16. Från anslagsposten ska minst 20 000 000 kronor användas för uppdraget om forskning om rasism.**\n**17. Från anslagsposten ska minst 65 000 000 kronor användas för ett forsknings- och innovationsprogram inom sjätte generationens trådlösa system (6G).**\n**18. Från anslagsposten ska 15 000 000 kronor användas för forskning om och utveckling av alternativa metoder till djurförsök. Utlysningen av medlen ska ske efter samråd med Jordbruksverket. Högst 2 000 000 kronor får användas för att bidra till svenska laboratoriers deltagande i valideringsprojekt av alternativa metoder till djurförsök.**\n**19. Medel från anslagsposten ska användas för följande satsningar i enlighet med vad som presenterades i regeringens propositioner Kunskap i samverkan – för samhällets utmaningar och stärkt konkurrenskraft (prop. 2016/17:50), Forskning, frihet, framtid – kunskap och innovation för Sverige (prop. 2020/21:60) och Forskning och innovation för framtid, nyfikenhet och nytta (prop. 2024/25:60), varav minst – 240 000 000 kronor för excellenscentrum, – 75 000 000 kronor för banbrytande forskning, – 265 000 000 kronor för excellenskluster för banbrytande teknik, – 10 000 000 kronor för ökat deltagande i ERC och MSCA, – 480 000 000 kronor för forskningsinfrastrukturer, – 40 000 000 kronor för ökat nyttjande av forskningsinfrastrukturer, – 35 000 000 kronor för vetenskaplig och samhällelig nytta av ESS och MAX IV, – 110 000 000 kronor för finansiering av MAX IV, – 50 000 000 kronor för den nationella superdatorinfrastrukturen NAISS, – 25 000 000 kronor för Polar Connect, – 10 000 000 kronor för deltagande i EuroHPC och svenskt värdskap för superdatorn Arrhenius, – 75 000 000 kronor för strategisk rekrytering, – 55 000 000 kronor för biobanker och register, varav minst 5 000 000 kronor till Biobank Sverige, – 95 000 000 kronor för forskning som bidrar till utveckling av precisionsmedicin, – 70 000 000 kronor för uppbyggnad och utveckling av forskningskompetens inom primärvården, varav minst 3 000 000 kronor avsätts till forskarskolan i allmänmedicin, – 10 000 000 kronor för hälsodata, – 30 000 000 kronor för psykiatriforskning, – 10 000 000 kronor för forskning om kvinnors hälsa och sjukdomar, – 100 000 000 kronor för ett nationellt forskningsprogram inom virus och pandemier, – 100 000 000 kronor för ett nationellt forskningsprogram om antibiotikaresistens, varav minst 25 000 000 kronor avsätts till den plattform för antibiotikautveckling som finns vid Uppsala universitet, – 30 000 000 kronor för ett nationellt forskningsprogram inom migration och integration, – 30 000 000 kronor för ett nationellt forskningsprogram inom segregation, – 75 000 000 kronor för ett nationellt forskningsprogram inom brottslighet, – 15 000 000 kronor för grundforskning inom området metaller och mineral, – 20 000 000 kronor för kärnteknisk grundforskning, – 35 000 000 kronor för forskning om informations- och cybersäkerhet, – 40 000 000 kronor för digitaliseringens samhälleliga konsekvenser, – 55 000 000 kronor för forskning om säkra samhällen, – 20 000 000 kronor för forskning om demokrati, samhällelig motståndskraft och reformprocesser, – 15 000 000 kronor för forskning om mäns våld mot kvinnor och hedersrelaterat våld och förtryck, – 35 000 000 kronor för ett bildningslyft inom humaniora, – 15 000 000 kronor för konstnärlig forskning, – 140 000 000 kronor för forskarskolor riktade mot lärare på lärarutbildningarna, – 65 000 000 kronor för forskarskolor riktade mot lärare på hälso- och sjukvårdsutbildningarna, – 30 000 000 kronor för forskarskolor inom humaniora och samhällsvetenskap, och – 10 000 000 kronor för en nationell polarforskarskola.**"
+    },
+    {
+     "ap": "6",
+     "name": "Klinisk behandlingsforskning",
+     "text": "**1. Medlen får användas av kommittén för klinisk behandlingsforskning för att finansiera forskning inom klinisk behandlingsforskning.**\n**2. Anslagsposten får användas för olika former av stöd för forskning och internationellt forskningssamarbete samt för finansiering av utvärderingar, beredningsarbeten, en rådgivande grupp, konferenser och vissa resor och seminarier som är kopplade till kommittén för klinisk behandlingsforskning. Forskningsmedel för nationell verksamhet får utbetalas med högst en tolftedel av anslagsposten före utgången av varje månad.**\n**3. Bidrag för forskningsprojekt vid universitet och högskolor ska omfatta medel för de direkta och de indirekta kostnaderna i samma proportioner som beräknats för projektet i dess helhet.**\n**4. Stipendier för doktorander som är avsedda att vara ett alternativ till lön eller annan form av studiefinansiering får inte finansieras via anslaget.**"
+    }
+   ],
+   "caps": [
+    {
+     "ap": "1",
+     "max": 12000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "5",
+     "max": 4000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "5",
+     "max": 5000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "5",
+     "max": 35000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "5",
+     "max": 2000000,
+     "unit": "kronor"
+    }
+   ]
+  },
+  {
+   "code": "3:2",
+   "name": "Vetenskapsrådet: Avgifter till internationella organisationer",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 16,
+    "name": "Utbildning och universitetsforskning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Vetenskapsrådet",
+     "amount_tkr": 472061,
+     "items": [
+      {
+       "ap": "1",
+       "name": "VR avg. t. int. org. - del till VR (ram)",
+       "amount_tkr": 472061
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "VR avg. t. int. org. - del till VR",
+     "text": "Anslaget får användas för avgifter till internationella forskningsorganisationer, t.ex.\n– den europeiska kärnforskningsorganisationen (CERN),\\\n– den europeiska konferensen för molekylärbiologi (EMBC),\\\n– det europeiska laboratoriet för molekylärbiologi (EMBL),\\\n– den europeiska synkrotronljuskällan (ESRF),\\\n– den internationella organisationen för cancerforskning under WHO (IARC), och\\\n– Europeiska universitetsinstitutet (EUI) i Florens."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "3:3",
+   "name": "Vetenskapsrådet: Förvaltning",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 16,
+    "name": "Utbildning och universitetsforskning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Vetenskapsrådet",
+     "amount_tkr": 212500,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Vetenskapsrådet: Förvaltning (ram)",
+       "amount_tkr": 212500
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Vetenskapsrådet: Förvaltning",
+     "text": "Anslagsposten får användas för Vetenskapsrådets förvaltningsutgifter."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "3:9",
+   "name": "Sunet",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 16,
+    "name": "Utbildning och universitetsforskning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Vetenskapsrådet",
+     "amount_tkr": 49183,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Sunet (ram)",
+       "amount_tkr": 49183
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Sunet",
+     "text": "Anslaget får användas för utgifter för Swedish University Computer Network (Sunet), ett datanätverk för överföring av digital information mellan universitet och högskolor och vissa andra organisationer. Anslaget får även användas för utgifter för grundanslutning till Sunet för de konstnärliga högskolorna, statliga kulturarvsinstitutioner och Kungl. biblioteket samt för de specifika kostnader Sunet har för anslutning till internationella forskningsnät.\nAnslaget får användas för finansiering av utveckling av gemensamma lösningar inom digital kommunikation och it-tjänster."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "3:10",
+   "name": "Överklagandenämnden för etikprövning",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 16,
+    "name": "Utbildning och universitetsforskning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Vetenskapsrådet",
+     "amount_tkr": 5809,
+     "items": [
+      {
+       "ap": "2",
+       "name": "Överkl.nämnd etikprö - del till Vetenskapsrådet (ram)",
+       "amount_tkr": 5809
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "2",
+     "name": "Överkl.nämnd etikprö - del till Vetenskapsrådet",
+     "text": "Anslagsposten får användas för förvaltningsutgifter för Överklagandenämnden för etikprövning."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "3:14",
+   "name": "Gentekniknämnden",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 16,
+    "name": "Utbildning och universitetsforskning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Vetenskapsrådet",
+     "amount_tkr": 5145,
+     "items": [
+      {
+       "ap": "2",
+       "name": "Gentekniknämnden - till Vetenskapsrådet (ram)",
+       "amount_tkr": 5145
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "2",
+     "name": "Gentekniknämnden - till Vetenskapsrådet",
+     "text": "Anslagsposten får användas för utgifter för Gentekniknämndens verksamhet."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "3:1 Vetenskapsrådet: Forskning och forskningsinformation",
+   "ap": "ap.1",
+   "Anslagskredit": 1500,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "3:1 Vetenskapsrådet: Forskning och forskningsinformation",
+   "ap": "ap.5",
+   "Anslagskredit": 336468,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "3:1 Vetenskapsrådet: Forskning och forskningsinformation",
+   "ap": "ap.6",
+   "Anslagskredit": 4200,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "3:2 Vetenskapsrådet: Avgifter till internationella organisationer",
+   "ap": "ap.1",
+   "Anslagskredit": 21003,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "3:3 Vetenskapsrådet: Förvaltning",
+   "ap": "ap.1",
+   "Anslagskredit": 6375,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "3:9 Sunet",
+   "ap": "ap.1",
+   "Anslagskredit": 1475,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "3:10 Överklagandenämnden för etikprövning",
+   "ap": "ap.2",
+   "Anslagskredit": 174,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "3:14 Gentekniknämnden",
+   "ap": "ap.2",
+   "Anslagskredit": 154,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 299000,
+  "Räntekontokredit": 30000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 22720
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 22720
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 22720
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 22720
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 22720
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 22720
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 22720
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 22720
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 22720
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 22720
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 22720
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 22717
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "3:1 Vetenskapsrådet: Forskning och forskningsinformation",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "1 500",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.5",
+     "336 468",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.6",
+     "4 200",
+     "Inget",
+     "0"
+    ],
+    [
+     "3:2 Vetenskapsrådet: Avgifter till internationella organisationer",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "21 003",
+     "Inget",
+     "0"
+    ],
+    [
+     "3:3 Vetenskapsrådet: Förvaltning",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "6 375",
+     "3 %",
+     "0"
+    ],
+    [
+     "3:9 Sunet",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "1 475",
+     "Inget",
+     "0"
+    ],
+    [
+     "3:10 Överklagandenämnden för etikprövning",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.2",
+     "174",
+     "3 %",
+     "0"
+    ],
+    [
+     "3:14 Gentekniknämnden",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.2",
+     "154",
+     "3 %",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Beställningsbemyndiganden",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Bemyndigande",
+     "Utgifter mot anslag till följd av ekonomiska åtaganden",
+     "",
+     "",
+     ""
+    ],
+    [
+     "2026",
+     "2027",
+     "2028",
+     "2029 -",
+     "Slutår"
+    ],
+    [
+     "3:1 Vetenskapsrådet: Forskning och forskningsinformation",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "117 000",
+     "39 000",
+     "39 000",
+     "39 000",
+     "2036"
+    ],
+    [
+     "ap.5",
+     "25 549 775",
+     "7 342 337",
+     "6 017 903",
+     "12 189 535",
+     "2036"
+    ],
+    [
+     "ap.6",
+     "312 625",
+     "129 063",
+     "93 312",
+     "90 250",
+     "2036"
+    ],
+    [
+     "3:2 Vetenskapsrådet: Avgifter till internationella organisationer",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "2 808 900",
+     "420 061",
+     "420 061",
+     "1 968 778",
+     "2031"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "299 000"
+    ],
+    [
+     "Räntekontokredit",
+     "30 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "22 720"
+    ],
+    [
+     "2026-02-25",
+     "22 720"
+    ],
+    [
+     "2026-03-25",
+     "22 720"
+    ],
+    [
+     "2026-04-25",
+     "22 720"
+    ],
+    [
+     "2026-05-25",
+     "22 720"
+    ],
+    [
+     "2026-06-25",
+     "22 720"
+    ],
+    [
+     "2026-07-25",
+     "22 720"
+    ],
+    [
+     "2026-08-25",
+     "22 720"
+    ],
+    [
+     "2026-09-25",
+     "22 720"
+    ],
+    [
+     "2026-10-25",
+     "22 720"
+    ],
+    [
+     "2026-11-25",
+     "22 720"
+    ],
+    [
+     "2026-12-25",
+     "22 717"
+    ],
+    [
+     "Summa",
+     "272 637"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "3:3 ap.1",
+     "Vetenskapsrådet: Förvaltning"
+    ],
+    [
+     "3:9 ap.1",
+     "Sunet"
+    ],
+    [
+     "3:10 ap.2",
+     "Överkl.nämnd etikprö - del till Vetenskapsrådet"
+    ],
+    [
+     "3:14 ap.2",
+     "Gentekniknämnden - till Vetenskapsrådet"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Avgiftsbelagd verksamhet där intäkterna disponeras",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "SUNET2",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0"
+    ],
+    [
+     "Prisma2",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0"
+    ],
+    [
+     "SUNET3",
+     "286 600"
+    ],
+    [
+     "Prisma3",
+     "15 000"
+    ],
+    [
+     "Summa",
+     "0",
+     "0",
+     "301 600",
+     "0",
+     "0",
+     "0"
+    ]
+   ]
+  }
+ ],
+ "has_fee_section": true,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 13,
+  "n_org": 0,
+  "n_assignments": 19,
+  "n_deadlines": 11,
+  "deadlines": [
+   "2026-02-01",
+   "2026-04-30",
+   "2026-07-24",
+   "2026-10-01",
+   "2026-10-15",
+   "2026-12-01",
+   "2027-02-01",
+   "2027-03-31",
+   "2027-09-01",
+   "2028-01-15",
+   "2028-12-31"
+  ],
+  "partners": [
+   "Forskningsrådet för hälsa, arbetsliv och välfärd",
+   "Forskningsrådet för miljö, areella näringar och samhällsbyggande",
+   "Kammarkollegiet",
+   "Lunds universitet",
+   "Myndigheten för digital förvaltning",
+   "Statens energimyndighet",
+   "Statens skolverk",
+   "Statskontoret",
+   "Universitetskanslersämbetet",
+   "Verket för innovationssystem",
+   "universitet och högskolor"
+  ],
+  "n_appropriations": 6,
+  "appropriations_total_tkr": 8765994,
+  "payment_plan_total_tkr": 272637,
+  "md_chars": 41688
+ },
+ "layout": "standard",
+ "warnings": []
+}

@@ -1,0 +1,464 @@
+{
+ "schema_version": 1,
+ "id": 26087,
+ "original_rbid": 26087,
+ "type": "Regleringsbrev",
+ "category": "Myndighet",
+ "date": "2025-12-18",
+ "year": "2026",
+ "name": "Statens tjänstepensionsverk",
+ "slug": "statens-tjanstepensionsverk",
+ "department": "Finansdepartementet",
+ "expenditure_areas": [
+  2
+ ],
+ "registry_numbers": [
+  "Fi2025/02364 (delvis)"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1"
+  ],
+  "bet": [
+   "2025/26:FiU2"
+  ],
+  "rskr": [
+   "2025/26:133"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "Myndighetens uppgifter framgår bl.a. av förordningen (2007:832) med instruktion för Statens tjänstepensionsverk.",
+ "goals": [
+  {
+   "title": null,
+   "group": [],
+   "text": "Myndigheten ska bedriva en säker och effektiv pensionsadministration, med väl utvecklad kvalitet och service. Myndigheten ska vidare med tillgängligt underlag påföra arbetsgivarna rätt premier utifrån ett statsfinansiellt perspektiv.\n\nÅterrapporteringen av det ekonomiska resultatet enligt uppgifterna i förordningen med instruktion för Statens tjänstepensionsverk ska ske så att verksamhet inom områdena Statlig pensionsverksamhet m.m. och Pensionsverksamhet på uppdrag redovisas separat. Myndigheten ska därvid redovisa hur kostnader och intäkter samt saldot av finansiella intäkter och kostnader har utvecklats. Vidare ska utvecklingen och eventuella avvikelser mot den av regeringen beräknade budgeten analyseras och kommenteras. Det balanserade resultatet ska också redovisas.\n\nMyndigheten ska redovisa effektiviteten i hanteringen av statliga avtalsförsäkringar och göra jämförelser över tid.\n\nMyndigheten ska redovisa hur arbetsgivarna, de anställda och f.d. anställda samt pensionärerna bedömer den service och information som myndigheten ger vid hanteringen av statliga avtalsförsäkringar.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26087:goals:0"
+  },
+  {
+   "title": "Färdval och resepolicy vid tjänsteresor",
+   "group": [],
+   "text": "Alla trafikslag ska kunna nyttjas (väg, järnväg, luft- och sjöfart) för att säkerställa effektiva och ändamålsenliga transporter. Myndigheten ska därför redovisa hur den har säkerställt att val av färdsätt vid tjänsteresor sker färdmedelsneutralt och utifrån behov. Vidare ska myndigheten redovisa huruvida den köpt in hållbart flygbränsle till organisationens flygresor. När kostnader jämförs för olika färdval ska hela resans kostnad beaktas, exempelvis kostnader för nödvändig övernattning och total arbetstid för hela resan.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26087:goals:1"
+  },
+  {
+   "title": "Statlig pensionsverksamhet m.m.",
+   "group": [],
+   "text": "Myndigheten ska redovisa kvaliteten i handläggningen av tjänstematriklar, hittills intjänade pensionsrätter, förmånsbeslut och förmånsutbetalningar, samt hur myndigheten arbetar för att förbättra kvaliteten och säkerställa en korrekt och effektiv handläggning.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26087:goals:2"
+  },
+  {
+   "title": "Pensionsverksamhet på uppdrag",
+   "group": [],
+   "text": "Myndigheten ska redovisa utfallet av det ekonomiska mål för den avgiftsbelagda verksamheten som gällt under de senaste fem åren, dels per år, dels ackumulerat.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26087:goals:3"
+  }
+ ],
+ "org": [],
+ "assignments": [
+  {
+   "title": "Anslags- och inkomstprognoser",
+   "group": [],
+   "text": "Myndigheten ska redovisa prognoser avseende anslaget 1:4 Statliga tjänstepensioner m.m. för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska innehålla information om utgifterna för\n\n– statlig tjänstepensionering\\\n– premiebefrielse\\\n– särskild löneskatt på pensionskostnader\\\n– statlig grupplivförsäkring\\\n– särskild premieskatt på grupplivförsäkring\\\n– statlig personskadeförsäkring.\n\nPrognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Av kommentarerna ska framgå vilka antaganden som gjorts i prognosen, vilka osäkerhetsfaktorer som finns och vad som orsakat eventuella förändringar. Prognoserna lämnas i informationssystemet Hermes senast den\n\n– 2 februari\\\n– 22 april\\\n– 24 juli\\\n– 9 november.\n\nMyndigheten ska i samband med de ovan nämnda prognostillfällen även redovisa prognoser för inkomsttiteln 5211 Statliga pensionsavgifter för 2026–2029 till Regeringskansliet (Finansdepartementet).",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [
+    "Regeringskansliet (Finansdepartementet)"
+   ],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [
+    "1:4"
+   ],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "statlig tjänstepensionering\\",
+    "premiebefrielse\\",
+    "särskild löneskatt på pensionskostnader\\",
+    "statlig grupplivförsäkring\\",
+    "särskild premieskatt på grupplivförsäkring\\",
+    "statlig personskadeförsäkring."
+   ],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26087:assignments:0"
+  },
+  {
+   "title": "Femtioåriga prognoser",
+   "group": [],
+   "text": "Myndigheten ska senast den 5 juni 2026 redovisa 50-åriga prognoser för anslaget 1:4 Statliga tjänstepensioner m.m., inom utgiftsområde 2 Samhällsekonomi och finansförvaltning, och för inkomsttiteln 5211 Statliga pensionsavgifter och statens tjänstepensionsskuld till Regeringskansliet (Finansdepartementet). Myndigheten ska redovisa en fördjupad analys för de närmaste 10 åren. Myndigheten ska även redovisa och analysera utvecklingen av premier för den premiebestämda pensionen för de kommande 50 åren, med en fördjupad analys för de närmaste 10 åren.",
+   "dates": [
+    "2026-06-05"
+   ],
+   "deadlines": [
+    "2026-06-05"
+   ],
+   "forecast_dates": [],
+   "recipients": [
+    "Regeringskansliet (Finansdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "prognos",
+    "analysera"
+   ],
+   "anslag_refs": [
+    "1:4"
+   ],
+   "expenditure_area_refs": [
+    2
+   ],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26087:assignments:1"
+  },
+  {
+   "title": "Känslighetsberäkningar",
+   "group": [],
+   "text": "Myndigheten ska senast den 4 december 2026 redovisa känslighetsberäkningar av makroekonomiska förändringar för 2027–2030 avseende inkomsttiteln 5211 Statliga pensionsavgifter till Regeringskansliet (Finansdepartementet). Beräkningarna ska utgå från de makroekonomiska variabler som har legat till grund för den närmast föregående prognosen. I beräkningarna ska variablerna ändras så att löneantagandet för 2027 ökas med 1 procentenhet, medan prisbasbeloppet respektive inkomstbasbeloppet ökas med 100 kronor för vart och ett av åren. De beräknade effekterna på inkomsttiteln för respektive variabel ska redovisas på årsbasis i miljoner kronor.",
+   "dates": [
+    "2026-12-04"
+   ],
+   "deadlines": [
+    "2026-12-04"
+   ],
+   "forecast_dates": [],
+   "recipients": [
+    "Regeringskansliet (Finansdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26087:assignments:2"
+  },
+  {
+   "title": "Pågående uppdrag",
+   "group": [],
+   "text": "**1. Myndigheten har i uppdrag att, senast vid den tidpunkt som gäller för avlämnandet av årsredovisning, lämna en redovisning över premier och förmåner till lokalanställd samt f.d. lokalanställd personal och deras efterlevande (Ju1999/05252).**\n\n**2. Myndigheten ska redovisa hur den behandlar personuppgifter i sin verksamhet. Myndigheten ska utreda om den befintliga regleringen ger ett tillräckligt skydd för de personuppgifter som myndigheten behandlar och vid behov lämna nödvändiga författningsförslag.**\n\nLöpande avstämningar ska ske med Regeringskansliet (Finansdepartementet) under arbetets gång. Uppdraget ska senast den 31 maj 2026 redovisas till Regeringskansliet.\n\n**3. Myndigheten ska utreda och lämna förslag om värdesäkring av livränta från den tidpunkt då en arbetstagare med icke-statlig anställning avslutar sin anställning och har rätt till statlig livränta enligt förordning. Förutsättningarna för värdesäkring ska motsvara de förutsättningar som gäller för värdesäkring av anställdas livränta enligt gällande avtal om tjänstepension för arbetstagare inom det statliga avtalsområdet. I uppdraget ingår att analysera och redovisa konsekvenserna av införandet av en sådan möjlighet, inklusive de ekonomiska konsekvenserna, och att lämna finansieringsförslag. Myndigheten ska vid behov även lämna författningsförslag. När uppdraget genomförs ska synpunkter inhämtas från Arbetsgivarverket. Myndigheten ska senast den 31 mars 2026 redovisa uppdraget till Regeringskansliet (Finansdepartementet).**",
+   "dates": [
+    "2026-03-31",
+    "2026-05-31"
+   ],
+   "deadlines": [
+    "2026-03-31",
+    "2026-05-31"
+   ],
+   "recipients": [
+    "Regeringskansliet",
+    "Regeringskansliet (Finansdepartementet)"
+   ],
+   "partners": [
+    "Arbetsgivarverket"
+   ],
+   "channels": [
+    "årsredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "föreslå",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "26087:assignments:3"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "1:4",
+   "name": "Statliga tjänstepensioner m.m.",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 2,
+    "name": "Samhällsekonomi och finansförvaltning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Statens tjänstepensionsverk",
+     "amount_tkr": 17279000,
+     "items": [
+      {
+       "ap": "7",
+       "name": "Statliga tjänstepensioner m.m. (ram)",
+       "amount_tkr": 17279000
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "7",
+     "name": "Statliga tjänstepensioner m.m.",
+     "text": "Anslagsposten får användas för utbetalning av förmåner enligt 1 § förordningen (2002:869) om utbetalning av statliga tjänstepensions- och grupplivförmåner.\nVidare får anslagsposten användas för utbetalning av personskadeersättning m.m. avseende arbetstagare i statlig anställning i enlighet med bestämmelser som regeringen har meddelat eller kan komma att meddela. Ersättning utgår för närvarande enligt förordningen (SAVFS 1990:3) om utbetalning av personskadeersättning.\nAnslagsposten får också användas för utbetalning av premier till försäkringsgivare och arbetsgivare vid premiebefrielse, dvs. när en arbetsgivare enligt de försäkringstekniska riktlinjer som myndigheten har beslutat om är befriad från att betala premier för en arbetstagare.\nAnslagsposten får även användas för utbetalning av räntor avseende de ovan angivna förmånerna.\nAnslagsposten får också användas för betalning av löneskatt enligt lagen (1990:659) om särskild löneskatt på vissa förvärvsinkomster och enligt förordningen (1991:704) om fastställande av särskild löneskatt på statens pensionskostnader, eller annan förordning.\nVidare får anslagsposten användas för utbetalning av särskild premieskatt enligt lagen (1990:1427) om särskild premieskatt för grupplivförsäkring, m.m. samt för betalning av löneavgifter enligt lagen (1994:1920) om allmän löneavgift och arbetsgivaravgifter enligt socialavgiftslagen (2000:980).\nAnslagsposten får också användas för utgifter avseende de försäkringar som tecknats för utfästelser för tjänstepensioner m.m. till f.d. anställda vid affärsverket Statens järnvägar.\nUnder denna anslagspost redovisas även myndighetens intäkter från avgifter för biträde vid handläggningen av pensionsärenden avseende lärare m.fl. som överförts från statligt reglerade anställningar genom riksdagens beslut om kommunalt huvudmannaskap för lärare m.fl.\\\n(prop. 1989/90:41, bet. 1989/90:UbU9, rskr. 1989/90:58)."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "1:4 Statliga tjänstepensioner m.m.",
+   "ap": "ap.7",
+   "Anslagskredit": 863950,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 130000,
+  "Räntekontokredit": 9000,
+  "- Statens tjänstepensionsverks behov av likviditet i pensionshanteringen": 100000
+ },
+ "payment_plan": [],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:4 Statliga tjänstepensioner m.m.",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.7",
+     "863 950",
+     "Inget",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "130 000"
+    ],
+    [
+     "Räntekontokredit",
+     "9 000"
+    ],
+    [
+     "Övriga kontokrediter"
+    ],
+    [
+     "- Statens tjänstepensionsverks behov av likviditet i pensionshanteringen",
+     "100 000"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Uppdragsverksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Statlig pensionsverksamhet m.m.1",
+     "7 345",
+     "47",
+     "203 200",
+     "207 848",
+     "-4 648",
+     "2 744"
+    ],
+    [
+     "Pensionsverksamhet på uppdrag1",
+     "46 473",
+     "-29 770",
+     "102 800",
+     "101 800",
+     "1 000",
+     "17 703"
+    ],
+    [
+     "Summa",
+     "53 818",
+     "-29 723",
+     "306 000",
+     "309 648",
+     "-3 648",
+     "20 447"
+    ]
+   ]
+  },
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna ej disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "Ink. tit.",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Avgiftsintäkter",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Statliga pensionsavgifter1",
+     "5211",
+     "0",
+     "0",
+     "25 010 000",
+     "25 010 000",
+     "0",
+     "0"
+    ]
+   ]
+  }
+ ],
+ "has_fee_section": true,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 4,
+  "n_org": 0,
+  "n_assignments": 4,
+  "n_deadlines": 4,
+  "deadlines": [
+   "2026-03-31",
+   "2026-05-31",
+   "2026-06-05",
+   "2026-12-04"
+  ],
+  "partners": [
+   "Arbetsgivarverket"
+  ],
+  "n_appropriations": 1,
+  "appropriations_total_tkr": 17279000,
+  "payment_plan_total_tkr": 0,
+  "md_chars": 12992
+ },
+ "layout": "standard",
+ "warnings": []
+}

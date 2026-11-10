@@ -1,0 +1,382 @@
+{
+ "schema_version": 1,
+ "id": 26321,
+ "original_rbid": 25986,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-06-11",
+ "year": "2026",
+ "name": "Myndigheten för tillväxtpolitiska utvärderingar och analyser",
+ "slug": "myndigheten-for-tillvaxtpolitiska-utvarderingar-och-analyser",
+ "department": "Klimat- och näringslivsdepartementet",
+ "expenditure_areas": [
+  24
+ ],
+ "registry_numbers": [
+  "KN2026/01307(delvis)",
+  "KN2026/01320"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1",
+   "2025/26:99"
+  ],
+  "bet": [
+   "2025/26:FiU21",
+   "2025/26:NU1"
+  ],
+  "rskr": [
+   "2025/26:131",
+   "2025/26:350"
+  ]
+ },
+ "n_attachments_stated": 1,
+ "mission": "",
+ "goals": [],
+ "org": [
+  {
+   "title": "Övertagande av tillgångar och skulder",
+   "group": [],
+   "text": "Myndigheten för Tillväxtpolitiska utvärderingar och analysers (Tillväxtanalys) övertagande av Trafikanalys tillgångar och skulder ska ske till bokfört värde enligt 5 kap. 5 och 8 §§ förordningen (2000:605) om årsredovisning och budgetunderlag. Trafikanalys har ansvaret för sina tillgångar och skulder till och med den 31 december 2026, och Tillväxtanalys övertar ansvaret fr.o.m. den 1 januari 2027.",
+   "dates": [
+    "2026-12-31",
+    "2027-01-01"
+   ],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Trafikanalys"
+   ],
+   "channels": [
+    "årsredovisning",
+    "budgetunderlag"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2000:605"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "org",
+   "item_id": "26321:org:0"
+  }
+ ],
+ "assignments": [
+  {
+   "title": "Följa upp och utvärdera effekterna av regelverket för arbetskraftsinvandring för näringslivets kompetensförsörjning",
+   "group": [],
+   "text": "Tillväxtanalys ska årligen följa upp och utvärdera effekterna av regelverket för arbetskraftsinvandring för näringslivets kompetensförsörjning och tillväxt samt presentera en metod för återkommande uppföljningar och utvärderingar. I det arbetet ska näringslivet involveras. En första redovisning ska lämnas till Regeringskansliet (Klimat- och näringslivsdepartementet samt Justitiedepartementet) senast den 30 augusti 2027.",
+   "dates": [
+    "2027-08-30"
+   ],
+   "deadlines": [
+    "2027-08-30"
+   ],
+   "recipients": [
+    "Regeringskansliet (Klimat- och näringslivsdepartementet samt Justitiedepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26321:assignments:0"
+  },
+  {
+   "title": "Prognoser",
+   "group": [],
+   "text": "Tillväxtanalys ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Prognoserna lämnas i informationssystemet Hermes senast den\n\n− 22 februari,\n\n− 22 april,\n\n− 24 juli, och\n\n− 9 november.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-22",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26321:assignments:1"
+  },
+  {
+   "title": "Pågående uppdrag",
+   "group": [],
+   "text": "I*bilagan*redovisas Tillväxtanalys pågående uppdrag.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "26321:assignments:2"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "1:6",
+   "name": "Myndigheten för tillväxtpolitiska utvärderingar och analyser",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 24,
+    "name": "Näringsliv"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Myndigheten för tillväxtpolitiska utvärderingar och analyser",
+     "amount_tkr": 78910,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Myndigheten för tillväxtpolitiska utvärderingar och analyser (ram)",
+       "amount_tkr": 78910
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Myndigheten för tillväxtpolitiska utvärderingar och analyser",
+     "text": "Anslagsposten får användas för Myndigheten för tillväxtpolitiska utvärderingar och analysers förvaltningsutgifter."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "1:6 Myndigheten för tillväxtpolitiska utvärderingar och analyser",
+   "ap": "ap.1",
+   "Anslagskredit": 2307,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 3000,
+  "Räntekontokredit": 4500
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 6409
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 6409
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 6409
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 6409
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 6409
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 6695
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 6695
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 6695
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 6695
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 6695
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 6695
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 6695
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:6 Myndigheten för tillväxtpolitiska utvärderingar och analyser",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "2 307",
+     "3 %",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "3 000"
+    ],
+    [
+     "Räntekontokredit",
+     "4 500"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "6 409"
+    ],
+    [
+     "2026-02-25",
+     "6 409"
+    ],
+    [
+     "2026-03-25",
+     "6 409"
+    ],
+    [
+     "2026-04-25",
+     "6 409"
+    ],
+    [
+     "2026-05-25",
+     "6 409"
+    ],
+    [
+     "2026-06-25",
+     "6 695"
+    ],
+    [
+     "2026-07-25",
+     "6 695"
+    ],
+    [
+     "2026-08-25",
+     "6 695"
+    ],
+    [
+     "2026-09-25",
+     "6 695"
+    ],
+    [
+     "2026-10-25",
+     "6 695"
+    ],
+    [
+     "2026-11-25",
+     "6 695"
+    ],
+    [
+     "2026-12-25",
+     "6 695"
+    ],
+    [
+     "Summa",
+     "78 910"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "1:6 ap.1",
+     "Myndigheten för tillväxtpolitiska utvärderingar och analyser"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [],
+ "has_fee_section": false,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 0,
+  "n_org": 1,
+  "n_assignments": 3,
+  "n_deadlines": 1,
+  "deadlines": [
+   "2027-08-30"
+  ],
+  "partners": [
+   "Trafikanalys"
+  ],
+  "n_appropriations": 1,
+  "appropriations_total_tkr": 78910,
+  "payment_plan_total_tkr": 78910,
+  "md_chars": 5355
+ },
+ "layout": "standard",
+ "warnings": []
+}

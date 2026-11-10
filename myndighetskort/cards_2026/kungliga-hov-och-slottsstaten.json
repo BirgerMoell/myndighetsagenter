@@ -1,0 +1,315 @@
+{
+ "schema_version": 1,
+ "id": 26090,
+ "original_rbid": 26090,
+ "type": "Regleringsbrev",
+ "category": "Myndighet",
+ "date": "2025-12-11",
+ "year": "2026",
+ "name": "Kungliga hov- och slottsstaten",
+ "slug": "kungliga-hov-och-slottsstaten",
+ "department": "Finansdepartementet",
+ "expenditure_areas": [
+  1
+ ],
+ "registry_numbers": [
+  "Fi2025/02221 (delvis)"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1"
+  ],
+  "bet": [
+   "2025/26:KU1"
+  ],
+  "rskr": [
+   "2025/26:86"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "",
+ "goals": [],
+ "org": [],
+ "assignments": [],
+ "appropriations": [
+  {
+   "code": "1:1",
+   "name": "Kungliga hov- och slottsstaten",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 1,
+    "name": "Rikets styrelse"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Kammarkollegiet",
+     "amount_tkr": 98234,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Kungliga hovstaten (ram)",
+       "amount_tkr": 95988
+      },
+      {
+       "ap": "3",
+       "name": "Kungl. Maj:ts Orden (ram)",
+       "amount_tkr": 2246
+      }
+     ],
+     "sum_ok": true
+    },
+    {
+     "by": "Kungliga hov- och slottsstaten",
+     "amount_tkr": 92223,
+     "items": [
+      {
+       "ap": "2",
+       "name": "Kungliga slottsstaten (ram)",
+       "amount_tkr": 92223
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Kungliga hovstaten",
+     "text": "Medlen betalas ut av Kammarkollegiet engångsvis efter rekvisition till HM Konungens hovförvaltning."
+    },
+    {
+     "ap": "2",
+     "name": "Kungliga slottsstaten",
+     "text": "Redovisning mot anslag ska ske i samband med de månatliga utbetalningarna till Kungliga hov- och slottsstatens räntekonto i Riksgäldskontoret."
+    },
+    {
+     "ap": "3",
+     "name": "Kungl. Maj:ts Orden",
+     "text": "Medlen betalas ut av Kammarkollegiet engångsvis efter rekvisition till Kungl. Maj:ts Orden."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "1:1 Kungliga hov- och slottsstaten",
+   "ap": "ap.1",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:1 Kungliga hov- och slottsstaten",
+   "ap": "ap.2",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:1 Kungliga hov- och slottsstaten",
+   "ap": "ap.3",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Räntekontokredit": 30000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 7685
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 7685
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 7685
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 7685
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 7685
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 7685
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 7685
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 7685
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 7685
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 7685
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 7685
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 7688
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:1 Kungliga hov- och slottsstaten",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.2",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.3",
+     "0",
+     "Inget",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Räntekontokredit",
+     "30 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "7 685"
+    ],
+    [
+     "2026-02-25",
+     "7 685"
+    ],
+    [
+     "2026-03-25",
+     "7 685"
+    ],
+    [
+     "2026-04-25",
+     "7 685"
+    ],
+    [
+     "2026-05-25",
+     "7 685"
+    ],
+    [
+     "2026-06-25",
+     "7 685"
+    ],
+    [
+     "2026-07-25",
+     "7 685"
+    ],
+    [
+     "2026-08-25",
+     "7 685"
+    ],
+    [
+     "2026-09-25",
+     "7 685"
+    ],
+    [
+     "2026-10-25",
+     "7 685"
+    ],
+    [
+     "2026-11-25",
+     "7 685"
+    ],
+    [
+     "2026-12-25",
+     "7 688"
+    ],
+    [
+     "Summa",
+     "92 223"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "1:1 ap.2",
+     "Kungliga slottsstaten"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [],
+ "has_fee_section": false,
+ "exceptions_text": "Av förarbetena till regeringsformen framgår att hovet står utanför den statliga förvaltningsorganisationen (prop. 1973:90 s. 176). Kungliga hov- och slottsstaten ska enligt den överenskommelse som träffades med regeringen 1996 årligen lämna en verksamhetsberättelse över den samlade verksamheten. Överenskommelsen har kompletterats 2005 och 2013. Innebörden är att redogörelsen som avser hovstaten fr.o.m. verksamhetsåret 2013, i likhet med den redovisning som lämnas för slottsstaten, består av resultat- och balansinformation samt kommentarer i form av tilläggsupplysningar och noter (prop. 2013/14:1 utg.omr. 1, bet. 2013/14:KU1, rskr. 2013/14:83).\n\nDen verksamhet som hovstaten bedriver omfattas inte av lagen (2002:1022) om revision av statlig verksamhet m.m. Hovstaten omfattas inte heller av anslagsförordningens (2011:223) bestämmelser eller andra delar av det ekonomiadministrativa regelverket för myndigheter under regeringen.\n\nFörordningen (2000:605) om årsredovisning och budgetunderlag ska, med undantag av bestämmelserna om resultatredovisning i 2 kap. 4 §, tillämpas på slottsstaten (anslagspost 2).\n\nPå regeringens vägnar\n\nElisabeth Svantesson\n\nRikard Sandart\n\n**Kopia till**\n\nStatsrådsberedningen/FCK och REV\\\nJustitiedepartementet/L6\\\nFinansdepartementet/BA och SFÖ\\\nFörvaltningsavdelningen/EKA\\\nriksdagen, konstitutionsutskottet\\\nEkonomistyrningsverket\\\nKammarkollegiet\\\nKungl. Maj:ts Orden\\\nRiksgäldskontoret\\\nRiksmarskalksämbetet",
+ "summary": {
+  "n_goals": 0,
+  "n_org": 0,
+  "n_assignments": 0,
+  "n_deadlines": 0,
+  "deadlines": [],
+  "partners": [],
+  "n_appropriations": 1,
+  "appropriations_total_tkr": 190457,
+  "payment_plan_total_tkr": 92223,
+  "md_chars": 4448
+ },
+ "layout": "standard",
+ "warnings": [
+  "no_verksamhet_block"
+ ]
+}

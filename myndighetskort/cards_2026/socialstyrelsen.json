@@ -1,0 +1,938 @@
+{
+ "schema_version": 1,
+ "id": 26375,
+ "original_rbid": 25949,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-06-11",
+ "year": "2026",
+ "name": "Socialstyrelsen",
+ "slug": "socialstyrelsen",
+ "department": "Socialdepartementet",
+ "expenditure_areas": [
+  9
+ ],
+ "registry_numbers": [
+  "S2026/01224 (delvis)"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1",
+   "2025/26:99"
+  ],
+  "bet": [
+   "2025/26:FiU21",
+   "2025/26:SoU1"
+  ],
+  "rskr": [
+   "2025/26:114",
+   "2025/26:348"
+  ]
+ },
+ "n_attachments_stated": 3,
+ "mission": "",
+ "goals": [
+  {
+   "title": null,
+   "group": [],
+   "text": "*1. Åtgärder som bidrar till att förebygga brott och motverka välfärdsbrottslighet*\\\nSocialstyrelsen ska redovisa resultaten av det arbete som bedrivs vid myndigheten som bedöms bidra till det brottsförebyggande arbetet, särskilt när det gäller att främja samverkan mellan socialtjänst, polis, skola och hälso- och sjukvård. Av redovisningen ska även framgå vilka insatser som genomförts och vilket stöd som myndigheten gett till relevanta aktörer, såsom regioner, kommuner och företag, i syfte att identifiera och motverka välfärdsbrottslighet.\n\n*2. Ett verksamhetsnära arbetssätt*\\\nSocialstyrelsen ska redovisa resultaten av det arbete som myndigheten gjort inom ramen för uppgiften att i sin samverkan, arbeta på ett verksamhetsnära sätt anpassat efter berörda verksamheters olika behov. Myndigheten ska också beskriva på vilket sätt den avser förbättra uppföljningen av målgruppernas nytta av myndighetens kunskapsstöd.\n\n*3. Att säkerställa aktuella och ändamålsenliga föreskrifter och allmänna råd*\\\nSocialstyrelsen ska beskriva de åtgärder som myndigheten vidtagit för att säkerställa aktuella och ändamålsenliga föreskrifter och allmänna råd.\n\n*4. Nationella läkemedelsstrategin*\\\nSocialstyrelsen ska redogöra för hur myndigheten har arbetat för att bidra till för myndigheten relevanta fokusområden i den nationella läkemedelsstrategin.\n\n*5. Redovisning av förändrat arbete enligt det nya tobakspolitiska målet*\\\nSocialstyrelsen ska redovisa de åtgärder som myndigheten har vidtagit och hur arbetet har förändrats för att nå målet om minskade medicinska och sociala skador orsakade av tobaks- och nikotinprodukter sedan det nya målet infördes.\n\n*6. Handläggningstiderna hos Hälso- och sjukvårdens ansvarsnämnd*\\\nSocialstyrelsen ska redovisa resultaten av det arbete som myndigheten har gjort för att effektivisera och korta handläggningstiderna hos Hälso- och sjukvårdens ansvarsnämnd.\n\n*7. Färdval och resepolicy vid tjänsteresor*\\\nAlla trafikslag ska kunna nyttjas (väg, järnväg, luft- och sjöfart) för att säkerställa effektiva och ändamålsenliga transporter. Socialstyrelsen ska därför redovisa hur myndigheten den har säkerställt att val av färdsätt vid tjänsteresor sker färdmedelsneutralt och utifrån behov. Vidare ska Socialstyrelsen redovisa huruvida myndigheten köpt in hållbart flygbränsle till organisationens flygresor. När kostnader jämförs för olika färdval ska hela resans kostnad beaktas, exempelvis kostnader för nödvändig övernattning samt total arbetstid för hela resan.\n\n*8. Organisationsberedskap och samordning*\\\nSocialstyrelsen ska redogöra för hur myndigheten har arbetat med att anpassa sin organisation och sina system till ett utökat operativt uppdrag till följd av ändringar i hälso- och sjukvårdslagstiftningen, stärka förmågan att ställa om till krigsorganisation samt utveckla samordningen av planering, uppföljning och samverkan mellan sektorsmyndigheter och privata aktörer.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Hälso- och sjukvårdens ansvarsnämnd"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna",
+    "utveckla",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26375:goals:0"
+  }
+ ],
+ "org": [
+  {
+   "title": "Organisationsstyrning",
+   "group": [],
+   "text": "*1. Säkerställa proaktivitet och handlingskraft vid fredstida krissituationer eller vid krig och krigsfara*\\\nSocialstyrelsen ska säkerställa att myndigheten har förmåga att agera proaktivt och handlingskraftigt såväl vid fredstida krissituationer som vid krig och krigsfara. Utöver de krav som ställs i förordningen (2022:524) om statliga myndigheters beredskap ska myndigheten i detta syfte utbilda och öva sin personal samt se till att myndigheten stärker en kultur och ett arbetssätt som utgår från de krav som ett krig ställer. Uppdraget ska redovisas till Regeringskansliet (Socialdepartementet och Försvarsdepartementet) senast den 22 februari 2027. Detta ska ingå i den särskilda redovisningen för civilt försvar.",
+   "dates": [
+    "2027-02-22"
+   ],
+   "deadlines": [
+    "2027-02-22"
+   ],
+   "recipients": [
+    "Regeringskansliet (Socialdepartementet och Försvarsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2022:524"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "org",
+   "item_id": "26375:org:0"
+  }
+ ],
+ "assignments": [
+  {
+   "title": "Hälso- och sjukvård och folkhälsa",
+   "group": [],
+   "text": "*1. Uppföljning av medel till primärvården*\\\nSocialstyrelsen ska kartlägga och analysera hur tilldelningen av medel till regional och kommunal primärvård har sett ut sedan 2013 samt följa utvecklingen avseende medelstilldelning t.o.m. 2028. Analysen bör omfatta dels huvudmännens egen, skattebaserade, finansiering av primärvården, dels mottagna statsbidrag för hälso- och sjukvård. Av analysen bör det också för regionerna framgå hur stor andel av de sammantagna statsbidragen för hälso- och sjukvård som gått till primärvården och resultat därav. I uppdraget ska SCB bistå med relevant statistik. Myndigheten ska lämna en första delredovisning av uppdraget till Regeringskansliet (Socialdepartementet) senast den 1 december 2026. Därefter ska uppdraget redovisas årligen senast den 30 oktober. Uppdraget ska slutredovisas senast den 30 augusti 2029. Redovisningar ska hänvisa till regleringsbrevet för budgetåret 2026 avseende Socialstyrelsen.\n\n*2. Uppdrag att betala ut medel till organisationer rörande personer med sällsynta hälsotillstånd*\\\nSocialstyrelsen ska fördela statsbidrag efter ansökan till organisationer som bidrar till en mer patientcentrerad vård för patientgruppen personer med sällsynta hälsotillstånd. Socialstyrelsen får i övrigt ange de villkor som ska förenas med statsbidraget inom ramen för ändamålet. Socialstyrelsen ska senast den 30 juni 2027 lämna en redovisning av hur medlen har använts till Regeringskansliet (Socialdepartementet). För uppdraget får Socialstyrelsen under 2026 använda 2 500 000 kronor som ska redovisas mot det under utgiftsområde 9 Hälsovård, sjukvård och social omsorg för budgetåret 2026 uppförda anslaget 1:6 Bidrag till folkhälsa och sjukvård, anslagsposten 3 Kroniska och långvariga sjukdomar. Medlen betalas ut engångsvis efter rekvisition till Kammarkollegiet senast den 1 december 2026. Medel som inte har använts för avsett ändamål ska återbetalas senast den 31 mars 2027 till Kammarkollegiet. Vid samma tidpunkt ska en ekonomisk redovisning av använda medel lämnas till Kammarkollegiet. Redovisning, rekvisition och återbetalning ska hänvisa till regleringsbrevet för budgetåret 2026 avseende Socialstyrelsen.\n\n*3. Uppdrag att uppdatera och fastställa Patientförsäkringsföreningens stadgar*\\\nSocialstyrelsen ska vid behov uppdatera patientförsäkringsföreningens stadgar i dialog med föreningen. Socialstyrelsen ska också vid behov fastställa stadgarna. Socialstyrelsen ska löpande informera Regeringskansliet (Socialdepartementet) om hur arbetet med uppdraget fortskrider. Inom ramen för uppdraget ska Socialstyrelsen också se över rådande ordning och föreslå en alternativ ordning framgent. Socialstyrelsen ska senast den 30 september 2026 lämna en redovisning av uppdraget till Regeringskansliet (Socialdepartementet).\n\n*4. Ändring av uppdrag att samordna, planera, genomföra och utvärdera nationella övningar som stärker beredskapen inom hälso- och sjukvården*\\\nSocialstyrelsens uppdrag att samordna, planera, genomföra och utvärdera nationella övningar som stärker beredskapen inom hälso- och sjukvården (S2022/02527), reviderat genom regleringsbrev för budgetåret 2024, ändras på så sätt att Socialstyrelsen även ska tillhandahålla utbildningar och kompetenshöjande insatser som stärker beredskapen inom hälso- och sjukvården, inklusive masskadehändelser. Arbetet ska bygga på en långsiktig inriktning och ta hänsyn till förändringar i omvärldsläget, ny forskning samt förändrade krav inom beredskapsområdet brett. Socialstyrelsen ska även samordna, planera, genomföra och utvärdera nationella övningar som stärker beredskapen inom hälso- och sjukvården, inklusive försörjningsberedskap. Medel för uppdraget har tilldelats Socialstyrelsen i regleringsbrev för budgetåret 2026 avseende anslag 1:14 Civilt försvar inom hälso- och sjukvård, anslagsposten 5 Del till Socialstyrelsen.\n\n*5. Uppdrag att fortsatt vidareutveckla nyckeltalsberäkningar och dimensionerande målbilder för hälso- och sjukvården*\\\nSocialstyrelsen ska, med hänvisning till uppdraget enligt regeringsbeslut II:1 den 9 november 2022 (S2022/04257) samt ändringen i Socialstyrelsens regleringsbrev för 2024, fortsatt vidareutveckla och uppdatera nyckeltalsberäkningar och dimensionerande målbilder för hälso- och sjukvården. Myndigheten ska också säkerställa att dimensioneringen beaktar Sveriges medlemskap i Nato och dess konsekvenser för civilt försvar. De målbilder som tas fram ska utgöra underlag för regionerna att enligt PLUS-konceptet kunna dimensionera och organisera verksamheten för att kunna ta hand om många skadade vid höjd beredskap. Uppdraget ska utföras i dialog med regionerna, civilområdesansvariga länsstyrelser samt Myndigheten för civilt försvar. Socialstyrelsen ska när uppdraget utförs inhämta synpunkter och underlag från Försvarsmakten och Totalförsvarets forskningsinstitut. Socialstyrelsen ska senast den 1 oktober 2026 lämna en delredovisning av uppdraget och senast den 1 oktober 2027 en slutredovisning till Regeringskansliet (Socialdepartementet). Medel för uppdraget har tilldelats Socialstyrelsen i regleringsbrev för budgetåret 2026 avseende anslag 1:14 Civilt försvar inom hälso- och sjukvård, anslagsposten 5 Del till Socialstyrelsen.\n\n*6. Uppdrag att fortsatt analysera, utveckla och stödja regionernas förmåga att öka vårdkapaciteten vid fredstida krissituationer, höjd beredskap och ytterst krig*\\\nSocialstyrelsen ska med hänvisning till uppdraget enligt regeringsbeslut II:7 den 23 maj 2024 (S2024/01060) fortsatt utveckla och stödja regionernas förmåga att öka vårdkapaciteten vid fredstida krissituationer, höjd beredskap och ytterst krig. Inom ramen för uppdraget ska Socialstyrelsen vidareutveckla PLUS-konceptet i syfte att säkerställa att verktyget används för att utveckla hälso- och sjukvårdens förmåga att hantera vårdbehov under fredstida krissituationer, höjd beredskap och ytterst krig. Verktyget ska även kunna användas av den kommunala hälso- och sjukvården. Regioner ska, inom ramen för PLUS-konceptet, kunna använda framtagna nyckeltalsberäkningar och dimensionerande målbilder som grund för att planera, utveckla och organisera hälso- och sjukvårdens kapacitet att ta hand om många skadade vid höjd beredskap. Socialstyrelsen ska när uppdraget utförs föra dialog med regionerna och med andra relevanta aktörer. Socialstyrelsen ska senast den 1 oktober 2026, lämna en delredovisning av uppdraget till Regeringskansliet (Socialdepartementet). Socialstyrelsen ska senast den 1 oktober 2027 lämna en slutredovisning av uppdraget till Regeringskansliet (Socialdepartementet). Medel för uppdraget har tilldelats Socialstyrelsen i regleringsbrev för budgetåret 2026 avseende anslag 1:14 Civilt försvar inom hälso- och sjukvård, anslagsposten 5 Del till Socialstyrelsen.\n\n*7. Ändring av uppdrag att köpa in och nationellt lagerhålla jodtabletter inom ramen för kärnenergiberedskapen*\\\nSocialstyrelsens uppdrag att köpa in och nationellt lagerhålla jodtabletter inom ramen för kärnenergiberedskapen i enlighet med regleringsbrevet för 2024 ändras på så sätt att tidpunkten då jodtabletter ska finnas tillgängliga i nationellt lager senareläggs från 2026 till 2027. Uppdraget ändras också på så vis att Socialstyrelsen senast den 15 november 2026 till Strålsäkerhetsmyndigheten ska lämna en prognos för myndighetens kostnader för uppdraget under 2026. Socialstyrelsen ska senast den 14 februari 2026 respektive 2027 lämna en skriftlig redovisning av uppdraget till Regeringskansliet (Socialdepartementet och Klimat- och näringslivsdepartementet). Redovisningarna ska hänvisa till regleringsbrevet för budgetåret 2026 avseende Socialstyrelsen. Socialstyrelsens kostnader för genomförandet av uppdraget ska belasta det under utgiftsområde 6 Försvar och samhällets krisberedskap för budgetåret 2026 uppförda anslaget 3:1 Strålsäkerhetsmyndigheten, anslagsposten 3 Kärnteknisk verksamhet. Socialstyrelsen ska fakturera Strålsäkerhetsmyndigheten för kostnaderna för uppdraget.\n\n*8. Inköp av sjukvårdsprodukter för traumavård och CBRN-utrustning*\\\nSocialstyrelsen ska köpa in sjukvårdsprodukter som behövs för traumavård och sådan CBRN-utrustning som bör finnas i lager som staten ansvarar för, i enlighet med regeringsbeslut II:5 den 16 februari 2023 (Uppdrag till Socialstyrelsen att köpa in och lagra\\\nsjukvårdsprodukter som behövs för traumavård till statliga säkerhetslager, S2023/00681) och i huvudsaklig enlighet med det underlag som myndigheten tagit fram inom ramen för regeringsbeslut II:3 den 16 mars 2023 (Uppdrag att skyndsamt stärka hälso- och sjukvårdens förmåga att hantera händelser med vissa farliga ämnen, S2023/01047). Det samlade lagervärdet av de sjukvårdsprodukter för traumavård och den CBRN-utrustning som Socialstyrelsen köper in, eller genom tjänsteköp förfogar över, får över tid inte överstiga 800 000 000 kronor. Socialstyrelsen ska hålla Regeringskansliet (Socialdepartementet) löpande informerat om uppdraget, inklusive investeringsplaner och inköp. Socialstyrelsens inköp ska utgöra en beredskapsinvestering och belasta myndighetens låneram i Riksgäldskontoret. Medel för uppdraget har tilldelats Socialstyrelsen i regleringsbrev för budgetåret 2026 avseende anslag 1:14 Civilt försvar inom hälso- och sjukvård, anslagsposten 7 Civilt försvar – Statliga säkerhetslager – sjukvårdsprodukter.\n\n*9. Nationell källa för ordinationsorsak*\\\nSocialstyrelsen ska fortsatt upprätthålla och vidareutveckla kodsystemet den nationella källan för ordinationsorsak. Socialstyrelsens ansvar för förvaltningen ska avse kontinuerlig uppdatering, kvalitetssäkring och utveckling av systemets terminologi och koder samt annan information som ingår i systemet. Socialstyrelsen ska också fortsatt stödja en bred implementering av den nationella källan för ordinationsorsak i vård- och omsorgsverksamheterna, särskilt i samband med införandet av den nationella läkemedelslistan. Myndigheten ska även analysera det arbete som tidigare har genomförts inom uppdraget med fokus på erfarenheter som kan vara viktiga i arbetet framgent. Socialstyrelsen ska senast den 30 september 2026 lämna en redovisning av uppdraget till Regeringskansliet (Socialdepartementet). Redovisningen av uppdraget ska hänvisa till regleringsbrevet för budgetåret 2026 avseende Socialstyrelsen. För uppdraget får Socialstyrelsen under 2026 använda 1 500 000 kronor som ska redovisas mot det under utgiftsområde 9 Hälsovård, sjukvård och social omsorg för budgetåret 2026 uppförda anslaget 1:6 Bidrag till folkhälsa och sjukvård, anslagsposten 28 Till Socialstyrelsens disposition.\n\n*10. Uppdrag att förvalta och stödja implementering av uppmärksamhetsinformation*\\\nSocialstyrelsen ska fortsätta arbetet med att förvalta och stödja implementeringen av informationsspecifikationen för uppmärksamhetsinformation samt utveckla det kliniska innehållet i specifikationen. Myndigheten ska även bidra utifrån myndighetens kompetens och resurser i arbetet med att implementera förordningen om det europeiska hälsodataområdet. Myndigheten ska även analysera det arbete som tidigare har genomförts inom uppdraget med fokus på erfarenheter som kan vara viktiga i arbetet framgent. Socialstyrelsen ska senast den 30 september 2026 lämna en redovisning av uppdraget till Regeringskansliet (Socialdepartementet). Redovisningen av uppdraget ska hänvisa till regleringsbrevet för budgetåret 2026 avseende Socialstyrelsen. För uppdraget får Socialstyrelsen under 2026 använda 700 000 kronor som ska redovisas mot det under utgiftsområde 9 Hälsovård, sjukvård och social omsorg för budgetåret 2026 uppförda anslaget 1:6 Bidrag till folkhälsa och sjukvård, anslagsposten 28 Till Socialstyrelsens disposition.\n\n*11. Ändring av uppdrag att ta fram kunskapsöversikter om postcovid*\\\nSocialstyrelsens uppdrag att ta fram kunskapsöversikter om postcovid (S2025/00162) ändras på så sätt att uppdragstiden förlängs till den 28 november 2026.\n\n*12. Uppdrag att ta fram stödmaterial till verksamheter i hälso- och sjukvården om bestämmelser rörande barn som anhöriga*\\\nSocialstyrelsen ska ta fram stödmaterial för personal inom olika verksamheter i hälso- och sjukvården för att stödja implementering av de lagförslag som lämnas i regeringens proposition Stärkta insatser för äldre och för de som vårdar eller stöder närstående (prop. 2025/26:60). Syftet med stödmaterialet ska vara att öka hälso- och sjukvårdspersonalens kunskaper om hur de kan uppmärksamma och stödja barn som är anhöriga i hälso- och sjukvårdens verksamheter. I arbetet med uppdraget ska Socialstyrelsen fortsätta att ta tillvara de erfarenheter som har gjorts inom regeringens tidigare satsningar på att stärka och utveckla stödet till barn som anhöriga (S2021/03118). Socialstyrelsen ska senast den 31 mars 2027 lämna en muntlig delredovisning av uppdraget till Regeringskansliet (Socialdepartementet) och därefter lämna en skriftlig slutredovisning senast den 31 mars 2028. Redovisningen av uppdraget ska hänvisa till regleringsbrevet för budgetåret 2026 avseende Socialstyrelsen. För uppdraget får Socialstyrelsen under 2026 använda 1 500 000 kronor som ska redovisas mot det under utgiftsområde 9 Hälsovård, sjukvård och social omsorg för budgetåret 2026 uppförda anslaget 4:5 Stimulansbidrag och åtgärder inom äldreområdet, anslagsposten 11 Utvecklingsmedel – Socialstyrelsen.\n\n*13. Se över föreskrifter för att möjliggöra vattkoppsvaccination för barn*\\\nSocialstyrelsen ges i uppdrag att se över föreskrifterna (HSLF-FS 2018:43) om behörighet för sjuksköterskor att förskriva och ordinera läkemedel. Socialstyrelsen ska under uppdraget ha dialog med Folkhälsomyndigheten, Sveriges Kommuner och Regioner samt andra relevanta aktörer i syfte att genomförandet av vaccinationer både som ikappvaccinationsinsats och inom barnvaccinationsprogrammet ska kunna påbörjas i Sverige senast första kvartalet 2027. Socialstyrelsen ska senast den 1 april 2027 lämna en slutredovisning av uppdraget till Regeringskansliet (Socialdepartementet).\n\n*14. Ändring av uppdrag att vidta insatser för att sprida och implementera de nationella riktlinjerna för ätstörningsvården och tillhörande kunskapsstöd*\\\nSocialstyrelsens uppdrag att vidta insatser för att sprida och implementera de nationella riktlinjerna för ätstörningsvården och tillhörande kunskapsstöd i enlighet med regleringsbrevet för budgetåret 2025 avseende Socialstyrelsen ändras på följande sätt. I uppdraget ska även ingå att ta fram kunskapsstöd avseende samsjuklighet i andra psykiatriska diagnoser/tillstånd vid ätstörningsproblematik samt att bidra till spridning och implementering av den framtagna kunskapen på ett verksamhetsnära sätt. Vidare ska ingå att sprida kunskap till berörda aktörer om den nationella högspecialiserade vården vid vissa svårbehandlade ätstörningar. Socialstyrelsen ska senast den 30 maj 2026, den 31 mars 2027 samt den 31 mars 2028 lämna en delredovisning av uppdraget till Regeringskansliet (Socialdepartementet). Socialstyrelsen ska senast den 31 mars 2029 lämna en slutredovisning av uppdraget till Regeringskansliet (Socialdepartementet). Redovisningarna ska hänvisa till regleringsbrevet för budgetåret 2026 avseende Socialstyrelsen. För uppdraget får Socialstyrelsen under 2026 använda 5 500 000 kronor som ska redovisas mot det under utgiftsområde 9 Hälsovård, sjukvård och social omsorg för budgetåret 2026 uppförda anslaget 1:8 Bidrag till psykiatri, anslagsposten 1 del till Socialstyrelsen.\n\n*15. Ändring av uppdrag att följa, utvärdera och stödja genomförandet av statens insatser inom området psykisk hälsa*\\\nSocialstyrelsens uppdrag att, i samverkan med Folkhälsomyndigheten, följa, utvärdera och stödja genomförandet av statens insatser inom området psykisk hälsa i enlighet med regeringsbeslut I:12 från den 27 februari 2020 (S2020/01044) och regleringsbrevet för budgetåret 2025 avseende Socialstyrelsen ändras på så sätt att uppdragstiden förlängs och att den stödjande delen i detta uppdrag utgår. Uppgiften att stödja ingår i stället i uppdraget att samordna, stödja och följa upp genomförandet av den nationella strategin inom området psykisk hälsa och suicidprevention (S2025/00016). Socialstyrelsen och Folkhälsomyndigheten ska senast den 30 juni 2026 lämna en delredovisning av uppdraget till Regeringskansliet (Socialdepartementet). Socialstyrelsen och Folkhälsomyndigheten ska senast den 30 augusti 2027 lämna en slutredovisning av uppdraget till Regeringskansliet (Socialdepartementet). Redovisningarna ska hänvisa till regleringsbrevet för budgetåret 2026 avseende Socialstyrelsen respektive regleringsbrevet för budgetåret 2026 avseende Folkhälsomyndigheten. För uppdraget får Socialstyrelsen under 2026 använda 4 500 000 kronor som ska redovisas mot det under utgiftsområde 9 Hälsovård, sjukvård och social omsorg för budgetåret 2026 uppförda anslaget 1:8 Bidrag till psykiatri, anslagsposten 1 del till Socialstyrelsen.\n\n*16. Ändring av uppdrag att betala ut statsbidrag till regionerna för att stärka och utveckla primärvårdens arbete med psykisk ohälsa*\\\nUppdraget till Socialstyrelsen att betala ut statsbidrag till regionerna för att stärka och utveckla primärvårdens arbete med psykisk ohälsa, i enlighet med regeringsbeslut I:4 från den 27 februari 2025 (S2025/00397), ändras på följande sätt. Socialstyrelsen ska under 2026 betala ut statsbidrag till regionerna för att stärka och utveckla primärvårdens arbete med psykisk ohälsa. Myndigheten ska också informera regionerna om bidraget och följa upp och utvärdera de insatser som regionerna har vidtagit med stöd av medlen. I uppdraget ingår att ta fram en fördelningsnyckel som ska baseras på befolkningsmängd. Medlen får under 2026 rekvireras av respektive region från Socialstyrelsen efter ansökningsförfarande. Av ansökan ska bl.a. framgå vilka insatser som ska genomföras med stöd av bidraget, hur insatserna ska följas upp på regional nivå och vilka resultat och effekter som bidraget ska medföra. Medlen ska betalas ut engångsvis efter rekvisition ställd till Socialstyrelsen senast den 1 december 2026. Regionernas redovisning av medel ska ske senast det datum som Socialstyrelsen bestämmer. Medel som inte har använts för avsett ändamål ska återbetalas till Socialstyrelsen senast den 31 mars 2027. Socialstyrelsen får i övrigt ange de villkor som ska förenas med statsbidraget inom ramen för ändamålet. Socialstyrelsen ska senast den 30 juni 2026 lämna en delredovisning av uppdraget till Regeringskansliet (Socialdepartementet). Delredovisningen ska innehålla en uppföljning av 2025 års statsbidrag. Socialstyrelsen ska senast den 30 juni 2027 lämna en slutredovisning av uppdraget till Regeringskansliet (Socialdepartementet). Slutredovisningen ska innehålla dels en uppföljning av 2026 års statsbidrag, dels en samlad uppföljning och utvärdering av statsbidraget under perioden 2025–2026, inbegripet eventuella rekommendationer till regionerna. Redovisningen ska hänvisa till regleringsbrevet för budgetåret 2026 avseende Socialstyrelsen. För uppdraget får Socialstyrelsen under 2026 använda 400 000 000 kronor, som ska redovisas mot det under utgiftsområde 9 Hälsovård, sjukvård och social omsorg för budgetåret 2026 uppförda anslaget 1:8 Bidrag till psykiatri, anslagsposten 1 del till Socialstyrelsen. Av medlen får 396 000 000 kronor fördelas till regionerna och 4 000 000 kronor får användas av Socialstyrelsen för eget arbete.\n\n*17. Uppdrag att analysera behov och ta fram kunskapsstöd för ökad psykisk hälsa och suicidprevention*\\\nSocialstyrelsen ska dels genomföra en analys av behovet av nationella riktlinjer och/eller kunskapsstöd för vård och stöd vid självskadebeteende, suicidalitet samt personlighetssyndrom, dels ta fram kunskapsstöd om socialtjänstens roll vid psykisk ohälsa med fokus på förebyggande arbete, i enlighet med inriktningen i den nya socialtjänstlagen (2025:400). Kunskapsstöden ska innehålla stöd till implementering. När uppdraget utförs ska Socialstyrelsen föra dialog med och inhämta kunskap och erfarenheter från berörda myndigheter, däribland Folkhälsomyndigheten Statens beredning för medicinsk och social utvärdering, den nationella samordnaren för ett samlat suicidpreventivt arbete (S2024/00816) samt andra berörda aktörer. Socialstyrelsen ska senast den 30 september 2026 respektive den 31 mars 2027 lämna en delredovisning av uppdraget till Regeringskansliet (Socialdepartementet). Den delredovisning som ska lämnas senast den 30 september 2026 ska innehålla resultaten av den del av uppdraget som rör en analys av behovet av nationella riktlinjer och/eller kunskapsstöd för vård och stöd vid självskadebeteende, suicidalitet samt personlighetssyndrom. Socialstyrelsen ska senast den 31 mars 2028 lämna en slutredovisning av uppdraget till Regeringskansliet (Socialdepartementet). Redovisningarna ska hänvisa till regleringsbrevet för budgetåret 2026 avseende Socialstyrelsen. För uppdraget får Socialstyrelsen under 2026 använda 3 500 000 kronor som ska redovisas mot det under utgiftsområde 9 Hälsovård, sjukvård och social omsorg för budgetåret 2026 uppförda anslaget 1:8 Bidrag till psykiatri, anslagsposten 1 del till Socialstyrelsen.\n\n*18. Uppdrag att fördela statsbidrag till regionerna för att subventionera viss vård vid svårbehandlade ätstörningar i form av nationell högspecialiserad vård och genomföra en fördjupad kartläggning av den högspecialiserade vården vid ätstörningar*\\\nSocialstyrelsen ska ta fram en fördelningsnyckel och fördela statsbidrag till regionerna för att subventionera viss vård vid svårbehandlade ätstörningar i form av nationell högspecialiserad vård. Fördelningsnyckeln ska baseras på relevanta nyckeltal, såsom kostnader för vårddygn i den högspecialiserade vården. I uppdraget ingår att administrera, följa upp och utvärdera satsningen samt att genomföra en fördjupad kartläggning och analys av den högspecialiserade vården vid ätstörningar för barn och unga respektive vuxna. Medlen får under 2026 rekvireras av respektive region från Socialstyrelsen utan ansökningsförfarande. Medlen ska betalas ut engångsvis efter rekvisition ställd till Socialstyrelsen senast den 1 december 2026. Regionernas redovisning av medel ska ske senast det datum som Socialstyrelsen bestämmer. Medel som inte har använts för avsett ändamål ska återbetalas till Socialstyrelsen senast den 31 mars 2027. För att få ta del av medlen ska regionerna redovisa uppnådda prestationer, bl.a. antal vårddygn som bidraget har subventionerat, antal genomförda remitteringar och konsultationer till den högspecialiserade vården vid ätstörningar, regionens egna kostnader för vårddygn inom den högspecialiserade vården och hur regionen har medfinansierat insatserna samt vilka resultat och effekter som bidraget har medfört. Socialstyrelsen får i övrigt ange de villkor som ska förenas med statsbidraget inom ramen för ändamålet. Socialstyrelsen ska senast den 3 maj 2026 lämna en muntlig delredovisning av uppdraget till Regeringskansliet (Socialdepartementet). Socialstyrelsen ska senast den 30 juni 2027 lämna en delredovisning av uppdraget till Regeringskansliet (Socialdepartementet). Delredovisningen ska dels innehålla en årlig uppföljning av statsbidraget, dels innehålla den fördjupade kartläggning och analys som ska genomföras inom uppdraget. Socialstyrelsen ska senast den 30 juni 2028 lämna en delredovisning av uppdraget till Regeringskansliet (Socialdepartementet). Delredovisningen ska innehålla en årlig uppföljning av statsbidraget. Socialstyrelsen ska senast den 30 juni 2029 lämna en slutredovisning av uppdraget till Regeringskansliet (Socialdepartementet). Slutredovisningen ska innehålla en samlad utvärdering av statsbidraget samt förslag på eventuella fortsatta utvecklingsbehov inom området och förslag på hur Socialstyrelsen kan stödja ett sådant fortsatt utvecklingsarbete. Redovisningarna ska hänvisa till regleringsbrevet för budgetåret 2026 avseende Socialstyrelsen. För uppdraget får Socialstyrelsen under 2026 använda 100 000 000 kronor som ska redovisas mot det under utgiftsområde 9 Hälsovård, sjukvård och social omsorg för budgetåret 2026 uppförda anslaget 1:8 Bidrag till psykiatri, anslagsposten 1 del till Socialstyrelsen. Av medlen får 95 000 000 kronor fördelas till regionerna och 5 000 000 kronor får användas av Socialstyrelsen för eget arbete.\n\n*19. Uppdrag att följa upp konsekvenser och effekter på munhälsan till följd av reformen Ett förstärkt högkostnadsskydd för tandvård*\\\nSocialstyrelsen ska med hjälp av bl.a. statistik från Tandhälsoregistret följa upp effekter och konsekvenser på munhälsan både hos de personer som omfattas och hos de som inte omfattas av det förstärkta högkostnadsskyddet för tandvård. Socialstyrelsen ska senast den 1 februari 2027 lämna en delredovisning och senast den 1 februari 2029 lämna en slutredovisning av uppdraget till Regeringskansliet (Socialdepartementet). För uppdraget får Socialstyrelsen under 2026 använda högst 500 000 kronor som ska redovisas mot det under utgiftsområde 9 Hälsovård, sjukvård och social omsorg för budgetåret 2026 uppförda anslaget 1:6 Bidrag till folkhälsa och sjukvård, anslagsposten 9 Högkostnadsskydd tandvård uppföljning m.m. Medlen betalas ut engångsvis efter rekvisition till Kammarkollegiet senast den 1 december 2026. Medel som inte har använts för avsett ändamål ska återbetalas senast den 31 mars 2027 till Kammarkollegiet. Vid samma tidpunkt ska en ekonomisk redovisning av använda medel lämnas till Kammarkollegiet. Redovisningar, rekvisition och återbetalning ska hänvisa till regleringsbrevet för budgetåret 2026 avseende Socialstyrelsen.\n\n*20. Uppdrag att stödja och bidra till arbetet mot ensamhet*\\\nSocialstyrelsen får under 2026 betala ut 90 000 000 kronor till kommunerna för att stärka deras arbete med att motverka ofrivillig ensamhet bland äldre personer genom hälsosamtal, i enlighet med bilaga 3. Medel till kommunerna rekvireras från Socialstyrelsen utan ansökningsförfarande. Socialstyrelsen ska ta fram anvisningar och får även ange villkor för användning av medlen. Socialstyrelsen ska också stödja arbetet i kommunerna med hälsosamtal samt uppmuntra till innovativa arbetssätt och nya samarbeten med t.ex. civilsamhället och näringslivet. I denna del av uppdraget ingår att ta fram ett kunskapsstöd för hur kommunerna kan arbeta med hälsosamtalen. Därtill ska myndigheten, inom sina verksamhetsområden hälso- och sjukvård och socialtjänst, bistå Folkhälsomyndigheten i arbetet mot ensamhet och i de insatser som Folkhälsomyndigheten genomför inom ramen för den nationella strategin mot ensamhet. Socialstyrelsen ska senast den 30 juni 2027 lämna en slutredovisning av uppdraget till Regeringskansliet (Socialdepartementet). Redovisningen av uppdraget ska hänvisa till regleringsbrevet för budgetåret 2026 avseende Socialstyrelsen. För uppdraget får Socialstyrelsen under 2026 använda 94 000 000 kronor som ska redovisas mot det under utgiftsområde 9 Hälsovård, sjukvård och social omsorg uppförda anslaget 2:7 Stöd för att förebygga ohälsa och ensamhet bland äldre, anslagsposten 2 Stöd för att förebygga ohälsa och ensamhet bland äldre, till Socialstyrelsens disposition. Av medlen får 4 000 000 kronor användas för Socialstyrelsens eget arbete.\n\n*21. Uppdrag att betala ut medel till regioner för arbete med nationella kvalitetsregister*\\\nSocialstyrelsen ska betala ut medel till regioner för arbete med nationella kvalitetsregister. Myndigheten ska fördela medel i syfte att upprätthålla en effektiv infrastruktur för nationella kvalitetsregister avseende IT, statistik och tillgänglighet. Medlen ska användas för att bidra till att registren kan användas för statlig uppföljning, för att stödja registrens tillgängliggörande för forskning, för samarbete med life science-sektorn och för att säkerställa juridisk kompetens. Regionerna rekvirerar medel från Socialstyrelsen utan ansökan. Socialstyrelsen ska lämna en slutredovisning av uppdraget senast den 30 maj 2027 till Regeringskansliet (Socialdepartementet). För uppdraget får Socialstyrelsen under 2026 använda 80 000 000 kronor som ska redovisas mot det under utgiftsområde 9 Hälsovård, sjukvård och social omsorg för budgetåret 2026 uppförda anslaget 1:6 Bidrag till folkhälsa och sjukvård, anslagsposten 47 Kvalitetsregister. Av dessa medel ska 78 500 000 kronor fördelas till regionerna. Resterande medel får användas av Socialstyrelsen för arbetet med uppdraget. Medel som inte har använts för avsett ändamål ska återbetalas till Socialstyrelsen. Regionen ska lämna en ekonomisk redovisning till Socialstyrelsen av hur de mottagna medlen har använts vid den tidpunkt som myndigheten bestämmer. Redovisningar, rekvisition och återbetalning ska hänvisa till regleringsbrevet för budgetåret 2026 avseende Socialstyrelsen.\n\n*22. Uppdrag om kunskapsstöd för vården vid sköldkörtelproblematik*\\\nSocialstyrelsen ska ta fram kunskapsstöd för vården vid sköldkörtelproblematik. I arbetet med uppdraget ska Socialstyrelsen särskilt fokusera på vård vid hypotyreos (brist på sköldkörtelhormon) och hypertyreos (överproduktion av sköldkörtelhormon). Inom ramen för arbetet med kunskapsstöd ska Socialstyrelsen beakta frågor som utredning, diagnostik, behandling och uppföljning inom vården vid sköldkörtelproblematik. Socialstyrelsen ska även belysa särskilda behov hos exempelvis gravida, äldre och andra grupper som kan vara särskilt sårbara. Uppdraget syftar till att genom nationellt stöd bidra till en mer jämlik, tillgänglig och kunskapsbaserad vård vid sköldkörtelsjukdom. Socialstyrelsen ska i genomförandet föra dialog med berörda huvudmän, professionsföreningar, patientförbund samt regionerna och partnerskapet för kunskapsstyrning inom hälso- och sjukvård. Socialstyrelsen ska senast den 30 september 2026 lämna en muntlig delredovisning av uppdraget. Socialstyrelsen ska senast den 31 januari 2028 lämna en slutredovisning av uppdraget till Regeringskansliet (Socialdepartementet). För uppdraget får Socialstyrelsen under 2026 använda 4 000 000 kronor som ska redovisas mot det under utgiftsområde 9 Hälsovård, sjukvård och social omsorg för budgetåret 2026 uppförda anslaget 1:6 Bidrag till folkhälsa och sjukvård, anslagsposten 38 Kvalitetshöjande insatser i hälso- och sjukvården. Medlen betalas ut engångsvis efter rekvisition till Kammarkollegiet senast den 1 december 2026. Medel som inte har använts för avsett ändamål ska återbetalas senast den 31 mars 2027 till Kammarkollegiet. Vid samma tidpunkt ska en ekonomisk redovisning av använda medel lämnas till Kammarkollegiet. Redovisning, rekvisition och återbetalning ska hänvisa till diarienumret för detta beslut.\n\n*23. Uppdrag till Socialstyrelsen att identifiera nödvändiga åtgärder för att minimera risker vid användandet av laserbehandlingar i estetiskt syfte*\\\nRegeringen ger Socialstyrelsen i uppdrag att identifiera nödvändiga åtgärder för att minimera risker vid användandet av laserbehandlingar i estetiskt syfte, exempelvis för att estetisk laser eller andra fysikaliska metoder än kirurgi inte ska användas felaktigt vid borttagande av maligna hudförändringar eller andra hudåkommor som kräver medicinsk utredning. Socialstyrelsen ska när uppdraget utförs utbyta erfarenheter och kunskap med Strålsäkerhetsmyndigheten. Syftet är att identifierade nödvändiga åtgärder för att säkerställa en säker användning av laserbehandlingar och andra fysikaliska metoder än kirurgi i estetiskt syfte. I uppdraget ingår att genomföra en informationskampanj till allmänheten om vad man ska tänka på inför en laserbehandling i estetiskt syfte. Socialstyrelsen ska delredovisa uppdraget 1 september 2026 och då presentera nödvändiga åtgärder och hur dessa avses genomföras. Socialstyrelsen ska slutredovisa uppdraget 1 februari 2027. För uppdraget får Socialstyrelsen under 2026 använda högst 7 000 000 kronor som ska redovisas mot det under utgiftsområde 9 Hälsovård, sjukvård och social omsorg för budgetåret 2026 uppförda anslaget 1:6 Bidrag till folkhälsa och sjukvård, anslagsposten 16 Åtgärder för en bättre cancervård. Medlen betalas ut engångsvis efter rekvisition till Kammarkollegiet senast den 1 december 2026. Medel som inte har använts för avsett ändamål ska återbetalas senast den 31 mars 2027 till Kammarkollegiet. Vid samma tidpunkt ska en ekonomisk redovisning av använda medel lämnas till Kammarkollegiet. Redovisning, rekvisition och återbetalning ska hänvisa till diarienumret för detta beslut.\n\n*24. Uppdrag att tillhandahålla och tillgängliggöra kunskapsstödet fysisk aktivitet i sjukdomsprevention och sjukdomsbehandling*\\\nSocialstyrelsen ska tillhandahålla och tillgängliggöra kunskapsstödet fysisk aktivitet i sjukdomsprevention och sjukdomsbehandling (FYSS). Socialstyrelsen ska lämna en slutredovisning av uppdraget senast den 1 mars 2027 till Regeringskansliet (Socialdepartementet). Redovisningen av uppdraget ska hänvisa till regleringsbrevet för budgetåret 2026 avseende Socialstyrelsen. För uppdraget får Socialstyrelsen under 2026 använda 5 200 000 kronor som ska redovisas mot det under utgiftsområde 9 Hälsovård, sjukvård och social omsorg för budgetåret 2026 uppförda anslaget 1:6 Bidrag till folkhälsa och sjukvård, anslagsposten 21 Fysisk aktivitet på recept. Medlen betalas ut engångsvis efter rekvisition till Kammarkollegiet senast den 1 december 2026. Medel som inte har använts för avsett ändamål ska återbetalas senast den 31 mars 2027 till Kammarkollegiet. Vid samma tidpunkt ska en ekonomisk redovisning av använda medel lämnas till Kammarkollegiet. Redovisning, rekvisition och återbetalning ska hänvisa till diarienumret för detta beslut.\n\n*25. Uppdrag att betala ut statsbidrag till kommuner och regioner gemensamt för att utveckla arbetslivsinriktade rehabiliteringsinsatser för personer med psykisk ohälsa enligt modellen Individual placement and support*\\\nSocialstyrelsen ska betala ut statsbidrag till kommuner och regioner gemensamt för att utveckla arbetslivsinriktade rehabiliteringsinsatser för personer med psykisk ohälsa eller psykisk funktionsnedsättning, enligt modellen Individual placement and support. För att få ta del av statsbidraget ska regionen tillsammans med kommunerna bl.a. genomföra insatser för att utveckla samverkan med övriga berörda samhällsaktörer, t.ex. myndigheter, näringsliv och organisationer inom det civila samhället. Socialstyrelsen ska genom ett ansökningsförfarande specificera de övriga villkor som ska vara förenade med statsbidraget inom ramen för ändamålet. Socialstyrelsen ska senast den 30 april 2027 respektive den 30 april 2028 lämna en delredovisning av uppdraget till Regeringskansliet (Socialdepartementet). Socialstyrelsen ska senast den 30 april 2029 lämna en slutredovisning av uppdraget med fokus på uppnådda resultat och effekter till Regeringskansliet (Socialdepartementet). För uppdraget får Socialstyrelsen under 2026 använda 11 000 000 kronor som ska redovisas mot det under utgiftsområde 9 Hälsovård, sjukvård och social omsorg för budgetåret 2026 uppförda anslaget 1:8 Bidrag till psykiatri, anslagsposten 3 Till Kammarkollegiets disposition. Medlen betalas ut engångsvis efter rekvisition till Kammarkollegiet senast den 1 december 2026. Medel som inte har använts för avsett ändamål ska återbetalas senast den 31 mars 2027 till Kammarkollegiet. Vid samma tidpunkt ska en ekonomisk redovisning av använda medel lämnas till Kammarkollegiet. Redovisning, rekvisition och återbetalning ska hänvisa till diarienumret för detta beslut. Av medlen får Socialstyrelsen fördela 10 000 000 till regioner och kommuner gemensamt och använda 1 000 000 kronor för eget arbete i samband med uppdraget.\n\n*26. Uppdrag att utreda utökade möjligheter att kombinera flera anställningar inom ramen för den praktiska tjänstgöringen för psykologer*\\\nSocialstyrelsen ska utreda om möjligheterna att kombinera flera anställningar inom ramen för den praktiska tjänstgöringen för psykologer bör utökas, detta med beaktande av att den praktiska tjänstgöringen för psykologer fortsatt ska vara bred och allsidig och hålla hög kvalitet. I uppdraget ingår bl.a. att belysa frågor som rör psykologisk kompetens i staten, övergångar mellan verksamheter i statlig, regional och privat verksamhet, utformningen av och kraven på handledning samt faktorer som hör samman med att säkerställa helhet och kvalitet i utbildningen. I uppdraget ingår vidare att lämna förslag på fortsatta utvecklingsbehov inom området med fokus på hur Socialstyrelsen kan stödja ett sådant fortsatt utvecklingsarbete. Inom ramen för detta ingår även att lämna en bedömning av om eventuella behov av föreskriftsändringar är nödvändiga. När uppdraget utförs ska Socialstyrelsen föra dialog med och inhämta kunskap och erfarenheter från berörda myndigheter, däribland Arbetsförmedlingen, Folkhälsomyndigheten, Försvarsmakten, Kriminalvården, Plikt- och prövningsverket och Statens Institutionsstyrelse samt andra berörda aktörer såsom Sveriges Kommuner och Regioner, regioner, privata vårdgivare och professionsföreningar. Socialstyrelsen ska senast den 31 mars 2027 lämna en redovisning av uppdraget till Regeringskansliet (Socialdepartementet). För uppdraget får Socialstyrelsen under 2026 använda 2 000 000 kronor som ska redovisas mot det under utgiftsområde 9 Hälsovård, sjukvård och social omsorg för budgetåret 2026 uppförda anslaget 1:8 Bidrag till psykiatri, anslagsposten 3 Till Kammarkollegiets disposition. Medlen betalas ut engångsvis efter rekvisition till Kammarkollegiet senast den 1 december 2026. Medel som inte har använts för avsett ändamål ska återbetalas senast den 31 mars 2027 till Kammarkollegiet. Vid samma tidpunkt ska en ekonomisk redovisning av använda medel lämnas till Kammarkollegiet. Redovisning, rekvisition och återbetalning ska hänvisa till diarienumret för detta beslut.\n\n*27. Uppdrag att sammanställa och sprida kunskap för att tidigt uppmärksamma och motverka problem med spel om pengar hos barn och unga*\\\nSocialstyrelsen ska utveckla och sprida kunskap om hur problem med spel om pengar tidigt kan motverkas hos barn och unga i risk för, eller som har utvecklat problem med spel om pengar. I detta arbete ska myndigheten även beakta dataspel som möjlig riskfaktor. Stödmaterialet ska rikta sig till professioner inom olika delar av socialtjänsten och hälso- och sjukvården som i sin verksamhet möter barn och unga samt deras vårdnadshavare. Uppdraget ska i lämpliga delar genomföras inom ramen för redan pågående arbete genom att ta tillvara eller komplettera de insatser som redan pågår eller planeras. Vid genomförandet av uppdraget ska myndigheten beakta grupper som kan vara särskilt sårbara för att utveckla problem med spel om pengar, till exempel barn och unga med vissa funktionsnedsättningar. Uppdraget ska redovisas, med fokus på uppnådda resultat, senast den 31 mars 2027.\n\n*28. Uppdrag att stärka patientsäkerhet genom säkerställd kunskapsnivå*\\\nSocialstyrelsen ska inom ramen för de samordnade krav på utbildning som följer av Europaparlamentets och rådets direktiv 2005/36/EG om erkännande av yrkeskvalifikationer samt de delegerade akter som antagits i enlighet med direktivet analysera hur patientsäkerheten kan stärkas och vid behov lämna förslag på hur man från nationell nivå kan stödja vårdgivarna i arbetet med att säkerställa att vårdpersonal har en kunskapsnivå som säkerställer god och säker nivå. Socialstyrelsen ska redovisa uppdraget till Regeringskansliet (Socialdepartementet) senast den 31 mars 2027.",
+   "dates": [
+    "2020-02-27",
+    "2022-11-09",
+    "2023-02-16",
+    "2023-03-16",
+    "2024-05-23",
+    "2025-02-27",
+    "2026-02-14",
+    "2026-05-03",
+    "2026-05-30",
+    "2026-06-30",
+    "2026-09-01",
+    "2026-09-30",
+    "2026-10-01",
+    "2026-11-15",
+    "2026-11-28",
+    "2026-12-01",
+    "2027-02-01",
+    "2027-03-01",
+    "2027-03-31",
+    "2027-04-01",
+    "2027-04-30",
+    "2027-05-30",
+    "2027-06-30",
+    "2027-08-30",
+    "2027-10-01",
+    "2028-01-31",
+    "2028-03-31",
+    "2028-04-30",
+    "2028-06-30",
+    "2029-02-01",
+    "2029-03-31",
+    "2029-04-30",
+    "2029-06-30",
+    "2029-08-30"
+   ],
+   "deadlines": [
+    "2026-02-14",
+    "2026-05-03",
+    "2026-05-30",
+    "2026-06-30",
+    "2026-09-30",
+    "2026-10-01",
+    "2026-11-15",
+    "2026-12-01",
+    "2027-02-01",
+    "2027-03-01",
+    "2027-03-31",
+    "2027-04-01",
+    "2027-04-30",
+    "2027-05-30",
+    "2027-06-30",
+    "2027-08-30",
+    "2027-10-01",
+    "2028-01-31",
+    "2028-03-31",
+    "2028-06-30",
+    "2029-02-01",
+    "2029-03-31",
+    "2029-04-30",
+    "2029-06-30",
+    "2029-08-30"
+   ],
+   "forecast_dates": [
+    "2026-10-30"
+   ],
+   "recipients": [
+    "Kammarkollegiet",
+    "Regeringskansliet (Socialdepartementet och Klimat- och näringslivsdepartementet)",
+    "Regeringskansliet (Socialdepartementet)",
+    "Strålsäkerhetsmyndigheten"
+   ],
+   "partners": [
+    "Arbetsförmedlingen",
+    "Folkhälsomyndigheten",
+    "Försvarsmakten",
+    "Kammarkollegiet",
+    "Kriminalvården",
+    "Myndigheten för civilt försvar",
+    "Riksgäldskontoret",
+    "Statens beredning för medicinsk och social utvärdering",
+    "Statistiska centralbyrån",
+    "Strålsäkerhetsmyndigheten",
+    "Sveriges Kommuner och Regioner",
+    "Totalförsvarets forskningsinstitut"
+   ],
+   "channels": [
+    "muntlig",
+    "delredovisning",
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos",
+    "analysera",
+    "föreslå",
+    "samordna",
+    "fördela_medel",
+    "utveckla",
+    "informera",
+    "statistik_data",
+    "beredskap_säkerhet",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [
+    "1:14",
+    "1:6",
+    "1:8",
+    "2:7",
+    "3:1",
+    "4:5"
+   ],
+   "expenditure_area_refs": [
+    6,
+    9
+   ],
+   "sfs_refs": [
+    "2025:400"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26375:assignments:0"
+  },
+  {
+   "title": "Socialtjänst m.m.",
+   "group": [],
+   "text": "*1. Uppdrag att fördela statsbidrag till kommuner för subventioner av placeringar i den sociala barn- och ungdomsvården*\\\nSocialstyrelsen ska ta fram en fördelningsnyckel och fördela statsbidrag till kommuner i syfte att subventionera placeringar i den sociala barn- och ungdomsvården så att barn och unga som är i behov av en placering också ska få det. Fördelningsnyckeln ska baseras på relevanta nyckeltal, bl.a. kostnader för placeringar i den sociala barn- och ungdomsvården. Medel till kommunerna rekvireras från Socialstyrelsen utan ansökningsförfarande. Medel som inte har rekvirerats senast det datum som Socialstyrelsen beslutar, får då omfördelas till de kommuner som angivit att de önskar ta del av dessa medel. Medel som inte har förbrukats eller inte använts i enlighet med villkoren under 2026 ska återbetalas till Socialstyrelsen senast det datum myndigheten beslutar. Socialstyrelsen får i övrigt ange de villkor som ska förenas med statsbidraget inom ramen för uppdraget. Myndigheten ska även följa upp hur kommunerna har använt medlen. Socialstyrelsen ska senast den 1 juni 2026 respektive 2027 delredovisa uppdraget till Regeringskansliet (Socialdepartementet) och ska senast den 1 juni 2028 lämna en slutredovisning av uppdraget till Regeringskansliet (Socialdepartementet). Redovisningarna ska hänvisa till regleringsbrevet för budgetåret 2026 avseende Socialstyrelsen. För uppdraget får Socialstyrelsen under 2026 använda 500 000 000 kronor, högst 2 000 000 kronor användas av Socialstyrelsen för eget arbete, som ska redovisas mot det under utgiftsområde 9 Hälsovård, sjukvård och social omsorg för budgetåret 2026 uppförda anslaget 4:7 Bidrag till utveckling av socialt arbete m.m., anslagsposten 16 Statsbidrag till kommuner för subventioner av placeringar i den sociala barn- och ungdomsvården.\n\n*2. Uppdrag att fortsätta arbetet med förstärkningsteam*\\\nSocialstyrelsen ska fortsätta arbetet med förstärkningsteam inom socialtjänsten. Avsikten är att arbetet ska bedrivas långsiktigt i enlighet med den inriktning som föreslås i Ds 2025:19. Socialstyrelsen ska senast den 23 april 2027 redovisa uppdraget till Regeringskansliet (Socialdepartementet). För uppdraget får Socialstyrelsen under 2026 använda 30 000 000 kronor som ska redovisas mot det under utgiftsområde 9 Hälsovård, sjukvård och social omsorg för budgetåret 2026 uppförda anslaget 4:7 Bidrag till utveckling av socialt arbete m.m., anslagsposten 4 Utvecklingsmedel.\n\n*3. Uppdrag avseende uppföljning av socialtjänstens hantering av barnfridsbrottet*\\\nSocialstyrelsen ska kartlägga socialtjänstens hantering och anmälningsbenägenhet av misstankar om barnfridsbrott inom socialtjänstens barn- och ungdomsenheter. Vid låg anmälningsbenägenhet ska myndigheten vidta åtgärder för att öka socialtjänstens anmälningsbenägenhet avseende barnfridsbrott till polisen. Därutöver ska myndigheten stärka socialtjänstens arbete med och stöd till barn som bevittnat våld av och mot närstående eller tidigare närstående, inklusive hedersrelaterat våld och förtryck samt sprida kunskap om barnfridsbrott och vikten av anmälan av misstänkta barnfridsbrott till polisen inom socialtjänsten. Socialstyrelsen ska inhämta kunskap och erfarenheter från Brottsförebyggande rådet som i regleringsbrevet för 2026 getts i uppdrag att kartlägga rättsväsendets hantering av barnfridsbrottet och från Linköpings universitet (Barnafrid – Nationellt centrum för kunskap om våld mot barn). För uppdraget får myndigheten under 2026 använda 1 000 000 kronor som ska belasta det under utgiftsområde 9 Hälsovård, sjukvård och social omsorg för budgetåret 2026 uppförda anslaget 4:7 Bidrag till utveckling av socialt arbete m.m., anslagsposten 4 Utvecklingsmedel och 500 000 kronor som ska belasta det under utgiftsområde 13 Integration och jämställdhet uppförda anslaget 3:1 Särskilda jämställdhetsåtgärder, anslagsposten 8 – del till Socialstyrelsen. Socialstyrelsen ska senast den 1 september 2026 och 1 mars 2028 lämna en skriftlig redovisning av uppdraget till Regeringskansliet (Socialdepartementet med kopia till Arbetsmarknadsdepartementet).\n\n*4. Uppdrag att ta fram ett stödmaterial för handläggning av LSS, med särskilt fokus på insatsen ledsagarservice*\\\nSocialstyrelsen ska ta fram ett stödmaterial avseende utredning, bedömningar av personkrets och rätt till insatser enligt LSS, bl.a. utifrån LSS intentioner och internationella konventioner. I uppdraget ska särskilt fokus läggas på insatsen ledsagarservice. Socialstyrelsen ska senast den 4 juni 2026 delredovisa uppdraget muntligt till Regeringskansliet (Socialdepartementet) och senast den 9 december 2026 lämna en skriftlig slutredovisning av uppdraget till Regeringskansliet (Socialdepartementet).\n\n*5. Ändring av uppdrag om stöd för inrättande och vidareutveckling av familjecentraler*\\\nSocialstyrelsens uppdrag att stödja inrättande och vidareutveckling av familjecentraler i enlighet med regleringsbrevet för 2024 ändras på så sätt att myndigheten ska erbjuda erfarenhetsutbyten och sprida kunskap till kommuner och regioner i arbetet kring organisering och styrning av familjecentraler eller familjecentralsliknande verksamheter. Uppdraget förtydligas också på så sätt att Socialstyrelsen ska bidra med stöd för att skapa goda förutsättningar för den samverkan som bedrivs vid familjecentraler bl.a. vad gäller samverkan kring att upptäcka och bedöma risk för våld samt stödja ett jämställt föräldraskap. Socialstyrelsen ska särskilt bidra till stöd i områden där utanförskapet är stort och där förtjänsterna av det förebyggande. hälsofrämjande och tillitsskapande arbete som sker vid familjecentraler är angelägna. Vidare ska Socialstyrelsen årligen under perioden 2026–2030 betala ut och följa upp statsbidrag för att finansiera länssamordnare eller processutvecklare i syfte att inrätta fler och vidareutveckla befintliga familjecentraler eller familjecentralsliknande verksamheter i kommuner och regioner med områden där utanförskapet är särskilt stort i enlighet med bilaga 2 till regleringsbrevet. Statsbidragen utbetalas engångsvis efter rekvisition till Socialstyrelsen senast den 25 april 2026. Medel som inte har rekvirerats i tid får då omfördelas till de regioner som angivit att de önskar ta del av dessa medel. Socialstyrelsen får i övrigt ange de villkor som ska förenas med statsbidraget inom ramen för ändamålet. Medel som inte har använts för avsett ändamål ska återbetalas senast den 26 mars 2027 till Socialstyrelsen. Socialstyrelsen ska senast den 14 mars 2026 redovisa uppdrag givet i regleringsbrevet för 2025, och årligen senast den 9 april 2027–2030 lämna en skriftlig delredovisning till Regeringskansliet (Socialdepartementet), samt senast den 9 april 2031 lämna en slutredovisning av uppdraget till Regeringskansliet (Socialdepartementet). Redovisningen av uppdraget ska hänvisa till regleringsbrevet för budgetåret 2026 avseende Socialstyrelsen. För uppdraget får Socialstyrelsen under 2026 använda totalt 20 000 000 kronor som ska redovisas mot det under utgiftsområde 9 Hälsovård, sjukvård och social omsorg för budgetåret 2026 uppförda anslaget 4:7 Bidrag till utveckling av socialt arbete m.m., anslagspost 4 Utvecklingsmedel. Av medlen får 2 000 000 kronor användas för Socialstyrelsens eget arbete med uppdraget.\n\n*6. Uppdrag att fördela medel till kommuner för insatser till barn och unga för att lämna kriminalitet*\\\nSocialstyrelsen ska ta fram en fördelningsnyckel och fördela statsbidrag till kommuner i syfte att möjliggöra individanpassat och ändamålsenligt stöd för barn och unga att ta sig ur kriminalitet eller annat destruktivt leverne som riskerar att leda in i kriminalitet. Fördelningsnyckeln ska baseras på relevanta nyckeltal som Socialstyrelsen avgör. Medel till kommunerna rekvireras från Socialstyrelsen utan ansökningsförfarande. Medel som inte har rekvirerats senast det datum som Socialstyrelsen beslutar, får då omfördelas till de kommuner som angivit att de önskar ta del av dessa medel. Medel som inte har förbrukats eller inte har använts i enlighet med villkoren under 2026 ska återbetalas till Socialstyrelsen senast det datum myndigheten beslutar. Socialstyrelsen får i övrigt ange de villkor som ska förenas med statsbidraget inom ramen för uppdraget. Myndigheten ska även följa upp hur kommunerna har använt medlen. Socialstyrelsen ska senast den 1 juni 2026 respektive 2027 delredovisa uppdraget till Regeringskansliet (Socialdepartementet) och ska senast den 1 juni 2028 lämna en slutredovisning av uppdraget till Regeringskansliet (Socialdepartementet). Redovisningarna ska hänvisa till regleringsbrevet för budgetåret 2026 avseende Socialstyrelsen. För uppdraget får Socialstyrelsen under 2026 använda 100 000 000 kronor som ska redovisas mot det under utgiftsområde 9 Hälsovård, sjukvård och social omsorg för budgetåret 2026 uppförda anslaget 4:7 Bidrag till utveckling av socialt arbete m.m., anslagsposten 17 Statsbidrag att fördela medel till kommuner för insatser till barn och unga för att lämna kriminalitet. Av medlen får högst 1 500 000 kronor användas för Socialstyrelsens eget arbete.\n\n*7. Uppdrag att stödja implementeringen av bidragsreformen*\\\nSocialstyrelsen ska stötta kommunerna med implementeringen av bidragsreformen. Uppdraget omfattar de delar av reformen som rör socialtjänstens verksamhet, bl.a. införande av ett bidragstak och ett aktivitetskrav i försörjningsstödet. Socialstyrelsen ska ta fram och sprida kunskapsstöd om de nya regler som följer av reformen. Stödet ska tas fram och börja spridas innan de nya reglerna träder i kraft. I uppdraget ingår även att ta fram och sprida ett bedömningsstöd för val av lämpliga och ändamålsenliga aktiviteter inom aktivitetskravet. Socialstyrelsen ska, i syfte att främja meningsfulla aktiviteter, ge kommunerna stöd och vägledning om olika överväganden som kan behöva göras vid arbetsplatsförlagda aktiviteter, bl.a. avseende olika typer av arbetsplatser, tidsperioden i en och samma aktivitet samt antal biståndsmottagare per handledare eller arbetsplats. Vidare ingår det i uppdraget att ta fram ett kunskapsstöd med fokus på att stärka socialtjänstens förmåga att identifiera behov och erbjuda ändamålsenliga insatser till biståndsmottagare med olika försörjningshinder, i syfte att förebygga och bryta långvarigt biståndsmottagande. Uppdraget omfattar även att ta fram informationsmaterial som kommunerna kan använda för att informera om den nya statliga ersättningen som regeringen planerar ska träda i kraft den 1 mars 2026; jobbpremien. Den del av uppdraget som avser jobbpremien ska senast den 6 mars 2026 muntligen redovisas till Regeringskansliet (Socialdepartementet). De delar av uppdraget som avser dels bedömningsstöd inom aktivitetskravet, dels kunskapsstöd för att bryta långvarigt biståndsmottagande ska senast den 11 december 2026 delredovisas till Regeringskansliet (Socialdepartementet). I delredovisningen ska myndigheten särskilt uppmärksamma om det finns behov av åtgärder för att aktivitetskravet ska kunna följas upp och utvärderas. Uppdraget ska slutredovisas senast den 31 januari 2028 till Regeringskansliet (Socialdepartementet). För uppdraget får Socialstyrelsen under 2026 använda 4 500 000 kronor som ska redovisas mot det under utgiftsområde 9 Hälsovård, sjukvård och social omsorg för budgetåret 2026 uppförda anslaget 4:7 Bidrag till utveckling av socialt arbete m.m, anslagspost 4 Utvecklingsmedel.\n\n*8. Uppdrag i samarbete med regeringens Äldreforskarråd*\\\nSocialstyrelsen ska anordna forum i samarbete med regeringens Äldreforskarråd i syfte att öka kunskapen om äldreomsorgens utmaningar och möjligheter samt koppla ihop forskning och praktik. Myndigheten ska informera Regeringskansliet (Socialdepartementet) om hur dessa har bidragit till att främja utvecklingen hos berörda målgrupper.\n\n*9. Uppdrag att ta fram stödmaterial för handläggare för att uppmärksamma och stödja barn när deras föräldrar söker stöd hos socialtjänsten*\\\nSocialstyrelsen ska ta fram stödmaterial för att öka kunskaperna om hur handläggare i socialtjänsten i ärenden avseende vuxna personer kan uppmärksamma och stödja barn när deras föräldrar söker stöd hos socialtjänsten. I arbetet med uppdraget ska Socialstyrelsen ta tillvara de erfarenheter som har gjorts inom regeringens tidigare satsningar att stärka och utveckla stödet till barn som anhöriga (S2021/03118). Socialstyrelsen ska senast den 31 mars 2027 lämna en muntlig delredovisning av uppdraget till Regeringskansliet (Socialdepartementet) och därefter lämna en skriftlig slutredovisning senast den 31 mars 2028. Redovisningen av uppdraget ska hänvisa till regleringsbrevet för budgetåret 2026 avseende Socialstyrelsen. För uppdraget får Socialstyrelsen under 2026 använda 1 500 000 kronor som ska redovisas mot det under utgiftsområde 9 Hälsovård, sjukvård och social omsorg för budgetåret 2026 uppförda anslaget 4:5 Stimulansbidrag och åtgärder inom äldreområdet, anslagsposten 11 Utvecklingsmedel – Socialstyrelsen.\n\n*10. Ändring av Socialstyrelsens uppdrag om kvalitetsutveckling i skyddat boende*\\\nUppdraget till Socialstyrelsen om Kvalitetsutveckling av skyddat boende, i enlighet med regeringsbeslut II:4 från den 21 december 2023 (S2023/03257), ändras på följande sätt. Socialstyrelsen ska inom ramen för uppdraget verka för stärkt kompetens om hedersrelaterat våld och förtryck, prostitution och människohandel för alla ändamål samt ekonomiskt våld vid skyddade boenden. Detta inkluderar kunskap om barn som följer med en vårdnadshavare till ett sådant boende. I uppdraget ingår att verka för stärkt kompetens om de särskilda förutsättningarna för nationella minoriteter och personer med funktionsnedsättning. Socialstyrelsen ska vidare undersöka i vilken utsträckning alternativa skydds- och boendelösningar används i stället för skyddat boende, hur dessa lösningar ser ut, i vilka situationer de tillämpas samt orsaken till att andra alternativ används. Översynen ska belysa om användningen skiljer sig åt mellan olika målgrupper, inklusive de som omfattas av uppdraget, samt vilka konsekvenser detta kan medföra för den enskilde. I uppdraget ingår även att se över om tillgången möter behoven av skyddat boende och hur det ser ut i olika geografiska områden. Socialstyrelsen ska vid behov lämna förslag på lämpliga åtgärder. Socialstyrelsen ska även ta fram ett stöd för placering av barn i skyddat boende med fokus på hedersrelaterat våld och förtryck. Uppdraget ändras också på så sätt att uppdragstiden förlängs. Uppdraget ska vad avser stärkt kompetens om olika former av våld samt översyn av alternativa skydds- och boendelösningar delredovisas den 8 februari 2027. Uppdraget ska som helhet slutredovisas den 8 februari 2029 till Regeringskansliet (Arbetsmarknadsdepartementet med kopia till Socialdepartementet). För uppdraget får Socialstyrelsen under 2026 använda medel som ska redovisas mot det under utgiftsområde 13 Integration och jämställdhet för budgetåret 2026 uppförda anslaget 3:1 Särskilda jämställdhetsåtgärder, anslagsposten 8 Särskilda jämställdhetsåtgärder – del till Socialstyrelsen.\n\n*11. Uppdrag att följa upp tillämpningen av det utvidgade utreseförbudet för barn*\\\nSocialstyrelsen ska kartlägga och följa upp i vilken utsträckning lagändringarna som utvidgat möjligheten till utreseförbud för barn enligt lagen (1990:52) med särskilda bestämmelser om vård av unga (LVU) har bidragit till att förebygga och öka skyddet mot att barn förs ut ur landet. Uppföljningen ska omfatta straffansvar för egenmäktighet med barn där ett barn under 15 år förs bort eller annars undanhålls, om gärningen är ägnad att hindra att vård enligt LVU påbörjas (7 kap. 4 § andra stycket 2 brottsbalken). Socialstyrelsen ska inhämta kunskap och erfarenheter från Brottsförebyggande rådet, Domstolsverket, Jämställdhetsmyndigheten och andra relevanta aktörer. Socialstyrelsen ska senast den 19 mars 2027 lämna en muntlig delredovisning av uppdraget till Regeringskansliet (Arbetsmarknadsdepartementet och Socialdepartementet) och senast den 30 mars 2028 lämna en skriftlig redovisning av uppdraget till Regeringskansliet (Arbetsmarknadsdepartementet med kopia till Socialdepartementet). För uppdraget får Socialstyrelsen under 2026 använda 1 000 000 kronor som ska belasta det under utgiftsområde 13 Integration och jämställdhet för budgetåret 2026 uppförda anslaget 3:1 Särskilda jämställdhetsåtgärder, anslagsposten 8 – del till Socialstyrelsen. Anslaget finansierar uppdraget i syfte att främja det sjunde jämställdhetspolitiska delmålet mot hedersrelaterat våld och förtryck. För uppdraget får Socialstyrelsen under 2026 använda 1 000 000 kronor som ska belasta det under utgiftsområde 9 Hälsovård, sjukvård och social omsorg för budgetåret 2026 uppförda anslaget 4:7 Bidrag till utveckling av socialt arbete m.m., anslagsposten 4 Utvecklingsmedel. Anslaget finansierar uppdraget i syfte att stimulera utvecklingen av socialt arbete. Regeringen avser att tilldela Socialstyrelsen medel även för 2027, under förutsättning att riksdagen anvisat medel till de aktuella anslagen.\n\n*12. Uppdrag att stärka arbetet med att förebygga och bekämpa mäns våld mot kvinnor inom socialtjänstens område*\\\nSocialstyrelsen ska stärka arbetet med att förebygga och bekämpa mäns våld mot kvinnor inom socialtjänstens område. Inom ramen för arbetet ska Socialstyrelsen sprida kunskap om det nya regelverket för skyddat boende (prop. 2023/24:31) och de skyldigheter som ändringarna innebär för kommuner, regioner och utförare. Spridningsinsatserna ska särskilt tydliggöra moment som identifierats som komplexa eller kritiska, såsom när ett barn bör placeras enligt socialtjänstlagen (2025:400) respektive lagen (2024:79) om placering av barn i skyddat boende, och hur dessa lagar förhåller sig till varandra. Insatserna ska även bidra till ökad kunskap om våld och synliggöra skyddat boende som en viktig våldsförebyggande åtgärd. Vidare ska insatserna bl.a. belysa vikten av att enskildas behov av olika anpassningar kan tillgodoses i skyddat boende. Det kan t.ex. handla om anpassningar med anledning av att den enskilde har en funktionsnedsättning eller ett skadligt bruk och beroende. Det kan även handla om behov av särskilda lösningar då den enskilde har husdjur. Därutöver ska Socialstyrelsen analysera data kopplat till hemlöshet med fokus på mäns våld mot kvinnor och våld i nära relation, inklusive att så långt som möjligt redovisa könsuppdelade uppgifter och analysera skillnader mellan kvinnor och män samt flickor och pojkar. Vidare ska Socialstyrelsen genomföra insatser för att skapa förutsättningar för och möjliggöra uppföljning i brukarnära verksamheter genom individbaserad systematisk uppföljning (ISU) i våldsrelaterade ärenden, samt utveckling och användning av Socialstyrelsens implementerings- och självskattningsverktyg. Socialstyrelsen ska även ge en samlad bild över vilka utbildningar och metoder som kommunerna använder sig av gällande våld samt undersöka om det finns områden som saknar uppdaterade utbildningar och metoder som är i linje med vetenskap och beprövad erfarenhet. Socialstyrelsen ska även kartlägga hur kommunerna arbetar med insatser utan behovsprövning i våldsrelaterade ärenden och undersöka om kommunerna behöver ytterligare vägledning i det arbetet. Socialstyrelsen ska senast den 1 mars 2027 redovisa uppdraget till Regeringskansliet (Socialdepartementet). För uppdraget får Socialstyrelsen under 2026 använda högst 7 500 000 kronor som ska redovisas mot det under utgiftsområde 9 Hälsovård, sjukvård och social omsorg för budgetåret 2026 uppförda anslaget 4:7 Bidrag till utveckling av socialt arbete m.m., anslagsposten 4 Utvecklingsmedel.",
+   "dates": [
+    "2023-12-21",
+    "2026-03-01",
+    "2026-03-06",
+    "2026-03-14",
+    "2026-04-25",
+    "2026-06-01",
+    "2026-06-04",
+    "2026-09-01",
+    "2026-12-09",
+    "2026-12-11",
+    "2027-02-08",
+    "2027-03-01",
+    "2027-03-19",
+    "2027-03-26",
+    "2027-03-31",
+    "2027-04-09",
+    "2027-04-23",
+    "2028-01-31",
+    "2028-03-01",
+    "2028-03-30",
+    "2028-03-31",
+    "2028-06-01",
+    "2029-02-08",
+    "2031-04-09"
+   ],
+   "deadlines": [
+    "2026-03-06",
+    "2026-03-14",
+    "2026-04-25",
+    "2026-06-01",
+    "2026-06-04",
+    "2026-09-01",
+    "2026-12-09",
+    "2026-12-11",
+    "2027-03-01",
+    "2027-03-19",
+    "2027-03-26",
+    "2027-03-31",
+    "2027-04-09",
+    "2027-04-23",
+    "2028-01-31",
+    "2028-03-30",
+    "2028-03-31",
+    "2028-06-01",
+    "2031-04-09"
+   ],
+   "recipients": [
+    "Regeringskansliet (Arbetsmarknadsdepartementet med kopia till Socialdepartementet)",
+    "Regeringskansliet (Arbetsmarknadsdepartementet och Socialdepartementet)",
+    "Regeringskansliet (Socialdepartementet med kopia till Arbetsmarknadsdepartementet)",
+    "Regeringskansliet (Socialdepartementet)"
+   ],
+   "partners": [
+    "Brottsförebyggande rådet",
+    "Domstolsverket",
+    "Jämställdhetsmyndigheten",
+    "Linköpings universitet"
+   ],
+   "channels": [
+    "muntlig",
+    "delredovisning",
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "föreslå",
+    "samordna",
+    "fördela_medel",
+    "utveckla",
+    "informera",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [
+    "3:1",
+    "4:5",
+    "4:7"
+   ],
+   "expenditure_area_refs": [
+    9,
+    13
+   ],
+   "sfs_refs": [
+    "1990:52",
+    "2024:79",
+    "2025:400"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26375:assignments:1"
+  },
+  {
+   "title": "Övriga uppdrag",
+   "group": [],
+   "text": "*1. Prognoser*\\\nSocialstyrelsen ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen för de anslag som myndigheten disponerar.\\\nPrognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Prognoserna lämnas i informationssystemet Hermes senast den\n\n2 februari\\\n22 april\\\n24 juli\\\n9 november\\\n*Prognos för beställningsbemyndiganden*\\\nMyndigheten ska redovisa en prognos för de förslag om beställningsbemyndiganden som lämnats i budgetunderlaget och för de åtaganden som ingåtts med stöd av äldre beställningsbemyndiganden. Prognosen ska lämnas senast den 24 juli 2026 via Statsredovisningssystemet i Hermes och utformas enligt närmare information från Statskontoret.\n\n*2. Uppdrag att stärka samverkan med Inspektionen för vård och omsorg*\\\nSocialstyrelsen ska utveckla och stärka sin samverkan med Inspektionen för vård och omsorg. Socialstyrelsen ska när så bedöms lämpligt utbyta information och samarbeta med Inspektionen för vård och omsorg för att möjliggöra för berörda huvudmän att ta del av lämpligt kunskapsstöd i syfte att åtgärda de eventuella brister som påtalats av Inspektionen för vård och omsorg vid en tillsynsinsats. Socialstyrelsen ska senast den 31 mars 2027 lämna en redovisning av uppdraget till Regeringskansliet (Socialdepartementet).\n\n*3. Utveckla och ge stöd för implementering av kunskaps- och bedömningsstöd om hedersrelaterat våld och förtryck för socialtjänst och hälso- och sjukvård*\\\nSocialstyrelsen ska stärka arbetet med att utveckla och ge stöd för implementering av kunskaps- och bedömningsstöd om hedersrelaterat våld och förtryck för socialtjänst och hälso- och sjukvård. Socialstyrelsen ska även fortsatt arbeta med att utveckla familjebehandling i hedersrelaterade ärenden. I denna del ska inriktningen att ge stöd till socialtjänsten att vid nätverksplaceringar motverka att barn utsätts för hedersrelaterat våld och förtryck och att i kunskapsstöd uppmärksamma syskons risk för utsatthet vid förekomst av hedersrelaterat våld och förtryck, som givits genom ändring av uppdrag att stödja genomförandet inom vård och omsorg av den nationella strategin för att förebygga och bekämpa mäns våld mot kvinnor i regleringsbrevet för 2024, beaktas. Mot bakgrund av myndighetens tidigare arbete med bedömningsstödet Heva ska Socialstyrelsen fortsatt utveckla bedömningsstöd för personer över 18 år. Därtill ska bedömningsstöd för barn under 12 år utvecklas. Socialstyrelsen ska även utveckla stöd till socialtjänsten för akuta skyddsbedömningar i ärenden som rör barn som är utsatta eller riskerar att utsättas för våld i nära relationer, hedersrelaterat våld och förtryck eller andra typer av våld och övergrepp. Samtliga delar av uppdraget ska, när så är lämpligt, omfatta utbildning, spridning och implementering samt kopplas till kunskapsstyrningen av hälso- och sjukvården. Genomgående i uppdraget ska funktionshinderperspektivet beaktas. Uppdraget ska delredovisas den 19 mars 2027 och slutredovisas den 8 februari 2029 till Regeringskansliet (Arbetsmarknadsdepartementet med kopia till Socialdepartementet). För uppdraget får Socialstyrelsen under 2026 använda medel som ska redovisas mot det under utgiftsområde 13 Integration och jämställdhet för budgetåret 2026 uppförda anslaget 3:1 Särskilda jämställdhetsåtgärder, anslagsposten 8 Särskilda jämställdhetsåtgärder – del till Socialstyrelsen.\n\n*4. Utveckling av återfallsförebyggande metoder i arbetet mot hedersrelaterat våld och förtryck*\\\nSocialstyrelsen ska utveckla återfallsförebyggande metoder för personer, oavsett kön, som utövar eller har utövat hedersrelaterat våld och förtryck. I arbetet ska beaktas att dessa personer själva kan ha utsatts eller utsätts för våld. Metoden eller metoderna som utvecklas ska därefter utvärderas för att på sikt kunna implementeras på regional och lokal nivå inom Socialstyrelsens verksamhetsområden. Socialstyrelsen ska inhämta kunskap och erfarenheter från Statens beredning för medicinsk och social utvärdering (SBU) som i regleringsbrevet för 2026 ges i uppdrag att bl.a. sammanställa kunskap om metoder i det återfallsförebyggande arbetet med våldsutövare, samt Kriminalvården och Statens Institutionsstyrelse. Socialstyrelsen ska muntligen delredovisa uppdraget senast den 11 augusti 2026, den 11 augusti 2027 och den 10 augusti 2028 samt slutredovisa uppdraget senast den 8 februari 2029 till Regeringskansliet (Arbetsmarknadsdepartementet med kopia Socialdepartementet). Medel för uppdraget har tilldelats För uppdraget får Socialstyrelsen under 2026 använda medel som ska redovisas mot det under utgiftsområde 13 Integration och jämställdhet för budgetåret 2026 uppförda anslaget 3:1 Särskilda jämställdhetsåtgärder, anslagsposten 8 Särskilda jämställdhetsåtgärder – del till Socialstyrelsen.\n\n*5. Utveckla kunskap om informations-, stöd- och skyddsbehov hos enskilda som vill lämna relationer där hedersrelaterat våld eller förtryck förekommer*\\\nSocialstyrelsen ska utveckla kunskapen om informations-, stöd- och skyddsbehovet hos enskilda som vill lämna relationer där hedersrelaterat våld eller förtryck förekommer. Inom ramen för uppdraget ska Socialstyrelsen kartlägga enskildas behov av information, stöd och skydd i relation till hälso- och sjukvård samt socialtjänst för att kunna leva ett självständigt liv fritt från hedersrelaterat våld och förtryck. Inom ramen för uppdraget ska myndigheten särskilt beakta frågor om vårdnad, boende och umgänge och möjlighet till skilsmässa, även i en religiös kontext, och hinder i form av repressalier och annat eftervåld. Uppdraget ska utformas så att kunskapen kan omhändertas av aktörer på regional och lokal nivå inom Socialstyrelsens verksamhetsområden i arbetet med att ge information, stöd och skydd för våldsutsatta och att underlätta för barn och vuxna att lämna relationer där hedersrelaterat våld eller förtryck förekommer eller på annat sätt förändra sin situation. Uppdraget ska genomgående uppmärksamma barn och vuxna i särskilt sårbara situationer. Uppdraget ska genomföras i samarbete med Jämställdhetsmyndigheten och Myndigheten för familjerätt och föräldraskapsstöd inom ramen för deras arbete kring frågor som rör våld, vårdnad, boende och umgänge. Socialstyrelsen ska muntligen delredovisa uppdraget den 11 augusti 2026 och den 11 augusti 2027 samt skriftligt redovisa uppdraget den 10 augusti 2028 till Regeringskansliet (Arbetsmarknadsdepartementet med kopia till Socialdepartementet). För uppdraget får Socialstyrelsen under 2026 använda medel som ska redovisas mot det under utgiftsområde 13 Integration och jämställdhet för budgetåret 2026 uppförda anslaget 3:1 Särskilda jämställdhetsåtgärder, anslagsposten 8 Särskilda jämställdhetsåtgärder – del till Socialstyrelsen.\n\n*6. Stärkt motståndskraft mot hybridhot*\\\nInom ramen för regelbunden risk- och sårbarhetsanalys ska Socialstyrelsen:\n\n- analysera aktörsdrivna hybridhot som kan påverka eller skada verksamhet, kritiska processer och beroenden inom sektorn,\n- säkerställa en kontinuerlig lägesuppfattning av incidenter som skulle kunna utgöra hybridincidenter inom den egna verksamheten och inom sitt sektorsansvar,\n- sammanställa öppen information om den hotbild som finns mot sektorn och tillgängliggöra den för aktörer som tillhandahåller samhällsviktig verksamhet inom sektorn samt\n- samverka med Säkerhetspolisen, Myndigheten för civilt försvar och andra berörda myndigheter i syfte att vid behov klargöra eller utveckla rapporteringsvägar för avvikelser eller säkerhetsincidenter.\\\n  Uppdraget ska redovisas senast den 28 februari 2027 till Regeringskansliet (Socialdepartementet).\n\n*7. Avtal för stärkt försörjningsberedskap*\\\nSocialstyrelsen ska identifiera behov av och, i de fall myndigheten bedömer det lämpligt och avtal ryms inom givna bemyndiganden, teckna avtal som syftar till att upprätthålla försörjningen av varor och tjänster som är nödvändiga för myndighetens prioriterade uppgifter vid fredstida kriser och höjd beredskap. I de fall Socialstyrelsen nyttjar särskilda avtalsformer i form av sådana försörjningsberedskapsavtal (F-avtal) som beskrivs i SOU 2025:68 ska dessa avtal löpande rapporteras till Myndigheten för civilt försvar. Uppdraget ska redovisas till Regeringskansliet (Socialdepartementet och Försvarsdepartementet) senast den 22 februari 2027, och ingå i den särskilda redovisningen för civilt försvar. Som stöd för arbetet kan myndigheten använda bl.a. Utgångspunkter för totalförsvaret 2025–2030.\n\n*8. Utgångspunkter för totalförsvaret 2025–2030*\\\nSocialstyrelsen ska i sin roll som sektorsansvarig myndighet inom beredskapssektorn hälsa, vård och omsorg komplettera och konkretisera Utgångspunkter för totalförsvaret 2025–2030 utifrån bereskapssektorns ansvarsområde. Uppdraget ska redovisas till Regeringskansliet (Socialdepartementet och Försvarsdepartementet) senast den 22 februari 2027. Detta ska ingå i den särskilda redovisningen för civilt försvar.\n\n*9. Uppdrag att ansluta relevanta informationsflöden till infrastruktur för säker digital kommunikation inom offentlig sektor*\\\nSocialstyrelsen ska under 2026 fortsätta arbetet med att ansluta relevanta informationsflöden till den infrastruktur för säker digital kommunikation inom offentlig sektor som Myndigheten för digital förvaltning har i uppdrag att tillhandahålla. Socialstyrelsen ska löpande hålla Myndigheten för digital förvaltning informerad om uppdraget.\n\n*10. Uppdrag att ta fram en plan för att utveckla arbetet med att motverka felaktiga utbetalningar av statsbidrag*\\\nSocialstyrelsen ska ta fram en plan för hur myndigheten avser att utveckla arbetet med att motverka felaktiga utbetalningar av statsbidrag. Planen ska innehålla identifierade utvecklingsbehov, mål för arbetet samt de aktiviteter som myndigheten avser att genomföra under 2027–2029. Vidare ska planen beskriva på vilket sätt aktiviteterna i planen ska integreras i och bli en del av myndighetens ordinarie verksamhet. Socialstyrelsen ska senast den 30 oktober 2026 lämna en redovisning av uppdraget till Regeringskansliet (Socialdepartementet med kopia till Finansdepartementet). En redovisning av genomförda åtgärder och resultat ska även redovisas årligen under perioden i myndighetens årsredovisning.\n\n*11. Uppdrag att genomföra insatser utifrån minoritetspolitikens mål Socialstyrelsen ska genomföra insatser för att säkerställa*tillämpningen av lagen (2009:724) om nationella minoriteter och minoritetsspråk inom myndighetens verksamhetsområde. Arbetet ska utgå från det minoritetspolitiska målet och dess delområden. Socialstyrelsen ska kontinuerligt följa de nationella minoriteternas situation inom myndighetens ansvarsområde och bidra till jämlika förutsättningar för god hälsa.\n\n*12. Förenkla för företag genom verksamt.se*\\\nSocialstyrelsen ska förvalta myndighetens innehåll på den myndighetsgemensamma webbplatsen verksamt.se\n\n*13. Stärkt arbete mot utanförskap*\\\nSocialstyrelsen ska förvalta och utveckla sitt arbete när det gäller att använda sig av regionala statistikområden (RegSo) för analyser, uppföljningar och utvärderingar samt vid redovisning av statistik med syfte att främja hälsa och kunskap om omsorg och vård i områden där utanförskapet är stort. Vidare ska Socialstyrelsen analysera hur myndigheten kan stödja kommuner och regioner för att främja individers hälsa och kunskap om omsorg och vård i områden där utanförskapet är stort samt belysa hur myndighetens arbete mot utanförskap kan stärkas. Socialstyrelsen ska även bistå Boverket med sakkunskap och underlag som bidrar till Boverkets uppdrag om utanförskap i regleringsbrev för 2026. Socialstyrelsens tidigare uppdrag om effektivare integration och minskat utanförskap (regleringsbrev 2024) samt Statistiska centralbyråns och Boverkets fördjupade analys av områden där utanförskapet är stort (SCB, Slutrapport av regeringsuppdrag 2024:2) ska vara utgångspunkter för arbetet. Socialstyrelsen ska löpande hålla Regeringskansliet (Socialdepartementet och Arbetsmarknadsdepartementet) informerat om uppdraget. Uppdraget ska redovisas till Regeringskansliet (Socialdepartementet och Arbetsmarknadsdepartementet) senast den 5 mars 2027. Socialstyrelsen får under 2026 använda högst 500 000 kronor för uppdraget. Kostnaden ska belasta utgiftsområde 13, anslag 4:1 Åtgärder mot utanförskap, anslagspost 2 Åtgärder mot utanförskap – del till Kammarkollegiet. Medlen utbetalas engångsvis efter rekvisition ställd till Kammarkollegiet senast den 30 maj 2026. Medel som inte förbrukas ska återbetalas till Kammarkollegiet senast den 31 mars 2027. Senast vid samma tidpunkt ska en ekonomisk redovisning över använda medel lämnas till Kammarkollegiet. Rekvisition, redovisning och återbetalning av medel ska hänvisa till detta regleringsbrev.\n\n*14. Kunskapsstöd avseende psykosociala bedömningar inom ramen för asylprocedurförordningen*\\\nSocialstyrelsen ska ta fram ett kunskapsstöd avseende den psykosociala bedömning som ingår i den multidisciplinära åldersbedömningen enligt förordning (EU) 2024/1348 (asylprocedurförordningen). Kunskapsstödet ska innehålla vägledning om vilka moment en psykosocial bedömning kan innefatta samt en redogörelse för vilka discipliner som har det vetenskapliga stöd och den yrkeskompetens som krävs för att genomföra sådana bedömningar. Kunskapsstödet ska kunna användas i Migrationsverkets arbete med att tillhandahålla en funktion för psykosociala bedömningar och medför inte i sig någon ändring av de rättsliga förutsättningarna för åldersbedömningar. Uppdraget ska genomföras i nära dialog med Migrationsverket. För uppdraget får Socialstyrelsen under 2026 använda högst 700 000 kronor som ska redovisas mot det under utgiftsområde 8 Migration uppförda anslaget 1:3 Migrationspolitiska åtgärder, ap. 2 Migrationspolitiska projekt och bidrag – del till Kammarkollegiet. Medlen utbetalas engångsvis efter rekvisition till Kammarkollegiet senast den 30 november 2026. Socialstyrelsen ska redovisa kunskapsstödet till Migrationsverket med kopia till Regeringskansliet (Justitiedepartementet och Socialdepartementet) senast den 12 juli 2026.\n\n*15. Sammanhållet kunskaps- och metodstöd för brottförebyggande arbete*\\\nSocialstyrelsen, Statens skolverk och Brottsförebyggande rådet (Brå) ska gemensamt ta fram ett sammanhållet, behovsanpassat och praktiknära kunskaps- och metodstöd för brottsförebyggande arbete i skolväsendet. Stödet ska omfatta såväl social som situationell brottsprevention. Med social brottsprevention avses i detta uppdrag åtgärder för att minska individers benägenhet att begå brott samt att minska risken för individer att utsättas för brott. Med situationell brottsprevention avses i detta uppdrag att förhindra eller försvåra att brott begås genom att förändra den aktuella platsen eller situationen där brott kan begås. Stödmaterialet ska knyta väl an till skolväsendets uppdrag. Uppdraget ska samordnas med uppdraget om situationell brottsprevention i skolväsendet (U2025/01545, Ju2025/01479). Även andra relevanta uppdrag på området ska beaktas. Vid genomförande av uppdraget ska myndigheterna inhämta kunskaper och erfarenheter från Polismyndigheten och Statens institutionsstyrelse. Skolverket ska vara samordnande myndighet. Myndigheterna ska gemensamt redovisa uppdraget till Regeringskansliet (Utbildningsdepartementet, Justitiedepartementet och Socialdepartementet) senast den 30 juni 2027. För uppdraget får Socialstyrelsen använda 500 000 kronor under 2026 som ska redovisas mot det under utgiftsområde 4 för budgetåret 2026 uppförda anslaget 1:14 Bidrag till brottsförebyggande arbete – del till Kammarkollegiet. Medlen betalas ut engångsvis efter rekvisition till Kammarkollegiet senast den 1 december 2026. Medel som inte har använts ska återbetalas senast den 31 mars 2027 till Kammarkollegiet. Vid samma tidpunkt ska en ekonomisk redovisning av använda medel lämnas till Kammarkollegiet. Redovisning, rekvisition och återbetalning ska hänvisa till regleringsbrevet för Brå för 2026. För 2027 beräknas 500 000 kronor tilldelas Socialstyrelsen, under förutsättning att riksdagen anvisar medel för det aktuella anslaget.",
+   "dates": [
+    "2026-05-30",
+    "2026-07-12",
+    "2026-07-24",
+    "2026-08-11",
+    "2026-10-30",
+    "2026-11-30",
+    "2026-12-01",
+    "2027-02-22",
+    "2027-02-28",
+    "2027-03-05",
+    "2027-03-19",
+    "2027-03-31",
+    "2027-06-30",
+    "2027-08-11",
+    "2028-08-10",
+    "2029-02-08"
+   ],
+   "deadlines": [
+    "2026-05-30",
+    "2026-07-12",
+    "2026-07-24",
+    "2026-08-11",
+    "2026-10-30",
+    "2026-11-30",
+    "2026-12-01",
+    "2027-02-22",
+    "2027-02-28",
+    "2027-03-05",
+    "2027-03-31",
+    "2027-06-30",
+    "2029-02-08"
+   ],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [
+    "Boverket",
+    "Kammarkollegiet",
+    "Migrationsverket",
+    "Myndigheten för civilt försvar",
+    "Regeringskansliet (Arbetsmarknadsdepartementet med kopia Socialdepartementet)",
+    "Regeringskansliet (Arbetsmarknadsdepartementet med kopia till Socialdepartementet)",
+    "Regeringskansliet (Justitiedepartementet och Socialdepartementet)",
+    "Regeringskansliet (Socialdepartementet med kopia till Finansdepartementet)",
+    "Regeringskansliet (Socialdepartementet och Arbetsmarknadsdepartementet)",
+    "Regeringskansliet (Socialdepartementet och Försvarsdepartementet)",
+    "Regeringskansliet (Socialdepartementet)",
+    "Regeringskansliet (Utbildningsdepartementet, Justitiedepartementet och Socialdepartementet)"
+   ],
+   "partners": [
+    "Boverket",
+    "Brottsförebyggande rådet",
+    "Inspektionen för vård och omsorg",
+    "Jämställdhetsmyndigheten",
+    "Kammarkollegiet",
+    "Kriminalvården",
+    "Migrationsverket",
+    "Myndigheten för civilt försvar",
+    "Myndigheten för digital förvaltning",
+    "Myndigheten för familjerätt och föräldraskapsstöd",
+    "Polismyndigheten",
+    "Statens beredning för medicinsk och social utvärdering",
+    "Statens institutionsstyrelse",
+    "Statens skolverk",
+    "Statistiska centralbyrån",
+    "Statskontoret",
+    "Säkerhetspolisen"
+   ],
+   "channels": [
+    "årsredovisning",
+    "hermes",
+    "muntlig",
+    "delredovisning",
+    "slutredovisning",
+    "budgetunderlag"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos",
+    "analysera",
+    "samordna",
+    "fördela_medel",
+    "utveckla",
+    "tillsyn_kontroll",
+    "informera",
+    "statistik_data",
+    "beredskap_säkerhet",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [
+    "1:14",
+    "1:3",
+    "3:1",
+    "4:1"
+   ],
+   "expenditure_area_refs": [
+    4,
+    8,
+    13
+   ],
+   "sfs_refs": [
+    "2009:724"
+   ],
+   "sub_questions": [
+    "analysera aktörsdrivna hybridhot som kan påverka eller skada verksamhet, kritiska processer och beroenden inom sektorn,",
+    "säkerställa en kontinuerlig lägesuppfattning av incidenter som skulle kunna utgöra hybridincidenter inom den egna verksamheten och inom sitt sektorsansvar,",
+    "sammanställa öppen information om den hotbild som finns mot sektorn och tillgängliggöra den för aktörer som tillhandahåller samhällsviktig verksamhet inom sektorn samt",
+    "samverka med Säkerhetspolisen, Myndigheten för civilt försvar och andra berörda myndigheter i syfte att vid behov klargöra eller utveckla rapporteringsvägar för avvikelser eller säkerhetsincidenter.\\"
+   ],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26375:assignments:2"
+  },
+  {
+   "title": "Tidigare givna uppdrag i Socialstyrelsens regleringsbrev",
+   "group": [],
+   "text": "| | | |\n| --- | --- | --- |\n| **Organisationsstyrning** | **Beslut om uppdrag** | **Avrapporteringsdatum** |\n| Säkerställa proaktivitet och handlingskraft vid fredstida krissituationer eller vid krig och krigsfara | Regleringsbrev för 2025 | den 1 mars 2026 |\n| **Uppdrag** | **Beslut om uppdrag** | **Avrapporteringsdatum** |\n| Uppdrag att stärka socialtjänsten i att arbeta med skolrelaterade problem och stödja en positiv utveckling | Regleringsbrev för 2025 | den 31 januari 2026 |\n| Uppdrag att förbättra och följa placerade barns skolresultat | Regleringsbrev för 2025 | den 31 januari 2026 |\n| Inköp inom ramen för avtalet Joint Procurement Agreement och med anledning av andra EU-mekanismer | Regleringsbrev för 2025 | den 1 februari 2026 och den 1 februari 2027 |\n| Uppdrag att på nationell nivå säkra tillgången till antiviralt läkemedel mot infektion med ett visst orthopoxvirus | S2022/02973 ändrad genom regleringsbrev för 2024 | den 1 februari årligen |\n| Uppdrag om det sociala perspektivet i samhällsplaneringen | Regleringsbrev för 2024 | den 2 februari 2026 |\n| Uppdrag att fortsätta, samordna och förstärka arbetet på patientsäkerhetsområde | Regleringsbrev för 2025 | den 15 februari 2026 |\n| Uppdrag att stödja genomförandet inom vård och omsorg av den nationella strategin för att förebygga och bekämpa mäns våld mot kvinnor | A2022/01028 ändrade genom regleringsbrev för 2025 | redovisning den 27 februari 2026 med redovisning vad avser delen om rekommendationer kring att systematiskt fråga om våld den 26 februari 2027 |\n| Uppdrag att analysera vilka ytterligare åtgärder som kan behöva vidtas för att förebygga och förhindra att fastställande av ett annat kön än det som framgår av folkbokföringen sker som ett led i brottslig verksamhet | Regleringsbrev för 2025 | den 27 februari 2026 |\n| Bedömningar av tillgång och efterfrågan på legitimerade yrkesutövare i hälso- och sjukvården och en samlad kartläggning och bedömning av hälso- och sjukvårdens tillgång på och långsiktiga behov av specialistläkare inom samtliga specialiteter | Regleringsbrev för 2018 | den 28 februari årligen |\n| Uppdrag om att möjliggöra hälsosamma levnadsvanor med fokus på fysisk aktivitet för personer med funktionsnedsättning som får stöd enligt LSS eller socialtjänstlagen | Regleringsbrev för 2025 | den 1 mars 2026 |\n| Uppdrag att följa upp den nationella hemlöshetsstrategin | Regleringsbrev för 2025 | den 2 mars 2026 |\n| Effektivare arbete för integration och minskat utanförskap | Regleringsbrev för 2024 | den 5 mars 2026 |\n| Uppdrag att stärka och påskynda förenklingsarbetet | Regleringsbrev för 2024 | den 15 mars 2026 |\n| Uppdrag att förebygga våldsutsatthet och våldsutövande bland vuxna och barn vid skadligt bruk och beroende i nära relationer m.m | Regleringsbrev för 2025 | delredovisning den 30 mars 2026 med slutredovisning den 30 mars 2027 |\n| Uppdrag att utveckla och stödja implementering av kunskapsstöd för att motverka mäns våld mot kvinnor bland äldre | Regleringsbrev för 2025 | delredovisning den 30 mars 2026 med slutredovisning den 30 mars 2027 |\n| Uppdrag att vidta insatser för att sprida och implementera nationella riktlinjer inom området psykisk hälsa inom hälso- och sjukvård och socialtjänst | Regleringsbrev för 2023 | den 31 mars 2026 |\n| Uppdrag att sprida information och ge kompetensstöd till socialnämnder om människohandel och människoexploatering samt följa upp antalet ansökningar om betänketid | Regleringsbrev för 2025 | den 31 mars 2026 |\n| Uppdrag att stärka samverkan med Inspektionen för vård och omsorg | Regleringsbrev för 2025 | den 31 mars 2026 |\n| Uppdrag att förebygga och bekämpa könsstympning av flickor och kvinnor | Regleringsbrev för 2024 | den 31 mars 2026 |\n| Uppdrag att ta fram kunskapsstöd inom området stress- och utmattningsrelaterade tillstånd | Regleringsbrev för 2025 | delredovisning den 31 mars 2026 med slutredovisning den 29 oktober 2027 |\n| Uppdrag att uppdatera och utveckla befintliga nationella riktlinjer för psykisk hälsa och suicidprevention | Regleringsbrev för 2025 | delredovisning den 31 mars årligen med slutredovisning den 31 mars 2028 |\n| Uppdrag att genomföra fortsatta insatser för att utveckla arbetet med nationella utvecklingsteam | Regleringsbrev för 2025 | delredovisning den 31 mars årligen med den slutredovisning den 31 mars 2028 |\n| Uppdrag att kartlägga förekomsten av rekrytering till kriminella nätverk bland personer som får stöd enligt LSS | Regleringsbrev för 2025 | den 15 april 2026 |\n| Uppdrag att genomföra utvecklingsinsatser för att stärka förutsättningarna för att placerade barn och unga får tillgång till en god hälso- och sjukvård, tandvård och en obruten skolgång | S2020/07505 ändrad genom regleringsbrev för 2024 | delredovisning den 30 april årligen med slutredovisning den 30 april 2027 |\n| Ändring av uppdrag om analys och prognos av läkemedelskostnader | S2020/09593 ändrad genom regleringsbrev för 2024 | den 30 april och den 30 oktober årligen |\n| Samla in redovisningar och återrapporteringar av medel från regionerna. De återrapporteringar av medel som avses är för rådgivning och annat personligt stöd till personer som ingår i personkretsen enligt lagen (1993:387) om stöd och service för vissa funktionshindrade (LSS) | Regleringsbrev för 2017 | den 30 april årligen |\n| Uppdrag att följa utvecklingen av e-hälsa och välfärdsteknik | Regleringsbrev för 2025 | den 29 maj 2026 |\n| Uppdrag att analysera och utvärdera vården vid obesitas | Regleringsbrev för 2024 | den 30 maj 2026 |\n| Uppdrag att betala ut medel till regioner för arbete med nationella kvalitetsregister | Regleringsbrev för 2025 | den 30 maj 2026 |\n| Uppdrag att betala ut verksamhetsbidrag till vissa juridiska personer i syfte att stimulera etablering av verksamheter som tillhandahåller meningsfull sysselsättning till personer med psykisk funktionsnedsättning | Regleringsbrev för 2024 | delredovisning den 31 maj 2026 med slutredovisning den 31 maj 2027 |\n| Uppdrag att genomföra en kartläggning av tillämpningen av digitala verktyg och tjänster i den specialiserade psykiatriska vården | Regleringsbrev för 2025 | den 31 maj 2026 |\n| Uppdrag att genomföra en kartläggning av insatserna vid diagnoserna trotssyndrom respektive uppförandestörning inom hälso- och sjukvården och socialtjänsten | Regleringsbrev för 2025 | den 31 maj 2026 |\n| Följa upp användningen av statsbidraget för kompetenscentrum inom tandvården i samband med de årligen återkommande utlysningarna av nya statsbidrag | Regleringsbrev för 2017 | den 31 maj årligen |\n| Uppdrag att genomföra fortsatta insatser som stödjer ett effektivt nyttjande av personalresurser i hälso- och sjukvården på nationell nivå | Regleringsbrev för 2025 | den 31 maj 2026 |\n| Uppdrag att fördela statsbidrag till kommuner för subventioner av placeringar i den sociala barn- och ungdomsvården | Regleringsbrev för 2025 | delredovisning den 1 juni 2026 med slutredovisning den 1 juni 2027 med |\n| Uppdrag att stödja och bidra till arbetet mot ofrivillig ensamhet | Regleringsbrev för 2025 | den 30 juni 2026 |\n| Pilotverksamhet för barnhälsovård | S2019/00910 ändrad i regleringsbrevet för 2020 och 2022 | den 1 juni 2026 |\n| Uppdrag om att fördela medel för att motverka ensamhet bland äldre personer | Regleringsbrev för 2025 | den 1 juni 2026 |\n| Uppdrag att fortsatt stärka tillgången till blodplasma för läkemedelstillverkning | Regleringsbrev för 2025 | den 5 juni 2026 |\n| Uppdrag att implementera beredskapsplaner för försörjning av blod och andra kritiska humanmaterial | Regleringsbrev för 2025 | den 5 juni 2026 |\n| Uppdrag att betala ut medel till organisationer rörande personer med sällsynta diagnoser | Regleringsbrev för 2025 | den 30 juni 2026 |\n| Uppdrag att stödja och bidra till arbetet mot ofrivillig ensamhet | Regleringsbrev för 2025 | den 30 juni 2026 |\n| Uppdrag att följa upp statsbidraget till regionerna för att stärka den specialiserade psykiatriska vården för barn och unga respektive vuxna | Regleringsbrev för 2025 | den 22 augusti 2026 |\n| Uppdrag om att stödja socialtjänstens och hälso- och sjukvårdens arbete med att förebygga suicid och ge stöd till efterlevande | S2019/02244 ändrad i regleringsbrev för 2022 | den 30 november 2026 |\n| | | |\n| Ändring av pågående uppdrag att ta fram underlag m.m. samt att samordna, stödja, följa upp och utvärdera regionernas arbete med hälso- och sjukvårdens beredskap och planering inför civilt försvar | S2021/02921 ändrad genom regleringsbrev för 2023 samt regleringsbrev för 2025 | delredovisning den 1 december 2026 med slutredovisning den 1 mars 2027 |\n| Uppdrag om informationsinsatser till allmänheten om den nya socialtjänstlagen | Regleringsbrev för 2024 | den 1 februari 2027 |\n| Uppdrag att utvärdera universitetssjukvården inom ALF-avtalet | Regleringsbrev för 2025 | den 31 mars 2027 |\n| Uppdrag att föreslå åtgärder för att våldsutsatta ska få samordnat stöd vid myndighetskontakter | Regleringsbrev för 2024 | den 10 april 2027 |\n| Nationell samordning och kunskapsutveckling för återfallsförebyggande arbete med våldsutövare | S2023/00484 ändrat genom regleringsbrevet för 2024 och regleringsbrevet för 2025 | |",
+   "dates": [
+    "2026-01-31",
+    "2026-02-01",
+    "2026-02-02",
+    "2026-02-15",
+    "2026-02-27",
+    "2026-03-01",
+    "2026-03-02",
+    "2026-03-05",
+    "2026-03-15",
+    "2026-03-30",
+    "2026-03-31",
+    "2026-04-15",
+    "2026-05-29",
+    "2026-05-30",
+    "2026-05-31",
+    "2026-06-01",
+    "2026-06-05",
+    "2026-06-30",
+    "2026-08-22",
+    "2026-11-30",
+    "2026-12-01",
+    "2027-02-01",
+    "2027-02-26",
+    "2027-03-01",
+    "2027-03-30",
+    "2027-03-31",
+    "2027-04-10",
+    "2027-04-30",
+    "2027-05-31",
+    "2027-06-01",
+    "2027-10-29",
+    "2028-03-31"
+   ],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-01",
+    "2026-02-28",
+    "2026-03-31",
+    "2026-04-30",
+    "2026-05-31",
+    "2026-10-30"
+   ],
+   "recipients": [],
+   "partners": [
+    "Inspektionen för vård och omsorg"
+   ],
+   "channels": [
+    "delredovisning",
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos",
+    "analysera",
+    "föreslå",
+    "samordna",
+    "fördela_medel",
+    "utveckla",
+    "tillsyn_kontroll",
+    "informera",
+    "statistik_data",
+    "beredskap_säkerhet",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "1993:387"
+   ],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "26375:assignments:3"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "1:1",
+   "name": "Socialstyrelsen",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 9,
+    "name": "Hälsovård, sjukvård och social omsorg"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Socialstyrelsen",
+     "amount_tkr": 1015151,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Förvaltningsmedel (ram)",
+       "amount_tkr": 1015151
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Förvaltningsmedel",
+     "text": "Anslagsposten får användas förSocialstyrelsens förvaltningsutgifter.\nSocialstyrelsen ska kunna använda och samverka med det gemensamma radiokommunikationssystemet Rakel. Socialstyrelsen ska betala totalt 617 500 kronor till Myndigheten för civilt försvar som abonnemangsavgift för detta system. Beloppet ska betalas efter fakturering från Myndigheten för civilt försvar."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "3:2",
+   "name": "Bidrag till funktionshindersorganisationer",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 9,
+    "name": "Hälsovård, sjukvård och social omsorg"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Socialstyrelsen",
+     "amount_tkr": 208742,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Bidrag till handikapporganisationer (ram)",
+       "amount_tkr": 208742
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Bidrag till handikapporganisationer",
+     "text": "Medlen fördelas av Socialstyrelsen enligt bestämmelserna i förordningen (2000:7) om statsbidrag till funktionshindersorganisationer.\nStatsbidraget ska betalas ut halvårsvis med högst hälften av bidraget för året."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "1:1 Socialstyrelsen",
+   "ap": "ap.1",
+   "Anslagskredit": 30994,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "3:2 Bidrag till funktionshindersorganisationer",
+   "ap": "ap.1",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 110000,
+  "Räntekontokredit": 31200,
+  "- Låneram": 1500000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 86096
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 86096
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 86096
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 86096
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 86096
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 83525
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 83525
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 83525
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 83525
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 83525
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 83525
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 83521
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:1 Socialstyrelsen",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "30 994",
+     "3 %",
+     "0"
+    ],
+    [
+     "3:2 Bidrag till funktionshindersorganisationer",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "0",
+     "Inget",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "110 000"
+    ],
+    [
+     "Räntekontokredit",
+     "31 200"
+    ],
+    [
+     "Låneram för samhällsinvesteringar"
+    ],
+    [
+     "- Låneram",
+     "1 500 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "86 096"
+    ],
+    [
+     "2026-02-25",
+     "86 096"
+    ],
+    [
+     "2026-03-25",
+     "86 096"
+    ],
+    [
+     "2026-04-25",
+     "86 096"
+    ],
+    [
+     "2026-05-25",
+     "86 096"
+    ],
+    [
+     "2026-06-25",
+     "83 525"
+    ],
+    [
+     "2026-07-25",
+     "83 525"
+    ],
+    [
+     "2026-08-25",
+     "83 525"
+    ],
+    [
+     "2026-09-25",
+     "83 525"
+    ],
+    [
+     "2026-10-25",
+     "83 525"
+    ],
+    [
+     "2026-11-25",
+     "83 525"
+    ],
+    [
+     "2026-12-25",
+     "83 521"
+    ],
+    [
+     "Summa",
+     "1 015 151"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "1:1 ap.1",
+     "Förvaltningsmedel"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna ej disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "Ink. tit.",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Beräknad budget för avgiftsbelagd verksamhet där intäkterna ej disponeras",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Utfärdande av legitimationer, intyg m.m.1",
+     "2552",
+     "-167 162",
+     "-16 575",
+     "33 640",
+     "40 000",
+     "-6 360",
+     "-190 097"
+    ],
+    [
+     "Utfärdande av bevis om rätten att använda titel undersköterska3",
+     "2552",
+     "9 360"
+    ],
+    [
+     "Summa",
+     "-167 162",
+     "-16 575",
+     "43 000",
+     "40 000",
+     "-6 360",
+     "-190 097"
+    ]
+   ]
+  }
+ ],
+ "has_fee_section": true,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 1,
+  "n_org": 1,
+  "n_assignments": 4,
+  "n_deadlines": 49,
+  "deadlines": [
+   "2026-02-14",
+   "2026-03-06",
+   "2026-03-14",
+   "2026-04-25",
+   "2026-05-03",
+   "2026-05-30",
+   "2026-06-01",
+   "2026-06-04",
+   "2026-06-30",
+   "2026-07-12",
+   "2026-07-24",
+   "2026-08-11",
+   "2026-09-01",
+   "2026-09-30",
+   "2026-10-01",
+   "2026-10-30",
+   "2026-11-15",
+   "2026-11-30",
+   "2026-12-01",
+   "2026-12-09",
+   "2026-12-11",
+   "2027-02-01",
+   "2027-02-22",
+   "2027-02-28",
+   "2027-03-01",
+   "2027-03-05",
+   "2027-03-19",
+   "2027-03-26",
+   "2027-03-31",
+   "2027-04-01",
+   "2027-04-09",
+   "2027-04-23",
+   "2027-04-30",
+   "2027-05-30",
+   "2027-06-30",
+   "2027-08-30",
+   "2027-10-01",
+   "2028-01-31",
+   "2028-03-30",
+   "2028-03-31",
+   "2028-06-01",
+   "2028-06-30",
+   "2029-02-01",
+   "2029-02-08",
+   "2029-03-31",
+   "2029-04-30",
+   "2029-06-30",
+   "2029-08-30",
+   "2031-04-09"
+  ],
+  "partners": [
+   "Arbetsförmedlingen",
+   "Boverket",
+   "Brottsförebyggande rådet",
+   "Domstolsverket",
+   "Folkhälsomyndigheten",
+   "Försvarsmakten",
+   "Hälso- och sjukvårdens ansvarsnämnd",
+   "Inspektionen för vård och omsorg",
+   "Jämställdhetsmyndigheten",
+   "Kammarkollegiet",
+   "Kriminalvården",
+   "Linköpings universitet",
+   "Migrationsverket",
+   "Myndigheten för civilt försvar",
+   "Myndigheten för digital förvaltning",
+   "Myndigheten för familjerätt och föräldraskapsstöd",
+   "Polismyndigheten",
+   "Riksgäldskontoret",
+   "Statens beredning för medicinsk och social utvärdering",
+   "Statens institutionsstyrelse",
+   "Statens skolverk",
+   "Statistiska centralbyrån",
+   "Statskontoret",
+   "Strålsäkerhetsmyndigheten",
+   "Sveriges Kommuner och Regioner",
+   "Säkerhetspolisen",
+   "Totalförsvarets forskningsinstitut"
+  ],
+  "n_appropriations": 2,
+  "appropriations_total_tkr": 1223893,
+  "payment_plan_total_tkr": 1015151,
+  "md_chars": 93779
+ },
+ "layout": "standard",
+ "warnings": []
+}

@@ -1,0 +1,298 @@
+{
+ "schema_version": 1,
+ "id": 25968,
+ "original_rbid": 25968,
+ "type": "Regleringsbrev",
+ "category": "Myndighet",
+ "date": "2025-12-16",
+ "year": "2026",
+ "name": "Statens inspektion för försvarsunderrättelseverksamheten",
+ "slug": "statens-inspektion-for-forsvarsunderrattelseverksamheten",
+ "department": "Försvarsdepartementet",
+ "expenditure_areas": [
+  6
+ ],
+ "registry_numbers": [
+  "Fö2025/00264 (delvis)",
+  "Fö2025/01825 (delvis)",
+  "Fö2025/01873"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1"
+  ],
+  "bet": [
+   "2025/26:FöU1"
+  ],
+  "rskr": [
+   "2025/26:111"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "",
+ "goals": [],
+ "org": [],
+ "assignments": [
+  {
+   "title": "Prognos",
+   "group": [],
+   "text": "Statens inspektion för försvarsunderrättelseverksamheten ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen.\\\nPrognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Prognoserna lämnas i informationssystemet Hermes senast den\\\n− 2 februari\\\n− 22 april\\\n− 24 juli\\\n− 9 november.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos",
+    "tillsyn_kontroll"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "25968:assignments:0"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "1:5",
+   "name": "Statens inspektion för försvarsunderrättelseverksamheten",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 6,
+    "name": "Försvar och samhällets krisberedskap"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Statens inspektion för försvarsunderrättelseverksamheten",
+     "amount_tkr": 15781,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Statens inspektion för försvarsunderrättelseverksamheten (ram)",
+       "amount_tkr": 15781
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Statens inspektion för försvarsunderrättelseverksamheten",
+     "text": "Anslagsposten får användas för Statens inspektion för försvarsunderrättelseverksamhetens förvaltningsutgifter."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "1:5 Statens inspektion för försvarsunderrättelseverksamheten",
+   "ap": "ap.1",
+   "Anslagskredit": 473,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 2000,
+  "Räntekontokredit": 1000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 1315
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 1315
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 1315
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 1315
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 1315
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 1315
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 1315
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 1315
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 1315
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 1315
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 1315
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 1316
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:5 Statens inspektion för försvarsunderrättelseverksamheten",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "473",
+     "3 %",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "2 000"
+    ],
+    [
+     "Räntekontokredit",
+     "1 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "1 315"
+    ],
+    [
+     "2026-02-25",
+     "1 315"
+    ],
+    [
+     "2026-03-25",
+     "1 315"
+    ],
+    [
+     "2026-04-25",
+     "1 315"
+    ],
+    [
+     "2026-05-25",
+     "1 315"
+    ],
+    [
+     "2026-06-25",
+     "1 315"
+    ],
+    [
+     "2026-07-25",
+     "1 315"
+    ],
+    [
+     "2026-08-25",
+     "1 315"
+    ],
+    [
+     "2026-09-25",
+     "1 315"
+    ],
+    [
+     "2026-10-25",
+     "1 315"
+    ],
+    [
+     "2026-11-25",
+     "1 315"
+    ],
+    [
+     "2026-12-25",
+     "1 316"
+    ],
+    [
+     "Summa",
+     "15 781"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "1:5 ap.1",
+     "Statens inspektion för försvarsunderrättelseverksamheten"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [],
+ "has_fee_section": false,
+ "exceptions_text": "Statens inspektion för försvarsunderrättelseverksamheten får i myndighetens årsredovisning och i inrapporteringen i statsredovisningssystemet frångå de regler i förordningen (2000:605) om årsredovisning och budgetunderlag och förordningen (2000:606) om myndigheters bokföring samt de med stöd av förordningarna meddelade föreskrifter som medför att sekretessbelagda uppgifter kan utläsas i rapporterna. Den information som bedöms omfattas av sekretess ska redovisas i särskild ordning.\n\nPå regeringens vägnar\n\nPål Jonson\n\nMagnus Hedenskog\n\n**Kopia till**\n\nStatsrådsberedningen, internrevisionen\\\nFinansdepartementets budgetavdelning\\\nFörvaltningsavdelningen, RK Ekonomi\\\nRiksdagen, Försvarsutskottet\\\nStatens servicecenter\\\nRiksgäldskontoret\\\nFörsvarsunderrättelsedomstolen\\\nFörsvarets radioanstalt\\\nMyndigheten för totalförsvarsanalys",
+ "summary": {
+  "n_goals": 0,
+  "n_org": 0,
+  "n_assignments": 1,
+  "n_deadlines": 0,
+  "deadlines": [],
+  "partners": [],
+  "n_appropriations": 1,
+  "appropriations_total_tkr": 15781,
+  "payment_plan_total_tkr": 15781,
+  "md_chars": 4168
+ },
+ "layout": "standard",
+ "warnings": []
+}

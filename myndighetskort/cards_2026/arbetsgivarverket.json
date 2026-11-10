@@ -1,0 +1,424 @@
+{
+ "schema_version": 1,
+ "id": 26006,
+ "original_rbid": 26006,
+ "type": "Regleringsbrev",
+ "category": "Myndighet",
+ "date": "2025-12-18",
+ "year": "2026",
+ "name": "Arbetsgivarverket",
+ "slug": "arbetsgivarverket",
+ "department": "Finansdepartementet",
+ "expenditure_areas": [
+  2
+ ],
+ "registry_numbers": [
+  "Fi2025/02364 (delvis)"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1"
+  ],
+  "bet": [
+   "2025/26:FiU2"
+  ],
+  "rskr": [
+   "2025/26:133"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "",
+ "goals": [
+  {
+   "title": null,
+   "group": [],
+   "text": "Arbetsgivarverket ska redovisa medlemmarnas samlade bedömning av verkets verksamhet.\n\nArbetsgivarverket ska rapportera vilka åtgärder som vidtas på det statliga avtalsområdet för att uppnå en jämn könsfördelning på ledande befattningar i staten, minska löneskillnaderna mellan kvinnor och män, uppnå en god arbetsmiljö med låg sjukfrånvaro samt för att öka andelen anställda med utländsk bakgrund på alla nivåer.\n\nArbetsgivarverket ska i särskild ordning, vid sidan av årsredovisningen, redovisa vilka aktiviteter som genomförs för att utveckla och samordna den statliga arbetsgivarpolitiken.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "årsredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26006:goals:0"
+  },
+  {
+   "title": "Stabsuppgifter",
+   "group": [],
+   "text": "",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26006:goals:1"
+  },
+  {
+   "title": "Mål",
+   "group": [],
+   "text": "Arbetsgivarverket ska inom ramen för sin stabsroll ge nödvändigt underlag för regeringens bedömningar inom det arbetsgivarpolitiska området.\n\nÅterrapportering:\nArbetsgivarverket ska redovisa en specificerad sammanställning av nedlagd arbetstid, direkta kostnader och intäkter för de stabsuppgifter som verket utför.\n\nArbetsgivarverket ska redovisa de insatser som medlemmarna har genomfört i syfte att möjliggöra ett längre arbetsliv för anställda i den statliga sektorn. Arbetsgivarverket ska också redogöra för åldersfördelningen bland statsanställda med fokus på äldre arbetstagare.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26006:goals:2"
+  }
+ ],
+ "org": [],
+ "assignments": [
+  {
+   "title": "Jämförelse av förhandlingsresultat",
+   "group": [],
+   "text": "Arbetsgivarverket ska beskriva och jämföra statliga centrala och lokala förhandlingsresultat med motsvarande resultat på den övriga arbetsmarknaden.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26006:assignments:0"
+  },
+  {
+   "title": "Rapportering av avtal",
+   "group": [],
+   "text": "Arbetsgivarverket ska löpande rapportera vilka kollektivavtal som verket ingår. Rapporteringen ska ske genom att en kopia av aktuellt avtal snarast efter det att avtalet har ingåtts skickas till Regeringskansliet (Finansdepartementet). Vid behov ska avtalet kompletteras med en promemoria, som kortfattat redovisar syfte, bakgrund och kostnader, samt med en konsekvensbeskrivning.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [
+    "Regeringskansliet (Finansdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26006:assignments:1"
+  },
+  {
+   "title": "Löneskillnader mellan kvinnor och män",
+   "group": [],
+   "text": "Arbetsgivarverket ska senast den 15 juni 2026 till Regeringskansliet (Finansdepartementet) rapportera hur löneskillnaderna mellan kvinnor och män i staten utvecklas.\n\nArbetsgivarverket ska senast den 13 mars 2026 till Regeringskansliet (Finansdepartementet) redovisa utvecklingen av antalet kvinnor och män i respektive grupperingsnivå i BESTA-klassificeringen för staten totalt och per s.k. COFOG-grupp (Classification of the functions of the government), dvs. den statliga sektorns uppgifter uppdelade efter deras funktion eller ändamål.",
+   "dates": [
+    "2026-03-13",
+    "2026-06-15"
+   ],
+   "deadlines": [
+    "2026-03-13",
+    "2026-06-15"
+   ],
+   "recipients": [
+    "Regeringskansliet (Finansdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26006:assignments:2"
+  },
+  {
+   "title": "Utveckling av anmälda arbetsskador",
+   "group": [],
+   "text": "Arbetsgivarverket ska senast den 27 mars 2026 till Regeringskansliet (Finansdepartementet) redovisa utvecklingen av antalet anmälda arbetsskador enligt det statliga personskadeavtalet. Utvecklingen ska redovisas för staten totalt, men redovisningen ska också visa var merparten av arbetsskadorna uppstått. Utvecklingen ska om möjligt redovisas uppdelad på kvinnor och män, och enligt de åldersintervaller som gäller för kompetensförsörjningsstatistiken.",
+   "dates": [
+    "2026-03-27"
+   ],
+   "deadlines": [
+    "2026-03-27"
+   ],
+   "recipients": [
+    "Regeringskansliet (Finansdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "statistik_data"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26006:assignments:3"
+  },
+  {
+   "title": "Sjukfrånvaro vid myndigheterna",
+   "group": [],
+   "text": "Arbetsgivarverket ska sammanställa och senast den 29 april 2026 till Regeringskansliet (Finansdepartementet) redovisa uppgifter om sjukfrånvaro vid myndigheterna enligt 7 kap. 3 § förordningen (2000:605) om årsredovisning och budgetunderlag.",
+   "dates": [
+    "2026-04-29"
+   ],
+   "deadlines": [
+    "2026-04-29"
+   ],
+   "recipients": [
+    "Regeringskansliet (Finansdepartementet)"
+   ],
+   "partners": [],
+   "channels": [
+    "årsredovisning",
+    "budgetunderlag"
+   ],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2000:605"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26006:assignments:4"
+  },
+  {
+   "title": "Justeringstal avseende myndigheternas lönekostnader",
+   "group": [],
+   "text": "Arbetsgivarverket ska, istället för vad som framgår av regeringens beslut den 9 december 1999 (Fi1999/4702), senast den 30 januari 2026 redovisa det beräknade justeringstalet avseende myndigheternas lönekostnader. Redovisningen ska lämnas till Regeringskansliet (Finansdepartementet).",
+   "dates": [
+    "1999-12-09",
+    "2026-01-30"
+   ],
+   "deadlines": [
+    "2026-01-30"
+   ],
+   "recipients": [
+    "Regeringskansliet (Finansdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26006:assignments:5"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "1:3",
+   "name": "Arbetsgivarpolitiska frågor",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 2,
+    "name": "Samhällsekonomi och finansförvaltning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Kammarkollegiet",
+     "amount_tkr": 2443,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Arbetsgivarpolitiska frågor – del till KamK (ram)",
+       "amount_tkr": 2043
+      },
+      {
+       "ap": "4",
+       "name": "Vissa nämnder inom det arbetsgivarpolitiska området - del till KAMK (ram)",
+       "amount_tkr": 400
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Arbetsgivarpolitiska frågor – del till KamK",
+     "text": "Anslagsposten får användas för utgifter för följande uppgifter som Arbetsgivarverket utför åt regeringen eller Regeringskansliet, och som inte ingår i Arbetsgivarverkets uppgifter som medlemsorganisation:\n– medlemsavgifter för de samnordiska institutionerna\\\n– medlemsavgiften för Finsk-svenska gränsälvskommissionen\\\n– uppdrag åt Nordiska rådet och Nordiska ministerrådet\\\n– utgivning av Arbetsgivarverkets författningssamling\\\n– övriga kostnader för utmärkelsen För nit och redlighet i rikets tjänst\\\n– beräkning av justeringstal för ramanslagsberäkningar\\\n– framtagande av statistikuppgifter för uppföljning av myndigheternas arbetsgivarpolitik (AgVFS 2003:7 A 2) och statistikuppgifter enligt särskilda beställningar\\\n– vissa andra uppdrag från regeringen inom myndighetens ansvarsområde.\\\nMedlen betalas ut engångsvis efter rekvisition till Kammarkollegiet senast den 27 november 2026. Medel som inte har använts för avsett ändamål ska senast den 31 mars 2027 återbetalas till Kammarkollegiet. Vid samma tidpunkt ska en ekonomisk redovisning av använda medel lämnas till Kammarkollegiet."
+    },
+    {
+     "ap": "4",
+     "name": "Vissa nämnder inom det arbetsgivarpolitiska området - del till KAMK",
+     "text": "Anslagsposten får användas för förvaltningsutgifter avseende Offentliga sektorns särskilda nämnd, Statens ansvarsnämnd och Statens tjänstepensions- och grupplivnämnd, inklusive Skiljenämnden för grupplivfrågor.\nKammarkollegiet ska varje kvartal redovisa belastningen på anslagsposten per nämnd och sammanlagt till Regeringskansliet (Finansdepartementet)."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "1:3 Arbetsgivarpolitiska frågor",
+   "ap": "ap.1",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:3 Arbetsgivarpolitiska frågor",
+   "ap": "ap.4",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 16000,
+  "Räntekontokredit": 6000
+ },
+ "payment_plan": [],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:3 Arbetsgivarpolitiska frågor",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.4",
+     "0",
+     "Inget",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "16 000"
+    ],
+    [
+     "Räntekontokredit",
+     "6 000"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Uppdragsverksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Avgift för administration1",
+     "24",
+     "0",
+     "225",
+     "225",
+     "0",
+     "24"
+    ]
+   ]
+  }
+ ],
+ "has_fee_section": true,
+ "exceptions_text": "Arbetsgivarverket undantas från bestämmelserna om resultatredovisning i 3 kap. 2 § förordningen (2000:605) om årsredovisning och budgetunderlag.\n\n**ÖVRIGA BESTÄMMELSER**\n\nArbetsgivarverket ska redovisa 17 000 kronor mot inkomsttitel 2811 Övriga inkomster av statens verksamhet för finansiering av den nationella digitala infrastrukturen\n\nPå regeringens vägnar\n\nErik Slottner\n\nJohanna Pålsson\n\n**Kopia till**\n\nStatsrådsberedningen/FCK och REV\\\nFinansdepartementet/BA\\\nFörvaltningsavdelningen/EKA\\\nriksdagen, arbetsmarknadsutskottet och finansutskottet\\\nJämställdhetsmyndigheten\\\nKammarkollegiet\\\nOffentliga sektorns särskilda nämnd\\\nRiksgäldskontoret\\\nStatens ansvarsnämnd\\\nStatens tjänstepensions- och grupplivnämnd\\\nStatens tjänstepensionsverk\\\nStatskontoret\\\nOffentliganställdas Förhandlingsråd (OFR/S, P och O)\\\nSeko, Service och kommunikationsfacket\\\nSveriges Akademikers Centralorganisation (Saco-S)",
+ "summary": {
+  "n_goals": 3,
+  "n_org": 0,
+  "n_assignments": 6,
+  "n_deadlines": 5,
+  "deadlines": [
+   "2026-01-30",
+   "2026-03-13",
+   "2026-03-27",
+   "2026-04-29",
+   "2026-06-15"
+  ],
+  "partners": [],
+  "n_appropriations": 1,
+  "appropriations_total_tkr": 2443,
+  "payment_plan_total_tkr": 0,
+  "md_chars": 8620
+ },
+ "layout": "standard",
+ "warnings": []
+}

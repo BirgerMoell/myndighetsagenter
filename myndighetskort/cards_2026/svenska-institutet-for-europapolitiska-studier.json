@@ -1,0 +1,492 @@
+{
+ "schema_version": 1,
+ "id": 26068,
+ "original_rbid": 26068,
+ "type": "Regleringsbrev",
+ "category": "Myndighet",
+ "date": "2025-12-18",
+ "year": "2026",
+ "name": "Svenska institutet för europapolitiska studier",
+ "slug": "svenska-institutet-for-europapolitiska-studier",
+ "department": "Statsrådsberedningen",
+ "expenditure_areas": [
+  1
+ ],
+ "registry_numbers": [
+  "SB2025/01306",
+  "SB2024/01115"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1"
+  ],
+  "bet": [
+   "2025/26:KU1"
+  ],
+  "rskr": [
+   "2025/26:84"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "Myndighetens uppgifter framgår bl.a. av förordningen (2008:748) med instruktion för Svenska institutet för europapolitiska studier.",
+ "goals": [],
+ "org": [],
+ "assignments": [
+  {
+   "title": "Användbara analyser och kunskapsunderlag i strategiska EU-frågor",
+   "group": [],
+   "text": "Svenska institutet för europapolitiska studier ska belysa olika aspekter av frågor där utvecklingen inom EU går snabbt och där regeringens behov av kvalificerad analys är stort, såsom EU:s konkurrenskraft och försvarsrelaterade frågor, samt olika aspekter av hur en framtida utvidgning av EU påverkar behovet av reformer. Målsättningen med arbetet är ökad relevans och användbarhet samt utvecklade kontakter och dialog med Regeringskansliet och andra berörda aktörer.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Svenska institutet"
+   ],
+   "channels": [],
+   "task_types": [
+    "analysera",
+    "utveckla",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26068:assignments:0"
+  },
+  {
+   "title": "Utveckla myndighetsnätverket för EU-frågor",
+   "group": [],
+   "text": "Svenska institutet för europapolitiska studier ska vidareutveckla myndighetsnätverket för EU-frågor. Insatserna ska syfta till att stärka myndigheternas strategiska hantering av EU-relaterade frågor och utveckla ändamålsenliga former för erfarenhetsutbyte, kunskapsdelning och samverkan mellan berörda myndigheter.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Svenska institutet"
+   ],
+   "channels": [],
+   "task_types": [
+    "samordna",
+    "utveckla",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26068:assignments:1"
+  },
+  {
+   "title": "Öka förmågan att använda AI och ny teknik genom datadrivet arbete",
+   "group": [],
+   "text": "Svenska institutet för europapolitiska studier ska redovisa i vilken utsträckning de arbetar datadrivet, vilka åtgärder de vidtagit för att förbättra sin förmåga att arbeta datadrivet, samt en bedömning av vilket resultat åtgärderna har lett till. Svenska institutet för europapolitiska studier ska även redovisa på vilket sätt arbetet med data och AI har bidragit till att utveckla verksamheten och höja kvaliteten i utförandet av myndighetens uppgifter. Av redovisningen ska framgå hur myndigheten beaktar risker och arbetar för att användning av data och AI sker på ett etiskt, säkert och icke-diskriminerande sätt. Eventuella hinder eller framgångsfaktorer för datadrivet arbete och användande av AI-teknik ska även redovisas. Uppdraget ska redovisas senast den 15 maj 2026.",
+   "dates": [
+    "2026-05-15"
+   ],
+   "deadlines": [
+    "2026-05-15"
+   ],
+   "recipients": [],
+   "partners": [
+    "Svenska institutet"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla",
+    "statistik_data",
+    "digitalisering_ai"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26068:assignments:2"
+  },
+  {
+   "title": "Prognoser",
+   "group": [],
+   "text": "Myndigheten ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Prognoserna lämnas i informationssystemet Hermes senast den\n\n– 2 februari\\\n– 22 april\\\n– 24 juli\\\n– 9 november.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26068:assignments:3"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "9:1",
+   "name": "Svenska institutet för europapolitiska studier samt EU-information",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 1,
+    "name": "Rikets styrelse"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Svenska institutet för europapolitiska studier",
+     "amount_tkr": 24506,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Svenska institutet för europapolitiska studier (ram)",
+       "amount_tkr": 24506
+      }
+     ],
+     "sum_ok": true
+    },
+    {
+     "by": "Kammarkollegiet",
+     "amount_tkr": 0,
+     "items": [
+      {
+       "ap": "10",
+       "name": "EU-information - del till Kammarkollegiet (ram)",
+       "amount_tkr": 0
+      }
+     ],
+     "sum_ok": true
+    },
+    {
+     "by": "Universitets- och högskolerådet",
+     "amount_tkr": 11865,
+     "items": [
+      {
+       "ap": "2",
+       "name": "EU-information - del till Universitets- och högskolerådet (ram)",
+       "amount_tkr": 11865
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Svenska institutet för europapolitiska studier",
+     "text": "Anslagsposten får användas för Svenska institutet för europapolitiska studiers förvaltningsutgifter."
+    },
+    {
+     "ap": "2",
+     "name": "EU-information - del till Universitets- och högskolerådet",
+     "text": "Högst 5 000 000 kronor får användas för att genomföra kunskapshöjande åtgärder kring de möjligheter som finns till praktiktjänstgöring och anställning inom EU:s institutioner, byråer och organ samt om rekryteringsprocesserna för sådan praktik och sådant arbete. Medel får även användas för att arbeta strategiskt med att nå ut till högskolestuderande och andra lämpliga målgrupper.\nHögst 3 300 000 kronor får användas för stipendier för studier vid College of Europe. Av anslagsposten får högst 130 000 kronor disponeras för att finansiera förvaltningskostnader och informationsinsatser om stipendierna. Myndigheten ska redovisa användningen av medlen i årsredovisningen för 2026.\nHögst 1 000 000 kronor får användas för att bistå de lärosäten som beviljas medel inom ramen för regeringens satsning på ny masterutbildning inom offentlig förvaltning med bland annat EU-inriktning. Medlen ska användas för kunskapshöjande och strategiska åtgärder kring de möjligheter som finns till praktiktjänstgöring och anställning inom EU:s institutioner, byråer och organ samt om rekryteringsprocesserna för sådan praktik och sådant arbete. Myndigheten ska redovisa hur medlen har använts i årsredovisningen för 2026.\nHögst 2 565 000 kronor får användas för utbildningar för lärare och skolledare som syftar till att öka kunskapen om och engagemanget för EU-frågor i Sverige. Medel får även användas för att inför Europadagen anordna informationsaktiviteter för att få skolor att uppmärksamma Europadagen."
+    },
+    {
+     "ap": "10",
+     "name": "EU-information - del till Kammarkollegiet",
+     "text": "Anslagsposten får användas efter beslut av regeringen."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "2",
+     "max": 5000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "2",
+     "max": 3300000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "2",
+     "max": 130000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "2",
+     "max": 1000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "2",
+     "max": 2565000,
+     "unit": "kronor"
+    }
+   ]
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "9:1 Svenska institutet för europapolitiska studier samt EU-information",
+   "ap": "ap.1",
+   "Anslagskredit": 730,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "9:1 Svenska institutet för europapolitiska studier samt EU-information",
+   "ap": "ap.2",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "9:1 Svenska institutet för europapolitiska studier samt EU-information",
+   "ap": "ap.10",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 500,
+  "Räntekontokredit": 2186
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 2042
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 2042
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 2042
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 2042
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 2042
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 2042
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 2042
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 2042
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 2042
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 2042
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 2042
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 2044
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "9:1 Svenska institutet för europapolitiska studier samt EU-information",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "730",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.2",
+     "0",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.10",
+     "0",
+     "Inget",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "500"
+    ],
+    [
+     "Räntekontokredit",
+     "2 186"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "2 042"
+    ],
+    [
+     "2026-02-25",
+     "2 042"
+    ],
+    [
+     "2026-03-25",
+     "2 042"
+    ],
+    [
+     "2026-04-25",
+     "2 042"
+    ],
+    [
+     "2026-05-25",
+     "2 042"
+    ],
+    [
+     "2026-06-25",
+     "2 042"
+    ],
+    [
+     "2026-07-25",
+     "2 042"
+    ],
+    [
+     "2026-08-25",
+     "2 042"
+    ],
+    [
+     "2026-09-25",
+     "2 042"
+    ],
+    [
+     "2026-10-25",
+     "2 042"
+    ],
+    [
+     "2026-11-25",
+     "2 042"
+    ],
+    [
+     "2026-12-25",
+     "2 044"
+    ],
+    [
+     "Summa",
+     "24 506"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "9:1 ap.1",
+     "Svenska institutet för europapolitiska studier"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Uppdragsverksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Utbildningsverksamhet3",
+     "0"
+    ]
+   ]
+  }
+ ],
+ "has_fee_section": true,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 0,
+  "n_org": 0,
+  "n_assignments": 4,
+  "n_deadlines": 1,
+  "deadlines": [
+   "2026-05-15"
+  ],
+  "partners": [
+   "Svenska institutet"
+  ],
+  "n_appropriations": 1,
+  "appropriations_total_tkr": 36371,
+  "payment_plan_total_tkr": 24506,
+  "md_chars": 8068
+ },
+ "layout": "standard",
+ "warnings": []
+}

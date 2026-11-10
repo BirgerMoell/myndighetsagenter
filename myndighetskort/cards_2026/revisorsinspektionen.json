@@ -1,0 +1,242 @@
+{
+ "schema_version": 1,
+ "id": 26362,
+ "original_rbid": 26069,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-06-11",
+ "year": "2026",
+ "name": "Revisorsinspektionen",
+ "slug": "revisorsinspektionen",
+ "department": "Finansdepartementet",
+ "expenditure_areas": [],
+ "registry_numbers": [
+  "Fi2026/01461"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1"
+  ],
+  "bet": [
+   "2025/26:NU1"
+  ],
+  "rskr": [
+   "2025/26:130"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "",
+ "goals": [
+  {
+   "title": "Minskade administrativa kostnader för företagen",
+   "group": [],
+   "text": "Revisorsinspektionen ska redovisa hur myndigheten i arbetet med föreskrifter och allmänna råd har beaktat att myndigheten ska bidra till regeringens mål att minska företagens regelbörda och administrativa kostnader.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "tillsyn_kontroll"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26362:goals:0"
+  },
+  {
+   "title": "Öka medvetenheten hos revisorer",
+   "group": [],
+   "text": "Revisorsinspektionen ska redovisa hur myndigheten har verkat för att öka medvetenheten hos revisorer om behovet av att uppmärksamma och anmäla misstänkt korruptionsbrottslighet. Revisorsinspektionen ska också verka för ökad medvetenhet bland revisorer om olika brottsupplägg för att hindra att revisorer utnyttjas inom ekonomisk brottslighet.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "tillsyn_kontroll"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26362:goals:1"
+  },
+  {
+   "title": "Utveckla den riskbaserade tillsynen",
+   "group": [],
+   "text": "Revisorsinspektionen ska redovisa hur den riskbaserade tillsynen har utvecklats för att motverka att bolagsstrukturer utnyttjas i kriminella syften, också på andra områden än penningtvätt och finansiering av terrorism.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla",
+    "tillsyn_kontroll"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26362:goals:2"
+  }
+ ],
+ "org": [],
+ "assignments": [
+  {
+   "title": "Budgetutfall och prognoser",
+   "group": [],
+   "text": "Myndigheten ska redovisa utfall i förhållande till beräknad budget för den avgiftsbelagda verksamheten 2026 samt kommentera och förklara väsentliga avvikelser mellan budget och utfall. Vidare ska myndigheten i särskild ordning lämna prognoser över intäkter och kostnader för 2026 och 2027 till Regeringskansliet (Finansdepartementet) senast den 25 juli och den 20 oktober 2026.",
+   "dates": [
+    "2026-10-20"
+   ],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-07-25"
+   ],
+   "recipients": [
+    "Regeringskansliet (Finansdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26362:assignments:0"
+  },
+  {
+   "title": "Bolag som brottsverktyg",
+   "group": [],
+   "text": "Myndigheten ska utveckla samarbetet med Bolagsverket, Ekobrottsmyndigheten och Skatteverket för att motverka att företag och bolagsstrukturer används som brottsverktyg. Relevanta befintliga forum för samverkan ska beaktas i genomförandet. Revisorsinspektionen ska redovisa vilka åtgärder som myndigheterna har vidtagit eller planerar att vidta för att stärka samarbetet och vid behov även redogöra för eventuella hinder mot ett utvecklat samarbete mellan myndigheterna. Myndigheten ska senast den 3 oktober 2026 lämna en gemensam redovisning av uppdraget till Regeringskansliet (Finansdepartementet).",
+   "dates": [
+    "2026-10-03"
+   ],
+   "deadlines": [
+    "2026-10-03"
+   ],
+   "recipients": [
+    "Regeringskansliet (Finansdepartementet)"
+   ],
+   "partners": [
+    "Bolagsverket",
+    "Ekobrottsmyndigheten",
+    "Skatteverket"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "utveckla",
+    "tillsyn_kontroll"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26362:assignments:1"
+  }
+ ],
+ "appropriations": [],
+ "financial_terms": [],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 2000,
+  "Räntekontokredit": 3000
+ },
+ "payment_plan": [],
+ "finance_tables": [
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "2 000"
+    ],
+    [
+     "Räntekontokredit",
+     "3 000"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Offentligrättslig verksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Auktorisation, godkännande, examination samt tillsyn över revisorer1",
+     "7 408",
+     "-3 703",
+     "46 627",
+     "48 727",
+     "-2 100",
+     "1 605"
+    ]
+   ]
+  }
+ ],
+ "has_fee_section": true,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 3,
+  "n_org": 0,
+  "n_assignments": 2,
+  "n_deadlines": 1,
+  "deadlines": [
+   "2026-10-03"
+  ],
+  "partners": [
+   "Bolagsverket",
+   "Ekobrottsmyndigheten",
+   "Skatteverket"
+  ],
+  "n_appropriations": 0,
+  "appropriations_total_tkr": 0,
+  "payment_plan_total_tkr": 0,
+  "md_chars": 3949
+ },
+ "layout": "standard",
+ "warnings": []
+}

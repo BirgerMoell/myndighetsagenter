@@ -1,0 +1,518 @@
+{
+ "schema_version": 1,
+ "id": 26437,
+ "original_rbid": 26026,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-06-18",
+ "year": "2026",
+ "name": "Nationalmuseum",
+ "slug": "nationalmuseum",
+ "department": "Kulturdepartementet",
+ "expenditure_areas": [
+  17
+ ],
+ "registry_numbers": [
+  "Ku2026/00572 (delvis)",
+  "Ku2026/00594"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1",
+   "2025/26:99"
+  ],
+  "bet": [
+   "2025/26:FiU21",
+   "2025/26:KrU1"
+  ],
+  "rskr": [
+   "2025/26:351",
+   "2025/26:83"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "",
+ "goals": [
+  {
+   "title": "Publik och tillgänglighet",
+   "group": [],
+   "text": "Nationalmuseum ska redovisa\n\n- den verksamhet som svarar mot den unga publikens behov samt insatser för att öka den unga publiken\n- de åtgärder som vidtagits för att öka tillgängligheten för personer med funktionsnedsättning\n- förändringar i besöksutvecklingen i förhållande till tidigare år.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "den verksamhet som svarar mot den unga publikens behov samt insatser för att öka den unga publiken",
+    "de åtgärder som vidtagits för att öka tillgängligheten för personer med funktionsnedsättning",
+    "förändringar i besöksutvecklingen i förhållande till tidigare år."
+   ],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26437:goals:0"
+  },
+  {
+   "title": "Bevara och tillgängliggöra kulturarvet genom digitisering och digitalisering",
+   "group": [],
+   "text": "Nationalmuseum ska redovisa resultatet av arbetet med digitisering och digitalisering av myndighetens samlingar. Av redovisningen ska följande framgå\n\n- samlingarnas storlek, inklusive årets tillväxt\n- hur stort antal i och andel av samlingarna som är digital\n- hur stor andel av samlingarna som är digitalt tillgänglig\n- vilka delar av resultatet som härrör från den medelsförstärkning som myndigheten har tilldelats\n- vilka kostnader som myndigheten har haft för arbetet med digitisering och digitalisering.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "digitalisering_ai"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "samlingarnas storlek, inklusive årets tillväxt",
+    "hur stort antal i och andel av samlingarna som är digital",
+    "hur stor andel av samlingarna som är digitalt tillgänglig",
+    "vilka delar av resultatet som härrör från den medelsförstärkning som myndigheten har tilldelats",
+    "vilka kostnader som myndigheten har haft för arbetet med digitisering och digitalisering."
+   ],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26437:goals:1"
+  },
+  {
+   "title": "Breddad finansiering",
+   "group": [],
+   "text": "Nationalmuseum ska redovisa hur myndigheten arbetar för att bredda finansieringen av verksamheten.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26437:goals:2"
+  },
+  {
+   "title": "Lokalkostnader",
+   "group": [],
+   "text": "Nationalmuseum ska specificera myndighetens totala lokalkostnader för 2026 enligt följande:\n\n- hyra, varav kostnadshyra\n- el och uppvärmning\n- reparationer och underhåll\n- övriga driftskostnader.\n\nOm myndigheten har fler än en hyresvärd ska kostnaderna fördelas per hyresvärd.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "fördela_medel"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "hyra, varav kostnadshyra",
+    "el och uppvärmning",
+    "reparationer och underhåll",
+    "övriga driftskostnader."
+   ],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26437:goals:3"
+  },
+  {
+   "title": "Sponsring",
+   "group": [],
+   "text": "Nationalmuseum ska särredovisa eventuella sponsringsintäkter i not till resultaträkningen.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26437:goals:4"
+  },
+  {
+   "title": "Bidragsintäkter",
+   "group": [],
+   "text": "Nationalmuseum ska särredovisa fördelningen av eventuella bidragsintäkter mellan statliga bidrag, icke-statliga bidrag respektive bidrag från mellanstatliga organ i not till resultaträkningen.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26437:goals:5"
+  }
+ ],
+ "org": [],
+ "assignments": [
+  {
+   "title": "AI och datadrivet arbete",
+   "group": [],
+   "text": "Nationalmuseum ska redovisa i vilken utsträckning myndigheten arbetar datadrivet och hur AI används i verksamheten. Myndigheten ska även redogöra för på vilket sätt arbetet med data och AI har bidragit till att utveckla verksamheten och höja kvaliteten i utförandet av myndighetens uppgifter och uppdrag. Av redovisningen ska framgå hur myndigheten beaktar risker och arbetar för att användning av data och AI sker på ett etiskt, säkert och icke-diskriminerande sätt. Eventuella hinder eller framgångsfaktorer för datadrivet arbete och användande av AI ska även redovisas.\n\nUppdraget ska redovisas till Regeringskansliet (Kulturdepartementet) senast den 4 maj 2026.",
+   "dates": [
+    "2026-05-04"
+   ],
+   "deadlines": [
+    "2026-05-04"
+   ],
+   "recipients": [
+    "Regeringskansliet (Kulturdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla",
+    "statistik_data",
+    "digitalisering_ai"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26437:assignments:0"
+  },
+  {
+   "title": "Kiruna - Europeisk kulturhuvudstad 2029",
+   "group": [],
+   "text": "Nationalmuseum ska i dialog med Kiruna kommun se över möjligheterna att medverka inför och under evenemanget Europeisk kulturhuvudstad 2029.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "samordna",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26437:assignments:1"
+  },
+  {
+   "title": "Regional närvaro",
+   "group": [],
+   "text": "Nationalmuseum ska arbeta för en fortsatt regional närvaro, t.ex. genom samarbeten med regionala museer.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26437:assignments:2"
+  },
+  {
+   "title": "Prognoser 2026–2029",
+   "group": [],
+   "text": "Myndigheten ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Av kommentarerna ska det framgå vilka antaganden som har använts i prognosen samt eventuella osäkerhetsfaktorer och hur detta påverkat prognosen. Prognoserna lämnas i informationssystemet Hermes senast den\n\n- 2 februari\n- 24 juli\n- 9 november.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26437:assignments:3"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "7:1",
+   "name": "Centrala museer: Myndigheter",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 17,
+    "name": "Kultur, medier, trossamfund och fritid"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Nationalmuseum",
+     "amount_tkr": 276529,
+     "items": [
+      {
+       "ap": "2",
+       "name": "Nationalmuseum (ram)",
+       "amount_tkr": 276529
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "2",
+     "name": "Nationalmuseum",
+     "text": "Anslagsposten får användas för Nationalmuseums förvaltningsutgifter.\nTillskottet sker för att en intäktsjusterad hyressättning ska kunna gälla för Nationalmuseums huvudbyggnad från och med den 1 juli 2026. (Intäktsjusterad hyra innebär att hyran sätts på en marknadsmässig nivå vid inträdet i hyresmodellen. Hyran justeras sedan enligt den årliga pris- och löneomräkningen för lokalkostnader.)"
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "7:1 Centrala museer: Myndigheter",
+   "ap": "ap.2",
+   "Anslagskredit": 8217,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 35000,
+  "Räntekontokredit": 30000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 68481
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 68481
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 69784
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 69783
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "7:1 Centrala museer: Myndigheter",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.2",
+     "8 217",
+     "3 %",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "35 000"
+    ],
+    [
+     "Räntekontokredit",
+     "30 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "68 481"
+    ],
+    [
+     "2026-04-25",
+     "68 481"
+    ],
+    [
+     "2026-07-25",
+     "69 784"
+    ],
+    [
+     "2026-10-25",
+     "69 783"
+    ],
+    [
+     "Summa",
+     "276 529"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "7:1 ap.2",
+     "Nationalmuseum"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Verksamhet med full kostnadstäckning",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Försäljning av varor Nationalmuseum1",
+     "0",
+     "400",
+     "6 500",
+     "6 000",
+     "500",
+     "900"
+    ],
+    [
+     "Undersökningar, utredningar och andra tjänster1",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0"
+    ],
+    [
+     "Summa",
+     "0",
+     "400",
+     "6 500",
+     "6 000",
+     "500",
+     "900"
+    ],
+    [
+     "Övrig avgiftsbelagd verksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Entréer och visningar3",
+     "34 000"
+    ],
+    [
+     "Övrigt3",
+     "18 300"
+    ],
+    [
+     "Summa",
+     "0",
+     "0",
+     "52 300",
+     "0",
+     "0",
+     "0"
+    ]
+   ]
+  }
+ ],
+ "has_fee_section": true,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 6,
+  "n_org": 0,
+  "n_assignments": 4,
+  "n_deadlines": 1,
+  "deadlines": [
+   "2026-05-04"
+  ],
+  "partners": [],
+  "n_appropriations": 1,
+  "appropriations_total_tkr": 276529,
+  "payment_plan_total_tkr": 276529,
+  "md_chars": 7221
+ },
+ "layout": "standard",
+ "warnings": []
+}

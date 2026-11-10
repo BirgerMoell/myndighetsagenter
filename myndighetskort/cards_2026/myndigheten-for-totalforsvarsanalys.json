@@ -1,0 +1,507 @@
+{
+ "schema_version": 1,
+ "id": 27448,
+ "original_rbid": 25965,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-06-11",
+ "year": "2026",
+ "name": "Myndigheten för totalförsvarsanalys",
+ "slug": "myndigheten-for-totalforsvarsanalys",
+ "department": "Försvarsdepartementet",
+ "expenditure_areas": [
+  6
+ ],
+ "registry_numbers": [
+  "Fö2026/00496 (delvis)",
+  "Fö2026/00994"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/25:1",
+   "2025/26:143"
+  ],
+  "bet": [
+   "2025/26:FiU46",
+   "2025/26:FöU1"
+  ],
+  "rskr": [
+   "2025/26:111",
+   "2025/26:180"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "Myndighetens huvudsakliga uppgifter framgår av förordningen (2022:1768) med instruktion för Myndigheten för totalförsvarsanalys.",
+ "goals": [],
+ "org": [],
+ "assignments": [
+  {
+   "title": "Uppföljning av beredskapsmyndigheternas arbete med försörjningsberedskap",
+   "group": [],
+   "text": "Myndigheten för totalförsvarsanalys ska analysera i vilken utsträckning beredskapsmyndigheternas och andra aktörers samlade åtgärder bidrar till att försörjningsberedskapen kan upprätthållas inom respektive ansvarsområde.Myndigheten ska ge en samlad beskrivning av effekten av de åtgärder som har genomförts för att stärka försörjningsberedskapen utifrån totalförsvarets behov.\n\nMyndigheten ska särskilt redovisa:\n\n- I vilken mån riktade åtgärder till kommunala och regionala aktörer bedöms bidra till stärkt försörjningsberedskap\n- I vilken mån riktade åtgärder till näringsidkare och andra icke-offentliga aktörer bedöms bidra till stärkt försörjningsberedskap\n- Identifierade förbättringsmöjligheter och förslag på åtgärder utifrån uppföljningen.\n\nMyndigheten ska redovisa uppdraget till Regeringskansliet (Försvarsdepartementet) senast den 29 januari 2027.",
+   "dates": [
+    "2027-01-29"
+   ],
+   "deadlines": [
+    "2027-01-29"
+   ],
+   "recipients": [
+    "Regeringskansliet (Försvarsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "I vilken mån riktade åtgärder till kommunala och regionala aktörer bedöms bidra till stärkt försörjningsberedskap",
+    "I vilken mån riktade åtgärder till näringsidkare och andra icke-offentliga aktörer bedöms bidra till stärkt försörjningsberedskap",
+    "Identifierade förbättringsmöjligheter och förslag på åtgärder utifrån uppföljningen."
+   ],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27448:assignments:0"
+  },
+  {
+   "title": "Uppföljning av logistik för högre beredskap",
+   "group": [],
+   "text": "Myndigheten för totalförsvarsanalys ska följa upp implementeringen av de reformer av materiel- och logistikförsörjningen som genomförts med utgångspunkt i utredningen*Logistik för högre försvarsberedskap*(SOU 2016:88) och efterföljande beslut.\n\nUppföljningen ska särskilt belysa:\n\n- Vilka effekter reformerna har haft på den operativa förmågan i krigsförbanden, inklusive materiell tillgänglighet och beredskap.\n- Hur de risker som identifierades i Ds 2018:14 (kompetensförsörjning inom upphandling, livscykelperspektivet samt gränsytan mot industrin) har hanterats och fallit ut.\n- Hur ansvarsfördelningen och samarbetet mellan berörda myndigheter fungerar i praktiken, inklusive tydlighet i gränsytor, effektivitet i processer samt eventuella kvarstående utmaningar och förslag på åtgärder.\n\nMyndigheten ska vid behov lämna förslag på ytterligare förändringar inom ramen för genomförda reformer i syfte att stärka materiel- och logistikförsörjningens bidrag till den operativa förmågan.\n\nMyndigheten ska redovisa uppdraget till Regeringskansliet (Försvarsdepartementet) senast den 1 december 2026.",
+   "dates": [
+    "2026-12-01"
+   ],
+   "deadlines": [
+    "2026-12-01"
+   ],
+   "recipients": [
+    "Regeringskansliet (Försvarsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "föreslå",
+    "fördela_medel",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "Vilka effekter reformerna har haft på den operativa förmågan i krigsförbanden, inklusive materiell tillgänglighet och beredskap.",
+    "Hur de risker som identifierades i Ds 2018:14 (kompetensförsörjning inom upphandling, livscykelperspektivet samt gränsytan mot industrin) har hanterats och fallit ut.",
+    "Hur ansvarsfördelningen och samarbetet mellan berörda myndigheter fungerar i praktiken, inklusive tydlighet i gränsytor, effektivitet i processer samt eventuella kvarstående utmaningar och förslag på åtgärder."
+   ],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27448:assignments:1"
+  },
+  {
+   "title": "Analys av effektiviteten i materielförsörjningen inom det militära försvaret",
+   "group": [],
+   "text": "Myndigheten för totalförsvarsanalys ska analysera effektiviteten i materielförsörjningen inom det militära försvaret. Myndigheten ska belysa de viktigaste faktorerna som påverkar risker, kostnader, leveranstider och kvalitet. Myndigheten ska i analysen göra ett lämpligt urval av materieltyper och genomföra fallstudier inom kategorierna mindre, mellan och stora anskaffningar.\\\nInom ramen för fallstudierna ska myndigheten även utvärdera erfarenheterna av de strategiska materielprojekten inom flyg- och undervattensområdet, bl.a. avseende kostnadseffektivitet och produktionsvolymer. Möjligheten till internationella jämförelser av motsvarande anskaffningar, liksom möjligheten att göra jämförelser över tid, ska beaktas.\n\nFörsta delen av uppdraget ska redovisas till Regeringskansliet (Försvarsdepartementet) senast den 30 november 2026. Uppdraget ska slutredovisas senast den 29 november 2027.",
+   "dates": [
+    "2026-11-30",
+    "2027-11-29"
+   ],
+   "deadlines": [
+    "2026-11-30",
+    "2027-11-29"
+   ],
+   "recipients": [
+    "Regeringskansliet (Försvarsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla",
+    "beredskap_säkerhet",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27448:assignments:2"
+  },
+  {
+   "title": "Analys av neddimensionering av luftfartsrelaterad infrastruktur",
+   "group": [],
+   "text": "Myndigheten för totalförsvarsanalys ska genomföra en fördjupad analys av vilka konsekvenser avveckling eller neddimensionering av befintlig luftfartsrelaterad infrastruktur i Västsverige kan medföra för totalförsvaret. Särskild vikt ska läggas vid att bedöma hur Försvarsmaktens förmåga att fullgöra sina uppgifter i regionen påverkas.\\\nUppdraget ska redovisas till Regeringskansliet (Försvarsdepartementet) senast den 10 augusti 2026.",
+   "dates": [
+    "2026-08-10"
+   ],
+   "deadlines": [
+    "2026-08-10"
+   ],
+   "recipients": [
+    "Regeringskansliet (Försvarsdepartementet)"
+   ],
+   "partners": [
+    "Försvarsmakten"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27448:assignments:3"
+  },
+  {
+   "title": "Övriga pågående uppdrag",
+   "group": [],
+   "text": "Myndigheten för totalförsvarsanalys ska följa upp och utvärdera genomförandet av totalförsvarsbeslutet för 2025–2030. Första delen av uppdraget har redovisats den 14 november 2025. Den andra delen av uppdraget ska redovisas vid lämplig tidpunkt i dialog med Regeringskansliet (Försvarsdepartementet).\\\nUppdraget ska slutredovisas senast den 15 juni 2031.",
+   "dates": [
+    "2025-11-14",
+    "2031-06-15"
+   ],
+   "deadlines": [
+    "2031-06-15"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna",
+    "utveckla",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "27448:assignments:4"
+  },
+  {
+   "title": "Prognoser",
+   "group": [],
+   "text": "Myndigheten ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Prognoserna lämnas i informationssystemet Hermes senast den:\n\n2 februari\n\n22 april\n\n24 juli\n\noch\n\n9 november.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27448:assignments:5"
+  },
+  {
+   "title": "Uppföljning och utvärdering av Sveriges stöd till Ukraina",
+   "group": [],
+   "text": "Myndigheten för totalförsvarsanalys ska följa upp och utvärdera nationella effekter av Sveriges stöd till Ukraina under perioden 2022 till 2026.\n\nMyndigheten för totalförsvarsanalys ska redovisa hur Försvarsmakten, Försvarets materielverk och Totalförsvarets forskningsinstitut genomför och följer upp verksamhet rörande det militära stödet till Ukraina.\n\nMyndigheten för totalförsvarsanalys ska bedöma om myndigheternas planering, genomförande och uppföljning av verksamheten har varit ändamålsenlig.\n\nMyndigheten för totalförsvarsanalys ska även redovisa effekter av Sveriges stöd till Ukraina inom det svenska totalförsvaret, bl.a. avseende i Sverige verksam försvarsindustri, innovation och teknikutveckling i Sverige samt utveckling av svensk militära förmåga.\n\nMyndigheten för totalförsvarsanalys ska löpande hålla Regeringskansliet (Försvarsdepartementet) informerad om uppdragets genomförande. Myndigheten ska senast den 15 december 2026 skriftligen delredovisa hur myndigheterna utformat styrning, uppföljning och återrapportering rörande militärt stöd till Ukraina. Myndigheten ska slutredovisa uppdraget skriftligen till Regeringskansliet (Försvarsdepartementet) senast den 15 december 2027.",
+   "dates": [
+    "2026-12-15",
+    "2027-12-15"
+   ],
+   "deadlines": [
+    "2026-12-15",
+    "2027-12-15"
+   ],
+   "recipients": [
+    "Regeringskansliet (Försvarsdepartementet)"
+   ],
+   "partners": [
+    "Försvarets materielverk",
+    "Försvarsmakten",
+    "Totalförsvarets forskningsinstitut"
+   ],
+   "channels": [
+    "delredovisning",
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla",
+    "informera",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27448:assignments:6"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "1:13",
+   "name": "Myndigheten för totalförsvarsanalys",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 6,
+    "name": "Försvar och samhällets krisberedskap"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Myndigheten för totalförsvarsanalys",
+     "amount_tkr": 93821,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Myndigheten för totalförsvarsanalys (ram)",
+       "amount_tkr": 93821
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "1:13 Myndigheten för totalförsvarsanalys",
+   "ap": "ap.1",
+   "Anslagskredit": 2814,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 33000,
+  "Räntekontokredit": 7500
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 7818
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 7818
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 7818
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 7818
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 7818
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 7818
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 7818
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 7818
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 7818
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 7818
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 7818
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 7823
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:13 Myndigheten för totalförsvarsanalys",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "2 814",
+     "3 %",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "33 000"
+    ],
+    [
+     "Räntekontokredit",
+     "7 500"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "7 818"
+    ],
+    [
+     "2026-02-25",
+     "7 818"
+    ],
+    [
+     "2026-03-25",
+     "7 818"
+    ],
+    [
+     "2026-04-25",
+     "7 818"
+    ],
+    [
+     "2026-05-25",
+     "7 818"
+    ],
+    [
+     "2026-06-25",
+     "7 818"
+    ],
+    [
+     "2026-07-25",
+     "7 818"
+    ],
+    [
+     "2026-08-25",
+     "7 818"
+    ],
+    [
+     "2026-09-25",
+     "7 818"
+    ],
+    [
+     "2026-10-25",
+     "7 818"
+    ],
+    [
+     "2026-11-25",
+     "7 818"
+    ],
+    [
+     "2026-12-25",
+     "7 823"
+    ],
+    [
+     "Summa",
+     "93 821"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "1:13 ap.1",
+     "Myndigheten för totalförsvarsanalys"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [],
+ "has_fee_section": false,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 0,
+  "n_org": 0,
+  "n_assignments": 7,
+  "n_deadlines": 8,
+  "deadlines": [
+   "2026-08-10",
+   "2026-11-30",
+   "2026-12-01",
+   "2026-12-15",
+   "2027-01-29",
+   "2027-11-29",
+   "2027-12-15",
+   "2031-06-15"
+  ],
+  "partners": [
+   "Försvarets materielverk",
+   "Försvarsmakten",
+   "Totalförsvarets forskningsinstitut"
+  ],
+  "n_appropriations": 1,
+  "appropriations_total_tkr": 93821,
+  "payment_plan_total_tkr": 93821,
+  "md_chars": 8428
+ },
+ "layout": "standard",
+ "warnings": []
+}

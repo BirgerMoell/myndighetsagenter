@@ -1,0 +1,867 @@
+{
+ "schema_version": 1,
+ "id": 27445,
+ "original_rbid": 25892,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-06-11",
+ "year": "2026",
+ "name": "Affärsverket svenska kraftnät",
+ "slug": "affarsverket-svenska-kraftnat",
+ "department": "Klimat- och näringslivsdepartementet",
+ "expenditure_areas": [
+  21
+ ],
+ "registry_numbers": [
+  "KN2026/00093",
+  "KN2026/01107",
+  "KN2026/01307 (delvis)"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1",
+   "2025/26:99"
+  ],
+  "bet": [
+   "2025/26:FiU21",
+   "2025/26:NU3"
+  ],
+  "rskr": [
+   "2025/26:118",
+   "2025/26:350"
+  ]
+ },
+ "n_attachments_stated": 2,
+ "mission": "",
+ "goals": [
+  {
+   "title": "Elberedskap och civilt försvar",
+   "group": [],
+   "text": "Affärsverket svenska kraftnät ska redovisa vidtagna åtgärder och kostnader inom elberedskap och inom affärsverkets verksamhet som stärker elförsörjningen i hela hotskalan, där höjd beredskap och ytterst krig är dimensionerande. Av redovisningen ska det framgå vilka åtgärder som har vidtagits inom områdena robusthet inklusive fysiskt skydd, reparationsberedskap och ö-drift och vilka resultat som har uppnåtts samt hur åtgärderna har stärkt den operativa förmågan för att kunna upprätthålla och anpassa verksamheten under höjd beredskap och ytterst krig i syfte att utveckla och stärka det civila försvaret och därmed bidra till en högre samlad förmåga inom totalförsvaret. Redovisningen ska i relevanta delar ingå i den särskilda redovisningen om civilt försvar.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27445:goals:0"
+  },
+  {
+   "title": "Civilplikt",
+   "group": [],
+   "text": "Affärsverket svenska kraftnät ska rapportera genomförandet av sitt uppdrag när det gäller skyldigheten för totalförsvarspliktiga inom elförsörjningen att fullgöra en kort grundutbildning och repetitionsutbildning med civilplikt enligt lagen (1994:1809) om totalförsvarsplikt. Redovisningen ska inkludera resultatet av de åtgärder som genomförts under året samt en tidsplan och en kostnadsberäkning för det fortsatta arbetet.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "1994:1809"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27445:goals:1"
+  },
+  {
+   "title": "Ukraina",
+   "group": [],
+   "text": "Affärsverket svenska kraftnät ska redovisa affärsverkets eventuella insatser för att stödja energisektorn i Ukraina samt hur verket har arbetat med att tillvarata erfarenheter från Ukraina för att bidra till stärkt beredskap inom elförsörjningen i Sverige.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27445:goals:2"
+  },
+  {
+   "title": "Moderna miljövillkor",
+   "group": [],
+   "text": "Affärsverket svenska kraftnät ska redovisa hur myndigheten har arbetat med att förse de länsstyrelser som är vattenmyndigheter med underlag i fråga om hur miljöanpassningarna av vattenkraften som följer av klassificering och kvalitetskrav enligt 4 kap. vattenförvaltningsförordningen (2004:660) påverkar vattenkraftens förmågor när det gäller de vattenkraftverk som myndigheten bedömer ha särskild betydelse för elsystemet.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2004:660"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27445:goals:3"
+  },
+  {
+   "title": "Telekom",
+   "group": [],
+   "text": "Affärsverket svenska kraftnät ska redovisa verksamheten Telekom skilt från annan verksamhet. Redovisningen av telekomverksamheten ska visa posterna intäkter, kostnader och rörelseresultat. Det ska även framgå hur stor del av intäkterna som kommer från externa kunder.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27445:goals:4"
+  },
+  {
+   "title": "Färdval och resepolicy vid tjänsteresor",
+   "group": [],
+   "text": "Alla trafikslag ska kunna nyttjas (väg, järnväg, luft- och sjöfart) för att säkerställa effektiva och ändamålsenliga transporter. Affärsverket svenska kraftnät ska därför redovisa hur myndigheten har säkerställt att val av färdsätt vid tjänsteresor sker färdmedelsneutralt och utifrån behov. Vidare ska Affärsverket svenska kraftnät redovisa huruvida myndigheten köpt in hållbart flygbränsle till organisationens flygresor. När kostnader jämförs för olika färdval ska hela resans kostnad beaktas, exempelvis kostnader för nödvändig övernattning samt total arbetstid för hela resan.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27445:goals:5"
+  },
+  {
+   "title": "Överklaganden",
+   "group": [],
+   "text": "Affärsverket svenska kraftnät ska redovisa de ärenden där affärsverket har överklagat ett beslut eller en dom, som avser utbyggnad av och anslutning till transmissionsnätet, som en statlig förvaltningsmyndighet eller en domstol har meddelat samt ange vad beslutet eller domen avser.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27445:goals:6"
+  }
+ ],
+ "org": [
+  {
+   "title": "Organisatorisk effektivitet",
+   "group": [],
+   "text": "Affärsverket svenska kraftnät ska redovisa vilka åtgärder som har vidtagits för att öka den interna effektiviteten i verksamheten, inklusive en analys av de internationella effektivitetsjämförelser som myndigheten deltar i. I arbetet för ett långsiktigt effektivt elsystem ska affärsverket redovisa mål och indikatorer samt effekter för såväl den interna effektiviteten och produktiviteten som extern effektivitet.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "statistik_data",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "org",
+   "item_id": "27445:org:0"
+  },
+  {
+   "title": "Proaktivitet och handlingskraft vid kris eller krig",
+   "group": [],
+   "text": "Affärsverket svenska kraftnät ska säkerställa att affärsverket har förmåga att agera proaktivt och handlingskraftigt i hanteringen av såväl fredstida krissituationer som vid krig och krigsfara. Utöver de krav som ställs i förordningen (2022:524) om statliga myndigheters beredskap ska affärsverket i detta syfte utbilda och öva sin personal samt se till att myndigheten stärker en kultur och arbetssätt som utgår från de krav som ett krig ställer. Uppdraget ska redovisas till Regeringskansliet (Klimat- och näringslivsdepartementet och Försvarsdepartementet) senast den 22 februari 2027. Detta ska ingå i den särskilda redovisningen för civilt försvar.",
+   "dates": [
+    "2027-02-22"
+   ],
+   "deadlines": [
+    "2027-02-22"
+   ],
+   "recipients": [
+    "Regeringskansliet (Klimat- och näringslivsdepartementet och Försvarsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2022:524"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "org",
+   "item_id": "27445:org:1"
+  }
+ ],
+ "assignments": [
+  {
+   "title": "Planering för ett leveranssäkert elsystem",
+   "group": [],
+   "text": "Affärsverket svenska kraftnät ska planera för ett leveranssäkert elsystem som möter elbehovet på kort och lång sikt och som uppfyller tillförlitlighetsnormen med respektive utan en strategisk reserv. Affärsverket ska redovisa de åtgärder som vidtas i syfte att möjliggöra detta. Uppdraget ska redovisas till Regeringskansliet (Klimat- och näringslivsdepartementet) senast den 5 juni 2026.",
+   "dates": [
+    "2026-06-05"
+   ],
+   "deadlines": [
+    "2026-06-05"
+   ],
+   "recipients": [
+    "Regeringskansliet (Klimat- och näringslivsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27445:assignments:0"
+  },
+  {
+   "title": "Stödja regional energiplanering",
+   "group": [],
+   "text": "Affärsverket svenska kraftnät ska utifrån sitt ansvarsområde och de energipolitiska målen stödja länsstyrelserna i genomförandet av arbetet med att utveckla den regionala energiplaneringen inom uppdraget om att leda och samordna det regionala genomförandet av energi- och klimatpolitiken.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "länsstyrelserna"
+   ],
+   "channels": [],
+   "task_types": [
+    "samordna",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27445:assignments:1"
+  },
+  {
+   "title": "Civilplikt med mönstring och lång grundutbildning",
+   "group": [],
+   "text": "Affärsverket svenska kraftnät ska utreda och föreslå hur ett system med civilplikt med mönstring och lång grundutbildning kan utformas och införas för verksamhetsområdet drift och underhåll inom elproduktion och nätverksamhet. I uppdraget ingår att uppskatta kostnader för uppbyggnad och upprätthållande av verksamheten samt vilka uppgifter som myndigheten och andra myndigheter behöver utföra. En uppskattning av de initiala kostnaderna ska redovisas till Regeringskansliet (Klimat- och näringslivsdepartementet) senast den 2 mars 2026. Uppdraget ska redovisas till Regeringskansliet (Klimat- och näringslivsdepartementet) senast den 1 mars 2027.",
+   "dates": [
+    "2026-03-02",
+    "2027-03-01"
+   ],
+   "deadlines": [
+    "2026-03-02",
+    "2027-03-01"
+   ],
+   "recipients": [
+    "Regeringskansliet (Klimat- och näringslivsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "föreslå",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27445:assignments:2"
+  },
+  {
+   "title": "Utvidga transmissionsnätet i norra Norrbotten",
+   "group": [],
+   "text": "Affärsverket svenska kraftnät ska utvidga transmissionsnätet till norra Norrbottens län i enlighet med den analys som affärsverket redovisade den 31 oktober 2025 (KN2025/02163). Syftet är att skapa förutsättningar för en samhällsekonomiskt effektiv, internationellt konkurrenskraftig, hållbar och trygg elförsörjning i Sverige. Affärsverket svenska kraftnät ska senast den 25 september 2026 redovisa teknikval och tidplan för det fortsatta arbetet till Regeringskansliet (Klimat- och näringslivsdepartementet).",
+   "dates": [
+    "2025-10-31",
+    "2026-09-25"
+   ],
+   "deadlines": [
+    "2026-09-25"
+   ],
+   "recipients": [
+    "Regeringskansliet (Klimat- och näringslivsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27445:assignments:3"
+  },
+  {
+   "title": "Forskning",
+   "group": [],
+   "text": "Affärsverket svenska kraftnät ska redovisa vilken betydelse den forskning som finansieras av affärsverket har haft för verksamheten. Utöver detta ska affärsverket analysera hur den forskning som finansieras av Statens energimyndighet i högre utsträckning kan nyttiggöras för den egna verksamheten samt beskriva hur den av affärsverket finansierade forskningen kompletterar den forskning och innovation som finansieras av Statens energimyndighet utifrån affärsverkets uppgift att skapa förutsättningar för en samhällsekonomiskt effektiv, internationellt konkurrenskraftig, hållbar och trygg elförsörjning i Sverige. Uppdraget ska redovisas till Regeringskansliet (Klimat- och näringslivsdepartementet) senast den 12 juni 2026.",
+   "dates": [
+    "2026-06-12"
+   ],
+   "deadlines": [
+    "2026-06-12"
+   ],
+   "recipients": [
+    "Regeringskansliet (Klimat- och näringslivsdepartementet)"
+   ],
+   "partners": [
+    "Statens energimyndighet"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27445:assignments:4"
+  },
+  {
+   "title": "Arbete med statligt stöd till ny kärnkraft",
+   "group": [],
+   "text": "Affärsverket svenska kraftnät ska under 2026 och 2027 inom sitt ansvarsområde och efter dialog med Klimat- och näringslivsdepartementet bistå Regeringskansliet med underlag i arbetet med statligt stöd till företag för investeringar i ny kärnkraft. Myndigheten får för genomförandet av uppdraget under 2026 använda högst 3 000 000 kronor som ska redovisas mot det under utgiftsområde 21 Energi för budgetåret 2026 uppförda anslaget 1:5*Energiplanering*, anslagsposten 7 Insatser för ny kärnkraft. Medel betalas ut engångsvis efter rekvisition senast den 31 mars 2026 till Statens energimyndighet. Medel som under året inte har använts för avsett ändamål ska återbetalas till Statens energimyndighet senast den 1 mars 2027. Regeringen beräknar att 3 000 000 kronor kommer att avsättas för uppdraget för 2027, under förutsättning att riksdagen anvisat medel för det aktuella anslaget.",
+   "dates": [
+    "2026-03-31",
+    "2027-03-01"
+   ],
+   "deadlines": [
+    "2026-03-31",
+    "2027-03-01"
+   ],
+   "recipients": [
+    "Statens energimyndighet"
+   ],
+   "partners": [
+    "Statens energimyndighet"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "utveckla"
+   ],
+   "anslag_refs": [
+    "1:5"
+   ],
+   "expenditure_area_refs": [
+    21
+   ],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27445:assignments:5"
+  },
+  {
+   "title": "Avtal för stärkt försörjningsberedskap",
+   "group": [],
+   "text": "Affärsverket svenska kraftnät ska identifiera behov av och, i de fall affärsverket bedömer det lämpligt, teckna avtal som syftar till att upprätthålla försörjningen av varor och tjänster som är nödvändiga för affärsverkets prioriterade uppgifter vid fredstida kriser och höjd beredskap. I de fall Affärsverket svenska kraftnät nyttjar särskilda avtalsformer i form av sådana försörjningsberedskapsavtal (F-avtal) som beskrivs i SOU 2025:68 ska dessa avtal löpande rapporteras till Myndigheten för civilt försvar. Uppdraget ska redovisas till Regeringskansliet (Klimat- och näringslivsdepartementet och Försvarsdepartementet) senast den 22 februari 2027, och ingå i den särskilda redovisningen för civilt försvar. Som stöd för arbetet kan affärsverket använda bland annat Utgångspunkter för totalförsvaret 2025–2030.",
+   "dates": [
+    "2027-02-22"
+   ],
+   "deadlines": [
+    "2027-02-22"
+   ],
+   "recipients": [
+    "Myndigheten för civilt försvar",
+    "Regeringskansliet (Klimat- och näringslivsdepartementet och Försvarsdepartementet)"
+   ],
+   "partners": [
+    "Myndigheten för civilt försvar"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27445:assignments:6"
+  },
+  {
+   "title": "Kontrollstation dammsäkerhet",
+   "group": [],
+   "text": "Affärsverket svenska kraftnät ska genomföra en kontrollstation i syfte att följa upp tillsyn och tillsynsvägledning av dammsäkerhet sedan föregående kontrollstation 2021. Redovisningen ska innehålla en utvärdering av såväl tillsyn som tillsynsvägledning för att avgöra om de uppfyller de behov och högt ställda förväntningar som samhället har på dammsäkerhet för dammar i dammsäkerhetsklass.\n\nVid behov ska Affärsverket svenska kraftnät föreslå åtgärder, inklusive konsekvensutredda författningsförslag. Uppdraget ska redovisas till Regeringskansliet (Klimat- och näringslivsdepartementet) senast den 15 september 2027.",
+   "dates": [
+    "2027-09-15"
+   ],
+   "deadlines": [
+    "2027-09-15"
+   ],
+   "recipients": [
+    "Regeringskansliet (Klimat- och näringslivsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "föreslå",
+    "utveckla",
+    "tillsyn_kontroll",
+    "informera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27445:assignments:7"
+  },
+  {
+   "title": "Prognoser",
+   "group": [],
+   "text": "Affärsverket svenska kraftnät ska redovisa utgiftsprognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Prognoserna lämnas i informationssystemet Hermes senast den\n\n– 2 februari,\n\n– 22 april,\n\n– 24 juli, och\n\n– 9 november.\n\nVid prognostillfället i juli ska Affärsverket svenska kraftnät redovisa en prognos för de förslag om beställningsbemyndiganden som har lämnats i budgetunderlaget och för de åtaganden som har ingåtts med stöd av äldre beställningsbemyndiganden. Prognosen ska lämnas via Statsredovisningssystemet i Hermes och utformas enligt närmare information från Statskontoret. I nära anslutning till prognoserna som lämnas i juli och november ska affärsverket i särskild ordning och efter dialog med Regeringskansliet (Klimat- och näringslivsdepartementet) lämna prognoser för den avgiftsbelagda verksamheten som finansieras via anslag 1:11*Elberedskap*.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [
+    "Statskontoret"
+   ],
+   "channels": [
+    "hermes",
+    "budgetunderlag"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [
+    "1:11"
+   ],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27445:assignments:8"
+  },
+  {
+   "title": "Pågående uppdrag",
+   "group": [],
+   "text": "Affärsverket svenska kraftnäts pågående uppdrag och redovisningstidpunkter framgår nedan.\n\n| | | |\n| --- | --- | --- |\n| **Uppdrag** | **Beslut om uppdraget** | **Redovisningstidpunkt** |\n| Uppdrag om enkla regelverk och rutiner | KN2023/04604 | Den 15 mars 2026 |\n| Inriktning för civilt försvar 2025–2030 | Fö2024/02054 | Årlig redovisning den 22 februari t.o.m. 2031 |\n| Kraftsystemets förmågor | KN2024/02559 | Den 28 februari 2026 |\n| Proaktivitet och handlingskraft vid kris eller krig | KN2024/02559 | Den 2 mars 2026 |\n| Genomförande av civilplikt | KN2024/02559 | Den 15 februari 2029 |\n| Uppdrag om att utreda förutsättningarna för drift av kärnkraftverk under höjd beredskap | KN2025/00969 | Den 15 februari 2026 |\n| Uppdrag om att analysera förutsättningarna för att ändra den svenska elområdesindelningen | KN2025/01072 | Den 29 maj 2026 |\n| Uppdrag till Havs- och vattenmyndigheten att se över HARO-värdena samt utarbeta vägledning för hur intresset av en nationell effektiv tillgång till vattenkraftsel ska beaktas inom ramen för vattenförvaltningsarbetet | KN2025/01118 | Den 16 januari 2026 |\n| Uppdrag om att tydliggöra vattenkraftens nyttor och betydelse för elförsörjningen | KN2025/01564 | Den 22 februari 2027 |\n| Uppdrag om att se över anslutningsprocessen till elsystemet och tillträdet till elmarknaden för ett starkare och mer konkurrenskraftigt Sverige | KN2025/01694 | Den 30 april 2026 |\n| Uppdrag om att ta fram ett centralt datahanteringsverktyg för elmarknaden | KN2025/01781 | Den 30 september 2026 |\n\n*För regeringsuppdrag som lämnats i ett särskilt regeringsbeslut utgör tabellen endast en upplysning om vilka uppdrag som vid årets början var riktade till myndigheten och vilka tider som då gällde för återrapportering eller liknande.*",
+   "dates": [
+    "2026-01-16",
+    "2026-02-15",
+    "2026-02-28",
+    "2026-03-02",
+    "2026-03-15",
+    "2026-04-30",
+    "2026-05-29",
+    "2026-09-30",
+    "2027-02-22",
+    "2029-02-15"
+   ],
+   "deadlines": [],
+   "recipients": [
+    "Havs- och vattenmyndigheten"
+   ],
+   "partners": [
+    "Havs- och vattenmyndigheten"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla",
+    "informera",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "27445:assignments:9"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "1:5",
+   "name": "Energiplanering",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 21,
+    "name": "Energi"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Affärsverket svenska kraftnät",
+     "amount_tkr": 10000,
+     "items": [
+      {
+       "ap": "5",
+       "name": "Energiplanering - till SVK (ram)",
+       "amount_tkr": 10000
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "5",
+     "name": "Energiplanering - till SVK",
+     "text": "Anslaget får användas för utgifter och förvaltningskostnader kopplade till Affärsverket svenska kraftnäts arbete med samordning av den långsiktiga planeringen av det nationella elsystemet om uppgifterna inte kan anses ingå i transmissionsnätsföretagets nätverksamhet när intäktsramen bestäms.\nAnslagsposten får användas som finansiering av myndighetens arbete för att tydliggöra vattenkraftens nyttor och betydelse för elförsörjningen. Affärsverket svenska kraftnät får för arbetet använda högst 1 000 000 kronor från anslagsposten."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "5",
+     "max": 1000000,
+     "unit": "kronor"
+    }
+   ]
+  },
+  {
+   "code": "1:11",
+   "name": "Elberedskap",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 21,
+    "name": "Energi"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Affärsverket svenska kraftnät",
+     "amount_tkr": 830000,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Elberedskap (ram)",
+       "amount_tkr": 816300
+      },
+      {
+       "ap": "3",
+       "name": "Utökad tillsyn inom elförsörjningen enligt säkerhetsskyddslagen (ram)",
+       "amount_tkr": 12500
+      },
+      {
+       "ap": "2",
+       "name": "Statlig ålderspension (ram)",
+       "amount_tkr": 1200
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Elberedskap",
+     "text": "Anslagsposten avser ersättning som beslutas enligt elberedskapslagen (1997:288) och för att täcka kostnader för Affärsverket svenska kraftnäts myndighetsutövning enligt lagen. Anslagsposten får användas för andra åtgärder och för forskning och utveckling som stärker elsektorns beredskap för såväl fredstid, höjd beredskap och krig samt för åtgärder som stärker den nationella förmågan och som kan utnyttjas för den internationella fredsfrämjande och humanitära beredskapen.\nHögst 45 000 000 kronor får användas för att täcka förvaltningskostnader i verksamheten för myndighetsutövningen enligt elberedskapslagen och för utförandet av andra åtgärder som stärker elsektorns beredskap och den nationella förmågan, exklusive civilplikt.\nAnslagsposten får även användas för förvaltningskostnader och åtgärder med anledning av Affärsverket svenska kraftnäts uppgift enligt miljötillsynsförordningen (2011:13), förordningen (2014:214) om dammsäkerhet och förordningen (2025:782) med instruktion för Affärsverket svenska kraftnät att främja dammsäkerhet i landet och för sådana åtgärder som tillkommer med anledning av propositionen Dammsäkerhet (prop. 2013/14:38, bet. 2013/14:FöU8, rskr. 2013/14:155).\nAnslaget ska användas för utförande och genomförande av återinförande av civilplikt inom elförsörjningen. Högst 27 000 000 kronor får användas till förvaltningskostnader för detta ändamål.\nAffärsverket svenska kraftnät ska kunna använda och samverka med det gemensamma radiokommunikationssystemet Rakel. Affärsverket svenska kraftnät ska betala totalt 6 308 000 kronor till Myndigheten för civilt försvar som abonnemangsavgift för detta system. Beloppet ska betalas efter fakturering från Myndigheten för civilt försvar.\nEtt beräknat avgiftsuttag avseende verksamheten inom elberedskapsområdet har fastställts till sammanlagt högst 800 000 000 kronor under 2026 (prop. 2025/26:1 utg.omr. 21, bet. 2025/26:NU3, rskr. 2025/26:118)."
+    },
+    {
+     "ap": "2",
+     "name": "Statlig ålderspension",
+     "text": "Anslagsposten får användas för utgifter för statlig ålderspensionsavgift enligt lagen (1998:676) om statlig ålderspensionsavgift för totalförsvarspliktiga som genomför kort grundutbildning eller repetitionsutbildning. Anslagsbeloppet avser preliminär statlig ålderspensionsavgift för 2026 om 1 200 000 kronor."
+    },
+    {
+     "ap": "3",
+     "name": "Utökad tillsyn inom elförsörjningen enligt säkerhetsskyddslagen",
+     "text": "Anslaget får användas för utgifter för tillsynsuppdrag enligt säkerhetsskyddslagen (2018:585) inklusive förvaltningskostnader för utförandet av tillsynsuppdraget."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "1",
+     "max": 45000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "1",
+     "max": 27000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "1",
+     "max": 800000000,
+     "unit": "kronor"
+    }
+   ]
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "1:5 Energiplanering",
+   "ap": "ap.5",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:11 Elberedskap",
+   "ap": "ap.1",
+   "Anslagskredit": 51150,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:11 Elberedskap",
+   "ap": "ap.2",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:11 Elberedskap",
+   "ap": "ap.3",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "- Lån till företag som bedriver elnätsverksamhet enligt ellagen": 700000,
+  "- Delägarlån till bolag i vilka Affärsverket Svenska Kraftnät förvaltar statens aktier": 500000
+ },
+ "payment_plan": [],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:5 Energiplanering",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.5",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "1:11 Elberedskap",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "51 150",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.2",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.3",
+     "0",
+     "Inget",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Beställningsbemyndiganden",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Bemyndigande",
+     "Utgifter mot anslag till följd av ekonomiska åtaganden",
+     "",
+     "",
+     ""
+    ],
+    [
+     "2026",
+     "2027",
+     "2028",
+     "2029 -",
+     "Slutår"
+    ],
+    [
+     "1:11 Elberedskap",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "2 000 000",
+     "400 000",
+     "400 000",
+     "1 200 000",
+     "2041"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar, krediter och utlåning",
+   "rows": [
+    [
+     ""
+    ],
+    [
+     "Utlåning"
+    ],
+    [
+     "- Lån till företag som bedriver elnätsverksamhet enligt ellagen",
+     "700 000"
+    ],
+    [
+     "- Delägarlån till bolag i vilka Affärsverket Svenska Kraftnät förvaltar statens aktier",
+     "500 000"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna ej disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "Ink. tit.",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Offentligrättslig verksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Elberedskapsavgift enligt förordning (2017:1040) om elberedskapsavgift, nätövervakningsavgift m.m.1",
+     "2552",
+     "-344 254",
+     "-64 793",
+     "567 324",
+     "600 000",
+     "-32 676",
+     "-441 723"
+    ]
+   ]
+  }
+ ],
+ "has_fee_section": true,
+ "exceptions_text": "Affärsverket svenska kraftnät ska lämna in en prognos för helår enligt bestämmelserna i 10 kap. 2 § förordningen (2000:605) om årsredovisning och budgetunderlag i den delårsrapport som ska lämnas in senast den 30 augusti 2026, eller senast fyra veckor efter inlämnande av delårsrapporten. Affärsverket svenska kraftnät får lämna in prognos för helår i separat bilaga till delårsrapporten.\n\nKravet enligt 10 kap. 1 § förordningen om årsredovisning och budgetunderlag att årsredovisningen ska innehålla en förvaltningsberättelse ska inte tillämpas av Affärsverket svenska kraftnät. I stället ska myndigheten tillämpa bestämmelserna om resultatredovisning i 3 kap. 1 § första stycket och 2 och 3 §§ förordningen om årsredovisning och budgetunderlag.\n\n**ÖVRIGA BESTÄMMELSER**\n\n*Investeringsplan Affärsverket svenska kraftnät*är bifogad som*bilaga*till detta beslut och gäller som riktlinje för affärsverkets investeringar. Nya investeringsprojekt, vars beräknade totalvärde överstiger 400 000 000 kronor, ska underställas regeringens prövning. Överskridande av budgeterade kostnader för dessa investeringar ska utan dröjsmål anmälas till Regeringskansliet (Klimat- och näringslivsdepartementet).\n\nStyrelsen för Affärsverket svenska kraftnät utser statens företrädare vid bolags- och årsstämma i de bolag och andra företag i vilka Affärsverket svenska kraftnät förvaltar statens aktier och andelar.\n\nAffärsverket svenska kraftnät får disponera ett räntebärande konto utan kredit i Riksgäldskontoret för att hantera säkerhetskrav vid inköp av el.\n\n*Förvärv och avyttring av aktier samt bildande av bolag*\n\nMed stöd av riksdagens bemyndigande ger regeringen Affärsverket svenska kraftnät rätt att under budgetåret 2026 besluta om förvärv och bildande av bolag som ska verka inom Affärsverket svenska kraftnäts verksamhetsområde intill ett belopp om 20 000 000 kronor samt avyttra aktier intill ett belopp om 20 000 000 kronor.\n\n*Placering av likvida medel*\n\nMed stöd av riksdagens bemyndigande ger regeringen Affärsverket svenska kraftnät rätt att placera likvida medel i och utanför Riksgäldskontoret. Upplåning för placeringsändamål får inte förekomma. Affärsverket svenska kraftnäts placering av likvida medel ska ske i enlighet med av affärsverkets styrelse fastställda riktlinjer.\n\n**Bilaga 1 till Regeringsbeslut I:2, 2026-06-11**\n\n**Diarienummerförteckning**\n\nKN2026/00093\\\nKN2026/01107\\\nKN2026/01307 (delvis)\\\nKN2026/01319\n\nPå regeringens vägnar\n\nPeter Kullgren\n\nWilly Hallgren\n\n**Kopia till**\n\nStatsrådsberedningen, internrevisionen\\\nFörsvarsdepartementet, ETU\\\nSocialdepartementet, SF\\\nFinansdepartementet, BA och SFÖ\\\nFörvaltningsavdelningen, RK Ekonomi och affärer\\\nRiksdagen, näringsutskottet\\\nEkonomistyrningsverket\\\nElsäkerhetsverket\\\nEnergimarknadsinspektionen\\\nLänsstyrelserna\\\nMyndigheten för civilt försvar\\\nPensionsmyndigheten\\\nRiksgäldskontoret\\\nStatens energimyndighet\\\nStatskontoret",
+ "summary": {
+  "n_goals": 7,
+  "n_org": 2,
+  "n_assignments": 10,
+  "n_deadlines": 8,
+  "deadlines": [
+   "2026-03-02",
+   "2026-03-31",
+   "2026-06-05",
+   "2026-06-12",
+   "2026-09-25",
+   "2027-02-22",
+   "2027-03-01",
+   "2027-09-15"
+  ],
+  "partners": [
+   "Havs- och vattenmyndigheten",
+   "Myndigheten för civilt försvar",
+   "Statens energimyndighet",
+   "Statskontoret",
+   "länsstyrelserna"
+  ],
+  "n_appropriations": 2,
+  "appropriations_total_tkr": 840000,
+  "payment_plan_total_tkr": 0,
+  "md_chars": 26431
+ },
+ "layout": "standard",
+ "warnings": []
+}

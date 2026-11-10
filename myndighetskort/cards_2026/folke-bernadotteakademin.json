@@ -1,0 +1,661 @@
+{
+ "schema_version": 1,
+ "id": 26310,
+ "original_rbid": 25701,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-06-25",
+ "year": "2026",
+ "name": "Folke Bernadotteakademin",
+ "slug": "folke-bernadotteakademin",
+ "department": "Utrikesdepartementet",
+ "expenditure_areas": [
+  7
+ ],
+ "registry_numbers": [
+  "UD2026/10194"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1"
+  ],
+  "bet": [
+   "2025/26:UU2"
+  ],
+  "rskr": [
+   "2025/26:120"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "FBA:s huvudsakliga uppgifter framgår av förordningen (2024:1026) med instruktion för Folke Bernadotteakademin.",
+ "goals": [
+  {
+   "title": "Utvecklad redovisning av resultat",
+   "group": [],
+   "text": "FBA ska utveckla resultatredovisningen med analytiska resonemang som utgår från en tydlig verksamhetslogik, där konkreta och mätbara resultat ges ett sammanhang. Redovisningen ska utgå från regeringens prioriteringar. Jämförbarhet av resultat ska eftersträvas. Resonemang om lärdomar, både positiva och negativa, ska också ingå. För att främja lärande och synliggöra komplementaritet ska FBA i arbetet med att utveckla resultatredovisningen föra dialog med Styrelsen för internationellt utvecklingssamarbete (Sida).",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Styrelsen för internationellt utvecklingssamarbete"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26310:goals:0"
+  },
+  {
+   "title": "Evidensbaserad styrning av biståndet",
+   "group": [],
+   "text": "FBA ska redovisa hur myndigheten arbetar för att stärka den evidensbaserade styrningen av vägval och prioriteringar i biståndets genomförande, inklusive exempel på verksamhet som FBA valt bort, fasat ut eller nedprioriterat på grund av bristande effektivitet. Redovisningen ska även innefatta en analys av hur FBA:s forskningsverksamhet och internationella forskarnätverk tydligare kan användas för att göra myndighetens arbete med lärande och utvärdering mer systematiskt och verksamhetsnära.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna",
+    "utveckla",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26310:goals:1"
+  },
+  {
+   "title": "Handlingsplan för kvinnor, fred och säkerhet",
+   "group": [],
+   "text": "FBA ska bidra till att genomföra FN:s säkerhetsrådsresolutioner om kvinnor, fred och säkerhet med utgångspunkt i den nationella handlingsplanen på området (UD2023/04798). Myndighetens arbete ska redovisas utifrån de fyra övergripande målen i handlingsplanen.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26310:goals:2"
+  }
+ ],
+ "org": [],
+ "assignments": [
+  {
+   "title": "Nato",
+   "group": [],
+   "text": "FBA ska stödja Regeringskansliet (Utrikesdepartementet) i arbetet med att stärka och utveckla Natos verksamhet i frågor där myndigheten har kompetens. Det gäller särskilt Natos partnersamarbete, inklusive Natos södra grannskap, arbetet med kvinnor, fred och säkerhet samt där relevant i frågor som rör klimatförändringarnas påverkan på fred och säkerhet. Vid behov ska FBA bistå Regeringskansliet (Utrikesdepartementet) med att utarbeta policyförslag inom områden som omfattas av myndighetens verksamhet och kompetens.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "samordna",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26310:assignments:0"
+  },
+  {
+   "title": "Hybrida hot och fria val",
+   "group": [],
+   "text": "FBA ska stödja Regeringskansliet (Utrikesdepartementet) i arbetet med att stärka motståndskraft och resiliens mot hybrida hot inom ramen för myndighetens samarbeten med tredje länder och organisationer. Detta ska ske i nära samarbete med andra svenska myndigheter, privat sektor samt aktörer inom EU och Nato. FBA ska också stärka förutsättningarna för fria val genom att bland annat bygga kapacitet att skydda val mot yttre antagonistisk påverkan samt bistå Regeringskansliet (Utrikesdepartementet) i arbetet med att följa upp pågående internationella processer om uppdatering av normer för val, valobservationer och valstöd.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "analysera",
+    "samordna",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26310:assignments:1"
+  },
+  {
+   "title": "FN:s säkerhetsråd",
+   "group": [],
+   "text": "FBA ska stödja Regeringskansliet (Utrikesdepartementet) i genomförandet av ett svenskt kapacitetsstöd till Liberias FN-representation i New York under Liberias period som icke-permanent medlem i FN:s säkerhetsråd (1 januari 2026 – 31 december 2027). Uppdraget ska pågå längst t.o.m. den 31 december 2027.\n\nFör uppdraget får FBA under 2026 använda högst 3 500 000 kronor för att ställa svensk personal till förfogande för strategiskt arbete i FN:s säkerhetsråd inom ramen för stödet till Liberias FN-representation. Uppdraget ska redovisas mot det under utgiftsområde 5 Internationell samverkan för budgetåret 2026 uppförda anslaget 1:5 Utrikes- och säkerhetspolitiskt strategiska insatser, anslagsposten 1 Utrikes- och säkerhetspolitiskt strategiska insatser. Medlen ska betalas ut efter rekvisition till Kammarkollegiet senast den 31 oktober 2026.",
+   "dates": [
+    "2026-01-01",
+    "2026-10-31",
+    "2027-12-31"
+   ],
+   "deadlines": [
+    "2026-10-31"
+   ],
+   "recipients": [
+    "Kammarkollegiet"
+   ],
+   "partners": [
+    "Kammarkollegiet"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "utveckla",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [
+    "1:5"
+   ],
+   "expenditure_area_refs": [
+    5
+   ],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26310:assignments:2"
+  },
+  {
+   "title": "Informationssäkerhet",
+   "group": [],
+   "text": "FBA ska redogöra för hur myndigheten arbetar för att förvalta och utveckla sin informationssäkerhet, inklusive hur myndigheten vid upphandlingar säkerställer att tydliga informationssäkerhetskrav ställs på leverantörer.\n\nFBA ska även redogöra för åtgärder som vidtagits för att öka den egna organisationens beredskap och möjlighet att identifiera och rapportera it-incidenter, samt för att skyndsamt kunna vidta nödvändiga åtgärder. Redovisningen ska lämnas till Regeringskansliet (Utrikesdepartementet) senast den 30 september 2026.",
+   "dates": [
+    "2026-09-30"
+   ],
+   "deadlines": [
+    "2026-09-30"
+   ],
+   "recipients": [
+    "Regeringskansliet (Utrikesdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26310:assignments:3"
+  },
+  {
+   "title": "Genomförande och redovisning av åtgärder inom området kvinnor, fred och säkerhet",
+   "group": [],
+   "text": "FBA ska bidra i genomförandet av FN:s säkerhetsrådsresolutioner om kvinnor, fred och säkerhet. Som underlag till Sveriges nationella återrapportering till FN ska FBA med bidrag från berörda myndigheter sammanställa en rapport om genomförandet av Sveriges handlingsplan för kvinnor, fred och säkerhet. Redovisning ska lämnas till Regeringskansliet (Utrikesdepartementet) senast den 30 september 2026.",
+   "dates": [
+    "2026-09-30"
+   ],
+   "deadlines": [
+    "2026-09-30"
+   ],
+   "recipients": [
+    "Regeringskansliet (Utrikesdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26310:assignments:4"
+  },
+  {
+   "title": "Förlängningar och villkor för vissa strategier",
+   "group": [],
+   "text": "",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26310:assignments:5"
+  },
+  {
+   "title": "Pågående fleråriga uppdrag i form av strategier för svenskt utvecklingssamarbete",
+   "group": [],
+   "text": "| | | |\n| --- | --- | --- |\n| Strategi | Beslut | Löptid |\n| | |\n| **Europa** | | |\n| Strategi för Sveriges uppbyggnads- och reformsamarbete med Ukraina | UD2023/10149 | 2023–2027 |\n| | |\n| | |\n| **Tematiska strategier** | | |\n| Strategi för internationell civil krishantering och fredsfrämjande | UD2024/05333 | 2024–2028 |\n| Strategi för FBA:s verksamhet inom freds- och säkerhetsfrämjande | UD2026/08643 | 2026–2031 |",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "26310:assignments:6"
+  },
+  {
+   "title": "Övriga pågående uppdrag",
+   "group": [],
+   "text": "För regeringsuppdrag som lämnats i ett särskilt regeringsbeslut utgör tabellen endast en upplysning om vilka uppdrag som vid årets början var riktade till myndigheten och vilka tider som då gällde för återrapportering eller liknande.\n\n| | | |\n| --- | --- | --- |\n| Uppdrag | Beslut om uppdraget | Redovisningstidpunkt |\n| Uppdrag till Folke Bernadotteakademin att omlokalisera myndighetens säte från Sandö till Stockholm | UD2025/00656 | Uppdraget ska redovisas till Regeringskansliet (Utrikesdepartementet) senast den 31 mars 2026 |",
+   "dates": [
+    "2026-03-31"
+   ],
+   "deadlines": [
+    "2026-03-31"
+   ],
+   "recipients": [
+    "Regeringskansliet (Utrikesdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "26310:assignments:7"
+  },
+  {
+   "title": "Utgiftsprognoser",
+   "group": [],
+   "text": "FBA ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Prognoserna lämnas i informationssystemet Hermes senast den\n\n2 februari\n\n22 april\n\n24 juli\n\n9 november.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26310:assignments:8"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "1:1",
+   "name": "Biståndsverksamhet",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 7,
+    "name": "Internationellt bistånd"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Folke Bernadotteakademin",
+     "amount_tkr": 98000,
+     "items": [
+      {
+       "ap": "4",
+       "name": "Biståndsverksamhet (ram)",
+       "amount_tkr": 98000
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "4",
+     "name": "Biståndsverksamhet",
+     "text": "Medlen får endast användas i enlighet med OECD:s biståndskommitté DAC:s riktlinjer för vad som kan klassificeras som bistånd.\n**Strategiverksamhet**\nMedlen får användas för FBA:s genomförande av uppdrag i strategin för Sveriges uppbyggnads- och reformsamarbete med Ukraina 2023–2027. FBA:s användning av medel för strategin tillåts överstiga det i strategin angivna beloppet för perioden 13 juni 2023 till 31 december 2027.\nFBA får under 2026 använda 45 miljoner kronor för genomförande av uppdrag i strategin för FBA:s verksamhet inom freds- och säkerhetsfrämjande 2026–2031. För en ökad flexibilitet medges FBA att överstiga alternativt understiga detta belopp med 10 procent. I det fall avsteg från ovan behöver göras ska avstämning ske med Regeringskansliet (Utrikesdepartementet).\n**Stipendium för FN:s säkerhetsrådsresolution 1325 om kvinnor, fred och säkerhet**\nMedlen får användas för att dela ut stipendium till unga personer som arbetar i civilsamhällesorganisationer i Afghanistan, Demokratiska republiken Kongo, Palestina och Ukraina vars arbete syftar till att stärka kvinnors och flickors rättigheter och möjligheter i konfliktsituationer. Bidrag får även lämnas till enskilda och samarbetspartner inom myndighetens verksamhetsområde. I genomförandet av uppdraget ska FBA ha dialog med berörda utlandsmyndigheter. Stipendiets omfattning är högst 1 100 000 kronor.\n**Valobservation**\nMedlen får användas för valobservationsinsatser genomförda av OSSE/ODIHR, EU, The Carter Center och Organization of American States med deltagande av svenska medborgare. Regeringen ger FBA i uppdrag att, i samråd med Regeringskansliet (Utrikesdepartementet), besluta vilka valobservationsinsatser som Sverige ska delta i under 2026 och i vilken omfattning.FBA får efter samråd med Regeringskansliet (Utrikesdepartementet) påbörja förberedelser för valobservationsinsatser som planeras att genomföras under 2027.\n**Icke strategistyrda sekonderingar**\nHögst 15 miljoner kronor får användas för att ställa personal till förfogande för strategiska tjänster inom EU, Nato och andra multilaterala organisationer. FBA ska inför beslut om att ställa personal till förfogande ha en dialog med Regeringskansliet (Utrikesdepartementet).\n**Internationella avtal**\nFBA får förhandla och ingå avtal utan finansiella åtaganden samt överenskomma om eventuella ändringar av eller säga upp befintliga avtal för verksamhet som bedrivs inom ramen för myndighetens uppdrag i Sveriges strategier för internationellt utvecklingssamarbete."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "4",
+     "max": 1100000,
+     "unit": "kronor"
+    }
+   ]
+  },
+  {
+   "code": "1:4",
+   "name": "Folke Bernadotteakademin",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 7,
+    "name": "Internationellt bistånd"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Folke Bernadotteakademin",
+     "amount_tkr": 217119,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Folke Bernadotteakademin (ram)",
+       "amount_tkr": 217119
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Folke Bernadotteakademin",
+     "text": "Medlen får endast användas i enlighet med OECD:s biståndskommitté DAC:s riktlinjer för vad som kan klassificeras som bistånd.\nMedlen får användas till genomförande av uppdrag i strategin för FBA:s verksamhet inom freds- och säkerhetsfrämjande 2026–2031, strategin för internationell civil krishantering och fredsfrämjande 2024–2028 och strategin för Sveriges uppbyggnads- och reformsamarbete med Ukraina 2023–2027."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "1:1 Biståndsverksamhet",
+   "ap": "ap.4",
+   "Anslagskredit": 2940,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:4 Folke Bernadotteakademin",
+   "ap": "ap.1",
+   "Anslagskredit": 6513,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 6000,
+  "Räntekontokredit": 10000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 18093
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 18093
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 18093
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 18093
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 18093
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 18093
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 18093
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 18093
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 18093
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 18093
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 18093
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 18096
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:1 Biståndsverksamhet",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.4",
+     "2 940",
+     "Inget",
+     "0"
+    ],
+    [
+     "1:4 Folke Bernadotteakademin",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "6 513",
+     "3 %",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "6 000"
+    ],
+    [
+     "Räntekontokredit",
+     "10 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "18 093"
+    ],
+    [
+     "2026-02-25",
+     "18 093"
+    ],
+    [
+     "2026-03-25",
+     "18 093"
+    ],
+    [
+     "2026-04-25",
+     "18 093"
+    ],
+    [
+     "2026-05-25",
+     "18 093"
+    ],
+    [
+     "2026-06-25",
+     "18 093"
+    ],
+    [
+     "2026-07-25",
+     "18 093"
+    ],
+    [
+     "2026-08-25",
+     "18 093"
+    ],
+    [
+     "2026-09-25",
+     "18 093"
+    ],
+    [
+     "2026-10-25",
+     "18 093"
+    ],
+    [
+     "2026-11-25",
+     "18 093"
+    ],
+    [
+     "2026-12-25",
+     "18 096"
+    ],
+    [
+     "Summa",
+     "217 119"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "1:4 ap.1",
+     "Folke Bernadotteakademin"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Avgiftsbelagd verksamhet där intäkterna disponeras",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Kurser och utbildningar1",
+     "0",
+     "0",
+     "1 000",
+     "1 000",
+     "0",
+     "0"
+    ]
+   ]
+  }
+ ],
+ "has_fee_section": true,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 3,
+  "n_org": 0,
+  "n_assignments": 9,
+  "n_deadlines": 3,
+  "deadlines": [
+   "2026-03-31",
+   "2026-09-30",
+   "2026-10-31"
+  ],
+  "partners": [
+   "Kammarkollegiet",
+   "Styrelsen för internationellt utvecklingssamarbete"
+  ],
+  "n_appropriations": 2,
+  "appropriations_total_tkr": 315119,
+  "payment_plan_total_tkr": 217119,
+  "md_chars": 12877
+ },
+ "layout": "standard",
+ "warnings": []
+}

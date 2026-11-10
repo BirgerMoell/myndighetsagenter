@@ -1,0 +1,955 @@
+{
+ "schema_version": 1,
+ "id": 27525,
+ "original_rbid": 25721,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-09-03",
+ "year": "2026",
+ "name": "Transportstyrelsen",
+ "slug": "transportstyrelsen",
+ "department": "Landsbygds- och infrastrukturdepartementet",
+ "expenditure_areas": [
+  22
+ ],
+ "registry_numbers": [
+  "LI2026/01448",
+  "LI2026/01538",
+  "LI2026/01596"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1",
+   "2025/26:275"
+  ],
+  "bet": [
+   "2025/26:FiU47",
+   "2025/26:TU1"
+  ],
+  "rskr": [
+   "2025/26:127",
+   "2025/26:428"
+  ]
+ },
+ "n_attachments_stated": 2,
+ "mission": "",
+ "goals": [
+  {
+   "title": "Resultatredovisning",
+   "group": [],
+   "text": "Transportstyrelsens årsredovisning ska innefatta en redovisning av verksamhetskategorierna regelgivning, tillståndsprövning, tillsyn och registerhållning. För respektive verksamhetskategori ska det totala antalet årsarbetskrafter samt de totala kostnaderna och verksamhetens finansiering framgå. Redovisningen av verksamhetskategorierna ska vara möjlig att aggregera till en helhetsbild av myndighetens verksamhet. Av årsredovisningen ska det framgå hur myndighetens prestationer har bidragit till att uppfylla de transportpolitiska målen.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "årsredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "tillsyn_kontroll",
+    "statistik_data"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27525:goals:0"
+  },
+  {
+   "title": "Säkerställa effektivt genomförande av EU:s restriktiva åtgärder",
+   "group": [],
+   "text": "Transportstyrelsen ska redovisa hur myndigheten inom ramen för sitt uppdrag säkerställer ett effektivt genomförande av EU:s restriktiva åtgärder, inklusive anmälningsplikten enligt 12 § i lagen (2025:327) om internationella sanktioner.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2025:327"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27525:goals:1"
+  },
+  {
+   "title": "Färdval och resepolicy vid tjänsteresor",
+   "group": [],
+   "text": "Alla trafikslag ska kunna nyttjas (väg, järnväg, luft- och sjöfart) för att säkerställa effektiva och ändamålsenliga transporter. Transportstyrelsen ska därför redovisa hur myndigheten har säkerställt att val av färdsätt vid tjänsteresor sker färdmedelsneutralt och utifrån behov. Vidare ska Transportstyrelsen redovisa huruvida myndigheten köpt in hållbart flygbränsle till organisationens flygresor. När kostnader jämförs för olika färdval ska hela resans kostnad beaktas, exempelvis kostnader för nödvändig övernattning samt total arbetstid för hela resan.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27525:goals:2"
+  },
+  {
+   "title": "Avgiftsbelagd verksamhet",
+   "group": [],
+   "text": "Transportstyrelsen ska när det gäller den offentligrättsliga verksamheten där intäkterna inte disponeras och för vilken krav på full kostnadstäckning råder redovisa vidtagna och planerade åtgärder för att säkerställa att balans uppnås.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27525:goals:3"
+  },
+  {
+   "title": "Fler direktlinjer till Stockholm-Arlanda flygplats",
+   "group": [],
+   "text": "Transportstyrelsen ska redovisa vilka åtgärder som har vidtagits och vilka resultat som har uppnåtts för att förbättra förutsättningarna för internationella direktlinjer till Stockholm-Arlanda flygplats.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27525:goals:4"
+  },
+  {
+   "title": "Marknadskontroll för ökad regelefterlevnad",
+   "group": [],
+   "text": "Transportstyrelsen ska inom ramen för tillämpningen av Europaparlamentets och rådets förordning (EU) 2019/1020 av den\\\n20 juni 2019 om marknadskontroll och överensstämmelse för produkter och om ändring av direktiv 2004/42/EG och förordningarna (EG) nr 765/2008 och (EU) nr 305/2011 och Europaparlamentets och rådets förordning (EU) 2022/2065 av den 19 oktober 2022 om en inre marknad för digitala tjänster och om ändring av direktiv 2000/31/EG (förordningen om digitala tjänster) redovisa hur myndigheten har bidragit till aktiviteter på europeisk nivå som har särskilt fokus på e-handel med produkter som inte lever upp till EU-lagstiftning. Transportstyrelsen ska vidare redovisa hur myndigheten har samarbetat med övriga relevanta marknadskontrollmyndigheter och Tullverket samt vad samarbetet resulterat i.",
+   "dates": [
+    "2019-06-20",
+    "2022-10-19"
+   ],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Tullverket"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "tillsyn_kontroll",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27525:goals:5"
+  },
+  {
+   "title": "Användning av drönare",
+   "group": [],
+   "text": "Transportstyrelsen ska redovisa hur myndigheten har bidragit till en säker användning av obemannade luftfartyg (drönare) samt hur myndigheten har samarbetat med berörda myndigheter och andra berörda aktörer i syfte att förhindra obehörig användning av drönare.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27525:goals:6"
+  }
+ ],
+ "org": [
+  {
+   "title": "Säkerställa proaktivitet och handlingskraft vid kris eller krig",
+   "group": [],
+   "text": "Transportstyrelsen ska säkerställa att myndigheten har förmåga att agera proaktivt och handlingskraftigt i hanteringen av såväl fredstida krissituationer som vid krig och krigsfara. Utöver de krav som ställs i förordningen (2022:524) om statliga myndigheters beredskap ska myndigheten i detta syfte utbilda och öva sin personal samt se till att myndigheten stärker en kultur och arbetssätt som utgår från de krav som ett krig ställer. Transportstyrelsen ska redovisa vidtagna åtgärder och resultatet av dessa till Regeringskansliet (Landsbygds- och infrastrukturdepartementet och Försvarsdepartementet) senast den\\\n22 februari 2027. Detta ska ingå i en separat redovisning för civilt försvar.",
+   "dates": [
+    "2027-02-22"
+   ],
+   "deadlines": [],
+   "recipients": [
+    "Regeringskansliet (Landsbygds- och infrastrukturdepartementet och Försvarsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2022:524"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "org",
+   "item_id": "27525:org:0"
+  }
+ ],
+ "assignments": [
+  {
+   "title": "Pågående uppdrag",
+   "group": [],
+   "text": "I*bilaga 2*redovisas Transportstyrelsens pågående uppdrag. För regeringsuppdrag som lämnats i ett särskilt regeringsbeslut utgör uppräkningen i bilagan endast en upplysning om vilka uppdrag som vid årets början var riktade till myndigheten och vilka tider som då gällde för återrapportering eller liknande.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "27525:assignments:0"
+  },
+  {
+   "title": "Prognoser",
+   "group": [],
+   "text": "Transportstyrelsen ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Prognoserna lämnas i informationssystemet Hermes senast den\n\n– 2 februari,\n\n– 22 april,\n\n– 24 juli, och\n\n– 9 november.\n\nTrafikverket redovisar vid samma tidpunkter som anges ovan intäktsprognoser för åren 2026–2029 för trängselskattesystemen i Stockholm och Göteborg. Trafikverket redovisar då dessutom för aktuella år t.o.m. 2029 även intäktsprognoser relaterade till budgeterade intäkter för uttag av avgifter på bro över Motalaviken på riksväg 50, bro över Sundsvallsfjärden på väg E4 och bro över Skurusundet på väg 222. Transportstyrelsen ska bistå Trafikverket med nödvändiga underlag.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [
+    "Trafikverket"
+   ],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos",
+    "samordna"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27525:assignments:1"
+  },
+  {
+   "title": "Förenkla för företag genom verksamt.se",
+   "group": [],
+   "text": "Transportstyrelsen ska förvalta myndighetens innehåll på den myndighetsgemensamma webbplatsen verksamt.se",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27525:assignments:2"
+  },
+  {
+   "title": "Uppdrag om regelutveckling för cykeltrafik",
+   "group": [],
+   "text": "Transportstyrelsen ska utreda hur en minimiavståndsregel, tydligare riktlinje eller utmärkning för motorfordon vid omkörning av cyklister kan införas utan att försämra trafiksäkerheten i andra delar av trafiken eller påtagligt minska framkomligheten för motorfordon, samtidigt som den samspelar med övriga regler för cykling. Inom ramen för uppdraget ska Transportstyrelsen genomföra en analys av trafiksäkerhetseffekter, internationella erfarenheter och skillnader mellan tätort och landsväg. Uppdraget ska redovisas till Regeringskansliet (Landsbygds- och infrastrukturdepartementet) senast den 30 augusti 2026.",
+   "dates": [
+    "2026-08-30"
+   ],
+   "deadlines": [
+    "2026-08-30"
+   ],
+   "recipients": [
+    "Regeringskansliet (Landsbygds- och infrastrukturdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27525:assignments:3"
+  },
+  {
+   "title": "Åtgärder för stärkt civilt försvar.",
+   "group": [],
+   "text": "Transportstyrelsen ska redovisa vidtagna åtgärder för att säkerställa förmåga att analysera, planera och samordna uppgifter som behöver utföras med anledning av EU- och Natomedlemskapen, DCA-avtalet och övrig verksamhet för att stärka totalförsvaret. Vidare ska myndigheten redovisa vidtagna åtgärder för att etablera funktioner som t.ex. ledningsplatser, samband och reservkraft. Uppdraget ska redovisas till Regeringskansliet (Landsbygds- och infrastrukturdepartementet och Försvarsdepartementet) senast den 22 februari 2027. Detta ska ingå i en separat redovisning för civilt försvar.",
+   "dates": [
+    "2027-02-22"
+   ],
+   "deadlines": [
+    "2027-02-22"
+   ],
+   "recipients": [
+    "Regeringskansliet (Landsbygds- och infrastrukturdepartementet och Försvarsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna",
+    "beredskap_säkerhet",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27525:assignments:4"
+  },
+  {
+   "title": "Fjärropererade obemannade marina system",
+   "group": [],
+   "text": "Transportstyrelsen ska, för att lösa de problem som framgår av Försvarsmaktens hemställan den 25 maj 2026 (LI2026/01538), analysera vilka åtgärder som behöver vidtas för att regleringar på sjöfartens område inte ska hindra utan i stället möjliggöra användningen av fjärropererade obemannade marina system. Analysen ska omfatta dels Försvarsmakten, dels civila aktörer och utländska allierade (försvarsmakter) som agerar på uppdrag av eller i samarbete med Försvarsmakten med såväl utländska som svenska fartyg samt örlogsfartyg i svenska vatten och såväl militära som civila svenska hamnar. Transportstyrelsen ska lämna förslag till de lag- och förordningsändringar som bedöms nödvändiga för att lösa de i hemställan utpekade problemen. Vidare ska Transportstyrelsen redogöra för de ändringar i myndighetens föreskrifter som krävs för att lösa problemen. Ändringarna kan vara tillfälliga eller på annat sätt begränsade, exempelvis geografiskt eller funktionellt. De lag- och förordningsförslag som Transportstyrelsen lämnar ska åtföljas av en konsekvensanalys enligt förordningen (2024:183) om konsekvensutredningar. Vid genomförandet av uppdraget ska Transportstyrelsen föra en nära dialog med Försvarsmakten och Kustbevakningen. Transportstyrelsen ska senast den 1 januari 2027 redovisa uppdraget till Regeringskansliet (Landsbygds- och infrastrukturdepartementet med kopia till Försvarsdepartementet).",
+   "dates": [
+    "2026-05-25",
+    "2027-01-01"
+   ],
+   "deadlines": [
+    "2027-01-01"
+   ],
+   "recipients": [
+    "Regeringskansliet (Landsbygds- och infrastrukturdepartementet med kopia till Försvarsdepartementet)"
+   ],
+   "partners": [
+    "Försvarsmakten",
+    "Kustbevakningen"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "föreslå",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2024:183"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27525:assignments:5"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "1:1",
+   "name": "Utveckling av statens transportinfrastruktur",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 22,
+    "name": "Kommunikationer"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Transportstyrelsen",
+     "amount_tkr": 52344,
+     "items": [
+      {
+       "ap": "4",
+       "name": "Civilt försvar - till Transportstyrelsen (ram)",
+       "amount_tkr": 52344
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "4",
+     "name": "Civilt försvar - till Transportstyrelsen",
+     "text": "Transportstyrelsen disponerar medel till utgifter för åtgärder för beredskap samt civilt försvar och därtill kopplade förvaltningskostnader."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "1:12",
+   "name": "Transportstyrelsen",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 22,
+    "name": "Kommunikationer"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Transportstyrelsen",
+     "amount_tkr": 3104834,
+     "items": [
+      {
+       "ap": "3",
+       "name": "Verksamhet som finansieras med avgifter. (ram)",
+       "amount_tkr": 1795979
+      },
+      {
+       "ap": "4",
+       "name": "Verksamhet som inte finansieras med avgifter. (ram)",
+       "amount_tkr": 1308855
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "3",
+     "name": "Verksamhet som finansieras med avgifter.",
+     "text": "Anslagsposten får användas för sådana förvaltningsutgifter hos Transportstyrelsen som täcks av avgifter som redovisas brutto på statens budget.\nAnslagsposten får användas för att betala svenskt medlemskap i internationella organisationer inom transportområdet i de fall där utgiften täcks av avgifter som redovisas brutto på statens budget."
+    },
+    {
+     "ap": "4",
+     "name": "Verksamhet som inte finansieras med avgifter.",
+     "text": "Anslagsposten får användas för sådana förvaltningsutgifter hos Transportstyrelsen som inte finansieras med avgifter, andra anslag/anslagsposter eller övriga intäkter.\nAnslagsposten får användas för att betala svenskt medlemskap i internationella organisationer inom transportområdet i de fall där utgiften inte finansieras med avgifter, andra anslag/anslagsposter eller övriga intäkter. Anslagsposten får även användas för system- och administrationsutgifter förknippade med Transportstyrelsens uppbörd av andra skatter än trängselskatt.\nAnslagsposten får användas för utbetalning av statsbidrag till vårdgivare för inrapportering av uppgifter till Transportstyrelsens olycksdatabas Strada.\nAnslagsposten får användas för bidrag för att främja fler direktlinjer till Stockholm-Arlanda. Högst 6 000 000 kronor får användas för detta ändamål. Medlen får inte användas för sådana åtgärder som utgör statligt stöd enligt artikel 107.1 fördraget om Europeiska unionens funktionssätt.\nAnslagsposten får användas för utgifter för att täcka flygplatshavarnas kostnader för säkerhetskontroll av passagerare och deras bagage som hanteras i det gemensamma avgiftsutjämningssystemet. Högst\\\n400 000 000 kronor får användas för detta ändamål.\nFrån anslagsposten får Transportstyrelsen disponera medel för att kunna använda och samverka med det gemensamma radiokommunikationssystemet Rakel. Transportstyrelsen ska betala 636 500 kronor till den blivande Myndigheten för civilt försvar som abonnemangsavgift för detta system. Beloppet ska betalas efter fakturering från den blivande Myndigheten för civilt försvar.\nFrån anslagsposten får Kommerskollegium rekvirera högst\\\n250 000 kronor för uppgiften att vara förlikningsorgan enligt lagen (2013:1164) om elektroniska vägtullsystem."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "4",
+     "max": 6000000,
+     "unit": "kronor"
+    }
+   ]
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "1:1 Utveckling av statens transportinfrastruktur",
+   "ap": "ap.4",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:12 Transportstyrelsen",
+   "ap": "ap.3",
+   "Anslagskredit": 53879,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:12 Transportstyrelsen",
+   "ap": "ap.4",
+   "Anslagskredit": 27265,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 989000,
+  "Räntekontokredit": 110000,
+  "- Transportstyrelsens behov av rörelsekapital för transfereringar": 2300000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 229765
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 229765
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 229765
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 229765
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 229765
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 286908
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 286908
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 286908
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 286908
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 286908
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 286908
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 286905
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:1 Utveckling av statens transportinfrastruktur",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.4",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "1:12 Transportstyrelsen",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.3",
+     "53 879",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.4",
+     "27 265",
+     "3 %",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "989 000"
+    ],
+    [
+     "Räntekontokredit",
+     "110 000"
+    ],
+    [
+     "Övriga kontokrediter"
+    ],
+    [
+     "- Transportstyrelsens behov av rörelsekapital för transfereringar",
+     "2 300 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "229 765"
+    ],
+    [
+     "2026-02-25",
+     "229 765"
+    ],
+    [
+     "2026-03-25",
+     "229 765"
+    ],
+    [
+     "2026-04-25",
+     "229 765"
+    ],
+    [
+     "2026-05-25",
+     "229 765"
+    ],
+    [
+     "2026-06-25",
+     "286 908"
+    ],
+    [
+     "2026-07-25",
+     "286 908"
+    ],
+    [
+     "2026-08-25",
+     "286 908"
+    ],
+    [
+     "2026-09-25",
+     "286 908"
+    ],
+    [
+     "2026-10-25",
+     "286 908"
+    ],
+    [
+     "2026-11-25",
+     "286 908"
+    ],
+    [
+     "2026-12-25",
+     "286 905"
+    ],
+    [
+     "Summa",
+     "3 157 178"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "1:1 ap.4",
+     "Civilt försvar - till Transportstyrelsen"
+    ],
+    [
+     "1:12 ap.3",
+     "Verksamhet som finansieras med avgifter."
+    ],
+    [
+     "1:12 ap.4",
+     "Verksamhet som inte finansieras med avgifter."
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Offentligrättslig verksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Adm. felparkeringsavgifter1",
+     "0",
+     "0",
+     "32 000",
+     "32 000",
+     "0",
+     "0"
+    ],
+    [
+     "Adm. infrastrukturavgifter Sundsvall1",
+     "0",
+     "0",
+     "7 000",
+     "7 000",
+     "0",
+     "0"
+    ],
+    [
+     "Adm. infrastrukturavgifter Motala1",
+     "0",
+     "0",
+     "5 000",
+     "5 000",
+     "0",
+     "0"
+    ],
+    [
+     "Adm. Infrastrukturavgifter Skurubron1",
+     "0",
+     "0",
+     "14 000",
+     "14 000",
+     "0",
+     "0"
+    ],
+    [
+     "Typgodkännande vägtrafikområdet1",
+     "0",
+     "0",
+     "63 000",
+     "63 000",
+     "0",
+     "0"
+    ],
+    [
+     "Summa",
+     "0",
+     "0",
+     "121 000",
+     "121 000",
+     "0",
+     "0"
+    ],
+    [
+     "Uppdragsverksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Informationsuttag1",
+     "-34 844",
+     "26 000",
+     "125 000",
+     "103 000",
+     "22 000",
+     "13 156"
+    ],
+    [
+     "Övriga uppdrag1",
+     "11 624",
+     "-4 000",
+     "7 000",
+     "9 000",
+     "-2 000",
+     "5 624"
+    ],
+    [
+     "ADR-intyg3",
+     "0"
+    ],
+    [
+     "Summa",
+     "-23 220",
+     "22 000",
+     "132 000",
+     "112 000",
+     "20 000",
+     "18 780"
+    ]
+   ]
+  },
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna ej disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "Ink. tit.",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Offentligrättslig verksamhet med krav på full kostnadstäckning",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Vägtrafik1",
+     "2534",
+     "-169 712",
+     "129 000",
+     "1 490 000",
+     "1 378 000",
+     "112 000",
+     "71 288"
+    ],
+    [
+     "Järnväg1",
+     "2534",
+     "-8 548",
+     "700",
+     "77 000",
+     "76 000",
+     "1 000",
+     "-6 848"
+    ],
+    [
+     "Sjöfart1",
+     "2534",
+     "-1 639",
+     "3 600",
+     "46 000",
+     "43 000",
+     "3 000",
+     "4 961"
+    ],
+    [
+     "Luftfart1",
+     "2534",
+     "-58 662",
+     "25 000",
+     "188 000",
+     "159 000",
+     "29 000",
+     "-4 662"
+    ],
+    [
+     "Summa",
+     "-238 561",
+     "158 300",
+     "1 801 000",
+     "1 656 000",
+     "145 000",
+     "64 739"
+    ],
+    [
+     "Offentligrättslig verksamhet utan krav på full kostnadstäckning",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Vägtrafik3",
+     "2534",
+     "0"
+    ],
+    [
+     "Järnväg3",
+     "2534",
+     "0"
+    ],
+    [
+     "Sjöfart3",
+     "2534",
+     "53 000"
+    ],
+    [
+     "Luftfart3",
+     "2534",
+     "16 000"
+    ],
+    [
+     "Summa",
+     "0",
+     "0",
+     "69 000",
+     "0",
+     "0",
+     "0"
+    ]
+   ]
+  }
+ ],
+ "has_fee_section": true,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 7,
+  "n_org": 1,
+  "n_assignments": 6,
+  "n_deadlines": 3,
+  "deadlines": [
+   "2026-08-30",
+   "2027-01-01",
+   "2027-02-22"
+  ],
+  "partners": [
+   "Försvarsmakten",
+   "Kustbevakningen",
+   "Trafikverket",
+   "Tullverket"
+  ],
+  "n_appropriations": 2,
+  "appropriations_total_tkr": 3157178,
+  "payment_plan_total_tkr": 3157178,
+  "md_chars": 18520
+ },
+ "layout": "standard",
+ "warnings": []
+}

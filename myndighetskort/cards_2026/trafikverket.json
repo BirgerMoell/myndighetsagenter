@@ -1,0 +1,2481 @@
+{
+ "schema_version": 1,
+ "id": 27527,
+ "original_rbid": 25797,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-08-27",
+ "year": "2026",
+ "name": "Trafikverket",
+ "slug": "trafikverket",
+ "department": "Landsbygds- och infrastrukturdepartementet",
+ "expenditure_areas": [
+  22
+ ],
+ "registry_numbers": [
+  "LI2025/01798",
+  "LI2026/00423 (delvis)",
+  "LI2026/01338"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1",
+   "2025/26:275",
+   "2025/26:99"
+  ],
+  "bet": [
+   "2025/26:FiU21",
+   "2025/26:FiU47",
+   "2025/26:TU1"
+  ],
+  "rskr": [
+   "2025/26:127",
+   "2025/26:353",
+   "2025/26:428"
+  ]
+ },
+ "n_attachments_stated": 4,
+ "mission": "",
+ "goals": [
+  {
+   "title": "Betalningsutfästelse för SVEDAB AB (Svedab)",
+   "group": [],
+   "text": "Trafikverket ska i förekommande fall redovisa ackumulerad betalningsutfästelse för Svensk-Danska Broförbindelsen SVEDAB AB (Svedab).",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27527:goals:0"
+  },
+  {
+   "title": "Uppföljning av investeringsplan m.m.",
+   "group": [],
+   "text": "Uppföljningen av den investeringsplan som finns i*bilaga 2*och den investeringsbudget som finns i*bilaga 3*till detta beslut ska göras både i myndighetens årsredovisning och i budgetunderlaget. I årsredovisningen ska en uppföljning göras av budgeten för 2026 och i budgetunderlaget ska en uppföljning göras av beräkningarna för perioden 2027−2028.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "årsredovisning",
+    "budgetunderlag"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27527:goals:1"
+  },
+  {
+   "title": "Redovisning av tillfälliga arrangemang på statlig väg",
+   "group": [],
+   "text": "Om Trafikverket är väghållare får myndigheten enligt vägmärkesförordningen (2007:90) helt eller delvis avstå från att begära ersättning från ideella föreningar och andra ideella organisationer som svarat för ett arrangemang som avses i 8 kap. 5 § 2 samma förordning för kostnader för anordningar som tillfälligt behövs vid arrangemanget. Trafikverket ska redovisa antalet tillfälliga arrangemang som har medfört omskyltning eller anordningar under 2026. Av redovisningen ska även framgå Trafikverkets totala kostnader för dessa arrangemang samt hur kostnaderna fördelats mellan Trafikverket och arrangörerna.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "fördela_medel"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2007:90"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27527:goals:2"
+  },
+  {
+   "title": "Personalberättelse",
+   "group": [],
+   "text": "Trafikverket ska i en personalberättelse redogöra för utvecklingen av antalet anställda och upparbetade årsarbetskrafter samt konsultresurser under 2026. Personalberättelsen ska utgå från myndighetens organisation med huvudsakliga centrala funktioner, verksamhetsområden, samt resultatenheter. Varje område i berättelsen ska kopplas till myndighetens instruktionsenliga uppdrag, genomförandet av den nationella trafikslagsövergripande planen för transportinfrastrukturen för perioden 2022–2033 samt regeringens förvaltningspolitiska inriktning. Eventuellt genomförd konsultväxling och dess påverkan på verksamhetens kostnadseffektivitet ska belysas. Av redovisningen ska framgå hur förändringar i personalstocken bidragit till myndighetens samlade effektiviseringsarbete. Personalberättelsen ska även innehålla en kommenterad prognos av bedömd utveckling avseende antal anställda och upparbetade årsarbetskrafter samt konsultresurser för varje område under 2027 och 2028. Prognosen ska utgå från budgeterade medel samt planeringsförutsättningar i form av den trafikslagsövergripande nationella plan för transportinfrastrukturen som gäller den 31 augusti 2026.",
+   "dates": [
+    "2026-08-31"
+   ],
+   "deadlines": [],
+   "forecast_dates": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "prognos",
+    "analysera",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27527:goals:3"
+  },
+  {
+   "title": "Färdval och resepolicy vid tjänsteresor",
+   "group": [],
+   "text": "Alla trafikslag ska kunna nyttjas (väg, järnväg, luft- och sjöfart) för att säkerställa effektiva och ändamålsenliga transporter. Trafikverket ska därför redovisa hur myndigheten har säkerställt att val av färdsätt vid tjänsteresor sker färdmedelsneutralt och utifrån behov. Vidare ska Trafikverket redovisa huruvida myndigheten köpt in hållbart flygbränsle till organisationens flygresor. När kostnader jämförs för olika färdval ska hela resans kostnad beaktas, exempelvis kostnader för nödvändig övernattning samt total arbetstid för hela resan.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27527:goals:4"
+  },
+  {
+   "title": "Initiativ för ökad samverkan avseende forskning och innovation som rör elflyg",
+   "group": [],
+   "text": "Trafikverket ska fortsatt redovisa hur myndigheten har arbetat för att öka samverkan samt utbytet av information mellan Trafikverket och berörda aktörer avseende forskning och innovation som rör elflyg.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27527:goals:5"
+  },
+  {
+   "title": "Informations- och kommunikationsverksamhet",
+   "group": [],
+   "text": "Myndigheten ska redovisa omfattning, inriktning och kostnader för sin informations- och kommunikationsverksamhet samt hur verksamheten har bidragit till myndighetens förmåga att uppfylla sina kärnuppgifter. Av redovisningen ska framgå bl.a. i vilken utsträckning profilprodukter, annonskampanjer eller utgivning av tidningar har nyttjats i verksamheten och vad som motiverat dessa kanalval.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27527:goals:6"
+  },
+  {
+   "title": "Arbete för att minska spridning av högflourerade ämnen, PFAS",
+   "group": [],
+   "text": "Trafikverket ska redovisa sitt arbete för att minska spridningen av högflourerade ämnen, PFAS. Av redovisningen ska framgå hur myndigheten har arbetat för att identifiera PFAS-förorenade områden där spridningsbegränsande åtgärder bör prioriteras. Det ska vidare framgå vilka sådana prioriterade åtgärder som har genomförts under 2026.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27527:goals:7"
+  }
+ ],
+ "org": [
+  {
+   "title": "Proaktivitet och handlingskraft vid kris eller krig",
+   "group": [],
+   "text": "Trafikverket ska säkerställa att myndigheten har förmåga att agera proaktivt och handlingskraftigt i hanteringen av såväl fredstida krissituationer som vid krig och krigsfara. Utöver de krav som ställs i förordningen (2022:524) om statliga myndigheters beredskap ska Trafikverket i detta syfte utbilda och öva sin personal samt se till att myndigheten stärker en kultur och arbetssätt som utgår från de krav som ett krig ställer. Trafikverket ska redovisa vidtagna åtgärder och resultatet av dessa till Regeringskansliet (Landsbygds- och infrastrukturdepartementet med kopia till Försvarsdepartementet) senast den 22 februari 2027. Detta ska ingå i en separat redovisning för civilt försvar.",
+   "dates": [
+    "2027-02-22"
+   ],
+   "deadlines": [
+    "2027-02-22"
+   ],
+   "recipients": [
+    "Regeringskansliet (Landsbygds- och infrastrukturdepartementet med kopia till Försvarsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2022:524"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "org",
+   "item_id": "27527:org:0"
+  }
+ ],
+ "assignments": [
+  {
+   "title": "Pågående uppdrag",
+   "group": [],
+   "text": "I*bilaga 4*redovisas Trafikverkets pågående uppdrag. För regeringsuppdrag som lämnats i ett särskilt regeringsbeslut utgör uppräkningen i bilagan endast en upplysning om vilka uppdrag som vid årets början var riktade till myndigheten och vilka tider som då gällde för återrapportering eller liknande.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "27527:assignments:0"
+  },
+  {
+   "title": "Stadsmiljöavtal",
+   "group": [],
+   "text": "Trafikverket ska fortsatt sammanställa uppgifter om genomförande av redan ingångna stadsmiljöavtal i syfte att skapa underlag för en samlad slutredovisning som ska redovisas då det sista avtalade projektet är slutrapporterat.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27527:assignments:1"
+  },
+  {
+   "title": "Åtgärder för att utveckla och stärka det civila försvaret",
+   "group": [],
+   "text": "Trafikverket ska stärka skyddet mot yttre påverkan på den statliga infrastrukturen och stärka förmågan att vidmakthålla och reparera transportinfrastruktur vid höjd beredskap och krig. Åtgärderna ska syfta till att utveckla och stärka det civila försvaret och därmed bidra till en högre samlad förmåga inom totalförsvaret. Uppdraget ska under januari, mars, juni och oktober 2026 muntligen delredovisas vid informationsmöten med Regeringskansliet (Landsbygds- och infrastrukturdepartementet). Uppdraget ska slutredovisas senast den 22 februari 2027 till Regeringskansliet (Landsbygds- och infrastrukturdepartementet). Detta ska ingå i en separat redovisning för civilt försvar.",
+   "dates": [
+    "2027-02-22"
+   ],
+   "deadlines": [
+    "2027-02-22"
+   ],
+   "recipients": [
+    "Regeringskansliet (Landsbygds- och infrastrukturdepartementet)"
+   ],
+   "partners": [],
+   "channels": [
+    "muntlig",
+    "delredovisning",
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "utveckla",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27527:assignments:2"
+  },
+  {
+   "title": "Avtal för stärkt försörjningsberedskap",
+   "group": [],
+   "text": "Trafikverket ska fortsätta arbetet med att identifiera behov av och, i de fall myndigheten bedömer det lämpligt, teckna avtal som syftar till att upprätthålla försörjningen av varor och tjänster som är nödvändiga för myndighetens prioriterade uppgifter vid fredstida kriser och höjd beredskap. I de fall Trafikverket nyttjar särskilda avtalsformer i form av sådana försörjningsberedskapsavtal (F-avtal) som beskrivs i betänkandet Nya samverkansformer, modern byggnads- och reparationsberedskap – för ökad försörjningsberedskap (SOU 2025:68) ska dessa avtal löpande rapporteras till den blivande Myndigheten för civilt försvar. Uppdraget ska redovisas senast den 22 februari 2027 till Regeringskansliet (Landsbygds- och infrastrukturdepartementet med kopia till Försvarsdepartementet). Detta ska ingå i en separat redovisning för civilt försvar. Som stöd för arbetet kan myndigheten använda bland annat rapporten Utgångspunkter för totalförsvaret 2025–2030 (FM2025-19772:2, MSB 2025-08877).",
+   "dates": [
+    "2027-02-22"
+   ],
+   "deadlines": [
+    "2027-02-22"
+   ],
+   "recipients": [
+    "Regeringskansliet (Landsbygds- och infrastrukturdepartementet med kopia till Försvarsdepartementet)"
+   ],
+   "partners": [
+    "Myndigheten för civilt försvar",
+    "Myndigheten för samhällsskydd och beredskap"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27527:assignments:3"
+  },
+  {
+   "title": "Stärkt motståndskraft mot hybridhot",
+   "group": [],
+   "text": "I syfte att stärka Sveriges samlade motståndskraft mot hybridhot ska Trafikverket under 2026 genom den existerande strukturen för privat-offentlig samverkan inom beredskapssektorn Transporter inventera och göra en sammanställning av de hybridhot som såväl privata som statliga deltagare i samverkansstrukturen identifierar inom strukturens trafikslagsgrupper land, luft och sjö. Trafikverket ska genom samma samverkansstruktur verka för att öppen information om sektorsspecifika hybridhot som identifierats och som kan träffa samhällsviktiga aktörer inom sektorn sprids till dessa aktörer. Förutom information om sektorsspecifika hybridhot ska aktörerna också uppmanas att aktivt söka identifiera avvikelser från normalbilden inom de egna verksamheterna, och också ges information om vilka lämpliga rapportvägar som bör användas för att anmäla avvikelser från normalbilden, till exempel till Säkerhetspolisen, den blivande Myndigheten för civilt försvar och andra berörda myndigheter. Trafikverket ska redovisa genomförda aktiviteter och resultatet av inventeringsarbetet senast den 1 mars 2027 till Regeringskansliet (Landsbygds- och infrastrukturdepartementet med kopia till Försvarsdepartementet).",
+   "dates": [
+    "2027-03-01"
+   ],
+   "deadlines": [
+    "2027-03-01"
+   ],
+   "recipients": [
+    "Regeringskansliet (Landsbygds- och infrastrukturdepartementet med kopia till Försvarsdepartementet)",
+    "Säkerhetspolisen"
+   ],
+   "partners": [
+    "Myndigheten för civilt försvar",
+    "Säkerhetspolisen"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27527:assignments:4"
+  },
+  {
+   "title": "Samverkan kring förutsättningar för aktiva transporter",
+   "group": [],
+   "text": "Trafikverket ska samverka med relevanta aktörer kring förutsättningarna för aktiva transporter. Trafikverkets roll i samverkansarbetet är att genom vägledningar och exempel stödja motsvarande arbete i regioner och kommuner.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "samordna",
+    "informera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27527:assignments:5"
+  },
+  {
+   "title": "Förvaltning av innehåll på webbplatsen verksamt.se",
+   "group": [],
+   "text": "Trafikverket ska under 2026 förvalta myndighetens innehåll på verksamt.se.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27527:assignments:6"
+  },
+  {
+   "title": "Redovisning av erhållna och förväntade bidrag från Fonden för ett sammanlänkat Europa",
+   "group": [],
+   "text": "Trafikverket ska årligen senast den 28 februari redovisa hur mycket medel som har utbetalats från Fonden för ett sammanlänkat Europa totalt under året samt totalt under den pågående fleråriga budgetperioden i EU för åren 2022–2028, samt fördelat på vad som tilldelats projekt inom nationell plan respektive till projekt utanför nationell plan. Av redovisningen ska även framgå hur medlen som tilldelats för projekt inom nationell plan fördelar sig på olika anslag och anslagsposter.\n\nTrafikverket ska i kommande budgetunderlag redovisa behov av justeringar av anslag med finansiering per anslag och anslagspost för projekt inom Nationell plan som har beviljats medel. Vidare ska av budgetunderlaget även framgå en motsvarande bedömning av omfattningen av projekt utanför nationell plan och dessas påverkan på anslaget 1:10*Från EU-budgeten finansierade stöd till Transeuropeiska nätver*k för innevarande år och kommande år utifrån aktuell prognos.\n\nAv Trafikverkets kommande prognoser ska för samtliga år i prognosomgången framgå en bedömning av belastningen på anslaget 1:10*Från EU-budgeten finansierade stöd till Transeuropeiska nätverk*avseende totala anslagsnivåer innevarande och kommande år samt en beskrivning av osäkerheter i bedömningen. I prognoserna ska det även framgå hur medlen som tilldelats från kommissionen fördelas sig till projekt inom nationell plan respektive till projekt utanför nationell plan, och hur mycket som vid prognostillfället bedöms återstå i utbetalningar från kommissionen under den innevarande fleråriga budgetperioden i EU (2021–2027).",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-28"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "budgetunderlag"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos",
+    "analysera",
+    "fördela_medel",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [
+    "1:10"
+   ],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27527:assignments:7"
+  },
+  {
+   "title": "Redovisning av erhållen samt förväntad medfinansiering och förskottering",
+   "group": [],
+   "text": "Trafikverket ska i enlighet med tidigare använd redovisningsmodell, för 2025 redovisa erhållen medfinansiering från avtalsparterna och, för åren 2026–2028, förväntad medfinansiering från avtalsparterna av statlig infrastruktur uppdelat på enskilda kommuner, regioner och företag. Redovisningen ska lämnas senast den 25 februari 2026 till Regeringskansliet (Landsbygds- och infrastrukturdepartementet).",
+   "dates": [
+    "2026-02-25"
+   ],
+   "deadlines": [
+    "2026-02-25"
+   ],
+   "recipients": [
+    "Regeringskansliet (Landsbygds- och infrastrukturdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27527:assignments:8"
+  },
+  {
+   "title": "Utgiftsprognoser",
+   "group": [],
+   "text": "Trafikverket ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska redovisas och kommenteras per anslag, anslagspost och delpost både i förhållande till föregående prognostillfälle och i förhållande till budget. Av kommentarerna ska framgå\n\n− bakomliggande antaganden,\\\n− osäkerhetsfaktorer, samt\\\n− förklaring till och analys av förändringar i prognoser utifrån ekonomiska och verksamhetsmässiga orsaker.\n\nI samband med att utgiftsförändringar kommenteras bör det framgå om effekter uppkommit till följd av bl.a.\n\n− kostnadsfördyringar för t.ex. insatsvaror, eller\\\n− tidigare- respektive senareläggningar av projekt.\n\nVid varje prognostillfälle ska en prognos av brutto- och nettoupplåningen för respektive år inkluderas. Även för denna prognos ska förändringar kommenteras. Av redovisningen ska framgå vilka antaganden som ligger till grund för prognosen samt vilka osäkerhetsfaktorer som finns och hur de beaktats i prognosen.\n\nPrognoserna lämnas via statsredovisningssystemet i Hermes samt till Regeringskansliet (Landsbygds- och infrastrukturdepartementet) senast den 2 februari, den 22 april, den 24 juli, och den 9 november 2026.\n\nUnder 2026 ska Trafikverket i samband med prognostillfällena\\\nden 22 april, den 24 juli, och den 9 november 2026 för anslaget\\\n1:1*Utveckling av statens transportinfrastruktur*, anslagsposterna Väginvesteringar, Järnvägsinvesteringar, Sjöfartsinvesteringar, Investeringar i regional plan och Stadsmiljöavtal, särskilt bifoga ett uppdaterat underlag av vilket det ska framgå detaljerad information om vad som ryms inom den utgiftsprognos som tagits fram för respektive anslagspost samt vilka utgifter som infaller för respektive år under prognosperioden. Belopp som förväntas utfalla efter prognosperioden ska särskilt förklaras.\n\nI samband med prognostillfället den 22 april 2026 ska Trafikverket även presentera den modell som myndigheten avser att använda för att beskriva utvecklingen över tid.\n\nI nära anslutning till den prognos som redovisas den 24 juli 2026 ska Trafikverket, i särskild ordning och efter dialog med Regeringskansliet (Landsbygds- och infrastrukturdepartementet), lämna prognoser för den avgiftsbelagda verksamheten.",
+   "dates": [
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24"
+   ],
+   "recipients": [
+    "Regeringskansliet (Landsbygds- och infrastrukturdepartementet)"
+   ],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27527:assignments:9"
+  },
+  {
+   "title": "Intäktsprognoser",
+   "group": [],
+   "text": "Trafikverket ska vid samma tidpunkter som för utgiftsprognoserna ovan redovisa intäktsprognoser för åren 2026–2029 för trängselskattesystemen i Stockholm och Göteborg. Redovisningen ska för aktuella år fram till 2029 även omfatta intäktsprognoser relaterade till budgeterade intäkter för uttag av avgifter på bro över Motalaviken på väg 50, avgifter på bro över Sundsvallsfjärden på Europaväg 4 och avgifter på bro över Skurusundet på väg 222. Transportstyrelsen ska bistå Trafikverket med nödvändiga underlag. Redovisningen ska lämnas till Regeringskansliet (Landsbygds- och infrastrukturdepartementet).",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [],
+   "recipients": [
+    "Regeringskansliet (Landsbygds- och infrastrukturdepartementet)"
+   ],
+   "partners": [
+    "Transportstyrelsen"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "prognos",
+    "samordna"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27527:assignments:10"
+  },
+  {
+   "title": "Prognos för beställningsbemyndiganden",
+   "group": [],
+   "text": "Trafikverket ska redovisa en prognos för de förslag om beställningsbemyndiganden som lämnats i budgetunderlaget och för de åtaganden som ingåtts med stöd av äldre beställningsbemyndiganden. Prognosen ska lämnas senast den 24 juli 2026 via statsredovisningssystemet i Hermes och utformas enligt närmare information från Ekonomistyrningsverket.",
+   "dates": [
+    "2026-07-24"
+   ],
+   "deadlines": [
+    "2026-07-24"
+   ],
+   "forecast_dates": [],
+   "recipients": [],
+   "partners": [
+    "Ekonomistyrningsverket"
+   ],
+   "channels": [
+    "hermes",
+    "budgetunderlag"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27527:assignments:11"
+  },
+  {
+   "title": "Uppdaterad investeringsplan i löpande priser",
+   "group": [],
+   "text": "Trafikverket ska senast den 24 juli 2026 till Regeringskansliet (Landsbygds- och infrastrukturdepartementet) redovisa en uppdaterad investeringsplan i löpande priser.",
+   "dates": [
+    "2026-07-24"
+   ],
+   "deadlines": [
+    "2026-07-24"
+   ],
+   "recipients": [
+    "Regeringskansliet (Landsbygds- och infrastrukturdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27527:assignments:12"
+  },
+  {
+   "title": "Redovisning av åtgärder och effekter kopplade till initiativet Kraftsamling",
+   "group": [],
+   "text": "Trafikverket ska redovisa vidtagna åtgärder och realiserade effekter kopplade till det myndighetsövergripande initiativet Kraftsamling för ett närmare Sverige. Redovisningen ska särskilt omfatta åtgärder som har genomförts respektive planeras att genomföras för att förbättra Trafikverkets interna styrning, uppföljning och effektivitet. Redovisningen ska lämnas senast den 31 maj 2026 till Regeringskansliet (Landsbygds- och infrastrukturdepartementet).",
+   "dates": [
+    "2026-05-31"
+   ],
+   "deadlines": [
+    "2026-05-31"
+   ],
+   "recipients": [
+    "Regeringskansliet (Landsbygds- och infrastrukturdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27527:assignments:13"
+  },
+  {
+   "title": "Uppdrag att redovisa arbetet med kompetensförsörjning inom järnvägsområdet",
+   "group": [],
+   "text": "Trafikverket ska redovisa myndighetens arbete med att genomföra aktiviteter för en långsiktigt hållbar kompetensförsörjning inom järnvägsområdet. Av redovisningen ska framgå vilka resultat som genomförda aktiviteter har lett till. Trafikverket ska vidare redogöra för vilka kompetensbehov som finns inom järnvägsområdet och som fortsatta insatser för kompetensförsörjning avser att lösa. Behov som rör kompetenser som är kritiska för att upprätthålla den svenska järnvägens funktion vid kris, höjd beredskap och ytterst krig ska särskilt analyseras. Trafikverket ska senast den 28 februari 2027 redovisa uppdraget till Regeringskansliet (Landsbygds- och infrastrukturdepartementet).",
+   "dates": [
+    "2027-02-28"
+   ],
+   "deadlines": [
+    "2027-02-28"
+   ],
+   "recipients": [
+    "Regeringskansliet (Landsbygds- och infrastrukturdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27527:assignments:14"
+  },
+  {
+   "title": "Återföring av medel till Trafikverket",
+   "group": [],
+   "text": "Trafikverket ska lämna uppgift till Riksgäldskontoret om myndighetens ackumulerade anslagssparande per den 31 december 2024.",
+   "dates": [
+    "2024-12-31"
+   ],
+   "deadlines": [],
+   "recipients": [
+    "Riksgäldskontoret"
+   ],
+   "partners": [
+    "Riksgäldskontoret"
+   ],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27527:assignments:15"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "1:1",
+   "name": "Utveckling av statens transportinfrastruktur",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 22,
+    "name": "Kommunikationer"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Trafikverket",
+     "amount_tkr": 44761168,
+     "items": [
+      {
+       "ap": "6",
+       "name": "Investeringar i regional plan (ram)",
+       "amount_tkr": 4154811
+      },
+      {
+       "ap": "9",
+       "name": "Civilt försvar (ram)",
+       "amount_tkr": 664816
+      },
+      {
+       "ap": "1",
+       "name": "Väginvesteringar (ram)",
+       "amount_tkr": 6233059
+      },
+      {
+       "ap": "8",
+       "name": "Bärighetshöjande åtgärder väg (ram)",
+       "amount_tkr": 1904000
+      },
+      {
+       "ap": "13",
+       "name": "Järnvägsinvesteringar (ram)",
+       "amount_tkr": 22402717
+      },
+      {
+       "ap": "14",
+       "name": "Sjöfartsinvesteringar (ram)",
+       "amount_tkr": 887982
+      },
+      {
+       "ap": "15",
+       "name": "Trimning och effektivisering samt miljöinvesteringar (ram)",
+       "amount_tkr": 4840581
+      },
+      {
+       "ap": "19",
+       "name": "Övrigt (ram)",
+       "amount_tkr": 3673202
+      },
+      {
+       "ap": "19.1",
+       "name": "Forskning och innovation (ram)",
+       "amount_tkr": 606133
+      },
+      {
+       "ap": "19.2",
+       "name": "Räntor och återbetalning av lån och garantier (ram)",
+       "amount_tkr": 2300000
+      },
+      {
+       "ap": "19.3",
+       "name": "Medel i nationell plan (ram)",
+       "amount_tkr": 0
+      },
+      {
+       "ap": "19.4",
+       "name": "Stadsmiljöavtal (ram)",
+       "amount_tkr": 767069
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Väginvesteringar",
+     "text": "Medel får användas för investeringar och förbättringar i det nationella stamvägnätet och tillhörande gång- och cykelvägar där investeringen har en beräknad totalkostnad över 150 000 000 kronor. Medel får även användas till statlig medfinansiering enligt förordningen (2009:237) om statlig medfinansiering till vissa regionala kollektivtrafikanläggningar m.m., med de begränsningar som följer av förordningen (2009:236) om en nationell plan för transportinfrastruktur.\nMedel får användas för byggherrekostnader direkt relaterade till Trafikverkets samhällsinvesteringar."
+    },
+    {
+     "ap": "6",
+     "name": "Investeringar i regional plan",
+     "text": "Medel får användas för investeringar i regional transportinfrastruktur som planeras i enlighet med förordningen (1997:263) om länsplaner för regional transportinfrastruktur. Medel får användas för statsbidrag för byggande och drift av enskilda vägar.\nMedel får användas för byggherrekostnader direkt relaterade till Trafikverkets samhällsinvesteringar.\nFrån anslagsposten utbetalas även statlig medfinansiering till investeringar i enlighet med de prioriteringar som finns i de fastställda länsplanerna för regional transportinfrastruktur enligt förordningen (2009:237) om statlig medfinansiering till vissa regionala kollektivtrafikanläggningar m.m., miljö och trafiksäkerhetsåtgärder på kommunala vägar samt till utökad tillgänglighetsanpassning av kollektivtrafiken utöver fastställda länsplaner för regional transportinfrastruktur."
+    },
+    {
+     "ap": "8",
+     "name": "Bärighetshöjande åtgärder väg",
+     "text": "Medel får användas för åtgärder för ökad bärighet på broar och för näringslivet viktiga vägar, inklusive upprustning av transportstråk till högsta bärighetsklass BK4 samt anpassning till dagens last på för näringslivet viktiga vägar.\nMedel får användas för byggherrekostnader direkt relaterade till Trafikverkets samhällsinvesteringar."
+    },
+    {
+     "ap": "9",
+     "name": "Civilt försvar",
+     "text": "Medel får användas för utgifter för förvaltningskostnader och andra åtgärder för beredskap och civilt försvar inom transportområdet.\nHögst 55 000 000 kronor får användas för åtgärder i syfte att upprätthålla tågfärjetrafiken mellan Sverige och Tyskland för att tillgodose Försvarsmaktens behov av militär rörlighet och för mottagande och givande av värdlandsstöd inom ramen för Sveriges åtaganden som Natomedlem.\nHögst 20 000 000 kronor får användas för att inleda förberedande åtgärder för att möjliggöra en framtida utbyggnad av Kappelshamn som reservhamn till Visby hamn.\nHögst 100 000 000 kronor får användas för att vidta ytterligare åtgärder för att stärka järnvägsnätet i syfte att tillgodose totalförsvarets behov. Trafikverket får inom ramen för verksamheten vederlagsfritt överlåta lös egendom i form av bokföringsmässigt avskriven materiel som ej bedöms behövas inom statens verksamhet till annan infrastrukturförvaltare. För det militära försvaret är det särskilt angeläget att påbörja förberedande åtgärder för att stärka järnvägsstråk i såväl nord-sydlig riktning som öst-västlig riktning."
+    },
+    {
+     "ap": "13",
+     "name": "Järnvägsinvesteringar",
+     "text": "Medel får användas för investeringar och förbättringar i det statliga järnvägsnätet där investeringen har en beräknad totalkostnad över\\\n150 000 000 kronor.\nMedel får användas för byggherrekostnader direkt relaterade till Trafikverkets samhällsinvesteringar.\nMedel får även användas för statlig medfinansiering enligt förordningen (2009:237) om statlig medfinansiering till vissa regionala kollektivtrafikanläggningar m.m., med de begränsningar som följer av förordningen (2009:236) om en nationell plan för transportinfrastruktur samt till statlig medfinansiering till projektering av tunnelbaneutbyggnaden i Stockholm.\nMedel får användas för att betala statens kostnader för sådana förrättningar som begärts enligt 2 kap. 20 § lagen (1995:1649) om byggande av järnväg."
+    },
+    {
+     "ap": "14",
+     "name": "Sjöfartsinvesteringar",
+     "text": "Medel får användas för investeringar i stora och strategiska farleder och slussar där investeringen har en beräknad totalkostnad över\\\n150 000 000 kronor.\nMedel får användas för byggherrekostnader direkt relaterade till samhällsinvesteringar."
+    },
+    {
+     "ap": "15",
+     "name": "Trimning och effektivisering samt miljöinvesteringar",
+     "text": "Medel får användas för investeringar, förbättringar och miljösaneringsåtgärder i det nationella stamvägnätet och tillhörande gång- och cykelvägar, i det statliga järnvägsnätet och i stora och strategiska farleder och slussar där investeringen har en beräknad totalkostnad under 150 000 000 kronor.\nMedel får användas för byggherrekostnader direkt relaterade till Trafikverkets samhällsinvesteringar.\nMedel får användas för teknikutveckling som kommer användas i infrastrukturanläggningen.\nMedel får användas för utgifter för miljösaneringsåtgärder förknippade med statens miljöansvar enligt 7 § förordningen (2010:185) med instruktion för Trafikverket.\nMedel får användas för statlig medfinansiering till lokala och regionala investeringar i kollektivtrafik i tätort enligt förordningen (2009:237) om statlig medfinansiering till vissa regionala kollektivtrafikanläggningar m.m.\nMedel får användas för åtgärder i Nationalstadsparken. Årets utgifter tillsammans med tidigare upparbetade utgifter får sammanlagt uppgå till högst 75 000 000 kronor.\nMedel får användas för bidrag till hamnar eller andra aktörer för etablering av anläggningar för nykterhetskontroll enligt förordningen (2022:1810) om statsbidrag för etablering av anläggningar för nykterhetskontroller. Årets utgifter tillsammans med tidigare upparbetade utgifter får sammanlagt uppgå till högst 48 800 000 kronor.\nMedel får användas för att samfinansiera åtgärder i länsplanerna avseende trafiksäkerhetsåtgärder på det regionala vägnätet i enlighet med vad som anges i den nationella trafikslagsövergripande planen för transportinfrastrukturen för perioden 2022–2033 (I2022/01294 m.fl.)."
+    },
+    {
+     "ap": "19.1",
+     "name": "Forskning och innovation",
+     "text": "Medel får användas för utgifter för forskning och innovation som följer av 2 § 7 förordningen (2010:185) med instruktion för Trafikverket. Vidare får medel användas för statligt stöd enligt förordningen (2021:318) om statligt stöd till forskning och utveckling samt innovation inom transportområdet i det fall EU:s regler om statsstöd är tillämpliga.\\\nSammanlagt får högst 100 000 000 kronor användas till forskning och innovation inom sjöfartsområdet och högst 90 000 000 kronor till forskning och innovation inom luftfartsområdet, varav minst\\\n15 000 000 kronor för en ny forsknings- och innovationssatsning för elflygsområdet. Beslut om finansiering av forskning och innovation inom sjöfartsområdet ska ske i samverkan med Sjöfartsverket. Beslut om finansiering av forskning och innovation inom luftfartsområdet ska ske i samverkan med Luftfartsverket."
+    },
+    {
+     "ap": "19.2",
+     "name": "Räntor och återbetalning av lån och garantier",
+     "text": "Medel får användas för att betala räntor och amortering av lån enligt villkor 1–4 och 6–7 under rubriken Låneram i avsnitt 2.1 Låneramar och krediter.\nMedel får användas till utgifter för räntor och amorteringar av lån som upptagits för byggande av broar som ersätter färjor på statens vägnät.\nMedel får användas för den administrativa avgiften till Riksgäldskontoret för Trafikverkets kapitaltäckningsgaranti till Arlandabanan Infrastructure AB samt garantiavgiften för statens garantiåtaganden rörande bolaget. Betalning ska göras efter fakturering från Riksgäldskontoret.\nTrafikverket ska avräkna statens kostnader till Riksgäldskontoret vid ett eventuellt infriande av Trafikverkets kapitaltäckningsgaranti till Arlandabanan Infrastructure AB.\nMedel får användas för den administrativa avgiften till Riksgäldskontoret för villkorslån till A-Train AB samt för statens räntekostnader för villkorslånet. Betalning ska göras efter fakturering från Riksgäldskontoret.\nTrafikverket ska avräkna eventuellt infriande av betalningsutfästelse avseende villkorade aktieägartillskott som Trafikverket ställt ut till Svedab.\nMedel får användas för inbetalning av aktiekapital till det schweiziska bolaget EUROFIMA (European Company for the Financing of Railroad Rolling Stock)."
+    },
+    {
+     "ap": "19.3",
+     "name": "Medel i nationell plan",
+     "text": "Medel får användas först efter beslut av regeringen."
+    },
+    {
+     "ap": "19.4",
+     "name": "Stadsmiljöavtal",
+     "text": "Medel får användas för utbetalning av stöd enligt förordningen (2015:579) om stöd för att främja hållbara stadsmiljöer."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "9",
+     "max": 55000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "9",
+     "max": 20000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "9",
+     "max": 100000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "15",
+     "max": 75000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "15",
+     "max": 48800000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "19.1",
+     "max": 100000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "19.1",
+     "max": 90000000,
+     "unit": "kronor"
+    }
+   ]
+  },
+  {
+   "code": "1:2",
+   "name": "Vidmakthållande av statens transportinfrastruktur",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 22,
+    "name": "Kommunikationer"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Trafikverket",
+     "amount_tkr": 40327971,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Vidmakthållande väg (ram)",
+       "amount_tkr": 21221667
+      },
+      {
+       "ap": "1.1",
+       "name": "Drift och underhåll av vägar (ram)",
+       "amount_tkr": 19213503
+      },
+      {
+       "ap": "1.4",
+       "name": "Statsbidrag till enskild väghållning (ram)",
+       "amount_tkr": 2008164
+      },
+      {
+       "ap": "1.5",
+       "name": "Medel i nationell plan (ram)",
+       "amount_tkr": 0
+      },
+      {
+       "ap": "2",
+       "name": "Vidmakthållande järnväg (ram)",
+       "amount_tkr": 19106304
+      },
+      {
+       "ap": "2.2",
+       "name": "Drift och underhåll av järnväg (ram)",
+       "amount_tkr": 18333220
+      },
+      {
+       "ap": "2.3",
+       "name": "Bidrag till Inlandsbanan AB (ram)",
+       "amount_tkr": 279084
+      },
+      {
+       "ap": "2.4",
+       "name": "Ersättning till Öresundsbrokonsortiet (ram)",
+       "amount_tkr": 494000
+      },
+      {
+       "ap": "2.5",
+       "name": "Medel i nationell plan (ram)",
+       "amount_tkr": 0
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1.1",
+     "name": "Drift och underhåll av vägar",
+     "text": "Medel får användas för utgifter för drift och underhåll samt reinvesteringar på det statliga vägnätet och tillhörande gång- och cykelvägar inklusive it- och telekomanläggningar.\nMedel får användas för Trafikverkets byggherrekostnader som är direkt relaterade till vidmakthållandet av samhällsinvesteringen och andra utgifter av förvaltningskaraktär direkt kopplade till driften.\nMedel får användas för utgifter för ersättning enligt särskilda bestämmelser för vissa person- och sakskador som inträffar i samband med den statliga väghållningen samt statens kostnader för sådana förrättningar som påkallats med stöd av 20 a och 25 §§ väglagen (1971:948).\nMedel får användas för utgifter för att kunna använda och samverka med det gemensamma radiokommunikationssystemet Rakel. Trafikverket ska betala 19 290 400 kronor till Myndigheten för civilt försvar som abonnemangsavgift för detta system. Beloppet ska betalas efter fakturering från Myndigheten för civilt försvar.\nMedel får användas för utgifter för att betala Polismyndighetens kostnader för eftersök av vilt som varit inblandat i sammanstötning med motorfordon, liksom Polismyndighetens administrations- och fakturahanteringskostnader för detta. Polismyndigheten ska löpande rekvirera medel från Trafikverket för polisens kostnader för eftersök av vilt vid olyckor med motorfordon. Utbetalningar ska ske i enlighet med riksdagens beslut med anledning av regeringens förslag i propositionen Eftersök av trafikskadat vilt (prop. 2008/09:191, bet. 2008/09:MJU3, rskr. 2009/10:25).\nMedel får användas för utgifter för drift och underhåll av anläggningar för nykterhetskontroll i hamnar.\nHögst 8 000 000 kronor får användas för Trafikverkets utgifter för att avstå från att begära ersättning från ideella föreningar och andra ideella organisationer för kostnader för anordningar som tillfälligt behövs vid ett arrangemang på allmän väg.\nMedel får användas för broinspektioner på enskilda vägar.\nTrafikverket får lämna bidrag till Mörbylånga kommun eller Kalmar kommun för drift av en färjeförbindelse mellan Kalmar och Färjestaden avsedd för cykeltrafik. Bidraget får uppgå till högst 30 procent av kommunens kostnader för driften av färjeförbindelsen, dock med högst 1 500 000 kronor. För 2027 beräknas bidrag lämnas från anslagsposten under förutsättning att riksdagen anvisar medel för det aktuella anslaget."
+    },
+    {
+     "ap": "1.4",
+     "name": "Statsbidrag till enskild väghållning",
+     "text": "Medel får användas för utgifter för utbetalningar i enlighet med förordningen (2025:753) om statsbidrag till enskild väghållning."
+    },
+    {
+     "ap": "1.5",
+     "name": "Medel i nationell plan",
+     "text": "Medel får användas först efter beslut av regeringen."
+    },
+    {
+     "ap": "2.2",
+     "name": "Drift och underhåll av järnväg",
+     "text": "Medel får användas för utgifter för drift, underhåll och reinvesteringar på det statliga järnvägsnätet, inklusive it- och telekomanläggningar.\nMedel får användas för Trafikverkets byggherrekostnader som är direkt relaterade till vidmakthållandet av samhällsinvesteringen och andra utgifter av förvaltningskaraktär direkt kopplade till driften.\nMedel får användas för utgifter för ersättning som betalas ut av Trafikverket i egenskap av infrastrukturförvaltare med stöd av gällande lagstiftning för järnvägstrafik.\nMedel får användas för reglering av kvalitetsavgifter till följd av avvikelser från i tågplan och trafikeringsavtal fastställt nyttjande av infrastrukturen som orsakats av Trafikverket.\nMedel får användas för utgifter för trygghets- och säkerhetsskapande åtgärder på järnvägsstationer.\nMedel får användas för utgifter för att kunna använda och samverka med det gemensamma radiokommunikationssystemet Rakel. Trafikverket ska betala 4 822 600 kronor till den blivande Myndigheten för civilt försvar som abonnemangsavgift för detta system. Beloppet ska betalas efter fakturering från Myndigheten för civilt försvar.\nMedel får användas för utgifter för att betala Polismyndighetens kostnader för eftersök av vilt som varit inblandat i sammanstötning med spårbundna fordon, liksom polisens administrations- och fakturahanteringskostnader för detta. Polismyndigheten ska löpande rekvirera medel från Trafikverket för polisens kostnader för eftersök av vilt vid olyckor med spårbunden trafik. Utbetalningar ska ske i enlighet med riksdagens beslut med anledning av regeringens förslag i propositionen Eftersök av vilt vid sammanstötning med spårbundna fordon (prop. 2011/12:58, bet. 2011/12:MJU5, rskr. 2011/12:146).\nMedel om 275 000 000 kronor får användas för utgifter för kompensation för godstransporter under 2025 enligt förordningen (2018:675) om miljökompensation för godstransporter på järnväg.\nMedel om 885 000 000 kronor får användas för utgifter för kompensation för godstransporter under 2026 enligt förordningen (2018:675) om miljökompensation för godstransporter på järnväg."
+    },
+    {
+     "ap": "2.3",
+     "name": "Bidrag till Inlandsbanan AB",
+     "text": "Medel får användas för att finansiera bidrag till Inlandsbanan."
+    },
+    {
+     "ap": "2.4",
+     "name": "Ersättning till Öresundsbrokonsortiet",
+     "text": "Medel får användas för att finansiera avtalad avgift till Öresundsbrokonsortiet för utnyttjandet av järnvägsförbindelsen över Öresund."
+    },
+    {
+     "ap": "2.5",
+     "name": "Medel i nationell plan",
+     "text": "Medel får användas först efter beslut av regeringen."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "1.1",
+     "max": 8000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "1.1",
+     "max": 1500000,
+     "unit": "kronor"
+    }
+   ]
+  },
+  {
+   "code": "1:3",
+   "name": "Trafikverket",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 22,
+    "name": "Kommunikationer"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Trafikverket",
+     "amount_tkr": 6531201,
+     "items": [
+      {
+       "ap": "2",
+       "name": "Trafikverkets förvaltning (ram)",
+       "amount_tkr": 6531201
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "2",
+     "name": "Trafikverkets förvaltning",
+     "text": "Medel får användas för Trafikverkets förvaltningsutgifter.\nTrafikverket ska efter rekvisition från Trafikanalys betala ut högst\\\n7 000 000 kronor för kostnader som uppkommit vid genomförande av uppdrag att granska och följa upp Trafikverkets arbete med kostnadskontroll i syfte att förbättra Trafikverkets rutiner och arbetssätt (I2021/01049).\nMedel om högst 7 000 000 kronor får användas för bidrag till ideella organisationer som utför uppgifter som bidrar till ökad trafiksäkerhet.\nMedel om högst 14 700 000 kronor får användas av Trafikverket för att upprätta och förvalta Sveriges eFTI-sluss.\nMedel får användas till utgifter för att genomföra aktiviteter för en långsiktigt hållbar kompetensförsörjning inom järnvägsområdet.\nMedel får användas för arbete i enlighet med 4 d § förordningen (2010:1745) om bilstöd till personer med funktionshinder.\nMedel får användas för kostnader i samband med ansvaret för Europeiska mobilitetsveckan.\nMedel får användas till utgifter för att betala medlemsavgift för European Initiative Linking Interlocking Subsystems under perioden 2018–2028.\nTrafikverket ska efter rekvisition betala ut medel till Luftfartsverket för uppdatering av Försvarsmaktens flyghinderdatabas till den del som avser den civila luftfarten. Inklusive tidigare upparbetade kostnader får högst 12 600 000 kronor rekvireras för detta ändamål.\nMedel om högst 4 000 000 kronor får användas för satsningar på strategiskt arbete med godstransporter i enlighet med uppdrag till Trafikverket att ta fram en trafikslagsövergripande handlingsplan för att förbättra förutsättningarna för långväga godstransporter (LI2025/00937) och uppdrag till Trafikverket att utveckla och förvalta en informationsportal för sjöfartslinjer (LI2025/01096).\nMedel om högst 10 000 000 kronor får användas av Trafikverket för att etablera en samordnad och säker statlig it-drift."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "2",
+     "max": 7000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "2",
+     "max": 14700000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "2",
+     "max": 12600000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "2",
+     "max": 4000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "2",
+     "max": 10000000,
+     "unit": "kronor"
+    }
+   ]
+  },
+  {
+   "code": "1:6",
+   "name": "Ersättning avseende flygplatser",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 22,
+    "name": "Kommunikationer"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Trafikverket",
+     "amount_tkr": 661013,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Driftsbidrag till flygplatser (ram)",
+       "amount_tkr": 558013
+      },
+      {
+       "ap": "4",
+       "name": "Ersättning för beredskap på flygplats (ram)",
+       "amount_tkr": 103000
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Driftsbidrag till flygplatser",
+     "text": "Medel får användas för bidrag till kommuner för utgifter för att finansiera delar av driftunderskott vid kommunala och privata flygplatser som trafikeras av flyglinjer som upphandlas av staten eller vid kommunala och privata flygplatser som ingår i ett statligt nät av beredskapsflygplatser eller vid de ytterligare kommunala och privata flygplatser där det bedrivs reguljär inrikes linjetrafik av betydande omfattning.\nHögst 150 000 kronor av stödet får användas för ekonomisk uppföljning av driften på flygplatserna."
+    },
+    {
+     "ap": "4",
+     "name": "Ersättning för beredskap på flygplats",
+     "text": "Medel får användas för utgifter för att upprätthålla beredskap för samhällsviktiga transporter på vissa flygplatser."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "1",
+     "max": 150000,
+     "unit": "kronor"
+    }
+   ]
+  },
+  {
+   "code": "1:7",
+   "name": "Trafikavtal",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 22,
+    "name": "Kommunikationer"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Trafikverket",
+     "amount_tkr": 1280000,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Trafikavtal (ram)",
+       "amount_tkr": 1055000
+      },
+      {
+       "ap": "2",
+       "name": "Stöd för resor till och från Gotland (ram)",
+       "amount_tkr": 125000
+      },
+      {
+       "ap": "3",
+       "name": "Beredskap för inrikes flyglinjer (ram)",
+       "amount_tkr": 100000
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Trafikavtal",
+     "text": "Medel får användas för utgifter för statens trafikavtal rörande transportpolitiskt motiverad interregional kollektivtrafik. Medel får dessutom användas till statligt tonnage för färjetrafiken till och från Gotland."
+    },
+    {
+     "ap": "2",
+     "name": "Stöd för resor till och från Gotland",
+     "text": "Högst 125 000 000 kronor får användas till utgifter för stöd till resor till och från Gotland för folkbokförda på Gotland som äger rum till och med den 31 december 2026. Medlen får användas först efter beslut av regeringen."
+    },
+    {
+     "ap": "3",
+     "name": "Beredskap för inrikes flyglinjer",
+     "text": "Högst 100 000 000 kronor får användas till utgifter för upphandling av flygtrafik efter beslut av regeringen om införande av temporär allmän trafikplikt."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "2",
+     "max": 125000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "3",
+     "max": 100000000,
+     "unit": "kronor"
+    }
+   ]
+  },
+  {
+   "code": "1:10",
+   "name": "Från EU-budgeten finansierade stöd till Transeuropeiska nätverk",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 22,
+    "name": "Kommunikationer"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Trafikverket",
+     "amount_tkr": 1000000,
+     "items": [
+      {
+       "ap": "1",
+       "name": "EU-stöd, TEN projekt inom nationell plan (ram)",
+       "amount_tkr": 850000
+      },
+      {
+       "ap": "2",
+       "name": "EU-stöd, TEN projekt utanför nationell plan (ram)",
+       "amount_tkr": 150000
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "EU-stöd, TEN projekt inom nationell plan",
+     "text": "Medel får användas motsvarande de bidrag som beviljats av Europeiska unionen genom Fonden för ett sammanlänkat Europa, FSE för verksamhet inom ramen för nationell plan för transportinfrastruktur.\nMedel får användas för högst ett belopp som motsvarar uppburet finansiellt stöd från Europeiska unionen som av myndigheten redovisats mot inkomsttitel 6511 Bidrag till transeuropeiska nätverk. Medel som redovisats mot inkomsttitel och som överstiger årets tilldelade anslag får belasta anslaget året efter. Beloppet som disponeras kan dock inte överstiga tillgängliga medel på anslagsposten."
+    },
+    {
+     "ap": "2",
+     "name": "EU-stöd, TEN projekt utanför nationell plan",
+     "text": "Medel får användas motsvarande de bidrag som beviljats av Europeiska unionen genom Fonden för ett sammanlänkat Europa, FSE för verksamhet som inte ingår i nationell plan för transportinfrastruktur.\nMedel får användas för högst ett belopp som motsvarar uppburet finansiellt stöd från Europeiska unionen som av myndigheten redovisats mot inkomsttitel 6511 Bidrag till transeuropeiska nätverk. Medel som redovisats mot inkomsttitel och som överstiger årets tilldelade anslag får belasta anslaget året efter. Beloppet som disponeras kan dock inte överstiga tillgängliga medel på anslagsposten."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "1:15",
+   "name": "Sjöfartsstöd",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 22,
+    "name": "Kommunikationer"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Trafikverket",
+     "amount_tkr": 1600000,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Sjöfartsstöd (ram)",
+       "amount_tkr": 1600000
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Sjöfartsstöd",
+     "text": "Medel får användas för utgifter för sjöfartsstöd som enligt förordningen (2001:770) om sjöfartsstöd lämnas till fysiska och juridiska personer samt till partrederier som har eller har haft sjömän anställda för arbete ombord på fartyg som är registrerade i ett nationellt fartygsregister i en stat inom Europeiska ekonomiska samarbetsområdet."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "1:16",
+   "name": "Internationell tågtrafik",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 22,
+    "name": "Kommunikationer"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Trafikverket",
+     "amount_tkr": 65000,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Internationell tågtrafik (ram)",
+       "amount_tkr": 65000
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Internationell tågtrafik",
+     "text": "Medel får användas för utgifter för statlig upphandlad tågtrafik från Sverige till destinationer i andra länder. Anslaget får även användas för utgifter för förberedande utredningar inför upphandling, för utgifter för tillfällig juridisk, ekonomisk eller annan expertis vid ingående av nya avtal samt för förvaltningsutgifter som är direkt hänförliga till sådana avtal."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "1:1 Utveckling av statens transportinfrastruktur",
+   "ap": "ap.1",
+   "Anslagskredit": 623306,
+   "Anslagsbehållning som disponeras 2026": "Allt",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:1 Utveckling av statens transportinfrastruktur",
+   "ap": "ap.6",
+   "Anslagskredit": 124644,
+   "Anslagsbehållning som disponeras 2026": 4194231,
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:1 Utveckling av statens transportinfrastruktur",
+   "ap": "ap.8",
+   "Anslagskredit": 190400,
+   "Anslagsbehållning som disponeras 2026": "Allt",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:1 Utveckling av statens transportinfrastruktur",
+   "ap": "ap.9",
+   "Anslagskredit": 19944,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:1 Utveckling av statens transportinfrastruktur",
+   "ap": "ap.13",
+   "Anslagskredit": 2240271,
+   "Anslagsbehållning som disponeras 2026": "Allt",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:1 Utveckling av statens transportinfrastruktur",
+   "ap": "ap.14",
+   "Anslagskredit": 88798,
+   "Anslagsbehållning som disponeras 2026": "Allt",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:1 Utveckling av statens transportinfrastruktur",
+   "ap": "ap.15",
+   "Anslagskredit": 484058,
+   "Anslagsbehållning som disponeras 2026": "Allt",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:1 Utveckling av statens transportinfrastruktur",
+   "ap": "ap.19.1",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:1 Utveckling av statens transportinfrastruktur",
+   "ap": "ap.19.2",
+   "Anslagskredit": 69000,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:1 Utveckling av statens transportinfrastruktur",
+   "ap": "ap.19.3",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Allt",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:1 Utveckling av statens transportinfrastruktur",
+   "ap": "ap.19.4",
+   "Anslagskredit": 76707,
+   "Anslagsbehållning som disponeras 2026": "Allt",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:2 Vidmakthållande av statens transportinfrastruktur",
+   "ap": "ap.1.1",
+   "Anslagskredit": 1966350,
+   "Anslagsbehållning som disponeras 2026": "Allt",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:2 Vidmakthållande av statens transportinfrastruktur",
+   "ap": "ap.1.4",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Allt",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:2 Vidmakthållande av statens transportinfrastruktur",
+   "ap": "ap.1.5",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Allt",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:2 Vidmakthållande av statens transportinfrastruktur",
+   "ap": "ap.2.2",
+   "Anslagskredit": 1834195,
+   "Anslagsbehållning som disponeras 2026": "Allt",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:2 Vidmakthållande av statens transportinfrastruktur",
+   "ap": "ap.2.3",
+   "Anslagskredit": 8110,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:2 Vidmakthållande av statens transportinfrastruktur",
+   "ap": "ap.2.4",
+   "Anslagskredit": 14820,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:2 Vidmakthållande av statens transportinfrastruktur",
+   "ap": "ap.2.5",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Allt",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:3 Trafikverket",
+   "ap": "ap.2",
+   "Anslagskredit": 195936,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:6 Ersättning avseende flygplatser",
+   "ap": "ap.1",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:6 Ersättning avseende flygplatser",
+   "ap": "ap.4",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:7 Trafikavtal",
+   "ap": "ap.1",
+   "Anslagskredit": 105500,
+   "Anslagsbehållning som disponeras 2026": "Allt",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:7 Trafikavtal",
+   "ap": "ap.2",
+   "Anslagskredit": 12500,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:7 Trafikavtal",
+   "ap": "ap.3",
+   "Anslagskredit": 10000,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:10 Från EU-budgeten finansierade stöd till Transeuropeiska nätverk",
+   "ap": "ap.1",
+   "Anslagskredit": 25500,
+   "Anslagsbehållning som disponeras 2026": "Allt",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:10 Från EU-budgeten finansierade stöd till Transeuropeiska nätverk",
+   "ap": "ap.2",
+   "Anslagskredit": 4500,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:15 Sjöfartsstöd",
+   "ap": "ap.1",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:16 Internationell tågtrafik",
+   "ap": "ap.1",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 8603613,
+  "Räntekontokredit": 3293000,
+  "- Låneram": 77007603
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 7498600
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 7498600
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 7498600
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 7498600
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 7498600
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 7445602
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 7445602
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 7445602
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 7445602
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 7445602
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 7445602
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 7445564
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:1 Utveckling av statens transportinfrastruktur",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "623 306",
+     "Allt",
+     "0"
+    ],
+    [
+     "ap.6",
+     "124 644",
+     "4 194 231",
+     "0"
+    ],
+    [
+     "ap.8",
+     "190 400",
+     "Allt",
+     "0"
+    ],
+    [
+     "ap.9",
+     "19 944",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.13",
+     "2 240 271",
+     "Allt",
+     "0"
+    ],
+    [
+     "ap.14",
+     "88 798",
+     "Allt",
+     "0"
+    ],
+    [
+     "ap.15",
+     "484 058",
+     "Allt",
+     "0"
+    ],
+    [
+     "ap.19.1",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.19.2",
+     "69 000",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.19.3",
+     "0",
+     "Allt",
+     "0"
+    ],
+    [
+     "ap.19.4",
+     "76 707",
+     "Allt",
+     "0"
+    ],
+    [
+     "1:2 Vidmakthållande av statens transportinfrastruktur",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1.1",
+     "1 966 350",
+     "Allt",
+     "0"
+    ],
+    [
+     "ap.1.4",
+     "0",
+     "Allt",
+     "0"
+    ],
+    [
+     "ap.1.5",
+     "0",
+     "Allt",
+     "0"
+    ],
+    [
+     "ap.2.2",
+     "1 834 195",
+     "Allt",
+     "0"
+    ],
+    [
+     "ap.2.3",
+     "8 110",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.2.4",
+     "14 820",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.2.5",
+     "0",
+     "Allt",
+     "0"
+    ],
+    [
+     "1:3 Trafikverket",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.2",
+     "195 936",
+     "3 %",
+     "0"
+    ],
+    [
+     "1:6 Ersättning avseende flygplatser",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.4",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "1:7 Trafikavtal",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "105 500",
+     "Allt",
+     "0"
+    ],
+    [
+     "ap.2",
+     "12 500",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.3",
+     "10 000",
+     "Inget",
+     "0"
+    ],
+    [
+     "1:10 Från EU-budgeten finansierade stöd till Transeuropeiska nätverk",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "25 500",
+     "Allt",
+     "0"
+    ],
+    [
+     "ap.2",
+     "4 500",
+     "Inget",
+     "0"
+    ],
+    [
+     "1:15 Sjöfartsstöd",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "1:16 Internationell tågtrafik",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "0",
+     "Inget",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Omfördelning av anslagssparande",
+   "rows": [
+    [
+     "Omfördelning från anslag/ap1",
+     "Omfördelning till anslag/ap2",
+     "Belopp (tkr)",
+     "Belopp andel (%)"
+    ],
+    [
+     "1:1 Utveckling av statens transportinfrastruktur",
+     "",
+     "",
+     ""
+    ],
+    [
+     "1:1 ap.10.1",
+     "1:1 ap.1",
+     "100 %"
+    ],
+    [
+     "1:1 ap.10.2",
+     "1:1 ap.13",
+     "100 %"
+    ],
+    [
+     "1:1 ap.10.3",
+     "1:1 ap.14",
+     "100 %"
+    ],
+    [
+     "1:1 ap.12.2",
+     "1:1 ap.19.1",
+     "100 %"
+    ],
+    [
+     "1:1 ap.12.4",
+     "1:1 ap.19.2",
+     "100 %"
+    ],
+    [
+     "1:1 ap.11.1",
+     "1:1 ap.15",
+     "100 %"
+    ],
+    [
+     "1:1 ap.11.2",
+     "1:1 ap.19.4",
+     "100 %"
+    ],
+    [
+     "1:2 Vidmakthållande av statens transportinfrastruktur",
+     "",
+     "",
+     ""
+    ],
+    [
+     "1:2 ap.1.2",
+     "1:2 ap.1.1",
+     "100 %"
+    ],
+    [
+     "1:2 ap.1.3",
+     "1:2 ap.1.4",
+     "100 %"
+    ],
+    [
+     "1:2 ap.2.1",
+     "1:2 ap.2.2",
+     "100 %"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Avslutade anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagstyp"
+    ],
+    [
+     "1:1 Utveckling av statens transportinfrastruktur",
+     ""
+    ],
+    [
+     "ap.7.1",
+     "ram"
+    ],
+    [
+     "ap.7.2",
+     "ram"
+    ],
+    [
+     "ap.10.1",
+     "ram"
+    ],
+    [
+     "ap.10.2",
+     "ram"
+    ],
+    [
+     "ap.10.3",
+     "ram"
+    ],
+    [
+     "ap.11.1",
+     "ram"
+    ],
+    [
+     "ap.11.2",
+     "ram"
+    ],
+    [
+     "ap.12.1",
+     "ram"
+    ],
+    [
+     "ap.12.2",
+     "ram"
+    ],
+    [
+     "ap.12.4",
+     "ram"
+    ],
+    [
+     "1:2 Vidmakthållande av statens transportinfrastruktur",
+     ""
+    ],
+    [
+     "ap.1.2",
+     "ram"
+    ],
+    [
+     "ap.1.3",
+     "ram"
+    ],
+    [
+     "ap.2.1",
+     "ram"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Beställningsbemyndiganden",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Bemyndigande",
+     "Utgifter mot anslag till följd av ekonomiska åtaganden",
+     "",
+     "",
+     ""
+    ],
+    [
+     "2026",
+     "2027",
+     "2028",
+     "2029 -",
+     "Slutår"
+    ],
+    [
+     "1:1 Utveckling av statens transportinfrastruktur",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "16 075 000",
+     "3 290 456",
+     "2 957 898",
+     "6 004 487",
+     "2050"
+    ],
+    [
+     "ap.8",
+     "2 490 000",
+     "1 134 841",
+     "440 708",
+     "155 859",
+     "2050"
+    ],
+    [
+     "ap.13",
+     "77 000 000",
+     "13 374 911",
+     "12 995 833",
+     "40 342 951",
+     "2050"
+    ],
+    [
+     "ap.6",
+     "12 600 000",
+     "4 518 427",
+     "2 661 513",
+     "5 001 643",
+     "2050"
+    ],
+    [
+     "ap.14",
+     "11 000 000",
+     "3 049 837",
+     "2 806 291",
+     "4 769 549",
+     "2050"
+    ],
+    [
+     "ap.15",
+     "4 350 000",
+     "2 109 120",
+     "1 234 839",
+     "645 909",
+     "2050"
+    ],
+    [
+     "ap.9",
+     "550 000",
+     "70 689",
+     "72 994",
+     "377 833",
+     "2050"
+    ],
+    [
+     "ap.19.1",
+     "800 000",
+     "365 004",
+     "184 593",
+     "134 266",
+     "2050"
+    ],
+    [
+     "ap.19.2",
+     "33 500 000",
+     "2 080 000",
+     "2 110 000",
+     "28 157 222",
+     "2050"
+    ],
+    [
+     "ap.19.4",
+     "3 600 000",
+     "1 648 222",
+     "1 219 905",
+     "630 251",
+     "2050"
+    ],
+    [
+     "1:2 Vidmakthållande av statens transportinfrastruktur",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1.1",
+     "23 510 000",
+     "3 786 848",
+     "2 653 626",
+     "16 969 864",
+     "2038"
+    ],
+    [
+     "ap.1.4",
+     "1 200 000",
+     "1 108 066",
+     "0",
+     "0",
+     "2038"
+    ],
+    [
+     "ap.2.2",
+     "18 000 000",
+     "6 221 433",
+     "3 817 118",
+     "7 598 736",
+     "2038"
+    ],
+    [
+     "1:7 Trafikavtal",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "5 000 000",
+     "949 998",
+     "789 541",
+     "2 820 432",
+     "2035"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "8 603 613"
+    ],
+    [
+     "Räntekontokredit",
+     "3 293 000"
+    ],
+    [
+     "Låneram för samhällsinvesteringar"
+    ],
+    [
+     "- Låneram",
+     "77 007 603"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "7 498 600"
+    ],
+    [
+     "2026-02-25",
+     "7 498 600"
+    ],
+    [
+     "2026-03-25",
+     "7 498 600"
+    ],
+    [
+     "2026-04-25",
+     "7 498 600"
+    ],
+    [
+     "2026-05-25",
+     "7 498 600"
+    ],
+    [
+     "2026-06-25",
+     "7 445 602"
+    ],
+    [
+     "2026-07-25",
+     "7 445 602"
+    ],
+    [
+     "2026-08-25",
+     "7 445 602"
+    ],
+    [
+     "2026-09-25",
+     "7 445 602"
+    ],
+    [
+     "2026-10-25",
+     "7 445 602"
+    ],
+    [
+     "2026-11-25",
+     "7 445 602"
+    ],
+    [
+     "2026-12-25",
+     "7 445 564"
+    ],
+    [
+     "Summa",
+     "89 612 176"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "1:1 ap.1",
+     "Väginvesteringar"
+    ],
+    [
+     "1:1 ap.8",
+     "Bärighetshöjande åtgärder väg"
+    ],
+    [
+     "1:1 ap.13",
+     "Järnvägsinvesteringar"
+    ],
+    [
+     "1:1 ap.6",
+     "Investeringar i regional plan"
+    ],
+    [
+     "1:1 ap.14",
+     "Sjöfartsinvesteringar"
+    ],
+    [
+     "1:1 ap.15",
+     "Trimning och effektivisering samt miljöinvesteringar"
+    ],
+    [
+     "1:1 ap.9",
+     "Civilt försvar"
+    ],
+    [
+     "1:1 ap.19.1",
+     "Forskning och innovation"
+    ],
+    [
+     "1:1 ap.19.2",
+     "Räntor och återbetalning av lån och garantier"
+    ],
+    [
+     "1:1 ap.19.3",
+     "Medel i nationell plan"
+    ],
+    [
+     "1:1 ap.19.4",
+     "Stadsmiljöavtal"
+    ],
+    [
+     "1:2 ap.1.1",
+     "Drift och underhåll av vägar"
+    ],
+    [
+     "1:2 ap.1.5",
+     "Medel i nationell plan"
+    ],
+    [
+     "1:2 ap.2.2",
+     "Drift och underhåll av järnväg"
+    ],
+    [
+     "1:2 ap.2.3",
+     "Bidrag till Inlandsbanan AB"
+    ],
+    [
+     "1:2 ap.2.4",
+     "Ersättning till Öresundsbrokonsortiet"
+    ],
+    [
+     "1:2 ap.2.5",
+     "Medel i nationell plan"
+    ],
+    [
+     "1:3 ap.2",
+     "Trafikverkets förvaltning"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Uppdragsverksamhet med krav på full kostnadstäckning",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Färjeleder1",
+     "-3 298",
+     "2 200",
+     "127 000",
+     "125 200",
+     "1 800",
+     "702"
+    ],
+    [
+     "Elförsäljning1",
+     "-373 822",
+     "-43 676",
+     "1 152 573",
+     "1 199 343",
+     "-46 770",
+     "-464 268"
+    ],
+    [
+     "Övriga uppdrag1",
+     "3 354",
+     "593",
+     "31 375",
+     "31 279",
+     "96",
+     "4 043"
+    ],
+    [
+     "Uthyrning av järnvägsfordon1",
+     "61 742",
+     "-7 526",
+     "44 877",
+     "41 267",
+     "3 610",
+     "57 826"
+    ],
+    [
+     "Materialförsörjning1",
+     "58 486",
+     "0",
+     "1 824 631",
+     "1 814 711",
+     "9 920",
+     "68 406"
+    ],
+    [
+     "Samordnad och säker statlig it-drift1",
+     "0",
+     "-20 000",
+     "49 000",
+     "58 000",
+     "-9 000",
+     "-29 000"
+    ],
+    [
+     "Summa",
+     "-253 538",
+     "-68 409",
+     "3 229 456",
+     "3 269 800",
+     "-40 344",
+     "-362 291"
+    ],
+    [
+     "Uppdragsverksamhet utan krav på full kostnadstäckning",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Teletjänster och it2",
+     "0",
+     "5 052",
+     "16 966",
+     "11 914",
+     "5 052",
+     "10 104"
+    ],
+    [
+     "Uthyrning av förarprovsbilar2",
+     "0",
+     "19 395",
+     "128 306",
+     "112 972",
+     "15 334",
+     "34 729"
+    ],
+    [
+     "Utbildning (Trafikverksskolan)2",
+     "-27 110",
+     "1 549",
+     "63 000",
+     "61 000",
+     "2 000",
+     "-23 561"
+    ],
+    [
+     "Fotografering inför utfärdande av körkort2",
+     "0",
+     "33 614",
+     "69 441",
+     "37 085",
+     "32 356",
+     "65 970"
+    ],
+    [
+     "Uthyrning av reservbroar2",
+     "0",
+     "11 298",
+     "9 200",
+     "2 125",
+     "7 075",
+     "18 373"
+    ],
+    [
+     "Fastighetsförvaltning2",
+     "31 521",
+     "25 020",
+     "94 826",
+     "69 763",
+     "25 063",
+     "81 604"
+    ],
+    [
+     "Summa",
+     "4 411",
+     "95 928",
+     "381 739",
+     "294 859",
+     "86 880",
+     "187 219"
+    ],
+    [
+     "Offentligrättslig verksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Förare1",
+     "49 719",
+     "105 468",
+     "705 064",
+     "635 309",
+     "69 755",
+     "224 942"
+    ],
+    [
+     "Banavgifter2",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0"
+    ],
+    [
+     "Banavgifter3",
+     "3 061 000"
+    ],
+    [
+     "Summa",
+     "49 719",
+     "105 468",
+     "3 766 064",
+     "635 309",
+     "69 755",
+     "224 942"
+    ]
+   ]
+  },
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna ej disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "Ink. tit.",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Offentligrättslig verksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Ansökningsavgifter för transportdispenser3",
+     "2511",
+     "27 000"
+    ],
+    [
+     "Övriga dispenser3",
+     "2511",
+     "3 524"
+    ],
+    [
+     "Avgifter för ansökan om sjöfartsstöd3",
+     "2511",
+     "448"
+    ],
+    [
+     "Summa",
+     "0",
+     "0",
+     "30 972",
+     "0",
+     "0",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga inkomster",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Beräknade övriga inkomster som disponeras",
+     "17 000"
+    ]
+   ]
+  }
+ ],
+ "has_fee_section": true,
+ "exceptions_text": "**1. Trafikverket medges undantag från 2 kap. 6 § kapitalförsörjningsförordningen (2011:210) enligt de villkor som anges under 5 Övriga villkor i detta regleringsbrev avseende rätt att finansiera infrastrukturella anläggningstillgångar med lån.**\n\n**2. Trafikverket får utan hinder av vad som anges i 6 kap. 1 § kapitalförsörjningsförordningen (2011:210) ta emot och disponera icke-statliga medel som inte är av tillfällig natur eller mindre omfattning.**\n\n**3. Trafikverket medges undantag från vad som anges i 3 kap. 2 § förordningen (2000:605) om årsredovisning och budgetunderlag att fördela verksamhetens totala intäkter och kostnader enligt verksamhetsindelningen. Redovisning ska i stället göras så att den ger en rättvisande bild av den verksamhet Trafikverket bedriver vilket även ska inkludera samhällsinvesteringar.**\n\n**ÖVRIGA BESTÄMMELSER**\n\n**1. Trafikverket har för statens räkning oåterkalleligen förbundit sig att när så erfordras lämna villkorat aktieägartillskott till Svedab för att bolagets eget kapital vid varje tillfälle ska uppgå till det registrerade aktiekapitalet. Trafikverket ska uppfylla denna förpliktelse genom att när så erfordras utställa en betalningsutfästelse till Svedab motsvarande erforderligt aktieägartillskott. Vidare ska Trafikverket årligen ställa ut en betalningsutfästelse till Svedab motsvarande upplupen ränta på utställda betalningsutfästelser.**\n\n**2. Trafikverket har rätt att använda derivatkontrakt för säkring av finansiella risker avseende valutaexponering och exponering av elpriser.**\n\n**3. Trafikverket ska förskottsvis löpande tillföra erforderligt kapital till Arlandabanan Infrastructure AB för bolagets drift.**\n\n**4. Trafikverket har utfärdat en kapitaltäckningsgaranti till Arlandabanan Infrastructure AB. Ett infriande av kapitaltäckningsgarantin belastar i ett första led Riksgäldskontorets garantireserv och i ett andra led tilldelade medel på Trafikverkets anslag. Riksgäldskontoret får debitera Trafikverket en administrativ avgift för kapitaltäckningsgarantin.**\n\n**5. Trafikverket får deponera medel hos Riksgäldskontoret som ekonomisk säkerhet för deponeringsverksamhet.**\n\n**Bilaga 1 till Regeringsbeslut II:4, 2026-08-27**\n\n**Diarienummerförteckning**\n\nLI2025/01798\\\nLI2026/00423 (delvis)\\\nLI2026/01338\\\nLI2026/01474\\\nLI2026/01545\n\nPå regeringens vägnar\n\nAndreas Carlson\n\nEva Svensson\n\n**Kopia till**\n\nStatsrådsberedningen, internrevisionen\\\nJustitiedepartementet/INS\\\nFörsvarsdepartementet/ECH, EMF, ESS och ETU\\\nFinansdepartementet/BA2, BAEU, BSÄ, DIS, DOF och K\\\nKlimat- och näringslivsdepartementet/CKS, E, KL, Me, NIM, och Nm\\\nArbetsmarknadsdepartementet/JÄM\\\nFörvaltningsavdelningen, RK Ekonomi och affärer\\\nRiksdagen, trafikutskottet\\\nFörsvarsmakten\\\nLuftfartsverket\\\nMyndigheten för civilt försvar\\\nNaturvårdsverket\\\nPolismyndigheten\\\nSjöfartsverket\\\nSäkerhetspolisen\\\nTrafikanalys\\\nTransportstyrelsen\\\nRiksgäldskontoret\\\nArlandabanan Infrastructure AB\\\nA-Train AB\\\nSvensk-Danska Broförbindelsen SVEDAB AB\\\nRegionerna\\\nGotlands kommun",
+ "summary": {
+  "n_goals": 8,
+  "n_org": 1,
+  "n_assignments": 16,
+  "n_deadlines": 6,
+  "deadlines": [
+   "2026-02-25",
+   "2026-05-31",
+   "2026-07-24",
+   "2027-02-22",
+   "2027-02-28",
+   "2027-03-01"
+  ],
+  "partners": [
+   "Ekonomistyrningsverket",
+   "Myndigheten för civilt försvar",
+   "Myndigheten för samhällsskydd och beredskap",
+   "Riksgäldskontoret",
+   "Säkerhetspolisen",
+   "Transportstyrelsen"
+  ],
+  "n_appropriations": 8,
+  "appropriations_total_tkr": 96226353,
+  "payment_plan_total_tkr": 89612176,
+  "md_chars": 60916
+ },
+ "layout": "standard",
+ "warnings": []
+}

@@ -1,0 +1,606 @@
+{
+ "schema_version": 1,
+ "id": 26276,
+ "original_rbid": 25985,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-03-12",
+ "year": "2026",
+ "name": "Myndigheten för psykologiskt försvar",
+ "slug": "myndigheten-for-psykologiskt-forsvar",
+ "department": "Försvarsdepartementet",
+ "expenditure_areas": [
+  6
+ ],
+ "registry_numbers": [
+  "Fö2026/00496",
+  "Fö2026/00499"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1",
+   "2025/26:143"
+  ],
+  "bet": [
+   "2025/26:FiU46",
+   "2025/26:FöU1"
+  ],
+  "rskr": [
+   "2025/26:111",
+   "2025/26:180"
+  ]
+ },
+ "n_attachments_stated": 1,
+ "mission": "Myndighetens huvudsakliga uppgifter framgår av förordningen (2021:936) med instruktion för Myndigheten för psykologiskt försvar.",
+ "goals": [
+  {
+   "title": "Informations- och kommunikationsverksamhet",
+   "group": [],
+   "text": "Myndigheten ska redovisa kostnaderna för sin informations- och kommunikationsverksamhet och hur verksamheten har bidragit till myndighetens förmåga att uppfylla sina kärnuppgifter. Av redovisningen ska bl.a. framgå vilken uppgift eller vilka uppdrag som ligger till grund för respektive verksamhet/insats och vad som motiverar de val av kommunikationsmedel som gjorts.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26276:goals:0"
+  },
+  {
+   "title": "Stöd till Ukraina",
+   "group": [],
+   "text": "Myndigheten för psykologiskt försvar ska ge stöd till Ukraina. Nya stödprojekt kan initieras i den utsträckning särskilda medel allokeras. Stödet ska bidra till Ukrainas förmåga och beredskap att stå emot otillbörlig informationspåverkan. Stödverksamheten ska utgå från myndighetens expertis inom det egna verksamhetsområdet och bidra till samverkan mellan myndigheter och andra berörda aktörer i Ukraina inom det förmågehöjande arbetet. Myndighetens verksamhet i Ukraina ska utgå från öppna källor. Myndigheten för psykologiskt försvar ska hålla Regeringskansliet (Försvarsdepartementet) informerat om planering inför och under genomförandet av stödprojekt i Ukraina.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "samordna",
+    "utveckla",
+    "informera",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26276:goals:1"
+  }
+ ],
+ "org": [
+  {
+   "title": "Säkerställa proaktivitet och handlingskraft vid fredstida krissituationer eller vid krig och krigsfara",
+   "group": [],
+   "text": "Myndigheten för psykologiskt försvar ska säkerställa att myndigheten har förmåga att agera proaktivt och handlingskraftigt i hanteringen av såväl fredstida krissituationer som vid krig och krigsfara. Utöver de krav som ställs i förordningen (2022:524) om statliga myndigheters beredskap ska myndigheten i detta syfte utbilda och öva sin personal samt se till att myndigheten stärker en kultur och arbetssätt som utgår från de krav som ett krig ställer.\n\nUppdraget ska redovisas till Regeringskansliet (Försvarsdepartementet) senast den 22 februari 2027. Detta ska ingå i den särskilda redovisningen för civilt försvar.",
+   "dates": [
+    "2027-02-22"
+   ],
+   "deadlines": [
+    "2027-02-22"
+   ],
+   "recipients": [
+    "Regeringskansliet (Försvarsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2022:524"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "org",
+   "item_id": "26276:org:0"
+  }
+ ],
+ "assignments": [
+  {
+   "title": "Stärkt motståndskraft mot hybridhot",
+   "group": [],
+   "text": "I syfte att stärka motståndskraften mot hybridhot ska Myndigheten för psykologiskt försvar identifiera möjliga hot som kan påverka eller skada myndigheten och dess ansvarsområde. Myndigheten ska säkerställa en kontinuerlig lägesuppfattning av incidenter inom den egna verksamheten i syfte att upprätthålla en normalbild. Myndigheten ska samverka med berörda myndigheter, och vid behov, klargöra eller utveckla rapporteringsvägar för avvikelser eller säkerhetsincidenter. Myndigheten för psykologiskt försvar ska redovisa vidtagna och planerade åtgärder för att minska sannolikhet för och konsekvens av sådana hybridhot. Uppdraget ska redovisas till Regeringskansliet (Försvarsdepartementet) senast den 28 februari 2027.",
+   "dates": [
+    "2027-02-28"
+   ],
+   "deadlines": [
+    "2027-02-28"
+   ],
+   "recipients": [
+    "Regeringskansliet (Försvarsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "utveckla",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26276:assignments:0"
+  },
+  {
+   "title": "Planering och rapportering av internationella möten",
+   "group": [],
+   "text": "Myndigheten för psykologiskt försvar ska hålla Regeringskansliet (Försvarsdepartementet) informerat om både planering inför och efter genomförandet av internationella möten på policynivå eller som i övrigt av myndigheten bedöms vara av större betydelse inom området psykologiskt försvar. Information ska lämnas skriftligt senast 31 mars, 30 juni, 30 september och 11 december 2026.",
+   "dates": [
+    "2026-12-11"
+   ],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "analysera",
+    "utveckla",
+    "informera",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26276:assignments:1"
+  },
+  {
+   "title": "Upprätthålla snabbinsatsförmåga mot hybrida hot och angrepp",
+   "group": [],
+   "text": "Myndigheten för psykologiskt försvar ska upprätthålla en insatsberedskap för att, vid behov och på begäran, lämna stöd genom snabbinsatsteam mot hybridhot. Myndigheten för psykologiskt försvar ska samverka med Myndigheten för civilt försvar som enligt regeringsuppdrag ska fungera som nationell kontaktpunkt för EU:s snabbinsatsförmåga mot hybridhot.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Myndigheten för civilt försvar"
+   ],
+   "channels": [],
+   "task_types": [
+    "samordna",
+    "beredskap_säkerhet",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26276:assignments:2"
+  },
+  {
+   "title": "Avtal för stärkt försörjningsberedskap",
+   "group": [],
+   "text": "Myndigheten för psykologiskt försvar ska identifiera behov av och, i de fall myndigheten bedömer det lämpligt, teckna avtal som syftar till att upprätthålla försörjningen av varor och tjänster som är nödvändiga för myndighetens prioriterade uppgifter vid fredstida kriser och höjd beredskap. I de fall Myndigheten för psykologiskt försvar nyttjar särskilda avtalsformer i form av sådana försörjningsberedskapsavtal (F-avtal) som beskrivs i SOU 2025:68 ska dessa avtal löpande rapporteras till Myndigheten för civilt försvar. Uppdraget ska redovisas till Regeringskansliet (Försvarsdepartementet) senast den 22 februari 2027, och ingå i den särskilda redovisningen för civilt försvar. Som stöd för arbetet kan myndigheten använda bland annat Utgångspunkter för totalförsvaret 2025 - 2030.",
+   "dates": [
+    "2027-02-22"
+   ],
+   "deadlines": [
+    "2027-02-22"
+   ],
+   "recipients": [
+    "Myndigheten för civilt försvar",
+    "Regeringskansliet (Försvarsdepartementet)"
+   ],
+   "partners": [
+    "Myndigheten för civilt försvar"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26276:assignments:3"
+  },
+  {
+   "title": "Prognoser",
+   "group": [],
+   "text": "Myndigheten för psykologiskt försvar ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Av kommentarerna ska framgå vilka antaganden som använts i prognosen, vilka osäkerhetsfaktorer som finns och vad som orsakat eventuella förändringar. Prognoserna lämnas i informationssystemet Hermes senast den\n\n- 2 februari\n- 22 april\n- 24 juli\n- 9 november.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26276:assignments:4"
+  },
+  {
+   "title": "Prognos för beställningsbemyndiganden",
+   "group": [],
+   "text": "Myndigheten för psykologiskt försvar ska redovisa en prognos för de förslag om beställningsbemyndiganden som lämnats i budgetunderlaget och för de åtaganden som ingåtts med stöd av äldre beställningsbemyndiganden. Prognosen ska lämnas senast den 24 juli 2026 via informationssystemet Hermes och utformas enligt närmare anvisning från Ekonomistyrningsverket.",
+   "dates": [
+    "2026-07-24"
+   ],
+   "deadlines": [
+    "2026-07-24"
+   ],
+   "forecast_dates": [],
+   "recipients": [],
+   "partners": [
+    "Ekonomistyrningsverket"
+   ],
+   "channels": [
+    "hermes",
+    "budgetunderlag"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26276:assignments:5"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "2:4",
+   "name": "Krisberedskap",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 6,
+    "name": "Försvar och samhällets krisberedskap"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Myndigheten för psykologiskt försvar",
+     "amount_tkr": 12127,
+     "items": [
+      {
+       "ap": "3",
+       "name": "Krisberedskap - till Myndigheten för psykologiskt försvar (ram)",
+       "amount_tkr": 12127
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "3",
+     "name": "Krisberedskap - till Myndigheten för psykologiskt försvar",
+     "text": "Anslagsposten får användas av Myndigheten för psykologiskt försvar för forskning som rör psykologiskt försvar."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "2:8",
+   "name": "Myndigheten för psykologiskt försvar",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 6,
+    "name": "Försvar och samhällets krisberedskap"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Myndigheten för psykologiskt försvar",
+     "amount_tkr": 174794,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Myndigheten för psykologiskt försvar (ram)",
+       "amount_tkr": 174794
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Myndigheten för psykologiskt försvar",
+     "text": "Anslagsposten får användas för Myndigheten för psykologiskt försvars förvaltningsutgifter. Anslaget får även användas för att lämna stöd till Ukraina."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "2:4 Krisberedskap",
+   "ap": "ap.3",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:8 Myndigheten för psykologiskt försvar",
+   "ap": "ap.1",
+   "Anslagskredit": 4793,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 40000,
+  "Räntekontokredit": 14900
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 13316
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 13316
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 14816
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 14816
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 14816
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 14816
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 14816
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 14816
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 14816
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 14816
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 14816
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 14818
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "2:4 Krisberedskap",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.3",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "2:8 Myndigheten för psykologiskt försvar",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "4 793",
+     "3 %",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Beställningsbemyndiganden",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Bemyndigande",
+     "Utgifter mot anslag till följd av ekonomiska åtaganden",
+     "",
+     "",
+     ""
+    ],
+    [
+     "2026",
+     "2027",
+     "2028",
+     "2029 -",
+     "Slutår"
+    ],
+    [
+     "2:4 Krisberedskap",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.3",
+     "40 000",
+     "12 127",
+     "12 127",
+     "15 746",
+     "2031"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "40 000"
+    ],
+    [
+     "Räntekontokredit",
+     "14 900"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "13 316"
+    ],
+    [
+     "2026-02-25",
+     "13 316"
+    ],
+    [
+     "2026-03-25",
+     "14 816"
+    ],
+    [
+     "2026-04-25",
+     "14 816"
+    ],
+    [
+     "2026-05-25",
+     "14 816"
+    ],
+    [
+     "2026-06-25",
+     "14 816"
+    ],
+    [
+     "2026-07-25",
+     "14 816"
+    ],
+    [
+     "2026-08-25",
+     "14 816"
+    ],
+    [
+     "2026-09-25",
+     "14 816"
+    ],
+    [
+     "2026-10-25",
+     "14 816"
+    ],
+    [
+     "2026-11-25",
+     "14 816"
+    ],
+    [
+     "2026-12-25",
+     "14 818"
+    ],
+    [
+     "Summa",
+     "174 794"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "2:8 ap.1",
+     "Myndigheten för psykologiskt försvar"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [],
+ "has_fee_section": false,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 2,
+  "n_org": 1,
+  "n_assignments": 6,
+  "n_deadlines": 3,
+  "deadlines": [
+   "2026-07-24",
+   "2027-02-22",
+   "2027-02-28"
+  ],
+  "partners": [
+   "Ekonomistyrningsverket",
+   "Myndigheten för civilt försvar"
+  ],
+  "n_appropriations": 2,
+  "appropriations_total_tkr": 186921,
+  "payment_plan_total_tkr": 174794,
+  "md_chars": 9688
+ },
+ "layout": "standard",
+ "warnings": []
+}

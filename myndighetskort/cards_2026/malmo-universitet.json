@@ -1,0 +1,699 @@
+{
+ "schema_version": 1,
+ "id": 26380,
+ "original_rbid": 25828,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-06-11",
+ "year": "2026",
+ "name": "Malmö universitet",
+ "slug": "malmo-universitet",
+ "department": "Utbildningsdepartementet",
+ "expenditure_areas": [
+  16
+ ],
+ "registry_numbers": [
+  "U2026/01202 (delvis)"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1",
+   "2025/26:99"
+  ],
+  "bet": [
+   "2025/26:FiU21",
+   "2025/26:UbU1"
+  ],
+  "rskr": [
+   "2025/26:124",
+   "2025/26:349"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "Gemensamma bestämmelser för universitet och högskolor finns i regleringsbrev för budgetåret 2026 avseende universitet och högskolor.",
+ "goals": [
+  {
+   "title": "Särskilt åtagande",
+   "group": [],
+   "text": "Malmö universitet ska i anslutning till tandläkarutbildningen driva en tandvårdscentral. Av årsredovisningen ska framgå omfattningen av denna verksamhet samt inriktning och total kostnad. I årsredovisningen ska universitetet redovisa totalt antal helårsstudenter på tandläkarutbildningen.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "årsredovisning"
+   ],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26380:goals:0"
+  },
+  {
+   "title": "Rekryteringsmål för professorer",
+   "group": [
+    "Mål"
+   ],
+   "text": "Under 2025–2028 har lärosätet ett mål för könsfördelningen bland nyrekryterade professorer om 53 procent kvinnor.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26380:goals:1"
+  },
+  {
+   "title": "Mål för antal examina",
+   "group": [
+    "Mål"
+   ],
+   "text": "Under 2025–2028 har lärosätet mål om antal utfärdade examina från vissa utbildningar inom nedan angivna områden. Målen och de examina som omfattas av dessa anges i tabellen nedan. Lärosätet ska i årsredovisningen redovisa antalet utfärdade examina inom respektive område de senaste tre åren för de yrkesexamina som anges i tabellen samt vilka åtgärder som har vidtagits för att uppnå målen.\n\n| | |\n| --- | --- |\n| **Område (examina som omfattas av målet inom parentes)** | **Mål för antal utfärdade examina under 2025–2028** |\n| Lärar- och förskollärarutbildningar (förskollärarexamina, grundlärarexamina, speciallärarexamina, specialpedagogexamina, yrkeslärarexamina och ämneslärarexamina) | 3 600 |\n| Hälso- och sjukvårdsutbildningar (biomedicinsk analytikerexamina, sjuksköterskeexamina och specialistsjuksköterskeexamina) | 1 100 |",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "årsredovisning"
+   ],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26380:goals:2"
+  },
+  {
+   "title": "Mål för andel biträdande lektorer",
+   "group": [
+    "Mål"
+   ],
+   "text": "Under 2025–2028 har Malmö universitet ett mål att 5 procent av samtlig forskande och undervisande personal (heltidsekvivalenter) ska vara biträdande lektorer.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26380:goals:3"
+  }
+ ],
+ "org": [],
+ "assignments": [],
+ "appropriations": [
+  {
+   "code": "2:29",
+   "name": "Malmö universitet: Utbildning på grundnivå och avancerad nivå",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 16,
+    "name": "Utbildning och universitetsforskning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Malmö universitet",
+     "amount_tkr": 1148114,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Takbelopp (ram)",
+       "amount_tkr": 1148114
+      },
+      {
+       "ap": "1.1",
+       "name": "Takbelopp (ram)",
+       "amount_tkr": 1148114
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1.1",
+     "name": "Takbelopp",
+     "text": "Anslagsposten får användas för högskoleutbildning på grundnivå och avancerad nivå samt behörighetsgivande och högskoleintroducerande utbildning.\nAnvisningar för avräkning av helårsstudenter och helårsprestationer finns i bilaga till regleringsbrev avseende universitet och högskolor."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "2:30",
+   "name": "Malmö universitet: Forskning och utbildning på forskarnivå",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 16,
+    "name": "Utbildning och universitetsforskning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Malmö universitet",
+     "amount_tkr": 330179,
+     "items": [
+      {
+       "ap": "3",
+       "name": "Basresurs (ram)",
+       "amount_tkr": 330179
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "3",
+     "name": "Basresurs",
+     "text": "Anslagsposten får användas för forskning och utbildning på forskarnivå."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "2:65",
+   "name": "Särskilda medel till universitet och högskolor",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 16,
+    "name": "Utbildning och universitetsforskning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Malmö universitet",
+     "amount_tkr": 133157,
+     "items": [
+      {
+       "ap": "26",
+       "name": "Tandvårdscentral (ram)",
+       "amount_tkr": 88241
+      },
+      {
+       "ap": "57",
+       "name": "Forskningsanknytning av polisutbildningen (ram)",
+       "amount_tkr": 1071
+      },
+      {
+       "ap": "92",
+       "name": "Medel för studenthälsa (ram)",
+       "amount_tkr": 2075
+      },
+      {
+       "ap": "113",
+       "name": "Holdingbolag (ram)",
+       "amount_tkr": 670
+      },
+      {
+       "ap": "117",
+       "name": "Utveckling utbildning krishantering m.m. (ram)",
+       "amount_tkr": 800
+      },
+      {
+       "ap": "119",
+       "name": "Praktiknära forskning (ram)",
+       "amount_tkr": 15800
+      },
+      {
+       "ap": "140",
+       "name": "VFU i tandvårdsutbildningar (ram)",
+       "amount_tkr": 20600
+      },
+      {
+       "ap": "146",
+       "name": "Praktiknära forskarskola vård (ram)",
+       "amount_tkr": 3900
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "26",
+     "name": "Tandvårdscentral",
+     "text": "Anslagsposten får användas för att bedriva en tandvårdscentral."
+    },
+    {
+     "ap": "57",
+     "name": "Forskningsanknytning av polisutbildningen",
+     "text": "Anslagsposten får användas för att stärka forskningsanknytningen av polisutbildningen."
+    },
+    {
+     "ap": "92",
+     "name": "Medel för studenthälsa",
+     "text": "Anslagsposten får användas för att stärka studenthälsan och bl.a. möjliggöra mer preventivt arbete för att minska studenternas psykiska och fysiska ohälsa samt stärka stödet för studieovana studenter. Av medlen avser 900 000 kronor arbete med att särskilt främja psykisk hälsa bland studenter."
+    },
+    {
+     "ap": "113",
+     "name": "Holdingbolag",
+     "text": "Anslagsposten får användas för kapitaltillskott till holdingbolag vid lärosätet för finansiering av verksamhet som syftar till att främja kommersialisering av forskningsresultat och innovationer.\nMalmö universitet bemyndigas att under 2026 utbetala ett kapitaltillskott på högst 670 000 kronor till holdingbolaget som är knutet till universitetet. Kapitaltillskottet får lämnas i enlighet med förordningen (2025:727) om statligt stöd för innovationsverksamhet inom holdingbolag vid universitet och högskolor."
+    },
+    {
+     "ap": "117",
+     "name": "Utveckling utbildning krishantering m.m.",
+     "text": "Anslagsposten får användas för arbete med att i samarbete med Försvarshögskolan och Umeå universitet ta fram utbildning inom bl.a. ledarskap, konflikt- och krishantering som ska kunna användas inom lärar- och förskollärarutbildningarna. Arbetet ska redovisas i årsredovisningen."
+    },
+    {
+     "ap": "119",
+     "name": "Praktiknära forskning",
+     "text": "*Praktiknära forskning*\nAnslagsposten får användas för praktiknära forskning i syfte att bidra till en stärkt vetenskaplig grund i lärar- och förskollärarutbildningen och i skolväsendet. Verksamheten ska utformas och genomföras i samverkan mellan ansvariga universitet, deltagande universitet och högskolor och skolhuvudmän. Varje universitet och högskola ska samverka med flera skolhuvudmän. Det ska finnas en variation bland skolhuvudmännen med avseende på t.ex. storlek, geografiskt läge, skolform och årskurser. Forskningen som bedrivs i samverkan mellan universitet, högskolor och skolhuvudmän ska vara verksamhetsrelevant och generera forskningsresultat av hög kvalitet. Lärare och förskollärare ska ges möjlighet att medverka i planering och genomförande av forskningen.\n*Kartläggning av små ämnen*\nUniversitetet ska stödja och samordna en kartläggning av lärosäten med lärarutbildningar inom en region, där samverkan kan ske både inom och utanför regionen. Av kartläggningen ska framgå de undervisningsämnen eller ämnesområden för vilka det finns en stor risk att dessa inte kan anordnas till följd av ett minskat antal studenter i och med de skärpta tillträdeskraven till vissa lärarutbildningar som införs höstterminen 2027. Vidare ska det i kartläggningen ingå att inventera vilket behov av stöd som finns för dessa små ämnen. Av anslagsposten avser 200 000 kronor under 2026 detta arbete.\nUniversitetet ska senast den 15 oktober 2026 redovisa lärosätets bedömning av behovet av stöd för små ämnen och beräknade kostnader uppdelat per ämnesområde till Regeringskansliet (Utbildningsdepartementet) med kopia till Universitetskanslersämbetet. Redovisningen kan samordnas med redovisningen av utbildningssamarbeten inom lärarutbildningen som framgår av regleringsbrev för budgetåret 2026 avseende anslag 2:64 inom utgiftsområde 16 Utbildning och universitetsforskning, ap. 16."
+    },
+    {
+     "ap": "140",
+     "name": "VFU i tandvårdsutbildningar",
+     "text": "Anslagsposten får användas för ersättning för kostnader för verksamhetsförlagd utbildning (VFU) inom tandläkarutbildning och tandhygienistutbildning i syfte att stärka tillgången till VFU. Av medlen avser 17 800 000 kronor tandläkarutbildning, 1 300 000 kronor tandhygienistutbildning och 1 500 000 kronor tandteknikerutbildning.\nUniversitetet ska i årsredovisningen för 2026 beskriva arbetet för att stärka tillgången till VFU samt eventuella samarbeten med regioner eller privata tandvårdskliniker som ingåtts eller planeras."
+    },
+    {
+     "ap": "146",
+     "name": "Praktiknära forskarskola vård",
+     "text": "Anslagsposten får användas för praktiknära forskarskola.\nMalmö universitet ska samordna en praktiknära forskarskola för sjuksköterskor och specialistsjuksköterskor tillsamman med Lunds universitet, Linnéuniversitetet, Blekinge tekniska högskola och Högskolan Kristianstad. Syftet med forskarskolan är att höja kvaliteten och forskningsanknytningen i utbildningarna genom fler disputerade lärare liksom fler mer kvalificerade handledare inom den verksamhetsförlagda utbildningen (VFU). Universitetet ska redovisa arbetet med forskarskolan i årsredovisningen. Av redovisningen ska framgå inriktning på forskarskolan, hur många doktorander som har antagits och deltagit och samarbete med t.ex. regioner, kommuner och privata vårdgivare. Av redovisningen ska det även framgå inriktning för planerat arbete under kommande år och hur universitetet i arbetet med forskarskolan samverkat med arbetet för att stärka samordningen av VFU-platser."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "113",
+     "max": 670000,
+     "unit": "kronor"
+    }
+   ]
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "2:29 Malmö universitet: Utbildning på grundnivå och avancerad nivå",
+   "ap": "ap.1.1",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "10 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:30 Malmö universitet: Forskning och utbildning på forskarnivå",
+   "ap": "ap.3",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Allt",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.26",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.57",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.92",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.113",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.117",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.119",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.140",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.146",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 390000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 132246
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 132246
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 132246
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 132246
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 132246
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 132246
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 136329
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 136329
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 136329
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 136329
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 136329
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 136329
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "2:29 Malmö universitet: Utbildning på grundnivå och avancerad nivå",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1.1",
+     "0",
+     "10 %",
+     "0"
+    ],
+    [
+     "2:30 Malmö universitet: Forskning och utbildning på forskarnivå",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.3",
+     "0",
+     "Allt",
+     "0"
+    ],
+    [
+     "2:65 Särskilda medel till universitet och högskolor",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.26",
+     "0",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.57",
+     "0",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.92",
+     "0",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.113",
+     "0",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.117",
+     "0",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.119",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.140",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.146",
+     "0",
+     "Inget",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Omfördelning av anslagssparande",
+   "rows": [
+    [
+     "Omfördelning från anslag/ap1",
+     "Omfördelning till anslag/ap2",
+     "Belopp (tkr)",
+     "Belopp andel (%)"
+    ],
+    [
+     "2:29 Malmö universitet: Utbildning på grundnivå och avancerad nivå",
+     "",
+     "",
+     ""
+    ],
+    [
+     "2:29 ap.1.2",
+     "2:29 ap.1.1",
+     "100 %"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Avslutade anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagstyp"
+    ],
+    [
+     "2:29 Malmö universitet: Utbildning på grundnivå och avancerad nivå",
+     ""
+    ],
+    [
+     "ap.1.2",
+     "ram"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "390 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "132 246"
+    ],
+    [
+     "2026-02-25",
+     "132 246"
+    ],
+    [
+     "2026-03-25",
+     "132 246"
+    ],
+    [
+     "2026-04-25",
+     "132 246"
+    ],
+    [
+     "2026-05-25",
+     "132 246"
+    ],
+    [
+     "2026-06-25",
+     "132 246"
+    ],
+    [
+     "2026-07-25",
+     "136 329"
+    ],
+    [
+     "2026-08-25",
+     "136 329"
+    ],
+    [
+     "2026-09-25",
+     "136 329"
+    ],
+    [
+     "2026-10-25",
+     "136 329"
+    ],
+    [
+     "2026-11-25",
+     "136 329"
+    ],
+    [
+     "2026-12-25",
+     "136 329"
+    ],
+    [
+     "Summa",
+     "1 611 450"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "2:29 ap.1.1",
+     "Takbelopp"
+    ],
+    [
+     "2:30 ap.3",
+     "Basresurs"
+    ],
+    [
+     "2:65 ap.26",
+     "Tandvårdscentral"
+    ],
+    [
+     "2:65 ap.57",
+     "Forskningsanknytning av polisutbildningen"
+    ],
+    [
+     "2:65 ap.92",
+     "Medel för studenthälsa"
+    ],
+    [
+     "2:65 ap.113",
+     "Holdingbolag"
+    ],
+    [
+     "2:65 ap.117",
+     "Utveckling utbildning krishantering m.m."
+    ],
+    [
+     "2:65 ap.119",
+     "Praktiknära forskning"
+    ],
+    [
+     "2:65 ap.140",
+     "VFU i tandvårdsutbildningar"
+    ],
+    [
+     "2:65 ap.146",
+     "Praktiknära forskarskola vård"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [],
+ "has_fee_section": true,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 4,
+  "n_org": 0,
+  "n_assignments": 0,
+  "n_deadlines": 0,
+  "deadlines": [],
+  "partners": [],
+  "n_appropriations": 3,
+  "appropriations_total_tkr": 1611450,
+  "payment_plan_total_tkr": 1611450,
+  "md_chars": 12482
+ },
+ "layout": "standard",
+ "warnings": []
+}

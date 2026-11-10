@@ -1,0 +1,746 @@
+{
+ "schema_version": 1,
+ "id": 26326,
+ "original_rbid": 25692,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-06-11",
+ "year": "2026",
+ "name": "Statens institutionsstyrelse",
+ "slug": "statens-institutionsstyrelse",
+ "department": "Socialdepartementet",
+ "expenditure_areas": [
+  9
+ ],
+ "registry_numbers": [
+  "S2026/01224"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1",
+   "2025/26:99"
+  ],
+  "bet": [
+   "2025/26:FiU21",
+   "2025/26:SoU1"
+  ],
+  "rskr": [
+   "2025/26:114",
+   "2025/26:348"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "",
+ "goals": [
+  {
+   "title": "Kapacitet och vårdkvalitet",
+   "group": [],
+   "text": "Statens institutionsstyrelse ska redovisa vidtagna åtgärder och resultat utifrån årets anslagsförstärkning som syftar till att stärka förutsättningarna för att myndigheten ska klara uppdraget att bedriva en god vård, anvisa plats omedelbart, förbättra boendemiljön och föryngra och anpassa lokalerna.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26326:goals:0"
+  },
+  {
+   "title": "Trygghet och arbetet mot sexuella övergrepp",
+   "group": [],
+   "text": "Statens institutionsstyrelse ska redovisa, analysera och bedöma resultatet av de åtgärder som har vidtagits för att tillgodose behovet av en trygg miljö för de som vårdas samt för personalen vid myndigheten. Inom ramen för detta ska myndigheten särskilt redovisa, analysera och bedöma resultatet av de åtgärder som har vidtagits i syfte att förebygga och motverka sexuella övergrepp och otillbörliga relationer vid myndigheten.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26326:goals:1"
+  },
+  {
+   "title": "Förbättrade möjligheter till digitala förhandlingar",
+   "group": [],
+   "text": "Statens institutionsstyrelse ska redovisa hur de, inom ramen för myndighetens ansvarsområde, har arbetat för att öka möjligheten att genomföra digitala förhandlingar. Redovisningen ska också omfatta en beskrivning av samarbetet med Domstolsverket i frågan.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Domstolsverket"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26326:goals:2"
+  },
+  {
+   "title": "Öka förmågan att använda AI och ny teknik genom datadrivet arbete",
+   "group": [],
+   "text": "Statens institutionsstyrelse ska redovisa i vilken utsträckning de arbetar datadrivet samt vilka åtgärder de vidtagit för att förbättra sin förmåga att arbeta datadrivet.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "statistik_data",
+    "digitalisering_ai"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26326:goals:3"
+  }
+ ],
+ "org": [],
+ "assignments": [
+  {
+   "title": null,
+   "group": [],
+   "text": "De regeringsuppdrag som tas upp i regleringsbrevet kan enligt särskild överenskommelse mellan Socialdepartementet och Statens institutionsstyrelse rapporteras vid annan tidpunkt än vad som anges nedan, dock ej senare än två veckor efter den angivna tidpunkten.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26326:assignments:0"
+  },
+  {
+   "title": "Prognoser",
+   "group": [],
+   "text": "Myndigheten ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Prognoserna lämnas i informationssystemet Hermes senast den:\n\n2 februari,\n\n22 april,\n\n24 juli,\n\n9 november.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26326:assignments:1"
+  },
+  {
+   "title": "Förbättrad vård för barn och unga som utsatts för bl.a. sexuellt våld",
+   "group": [],
+   "text": "Statens institutionsstyrelse ska stärka och anpassa vården för barn och unga som utsatts för våld i nära relationer, hedersrelaterat våld och förtryck, sexuellt våld och sexuell exploatering, inklusive sexuellt utnyttjande i pornografiska syften. I uppdraget ingår att analysera riskerna och förebygga att barn och unga utsätts för sexuellt våld, sexuell exploatering eller prostitution och människohandel för alla ändamål. Uppdraget omfattar även arbete med att förebygga förekomst av sådan våldsutsatthet i myndighetens egen verksamhet. I genomförandet av uppdraget ska SiS inhämta kunskap från relevanta myndigheter, t.ex. Socialstyrelsen och Statens beredning för social- och medicinsk utvärdering (SBU). Uppdraget ska redovisas till Regeringskansliet (Socialdepartementet) senast den 24 mars 2029. För uppdraget får myndigheten under 2026 använda 2 500 000 kronor som ska redovisas mot det under utgiftsområde 13 Integration och jämställdhet för budgetåret 2026 uppförda anslaget 3:1 Särskilda jämställdhetsåtgärder, anslagsposten 12 Jämställdhetsinsatser efter regeringsbeslut. Medlen betalas ut engångsvis efter rekvisition till Kammarkollegiet senast den 1 december 2026. Medel som inte har använts för avsett ändamål ska återbetalas senast den 31 mars 2027 till Kammarkollegiet. Vid samma tidpunkt ska en ekonomisk redovisning av använda medel lämnas till Kammarkollegiet. Rekvisition, återbetalning och redovisning av medel ska hänvisa till regleringsbrevet för budgetåret 2026 avseende Statens institutionsstyrelse.",
+   "dates": [
+    "2026-12-01",
+    "2027-03-31",
+    "2029-03-24"
+   ],
+   "deadlines": [
+    "2026-12-01",
+    "2027-03-31",
+    "2029-03-24"
+   ],
+   "recipients": [
+    "Kammarkollegiet",
+    "Regeringskansliet (Socialdepartementet)"
+   ],
+   "partners": [
+    "Kammarkollegiet",
+    "Socialstyrelsen"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla"
+   ],
+   "anslag_refs": [
+    "3:1"
+   ],
+   "expenditure_area_refs": [
+    13
+   ],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26326:assignments:2"
+  },
+  {
+   "title": "Uppdrag att vidta åtgärder för att nya särskilda ungdomshem ska kunna inrättas",
+   "group": [],
+   "text": "Statens institutionsstyrelse har fått i uppdrag att vidta de åtgärder som krävs för att öka antalet platser på de särskilda ungdomshemmen (S2025/00421). Uppdraget ska fortsätta under 2026 och redovisas till Regeringskansliet (Socialdepartementet) senast den 10 april 2027.",
+   "dates": [
+    "2027-04-10"
+   ],
+   "deadlines": [
+    "2027-04-10"
+   ],
+   "recipients": [
+    "Regeringskansliet (Socialdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26326:assignments:3"
+  },
+  {
+   "title": "Andlig vård",
+   "group": [],
+   "text": "Statens institutionsstyrelse ska se över behovet av, och de nu gällande förutsättningarna för, andlig vård för barn, unga och klienter som vårdas på de särskilda ungdomshemmen och LVM-hemmen. I genomförandet av uppdraget ska SiS samråda med Kriminalvården samt föra dialog med Sveriges kristna råd och Svenska kyrkan. Inom ramen för uppdraget ska Statens institutionsstyrelse även ta hänsyn till och motverka risk för radikalisering. Uppdraget ska redovisas till Regeringskansliet (Socialdepartementet) senast den 18 december 2026.",
+   "dates": [
+    "2026-12-18"
+   ],
+   "deadlines": [
+    "2026-12-18"
+   ],
+   "recipients": [
+    "Regeringskansliet (Socialdepartementet)"
+   ],
+   "partners": [
+    "Kriminalvården"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26326:assignments:4"
+  },
+  {
+   "title": "Uppdrag att förbättra SiS-placerade barns skolresultat",
+   "group": [],
+   "text": "En hög närvaro och fullföljd skolgång är en av de viktigaste insatser som kan ges ett barn. Detta gäller inte minst ett placerat barn. Statens institutionsstyrelse ska därför kartlägga placerade barns och ungas skolnärvaro, både på lokal verksamhets- och nationell nivå. Vidare ska myndigheten redogöra för vilka åtgärder den vidtagit för att minska ogiltig skolfrånvaro. Detta ska redovisas till regeringen, tillsammans med förslag på åtgärder för att öka skolnärvaron i verksamheter där brister finns. Uppdraget ska redovisas till Regeringskansliet (Socialdepartementet) senast den 18 december 2026.",
+   "dates": [
+    "2026-12-18"
+   ],
+   "deadlines": [
+    "2026-12-18"
+   ],
+   "recipients": [
+    "Regeringskansliet (Socialdepartementet)",
+    "regeringen"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26326:assignments:5"
+  },
+  {
+   "title": "Pågående uppdrag",
+   "group": [],
+   "text": "| | | |\n| --- | --- | --- |\n| | **Uppdrag givet i** | **Avrapporteringstidpunkt** |\n| Ändring av uppdraget till Statens institutionsstyrelse gällande elektronisk övervakning | S2025/01926 (S2025/01372) | Delredovisas senast den 16 januari 2026, slutredovisas senast den 25 maj 2026 |\n| Uppdrag till Statens institutionsstyrelse att vidta åtgärder för att nya särskilda ungdomshem ska kunna inrättas | S2025/00421 | Redovisas senast den 23 januari 2026 |\n| Samverkansuppdrag för att frigöra fler platser | Regleringsbrevet för 2024 | Redovisas senast den 7 maj 2026 |\n| Uppdrag om ökad tillgänglighet för att stärka barns möjligheter att utkräva sina rättigheter | Regleringsbrevet för 2025 | Redovisas senast den 28 februari 2026 |\n| Uppdrag om ett nationellt sammanhållet stöd till arbetet med avhoppare | Ju2025/01696 | Delredovisas årligen senast den 1 mars, slutredovisas senast den 1 mars 2028 |\n| Myndighetsgemensamt uppdrag att stärka och främja sexuell och reproduktiv hälsa och rättigheter | A2024/01236 | Delredovisas årligen av Folkhälsomyndigheten senast den 31 mars, slutredovisas senast den 31 mars 2028 |\n| Uppdrag till Statens institutionsstyrelse att förbereda utmönstringen av påföljden sluten ungdomsvård | S2025/00164 | Redovisas senast den 1 april 2026 |\n| Förstärkt säkerhetsarbete | Regleringsbrevet för 2025 | Redovisas senast den 17 april 2026 |\n| Uppdrag att fortsätta utveckla stödet till arbetet med barn och unga som riskerar att begå eller begår grova brott med koppling till organiserad brottslighet | Ju2025/00846 | Redovisas senast den 29 april 2026 |\n| Uppdrag att stödja genomförandet av ANDTS-strategin | S2021/03343 | Redovisas av Folkhälsomyndigheten senast den 1 maj 2026 |\n| Uppföljning av nya särskilda befogenheter | Regleringsbrevet för 2024 | Redovisas senast den 7 maj 2026. |\n| Uppdrag att ta fram en myndighetsgemensam nationell plan för en bättre beroendevård och ett stärkt förebyggande arbete | S2025/01284 | Redovisas av Folkhälsomyndigheten och Socialstyrelsen senast den 1 juni 2026 |\n| Uppdrag att genomföra ett utvecklingsarbete för att förbättra vården för barn och unga som vårdas på SiS och som har stora behov av psykiatrisk vård | S2024/02037 | Delredovisas årligen senast den 30 september, slutredovisas senast den 30 november 2028 |\n| Uppdrag om förbättrad tillgång till hälso- och sjukvård och tandvård för barn och unga som vårdas på SiS | S2025/01324 | Delredovisas årligen senast den 30 september, slutredovisas senast den 30 november 2028 |\n| Uppdrag att samordna, stödja och följa upp genomförandet av den nationella strategin inom området psykisk hälsa och suicidprevention | S2025/00016 | Delredovisas av Folkhälsomyndigheten och Socialstyrelsen årligen senast den 19 december, slutredovisas senast den 19 december 2028 |\n\n*För regeringsuppdrag som lämnats i ett särskilt regeringsbeslut utgör tabellen/uppräkningen/bilagan endast en upplysning om vilka uppdrag som vid årets början var riktade till myndigheten och vilka tider som då gällde för återrapportering eller liknande.*",
+   "dates": [
+    "2026-01-16",
+    "2026-01-23",
+    "2026-02-28",
+    "2026-04-01",
+    "2026-04-17",
+    "2026-04-29",
+    "2026-05-01",
+    "2026-05-07",
+    "2026-05-25",
+    "2026-06-01",
+    "2028-03-01",
+    "2028-03-31",
+    "2028-11-30",
+    "2028-12-19"
+   ],
+   "deadlines": [
+    "2026-01-16",
+    "2026-01-23",
+    "2026-02-28",
+    "2026-04-01",
+    "2026-04-17",
+    "2026-04-29",
+    "2026-05-01",
+    "2026-05-07",
+    "2026-05-25",
+    "2026-06-01",
+    "2028-03-01",
+    "2028-03-31",
+    "2028-11-30",
+    "2028-12-19"
+   ],
+   "recipients": [],
+   "partners": [
+    "Folkhälsomyndigheten",
+    "Socialstyrelsen"
+   ],
+   "channels": [
+    "delredovisning",
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "26326:assignments:6"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "4:6",
+   "name": "Statens institutionsstyrelse",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 9,
+    "name": "Hälsovård, sjukvård och social omsorg"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Statens institutionsstyrelse",
+     "amount_tkr": 3095246,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Statens institutionsstyrelse (ram)",
+       "amount_tkr": 1650934
+      },
+      {
+       "ap": "2",
+       "name": "Statens institutionsstyrelse - sluten ungdomsvård (ram)",
+       "amount_tkr": 1209312
+      },
+      {
+       "ap": "4",
+       "name": "Särskild satsning på platskapacitet (ram)",
+       "amount_tkr": 200000
+      },
+      {
+       "ap": "3",
+       "name": "Elektronisk övervakning (ram)",
+       "amount_tkr": 35000
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Statens institutionsstyrelse",
+     "text": "Medlen får användas för Statens institutionsstyrelses förvaltningsutgifter. Medlen får även användas för att initiera och stödja forsknings- och utvecklingsverksamhet inom myndighetens verksamhetsområde.\n10 000 000 kronor får användas för arbete inom ramen för den samverkansstruktur för ett sammanhållet arbete med barn och unga som riskerar att begå eller begår grova brott,det s.k. BoB-uppdraget (Ju2025/00846)."
+    },
+    {
+     "ap": "2",
+     "name": "Statens institutionsstyrelse - sluten ungdomsvård",
+     "text": "Anslaget får användas för Statens institutionsstyrelses utgifter för sluten ungdomsvård."
+    },
+    {
+     "ap": "3",
+     "name": "Elektronisk övervakning",
+     "text": "Medlen får användas för Statens institutionsstyrelses utgifter för arbetet med elektronisk övervakning utifrån den föreslagna lagen om insatser inom socialtjänsten när samtycke saknas (S2026/00791, S2026/00955)."
+    },
+    {
+     "ap": "4",
+     "name": "Särskild satsning på platskapacitet",
+     "text": "Medlen får användas för kostnader kopplade till det fortsatta uppdraget om att vidta åtgärder för att nya särskilda ungdomshem ska kunna inrättas."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "4:6 Statens institutionsstyrelse",
+   "ap": "ap.1",
+   "Anslagskredit": 49530,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "4:6 Statens institutionsstyrelse",
+   "ap": "ap.2",
+   "Anslagskredit": 36277,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "4:6 Statens institutionsstyrelse",
+   "ap": "ap.3",
+   "Anslagskredit": 1050,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "4:6 Statens institutionsstyrelse",
+   "ap": "ap.4",
+   "Anslagskredit": 6000,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 230000,
+  "Räntekontokredit": 400000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 255021
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 255021
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 255021
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 255021
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 255021
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 260021
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 260021
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 260021
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 260021
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 260021
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 260021
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 260015
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "4:6 Statens institutionsstyrelse",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "49 530",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.2",
+     "36 277",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.3",
+     "1 050",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.4",
+     "6 000",
+     "3 %",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "230 000"
+    ],
+    [
+     "Räntekontokredit",
+     "400 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "255 021"
+    ],
+    [
+     "2026-02-25",
+     "255 021"
+    ],
+    [
+     "2026-03-25",
+     "255 021"
+    ],
+    [
+     "2026-04-25",
+     "255 021"
+    ],
+    [
+     "2026-05-25",
+     "255 021"
+    ],
+    [
+     "2026-06-25",
+     "260 021"
+    ],
+    [
+     "2026-07-25",
+     "260 021"
+    ],
+    [
+     "2026-08-25",
+     "260 021"
+    ],
+    [
+     "2026-09-25",
+     "260 021"
+    ],
+    [
+     "2026-10-25",
+     "260 021"
+    ],
+    [
+     "2026-11-25",
+     "260 021"
+    ],
+    [
+     "2026-12-25",
+     "260 015"
+    ],
+    [
+     "Summa",
+     "3 095 246"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "4:6 ap.1",
+     "Statens institutionsstyrelse"
+    ],
+    [
+     "4:6 ap.2",
+     "Statens institutionsstyrelse - sluten ungdomsvård"
+    ],
+    [
+     "4:6 ap.3",
+     "Elektronisk övervakning"
+    ],
+    [
+     "4:6 ap.4",
+     "Särskild satsning på platskapacitet"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Avgiftsbelagd verksamhet där intäkterna disponeras",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Missbruksvård2",
+     "-415 200",
+     "-100 000",
+     "695 400",
+     "695 400",
+     "0",
+     "-515 200"
+    ],
+    [
+     "Ungdomsvård2",
+     "95 000",
+     "130 000",
+     "2 337 000",
+     "2 337 000",
+     "0",
+     "225 000"
+    ],
+    [
+     "Summa",
+     "-320 200",
+     "30 000",
+     "3 032 400",
+     "3 032 400",
+     "0",
+     "-290 200"
+    ]
+   ]
+  }
+ ],
+ "has_fee_section": true,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 4,
+  "n_org": 0,
+  "n_assignments": 7,
+  "n_deadlines": 19,
+  "deadlines": [
+   "2026-01-16",
+   "2026-01-23",
+   "2026-02-28",
+   "2026-04-01",
+   "2026-04-17",
+   "2026-04-29",
+   "2026-05-01",
+   "2026-05-07",
+   "2026-05-25",
+   "2026-06-01",
+   "2026-12-01",
+   "2026-12-18",
+   "2027-03-31",
+   "2027-04-10",
+   "2028-03-01",
+   "2028-03-31",
+   "2028-11-30",
+   "2028-12-19",
+   "2029-03-24"
+  ],
+  "partners": [
+   "Domstolsverket",
+   "Folkhälsomyndigheten",
+   "Kammarkollegiet",
+   "Kriminalvården",
+   "Socialstyrelsen"
+  ],
+  "n_appropriations": 1,
+  "appropriations_total_tkr": 3095246,
+  "payment_plan_total_tkr": 3095246,
+  "md_chars": 13874
+ },
+ "layout": "standard",
+ "warnings": []
+}

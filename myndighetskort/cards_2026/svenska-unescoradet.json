@@ -1,0 +1,202 @@
+{
+ "schema_version": 1,
+ "id": 26038,
+ "original_rbid": 26038,
+ "type": "Regleringsbrev",
+ "category": "Myndighet",
+ "date": "2025-12-18",
+ "year": "2026",
+ "name": "Svenska Unescorådet",
+ "slug": "svenska-unescoradet",
+ "department": "Utbildningsdepartementet",
+ "expenditure_areas": [
+  16
+ ],
+ "registry_numbers": [
+  "U2025/02412 (delvis)"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1"
+  ],
+  "bet": [
+   "2025/26:UbU1"
+  ],
+  "rskr": [
+   "2025/26:124"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "",
+ "goals": [
+  {
+   "title": "Mål",
+   "group": [],
+   "text": "Svenska Unescorådets uppdrag framgår av kommittédirektiv till Svenska Unescorådet (dir. 2013:123 och dir. 2025:108).\n\nÅterrapportering:\nSvenska Unescorådet ska senast den 31 mars 2027 till Regeringskansliet (Utbildningsdepartementet) lämna en redogörelse för hur verksamheten har bedrivits under 2026.",
+   "dates": [
+    "2027-03-31"
+   ],
+   "deadlines": [
+    "2027-03-31"
+   ],
+   "recipients": [
+    "Regeringskansliet (Utbildningsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26038:goals:0"
+  }
+ ],
+ "org": [],
+ "assignments": [],
+ "appropriations": [
+  {
+   "code": "4:2",
+   "name": "Avgift till Unesco och ICCROM",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 16,
+    "name": "Utbildning och universitetsforskning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Kammarkollegiet",
+     "amount_tkr": 32186,
+     "items": [
+      {
+       "ap": "2",
+       "name": "Avgifter och bidrag till internationella organisationer (ram)",
+       "amount_tkr": 32186
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "2",
+     "name": "Avgifter och bidrag till internationella organisationer",
+     "text": "Anslagsposten får användas för utgifter för Sveriges medlemsavgift i Unesco. Anslagsposten får även användas för avgifter och bidrag för Internationella centret för bevarande och restaurering av kulturföremål (ICCROM) samt avgifter för och bidrag till de Unescokonventioner som Sverige har ratificerat. Bidraget till den internationella fonden för kulturell mångfald (IFCD) som är kopplad till konventionen om skydd för och främjande av mångfalden av kulturyttringar ska motsvara 1,071 procent av Sveriges medlemsavgift till Unesco.\nMedel på anslagsposten får utbetalas efter godkännande av Svenska Unescorådets generalsekreterare."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "4:3",
+   "name": "Kostnader för Svenska Unescorådet",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 16,
+    "name": "Utbildning och universitetsforskning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Regeringskansliet/Utbildningsdepartementet",
+     "amount_tkr": 11906,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Svenska Unescorådet (ram)",
+       "amount_tkr": 11906
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Svenska Unescorådet",
+     "text": "Medlen får disponeras av Regeringskansliet (Utbildningsdepartementet).\nAnslagsposten får användas för utgifter för utrednings-, informations- och programverksamhet inklusive expertstöd samt bevakning och genomförande av Unescos verksamhet. Anslagsposten får användas för anställda i kommittén, möten och resor. Från anslagsposten ska även arvoden till kommitténs ledamöter, inklusive ordförande och vice ordförande samt andra av Unescorådet utsedda experter, utbetalas.\nExterna medel från Unesco och andra organisationer för ändamål som avser Svenska Unescorådets utrednings- och programverksamhet ska i förekommande fall tillföras denna anslagspost.\nAnvändningen av medlen under anslagsposten beslutas av Svenska Unescorådets generalsekreterare."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "4:2 Avgift till Unesco och ICCROM",
+   "ap": "ap.2",
+   "Anslagskredit": 1609,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "4:3 Kostnader för Svenska Unescorådet",
+   "ap": "ap.1",
+   "Anslagskredit": 357,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {},
+ "payment_plan": [],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "4:2 Avgift till Unesco och ICCROM",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.2",
+     "1 609",
+     "Inget",
+     "0"
+    ],
+    [
+     "4:3 Kostnader för Svenska Unescorådet",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "357",
+     "3 %",
+     "0"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [],
+ "has_fee_section": false,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 1,
+  "n_org": 0,
+  "n_assignments": 0,
+  "n_deadlines": 1,
+  "deadlines": [
+   "2027-03-31"
+  ],
+  "partners": [],
+  "n_appropriations": 2,
+  "appropriations_total_tkr": 44092,
+  "payment_plan_total_tkr": 0,
+  "md_chars": 4457
+ },
+ "layout": "standard",
+ "warnings": []
+}

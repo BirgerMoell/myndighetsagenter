@@ -1,0 +1,580 @@
+{
+ "schema_version": 1,
+ "id": 27480,
+ "original_rbid": 26011,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-06-25",
+ "year": "2026",
+ "name": "Kronofogdemyndigheten",
+ "slug": "kronofogdemyndigheten",
+ "department": "Finansdepartementet",
+ "expenditure_areas": [
+  3
+ ],
+ "registry_numbers": [
+  "Fi2026/01604"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1",
+   "2025/26:99"
+  ],
+  "bet": [
+   "2025/26:FiU21",
+   "2025/26:SkU1"
+  ],
+  "rskr": [
+   "2025/26:354",
+   "2025/26:97"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "Kronofogdemyndigheten ska bidra till att säkerställa finansieringen av den offentliga sektorn och bidra till ett väl fungerande samhälle för allmänhet och företag samt motverka brottslighet.\n\nAllmänhet och företag ska ha förtroende för Kronofogdemyndighetens verksamhet och alla ska ges samma möjligheter och villkor vid kontakter med myndigheten.\n\nKronofogdemyndighetens uppgifter framgår av ett flertal författningar, bland annat utsökningsbalken och förordningen (2016:1333) med instruktion för Kronofogdemyndigheten.",
+ "goals": [
+  {
+   "title": "Verksamhetsutveckling",
+   "group": [],
+   "text": "Kronofogdemyndigheten ska redovisa de viktigaste verksamhets- och it-utvecklingsinsatserna som har genomförts under året. Redovisningen ska göras utifrån förväntad nytta, påverkan på myndighetens sätt att utföra sina uppgifter och när effekten förväntas uppstå. Vidare ska myndigheten redovisa vilka större framtida utmaningar som har identifierats, men där något utvecklingsarbete ännu inte har inletts. Kronofogdemyndigheten ska även redovisa de effekter som har uppkommit under året som härrör från verksamhetsutveckling som genomförts under året eller tidigare.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "digitalisering_ai"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27480:goals:0"
+  },
+  {
+   "title": "Förstärkt arbete mot den kriminella ekonomin",
+   "group": [],
+   "text": "En målbild för hur Skatteverket, Tullverket och Kronofogdemyndigheten ska stärka insatserna för att motverka den kriminella ekonomin presenterades i augusti 2023. Kronofogdemyndigheten ska redovisa resultatet av genomförda åtgärder och analysera utvecklingen jämfört med september 2023.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Skatteverket",
+    "Tullverket"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27480:goals:1"
+  },
+  {
+   "title": "Sanktioner",
+   "group": [],
+   "text": "Kronofogdemyndigheten ska redovisa vilka förebyggande åtgärder myndigheten har vidtagit, enskilt och i samverkan med andra myndigheter, för att främja efterlevnaden av EU:s sanktionsförordningar och den svenska sanktionslagstiftningen.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27480:goals:2"
+  },
+  {
+   "title": "Generella redovisningskrav",
+   "group": [],
+   "text": "Kronofogdemyndighetens analyser ska utgå ifrån för verksamheten relevanta faktorer. Myndigheten ska i relevanta delar använda och redovisa individbaserad statistik med ålder som indelningsgrund och 10-åriga tidsserier. En sammanställning över de indikatorer som används ska redovisas i en bilaga.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "statistik_data"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27480:goals:3"
+  }
+ ],
+ "org": [],
+ "assignments": [
+  {
+   "title": "Utgiftsprognoser",
+   "group": [],
+   "text": "Kronofogdemyndigheten ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Av prognoskommentarerna ska det framgå vilka antaganden som har använts, vilka osäkerhetsfaktorer som finns samt eventuella förändringar som rör finansiering, kostnader och verksamhet. Vid väsentliga prognosavvikelser ska myndigheten ange orsaker till dessa samt vilka åtgärder som har vidtagits eller som planeras för att verksamheten ska bedrivas inom tillgängliga ekonomiska ramar. Prognoserna lämnas i informationssystemet Hermes senast den\n\n2 februari\\\n22 april\\\n24 juli\\\n9 november",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27480:assignments:0"
+  },
+  {
+   "title": "Pågående uppdrag",
+   "group": [],
+   "text": "Pågående uppdrag till Kronofogdemyndigheten framgår av bilaga 1. För regeringsuppdrag som lämnats i ett särskilt regeringsbeslut utgör bilagan endast en upplysning om vilka uppdrag som vid årets början var riktade till myndigheten och vilka tider som då gällde för återrapportering eller liknande.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "27480:assignments:1"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "1:3",
+   "name": "Kronofogdemyndigheten",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 3,
+    "name": "Skatt, tull och exekution"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Kronofogdemyndigheten",
+     "amount_tkr": 2538296,
+     "items": [
+      {
+       "ap": "2",
+       "name": "Kronofogdemynd - del till KFM (ram)",
+       "amount_tkr": 2538296
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "2",
+     "name": "Kronofogdemynd - del till KFM",
+     "text": "1. Anslagsposten får användas för Kronofogdemyndighetens förvaltningsutgifter.\n2. Från anslagsposten får högst 3 000 000 kronor utbetalas för stöd till forskning inom Kronofogdemyndighetens verksamhetsområde. Utbetalda medel ska särredovisas i årsredovisningen."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "2",
+     "max": 3000000,
+     "unit": "kronor"
+    }
+   ]
+  },
+  {
+   "code": "1:4",
+   "name": "Kostnader som betalas av staten i konkurser",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 3,
+    "name": "Skatt, tull och exekution"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Kronofogdemyndigheten",
+     "amount_tkr": 167000,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Kostnader som betalas av staten i konkurser (ram)",
+       "amount_tkr": 167000
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Kostnader som betalas av staten i konkurser",
+     "text": "Anslaget får användas för utgifter för förvaltararvoden och andra kostnader som ska betalas av staten i konkurser enligt konkurslagen (1987:672)."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "1:3 Kronofogdemyndigheten",
+   "ap": "ap.2",
+   "Anslagskredit": 76148,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:4 Kostnader som betalas av staten i konkurser",
+   "ap": "ap.1",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 600000,
+  "Räntekontokredit": 115000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 211525
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 211525
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 211525
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 211525
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 211525
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 211525
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 211525
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 211525
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 211525
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 211525
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 211525
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 211521
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:3 Kronofogdemyndigheten",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.2",
+     "76 148",
+     "3 %",
+     "0"
+    ],
+    [
+     "1:4 Kostnader som betalas av staten i konkurser",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "0",
+     "Inget",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Avslutade anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagstyp"
+    ],
+    [
+     "1:3 Kronofogdemyndigheten",
+     ""
+    ],
+    [
+     "ap.1",
+     "ram"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "600 000"
+    ],
+    [
+     "Räntekontokredit",
+     "115 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "211 525"
+    ],
+    [
+     "2026-02-25",
+     "211 525"
+    ],
+    [
+     "2026-03-25",
+     "211 525"
+    ],
+    [
+     "2026-04-25",
+     "211 525"
+    ],
+    [
+     "2026-05-25",
+     "211 525"
+    ],
+    [
+     "2026-06-25",
+     "211 525"
+    ],
+    [
+     "2026-07-25",
+     "211 525"
+    ],
+    [
+     "2026-08-25",
+     "211 525"
+    ],
+    [
+     "2026-09-25",
+     "211 525"
+    ],
+    [
+     "2026-10-25",
+     "211 525"
+    ],
+    [
+     "2026-11-25",
+     "211 525"
+    ],
+    [
+     "2026-12-25",
+     "211 521"
+    ],
+    [
+     "Summa",
+     "2 538 296"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "1:3 ap.2",
+     "Kronofogdemynd - del till KFM"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Uppdragsverksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Administration av ålderspension med ersättning från AP-fonderna1",
+     "-2 346",
+     "4 043",
+     "8 428",
+     "10 123",
+     "-1 695",
+     "2"
+    ],
+    [
+     "Administration av ålderspension med ersättning från premiepensionssystemet1",
+     "-367",
+     "631",
+     "1 315",
+     "1 580",
+     "-265",
+     "-1"
+    ],
+    [
+     "Tjänsteexport1",
+     "102",
+     "0",
+     "4 200",
+     "4 200",
+     "0",
+     "102"
+    ],
+    [
+     "Summa",
+     "-2 611",
+     "4 674",
+     "13 943",
+     "15 903",
+     "-1 960",
+     "103"
+    ]
+   ]
+  },
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna ej disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "Ink. tit.",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Offentligrättslig verksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Kronofogdemyndighetens avgifter1",
+     "2532",
+     "-12 293",
+     "0",
+     "1 682 139",
+     "1 682 139",
+     "0",
+     "-12 293"
+    ]
+   ]
+  }
+ ],
+ "has_fee_section": true,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 4,
+  "n_org": 0,
+  "n_assignments": 2,
+  "n_deadlines": 0,
+  "deadlines": [],
+  "partners": [
+   "Skatteverket",
+   "Tullverket"
+  ],
+  "n_appropriations": 2,
+  "appropriations_total_tkr": 2705296,
+  "payment_plan_total_tkr": 2538296,
+  "md_chars": 8668
+ },
+ "layout": "standard",
+ "warnings": []
+}

@@ -1,0 +1,919 @@
+{
+ "schema_version": 1,
+ "id": 26403,
+ "original_rbid": 25824,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-06-11",
+ "year": "2026",
+ "name": "Lunds universitet",
+ "slug": "lunds-universitet",
+ "department": "Utbildningsdepartementet",
+ "expenditure_areas": [
+  16
+ ],
+ "registry_numbers": [
+  "U2026/01202 (delvis)"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1",
+   "2025/26:99"
+  ],
+  "bet": [
+   "2025/26:FiU21",
+   "2025/26:UbU1"
+  ],
+  "rskr": [
+   "2025/26:124",
+   "2025/26:349"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "Gemensamma bestämmelser för universitet och högskolor finns i regleringsbrev för budgetåret 2026 avseende universitet och högskolor.",
+ "goals": [
+  {
+   "title": "Särskilda åtaganden",
+   "group": [],
+   "text": "**1. Lunds universitet ska varje läsår erbjuda utbildning i jiddisch. Universitetet har rätt att avräkna helårsstudenter och helårsprestationer inom utbildningsområde Övrigt för detta ämne. Av årsredovisningen ska framgå antalet erbjudna platser, antalet sökande samt antalet helårsstudenter och helårsprestationer.**\n\n**2. Universitetet ska, mot bakgrund av Sveriges åtaganden enligt Europarådets ramkonvention om skydd för nationella minoriteter (SÖ 2000:2) och Europeisk stadga om landsdels- eller minoritetsspråk (SÖ 2000:3), som Sverige har ratificerat, bedriva utvecklingsarbete och utbildning på vetenskaplig grund, däribland med sikte på lärarutbildningar.**\n\nArbetet ska främja undervisning i och på minoritetsspråket jiddisch i förskolan, grundskolan, gymnasieskolan och högskolan. I arbetet ska lärosätet ta hänsyn till de särskilda behov och förutsättningar som språket har samt föra en dialog med företrädare för den nationella minoriteten. Lärosätet ska samverka med berörda aktörer, bl.a. övriga lärosäten som har uppdrag när det gäller nationella minoritetsspråk, i Sverige och, när relevant, i andra länder som har erfarenhet av arbete med det aktuella språket. Lärosätet har rätt att avräkna helårsstudenter och helårsprestationer inom utbildningsområde Övrigt för detta ämne.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "årsredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26403:goals:0"
+  },
+  {
+   "title": "Rekryteringsmål för professorer",
+   "group": [
+    "Mål"
+   ],
+   "text": "Under 2025–2028 har lärosätet ett mål för könsfördelningen bland nyrekryterade professorer om 48 procent kvinnor.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26403:goals:1"
+  },
+  {
+   "title": "Mål för antal examina",
+   "group": [
+    "Mål"
+   ],
+   "text": "Under 2025–2028 har lärosätet mål om antal utfärdade examina från vissa utbildningar inom nedan angivna områden. Målen och de examina som omfattas av dessa anges i tabellen nedan. Lärosätet ska i årsredovisningen redovisa antalet utfärdade examina inom respektive område de senaste tre åren för de yrkesexamina som anges i tabellen samt vilka åtgärder som har vidtagits för att uppnå målen.\n\n| | |\n| --- | --- |\n| **Område (examina som omfattas av målet inom parentes)** | **Mål för antal utfärdade examina under 2025–2028** |\n| Lärar- och förskollärarutbildningar (ämneslärarexamina) | 300 |\n| Hälso- och sjukvårdsutbildningar (barnmorskeexamina, fysioterapeutexamina, sjuksköterskeexamina och specialistsjuksköterskeexamina) | 1 660 |",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "årsredovisning"
+   ],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26403:goals:2"
+  },
+  {
+   "title": "Mål för andel biträdande lektorer",
+   "group": [
+    "Mål"
+   ],
+   "text": "Under 2025–2028 har Lunds universitet ett mål att 5 procent av samtlig forskande och undervisande personal (heltidsekvivalenter) ska vara biträdande lektorer.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26403:goals:3"
+  }
+ ],
+ "org": [],
+ "assignments": [
+  {
+   "title": "Pågående uppdrag",
+   "group": [],
+   "text": "Lunds universitet ska stärka arbetet med att främja och bevara det nationella minoritetsspråket jiddisch (Ku2025/01066). Universitetet ska senast den 28 februari 2027 lämna en delredovisning av uppdraget till Regeringskansliet (Kulturdepartementet med kopia till Utbildningsdepartementet). Universitetet ska senast den 28 februari 2028 lämna en slutredovisning av uppdraget till Regeringskansliet (Kulturdepartementet med kopia till Utbildningsdepartementet).",
+   "dates": [
+    "2027-02-28",
+    "2028-02-28"
+   ],
+   "deadlines": [
+    "2027-02-28",
+    "2028-02-28"
+   ],
+   "recipients": [
+    "Regeringskansliet (Kulturdepartementet med kopia till Utbildningsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [
+    "delredovisning",
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "26403:assignments:0"
+  },
+  {
+   "title": "Bistå stödfunktion för ansvarsfull internationalisering",
+   "group": [],
+   "text": "Lunds universitet ges i uppdrag att bistå Vetenskapsrådet med ett nationellt samordnande lärosätesperspektiv på ansvarsfull internationalisering inom ramen för Vetenskapsrådets uppdrag att ansvara för en nationell stödfunktion för ansvarsfull internationalisering (U2024/02810). Lunds universitet ska bistå med högskolesektorns kunskaper och erfarenheter i fråga om de möjligheter och utmaningar som svenska lärosäten möter både avseende internationella samarbeten i stort och avseende de säkerhetsrelaterade frågor som följer av samarbetena. Lunds universitet ska vid behov också bistå Vetenskapsrådet i kontakterna med universitet och högskolor samt vid genomförandet av insatser. I genomförandet av uppdraget ska universitetet föra en nära dialog med övriga universitet och högskolor. Universitetet ska ta tillvara synergier med och erfarenheter från andra initiativ och samarbeten inom högskolesektorn som har relevans för uppdraget.\n\nLunds universitet ska i årsredovisningarna för åren 2027–2028 beskriva hur arbetet har bedrivits och vilka resultat som har uppnåtts.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Vetenskapsrådet",
+    "universitet och högskolor"
+   ],
+   "channels": [
+    "årsredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "utveckla",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26403:assignments:1"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "2:5",
+   "name": "Lunds universitet: Utbildning på grundnivå och avancerad nivå",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 16,
+    "name": "Utbildning och universitetsforskning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Lunds universitet",
+     "amount_tkr": 2579878,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Takbelopp (ram)",
+       "amount_tkr": 2579878
+      },
+      {
+       "ap": "1.1",
+       "name": "Takbelopp (ram)",
+       "amount_tkr": 2579878
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1.1",
+     "name": "Takbelopp",
+     "text": "Anslagsposten får användas för högskoleutbildning på grundnivå och avancerad nivå samt behörighetsgivande och högskoleintroducerande utbildning.\nAnvisningar för avräkning av helårsstudenter och helårsprestationer finns i bilaga till regleringsbrev avseende universitet och högskolor."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "2:6",
+   "name": "Lunds universitet: Forskning och utbildning på forskarnivå",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 16,
+    "name": "Utbildning och universitetsforskning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Lunds universitet",
+     "amount_tkr": 2748425,
+     "items": [
+      {
+       "ap": "6",
+       "name": "Basresurs (ram)",
+       "amount_tkr": 2748425
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "6",
+     "name": "Basresurs",
+     "text": "Anslagsposten får användas för forskning och utbildning på forskarnivå.\nAv anslagspsoten är 3 760 000 kronor beräknat för en förstärkning av konstnärlig forskning och utbildning på forskarnivå.\nAv anslagsposten är 28 022 000 kronor beräknat för en förstärkning av forsknings- och utbildningsmiljöerna inom elektrifiering och batteriteknik.\nI anslagsposten ingår medel för ett nätverk för Europaforskning i ekonomi.\nI anslagsposten ingår medel för strategiska forskningsområden enligt tabellen nedan.\n**Bemyndiganden**\nLunds universitet bemyndigas med anledning av medlemskapet i kunskaps- och innovationsplattformen inom livsmedel under Europeiska institutet för innovation och teknik (EIT Foods) att under 2026–2028 besluta om en årlig medlemsavgift på högst 1 200 000 kronor (i enlighet med beslut om budgetpropositionen för 2026).\nLunds universitet bemyndigas med anledning av medlemskapet i kunskaps- och innovationsplattformen inom klimatområdet under Europeiska institutet för innovation och teknik (EIT Climate-KIC) att under 2026-2028 besluta om en årlig medlemsavgift på högst 150 000 kronor (i enlighet med beslut om budgetpropositionen för 2026)."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "6",
+     "max": 1200000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "6",
+     "max": 150000,
+     "unit": "kronor"
+    }
+   ]
+  },
+  {
+   "code": "2:65",
+   "name": "Särskilda medel till universitet och högskolor",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 16,
+    "name": "Utbildning och universitetsforskning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Lunds universitet",
+     "amount_tkr": 31108,
+     "items": [
+      {
+       "ap": "4",
+       "name": "Nationellt resurscentrum i fysik (ram)",
+       "amount_tkr": 1639
+      },
+      {
+       "ap": "6",
+       "name": "Omhändertagande av arkeologiska fynd (ram)",
+       "amount_tkr": 3572
+      },
+      {
+       "ap": "40",
+       "name": "Holdingbolag (ram)",
+       "amount_tkr": 6240
+      },
+      {
+       "ap": "55",
+       "name": "Medel till sjukhusfysikerutbildningen (ram)",
+       "amount_tkr": 1593
+      },
+      {
+       "ap": "68",
+       "name": "Korta kurser (ram)",
+       "amount_tkr": 6304
+      },
+      {
+       "ap": "73",
+       "name": "Lärarutbildning i minoritetsspråk (ram)",
+       "amount_tkr": 2480
+      },
+      {
+       "ap": "91",
+       "name": "Medel för studenthälsa (ram)",
+       "amount_tkr": 4307
+      },
+      {
+       "ap": "109",
+       "name": "Tolkutbildning och översättarutbildning (ram)",
+       "amount_tkr": 2423
+      },
+      {
+       "ap": "125",
+       "name": "Kognitionsvetenskap (ram)",
+       "amount_tkr": 1000
+      },
+      {
+       "ap": "149",
+       "name": "Genomströmning civilingenjörsutbildningen (ram)",
+       "amount_tkr": 1550
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "4",
+     "name": "Nationellt resurscentrum i fysik",
+     "text": "Anslagsposten får användas för verksamhet i nationellt resurscentrum i fysik. Linköpings universitet ska svara för en samordning av de verksamheter som bedrivs vid de nationella resurscentrumen i biologi, fysik respektive kemi vid Uppsala universitet, Lunds universitet respektive Stockholms universitet samt vid det egna resurscentrumet i teknik (U2014/01602 m.fl.). Lunds universitet ska samarbeta med Linköpings universitet i samordningen av verksamheterna."
+    },
+    {
+     "ap": "6",
+     "name": "Omhändertagande av arkeologiska fynd",
+     "text": "Anslagsposten får användas för omhändertagande av arkeologiska fynd."
+    },
+    {
+     "ap": "40",
+     "name": "Holdingbolag",
+     "text": "Anslagsposten får användas för idébanksmedel och kapitaltillskott till holdingbolag vid lärosätet för finansiering av verksamhet som syftar till att främja kommersialisering av forskningsresultat och innovationer.\nLunds universitet bemyndigas att under 2026 utbetala ett kapitaltillskott på högst 1 000 000 kronor till holdingbolaget som är knutet till lärosätet. Kapitaltillskottet ska finansiera kostnader för verksamhet som bedrivs i form av en idébank och får lämnas i enlighet med förordningen (2022:1390) om statligt stöd för idébanker inom holdingbolag vid universitet och högskolor.\nLunds universitet bemyndigas att under 2026 utbetala ett kapitaltillskott på högst 5 240 000 kronor till holdingbolaget som är knutet till lärosätet. Kapitaltillskottet ska finansiera kostnader för verksamhet som syftar till att främja kommersialisering av forskningsresultat och innovationer och får lämnas i enlighet med förordningen (2025:727) om statligt stöd för innovationsverksamhet inom holdingbolag vid universitet och högskolor."
+    },
+    {
+     "ap": "55",
+     "name": "Medel till sjukhusfysikerutbildningen",
+     "text": "Anslagsposten får användas för att stärka sjukhusfysikerutbildning."
+    },
+    {
+     "ap": "68",
+     "name": "Korta kurser",
+     "text": "Av anslagsposten får 2 823 000 kronor användas för att utveckla korta kurser för yrkesverksamma med inriktning på grön omställning, batterier och teknik. Arbetet ska redovisas i årsredovisningen.\nAv anslagsposten får 3 481 000 kronor användas för att utveckla korta kurser för yrkesverksamma med inriktning mot artificiell intelligens (AI) i yrkesutbildningar inom t.ex. skola, vård och omsorg, socialtjänst, juridik och administration, ingenjörsutbildningar m.m. Universitetet ska samverka med övriga lärosäten som ingår i satsningen för att möjliggöra att ett allsidigt och samordnat utbildningsutbud tas fram. Universitetet ska även sträva efter att samverka med lärosäten som inte tar del av dessa särskilda medel i syfte att möjliggöra att kurserna ska kunna bidra till att utveckla utbildningsutbudet i högskolan som helhet. Arbetet ska redovisas i årsredovisningen."
+    },
+    {
+     "ap": "73",
+     "name": "Lärarutbildning i minoritetsspråk",
+     "text": "Anslagsposten får användas för lärarutbildning i minoritetsspråk."
+    },
+    {
+     "ap": "91",
+     "name": "Medel för studenthälsa",
+     "text": "Anslagsposten får användas för att stärka studenthälsan och bl.a. möjliggöra mer preventivt arbete för att minska studenternas psykiska och fysiska ohälsa samt stärka stödet för studieovana studenter. Av medlen avser 1 960 000 kronor arbete med att särskilt främja psykisk hälsa bland studenter."
+    },
+    {
+     "ap": "109",
+     "name": "Tolkutbildning och översättarutbildning",
+     "text": "Anslagsposten får användas för utbildning i tolkning för offentlig sektor."
+    },
+    {
+     "ap": "125",
+     "name": "Kognitionsvetenskap",
+     "text": "Anslagsposten får användas för att förbereda och anordna kompetensutvecklingsinsatser för lärare vid det egna eller andra lärosäten som ska undervisa i kognitionsvetenskap på lärarutbildningarna. Kompetensutvecklingen ska anordnas med flexibla undervisningsformer och möjliggöra deltagande för många lärare inom lärarutbildningarna. Insatserna ska vara inriktade mot olika årskurser, ämnen och ämnesområden och bygga vidare på Skolverkets fortbildningssatsning på högskolekurser inom kognitionsvetenskap och de delar av kognitionsvetenskap som är relevanta för lärarutbildningen, särskilt internationellt etablerad science of learning.\nUniversitetet ska i sin årsredovisning redogöra för vilka kurser eller förberedelser som har genomförts , hur många som har deltagit eller omfattats av planeringen och vid vilka lärosäten deltagarna är verksamma samt hur insatserna har stärkt lärarutbildarnas förmåga att undervisa i kognitionsvetenskap (science of learning). Redovisningen ska även kunna användas som underlag i UKÄ:s utvärdering av lärosätenas arbete med kognitionsvetenskap (U2025/02425)."
+    },
+    {
+     "ap": "149",
+     "name": "Genomströmning civilingenjörsutbildningen",
+     "text": "Anslagsposten får användas för arbete för att öka genomströmningen i civilingenjörsutbildningen.\nLunds universitet ska tillsammans med Chalmers Tekniska Högskola Aktiebolag lämna förslag på möjlig utformning av en civilingenjörsutbildning med förhöjd studietakt, så att utbildningen kan genomföras på kortare tid. Universitetet ska även analysera förutsättningarna för och förväntade effekter av en sådan utbildning. Utbildningens innehåll, lärandemål, examenskrav och kvalitet ska motsvara en ordinarie civilingenjörsutbildning inom respektive inriktning. Vidare ska universiteten beskriva målgrupp, samt eventuella särskilda antagningsförfarande och behörighetskrav. I uppdraget ingår att sprida lärdomarna till andra lärosäten med civilingenjörsutbildning.\nArbetet ska redovisas gemensamt till Regeringskansliet (Utbildningsdepartementet) senast den 26 mars 2027."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "40",
+     "max": 1000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "40",
+     "max": 5240000,
+     "unit": "kronor"
+    }
+   ]
+  },
+  {
+   "code": "2:66",
+   "name": "Ersättningar för klinisk utbildning och forskning",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 16,
+    "name": "Utbildning och universitetsforskning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Lunds universitet",
+     "amount_tkr": 504616,
+     "items": [
+      {
+       "ap": "2",
+       "name": "Lunds universitet (ram)",
+       "amount_tkr": 503304
+      },
+      {
+       "ap": "13",
+       "name": "Utvecklingsmedel (ram)",
+       "amount_tkr": 1312
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "2",
+     "name": "Lunds universitet",
+     "text": "Anslagsposten får användas för kostnader när det gäller regionens medverkan i utbildning av läkare (ALF-ersättning) i enlighet med det avtal som i september 2014 tecknats mellan staten och vissa landsting om samarbete om utbildning av läkare, klinisk forskning och utveckling av hälso- och sjukvården (ALF-avtalet).\nLunds universitet ersätts för högst 1 361 helårsstudenter inom läkarutbildningen vilket är det minsta antal helårsstudenter som staten förväntar sig att regionen ska ta emot för den verksamhetsintegrerade utbildningen av läkare.\nUniversitetet ska i årsredovisningen lämna uppgifter om hur ALF-ersättningen har fördelats under året när det gäller lokalkostnader, lönekostnader och övriga kostnader. I årsredovisningen ska universitetet också redovisa det totala antalet helårsstudenter på läkarutbildningen."
+    },
+    {
+     "ap": "13",
+     "name": "Utvecklingsmedel",
+     "text": "Anslagsposten får användas för utvecklingsmedel.\nAv årsredovisningen ska framgå på vilket sätt Lunds universitet har använt medlen för att utveckla klinisk utbildning och forskning."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "2:5 Lunds universitet: Utbildning på grundnivå och avancerad nivå",
+   "ap": "ap.1.1",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "10 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:6 Lunds universitet: Forskning och utbildning på forskarnivå",
+   "ap": "ap.6",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Allt",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.4",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.6",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.40",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.55",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.68",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.73",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.91",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.109",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.125",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.149",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:66 Ersättningar för klinisk utbildning och forskning",
+   "ap": "ap.2",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:66 Ersättningar för klinisk utbildning och forskning",
+   "ap": "ap.13",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 750000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 487940
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 487940
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 487940
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 487940
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 487940
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 487940
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 489398
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 489398
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 489398
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 489398
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 489398
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 489397
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "2:5 Lunds universitet: Utbildning på grundnivå och avancerad nivå",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1.1",
+     "0",
+     "10 %",
+     "0"
+    ],
+    [
+     "2:6 Lunds universitet: Forskning och utbildning på forskarnivå",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.6",
+     "0",
+     "Allt",
+     "0"
+    ],
+    [
+     "2:65 Särskilda medel till universitet och högskolor",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.4",
+     "0",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.6",
+     "0",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.40",
+     "0",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.55",
+     "0",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.68",
+     "0",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.73",
+     "0",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.91",
+     "0",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.109",
+     "0",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.125",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.149",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "2:66 Ersättningar för klinisk utbildning och forskning",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.2",
+     "0",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.13",
+     "0",
+     "3 %",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Omfördelning av anslagssparande",
+   "rows": [
+    [
+     "Omfördelning från anslag/ap1",
+     "Omfördelning till anslag/ap2",
+     "Belopp (tkr)",
+     "Belopp andel (%)"
+    ],
+    [
+     "2:5 Lunds universitet: Utbildning på grundnivå och avancerad nivå",
+     "",
+     "",
+     ""
+    ],
+    [
+     "2:5 ap.1.2",
+     "2:5 ap.1.1",
+     "100 %"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Avslutade anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagstyp"
+    ],
+    [
+     "2:5 Lunds universitet: Utbildning på grundnivå och avancerad nivå",
+     ""
+    ],
+    [
+     "ap.1.2",
+     "ram"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "750 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "487 940"
+    ],
+    [
+     "2026-02-25",
+     "487 940"
+    ],
+    [
+     "2026-03-25",
+     "487 940"
+    ],
+    [
+     "2026-04-25",
+     "487 940"
+    ],
+    [
+     "2026-05-25",
+     "487 940"
+    ],
+    [
+     "2026-06-25",
+     "487 940"
+    ],
+    [
+     "2026-07-25",
+     "489 398"
+    ],
+    [
+     "2026-08-25",
+     "489 398"
+    ],
+    [
+     "2026-09-25",
+     "489 398"
+    ],
+    [
+     "2026-10-25",
+     "489 398"
+    ],
+    [
+     "2026-11-25",
+     "489 398"
+    ],
+    [
+     "2026-12-25",
+     "489 397"
+    ],
+    [
+     "Summa",
+     "5 864 027"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "2:5 ap.1.1",
+     "Takbelopp"
+    ],
+    [
+     "2:6 ap.6",
+     "Basresurs"
+    ],
+    [
+     "2:65 ap.4",
+     "Nationellt resurscentrum i fysik"
+    ],
+    [
+     "2:65 ap.6",
+     "Omhändertagande av arkeologiska fynd"
+    ],
+    [
+     "2:65 ap.40",
+     "Holdingbolag"
+    ],
+    [
+     "2:65 ap.55",
+     "Medel till sjukhusfysikerutbildningen"
+    ],
+    [
+     "2:65 ap.68",
+     "Korta kurser"
+    ],
+    [
+     "2:65 ap.73",
+     "Lärarutbildning i minoritetsspråk"
+    ],
+    [
+     "2:65 ap.91",
+     "Medel för studenthälsa"
+    ],
+    [
+     "2:65 ap.109",
+     "Tolkutbildning och översättarutbildning"
+    ],
+    [
+     "2:65 ap.125",
+     "Kognitionsvetenskap"
+    ],
+    [
+     "2:65 ap.149",
+     "Genomströmning civilingenjörsutbildningen"
+    ],
+    [
+     "2:66 ap.2",
+     "Lunds universitet"
+    ],
+    [
+     "2:66 ap.13",
+     "Utvecklingsmedel"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [],
+ "has_fee_section": false,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 4,
+  "n_org": 0,
+  "n_assignments": 2,
+  "n_deadlines": 2,
+  "deadlines": [
+   "2027-02-28",
+   "2028-02-28"
+  ],
+  "partners": [
+   "Vetenskapsrådet",
+   "universitet och högskolor"
+  ],
+  "n_appropriations": 4,
+  "appropriations_total_tkr": 5864027,
+  "payment_plan_total_tkr": 5864027,
+  "md_chars": 18662
+ },
+ "layout": "standard",
+ "warnings": []
+}

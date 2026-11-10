@@ -1,0 +1,696 @@
+{
+ "schema_version": 1,
+ "id": 25984,
+ "original_rbid": 25984,
+ "type": "Regleringsbrev",
+ "category": "Myndighet",
+ "date": "2025-12-18",
+ "year": "2026",
+ "name": "Mediemyndigheten",
+ "slug": "mediemyndigheten",
+ "department": "Kulturdepartementet",
+ "expenditure_areas": [
+  1
+ ],
+ "registry_numbers": [
+  "Ku2025/01142 (delvis)",
+  "Ku2025/01274"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1"
+  ],
+  "bet": [
+   "2025/26:KU1"
+  ],
+  "rskr": [
+   "2025/26:87"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "",
+ "goals": [
+  {
+   "title": "Fördelningen av mediestödet",
+   "group": [],
+   "text": "Mediemyndigheten ska redovisa hur mediestödet enligt lagen (2023:664) om mediestöd och förordningen (2023:740) om mediestöd har fördelats, uppdelat på olika kategorier av nyhetsmedier och geografisk spridning över landet.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "fördela_medel"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2023:664",
+    "2023:740"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25984:goals:0"
+  },
+  {
+   "title": "Stärka och påskynda förenklingsarbetet",
+   "group": [],
+   "text": "Mediemyndigheten ska redovisa hur myndigheten arbetar för att stärka och påskynda förenklingsarbetet. Därvid ingår myndighetens arbete att uppdatera, kvalitetssäkra och förvalta myndighetens innehåll på den myndighetsgemensamma webbplatsen verksamt.se. Förenklingsarbetet ska vara en integrerad del av myndighetens arbete och verksamhetsplanering.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25984:goals:1"
+  },
+  {
+   "title": "Öka förmågan att använda AI och ny teknik genom datadrivet arbete",
+   "group": [],
+   "text": "Mediemyndigheten ska redovisa i vilken utsträckning myndigheten arbetar datadrivet, vilka åtgärder myndigheten vidtagit för att förbättra sina förutsättningar att arbeta datadrivet samt en bedömning av vilket resultat åtgärderna har lett till. Myndigheten ska även redovisa på vilket sätt arbetet med data och artificiell intelligens (AI) har bidragit till att utveckla verksamheten. Av redovisningen ska framgå hur myndigheten beaktar risker med användningen av data och AI. Även eventuella hinder eller framgångsfaktorer för datadrivet arbete och användande av AI-teknik ska redovisas.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla",
+    "statistik_data",
+    "digitalisering_ai"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25984:goals:2"
+  }
+ ],
+ "org": [],
+ "assignments": [
+  {
+   "title": "Uppdrag att stärka medie- och informationskunnighet och öka kunskapen om AI 2026–2028",
+   "group": [],
+   "text": "Mediemyndigheten ska stärka medie- och informationskunnighet och öka kunskapen om AI genom insatser under 2026–2028. Insatserna ska bidra till att öka samhällets beredskap och motståndskraft mot desinformation och bygga vidare på det arbete som myndigheten bedrivit inom ramen för sitt uppdrag att genomföra en nationell satsning för stärkt medie- och informationskunnighet i en tid av AI och desinformation (Ku2024/00419) och kompletterande uppdrag att öka kunskapen om AI (Ku2025/00718). En slutredovisning av uppdragets genomförande ska lämnas till Regeringskansliet (Kulturdepartementet) senast den 30 april 2029. En redogörelse av arbetet med uppdraget under 2026 och 2027 ska göras i årsredovisningen.",
+   "dates": [
+    "2029-04-30"
+   ],
+   "deadlines": [
+    "2029-04-30"
+   ],
+   "recipients": [
+    "Regeringskansliet (Kulturdepartementet)"
+   ],
+   "partners": [],
+   "channels": [
+    "årsredovisning",
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "utveckla",
+    "digitalisering_ai",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "25984:assignments:0"
+  },
+  {
+   "title": "Medverka till ett gemensamt branschsystem för varningar enligt radio- och tv-lagen",
+   "group": [],
+   "text": "Mediemyndigheten ska medverka till ett gemensamt branschsystem för hur varningar enligt radio- och tv-lagen (2010:696) ska lämnas avseende innehåll i tv-sändningar och beställ-tv som kan skada minderåriga.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2010:696"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "25984:assignments:1"
+  },
+  {
+   "title": "Bedömning av redovisningar från Sveriges Television AB, Sveriges Radio AB och Sveriges Utbildningsradio AB",
+   "group": [],
+   "text": "Granskningsnämnden för radio och tv:s bedömningar enligt 3 h § radio- och tv-förordningen (2020:878) av om Sveriges Television AB, Sveriges Radio AB och Sveriges Utbildningsradio AB har uppfyllt sina uppdrag ska redovisas till Regeringskansliet (Kulturdepartementet) senast den 19 juni 2026.",
+   "dates": [
+    "2026-06-19"
+   ],
+   "deadlines": [
+    "2026-06-19"
+   ],
+   "recipients": [
+    "Regeringskansliet (Kulturdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2020:878"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "25984:assignments:2"
+  },
+  {
+   "title": "Prognoser 2026–2029",
+   "group": [],
+   "text": "Mediemyndigheten ska redovisa utgiftsprognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Prognoserna lämnas i informationssystemet Hermes senast den\n\n- 2 februari,\n- 24 juli, och\n- 9 november.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "25984:assignments:3"
+  },
+  {
+   "title": "Prognos för beställningsbemyndiganden",
+   "group": [],
+   "text": "Mediemyndigheten ska redovisa en prognos för de förslag om beställningsbemyndiganden som lämnats i budgetunderlaget och för de åtaganden som ingåtts med stöd av äldre beställningsbemyndiganden. Prognosen ska lämnas senast den 24 juli 2026 via statsredovisningssystemet i Hermes och utformas enligt närmare information från Statskontoret.",
+   "dates": [
+    "2026-07-24"
+   ],
+   "deadlines": [
+    "2026-07-24"
+   ],
+   "forecast_dates": [],
+   "recipients": [],
+   "partners": [
+    "Statskontoret"
+   ],
+   "channels": [
+    "hermes",
+    "budgetunderlag"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "25984:assignments:4"
+  },
+  {
+   "title": "Tidigare givna uppdrag",
+   "group": [],
+   "text": "| | | |\n| --- | --- | --- |\n| Uppdrag | Beslut om uppdrag | Redovisningstidpunkt |\n| Uppdrag att genomföra en förstudie för att utveckla en återkommande undersökning om hot, våld och trakasserier riktat mot journalister | Ku2025/01086 | 1 april 2026 till Regeringskansliet (Kulturdepartementet) |\n| Uppdrag att följa upp mediestödet | Ku2025/00622 | 1 juni 2026 till Regeringskansliet (Kulturdepartementet) |\n| Uppdrag om genomförandet av den nationella strategin inom området psykisk ohälsa och suicidprevention | S2025/00016 | 19 december 2026, 19 december 2027, 19 december 2028 till Regeringskansliet (Socialdepartementet) |\n| Uppdrag att genomföra en nationell satsning för stärkt medie- och informationskunskap i en tid av AI och desinformation | Ku2024/00419 | 30 april 2026 till Regeringskansliet (Kulturdepartementet) |\n| Uppdrag att öka kunskapen om AI | Ku2025/00718 | 30 april 2026 till Regeringskansliet (Kulturdepartementet) |\n\n*För regeringsuppdrag som lämnats i ett särskilt regeringsbeslut utgör tabellen endast en upplysning om vilka uppdrag som vid årets början var riktade till myndigheten och vilka tider som då gällde för återrapportering eller liknande.*",
+   "dates": [
+    "2026-04-01",
+    "2026-04-30",
+    "2026-06-01",
+    "2026-12-19",
+    "2027-12-19",
+    "2028-12-19"
+   ],
+   "deadlines": [],
+   "recipients": [
+    "Regeringskansliet (Kulturdepartementet)",
+    "Regeringskansliet (Socialdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla",
+    "digitalisering_ai"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "25984:assignments:5"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "8:1",
+   "name": "Mediestöd",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 1,
+    "name": "Rikets styrelse"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Mediemyndigheten",
+     "amount_tkr": 977119,
+     "items": [
+      {
+       "ap": "2",
+       "name": "Mediestöd - del till Mediemyndigheten (ram)",
+       "amount_tkr": 977119
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "2",
+     "name": "Mediestöd - del till Mediemyndigheten",
+     "text": "Anslagsposten ska användas i enlighet med bestämmelserna i lagen (2023:664) om mediestöd, förordningen (2023:740) om mediestöd och förordningen (2021:1205) om stöd för tidningsdistribution med anledning av övergången till utdelningen av post varannan dag."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "8:2",
+   "name": "Mediemyndigheten",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 1,
+    "name": "Rikets styrelse"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Mediemyndigheten",
+     "amount_tkr": 97861,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Mediemyndigheten (ram)",
+       "amount_tkr": 97861
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Mediemyndigheten",
+     "text": "Anslagsposten får användas för Mediemyndighetens förvaltningsutgifter samt för utgifter för avveckling av Statens medieråd."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "8:1 Mediestöd",
+   "ap": "ap.2",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "8:2 Mediemyndigheten",
+   "ap": "ap.1",
+   "Anslagskredit": 2935,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 5500,
+  "Räntekontokredit": 4700
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 8155
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 8155
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 8155
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 8155
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 8155
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 8155
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 8155
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 8155
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 8155
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 8155
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 8155
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 8156
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "8:1 Mediestöd",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.2",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "8:2 Mediemyndigheten",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "2 935",
+     "3 %",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Beställningsbemyndiganden",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Bemyndigande",
+     "Utgifter mot anslag till följd av ekonomiska åtaganden",
+     "",
+     "",
+     ""
+    ],
+    [
+     "2026",
+     "2027",
+     "2028",
+     "2029 -",
+     "Slutår"
+    ],
+    [
+     "8:1 Mediestöd",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.2",
+     "1 027 119",
+     "1 027 119",
+     "",
+     "",
+     "2027"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "5 500"
+    ],
+    [
+     "Räntekontokredit",
+     "4 700"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "8 155"
+    ],
+    [
+     "2026-02-25",
+     "8 155"
+    ],
+    [
+     "2026-03-25",
+     "8 155"
+    ],
+    [
+     "2026-04-25",
+     "8 155"
+    ],
+    [
+     "2026-05-25",
+     "8 155"
+    ],
+    [
+     "2026-06-25",
+     "8 155"
+    ],
+    [
+     "2026-07-25",
+     "8 155"
+    ],
+    [
+     "2026-08-25",
+     "8 155"
+    ],
+    [
+     "2026-09-25",
+     "8 155"
+    ],
+    [
+     "2026-10-25",
+     "8 155"
+    ],
+    [
+     "2026-11-25",
+     "8 155"
+    ],
+    [
+     "2026-12-25",
+     "8 156"
+    ],
+    [
+     "Summa",
+     "97 861"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "8:2 ap.1",
+     "Mediemyndigheten"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Uppdragsverksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Utgivningsbevis2",
+     "-1 769",
+     "983",
+     "1 800",
+     "840",
+     "960",
+     "174"
+    ],
+    [
+     "Offentligrättslig verksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Ansökan om att sända tv-program samt digital kommersiell radio1",
+     "-115",
+     "0",
+     "3 000",
+     "3 000",
+     "0",
+     "-115"
+    ]
+   ]
+  },
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna ej disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "Ink. tit.",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Offentligrättslig verksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Särskild avgift samt utdömda viten3",
+     "2712",
+     "0"
+    ],
+    [
+     "Avgifter för analog kommersiell radio3",
+     "2811",
+     "163 000"
+    ],
+    [
+     "Summa",
+     "0",
+     "0",
+     "163 000",
+     "0",
+     "0",
+     "0"
+    ]
+   ]
+  }
+ ],
+ "has_fee_section": true,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 3,
+  "n_org": 0,
+  "n_assignments": 6,
+  "n_deadlines": 3,
+  "deadlines": [
+   "2026-06-19",
+   "2026-07-24",
+   "2029-04-30"
+  ],
+  "partners": [
+   "Statskontoret"
+  ],
+  "n_appropriations": 2,
+  "appropriations_total_tkr": 1074980,
+  "payment_plan_total_tkr": 97861,
+  "md_chars": 10505
+ },
+ "layout": "standard",
+ "warnings": []
+}

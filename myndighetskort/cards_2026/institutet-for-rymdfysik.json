@@ -1,0 +1,411 @@
+{
+ "schema_version": 1,
+ "id": 25834,
+ "original_rbid": 25834,
+ "type": "Regleringsbrev",
+ "category": "Myndighet",
+ "date": "2025-12-18",
+ "year": "2026",
+ "name": "Institutet för rymdfysik",
+ "slug": "institutet-for-rymdfysik",
+ "department": "Utbildningsdepartementet",
+ "expenditure_areas": [
+  16
+ ],
+ "registry_numbers": [
+  "2025/02412 (delvis)"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1"
+  ],
+  "bet": [
+   "2025/26:UbU1"
+  ],
+  "rskr": [
+   "2025/26:124"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "",
+ "goals": [
+  {
+   "title": "Informations- och cybersäkerhet",
+   "group": [],
+   "text": "Institutet för rymdfysik ska övergripande redogöra för hur myndigheten har förvaltat och utvecklat sitt arbete med informations- och cybersäkerhet inbegripet den egna organisationens beredskap och möjlighet att hantera incidenter samt en beskrivning av åtgärder för att utveckla den interna styrningen och uppföljningen av arbetet. Institutet för rymdfysik ska även redogöra för huruvida en analys gjorts av hot och sårbarheter för myndigheten samt om åtgärder vidtagits och hur myndigheten arbetar för att minska eventuella identifierade risker med anledning av detta.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "analysera",
+    "utveckla",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25834:goals:0"
+  }
+ ],
+ "org": [],
+ "assignments": [
+  {
+   "title": "Prognoser",
+   "group": [],
+   "text": "Institutet för rymdfysik ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Prognoserna lämnas i informationssystemet Hermes senast den\n\n– 2 februari,\n\n– 22 april,\n\n– 24 juli, och\n\n– 9 november.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "25834:assignments:0"
+  },
+  {
+   "title": "Tidigare givna uppdrag i regleringsbrev eller särskilda regeringsbeslut",
+   "group": [],
+   "text": "| | | |\n| --- | --- | --- |\n| Uppdrag | Beslut om uppdraget | Redovisningstidpunkt |\n| Uppdrag att utveckla resultatuppföljning och redovisning av verksamheten | Regleringsbrev för 2025 | Den 31 mars 2026 |",
+   "dates": [
+    "2026-03-31"
+   ],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "25834:assignments:1"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "3:6",
+   "name": "Institutet för rymdfysik",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 16,
+    "name": "Utbildning och universitetsforskning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Institutet för rymdfysik",
+     "amount_tkr": 65811,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Institutet för rymdfysik (ram)",
+       "amount_tkr": 65811
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Institutet för rymdfysik",
+     "text": "Anslagsposten får användas för Institutet för rymdfysiks förvaltningsutgifter."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "3:6 Institutet för rymdfysik",
+   "ap": "ap.1",
+   "Anslagskredit": 1974,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 24000,
+  "Räntekontokredit": 4400
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 5484
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 5484
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 5484
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 5484
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 5484
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 5484
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 5484
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 5484
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 5484
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 5484
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 5484
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 5487
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "3:6 Institutet för rymdfysik",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "1 974",
+     "3 %",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "24 000"
+    ],
+    [
+     "Räntekontokredit",
+     "4 400"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "5 484"
+    ],
+    [
+     "2026-02-25",
+     "5 484"
+    ],
+    [
+     "2026-03-25",
+     "5 484"
+    ],
+    [
+     "2026-04-25",
+     "5 484"
+    ],
+    [
+     "2026-05-25",
+     "5 484"
+    ],
+    [
+     "2026-06-25",
+     "5 484"
+    ],
+    [
+     "2026-07-25",
+     "5 484"
+    ],
+    [
+     "2026-08-25",
+     "5 484"
+    ],
+    [
+     "2026-09-25",
+     "5 484"
+    ],
+    [
+     "2026-10-25",
+     "5 484"
+    ],
+    [
+     "2026-11-25",
+     "5 484"
+    ],
+    [
+     "2026-12-25",
+     "5 487"
+    ],
+    [
+     "Summa",
+     "65 811"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "3:6 ap.1",
+     "Institutet för rymdfysik"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Avgiftsbelagd verksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Undervisning2",
+     "0",
+     "0",
+     "700",
+     "700",
+     "0",
+     "0"
+    ],
+    [
+     "Lokalhyror2",
+     "0",
+     "0",
+     "1 500",
+     "1 800",
+     "-300",
+     "-300"
+    ],
+    [
+     "Drift av personalmatsal2",
+     "0",
+     "0",
+     "800",
+     "1 800",
+     "-1 000",
+     "-1 000"
+    ],
+    [
+     "Drift av forskningsinfrastruktur2",
+     "0",
+     "0",
+     "200",
+     "500",
+     "-300",
+     "-300"
+    ],
+    [
+     "Summa",
+     "0",
+     "0",
+     "3 200",
+     "4 800",
+     "-1 600",
+     "-1 600"
+    ]
+   ]
+  }
+ ],
+ "has_fee_section": true,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 1,
+  "n_org": 0,
+  "n_assignments": 2,
+  "n_deadlines": 0,
+  "deadlines": [],
+  "partners": [],
+  "n_appropriations": 1,
+  "appropriations_total_tkr": 65811,
+  "payment_plan_total_tkr": 65811,
+  "md_chars": 4834
+ },
+ "layout": "standard",
+ "warnings": []
+}

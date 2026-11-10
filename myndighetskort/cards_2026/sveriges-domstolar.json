@@ -1,0 +1,902 @@
+{
+ "schema_version": 1,
+ "id": 26367,
+ "original_rbid": 25717,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-06-18",
+ "year": "2026",
+ "name": "Sveriges Domstolar",
+ "slug": "sveriges-domstolar",
+ "department": "Justitiedepartementet",
+ "expenditure_areas": [
+  4
+ ],
+ "registry_numbers": [
+  "Ju2026/01446 (delvis)"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1",
+   "2025/26:99"
+  ],
+  "bet": [
+   "2025/2026:JuU1",
+   "2025/26:FiU21"
+  ],
+  "rskr": [
+   "2025/26:101",
+   "2025/26:345"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "Verksamheten vid Sveriges Domstolar ska bedrivas med hög kvalitet. Målbalanser och omloppstider ska hållas på en rimlig nivå. I verksamheten ska hög effektivitet och god hushållning av resurser eftersträvas.",
+ "goals": [
+  {
+   "title": "Dömande verksamhet",
+   "group": [],
+   "text": "- Av*brottmålen*, exklusive förtursmål, ska 75 procent ta högst fem månader att avgöra i tingsrätt respektive hovrätt.\n- Av*tvistemålen*i tingsrätt, exklusive gemensam ansökan om äktenskapsskillnad, ska 75 procent ta högst sju månader att avgöra. I hovrätt ska frågan om prövningstillstånd i 75 procent av målen ta högst två månader att avgöra. I de mål där prövningstillstånd beviljas ska 75 procent av målen ta högst tio månader att avgöra räknat från den tidpunkt då målet kom in till hovrätten.\n- Av*målen i förvaltningsrätt och kammarrätt*, exklusive förturs- och migrationsmål, ska 75 procent ta högst sex månader att avgöra i respektive instans.\n- Av*målen i migrationsdomstolarna*ska 90 procent av avlägsnandemålen avseende ensamkommande barn ta högst två månader att avgöra. Av övriga avlägsnandemål ska 90 procent ta högst fyra månader att avgöra. Av verkställighetsmålen ska 90 procent ta högst en månad att avgöra. Av övriga migrationsmål ska 90 procent ta högst fem månader att avgöra.\n- Av*målen i Migrationsöverdomstolen*ska 90 procent ta högst två månader att avgöra.\n\nTings- och hovrätter, förvaltnings- och kammarrätter samt Högsta domstolen och Högsta förvaltningsdomstolen ska i samråd med Domstolsverket själva sätta sina verksamhetsmål i enlighet med den mallstruktur för verksamhetsmål som Domstolsverket fastställer.\n\nDomstolsverket ska särskilt redovisa handläggningstider i mål där personer under 21 år står åtalade.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Domstolsverket"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "Av*brottmålen*, exklusive förtursmål, ska 75 procent ta högst fem månader att avgöra i tingsrätt respektive hovrätt.",
+    "Av*tvistemålen*i tingsrätt, exklusive gemensam ansökan om äktenskapsskillnad, ska 75 procent ta högst sju månader att avgöra. I hovrätt ska frågan om prövningstillstånd i 75 procent av målen ta högst två månader att avgöra. I de mål där prövningstillstånd beviljas ska 75 procent av målen ta högst tio månader att avgöra räknat från den tidpunkt då målet kom in till hovrätten.",
+    "Av*målen i förvaltningsrätt och kammarrätt*, exklusive förturs- och migrationsmål, ska 75 procent ta högst sex månader att avgöra i respektive instans.",
+    "Av*målen i migrationsdomstolarna*ska 90 procent av avlägsnandemålen avseende ensamkommande barn ta högst två månader att avgöra. Av övriga avlägsnandemål ska 90 procent ta högst fyra månader att avgöra. Av verkställighetsmålen ska 90 procent ta högst en månad att avgöra. Av övriga migrationsmål ska 90 procent ta högst fem månader att avgöra.",
+    "Av*målen i Migrationsöverdomstolen*ska 90 procent ta högst två månader att avgöra."
+   ],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26367:goals:0"
+  },
+  {
+   "title": "Beslutande och rättsvårdande verksamhet",
+   "group": [],
+   "text": "Av*ärendena vid hyres- och arrendenämnderna*, exklusive ärenden om avstående från besittningsskydd (bostad och lokal), medling (lokal och arrende), uppskov med avflyttning/avträde (lokal och anläggningsarrende) och dispens (jordbruks- och anläggningsarrende), ska 75 procent ta högst fyra månader att avgöra.\n\nHyres- och arrendenämnderna ska i samråd med Domstolsverket själva sätta sina verksamhetsmål i enlighet med den mallstruktur för verksamhetsmål som Domstolsverket fastställer.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Domstolsverket"
+   ],
+   "channels": [],
+   "task_types": [
+    "samordna"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26367:goals:1"
+  },
+  {
+   "title": "Förhandlingar där barn deltar",
+   "group": [],
+   "text": "Domstolsverket ska redovisa hur domstolarna arbetar för att de förhandlingar där barn deltar ska vara anpassade till barnets behov och förutsättningar. Domstolsverket ska också redovisa hur myndigheten lämnar stöd till domstolarna i detta arbete.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Domstolsverket"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26367:goals:2"
+  },
+  {
+   "title": "Kompetensförsörjning",
+   "group": [],
+   "text": "Domstolsverket ska redovisa hur myndigheten fortsatt arbetet med att säkerställa kompetensförsörjningen avseende ordinarie domare, med utgångspunkt i den kompetensförsörjningsplan som myndigheten tagit fram på uppdrag av regeringen (Ju2022/03704 [delvis], Ju2023/02737 [delvis]).",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Domstolsverket"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26367:goals:3"
+  },
+  {
+   "title": "Översättningstjänster",
+   "group": [],
+   "text": "Domstolsverket ska redogöra för hur myndigheten arbetar med att säkerställa att förutsättningar finns för domstolarna att vid avrop av översättningstjänster efterfråga en översättare som är auktoriserad.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Domstolsverket"
+   ],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26367:goals:4"
+  },
+  {
+   "title": "Underrättelser",
+   "group": [],
+   "text": "Domstolsverket ska redovisa hur myndigheten arbetar med att skapa förutsättningar för domstolarna att fullgöra sina skyldigheter att underrätta andra myndigheter om vissa domslut.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Domstolsverket"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26367:goals:5"
+  },
+  {
+   "title": "Förhandlingar genom videokonferens",
+   "group": [],
+   "text": "Domstolsverket ska redovisa hur myndigheten har arbetat för att öka möjligheten för domstolsaktörer såsom parter, ombud och vittnen att delta genom videokonferens vid förhandlingar, exempelvis genom att öka tillgången till ändamålsenliga videorum. Redovisningen ska omfatta en beskrivning av samarbetet med Kriminalvården och Statens institutionsstyrelse i frågan. Domstolsverket ska inhämta synpunkter från Sveriges advokatsamfund angående advokaters behov av utrustning m.m. i videorummen.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Domstolsverket",
+    "Kriminalvården",
+    "Statens institutionsstyrelse"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26367:goals:6"
+  },
+  {
+   "title": "Vittnesstödsverksamhet",
+   "group": [],
+   "text": "Domstolsverket ska redogöra för hur myndigheten, tillsammans med Brottsoffermyndigheten, verkar för att vittnesstödsverksamhet bedrivs vid samtliga tingsrätter och hovrätter, samt hur de arbetar för att stärka dessa.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Brottsoffermyndigheten",
+    "Domstolsverket"
+   ],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26367:goals:7"
+  }
+ ],
+ "org": [
+  {
+   "title": "Förstärkt säkerhetsarbete",
+   "group": [],
+   "text": "Domstolsverket ska redogöra för hur myndigheten, inom befintliga ekonomiska ramar, har genomfört de planerade åtgärderna för att alla som arbetar vid eller besöker Sveriges Domstolar, exempelvis handläggande och dömande personal, nämndemän och advokater ska vara trygga och säkra och för att öka motståndskraften mot infiltration och annan otillbörlig eller otillåten påverkan.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Domstolsverket"
+   ],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "org",
+   "item_id": "26367:org:0"
+  },
+  {
+   "title": "Säkerställa proaktivitet och handlingskraft vid fredstida krissituationer eller vid krig och krigsfara",
+   "group": [],
+   "text": "Domstolsverket ska säkerställa att myndigheten har förmåga att agera proaktivt och handlingskraftigt i hanteringen av såväl fredstida krissituationer som vid krig och krigsfara. Utöver de krav som ställs i förordningen (2022:524) om statliga myndigheters beredskap ska myndigheten i detta syfte utbilda och öva sin personal samt se till att myndigheten stärker en kultur och ett arbetssätt som utgår från de krav som ett krig ställer. Domstolsverket ska även, i samverkan med domstolarna och nämnderna, vidta åtgärder för att ytterligare stärka förmågan att bedriva en effektiv och rättssäker verksamhet inom Sveriges Domstolar under fredstida krissituationer och vid krig och krigsfara. Uppdraget ska redovisas till Regeringskansliet (Justitiedepartementet och Försvarsdepartementet) senast den 22 februari 2027. Detta ska ingå i den särskilda redovisningen för civilt försvar.",
+   "dates": [
+    "2027-02-22"
+   ],
+   "deadlines": [
+    "2027-02-22"
+   ],
+   "recipients": [
+    "Regeringskansliet (Justitiedepartementet och Försvarsdepartementet)"
+   ],
+   "partners": [
+    "Domstolsverket"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2022:524"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "org",
+   "item_id": "26367:org:1"
+  }
+ ],
+ "assignments": [
+  {
+   "title": "2027 års nämndemannaval",
+   "group": [],
+   "text": "Domstolsverket ska inför nämndemannavalet år 2027, inom befintliga ekonomiska ramar genomföra kommunikationsinsatser gentemot presumtiva nämndemän, samt nominerande och väljande organ, i syfte att informera om förutsättningarna för nämndemannauppdraget och vikten av en allsidigt sammansatt nämndemannakår. Uppdraget ska redovisas till Regeringskansliet (Justitiedepartementet) senast den 1 mars 2028.",
+   "dates": [
+    "2028-03-01"
+   ],
+   "deadlines": [
+    "2028-03-01"
+   ],
+   "recipients": [
+    "Regeringskansliet (Justitiedepartementet)"
+   ],
+   "partners": [
+    "Domstolsverket"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla",
+    "informera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26367:assignments:0"
+  },
+  {
+   "title": "Analys av förutsättningarna att bidra till systemet för samordnad registerkontroll",
+   "group": [
+    "2027 års nämndemannaval"
+   ],
+   "text": "Domstolsverket ska analysera rättsliga och tekniska förutsättningar för myndigheten att utveckla en teknisk lösning för förmedling av domstolsavgöranden till systemet för samordnad registerkontroll, som förvaltas av Bolagsverket. Analysen ska också innehålla en bedömning av eventuella kostnader för en sådan teknisk lösning. Domstolsverket ska, om förutsättningarna finns utifrån analysen, redovisa förslag på möjliga tekniska lösningar. Domstolsverket ska vid genomförandet av uppdraget samverka med Bolagsverket. Uppdraget ska delredovisas senast den 23 mars 2026 och slutredovisas senast den 1 oktober 2026 till Regeringskansliet (Justitiedepartementet och Finansdepartementet).",
+   "dates": [
+    "2026-03-23",
+    "2026-10-01"
+   ],
+   "deadlines": [
+    "2026-03-23",
+    "2026-10-01"
+   ],
+   "recipients": [
+    "Regeringskansliet (Justitiedepartementet och Finansdepartementet)"
+   ],
+   "partners": [
+    "Bolagsverket",
+    "Domstolsverket"
+   ],
+   "channels": [
+    "delredovisning",
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna",
+    "utveckla",
+    "tillsyn_kontroll",
+    "statistik_data"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26367:assignments:1"
+  },
+  {
+   "title": "Analys av kostnadsutvecklingen inom anslaget 1:11 Rättsliga biträden m.m.",
+   "group": [
+    "2027 års nämndemannaval"
+   ],
+   "text": "Domstolsverket ska redovisa en analys över ersättningarna från anslaget 1:11*Rättsliga\\*\\*biträden m.m*. under 2026 i jämförelse med utvecklingen från 2016 och framåt. Uppdraget ska redovisas senast den 15 mars 2027 till Regeringskansliet (Justitiedepartementet).",
+   "dates": [
+    "2027-03-15"
+   ],
+   "deadlines": [
+    "2027-03-15"
+   ],
+   "recipients": [
+    "Regeringskansliet (Justitiedepartementet)"
+   ],
+   "partners": [
+    "Domstolsverket"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [
+    "1:11"
+   ],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26367:assignments:2"
+  },
+  {
+   "title": "Bedömningar av verksamhetsvolymer i brottmålsprocessen",
+   "group": [
+    "2027 års nämndemannaval"
+   ],
+   "text": "Domstolsverket ska tillsammans med Brottsförebyggande rådet, Kriminalvården, Polismyndigheten, Åklagarmyndigheten och Ekobrottsmyndigheten fortsätta arbetet med att bedöma framtida verksamhetsvolymer i brottmålsprocessen. Arbetet ska bedrivas med utgångspunkt i det uppdrag som gavs till myndigheterna i oktober 2019 (Ju2019/01057). Uppdraget innefattar att fortsätta utveckla arbetet för att bedömningarna ska öka förståelsen för resursbehov och brottmålsprocessen som en helhet. Myndigheterna ska gemensamt redovisa sina resultat till Regeringskansliet (Justitiedepartementet) senast den 1 mars 2027.",
+   "dates": [
+    "2027-03-01"
+   ],
+   "deadlines": [
+    "2027-03-01"
+   ],
+   "recipients": [
+    "Regeringskansliet (Justitiedepartementet)"
+   ],
+   "partners": [
+    "Brottsförebyggande rådet",
+    "Domstolsverket",
+    "Ekobrottsmyndigheten",
+    "Kriminalvården",
+    "Polismyndigheten",
+    "Åklagarmyndigheten"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26367:assignments:3"
+  },
+  {
+   "title": "Digital process för rättsliga biträdens kostnadsräkningar",
+   "group": [
+    "2027 års nämndemannaval"
+   ],
+   "text": "Domstolsverket ska fortsätta arbetet med att inrätta en digital process för rättsliga biträdens kostnadsräkningar i domstol. Den digitala processen ska bland annat möjliggöra för rättsliga biträden att ge in kostnadsräkningar på ett standardiserat, strukturerat och användarvänligt sätt.\n\nDomstolsverket ska även förbereda utbildningsmaterial för hanteringen och granskning av kostnadsräkningar för rättsliga biträden m.fl.. Uppdraget ska redovisas till Regeringskansliet (Justitiedepartementet och Finansdepartementet) senast den 31 december 2026.",
+   "dates": [
+    "2026-12-31"
+   ],
+   "deadlines": [
+    "2026-12-31"
+   ],
+   "recipients": [
+    "Regeringskansliet (Justitiedepartementet och Finansdepartementet)"
+   ],
+   "partners": [
+    "Domstolsverket"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26367:assignments:4"
+  },
+  {
+   "title": "Prognoser",
+   "group": [
+    "2027 års nämndemannaval"
+   ],
+   "text": "Domstolsverket ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten.\n\nPrognoserna ska innehålla bedömningar av hur kostnaderna från anslagen 1:5*Sveriges Domstolar*och 1:4*Domstolsprövning i utlänningsmål*beräknas utvecklas under prognosperioden avseende personal, lokaler och drift samt förändringar av verksamheternas mål och ärenden. Prognoserna ska även innehålla redovisning av personaltillväxten i domstolarna.\n\nAv kommentarerna ska framgå vilka antaganden som använts i prognosen, vilka osäkerhetsfaktorer som finns och vad som orsakat eventuella förändringar.\n\nOm prognoserna, exklusive för anslagen 1:11*Rättsliga biträden*m.m. och 1:5*Rättsliga biträden m.m\\*\\*. vid domstolsprövning i utlänningsmål*, visar ett underskott ska Domstolsverket redovisa vilka åtgärder som har vidtagits eller planeras att vidtas för att verksamheten ska kunna bedrivas inom ramen för tilldelade medel, samt vilka konsekvenserna blir för verksamheten till följd av dessa åtgärder.\n\nVidare ska myndigheten i särskild ordning lämna en prognos över intäkter och kostnader inom den avgiftsbelagda verksamheten för 2026 och 2027 till Regeringskansliet (Justitiedepartementet) senast den 24 juli och den 9 november.\n\nPrognoserna lämnas i informationssystemet Hermes senast den\n\n2 februari\n\n22 april\n\n24 juli\n\n9 november",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [
+    "Regeringskansliet (Justitiedepartementet)"
+   ],
+   "partners": [
+    "Domstolsverket"
+   ],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos",
+    "analysera",
+    "utveckla"
+   ],
+   "anslag_refs": [
+    "1:11",
+    "1:5"
+   ],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26367:assignments:5"
+  },
+  {
+   "title": "Pågående uppdrag",
+   "group": [
+    "2027 års nämndemannaval"
+   ],
+   "text": "| | | |\n| --- | --- | --- |\n| Uppdrag | Beslut | Datum för redovisning |\n| Uppdrag om ett stärkt stöd till brottsoffer och vittnen | Ju2024/02472 | 30 januari 2026 |\n| Strategi för systematisk uppföljning av funktionshinderspolitiken under 2021–2031, jämte ändringsbeslut | S2021/06595 S2025/01367 | Årligen den 1 februari till Myndigheten för delaktighet, till och med 2031 |\n| Handlingsplan för kvinnor, fred och säkerhet | Ju2023/00375, Ju2023/01973 (delvis), Ju2023/02482 m.fl. | Årligen i årsredovisningen 2024-2028 |\n| Inriktning för civilt försvar 2025-2030 | Fö2024/02054 | Årligen i samband med årsredovisningen för 2025-2030 |\n| Uppdrag till beredskapsmyndigheterna om personallån mellan myndigheter | Fö2025/00670 | 23 februari 2026 |\n| Försöksverksamhet med ett snabbförfarande i brottmål för lagöverträdare under 18 år | Ju2023/00846, Ju2024/00345, Ju2024/00592 | 31 mars 2026 |\n| Uppdrag med anledning av förslag till ny ledningsform för den centrala domstolsadministrationen | Ju2025/01416 | 31 mars 2026 |\n| Uppdrag till Domstolsverket och Kronofogdemyndigheten att förbereda inför förändringar i konkurshanteringen | Ju2025/00919 | 1 september 2026 |\n\n*För regeringsuppdrag som lämnats i ett särskilt regeringsbeslut utgör tabellen endast en upplysning om vilka uppdrag som vid årets början var riktade till myndigheten och vilka tider som då gällde för återrapportering eller liknande.*",
+   "dates": [
+    "2026-01-30",
+    "2026-02-23",
+    "2026-03-31",
+    "2026-09-01"
+   ],
+   "deadlines": [],
+   "recipients": [
+    "Domstolsverket",
+    "Myndigheten för delaktighet"
+   ],
+   "partners": [
+    "Domstolsverket",
+    "Kronofogdemyndigheten",
+    "Myndigheten för delaktighet"
+   ],
+   "channels": [
+    "årsredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "26367:assignments:6"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "1:5",
+   "name": "Sveriges Domstolar",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 4,
+    "name": "Rättsväsendet"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Domstolsverket",
+     "amount_tkr": 8452927,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Sveriges Domstolar (ram)",
+       "amount_tkr": 8452927
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Sveriges Domstolar",
+     "text": "Anslaget får användas till utgifter för\n- de allmänna domstolarnas, de allmänna förvaltningsdomstolarnas, hyres- och arrendenämndernas, Rättshjälpsmyndighetens, Rättshjälpsnämndens, Notarienämndens, Överklagandenämnden för nämndemannauppdrags samt Domstolsverkets verksamhet\n- bidrag till nämndemannasammanslutningar, information till nämndemän och bidrag till nämndemäns resekostnader vid studiebesök\n- uppstartskostnader för internationellt utvecklingssamarbete\n- den nordisk-baltiska regionala avdelningen vid den enhetliga patentdomstolen\n- representanter i Rådgivande organet av europeiska domare inom Europarådet\n- Sveriges Domareförbunds deltagande i International Association of Judges (IAJ) och Association of European Administrative Judges (AEAJ) samt i visst nordiskt samarbete."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "1:11",
+   "name": "Rättsliga biträden m.m.",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 4,
+    "name": "Rättsväsendet"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Domstolsverket",
+     "amount_tkr": 4404507,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Rättsliga biträden m.m. (ram)",
+       "amount_tkr": 4404507
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Rättsliga biträden m.m.",
+     "text": "Anslaget får användas till utgifter för\n- rättshjälp enligt rättshjälpslagen (1996:1619). Efter beslut från Domstolsverket får medel avseende rättshjälp enligt rättshjälpslagen disponeras av de allmänna domstolarna, de allmänna förvaltningsdomstolarna, hyres- och arrendenämnderna, Rättshjälpsmyndigheten samt Rättshjälpsnämnden.\n- utgifter för offentligt försvar och offentligt ombud. Efter beslut från Domstolsverket får medel avseende utgifter för offentligt försvar och offentligt ombud disponeras av de allmänna domstolarna.\n- utgifter för offentligt biträde. Efter beslut från Domstolsverket får medel avseende utgifter för offentligt biträde och tredje man för utredning enligt lagen (1996:1620) om offentligt biträde disponeras av de allmänna domstolarna, de allmänna förvaltningsdomstolarna samt Rättshjälpsmyndigheten.\n- rådgivning. Efter beslut från Domstolsverket får medel avseende rådgivning enligt rättshjälpslagen (1996:1619) disponeras av Rättshjälpsmyndigheten.\n- utgifter för målsägandebiträde. Efter beslut från Domstolsverket får medel avseende utgifter för målsägandebiträde disponeras av de allmänna domstolarna.\n- utgifter för medlare och rättegångsbiträde. Efter beslut från Domstolsverket får medel avseende utgifter för medlare och rättegångsbiträde enligt föräldrabalken (1949:381) disponeras av de allmänna domstolarna.\n- utgifter för särskild företrädare för barn. Efter beslut från Domstolsverket får medel avseende utgifter för särskild företrädare för barn disponeras av de allmänna domstolarna.\n- ersättningsgaranti för bodelningsförrättare. Efter beslut från Domstolsverket får medel avseende ersättningsgaranti för bodelningsförrättare disponeras av de allmänna domstolarna.\n- diverse kostnader för rättsväsendet. Efter rekvisition till Domstolsverket kan medel från anslaget betalas ut till Regeringskansliet (Justitiedepartementet) och till Länsstyrelsen i Stockholms län. Från anslaget får avräknas ersättning för kostnader avseende översättning, delgivning m.m. som hänför sig till internationellt straff- och civilrättsligt samarbete inom Centralmyndighetens ansvarsområde och som inte ska bäras av annan myndighet.\n- vissa domstolsutgifter m.m. Efter beslut från Domstolsverket får medel avseende utgifter för bevisning, parter, tolk m.m., god man, förvaltararvoden m.m. i konkurser samt ersättning till likvidatorer och bouppteckningsförrättare disponeras av de allmänna domstolarna, de allmänna förvaltningsdomstolarna samt hyres- och arrendenämnderna.\nDomstolsverket får vidare betala ut medel efter rekvisition från Regeringskansliet, Kriminalvården och övervakningsnämnderna inom Kriminalvården, Socialstyrelsen, Arbetsdomstolen och länsstyrelserna.\nAnslaget får även användas för att finansiera utgifter som i regleringsbrevet för 1997 skulle avräknas mot anslagsposterna 1–5 för utgifter i ärenden som påbörjats innan den nya rättshjälpslagen (1996:1619) trädde i kraft (den 1 december 1997).\nMedel som levereras in på grund av ålagd återbetalningsskyldighet för utgift som belastat anslaget ska redovisas på inkomsttiteln 2811 Övriga inkomster av statens verksamhet."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "1:5 Sveriges Domstolar",
+   "ap": "ap.1",
+   "Anslagskredit": 253587,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:11 Rättsliga biträden m.m.",
+   "ap": "ap.1",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 1600000,
+  "Räntekontokredit": 700000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 704411
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 704411
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 704411
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 704411
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 704411
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 704411
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 704411
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 704411
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 704411
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 704411
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 704411
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 704406
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:5 Sveriges Domstolar",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "253 587",
+     "3 %",
+     "0"
+    ],
+    [
+     "1:11 Rättsliga biträden m.m.",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "0",
+     "Inget",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "1 600 000"
+    ],
+    [
+     "Räntekontokredit",
+     "700 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "704 411"
+    ],
+    [
+     "2026-02-25",
+     "704 411"
+    ],
+    [
+     "2026-03-25",
+     "704 411"
+    ],
+    [
+     "2026-04-25",
+     "704 411"
+    ],
+    [
+     "2026-05-25",
+     "704 411"
+    ],
+    [
+     "2026-06-25",
+     "704 411"
+    ],
+    [
+     "2026-07-25",
+     "704 411"
+    ],
+    [
+     "2026-08-25",
+     "704 411"
+    ],
+    [
+     "2026-09-25",
+     "704 411"
+    ],
+    [
+     "2026-10-25",
+     "704 411"
+    ],
+    [
+     "2026-11-25",
+     "704 411"
+    ],
+    [
+     "2026-12-25",
+     "704 406"
+    ],
+    [
+     "Summa",
+     "8 452 927"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "1:5 ap.1",
+     "Sveriges Domstolar"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna ej disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "Ink. tit.",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Offentligrättslig verksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Ansökningsavgifter mark- och miljödomstolarna2",
+     "2537",
+     "0",
+     "0",
+     "22 000",
+     "0",
+     "22 000",
+     "22 000"
+    ],
+    [
+     "Ansökningsavgifter övriga domstolar2",
+     "2511",
+     "0",
+     "0",
+     "145 000",
+     "0",
+     "145 000",
+     "145 000"
+    ],
+    [
+     "Efterbevaknings- och tillsynsavgifter2",
+     "2561",
+     "0",
+     "0",
+     "12 000",
+     "0",
+     "12 000",
+     "12 000"
+    ],
+    [
+     "Kungörandeavgifter2",
+     "2511",
+     "0",
+     "0",
+     "1 000",
+     "0",
+     "1 000",
+     "1 000"
+    ],
+    [
+     "Summa",
+     "0",
+     "0",
+     "180 000",
+     "0",
+     "180 000",
+     "180 000"
+    ]
+   ]
+  }
+ ],
+ "has_fee_section": true,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 8,
+  "n_org": 2,
+  "n_assignments": 7,
+  "n_deadlines": 7,
+  "deadlines": [
+   "2026-03-23",
+   "2026-10-01",
+   "2026-12-31",
+   "2027-02-22",
+   "2027-03-01",
+   "2027-03-15",
+   "2028-03-01"
+  ],
+  "partners": [
+   "Bolagsverket",
+   "Brottsförebyggande rådet",
+   "Brottsoffermyndigheten",
+   "Domstolsverket",
+   "Ekobrottsmyndigheten",
+   "Kriminalvården",
+   "Kronofogdemyndigheten",
+   "Myndigheten för delaktighet",
+   "Polismyndigheten",
+   "Statens institutionsstyrelse",
+   "Åklagarmyndigheten"
+  ],
+  "n_appropriations": 2,
+  "appropriations_total_tkr": 12857434,
+  "payment_plan_total_tkr": 8452927,
+  "md_chars": 20078
+ },
+ "layout": "standard",
+ "warnings": []
+}

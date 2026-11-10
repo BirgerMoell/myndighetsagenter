@@ -1,0 +1,618 @@
+{
+ "schema_version": 1,
+ "id": 27570,
+ "original_rbid": 25914,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-10-22",
+ "year": "2026",
+ "name": "Statens veterinärmedicinska anstalt",
+ "slug": "statens-veterinarmedicinska-anstalt",
+ "department": "Landsbygds- och infrastrukturdepartementet",
+ "expenditure_areas": [
+  23
+ ],
+ "registry_numbers": [
+  "LI2026/01693 (delvis)",
+  "LI2026/01832"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1"
+  ],
+  "bet": [
+   "2025/26:MJU2"
+  ],
+  "rskr": [
+   "2025/26:116"
+  ]
+ },
+ "n_attachments_stated": 1,
+ "mission": "",
+ "goals": [
+  {
+   "title": "Den nationella läkemedelsstrategin",
+   "group": [],
+   "text": "SVA ska redogöra för hur myndigheten har arbetat för att bidra till för myndigheten relevanta fokusområden i den nationella läkemedelsstrategin (S2024/00190).",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27570:goals:0"
+  },
+  {
+   "title": "Förebyggande smittskyddsarbete – vektorburna smittor",
+   "group": [],
+   "text": "SVA ska redogöra för hur myndigheten har arbetat med att bygga upp en övervakning av vektorer.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27570:goals:1"
+  },
+  {
+   "title": "Färdval och resepolicy vid tjänsteresor",
+   "group": [],
+   "text": "Alla trafikslag ska kunna nyttjas (väg, järnväg, luft- och sjöfart) för att säkerställa effektiva och ändamålsenliga transporter. SVA ska därför redovisa hur myndigheten har säkerställt att val av färdsätt vid tjänsteresor sker färdmedelsneutralt och utifrån behov. Vidare ska SVA redovisa huruvida myndigheten köpt in hållbart flygbränsle till organisationens flygresor. När kostnader jämförs för olika färdval ska hela resans kostnad beaktas, exempelvis kostnader för nödvändig övernattning samt total arbetstid för hela resan.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27570:goals:2"
+  }
+ ],
+ "org": [
+  {
+   "title": "Säkerställa proaktivitet och handlingskraft vid fredstida krissituationer eller vid krig och krigsfara",
+   "group": [],
+   "text": "SVA ska säkerställa att myndigheten har förmåga att agera proaktivt och handlingskraftigt i hanteringen av såväl fredstida krissituationer som vid krig och krigsfara. Utöver de krav som ställs i förordningen (2022:524) om statliga myndigheters beredskap ska SVA i detta syfte utbilda och öva sin personal samt se till att myndigheten stärker en kultur och arbetssätt som utgår från de krav som ett krig ställer.\n\nSVA ska senast den 22 februari 2027 redovisa vidtagna åtgärder och resultatet av dessa till Regeringskansliet (Landsbygds- och infrastrukturdepartementet och Försvarsdepartementet). Redovisningen ska ingå i den särskilda redovisningen för civilt försvar.",
+   "dates": [
+    "2027-02-22"
+   ],
+   "deadlines": [
+    "2027-02-22"
+   ],
+   "recipients": [
+    "Regeringskansliet (Landsbygds- och infrastrukturdepartementet och Försvarsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2022:524"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "org",
+   "item_id": "27570:org:0"
+  }
+ ],
+ "assignments": [
+  {
+   "title": "Pågående uppdrag",
+   "group": [],
+   "text": "I*bilagan*redovisas SVA:s pågående uppdrag. För regeringsuppdrag som lämnats i ett särskilt regeringsbeslut utgör uppräkningen i bilagan endast en upplysning om vilka uppdrag som vid årets början var riktade till myndigheten och vilka tider som då gällde för återrapportering eller liknande.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "27570:assignments:0"
+  },
+  {
+   "title": "Uppbyggnad av livsmedelsberedskapen och dricksvattenförsörjningen",
+   "group": [],
+   "text": "SVA:s arbete med civilt försvar ska syfta till att utveckla och stärka det civila försvaret och därmed bidra till en högre samlad förmåga inom totalförsvaret.\n\n*Investeringsprogram*\\\nSVA ska bidra till Livsmedelsverkets arbete med att utveckla investeringsprogram för förmågeutveckling inom beredskapssektorn livsmedelsförsörjning och dricksvatten.\n\n*Beredskapslagring*\\\nSVA ska tillsammans med Livsmedelsverket och Statens jordbruksverk etablera beredskapslager för livsmedelskedjan. Myndigheterna ska vid behov föra en dialog med Läkemedelsverket, den blivande Myndigheten för civilt försvar och Försvarsmakten. SVA ska särskilt ansvara för etablering av beredskapslager av vaccin.\n\n*Redovisning*\\\nLivsmedelsverket ska senast den 22 februari 2027 lämna sin, Statens jordbruksverks och SVA:s gemensamma redovisning av arbetet till Regeringskansliet (Landsbygds- och infrastrukturdepartementet).",
+   "dates": [
+    "2027-02-22"
+   ],
+   "deadlines": [
+    "2027-02-22"
+   ],
+   "recipients": [
+    "Livsmedelsverket",
+    "Regeringskansliet (Landsbygds- och infrastrukturdepartementet)"
+   ],
+   "partners": [
+    "Försvarsmakten",
+    "Livsmedelsverket",
+    "Läkemedelsverket",
+    "Myndigheten för civilt försvar",
+    "Statens jordbruksverk"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27570:assignments:1"
+  },
+  {
+   "title": "Avtal för stärkt försörjningsberedskap",
+   "group": [],
+   "text": "SVA ska identifiera eventuella behov av avtal som syftar till att upprätthålla försörjningen av varor och tjänster som är nödvändiga för beredskapssektorn livsmedelsförsörjning och dricksvatten vid fredstida kriser och höjd beredskap. Detta ska inkludera eventuella behov av särskilda avtalsformer i form av sådana försörjningsberedskapsavtal (F-avtal) som beskrivs i betänkandet Nya samverkansformer, modern byggnads- och reparationsberedskap – för ökad försörjningsberedskap (SOU 2025:68).\n\nSVA ska senast den 22 februari 2027 lämna en redovisning av uppdraget till Regeringskansliet (Landsbygds- och infrastrukturdepartementet och Försvarsdepartementet). Redovisningen ska ingå i den särskilda redovisningen för civilt försvar. Som stöd för arbetet kan myndigheten använda bland annat Utgångspunkter för totalförsvaret 2025–2030 (FM2025-19772:2, MSB 2025-08877).",
+   "dates": [
+    "2027-02-22"
+   ],
+   "deadlines": [
+    "2027-02-22"
+   ],
+   "recipients": [
+    "Regeringskansliet (Landsbygds- och infrastrukturdepartementet och Försvarsdepartementet)"
+   ],
+   "partners": [
+    "Myndigheten för samhällsskydd och beredskap"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27570:assignments:2"
+  },
+  {
+   "title": "Öka förmågan att använda AI och ny teknik genom datadrivet arbete",
+   "group": [],
+   "text": "SVA ska redovisa i vilken utsträckning myndigheten arbetar datadrivet, vilka åtgärder myndigheten har vidtagit för att förbättra sin förmåga att arbeta datadrivet, samt en bedömning av vilka resultat åtgärderna har lett till. SVA ska även redovisa på vilket sätt arbetet med data och artificiell intelligens, AI, har bidragit till att utveckla verksamheten och höja kvaliteten i utförandet av myndighetens uppgifter. Av redovisningen ska framgå hur SVA beaktar risker och arbetar för att användning av data och AI sker på ett etiskt och säkert och sätt. Eventuella hinder och framgångsfaktorer för datadrivet arbete och användande av AI ska redovisas.\n\nSVA ska senast den 15 maj 2026 lämna en redovisning av uppdraget till Regeringskansliet (Landsbygds- och infrastrukturdepartementet).",
+   "dates": [
+    "2026-05-15"
+   ],
+   "deadlines": [
+    "2026-05-15"
+   ],
+   "recipients": [
+    "Regeringskansliet (Landsbygds- och infrastrukturdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla",
+    "statistik_data",
+    "digitalisering_ai"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27570:assignments:3"
+  },
+  {
+   "title": "Prognoser",
+   "group": [],
+   "text": "SVA ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Prognoserna lämnas i informationssystemet Hermes senast den\n\n– 2 februari\\\n– 22 april,\\\n– 24 juli och\\\n– 9 november.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27570:assignments:4"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "1:3",
+   "name": "Statens veterinärmedicinska anstalt",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 23,
+    "name": "Areella näringar, landsbygd och livsmedel"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Statens veterinärmedicinska anstalt",
+     "amount_tkr": 243865,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Statens veterinärmedicinska anstalt (ram)",
+       "amount_tkr": 243865
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Statens veterinärmedicinska anstalt",
+     "text": "Anslagsposten får användas för SVA:s förvaltningsutgifter.\n1. Från anslagsposten får SVA disponera medel för att kunna använda och samverka med det gemensamma radiokommunikationssystemet Rakel. SVA ska betala totalt 275 500 kronor till den blivande Myndigheten för civilt försvar som abonnemangsavgift för detta system. Beloppet ska betalas efter fakturering från den blivande Myndigheten för civilt försvar.\n2. Av anslagsposten får 80 000 000 kronor användas för att förstärka arbetet med civilt försvar, varav högst 2 000 000 kronor får användas för administration av omsättningslager."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "1",
+     "max": 2000000,
+     "unit": "kronor"
+    }
+   ]
+  },
+  {
+   "code": "1:26",
+   "name": "Åtgärder för beredskap inom livsmedels- och dricksvattenområdet",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 23,
+    "name": "Areella näringar, landsbygd och livsmedel"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Statens veterinärmedicinska anstalt",
+     "amount_tkr": 10000,
+     "items": [
+      {
+       "ap": "2",
+       "name": "Civilt försvar - till Statens veterinärmedicinska anstalt (ram)",
+       "amount_tkr": 10000
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "2",
+     "name": "Civilt försvar - till Statens veterinärmedicinska anstalt",
+     "text": "Anslagsposten får användas för etablering av omsättningslager."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "1:3 Statens veterinärmedicinska anstalt",
+   "ap": "ap.1",
+   "Anslagskredit": 7315,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:26 Åtgärder för beredskap inom livsmedels- och dricksvattenområdet",
+   "ap": "ap.2",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 95000,
+  "Räntekontokredit": 47000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 20322
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 20322
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 20322
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 20322
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 20322
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 20322
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 20322
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 20322
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 20322
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 20322
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 20322
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 20323
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:3 Statens veterinärmedicinska anstalt",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "7 315",
+     "3 %",
+     "0"
+    ],
+    [
+     "1:26 Åtgärder för beredskap inom livsmedels- och dricksvattenområdet",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.2",
+     "0",
+     "Inget",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "95 000"
+    ],
+    [
+     "Räntekontokredit",
+     "47 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "20 322"
+    ],
+    [
+     "2026-02-25",
+     "20 322"
+    ],
+    [
+     "2026-03-25",
+     "20 322"
+    ],
+    [
+     "2026-04-25",
+     "20 322"
+    ],
+    [
+     "2026-05-25",
+     "20 322"
+    ],
+    [
+     "2026-06-25",
+     "20 322"
+    ],
+    [
+     "2026-07-25",
+     "20 322"
+    ],
+    [
+     "2026-08-25",
+     "20 322"
+    ],
+    [
+     "2026-09-25",
+     "20 322"
+    ],
+    [
+     "2026-10-25",
+     "20 322"
+    ],
+    [
+     "2026-11-25",
+     "20 322"
+    ],
+    [
+     "2026-12-25",
+     "20 323"
+    ],
+    [
+     "Summa",
+     "243 865"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "1:3 ap.1",
+     "Statens veterinärmedicinska anstalt"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Uppdragsverksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Diagnostik m.m.1",
+     "-76",
+     "-6 900",
+     "184 000",
+     "187 000",
+     "-3 000",
+     "-9 976"
+    ],
+    [
+     "Tjänsteexport1",
+     "2 017",
+     "0",
+     "13 000",
+     "13 000",
+     "0",
+     "2 017"
+    ],
+    [
+     "Summa",
+     "1 941",
+     "-6 900",
+     "197 000",
+     "200 000",
+     "-3 000",
+     "-7 959"
+    ]
+   ]
+  }
+ ],
+ "has_fee_section": true,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 3,
+  "n_org": 1,
+  "n_assignments": 5,
+  "n_deadlines": 2,
+  "deadlines": [
+   "2026-05-15",
+   "2027-02-22"
+  ],
+  "partners": [
+   "Försvarsmakten",
+   "Livsmedelsverket",
+   "Läkemedelsverket",
+   "Myndigheten för civilt försvar",
+   "Myndigheten för samhällsskydd och beredskap",
+   "Statens jordbruksverk"
+  ],
+  "n_appropriations": 2,
+  "appropriations_total_tkr": 253865,
+  "payment_plan_total_tkr": 243865,
+  "md_chars": 9906
+ },
+ "layout": "standard",
+ "warnings": []
+}

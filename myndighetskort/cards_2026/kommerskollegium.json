@@ -1,0 +1,833 @@
+{
+ "schema_version": 1,
+ "id": 26119,
+ "original_rbid": 26119,
+ "type": "Regleringsbrev",
+ "category": "Myndighet",
+ "date": "2025-12-18",
+ "year": "2026",
+ "name": "Kommerskollegium",
+ "slug": "kommerskollegium",
+ "department": "Utrikesdepartementet",
+ "expenditure_areas": [
+  7,
+  24
+ ],
+ "registry_numbers": [
+  "UD2025/18692",
+  "(delvis) UD2025/18801(delvis)",
+  "UD2025/"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1"
+  ],
+  "bet": [
+   "2025/2026:NU1",
+   "2025/26:UU2"
+  ],
+  "rskr": [
+   "2025/26:000",
+   "2025/26:129"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "",
+ "goals": [
+  {
+   "title": "Fördjupa den inre marknaden",
+   "group": [],
+   "text": "Kommerskollegium ska redovisa hur myndigheten arbetar med att ta fram underlag och analyser för svenska positioner i arbetet med att omsätta relevanta förslag i inre marknadsstrategin (COM(2025)500) med särskilt fokus på förenkling, digitalisering och efterlevnad, stöd i förhandlingar av resulterande rättsakter samt stärka arbetet med anmälningsförfarandet för tekniska regler.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "digitalisering_ai"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26119:goals:0"
+  },
+  {
+   "title": "EU:s utvidgning och den inre marknaden",
+   "group": [],
+   "text": "Kommerskollegium ska redovisa hur myndigheten arbetat med att analysera EU-utvidgning med fokus på inre marknaden och så kallad gradvis integrering.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26119:goals:1"
+  },
+  {
+   "title": "Ekonomisk säkerhet",
+   "group": [],
+   "text": "Kommerskollegium ska återrapportera sitt arbete på området ekonomisk säkerhet. I detta arbete är bland annat utländska direktinvesteringar, utgående investeringar, tillgång till kritiska råmaterial och riskbedömningar av olika tekniker viktiga parametrar.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26119:goals:2"
+  },
+  {
+   "title": "Standardisering",
+   "group": [],
+   "text": "Kommerskollegiums ska redovisa hur myndigheten aktivt bidrar till utformning och genomförande av Sveriges och EU:s standardiseringspolitik. Detta gäller även frågor med bäring på handel med tredje land. Särskilt bör geopolitiseringen av standardiseringen beaktas och följas.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26119:goals:3"
+  },
+  {
+   "title": "Utvärdering av utrikeshandelsstrategin",
+   "group": [],
+   "text": "Kommerskollegium ska bidra med information till Statskontorets utvärdering av genomförandet av strategin för Sveriges utrikeshandel, investeringar och globala konkurrenskraft, med särskild bäring på synergier mellan utvecklingssamarbete, handelsfrämjandet och handelspolitiken. Statskontoret ska bl.a. utvärdera i vilken utsträckning genomförda insatser under perioden 30 november 2023-30 april 2025 har bidragit till att uppnå strategins mål.",
+   "dates": [
+    "2023-11-30",
+    "2025-04-30"
+   ],
+   "deadlines": [],
+   "recipients": [
+    "Statskontoret"
+   ],
+   "partners": [
+    "Statskontoret"
+   ],
+   "channels": [],
+   "task_types": [
+    "analysera",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26119:goals:4"
+  },
+  {
+   "title": "Genomförande av utrikeshandelsstrategin",
+   "group": [],
+   "text": "Kommerskollegium ska redovisa vilka insatser myndigheten har genomfört inom ramen för sitt verksamhetsområde för att i samarbete med andra myndigheter och främjandeaktörer medverka till genomförandet av regeringens strategi för Sveriges utrikeshandel, investeringar och global konkurrenskraft (UD2023/01758).",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26119:goals:5"
+  },
+  {
+   "title": "Made with Sweden",
+   "group": [],
+   "text": "Kommerskollegium ska redovisa hur arbetet fortskridit med genomförandet av främjande- och kommunikationskonceptet Made with Sweden.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26119:goals:6"
+  },
+  {
+   "title": "Stärka AI- och teknikförmågan genom datadrivet arbetssätt",
+   "group": [],
+   "text": "Kommerskollegium ska redovisa i vilken utsträckning de arbetar datadrivet, vilka åtgärder de vidtagit för att förbättra sin förmåga att arbeta datadrivet, samt en bedömning av vilket resultat åtgärderna har lett till. Myndigheten ska även redovisa på vilket sätt arbetet med data och AI har bidragit till att utveckla verksamheten och höja kvaliteten i utförandet av myndighetens uppgifter. Av redovisningen ska framgå hur myndigheten beaktar risker och arbetar för att användning av data och AI sker på ett etiskt, säkert och icke-diskriminerande sätt. Eventuella hinder eller framgångsfaktorer för datadrivet arbete och användande av AI-teknik ska även redovisas. Uppdraget ska redovisas senast den 15 maj 2026.",
+   "dates": [
+    "2026-05-15"
+   ],
+   "deadlines": [
+    "2026-05-15"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla",
+    "statistik_data",
+    "digitalisering_ai"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26119:goals:7"
+  }
+ ],
+ "org": [
+  {
+   "title": "Säkerställa proaktivitet och handlingskraft vid fredstida krissituationer eller vid krig och krigsfara",
+   "group": [],
+   "text": "Kommerskollegium ska säkerställa att myndigheten har förmåga att agera proaktivt och handlingskraftigt i hanteringen av såväl fredstida krissituationer som vid krig och krigsfara. Utöver de krav som ställs i förordningen (2022:524) om statliga myndigheters beredskap ska myndigheten i detta syfte utbilda och öva sin personal samt se till att myndigheten stärker en kultur och arbetssätt som utgår från de krav som ett krig ställer. Uppdraget ska redovisas till Regeringskansliet (Utrikesdepartementet och Försvarsdepartementet) senast den 22 februari 2027. Detta ska ingå i den särskilda redovisningen för civilt försvar.",
+   "dates": [
+    "2027-02-22"
+   ],
+   "deadlines": [
+    "2027-02-22"
+   ],
+   "recipients": [
+    "Regeringskansliet (Utrikesdepartementet och Försvarsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2022:524"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "org",
+   "item_id": "26119:org:0"
+  }
+ ],
+ "assignments": [
+  {
+   "title": "Stärk efterlevnad av tjänstedirektivet",
+   "group": [],
+   "text": "Kommerskollegium uppdras att analysera hur Sverige efterlever tjänstedirektivet och att föreslå konkreta och genomförbara förbättringsåtgärder, inklusive en konkret plan för förbättringar inom myndighetens ansvarsområde, t.ex. avseende kontaktpunkten för tjänster, öka Sveriges anmälningsgrad samt andra kunskapshöjande insatser. I analysen avseende kontaktpunkten för tjänster ska arbetet ske i nära dialog med Tillväxtverket, Bolagsverket och Myndigheten för digital förvaltning (Digg). Arbetet med uppdraget och implementeringen av förbättringsåtgärderna ska ske i nära dialog med Regeringskansliet och redovisas senast den 31 december 2026 till Regeringskansliet (Utrikesdepartementet).",
+   "dates": [
+    "2026-12-31"
+   ],
+   "deadlines": [
+    "2026-12-31"
+   ],
+   "recipients": [
+    "Regeringskansliet (Utrikesdepartementet)"
+   ],
+   "partners": [
+    "Bolagsverket",
+    "Myndigheten för digital förvaltning",
+    "Tillväxtverket"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "föreslå",
+    "informera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26119:assignments:0"
+  },
+  {
+   "title": "Uppbyggnad av beredskapssektor för utrikeshandel",
+   "group": [],
+   "text": "Kommerskollegium ska beskriva vilka åtgärder som har vidtagits för att bygga upp en ny beredskapssektor för utrikeshandel. Myndigheten ska redovisa hur sektorns uppdrag definieras exempelvis vilka uppgifter och roller som bör finnas i sektorn, en bedömning av vilka aktörer som bör delta i sektorns arbete och en plan för hur arbetet ska bedrivas. Redogörelsen ska innefatta kopplingarna till samhällsviktig verksamhet och strukturer för samverkan inom sektorn. Kommerskollegium ska även redovisa vilka åtgärder som vidtagits i den egna myndigheten samt åtgärder i sektorn för att stärka förmågan att bedriva en effektiv verksamhet i höjd beredskap och krig. Kommerskollegium ska redovisa vidtagna åtgärder och resultatet av dessa. Uppdraget ska redovisas till Regeringskansliet (Utrikesdepartementet med kopia till Försvarsdepartementet) senast den 30 september 2026.",
+   "dates": [
+    "2026-09-30"
+   ],
+   "deadlines": [
+    "2026-09-30"
+   ],
+   "recipients": [
+    "Regeringskansliet (Utrikesdepartementet med kopia till Försvarsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna",
+    "utveckla",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26119:assignments:1"
+  },
+  {
+   "title": "Stärkt motståndskraft mot hybridhot",
+   "group": [],
+   "text": "I syfte att stärka Sveriges samlade motståndskraft mot hybridhot behöver respektive beredskapssektor stärka sin förmåga att upptäcka och hantera incidenter som skulle kunna utgöra\\\naktörsdrivna hot. Mot den bakgrunden ska Kommerskollegium:\n\n- säkerställa en kontinuerlig lägesuppfattning av incidenter inom den egna verksamheten och inom sitt sektorsansvar i syfte att upprätthålla en normalbild,\n\n- sammanställa öppen information om den hotbild som finns mot sektorn och tillgängliggöra den för aktörer som tillhandahåller samhällsviktig verksamhet inom sektorn samt\n\n- samverka med Säkerhetspolisen, Myndigheten för civilt försvar samhällsskydd och beredskap och andra berörda myndigheter i syfte att vid behov klargöra eller utveckla rapporteringsvägar för avvikelser eller säkerhetsincidenter.\n\nUppdraget ska redovisas senast den 28 februari 2027 till Regeringskansliet [Utrikesdepartement].",
+   "dates": [
+    "2027-02-28"
+   ],
+   "deadlines": [
+    "2027-02-28"
+   ],
+   "recipients": [
+    "Regeringskansliet"
+   ],
+   "partners": [
+    "Myndigheten för civilt försvar",
+    "Säkerhetspolisen"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "utveckla",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "säkerställa en kontinuerlig lägesuppfattning av incidenter inom den egna verksamheten och inom sitt sektorsansvar i syfte att upprätthålla en normalbild,",
+    "sammanställa öppen information om den hotbild som finns mot sektorn och tillgängliggöra den för aktörer som tillhandahåller samhällsviktig verksamhet inom sektorn samt",
+    "samverka med Säkerhetspolisen, Myndigheten för civilt försvar samhällsskydd och beredskap och andra berörda myndigheter i syfte att vid behov klargöra eller utveckla rapporteringsvägar för avvikelser eller säkerhetsincidenter."
+   ],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26119:assignments:2"
+  },
+  {
+   "title": "Uppdrag om strategiska beroenden",
+   "group": [],
+   "text": "Kommerskollegium ges i uppdrag att utveckla och föreslå en metod för att identifiera strategiska beroenden i syfte att stärka Sveriges och EU:s motståndskraft och ekonomiska säkerhet. Myndigheten ska vidare, utifrån föreslagen metod, analysera Sveriges strategiska beroenden. Uppdraget ska genomföras i dialog med Regeringskansliet (Utrikesdepartementet och Klimat- och näringslivsdepartementet). Vid behov ska synpunkter inhämtas från Tillväxtverket, RISE, Försvarets Materielverk, Totalförsvarets forskningsinstitut, Sveriges geologiska undersökning, Tillväxtanalys och Vinnova samt andra berörda myndigheter. Myndigheten ska redovisa uppdraget senast den 30 april 2026 till Regeringskansliet (Utrikesdepartementet).",
+   "dates": [
+    "2026-04-30"
+   ],
+   "deadlines": [
+    "2026-04-30"
+   ],
+   "recipients": [
+    "Regeringskansliet (Utrikesdepartementet)"
+   ],
+   "partners": [
+    "Sveriges geologiska undersökning",
+    "Tillväxtverket",
+    "Totalförsvarets forskningsinstitut",
+    "Verket för innovationssystem"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "föreslå",
+    "samordna",
+    "utveckla",
+    "beredskap_säkerhet",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26119:assignments:3"
+  },
+  {
+   "title": "Uppdrag att bevaka centrala marknadsaktörers handel av kritiska råvaror",
+   "group": [],
+   "text": "Kommerskollegium ska utföra de uppgifter som åligger Sverige enligt artikel 21.2 i Europaparlamentets och rådets EU-förordning (EU) 2024/1252 om inrättande av en ram för säkerställande av trygg och hållbar försörjning av kritiska råmaterial, dock enbart vad gäller att bevaka handel och handelsflöden relaterade till kritiska råmaterial från centrala marknadsaktörer. Kommerskollegium ska lämna information om bevakningen till Sveriges geologiska undersökning (SGU) och bistå med information om handel och handelsflöden som är relevanta med avseende på produktion och produktionskapacitet i unionen och globalt i olika led i värdekedjan för råmaterial (artikel 20.1 d) för att SGU ska kunna rapportera till EU-kommissionen enligt artikel 45 i samma förordning.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [
+    "Sveriges geologiska undersökning"
+   ],
+   "partners": [
+    "Sveriges geologiska undersökning"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "utveckla",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26119:assignments:4"
+  },
+  {
+   "title": "Utvecklad biståndsverksamhet 2026-2028",
+   "group": [],
+   "text": "Kommerskollegium ska redovisa en plan för den biståndsfinansierade verksamheten i enlighet med OECD:s biståndskommitté DAC:s riktlinjer för vad som kan klassificeras som bistånd, till och med 2028. Kommerskollegium ska särskilt redovisa:\n\n- Hur samarbetsformer kan utvecklas inom Team Sweden, inklusive genom en projektbaserad ansats, inom ramen för de olika organisationernas mandat och förutsättningar.\n- Ytterligare åtgärder för att stärka arbetet med synergier mellan utvecklingssamarbete, främjande och handelspolitik för Team Sweden-aktörer i fält.\n- Konsekvenserna för myndighetens övergripande verksamhet.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "Hur samarbetsformer kan utvecklas inom Team Sweden, inklusive genom en projektbaserad ansats, inom ramen för de olika organisationernas mandat och förutsättningar.",
+    "Ytterligare åtgärder för att stärka arbetet med synergier mellan utvecklingssamarbete, främjande och handelspolitik för Team Sweden-aktörer i fält.",
+    "Konsekvenserna för myndighetens övergripande verksamhet."
+   ],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26119:assignments:5"
+  },
+  {
+   "title": "Prognoser",
+   "group": [],
+   "text": "Kommerskollegium ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Prognoserna lämnas i informationssystemet Hermes senast\n\n- 2 februari\n- 22 april\n- 24 juli och\n- 9 november.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26119:assignments:6"
+  },
+  {
+   "title": "Pågående uppdrag",
+   "group": [],
+   "text": "| | | |\n| --- | --- | --- |\n| Uppdrag | Beslut om uppdrag | Redovisningstidpunkt |\n| Kommerskollegium ska stärka och påskynda förenklingsarbetet. | I regleringsbrevet för 2025 | 16 mars 2026 och 16 mars 2027. |\n| | | |\n| Inriktning för civilt försvar 2025-2030 (Fö2024/02054) | 2024-12-19 | Årligen i samband med årsredovisningen lämnas en särskild redovisning för civilt försvar till Regeringskansliet |",
+   "dates": [
+    "2024-12-19",
+    "2026-03-16",
+    "2027-03-16"
+   ],
+   "deadlines": [],
+   "recipients": [
+    "Regeringskansliet"
+   ],
+   "partners": [],
+   "channels": [
+    "årsredovisning"
+   ],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "26119:assignments:7"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "1:1",
+   "name": "Biståndsverksamhet",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 7,
+    "name": "Internationellt bistånd"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Kommerskollegium",
+     "amount_tkr": 65500,
+     "items": [
+      {
+       "ap": "10",
+       "name": "Biståndsverksamhet - del till Kommerskollegium (ram)",
+       "amount_tkr": 65500
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "10",
+     "name": "Biståndsverksamhet - del till Kommerskollegium",
+     "text": "Anslagsposten ska användas för att bedriva handelsrelaterat utvecklingssamarbete samt driva den nationella kontaktpunkten Open Trade Gate Sweden (OTGS). Det ska ske i enlighet med förordningen (2012:990) med instruktion för Kommerskollegium och i enlighet med regeringens uppdrag till Kommerskollegium (UD2019/11795) att utvidga OTGS verksamhet för att ytterligare underlätta export från utvecklingsländer. Medlen får även användas för expertstöd, metod- och kompetensutveckling, utvärdering, erfarenhetsredovisning och revision av handelsrelaterat utvecklingssamarbete.\nMedlen ska användas för handelsrelaterat utvecklingssamarbete i enlighet med reformagendan och strategier för internationellt utvecklingssamarbete samt regeringens målsättningar om stärkta synergier mellan handel och bistånd och om att stödja utvecklad handelskapacitet i prioriterade samarbetsländer i närområdet såsom Ukraina, Moldavien och Armenien. Medlen ska kunna användas för verksamhet i låg- och medelinkomstländer.\nHögst 5 000 000 kronor ska användas till projektet om en kapacitetsstärkande nordisk-baltisk (NB8) högnivågrupp som stöd till Ukrainas EU-anslutningsförhandling. Kommerskollegium ska använda anvisade medel bland annat för att finansiera den nationella rådgivning som respektive NB8-land beslutar om.\nHögst 9 000 000 kronor ska användas för att stödja projektet om en expertarbetsgrupp för EU-anslutningsförhandlingar vid Ukrainas vice premiärministers kansli.\nMedlen får endast användas i enlighet med OECD:s biståndskommitté DAC:s riktlinjer för vad som kan klassificeras som bistånd.\nAv medlen får högst 35 miljoner kronor användas till förvaltningskostnader.\nKommerskollegium ska till Styrelsen för internationellt utvecklingssamarbete (Sida) sammanställa och rapportera statistik i enlighet med OECD:s biståndskommitté DAC:s riktlinjer. För att främja transparens i biståndet ska myndigheten tillgängliggöra dokument och resultat på Openaid.se. Sida samordnar denna rapportering och kommer att meddela tidpunkter och tillvägagångsätt."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "10",
+     "max": 5000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "10",
+     "max": 9000000,
+     "unit": "kronor"
+    }
+   ]
+  },
+  {
+   "code": "2:2",
+   "name": "Kommerskollegium",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 24,
+    "name": "Näringsliv"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Kommerskollegium",
+     "amount_tkr": 130363,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Kommerskollegium (ram)",
+       "amount_tkr": 130363
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Kommerskollegium",
+     "text": "Anslagsposten får användas för Kommerskollegiums förvaltningsutgifter.\nAv anslagsposten avser 8 300 000 kronor de svenska kontaktpunkterna för tjänster och varor. Det sammanlagda medelsbehovet för Tillväxtverkets och Konsumentverkets åtgärder avseende kontaktpunkten för tjänster har beräknats till 4 200 000 kronor, varav\\\n3 950 000 kronor avser Tillväxtverket och 250 000 kronor Konsumentverket. Kommerskollegium får lämna bidrag, efter rekvisition, till berörda myndigheter för deras kostnader med sammanlagt högst 4 200 000 kronor."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "1",
+     "max": 4200000,
+     "unit": "kronor"
+    }
+   ]
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "1:1 Biståndsverksamhet",
+   "ap": "ap.10",
+   "Anslagskredit": 1965,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:2 Kommerskollegium",
+   "ap": "ap.1",
+   "Anslagskredit": 3910,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 17000,
+  "Räntekontokredit": 11000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 16322
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 16322
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 16322
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 16322
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 16322
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 16322
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 16322
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 16322
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 16322
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 16322
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 16322
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 16321
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:1 Biståndsverksamhet",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.10",
+     "1 965",
+     "Inget",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "2:2 Kommerskollegium",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "3 910",
+     "3 %",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "17 000"
+    ],
+    [
+     "Räntekontokredit",
+     "11 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "16 322"
+    ],
+    [
+     "2026-02-25",
+     "16 322"
+    ],
+    [
+     "2026-03-25",
+     "16 322"
+    ],
+    [
+     "2026-04-25",
+     "16 322"
+    ],
+    [
+     "2026-05-25",
+     "16 322"
+    ],
+    [
+     "2026-06-25",
+     "16 322"
+    ],
+    [
+     "2026-07-25",
+     "16 322"
+    ],
+    [
+     "2026-08-25",
+     "16 322"
+    ],
+    [
+     "2026-09-25",
+     "16 322"
+    ],
+    [
+     "2026-10-25",
+     "16 322"
+    ],
+    [
+     "2026-11-25",
+     "16 322"
+    ],
+    [
+     "2026-12-25",
+     "16 321"
+    ],
+    [
+     "Summa",
+     "195 863"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "1:1 ap.10",
+     "Biståndsverksamhet - del till Kommerskollegium"
+    ],
+    [
+     "2:2 ap.1",
+     "Kommerskollegium"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [],
+ "has_fee_section": false,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 8,
+  "n_org": 1,
+  "n_assignments": 8,
+  "n_deadlines": 6,
+  "deadlines": [
+   "2026-04-30",
+   "2026-05-15",
+   "2026-09-30",
+   "2026-12-31",
+   "2027-02-22",
+   "2027-02-28"
+  ],
+  "partners": [
+   "Bolagsverket",
+   "Myndigheten för civilt försvar",
+   "Myndigheten för digital förvaltning",
+   "Statskontoret",
+   "Sveriges geologiska undersökning",
+   "Säkerhetspolisen",
+   "Tillväxtverket",
+   "Totalförsvarets forskningsinstitut",
+   "Verket för innovationssystem"
+  ],
+  "n_appropriations": 2,
+  "appropriations_total_tkr": 195863,
+  "payment_plan_total_tkr": 195863,
+  "md_chars": 15680
+ },
+ "layout": "standard",
+ "warnings": []
+}

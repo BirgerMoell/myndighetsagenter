@@ -1,0 +1,1007 @@
+{
+ "schema_version": 1,
+ "id": 27533,
+ "original_rbid": 25855,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-08-20",
+ "year": "2026",
+ "name": "Folkhälsomyndigheten",
+ "slug": "folkhalsomyndigheten",
+ "department": "Socialdepartementet",
+ "expenditure_areas": [
+  9
+ ],
+ "registry_numbers": [
+  "S2026/01609"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1",
+   "2025/26:143"
+  ],
+  "bet": [
+   "2025/26:FiU46",
+   "2025/26:SoU1"
+  ],
+  "rskr": [
+   "2025/26:114",
+   "2025/26:181"
+  ]
+ },
+ "n_attachments_stated": 1,
+ "mission": "",
+ "goals": [
+  {
+   "title": null,
+   "group": [],
+   "text": "*Myndighetens smittskyddsarbete*\n\nFolkhälsomyndigheten ska redovisa hur myndigheten har utvecklat sitt smittskyddsarbete gällande strukturer, arbetssätt och metoder samt hur myndigheten har förvaltat lärdomar och erfarenheter från pandemin.\n\n*Den nationella läkemedelsstrategin*\n\nFolkhälsomyndigheten ska redogöra för hur myndigheten har arbetat för att bidra till för myndigheten relevanta fokusområden i den nationella läkemedelsstrategin.\n\n*Redovisning av förändrat arbete enligt det nya tobakspolitiska målet*\n\nFolkhälsomyndigheten ska redovisa de åtgärder som har vidtagits och hur arbetet har förändrats för att nå målet om minskade medicinska och sociala skador orsakade av tobaks- och nikotinprodukter sedan det nya målet infördes.\n\n*Öka förmågan att använda AI och ny teknik genom datadrivet arbete*\n\nFolkhälsomyndigheten ska redovisa i vilken utsträckning de arbetar datadrivet samt vilka åtgärder myndigheten vidtagit för att förbättra sin förmåga att arbeta datadrivet.\n\n*Begränsande av kommunsektorns administrativa kostnader*\n\nFolkhälsomyndigheten ska redovisa hur myndigheten begränsat de kostnadsmässiga konsekvenserna för kommuner och regioner, vid begäran om uppgifter och dokumentation.\n\n*Marknadskontroll för ökad regelefterlevnad*\n\nFolkhälsomyndigheten ska inom ramen för tillämpningen av Europaparlamentets och rådets förordning 2019/1020 (EU) om marknadskontroll och Europaparlamentets och rådets förordning 2022/2065 (EU) om digitala tjänster beskriva hur myndigheten har bidragit i aktiviteter på europeisk nivå som har fokus på e-handel med produkter som inte lever upp till EU-lagstiftning. Folkhälsomyndigheten ska vidare beskriva hur myndigheten har samarbetat med övriga relevanta marknadskontrollmyndigheter, inklusive Tullverket, och vad samarbetet resulterat i gällande operativa insatser avseende e-handel från tredje land.\n\n*Färdval och resepolicy vid tjänsteresor*\n\nAlla trafikslag ska kunna nyttjas (väg, järnväg, luft- och sjöfart) för att säkerställa effektiva och ändamålsenliga transporter. Folkhälsomyndigheten ska därför redovisa hur myndigheten har säkerställt att val av färdsätt vid tjänsteresor sker färdmedelsneutralt och utifrån behov. Vidare ska Folkhälsomyndigheten redovisa huruvida myndigheten köpt in hållbart flygbränsle till organisationens flygresor. När kostnader jämförs för olika färdval ska hela resans kostnad beaktas, exempelvis kostnader för nödvändig övernattning samt total arbetstid för hela resan.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Tullverket"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla",
+    "tillsyn_kontroll",
+    "statistik_data",
+    "digitalisering_ai",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27533:goals:0"
+  }
+ ],
+ "org": [
+  {
+   "title": "Säkerställa proaktivitet och handlingskraft vid fredstida krissituationer eller vid krig och krigsfara",
+   "group": [],
+   "text": "Folkhälsomyndigheten ska säkerställa att myndigheten har förmåga att agera proaktivt och handlingskraftigt i hanteringen av såväl fredstida krissituationer som vid krig och krigsfara. Utöver de krav som ställs i förordningen (2022:524) om statliga myndigheters beredskap ska myndigheten i detta syfte utbilda och träna sin personal samt se till att myndigheten stärker en kultur och arbetssätt som utgår från de krav som ett krig ställer. Uppdraget ska redovisas till Regeringskansliet (Socialdepartementet och Försvarsdepartementet) senast den 22 februari 2027. Detta ska ingå i den särskilda redovisningen för civilt försvar.",
+   "dates": [
+    "2027-02-22"
+   ],
+   "deadlines": [
+    "2027-02-22"
+   ],
+   "recipients": [
+    "Regeringskansliet (Socialdepartementet och Försvarsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2022:524"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "org",
+   "item_id": "27533:org:0"
+  }
+ ],
+ "assignments": [
+  {
+   "title": "Nya och ändrade uppdrag",
+   "group": [],
+   "text": "*1. Prognoser*\n\nMyndigheten ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Prognoserna lämnas i informationssystemet Hermes senast den\n\n- 2 februari,\n- 22 april,\n- 24 juli,\n- 9 november.\n\nMyndigheten ska redovisa en prognos för de förslag om beställningsbemyndiganden som lämnats i budgetunderlaget och för de åtaganden som ingåtts med stöd av äldre beställningsbemyndiganden. Prognosen ska lämnas senast den 24 juli 2026 via Statsredovisningssystemet Hermes och utformas enligt närmare information från Statskontoret.\n\n*2. Uppdrag om uppföljning av medicinsk kompetens*\n\nFolkhälsomyndigheten ska, med utgångspunkt i uppdraget om medicinsk kompetens (S2025/01479), redogöra för hur de åtgärder som presenterades i redovisningen av uppdraget har omhändertagits, samt vilka eventuella ytterligare åtgärder myndigheten vidtagit för att säkra medicinsk och smittskyddskompetens i verksamheten. Folkhälsomyndigheten ska senast den 30 januari 2026 lämna en muntlig delredovisning av uppdraget till Regeringskansliet (Socialdepartementet). Folkhälsomyndigheten ska senast den 30 april 2026 lämna en skriftlig slutredovisning av uppdraget till Regeringskansliet (Socialdepartementet).\n\n*3. Uppdrag att genomföra en nationell kraftsamling för ökad rörelse under 2026*\n\nFolkhälsomyndigheten ska genomföra en nationell kraftsamling för ökad rörelse hos befolkningen under 2026. Uppdraget ska i huvudsak genomföras i enlighet med uppdraget från Folkhälsomyndighetens regleringsbrev för budgetåret 2025 att förbereda genomförandet av en nationell kraftsamling för ökad rörelse under 2026. Folkhälsomyndigheten ska senast den 30 april 2026 lämna en delredovisning av uppdraget till Regeringskansliet (Socialdepartementet). Folkhälsomyndigheten ska senast den 31 mars 2027 lämna en slutredovisning av uppdraget till Regeringskansliet (Socialdepartementet). För uppdraget får Folkhälsomyndigheten under 2026 använda 15 000 000 kronor som ska redovisas mot det under utgiftsområde 9 Hälsovård, sjukvård och social omsorg för budgetåret 2026 uppförda anslaget 1:6 Bidrag till folkhälsa och sjukvård, anslagspost 21 Fysisk aktivitet på recept. Medlen betalas ut engångsvis efter rekvisition till Kammarkollegiet senast den 1 december 2026. Medel som inte har använts för avsett ändamål ska återbetalas senast den 31 mars 2027 till Kammarkollegiet. Vid samma tidpunkt ska en ekonomisk redovisning av använda medel lämnas till Kammarkollegiet. Rekvisition, återbetalning och redovisningar ska hänvisa till regleringsbrevet för budgetåret 2026 avseende Folkhälsomyndigheten.\n\n*4. Uppdrag att ta fram vägledning och rekommendationer för att främja psykisk hälsa och förebygga psykisk ohälsa bland äldre personer*\n\nFolkhälsomyndigheten ska ta fram vägledning och rekommendationer, riktat till verksamheter i kommuner och regioner samt civilsamhällets organisationer, för att främja psykisk hälsa och förebygga psykisk ohälsa bland äldre personer. I uppdraget ingår att genomföra insatser för att sprida och bidra till implementering av den framtagna kunskapen samt att ta fram informationsmaterial som ska kunna användas vid en nationell informationsinsats riktad till samtliga hushåll i Sverige med boende i åldern 65 år och äldre. Vid genomförande av uppdraget ska Folkhälsomyndigheten föra dialog med och inhämta kunskap och erfarenheter från berörda myndigheter, Sveriges Kommuner och Regioner, kommuner och regioner, civilsamhällets organisationer och äldre personer. Folkhälsomyndigheten ska senast den 31 augusti 2026 lämna en redovisning av uppdraget till Regeringskansliet (Socialdepartementet). Redovisningen ska hänvisa till regleringsbrevet för budgetåret 2026 avseende Folkhälsomyndigheten. För uppdraget får Folkhälsomyndigheten under 2026 använda 3 500 000 kronor som ska redovisas mot det under utgiftsområde 9 Hälsovård, sjukvård och social omsorg för budgetåret 2026 uppförda anslaget 1:8 Bidrag till psykiatri, anslagsposten 4 Del till Folkhälsomyndigheten.\n\n*5. Uppdrag att genomföra insatser för att utveckla arbetet med att främja psykisk hälsa och förebygga psykisk ohälsa och suicid bland unga vuxna*\n\nFolkhälsomyndigheten ska genomföra insatser för att utveckla arbetet med att främja psykisk hälsa och förebygga psykisk ohälsa och suicid bland unga vuxna i åldern 18–29 år. I uppdraget ingår att öka kunskapen om målgruppens psykiska hälsa, ohälsa och suicidalitet, utveckla uppföljning, bl.a. inom ramen för nationella befolkningsundersökningar, och sprida information om psykisk hälsa och psykisk ohälsa riktat till målgruppen. I uppdraget ingår även att sprida kunskap om målgruppens psykiska hälsa och ohälsa inbegripet kunskapsbaserade förebyggande och främjande insatser till berörda aktörer, såsom kommuner och regioner, på ett målgruppsanpassat sätt. Vid genomförandet av uppdraget ska Folkhälsomyndigheten inhämta kunskap och erfarenheter från berörda myndigheter, Sveriges Kommuner och Regioner, kommuner och regioner, civilsamhällets organisationer och unga vuxna. Funktionshindersperspektivet ska beaktas vid genomförandet av uppdraget. Folkhälsomyndigheten ska senast den 23 maj 2026 respektive den 30 augusti 2027 lämna en delredovisning av uppdraget till Regeringskansliet (Socialdepartementet). Den delredovisning som ska lämnas senast den 23 maj 2026 ska innehålla en plan för uppdragets genomförande. Folkhälsomyndigheten ska senast den 30 augusti 2028 lämna en slutredovisning av uppdraget till Regeringskansliet (Socialdepartementet). Slutredovisningen ska innehålla eventuella förslag på fortsatta utvecklingsinsatser inom området samt förslag på hur Folkhälsomyndigheten kan stödja ett sådant fortsatt utvecklingsarbete. Redovisningarna ska hänvisa till regleringsbrevet för budgetåret 2026 avseende Folkhälsomyndigheten. För uppdraget får Folkhälsomyndigheten under 2026 använda 2 500 000 kronor som ska redovisas mot det under utgiftsområde 9 Hälsovård, sjukvård och social omsorg för budgetåret 2026 uppförda anslaget 1:8 Bidrag till psykiatri, anslagsposten 4 Del till Folkhälsomyndigheten.\n\n*6. Uppdrag om medvetandehöjande insatser för skydd mot biologiska hot*\n\nFolkhälsomyndigheten ska ta fram underlag till och genomföra utbildningar och övningar mot antagonistiska biologiska hot. Syftet är att öka kunskap och medvetandet om biologiska hot samt stärka beredskapen och det civila försvaret. Insatserna ska leda till en stärkt förmåga och motståndskraft mot biologiska hot och ha en tvärsektoriell ansats. Uppdraget ska ske i samverkan med Statens jordbruksverk, Livsmedelsverket och Statens veterinärmedicinska anstalt. Folkhälsomyndigheten ska senast den 1 juni 2026 lämna en muntlig delredovisning av uppdraget till Regeringskansliet (Socialdepartementet). Folkhälsomyndigheten ska senast den 15 januari 2027 lämna en slutredovisning av uppdraget till Regeringskansliet (Socialdepartementet).\n\n*7. Uppdrag att stärka myndighetens förmåga att möta de ökade behoven av hälsohotsberedskap inom det civila försvaret*\n\nFolkhälsomyndigheten ska genomföra insatser för att stärka myndighetens samhällsviktiga verksamhet och förmågan att upprätthålla denna vid höjd beredskap och ytterst krig. I uppdraget ingår bland annat att genomföra insatser för att stärka Folkhälsomyndighetens organisationsberedskap, operativa förmåga och övervakning av antagonistiska biologiska hot. Insatserna ska göras i den omfattning och med den inriktning som myndigheten bedömer mest angelägen, förutsatt att det inte innebär långsiktiga kostnadsökningar utöver tilldelade och beräknade anslagsnivåer. Folkhälsomyndigheten ska senast den 1 september 2026 respektive 1 mars 2027 lämna muntliga delredovisningar av uppdraget till Regeringskansliet (Socialdepartementet). Folkhälsomyndigheten ska senast den 1 februari 2028 lämna en slutredovisning av vidtagna åtgärder och resultatet av dessa till Regeringskansliet (Socialdepartementet).\n\n*8. Uppdrag att genomföra och samordna insatser för att bidra till arbetet med att förebygga och motverka ensamhet*\n\nFolkhälsomyndigheten ska med utgångspunkt i den nationella strategin mot ensamhet, genomföra och samordna insatser för att bidra till arbetet med att förebygga och motverka ensamhet. Strategin identifierar flera målgrupper, varav äldre är en målgrupp. Folkhälsomyndigheten ska senast den 31 mars 2027 lämna en redovisning av uppdraget till Regeringskansliet (Socialdepartementet). För uppdraget får Folkhälsomyndigheten under 2026 använda 6 000 000 kronor som ska redovisas mot det under utgiftsområde 9 Hälsovård, sjukvård och social omsorg för budgetåret 2026 uppförda anslaget 2:7 Stöd för att förebygga ohälsa och ensamhet bland äldre, anslagsposten 3 Ensamhet äldre – del till Kammarkollegiet. Medlen betalas ut engångsvis efter rekvisition till Kammarkollegiet senast den 1 december 2026. Medel som inte har använts för avsett ändamål ska återbetalas till Kammarkollegiet senast den 31 mars 2027. Vid samma tidpunkt ska en ekonomisk redovisning av använda medel lämnas till Kammarkollegiet. Redovisning, rekvisition och återbetalning ska hänvisa till regleringsbrevet för budgetåret 2026 avseende Folkhälsomyndigheten.\n\n*9. Uppdrag att förbereda vattkoppsvaccinering*\n\nFolkhälsomyndigheten ska under 2026 förbereda för införandet av vaccination mot vattkoppor i Sverige inom ramen för det allmänna vaccinationsprogrammet för barn samt inom ramen för en tidsbegränsad ikappvaccinationsinsats till unga under 18 år som ännu inte är immuna mot sjukdomen. Båda insatserna ska ske med start första kvartalet 2027. I uppdragets genomförande ska Folkhälsomyndigheten föra dialog med och inhämta synpunkter från exempelvis Socialstyrelsen, Läkemedelsverket, E-hälsomyndigheten, Sveriges Kommuner och Regioner, regionernas inköpsorganisation ADDA och professionsföreningar med flera. I uppdraget ingår också att uppdatera rekommendationer och informationsmaterial riktat till relevanta målgrupper såsom BVC, elevhälsa, regioner och kommuner, juridiskt arbete samt andra förberedelser för att sjukdomen ska kunna inkluderas i det nationella vaccinationsregistret med mera. Folkhälsomyndigheten ska löpande informera Regeringskansliet (Socialdepartementet) om hur arbetet fortskrider. Folkhälsomyndigheten ska senast den 15 maj 2026 lämna en delredovisning till Regeringskansliet (Socialdepartementet). Folkhälsomyndigheten ska senast den 1 mars 2027 lämna en slutredovisning av uppdraget till Regeringskansliet (Socialdepartementet).\n\n*10. Uppdrag att fördela medel till juridiska personer som genomför insatser för att tillhandahålla och utveckla en nationell telefon- och webbaserad stödlinje inom området psykisk hälsa och suicidprevention*\n\nFolkhälsomyndigheten får använda 40 750 000 kronor under 2026 för att fördela medel till juridiska personer som genomför insatser för att tillhandahålla och utveckla en nationell telefon- och webbaserad stödlinje inom området psykisk hälsa och suicidprevention. Folkhälsomyndigheten ska genom ett ansökningsförfarande specificera de villkor som ska vara förenade med statsbidraget inom ramen för ändamålet. Folkhälsomyndigheten ska senast den 30 april 2027 lämna en redovisning av uppdraget till Regeringskansliet (Socialdepartementet). Redovisningen ska hänvisa till regleringsbrevet för budgetåret 2026 avseende Folkhälsomyndigheten. För uppdraget får Folkhälsomyndigheten under 2026 använda 40 750 000 kronor som ska redovisas mot det under utgiftsområde 9 Hälsovård, sjukvård och social omsorg för budgetåret 2026 uppförda anslaget 1:8 Bidrag till psykiatri, anslagsposten 4 Del till Folkhälsomyndigheten. Av dessa medel får Folkhälsomyndigheten använda 750 000 kronor för administration och uppföljning i samband med uppdraget.\n\n*11. Uppdrag att betala ut projektbidrag till ideella organisationer som bedriver arbete för att främja psykisk hälsa och förebygga psykisk ohälsa och suicid*\n\nFolkhälsomyndigheten får använda 11 000 000 kronor under 2026 för att betala ut projektbidrag till ideella organisationer som bedriver arbete för att främja psykisk hälsa och förebygga psykisk ohälsa och suicid. Folkhälsomyndigheten ska genom ett ansökningsförfarande specificera de villkor som ska vara förenade med statsbidraget inom ramen för ändamålet. Folkhälsomyndigheten ska senast den 30 april 2027 respektive 30 april 2028 lämna en delredovisning av uppdraget till Regeringskansliet (Socialdepartementet). Folkhälsomyndigheten ska senast den 30 april 2029 lämna en slutredovisning av uppdraget till Regeringskansliet (Socialdepartementet). Redovisningarna ska hänvisa till regleringsbrevet för budgetåret 2026 avseende Folkhälsomyndigheten. För uppdraget får Folkhälsomyndigheten under 2026 använda 11 000 000 kronor som ska redovisas mot det under utgiftsområde 9 Hälsovård, sjukvård och social omsorg för budgetåret 2026 uppförda anslaget 1:8 Bidrag till psykiatri, anslagsposten 4 Del till Folkhälsomyndigheten. Av dessa medel får Folkhälsomyndigheten använda 1 000 000 kronor för administration och uppföljning i samband med uppdraget.\n\n*12. Uppdrag att genomföra en förstudie inför den nationella undersökningen om Skolbarns hälsovanor i anpassad skola*\n\nFolkhälsomyndigheten får i uppdrag att genomföra en förstudie om förutsättningar för att, i ett kommande steg kunna genomföra den nationella undersökningen om Skolbarns hälsovanor i anpassad skola. I genomförandet av uppdraget ska myndigheten inhämta kunskap och erfarenheter från relevanta organisationer inom det civila samhället, Allmänna Barnhuset, berörda myndigheter och forskarsamhället. Uppdraget ska redovisas till Regeringskansliet (Socialdepartementet) med kopia till Utbildningsdepartementet senast den 1 februari 2027.\n\n*13. Uppdrag om avtal om företagens åtgärder för försörjningsberedskapen*\n\nFolkhälsomyndigheten ska bland annat med stöd i dokumentet Utgångspunkter för totalförsvaret 2025–2030 identifiera behov av och, om möjligt, teckna avtal som syftar till att upprätthålla försörjningen av varor och tjänster som är nödvändiga för myndighetens verksamhetsområde vid fredstida kriser och höjd beredskap. I de fall avtalsbehoven inte kan hanteras med stöd i ordinarie upphandlingsregler och Folkhälsomyndigheten därför nyttjar särskilda avtalsformer i form av sådana försörjningsberedskapsavtal (F-avtal) som beskrivs i betänkandet SOU 2025:68 Nya samverkansformer, modern byggnads- och reparationsberedskap – för ökad försörjningsberedskap, ska dessa avtal löpande rapporteras till Myndigheten för civilt försvar som ska föra ett register över sådana avtal. Uppdraget ska redovisas till Regeringskansliet (Socialdepartementet och Försvarsdepartementet) senast den 22 februari 2027. Detta ska ingå i den särskilda redovisningen för civilt försvar.\n\n*14. Uppdrag om stärkt arbete mot utanförskap*\n\nFolkhälsomyndigheten ska förvalta och utveckla sitt arbete när det gäller att använda sig av regionala statistikområden (RegSo) för analyser, uppföljningar och utvärderingar samt vid redovisning av statistik med syfte att främja hälsa i områden där utanförskapet är stort. Vidare ska Folkhälsomyndigheten analysera hur myndigheten kan påverka folkhälsan i områden där utanförskapet är stort samt belysa hur myndighetens arbete mot utanförskap kan stärkas. Folkhälsomyndigheten ska även bistå Boverket med sakkunskap och underlag som bidrar till Boverkets uppdrag om utanförskap i regleringsbrev för 2026. Folkhälsomyndighetens tidigare uppdrag om effektivare integration och minskat utanförskap (Regleringsbrev 2024) samt Statistiska centralbyråns och Boverkets fördjupade analys av områden där utanförskapet är stort (SCB, Slutrapport av regeringsuppdrag 2024:2) ska vara utgångspunkter för arbetet. Folkhälsomyndigheten ska löpande hålla Regeringskansliet (Socialdepartementet och Arbetsmarknadsdepartementet) informerat om uppdraget. Uppdraget ska redovisas till Regeringskansliet (Socialdepartementet och Arbetsmarknadsdepartementet) senast den 5 mars 2027. Folkhälsomyndigheten får under 2026 använda högst 500 000 kronor för uppdraget. Kostnaden ska belasta utgiftsområde 13, anslag 4:1 Åtgärder mot utanförskap, anslagspost 2 Åtgärder mot utanförskap – del till Kammarkollegiet. Medlen utbetalas engångsvis efter rekvisition ställd till Kammarkollegiet senast den 30 maj 2026. Medel som inte förbrukas ska återbetalas till Kammarkollegiet senast den 31 mars 2027. Senast vid samma tidpunkt ska en ekonomisk redovisning över använda medel lämnas till Kammarkollegiet. Rekvisition, redovisning och återbetalning av medel ska hänvisa till detta regleringsbrev.\n\n*15. Uppdrag att analysera smittsamma sjukdomars relevans i förhållande till arbetsskadeförsäkring och statligt personskadeskydd*\n\nFolkhälsomyndigheten ska tillsammans med Arbetsmiljöverket ta fram en analys av olika smittsamma sjukdomars relevans i förhållande till 5 § 2 förordningen (1977:284) om arbetsskadeförsäkring och statligt personskadeskydd samt tillhörande bilaga. Inom ramen för uppdraget bör myndigheten genom en internationell utblick hämta ledning från andra jämförbara länder. Uppdraget ska redovisas till Socialdepartementet senast den 7 juni 2027.\n\n*16. Uppdrag om erfarenheter av sexuella praktiker som kan vara skadliga*\n\nFolkhälsomyndigheten ska utreda hur erfarenheter av sexuella praktiker som kan vara skadliga, t.ex. strypning, kan kartläggas. Folkhälsomyndigheten ska i uppdraget beakta förutsättningar att ställa frågor om detta i t.ex. undersökningarna UngKAB och SRHR. Myndigheten ska även inhämta kunskap från Rättsmedicinalverket. Folkhälsomyndigheten ska redovisa uppdraget senast den 30 november 2026 till Regeringskansliet (Arbetsmarknadsdepartementet med kopia till Socialdepartementet). För uppdraget får Folkhälsomyndigheten under 2026 använda högst 1 500 000 kronor som ska redovisas mot det under utgiftsområde 13 Integration och jämställdhet för budgetåret 2026 uppföra anslaget 3:1 Särskilda jämställdhetsåtgärder, anslagsposten 12 Jämställdhetsinsatser efter regeringsbeslut. Medlen betalas ut engångsvis efter rekvisition till Kammarkollegiet senast den 1 december 2026. Medel som inte har använts ska återbetalas senast den 31 mars 2027 till Kammarkollegiet. Vid samma tidpunkt ska en ekonomisk redovisning av använda medel lämnas till Kammarkollegiet. Rekvisition, återbetalning och redovisning ska hänvisa till regleringsbrevet för budgetåret 2026 avseende Folkhälsomyndigheten.\n\n*17. Uppdrag att undersöka hur ungas sexuella och reproduktiva hälsa och rättigheter inskränks*\n\nFolkhälsomyndigheten ska utifrån undersökningarna UngKAB23 och SRHR2024 redovisa ungas upplevelser av att begränsas av hedersnormer och inskränkningar i deras sexuella och reproduktiva hälsa och rättigheter (SRHR), t.ex. begränsningar eller krav från ens familj om partners kön, etnicitet eller religion eller krav på att vänta med sex tills man är gift. Vid behov ska Folkhälsomyndigheten ta fram ny kunskap genom exempelvis fokusgrupper eller intervjuer. Myndighetens analys ska så långt som möjligt redovisas utifrån kön och andra bakgrundsfaktorer som bedöms relevanta i sammanhanget. I uppdraget ingår att inhämta kunskap och erfarenheter från Jämställdhetsmyndigheten, Myndigheten för ungdoms- och civilsamhällesfrågor och andra relevanta aktörer. Vid genomförandet av uppdraget ska myndigheten beakta ett funktionshindersperspektiv. Folkhälsomyndigheten ska senast den 28 maj 2026 respektive den 31 mars 2027 lämna en delredovisning av uppdraget till Regeringskansliet (Socialdepartementet med kopia till Arbetsmarknadsdepartementet). Folkhälsomyndigheten ska senast den 31 mars 2028 lämna en slutredovisning av uppdraget till Regeringskansliet (Socialdepartementet med kopia till Arbetsmarknadsdepartementet). För uppdraget får Folkhälsomyndigheten under 2026 använda högst 1 000 000 kronor som ska redovisas mot det under utgiftsområde 13 Integration och jämställdhet för budgetåret 2026 uppförda anslaget 3:1 Särskilda jämställdhetsåtgärder, anslagsposten 12 Jämställdhetsinsatser efter regeringsbeslut. Medlen betalas ut engångsvis efter rekvisition till Kammarkollegiet senast den 1 december 2026. Medel som inte har använts ska återbetalas senast den 31 mars 2027 till Kammarkollegiet. Vid samma tidpunkt ska en ekonomisk redovisning av använda medel lämnas till Kammarkollegiet. Rekvisition, återbetalning och redovisning ska hänvisa till regleringsbrevet för budgetåret 2026 avseende Folkhälsomyndigheten.\n\n*18. Ändring av uppdrag att uppdatera stödmaterial för undervisning inom kunskapsområdet sexualitet, samtycke och relationer*\n\nUppdraget att uppdatera stödmaterial för undervisning inom kunskapsområdet sexualitet, samtycke och relationer (A2024/01235) ändras på så sätt att Folkhälsomyndigheten i genomförandet även ska inkludera kunskap om skadliga sexuella praktiker. I uppdraget ingår att inkludera ett kritiskt tänkande när det gäller skildringar man ser i pornografi, inklusive kunskap om att vissa handlingar som skildras eller sprids kan vara ett brott, t.ex. ett sexualbrott eller olaga våldsskildring. För uppdraget får Folkhälsomyndigheten under 2026 använda högst 3 600 000 kronor som ska redovisas mot det under utgiftsområde 13 Integration och jämställdhet för budgetåret 2026 uppförda anslaget 3:1 Särskilda jämställdhetsåtgärder, anslagsposten 12 Jämställdhetsinsatser efter regeringsbeslut. Medlen betalas ut engångsvis efter rekvisition till Kammarkollegiet senast den 1 december 2026. Medel som inte har använts ska återbetalas senast den 31 mars 2027 till Kammarkollegiet. Vid samma tidpunkt ska en ekonomisk redovisning av använda medel lämnas till Kammarkollegiet. Rekvisition, återbetalning och redovisning ska hänvisa till regleringsbrevet för budgetåret 2026 avseende Folkhälsomyndigheten.\n\n*19. Ändring av uppdrag att följa, utvärdera och stödja genomförandet av statens insatser inom området psykisk hälsa*\n\nFolkhälsomyndighetens uppdrag att, i samverkan med Socialstyrelsen följa, utvärdera och stödja genomförandet av statens insatser inom området psykisk hälsa i enlighet med regeringsbeslut I:12 från den 27 februari 2020 (S2020/01044) och regleringsbrev för budgetåret 2025 avseende Folkhälsomyndigheten ändras på så sätt att uppdragstiden förlängs och att den stödjande delen av uppdraget utgår. Detta då denna uppgift ingår i uppdraget att samordna, stödja och följa upp genomförandet av den nationella strategin inom området psykisk hälsa och suicidprevention (S2025/00016). Folkhälsomyndigheten och Socialstyrelsen ska senast den 30 juni 2026 lämna en delredovisning av uppdraget till Regeringskansliet (Socialdepartementet). Folkhälsomyndigheten och Socialstyrelsen ska senast den 30 augusti 2027 lämna en slutredovisning av uppdraget till Regeringskansliet (Socialdepartementet). Redovisningarna ska hänvisa till regleringsbrevet för budgetåret 2026 avseende Folkhälsomyndigheten respektive regleringsbrevet för budgetåret 2026 avseende Socialstyrelsen. För uppdraget får Folkhälsomyndigheten under 2026 använda 5 500 000 kronor som ska redovisas mot det under utgiftsområde 9 Hälsovård, sjukvård och social omsorg för budgetåret 2026 uppförda anslaget 1:8 Bidrag till psykiatri, anslagsposten 4 Del till Folkhälsomyndigheten.\n\n*20. Ändring av uppdrag att förbereda inför införandet av en reglering om suicidanalysutredningar*\n\nFolkhälsomyndighetens uppdrag att förbereda inför införandet av en reglering om suicidanalysutredningar i enlighet med regleringsbrev för budgetåret 2025 avseende Folkhälsomyndigheten ändras på så sätt att uppdragstiden förlängs och att utgångspunkten för arbetet ska vara att myndigheten ska vidta de åtgärder som krävs för att arbetet med utredningar för att förebygga suicid inom ramen för en nationell utredningsfunktion ska påbörjas senast den 1 juli 2026. Folkhälsomyndigheten ska senast den 30 juni 2026 lämna en delredovisning av uppdraget till Regeringskansliet (Socialdepartementet). Folkhälsomyndigheten ska senast den 31 maj 2027 lämna en slutredovisning av uppdraget till Regeringskansliet (Socialdepartementet). Redovisningarna ska hänvisa till regleringsbrevet för budgetåret 2026 avseende Folkhälsomyndigheten. För uppdraget får Folkhälsomyndigheten under 2026 använda 32 500 000 kronor som ska redovisas mot det under utgiftsområde 9 Hälsovård, sjukvård och social omsorg för budgetåret 2026 uppförda anslaget 1:8 Bidrag till psykiatri, anslagsposten 4 Del till Folkhälsomyndigheten.\n\n*21. Ändring av uppdrag att betala ut bidrag till vissa organisationer inom det civila samhället som arbetar med rörelsefrämjande aktiviteter*\n\nFolkhälsomyndighetens uppdrag att betala ut organisationsbidrag till vissa organisationer inom det civila samhället som arbetar med rörelsefrämjande aktiviteter i enlighet med regeringsbeslut I:2 från den 19 december 2024 (S2024/02156) ändras på så sätt att myndigheten ska betala ut bidrag till organisationer inom civila samhället vars huvudsakliga verksamhet främjar hälsa genom fysisk aktivitet och rörelse och som inte omfattas av de nuvarande ramarna för idrotts- eller friluftsstöden. Syftet är att stärka och skapa ytterligare vägar till ökad rörelse och aktiv fritid för personer som i dag inte i tillräcklig utsträckning nås av den traditionella idrotts- och friluftsrörelsen. Bidrag ska lämnas till organisationer som har bedrivit verksamhet i Sverige i minst två år före ansökan. Bidraget får användas till organisationers kostnader för att genomföra verksamheten eller öka deltagandet såsom extern kommunikation och uppsökande verksamhet. Folkhälsomyndigheten ska avbryta pågående utlysning och utgå från detta ändrade uppdrag i den nya utlysningen. Folkhälsomyndigheten ska prioritera mellan inkomna ansökningar och ge företräde till de ansökningar som bedöms ha bäst förutsättningar att uppfylla syftet med bidraget och till organisationer som inte har beviljats annat statligt bidrag för samma verksamhet och bidragsår som ansökan avser. Folkhälsomyndigheten ska genom ett ansökningsförfarande specificera ytterligare villkor som ska vara förenade med bidraget för att uppnå syftet. Folkhälsomyndigheten ska senast den 30 september 2026 respektive 2027 informera Regeringskansliet (Socialdepartementet) om arbetet och senast den 30 april 2028 lämna en slutredovisning av uppdraget till Regeringskansliet (Socialdepartementet). Redovisningen av uppdraget ska hänvisa till regleringsbrevet för budgetåret 2026 avseende Folkhälsomyndigheten. För uppdraget får Folkhälsomyndigheten använda 10 000 000 kronor som ska redovisas mot det under utgiftsområde 9 Hälsovård, sjukvård och social omsorg för budgetåret 2026 uppförda anslaget 1:6 Bidrag till folkhälsa och sjukvård, anslagsposten 14 Stöd till rörelsefrämjande organisationer. Av dessa medel får högst 1 000 000 kronor användas för inrättandet, administration och uppföljning i samband med uppdraget. Regeringen beräknar att 10 000 000 kronor kommer att avsättas för uppdraget för 2027, under förutsättning att riksdagen anvisat medel för det aktuella anslaget.\n\n*22. Uppdrag att följa upp ikappvaccinationsinsats mot pneumokocker*\n\nFolkhälsomyndigheten ska följa upp den ikappvaccinationsinsats mot pneumokockinfektion som regeringen och Sveriges Kommuner och Regioner kommit överens om (S2026/01288) och som startar hösten 2026. Folkhälsomyndigheten ska samla in underlag om vaccinationer mot pneumokocker som görs i enlighet med överenskommelsen, sammanställa och redovisa genomförandet av insatsen. Av redovisningen ska bland annat framgå hur många som vaccinerats, eventuella regionala skillnader samt utmaningar som identifierats under året, baserat på regionala bidrag enligt den rutin som redan används för rapportering av vaccinationer mot pneumokocker. Ett arbete pågår för att möjliggöra registrering även av ikappvaccinationer i det nationella vaccinationsregistret (NVR) där regionerna på sikt, eller de som regionerna har avtal med, kan rapportera de genomförda vaccinationerna i NVR. Redovisningen ska också beskriva den samlade bilden av pneumokockvaccinationer till personer som är 65 år och äldre, både inom det nationella särskilda vaccinationsprogrammet och inom ikappvaccinationsinsatsen. Folkhälsomyndigheten ska i genomförandet av uppdraget ha löpande dialog med Sveriges Kommuner och Regioner och andra relevanta aktörer. Folkhälsomyndigheten ska årligen senast den 1 mars lämna en delredovisning av uppdraget till Regeringskansliet (Socialdepartementet). Folkhälsomyndigheten ska senast den 1 december 2029 lämna en slutredovisning av uppdraget till Regeringskansliet (Socialdepartementet).\n\n*23. Uppdrag att följa upp ikappvaccinationsinsats mot vattkoppor*\n\nFolkhälsomyndigheten ska följa upp den ikappvaccinationsinsats mot vattkoppor som regeringen och Sveriges Kommuner och Regioner kommit överens om (S2026/01351) och som startar under det första kvartalet 2027. Folkhälsomyndigheten ska samla in underlag om de vaccinationer mot vattkoppor som utförs i enlighet med överenskommelsen, samt sammanställa detta och redovisa genomförandet av insatsen. Av redovisningen ska bland annat framgå huruvida kommuner och regioner påbörjat insatsen, baserat på uppgifter från regioner och kommuner. Ett arbete pågår för att möjliggöra registrering av ikappvaccinationer i det nationella vaccinationsregistret (NVR). Under förutsättning att detta möjliggörs ska Folkhälsomyndigheten redovisa antalet vaccinationer samt eventuella skillnader, exempelvis regionala eller mellan könen, baserat på data från NVR. Folkhälsomyndigheten ska i genomförandet av uppdraget ha löpande dialog med Sveriges Kommuner och Regioner och andra relevanta aktörer, så som regioner, kommuner, representanter för elevhälsan och professionsföreningar. Folkhälsomyndigheten ska årligen senast den 15 maj lämna en delredovisning av uppdraget till Regeringskansliet (Socialdepartementet). Folkhälsomyndigheten ska senast den 15 maj 2030 lämna en slutredovisning av uppdraget till Regeringskansliet (Socialdepartementet).\n\n*24. Ändring av uppdrag att förbereda, utforma och implementera ett långsiktigt nationellt stöd för att stimulera användandet av innovativa utfallsfokuserade arbetssätt och investeringsmodeller såsom sociala utfallskontrakt.*\n\nFolkhälsomyndighetens uppdrag att förbereda, utforma och implementera ett långsiktigt nationellt stöd för att stimulera användandet av innovativa utfallsfokuserade arbetssätt och investeringsmodeller såsom sociala utfallskontrakt (S2024/01659) ändras på så sätt att Folkhälsomyndigheten även ska ta fram förslag på hur civilsamhällets förutsättningar för kapitalförsörjning och finansiering för arbetet med sociala utfallskontrakt kan stärkas. Detta görs i syfte att underlätta investeringar i ideell verksamhet av t.ex. näringsliv, kommuner och regioner inom ramen för arbetet. Folkhälsomyndigheten ska vid behov inhämta kunskap från andra relevanta myndigheter, däribland Myndigheten för ungdoms- och civilsamhällesfrågor (MUCF) och Upphandlingsmyndigheten. Den kunskap och de erfarenheter som Folkhälsomyndigheten och Verket för innovationssystem (Vinnova) har utvecklat inom ramen för det nuvarande uppdraget ska nyttjas. I slutredovisningen, som lämnas senast den 31 mars 2027, ska det ingå förslag på hur det nationella stödet inom området kan utvecklas vidare, inbegripet hur berörda myndigheter kan stödja ett sådant fortsatt utvecklingsarbete. För uppdraget får Folkhälsomyndigheten under 2026 använda ytterligare 1 500 000 kronor som ska redovisas mot det under utgiftsområde 9 Hälsovård, sjukvård och social omsorg för budgetåret 2026 uppförda anslaget 1:6 Bidrag till folkhälsa och sjukvård, anslagsposten 53 God folkhälsa. Medlen betalas ut engångsvis efter rekvisition till Kammarkollegiet senast den 1 december 2026. Medel som inte har använts ska återbetalas senast den 31 mars 2027 till Kammarkollegiet. Vid samma tidpunkt ska en ekonomisk redovisning av använda medel lämnas till Kammarkollegiet. Rekvisition, återbetalning och redovisning ska hänvisa till diarienumret för detta beslut.",
+   "dates": [
+    "2020-02-27",
+    "2024-12-19",
+    "2026-01-30",
+    "2026-04-30",
+    "2026-05-15",
+    "2026-05-23",
+    "2026-05-28",
+    "2026-05-30",
+    "2026-06-01",
+    "2026-06-30",
+    "2026-07-01",
+    "2026-07-24",
+    "2026-08-31",
+    "2026-09-01",
+    "2026-09-30",
+    "2026-11-30",
+    "2026-12-01",
+    "2027-01-15",
+    "2027-02-01",
+    "2027-02-22",
+    "2027-03-01",
+    "2027-03-05",
+    "2027-03-31",
+    "2027-04-30",
+    "2027-05-31",
+    "2027-06-07",
+    "2027-08-30",
+    "2028-02-01",
+    "2028-03-31",
+    "2028-04-30",
+    "2028-08-30",
+    "2029-04-30",
+    "2029-12-01",
+    "2030-05-15"
+   ],
+   "deadlines": [
+    "2026-01-30",
+    "2026-04-30",
+    "2026-05-15",
+    "2026-05-23",
+    "2026-05-28",
+    "2026-05-30",
+    "2026-06-01",
+    "2026-06-30",
+    "2026-07-01",
+    "2026-07-24",
+    "2026-08-31",
+    "2026-09-01",
+    "2026-09-30",
+    "2026-11-30",
+    "2026-12-01",
+    "2027-01-15",
+    "2027-02-01",
+    "2027-02-22",
+    "2027-03-01",
+    "2027-03-05",
+    "2027-03-31",
+    "2027-04-30",
+    "2027-05-31",
+    "2027-06-07",
+    "2027-08-30",
+    "2028-02-01",
+    "2028-03-31",
+    "2028-04-30",
+    "2028-08-30",
+    "2029-04-30",
+    "2029-12-01",
+    "2030-05-15"
+   ],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-03-01",
+    "2026-04-22",
+    "2026-05-15",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [
+    "Boverket",
+    "Kammarkollegiet",
+    "Myndigheten för civilt försvar",
+    "Regeringskansliet (Arbetsmarknadsdepartementet med kopia till Socialdepartementet)",
+    "Regeringskansliet (Socialdepartementet med kopia till Arbetsmarknadsdepartementet)",
+    "Regeringskansliet (Socialdepartementet och Arbetsmarknadsdepartementet)",
+    "Regeringskansliet (Socialdepartementet och Försvarsdepartementet)",
+    "Regeringskansliet (Socialdepartementet)"
+   ],
+   "partners": [
+    "Arbetsmiljöverket",
+    "Boverket",
+    "E-hälsomyndigheten",
+    "Jämställdhetsmyndigheten",
+    "Kammarkollegiet",
+    "Livsmedelsverket",
+    "Läkemedelsverket",
+    "Myndigheten för civilt försvar",
+    "Myndigheten för ungdoms- och civilsamhällesfrågor",
+    "Rättsmedicinalverket",
+    "Socialstyrelsen",
+    "Statens jordbruksverk",
+    "Statens veterinärmedicinska anstalt",
+    "Statistiska centralbyrån",
+    "Statskontoret",
+    "Sveriges Kommuner och Regioner",
+    "Upphandlingsmyndigheten",
+    "Verket för innovationssystem"
+   ],
+   "channels": [
+    "hermes",
+    "muntlig",
+    "delredovisning",
+    "slutredovisning",
+    "budgetunderlag"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos",
+    "analysera",
+    "samordna",
+    "fördela_medel",
+    "utveckla",
+    "informera",
+    "statistik_data",
+    "beredskap_säkerhet",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [
+    "1:6",
+    "1:8",
+    "2:7",
+    "3:1",
+    "4:1"
+   ],
+   "expenditure_area_refs": [
+    9,
+    13
+   ],
+   "sfs_refs": [
+    "1977:284"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27533:assignments:0"
+  },
+  {
+   "title": "Pågående uppdrag",
+   "group": [],
+   "text": "| | | |\n| --- | --- | --- |\n| **Uppdrag** | **Uppdraget givet i** | **Avrapporteringstidpunkt** |\n| Uppdrag att redovisa resultat inom ramen för regeringens utvecklingsprogram för jämställdhetsintegrering i statliga myndigheter | Regeringsbeslut II:17 från den 19 december 2024 (A2024/01457) | Slutredovisas senast den 20 januari 2026. |\n| Uppdrag om fortsatt hantering av covid-19 | Regeringsbeslut I:4 från den 27 mars 2025 (S2025/00665) | Slutredovisas senast den 2 februari 2026. |\n| Uppdrag att analysera tandvårdens roll för att minska antimikrobiell resistens | Regeringsbeslut I:9 från den 19 juni 2025 (S2025/01237) | Slutredovisas senast den 2 februari 2026. |\n| Uppdrag till beredskapsmyndigheterna om personallån mellan myndigheter | Regeringsbeslut II:3 från den 10 april 2025 (Fö2025/00670) | Slutredovisas i årsredovisningen för 2025. |\n| Uppdrag att säkerställa tillgång till vaccin mot mpox | Regeringsbeslut I:4 från den 23 maj 2024 samt regeringsbeslut I:1 från den 5 september 2024 (S2024/01052) | Slutredovisas senast den 28 februari 2026. |\n| Uppdrag att överlåta nationellt överskott av vaccin mot covid-19 | Regeringsbeslut I:4 från den 20 februari 2025 (S2025/00306) | Slutredovisas senast den 28 februari 2026. |\n| Uppdrag att säkerställa proaktivitet och handlingskraft vid fredstida krissituationer eller vid krig och krigsfara | Regleringsbrev för budgetåret 2025 (S2024/02156) | Slutredovisas senast den 1 mars 2026. |\n| Uppdrag att ta fram en vägledning för genomförande av hälsokontroll och uppföljande smittskyddsåtgärder vid inresa till Sverige | Regeringsbeslut I:2 från den 28 augusti 2025 (S2025/01481) | Slutredovisas senast den 1 mars 2026. |\n| Uppdrag att förenkla regelverk i syfte att minska regelbördan för företag | Regeringsbeslut I:3 från den 18 juli 2024 (KN2024/01546) | Slutredovisas senast den 15 mars 2026. |\n| Uppdrag för ett effektivt arbete för integration och minskat utanförskap | Regleringsbrev för budgetåret 2024 (S2023/03257) | Slutredovisas senast den 31 mars 2026. |\n| Uppdrag att sprida information om risker vid berusning med lustgas | Regeringsbeslut I:5 från den 27 juni 2024 (S2024/01305) | Slutredovisas senast den 31 mars 2026. |\n| Statistik om friluftslivet | Regleringsbrev för budgetåret 2025 (S2024/02156) | Slutredovisas senast den 31 mars 2026. |\n| Uppdrag om nationellt system för analys av narkotikasubstanser i avloppsvatten | Regleringsbrev för budgetåret 2025 (S2024/02156) | Slutredovisas senast den 31 mars 2026. |\n| Uppdrag om datainsamling som grund för Sveriges deltagande i den nordiska studien inom spelområdet | Regleringsbrev för budgetåret 2025 (S2024/02156) | Slutredovisas senast den 31 mars 2026. |\n| Uppdrag att genomföra riskbedömningar av fastighetsinstallationer med anledning av införande av EU:s dricksvattendirektiv | Regleringsbrev för budgetåret 2025 (S2025/01181) | Slutredovisas senast den 31 mars 2026. |\n| Uppdrag att genomföra insatser för att stödja ett ordnat införande av vaccin | Regleringsbrev för budgetåret 2025 (S2025/01181) | Slutredovisas senast den 31 mars 2026. |\n| Uppdrag att genomföra en kommunikationsinsats inför start av säsongsvaccination mot covid-19 och influensa | Regleringsbrev för budgetåret 2025 (S2025/01181) | Slutredovisas senast den 31 mars 2026. |\n| Uppdrag att stärka genomförandet av den nationella strategin och handlingsplanen mot hiv, aids och vissa andra sexuellt överförbara infektioner | Regeringsbeslut I:1 från den 31 juli 2025 (S2025/01399) | Slutredovisas senast den 31 mars 2026. |\n| Uppdrag till Folkhälsomyndigheten och Socialstyrelsen att ta fram underlag för uppföljning av målet för tobaks- och nikotinpolitiken | Regeringsbeslut II:2 från den 23 oktober 2025 (S2025/01796) | Slutredovisas senast den 1 april 2026. |\n| Uppdrag att betala ut projektbidrag till ideella organisationer som bedriver arbete inom området suicidprevention inklusive ideella organisationer som arbetar med suicidpreventiva insatser riktade till hbtqi-personer | Regleringsbrev för budgetåret 2023 (S2022/04810) | Slutredovisas senast den 30 april 2026. |\n| Uppdrag att fördela medel till juridiska personer som genomför insatser för att tillhandahålla och utveckla en nationell telefon- och webbaserad stödlinje inom området psykisk hälsa och suicidprevention | Regleringsbrev för budgetåret 2025 (S2024/02156) | Slutredovisas senast den 30 april 2026. |\n| Uppdrag att genomföra insatser för att utveckla ungdomsmottagningarnas arbete | Regeringsbeslut I:1 från den 30 oktober 2025 (S2025/01846) | Slutredovisas senast den 30 april 2026. |\n| Uppdrag att förbereda inrättandet av ett nationellt kompetenscenter för främjande av fysisk aktivitet | Regleringsbrev för budgetåret 2025 (S2024/02156) | Slutredovisas senast den 30 april 2026. |\n| Uppdrag att stödja genomförandet av den förnyade politiken avseende alkohol, narkotika, dopning, tobak och nikotin samt spel om pengar 2021–2025 (ANDTS-politiken) | Regeringsbeslut I:4 från den 8 april 2021, regeringsbeslut I:11 från den 1 juli 2021 samt regeringsbeslut I:2 från den 5 september 2024 (S2021/03343) | Slutredovisas senast den 1 maj 2026. |\n| Uppdrag att bistå Miljömålsrådet | Regeringsbeslut I:10 från den 7 juni 2018 (M2018/01715) samt regeringsbeslut I:1 från den 10 februari 2022 (M2022/00273) | Slutredovisas senast den 6 maj 2026. |\n| Uppdrag att ta fram fördjupade kunskapsunderlag inom ramen för satsningen på förlossningsvård och kvinnors hälsa | Regleringsbrev för budgetåret 2023 (S2023/02102) | Slutredovisas senast den 1 juni 2026. |\n| Uppdrag att fördela medel till civila samhället för att förebygga och motverka ensamhet samt synliggöra och stärka arbetet med ensamhet | Regeringsbeslut I:5 från den 27 februari 2025 (S2025/00398) samt regleringsbrev för budgetåret 2025 (S2025/00790) | Slutredovisas senast den 1 juni 2026. |\n| Uppdrag att sammanställa kunskap om vuxnas digitala medievanor och dess påverkan på barns och ungas hälsa | Regleringsbrev för budgetåret 2025 (S2025/01445) | Slutredovisas senast den 1 juni 2026. |\n| Uppdrag att ta fram en myndighetsgemensam nationell plan för en bättre beroendevård och ett stärkt förebyggande arbete | Regeringsbeslut I:6 från den 26 juni 2025 (S2025/01284) | Slutredovisas senast den 1 juni 2026. |\n| Uppdrag att genomföra en studie om existentiell hälsa | Regleringsbrev för budgetåret 2025 (S2025/01792) | Slutredovisas senast den 18 juni 2026 |\n| Uppdrag att etablera en nationell samverkansstruktur för hälso- och sjukvårdens försörjningsberedskap | Regeringsbeslut II:3 från den 23 maj 2024 (S2024/01055) | Slutredovisas senast den 15 december 2026. |\n| Uppdrag att lämna underlag om ungas levnadsvillkor | Regeringsbeslut 54 från den 17 december 2020 (KU2020/02689) samt regeringsbeslut I:6 från den 30 november 2023 (S2023/03148) | Redovisas årligen till Myndigheten för ungdoms- och civilsamhällesfrågor. Slutredovisas senast den 31 december 2026. |\n| Uppdrag om vägledning, stöd och standardiserade underlag för utveckling av e-tjänster hos kommuner | Regeringsbeslut I:7 från den 24 oktober 2024 (KN2024/02097) | Slutredovisas senast den 31 december 2026. |\n| Uppdrag att ta fram ett nationellt hälsoprogram för barn och unga | Regeringsbeslut I:2 från den 10 augusti 2023 samt regeringsbeslut I:3 från den 3 juli 2025 (S2023/02379) | Slutredovisas senast den 31 januari 2027. |\n| Uppdrag att genomföra insatser för att stärka och utveckla arbetet med studenters psykiska hälsa | Regeringsbeslut I:4 från den 21 augusti 2025 (S2025/01450) | Slutredovisas senast den 22 februari 2027. |\n| Uppdrag att fortsatt öka tillgängligheten till vissa antibiotika | Regeringsbeslut I:5 från den 18 januari 2024 samt regeringsbeslut I:3 från den 27 juni 2024 (S2024/00073) | Delredovisas senast den 15 februari 2026. Slutredovisas senast den 28 februari 2027. |\n| Uppdrag till Folkhälsomyndigheten och Statens skolverk att uppdatera stödmaterial för undervisning inom kunskapsområdet sexualitet, samtycke och relationer | Regeringsbeslut II:2 från den 24 oktober 2024 (A2024/01235) | Slutredovisas senast den 1 mars 2027. |\n| Uppdrag att förvalta avtal om vaccin mot covid-19 | Regeringsbeslut I:1 från den 21 september 2023 (S2023/02687) | Delredovisas senast den 1 juni 2026. Slutredovisas senast den 15 mars 2027. |\n| Uppdrag att genomföra insatser för att stärka och påskynda förenklingsarbetet | Regleringsbrev för budgetåret 2024 (S2023/03257) | Slutredovisas senast den 15 mars 2027. |\n| Uppdrag att säkerställa tillgång till och förvalta avtal i fråga om proteinbaserat vaccin mot covid-19 samt bemyndigande att förhandla och ingå avtal | Regeringsbeslut I:3 från den 20 februari 2025 (S2025/00305) | Delredovisas senast den 1 mars 2026. Slutredovisas senast den 15 mars 2027. |\n| Uppdrag att stödja STAD i det narkotikaförebyggande arbetet genom arbetsmetoden Krogar mot knark | Regleringsbrev för budgetåret 2024 (S2023/03257) | Delredovisas senast den 31 mars 2026. Slutredovisas senast den 31 mars 2027. |\n| Uppdrag att stödja STAD i det dopningsförebyggande arbetet | Regleringsbrev för budgetåret 2024 (S2023/03257) | Delredovisas senast den 31 mars 2026. Slutredovisas senast den 31 mars 2027. |\n| Uppdrag att genomföra insatser för fortsatt utveckling och implementering av det nationella varningssystemet för att förebygga och motverka narkotikarelaterade dödsfall | Regleringsbrev för budgetåret 2024 (S2023/03257) | Delredovisas senast den 31 mars 2026. Slutredovisas senast den 31 mars 2027. |\n| Uppdrag att genomföra insatser för att stärka och utveckla arbetet med att förebygga spelproblem | Regleringsbrev för budgetåret 2024 (S2023/03257) | Delredovisas senast den 31 mars 2026. Slutredovisas senast den 31 mars 2027. |\n| Uppdrag att bidra till genomförandet av den europeiska hälsoundersökningen European Health Interview Survey (EHIS) | Regleringsbrev för budgetåret 2024 (S2024/00715) | Slutredovisas senast den 31 mars 2027. |\n| Uppdrag att förbereda, utforma och implementera ett långsiktigt nationellt stöd för att stimulera användandet av innovativa utfallsfokuserade arbetssätt och investeringsmodeller såsom sociala utfallskontrakt | Regeringsbeslut I:3 från den 26 september 2024 (S2024/01659) | Delredovisas senast den 31 mars 2026. Slutredovisas senast den 31 mars 2027. |\n| Uppdrag att utveckla, sprida och stödja implementeringen av utbildningen Ledare som lyssnar | Regeringsbeslut I:6 från den 10 april 2025 (S2025/00789) | Delredovisas senast den 31 december 2025 samt den 30 april 2026. Slutredovisas senast den 31 mars 2027. |\n| Uppdrag att ta fram vägledning och rekommendationer för att främja goda sömnvanor hos barn och unga | Regeringsbeslut I:4 från den 3 juli 2025 (S2025/01326) | Delredovisas senast den 31 mars 2026. Slutredovisas senast den 31 mars 2027. |\n| Uppdrag att förbereda och införa ett fritidskort för barn och unga | Regeringsbeslut I:4 från den 5 april 2023, regeringsbeslut I:4 från den 12 oktober 2023, regeringsbeslut I:3 från den 4 juli 2024 samt regeringsbeslut I:12 från den 11 december 2025 (S2023/01303) | Delredovisas senast den 28 februari 2026 samt 28 februari 2027. Delredovisas av E-hälsomyndigheten senast den 31 mars 2026 och slutredovisas av E-hälsomyndigheten senast den 31 mars 2027. |\n| Uppdrag att samordna, stödja och följa upp de hbtqi-strategiska myndigheternas arbete för att främja hbtqi-personers lika rättigheter och möjligheter | Regeringsbeslut II:2 från den 23 januari 2025 (A2025/00043) | Delredovisas den 1 mars 2026 och 2027. Slutredovisas senast den 1 mars 2028. |\n| Myndighetsgemensamt uppdrag att stärka och främja sexuell och reproduktiv hälsa och rättigheter | Regeringsbeslut II:3 från den 24 oktober 2024 (A2024/01236) | Delredovisas senast den 31 mars 2026 och 2027. Slutredovisas senast den 31 mars 2028. |\n| Uppdrag att betala ut verksamhetsbidrag till arbetsgivar- och arbetstagarorganisationer m.fl. för insatser som syftar till att främja psykisk hälsa och förebygga psykisk ohälsa och suicid i arbetslivet | Regleringsbrev för budgetåret 2025 (S2024/02156) | Slutredovisas senast den 30 april 2028. |\n| Uppdrag att samordna, stödja och följa upp genomförandet av den nationella strategin inom området psykisk hälsa och suicidprevention | Regeringsbeslut I:1 från den 9 januari 2025 (S2025/00016) | Delredovisas senast den 19 december 2026 och 2027. Slutredovisas senast den 19 december 2028. |\n| Samarbetscenter för antibiotikaresistens | Regleringsbrev för budgetåret 2025 (S2024/02156) | Slutredovisas senast den 31 december 2028. |\n| Uppdrag att fortsatt säkerställa tillgången till vissa antibiotika för beredskapsändamål | Regeringsbeslut I:10 från den 20 juni 2024 (S2024/01258) | Delredovisas senast den 30 november under perioden 2026–2028. Slutredovisas senast den 28 februari 2029. |\n| Gemensamma förutsättningar för utvecklingen av totalförsvaret 2025–2030 | Regeringsbeslut I:15 från den 19 december 2024 (Fö2024/02054) | Redovisas årligen i årsredovisningen för Försvarsmakten och MSB. Slutredovisas av Försvarsmakten och MSB senast den 1 mars 2029. |\n| Uppdrag till Folkhälsomyndigheten och Socialstyrelsen att genomföra nationella utvecklingsinsatser för att minska stigma vid psykisk ohälsa och suicidalitet | Regeringsbeslut I:4 från den 2 oktober 2025 (S2025/01686) | Delredovisas senast den 11 februari 2026, den 31 mars 2027 samt den 31 mars 2028. Slutredovisas senast den 31 mars 2029. |\n| Sveriges deltagande i avtal mellan Europeiska unionen och Bavarian Nordic A/S | Regeringsbeslut I:2 från den 23 oktober 2025 (S2025/01794) | Redovisas muntligt senast den 1 mars 2026. Delredovisas senast den 1 mars 2027. Slutredovisas senast den 1 september 2030. |\n| Fortsatt arbete för Rådet för hållbara städer och uppdrag till myndigheter att bistå rådet | Regeringsbeslut II:9 från den 30 januari 2025 (Li2020/00210) | Delredovisas årligen i årsredovisningen. Delredovisas senast den 13 juni 2026 av Rådet för hållbara städer. Slutredovisas senast den 31 december 2030 av Rådet för hållbara städer. |\n| Uppdrag om nationell samverkan och handlingsplan för arbetet mot antimikrobiell resistens | Regeringsbeslut I:4 från den 13 november 2025 (S2025/01938) | Delredovisas senast den 15 december 2026 samt senast den 1 mars under perioden 2028–2030. Slutredovisas senast den 31 december 2030. |\n| Inriktning för civilt försvar 2025–2030 | Regeringsbeslut II:4 från den 19 december 2024 (Fö2024/02054) | Delredovisas årligen med särskild redovisning i samband med årsredovisningen under perioden 2026–2030. Slutredovisas med särskild redovisning i samband med årsredovisningen 2031. |\n| Uppdrag om strategi för systematisk uppföljning av funktionshinderspolitiken under 2021–2031 | Regeringsbeslut I:13 från den 23 september 2021 (S2021/06595) samt regeringsbeslut III:2 från den 24 juli 2025 (S2025/01367) | Delredovisas årligen senast den 1 februari till Myndigheten för delaktighet. Slutredovisas senast den 1 februari 2032. |\n| Uppdrag att säkerställa tillgången till influensavaccin | Regeringsbeslut I:3 från den 23 januari 2025 (S2025/00103) | Delredovisas senast den 30 november under perioden 2026–2031. Slutredovisas senast den 30 september 2032. Skriftlig delredovisning lämnas även när beslut om nytt avtal fattas. |\n| Uppdrag att representera Sverige i styrgruppen för den EU-gemensamma upphandlingen enligt avtalet Joint Procurement Agreement | Regleringsbrev för budgetåret 2025 (S2024/02156) | Redovisas löpande. |\n| Uppdrag om lagerhållning av antiviralt läkemedel | Regeringsbeslut III:1 från den 3 juni 2010 (S2009/01511) samt regeringsbeslut III:3 från den 13 maj 2015 (S2015/03628) | Redovisas löpande. |\n| Uppdrag att på nationell nivå säkra tillgången till antiviralt läkemedel mot infektion med ett visst orthopoxvirus | Regeringsbeslut I:10 från den 16 juni 2022 (S2022/02973) samt regleringsbrev för budgetåret 2024 (S2024/01504) | Delredovisas senast den 1 februari 2026 därefter årligen. |\n| Uppdrag att medverka i genomförandet av Europeiska unionens strategi för Östersjöregionen | Regeringsbeslut II:4 från den 16 december 2021 (SB2021/01583) samt regeringsbeslut II:2 från den 23 oktober 2025 (SB2025/01094) | Delredovisas senast den 31 januari 2027 och därefter vart tredje år. |\n\n*För regeringsuppdrag som lämnats i ett särskilt regeringsbeslut utgör tabellen endast en upplysning om vilka uppdrag som vid årets början var riktade till myndigheten och vilka tider som då gällde för återrapportering eller liknande.*",
+   "dates": [
+    "2010-06-03",
+    "2015-05-13",
+    "2018-06-07",
+    "2020-12-17",
+    "2021-04-08",
+    "2021-07-01",
+    "2021-09-23",
+    "2021-12-16",
+    "2022-02-10",
+    "2022-06-16",
+    "2023-04-05",
+    "2023-08-10",
+    "2023-09-21",
+    "2023-10-12",
+    "2023-11-30",
+    "2024-01-18",
+    "2024-05-23",
+    "2024-06-20",
+    "2024-06-27",
+    "2024-07-04",
+    "2024-07-18",
+    "2024-09-05",
+    "2024-09-26",
+    "2024-10-24",
+    "2024-12-19",
+    "2025-01-09",
+    "2025-01-23",
+    "2025-01-30",
+    "2025-02-20",
+    "2025-02-27",
+    "2025-03-27",
+    "2025-04-10",
+    "2025-06-19",
+    "2025-06-26",
+    "2025-07-03",
+    "2025-07-24",
+    "2025-07-31",
+    "2025-08-21",
+    "2025-08-28",
+    "2025-10-02",
+    "2025-10-23",
+    "2025-10-30",
+    "2025-11-13",
+    "2025-12-11",
+    "2025-12-31",
+    "2026-01-20",
+    "2026-02-01",
+    "2026-02-02",
+    "2026-02-11",
+    "2026-02-15",
+    "2026-02-28",
+    "2026-03-01",
+    "2026-03-15",
+    "2026-03-31",
+    "2026-04-01",
+    "2026-04-30",
+    "2026-05-01",
+    "2026-05-06",
+    "2026-06-01",
+    "2026-06-13",
+    "2026-06-18",
+    "2026-12-15",
+    "2026-12-19",
+    "2026-12-31",
+    "2027-01-31",
+    "2027-02-22",
+    "2027-02-28",
+    "2027-03-01",
+    "2027-03-15",
+    "2027-03-31",
+    "2028-03-01",
+    "2028-03-31",
+    "2028-04-30",
+    "2028-12-19",
+    "2028-12-31",
+    "2029-02-28",
+    "2029-03-01",
+    "2029-03-31",
+    "2030-09-01",
+    "2030-12-31",
+    "2032-02-01",
+    "2032-09-30"
+   ],
+   "deadlines": [
+    "2025-12-31",
+    "2026-01-20",
+    "2026-02-01",
+    "2026-02-02",
+    "2026-02-11",
+    "2026-02-15",
+    "2026-02-28",
+    "2026-03-01",
+    "2026-03-15",
+    "2026-03-31",
+    "2026-04-01",
+    "2026-04-30",
+    "2026-05-01",
+    "2026-05-06",
+    "2026-06-01",
+    "2026-06-13",
+    "2026-06-18",
+    "2026-12-15",
+    "2026-12-19",
+    "2026-12-31",
+    "2027-01-31",
+    "2027-02-22",
+    "2027-02-28",
+    "2027-03-01",
+    "2027-03-15",
+    "2027-03-31",
+    "2028-03-01",
+    "2028-03-31",
+    "2028-04-30",
+    "2028-12-19",
+    "2028-12-31",
+    "2029-02-28",
+    "2029-03-01",
+    "2029-03-31",
+    "2030-09-01",
+    "2030-12-31",
+    "2032-02-01",
+    "2032-09-30"
+   ],
+   "recipients": [
+    "Myndigheten för delaktighet",
+    "Myndigheten för ungdoms- och civilsamhällesfrågor"
+   ],
+   "partners": [
+    "E-hälsomyndigheten",
+    "Försvarsmakten",
+    "Myndigheten för delaktighet",
+    "Myndigheten för samhällsskydd och beredskap",
+    "Myndigheten för ungdoms- och civilsamhällesfrågor",
+    "Socialstyrelsen",
+    "Statens skolverk"
+   ],
+   "channels": [
+    "årsredovisning",
+    "muntlig",
+    "delredovisning",
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna",
+    "fördela_medel",
+    "utveckla",
+    "tillsyn_kontroll",
+    "informera",
+    "statistik_data",
+    "beredskap_säkerhet",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "27533:assignments:1"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "2:1",
+   "name": "Folkhälsomyndigheten",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 9,
+    "name": "Hälsovård, sjukvård och social omsorg"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Folkhälsomyndigheten",
+     "amount_tkr": 570323,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Folkhälsomyndigheten (ram)",
+       "amount_tkr": 562272
+      },
+      {
+       "ap": "2",
+       "name": "Folkhälsomyndigheten – del till suicidprevention (ram)",
+       "amount_tkr": 8051
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Folkhälsomyndigheten",
+     "text": "Anslagsposten får användas för Folkhälsomyndighetens förvaltningsutgifter.\nFolkhälsomyndigheten ska kunna använda och samverka med det gemensamma radiokommunikationssystemet Rakel. Folkhälsomyndigheten ska betala totalt 171 000 kronor till Myndigheten för civilt försvar som abonnemangsavgift för detta system. Beloppet ska betalas efter fakturering från Myndigheten för civilt försvar."
+    },
+    {
+     "ap": "2",
+     "name": "Folkhälsomyndigheten – del till suicidprevention",
+     "text": "Medlen disponeras av Folkhälsomyndigheten för att finansiera kostnader vid Karolinska institutet för avdelningen Nationellt centrum för suicidforskning och prevention (NASP). Medlen ska utbetalas varje månad med en tolftedel av anslagsbeloppet till Karolinska institutets räntekonto i Riksgäldskontoret. NASP ska senast den 31 mars 2027 inkomma med en redovisning till Regeringskansliet (Socialdepartementet med kopia till Folkhälsomyndigheten) där det ska framgå hur medlen för verksamhetsåret 2026 har använts. I redovisningen ska det bl.a. framgå vilka insatser som har vidtagits med stöd av bidraget, hur samverkan med berörda aktörer har utvecklats, resultat och eventuella effekter av bidraget samt en ekonomisk redovisning av tilldelade medel. Medel som inte har förbrukats av NASP ska återbetalas till Folkhälsomyndigheten senast den 31 mars 2027."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "2:2",
+   "name": "Insatser för vaccinberedskap",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 9,
+    "name": "Hälsovård, sjukvård och social omsorg"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Folkhälsomyndigheten",
+     "amount_tkr": 153500,
+     "items": [
+      {
+       "ap": "2",
+       "name": "Insatser vaccinberedskap – del till FOHM (ram)",
+       "amount_tkr": 153500
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "2",
+     "name": "Insatser vaccinberedskap – del till FOHM",
+     "text": "Medlen får användas för att hantera de kostnader som följer av avtal som myndigheten har ingått med vaccinproducenter avseende tillgång till vaccin vid influensapandemier. Medlen får även användas för förberedande åtgärder för att kunna ta emot vaccin vid en influensapandemi."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "2:4",
+   "name": "Insatser mot hiv/aids och andra smittsamma sjukdomar",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 9,
+    "name": "Hälsovård, sjukvård och social omsorg"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Folkhälsomyndigheten",
+     "amount_tkr": 121802,
+     "items": [
+      {
+       "ap": "2",
+       "name": "Insatser mot hiv/aids – del till Folkhälsomyndighetens disposition (ram)",
+       "amount_tkr": 121802
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "2",
+     "name": "Insatser mot hiv/aids – del till Folkhälsomyndighetens disposition",
+     "text": "Högst 32 000 000 kronor får betalas ut i enlighet med förordningen (2006:93) om statsbidrag till verksamhet inriktad mot hiv/aids och vissa andra smittsamma sjukdomar till ideella organisationer som bedriver hivpreventivt arbete.\nHögst 68 000 000 kronor får betalas ut i enlighet med förordningen (2018:596) om statsbidrag till regionala och lokala ideella organisationer vars verksamhet är inriktad mot hiv/aids och vissa andra smittsamma sjukdomar.\nHögst 21 802 000 kronor ska användas till finansiering av insatser på nationell nivå och till övergripande samordning, kunskapsframtagning, kunskapsspridning och uppföljning. Medlen får inte användas för Folkhälsomyndighetens löpande verksamhet."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "2",
+     "max": 32000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "2",
+     "max": 68000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "2",
+     "max": 21802000,
+     "unit": "kronor"
+    }
+   ]
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "2:1 Folkhälsomyndigheten",
+   "ap": "ap.1",
+   "Anslagskredit": 16868,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:1 Folkhälsomyndigheten",
+   "ap": "ap.2",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:2 Insatser för vaccinberedskap",
+   "ap": "ap.2",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:4 Insatser mot hiv/aids och andra smittsamma sjukdomar",
+   "ap": "ap.2",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 129000,
+  "Räntekontokredit": 47591,
+  "- Låneram": 2000000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 47527
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 47527
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 47527
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 47527
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 47527
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 47527
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 47527
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 47527
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 47527
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 47527
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 47527
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 47526
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "2:1 Folkhälsomyndigheten",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "16 868",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.2",
+     "0",
+     "3 %",
+     "0"
+    ],
+    [
+     "2:2 Insatser för vaccinberedskap",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.2",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "2:4 Insatser mot hiv/aids och andra smittsamma sjukdomar",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.2",
+     "0",
+     "Inget",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Beställningsbemyndiganden",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Bemyndigande",
+     "Utgifter mot anslag till följd av ekonomiska åtaganden",
+     "",
+     "",
+     ""
+    ],
+    [
+     "2026",
+     "2027",
+     "2028",
+     "2029 -",
+     "Slutår"
+    ],
+    [
+     "2:2 Insatser för vaccinberedskap",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.2",
+     "498 333",
+     "149 500",
+     "149 500",
+     "199 333",
+     "2030"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "129 000"
+    ],
+    [
+     "Räntekontokredit",
+     "47 591"
+    ],
+    [
+     "Låneram för samhällsinvesteringar"
+    ],
+    [
+     "- Låneram",
+     "2 000 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "47 527"
+    ],
+    [
+     "2026-02-25",
+     "47 527"
+    ],
+    [
+     "2026-03-25",
+     "47 527"
+    ],
+    [
+     "2026-04-25",
+     "47 527"
+    ],
+    [
+     "2026-05-25",
+     "47 527"
+    ],
+    [
+     "2026-06-25",
+     "47 527"
+    ],
+    [
+     "2026-07-25",
+     "47 527"
+    ],
+    [
+     "2026-08-25",
+     "47 527"
+    ],
+    [
+     "2026-09-25",
+     "47 527"
+    ],
+    [
+     "2026-10-25",
+     "47 527"
+    ],
+    [
+     "2026-11-25",
+     "47 527"
+    ],
+    [
+     "2026-12-25",
+     "47 526"
+    ],
+    [
+     "Summa",
+     "570 323"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "2:1 ap.1",
+     "Folkhälsomyndigheten"
+    ],
+    [
+     "2:1 ap.2",
+     "Folkhälsomyndigheten – del till suicidprevention"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Offentligrättslig verksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Tobak och liknande produkter1",
+     "66 822",
+     "5 984",
+     "8 499",
+     "24 408",
+     "-15 909",
+     "56 897"
+    ],
+    [
+     "Tobaksfria nikotinprodukter1",
+     "596",
+     "3 597",
+     "8 763",
+     "7 309",
+     "1 454",
+     "5 647"
+    ],
+    [
+     "Miljöavgifter enligt förordning 2014:4251",
+     "220",
+     "-488",
+     "1 765",
+     "1 661",
+     "104",
+     "-164"
+    ],
+    [
+     "Lustgas1",
+     "0",
+     "-111",
+     "301",
+     "700",
+     "-399",
+     "-510"
+    ],
+    [
+     "Summa",
+     "67 638",
+     "8 982",
+     "19 328",
+     "34 078",
+     "-14 750",
+     "61 870"
+    ],
+    [
+     "Uppdragsverksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Speciell diagnostik1",
+     "1 261",
+     "-1 500",
+     "38 000",
+     "39 000",
+     "-1 000",
+     "-1 239"
+    ]
+   ]
+  }
+ ],
+ "has_fee_section": true,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 1,
+  "n_org": 1,
+  "n_assignments": 2,
+  "n_deadlines": 63,
+  "deadlines": [
+   "2025-12-31",
+   "2026-01-20",
+   "2026-01-30",
+   "2026-02-01",
+   "2026-02-02",
+   "2026-02-11",
+   "2026-02-15",
+   "2026-02-28",
+   "2026-03-01",
+   "2026-03-15",
+   "2026-03-31",
+   "2026-04-01",
+   "2026-04-30",
+   "2026-05-01",
+   "2026-05-06",
+   "2026-05-15",
+   "2026-05-23",
+   "2026-05-28",
+   "2026-05-30",
+   "2026-06-01",
+   "2026-06-13",
+   "2026-06-18",
+   "2026-06-30",
+   "2026-07-01",
+   "2026-07-24",
+   "2026-08-31",
+   "2026-09-01",
+   "2026-09-30",
+   "2026-11-30",
+   "2026-12-01",
+   "2026-12-15",
+   "2026-12-19",
+   "2026-12-31",
+   "2027-01-15",
+   "2027-01-31",
+   "2027-02-01",
+   "2027-02-22",
+   "2027-02-28",
+   "2027-03-01",
+   "2027-03-05",
+   "2027-03-15",
+   "2027-03-31",
+   "2027-04-30",
+   "2027-05-31",
+   "2027-06-07",
+   "2027-08-30",
+   "2028-02-01",
+   "2028-03-01",
+   "2028-03-31",
+   "2028-04-30",
+   "2028-08-30",
+   "2028-12-19",
+   "2028-12-31",
+   "2029-02-28",
+   "2029-03-01",
+   "2029-03-31",
+   "2029-04-30",
+   "2029-12-01",
+   "2030-05-15",
+   "2030-09-01",
+   "2030-12-31",
+   "2032-02-01",
+   "2032-09-30"
+  ],
+  "partners": [
+   "Arbetsmiljöverket",
+   "Boverket",
+   "E-hälsomyndigheten",
+   "Försvarsmakten",
+   "Jämställdhetsmyndigheten",
+   "Kammarkollegiet",
+   "Livsmedelsverket",
+   "Läkemedelsverket",
+   "Myndigheten för civilt försvar",
+   "Myndigheten för delaktighet",
+   "Myndigheten för samhällsskydd och beredskap",
+   "Myndigheten för ungdoms- och civilsamhällesfrågor",
+   "Rättsmedicinalverket",
+   "Socialstyrelsen",
+   "Statens jordbruksverk",
+   "Statens skolverk",
+   "Statens veterinärmedicinska anstalt",
+   "Statistiska centralbyrån",
+   "Statskontoret",
+   "Sveriges Kommuner och Regioner",
+   "Tullverket",
+   "Upphandlingsmyndigheten",
+   "Verket för innovationssystem"
+  ],
+  "n_appropriations": 3,
+  "appropriations_total_tkr": 845625,
+  "payment_plan_total_tkr": 570323,
+  "md_chars": 59584
+ },
+ "layout": "standard",
+ "warnings": []
+}

@@ -1,0 +1,1440 @@
+{
+ "schema_version": 1,
+ "id": 26430,
+ "original_rbid": 25811,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-06-18",
+ "year": "2026",
+ "name": "Post- och telestyrelsen",
+ "slug": "post-och-telestyrelsen",
+ "department": "Finansdepartementet",
+ "expenditure_areas": [
+  22
+ ],
+ "registry_numbers": [
+  "Fi2026/01437 (delvis)",
+  "Fi2026/01555"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1",
+   "2025/26:99"
+  ],
+  "bet": [
+   "2025/26:FiU21",
+   "2025/26:TU1"
+  ],
+  "rskr": [
+   "2025/26:126",
+   "2025/26:344"
+  ]
+ },
+ "n_attachments_stated": 1,
+ "mission": "Myndighetens huvudsakliga uppgifter framgår av förordningen (2007:951) med instruktion för Post- och telestyrelsen.",
+ "goals": [
+  {
+   "title": "Teknikskiften",
+   "group": [],
+   "text": "Myndigheten ska följa och redovisa hur avvecklingen av kopparnäten samt 2G- och 3G-näten fortlöper samt följa konsekvenserna av teknikskiftet. Myndigheten ska bevaka vilka informationsinsatser som genomförs med anledning av avvecklingen och redovisa vilka ersättningslösningar som erbjuds i de fall elektroniska kommunikationstjänster har varit beroende av kopparnäten, 2G- eller 3G-nätet. Myndigheten ska även redovisa hur den har främjat införandet av IPv6.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla",
+    "informera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26430:goals:0"
+  },
+  {
+   "title": "Ökad digital inkludering och ökad användning av digitala tjänster",
+   "group": [],
+   "text": "Myndigheten ska verka för en ökad digital inkludering och en ökad användning av digitala tjänster. Myndigheten ska i dialog med berörda aktörer, både offentliga och andra, främja, stödja och följa arbetet med att uppnå en sådan utveckling.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "samordna"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26430:goals:1"
+  },
+  {
+   "title": "Användning av digitala inköp",
+   "group": [],
+   "text": "Myndigheten ska redovisa vilka åtgärder den har vidtagit för att hantera sina utgående beställningar av varor och tjänster elektroniskt enligt förordningen (2003:770) om statliga myndigheters elektroniska informationsutbyte och för att öka användningen av digitala inköp.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2003:770"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26430:goals:2"
+  },
+  {
+   "title": "Informations- och kommunikationsverksamhet",
+   "group": [],
+   "text": "Myndigheten ska redovisa kostnaderna för sin informations- och kommunikationsverksamhet och hur verksamheten har bidragit till myndighetens förmåga att genomföra sina kärnuppgifter. Av redovisningen ska bl.a. framgå vilken uppgift eller vilka uppdrag som har legat till grund för respektive verksamhet/insats och vad som motiverat de val av kommunikationsmedel (kanalval) som gjorts, t.ex. framtagandet av profilprodukter (väskor, märkesnålar m.m. med myndighetens namn eller budskap från myndigheten), annonskampanjer eller utgivning av tidningar.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26430:goals:3"
+  },
+  {
+   "title": "Öka förmågan att använda AI och ny teknik genom datadrivet arbete",
+   "group": [],
+   "text": "Myndigheten ska analysera och redovisa hur den arbetar datadrivet, dvs. använder data till stöd för sina analyser och beslut. Myndigheten ska också redovisa de åtgärder som den har vidtagit för att förbättra sin förmåga att arbeta datadrivet och resultatet av åtgärderna. I redovisningen ska ingå en beskrivning av hur ett datadrivet arbetssätt och användning av AI har bidragit till att utveckla myndighetens verksamhet och höja kvaliteten i utförandet av myndighetens uppgifter. Myndigheten ska även redovisa hur den beaktar risker och arbetar för att användningen av data och AI ska ske på ett etiskt, säkert och icke-diskriminerande sätt. Myndigheten ska vidare analysera och redovisa förutsättningarna för att ytterligare öka sin förmåga att använda AI och ny teknik genom att arbeta datadrivet.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla",
+    "statistik_data",
+    "digitalisering_ai"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26430:goals:4"
+  },
+  {
+   "title": "Färdval och resepolicy vid tjänsteresor",
+   "group": [],
+   "text": "Alla trafikslag ska kunna nyttjas (väg, järnväg, luft- och sjöfart) för att säkerställa effektiva och ändamålsenliga transporter. Myndigheten ska därför redovisa hur den har säkerställt att val av färdsätt vid tjänsteresor sker färdmedelsneutralt och utifrån behov. Vidare ska myndigheten redovisa huruvida den köpt in hållbart flygbränsle till organisationens flygresor. När kostnader jämförs för olika färdval ska hela resans kostnad beaktas, exempelvis kostnader för nödvändig övernattning samt total arbetstid för hela resan.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26430:goals:5"
+  },
+  {
+   "title": "Samordning och uppföljning av bredbandsfrågor",
+   "group": [],
+   "text": "Myndigheten ska redovisa sitt arbete med att samordna frågor som rör statligt stöd till och främjandet av bredbandsutbyggnad. Myndigheten ska även redovisa hur den har samverkat med andra myndigheter som beviljar sådana stöd för att undvika dubbelfinansiering av utbyggnadsprojekt. Myndigheten ska också redovisa hur bredbandsfrågor hanterats inom Europeiska regionala utvecklingsfonden. Myndigheten ska vidare redovisa hur arbetet med att bistå Tillväxtverket och andra offentliga aktörer vid framtagandet av t.ex. regelverk, riktlinjer och rutiner gällande bredbandsfrågor har genomförts. Därutöver ska myndigheten redovisa hur den följer upp beviljade statliga stöd till bredbandsutbyggnad.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Tillväxtverket"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26430:goals:6"
+  },
+  {
+   "title": "Välfungerande postdistribution av nyhetstidningar",
+   "group": [],
+   "text": "Myndigheten ska i dialog med Mediemyndigheten följa, redovisa och främja tillgången till postdistribuerade nyhetstidningar för att, i samband med att befordringskravet ändras för vissa inrikes brev, säkerställa en välfungerande distribution. Vid behov ska myndigheten till Regeringskansliet (Finansdepartementet) lämna förslag på åtgärder.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [
+    "Regeringskansliet (Finansdepartementet)"
+   ],
+   "partners": [
+    "Mediemyndigheten"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "föreslå",
+    "samordna"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26430:goals:7"
+  }
+ ],
+ "org": [
+  {
+   "title": "Övertagande av tillgångar och skulder",
+   "group": [],
+   "text": "Övertagandet av Myndigheten för digital förvaltnings tillgångar och skulder av Post- och telestyrelsen ska ske till bokfört värde enligt 5 kap. 5 och 8 §§ förordningen (2000:605) om årsredovisning och budgetunderlag. Myndigheten för digital förvaltning ansvarar för sina tillgångar och skulder fram t.o.m. den 31 december 2026, och Post- och telestyrelsen övertar ansvaret fr.o.m. den 1 januari 2027.",
+   "dates": [
+    "2026-12-31",
+    "2027-01-01"
+   ],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Myndigheten för digital förvaltning"
+   ],
+   "channels": [
+    "årsredovisning",
+    "budgetunderlag"
+   ],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2000:605"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "org",
+   "item_id": "26430:org:0"
+  }
+ ],
+ "assignments": [
+  {
+   "title": "Behovet och utbudet av konnektivitet",
+   "group": [],
+   "text": "Myndigheten ska med underlag från regionerna om behov och kravbilder samt med hjälp av nationell statistik, återkommande utvärdera användarnas behov och marknadens utbud av konnektivitet. Redovisningen ska lämnas i samband med den årliga skriftliga rapporteringen till Regeringskansliet (Finansdepartementet) av uppdraget att stödja genomförandet av Sveriges digitaliseringsstrategi 2025–2030 (Fi2025/01188). Myndigheten ska digitalt tillgängliggöra öppna data avseende indikatorer för uppföljningen av målen för konnektivitet i Sveriges digitaliseringsstrategi. Värden för indikatorerna ska löpande publiceras i tidsserier när data finns tillgängliga.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [
+    "Regeringskansliet (Finansdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla",
+    "statistik_data",
+    "digitalisering_ai"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26430:assignments:0"
+  },
+  {
+   "title": "Lämna stöd till de regionala bredbandskoordinatorerna",
+   "group": [],
+   "text": "Myndigheten ska lämna stöd till de regionala bredbandskoordinatorerna genom att samordna ett nätverk för kontinuerligt erfarenhetsutbyte och kompetensutveckling. Myndigheten ska även ta fram anvisningar för hur regionerna och Gotlands kommun ska redovisa hur bredbandskoordinatorernas verksamhet bedrivs. Myndigheten ska senast den 28 februari 2027 till Regeringskansliet (Finansdepartementet) redovisa hur de regionala bredbandskoordinatorernas verksamhet har utformats och hur den bidragit till att nå målsättningarna i regeringens digitaliseringsstrategi för 2025–2030 (Fi2025/01188).",
+   "dates": [
+    "2027-02-28"
+   ],
+   "deadlines": [
+    "2027-02-28"
+   ],
+   "recipients": [
+    "Regeringskansliet (Finansdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "digitalisering_ai"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26430:assignments:1"
+  },
+  {
+   "title": "Motverka felaktiga utbetalningar",
+   "group": [],
+   "text": "Myndigheten ska redovisa en plan för hur myndigheten avser att utveckla arbetet med att motverka felaktiga utbetalningar av stöd och bidrag till företag och civilsamhälle. Planen ska innehålla identifierade utvecklingsbehov samt mål för, och aktiviteter som myndigheten avser att genomföra, 2027–2029. Vidare ska planen beskriva på vilket sätt arbetet kan integreras i och bli en del av myndighetens ordinarie verksamhet.\n\nPlanen ska senast den 30 oktober 2026 redovisas till Regeringskansliet (Finansdepartementet). Myndigheten ska senast den 22 februari 2030 i en delredovisning beskriva och analysera resultatet av genomfört arbete 2026–2029. Redovisning av åtgärder och resultat ska även ske årligen i myndighetens årsredovisning t.o.m. 2030.",
+   "dates": [
+    "2026-10-30",
+    "2030-02-22"
+   ],
+   "deadlines": [
+    "2026-10-30",
+    "2030-02-22"
+   ],
+   "recipients": [
+    "Regeringskansliet (Finansdepartementet)"
+   ],
+   "partners": [],
+   "channels": [
+    "årsredovisning",
+    "delredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "fördela_medel",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26430:assignments:2"
+  },
+  {
+   "title": "Utveckling av ett register över förlitande parter och en tillsynsfunktion över digitala plånböcker",
+   "group": [],
+   "text": "Myndigheten ska utveckla ett sådant register över förlitande parter som ska hållas i enlighet med Europaparlamentets och rådets förordning (EU) 2024/1183 av den 11 april 2024 om ändring av förordning (EU) nr 910/2014 vad gäller inrättandet av ett europeiskt ramverk för digital identitet. I uppdraget ingår även att utveckla den tillsynsfunktion över den digitala identitetsplånbok som regleras i förordningen. Vid genomförandet av uppdraget ska myndigheten samverka med Myndigheten för digital förvaltning.",
+   "dates": [
+    "2024-04-11"
+   ],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Myndigheten för digital förvaltning"
+   ],
+   "channels": [],
+   "task_types": [
+    "samordna",
+    "utveckla",
+    "tillsyn_kontroll",
+    "statistik_data",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26430:assignments:3"
+  },
+  {
+   "title": "Ansökningar ur Fonden för ett sammanlänkat Europa FSE Digital",
+   "group": [],
+   "text": "Myndigheten ska bistå Regeringskansliet (Finansdepartement) med beredning, kvalitetssäkring och samordning av bidragsansökningar enligt Europaparlamentets och rådets förordning (EU) 2021/1153 av den 7 juli 2021 om inrättande av Fonden för ett sammanlänkat Europa och om upphävande av förordningarna (EU) nr 1316/2013 och (EU) nr 283/2014 (FSE Digital). Myndigheten ska samordna sitt arbete med ansökningar som utöver digital infrastruktur rör transport och energi med Trafikverket och Energimarknadsinspektionen. Efter att myndigheten har avslutat sin beredning av ansökningarna ska den lämna förslag till Regeringskansliet om vilka ansökningar som Sverige bör samtycka till. Av underlaget ska det framgå vad myndighetens förslag grundas på, inklusive vilken granskning som har gjorts av ansökningarna. Myndigheten ska också sprida information om FSE Digital till berörda aktörer.",
+   "dates": [
+    "2021-07-07"
+   ],
+   "deadlines": [],
+   "recipients": [
+    "Regeringskansliet"
+   ],
+   "partners": [
+    "Energimarknadsinspektionen",
+    "Trafikverket"
+   ],
+   "channels": [],
+   "task_types": [
+    "föreslå",
+    "samordna",
+    "utveckla",
+    "tillsyn_kontroll",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26430:assignments:4"
+  },
+  {
+   "title": "Genomförande av tillgänglighetsdirektivet",
+   "group": [],
+   "text": "Myndigheten ska nära följa och medverka i det europeiska arbetet med framtagande av standarder för genomförandet av Europaparlamentets och rådets direktiv (EU) 2019/882 av den 17 april 2019 om tillgänglighetskrav för produkter och tjänster. Myndigheten ska även i dialog med berörda aktörer främja insatser som underlättar genomförandet av de krav som följer av lagen (2023:254) om vissa produkters och tjänsters tillgänglighet.",
+   "dates": [
+    "2019-04-17"
+   ],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "samordna",
+    "utveckla",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2023:254"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26430:assignments:5"
+  },
+  {
+   "title": "Införande av cell broadcast",
+   "group": [],
+   "text": "Myndigheten ska verka för ett införande av cell broadcast-teknik för varningar till allmänheten i allmänna elektroniska kommunikationsnät. Uppdraget ska genomföras i samverkan med relevanta operatörer, SOS Alarm Sverige AB och Myndigheten för civilt försvar (MCF). MCF är ansvarig myndighet för det svenska systemet där cell broadcast-tekniken är avsedd att användas. Myndigheten ska i årsredovisningen redogöra för de åtgärder som har vidtagits inom ramen för uppdraget och de kostnader som har belastat myndighetens anslag.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Myndigheten för civilt försvar"
+   ],
+   "channels": [
+    "årsredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26430:assignments:6"
+  },
+  {
+   "title": "Exportfrämjande och internationella engagemang inom ramen för Sveriges utrikes- och säkerhetspolitik",
+   "group": [],
+   "text": "Myndigheten ska, inom ramen för sitt verksamhetsområde, bidra till genomförandet av regeringens strategi Sverige i en digital värld – En strategi för Sveriges utrikes- och säkerhetspolitik inom cyberfrågor och digitala frågor. Myndigheten ska särskilt medverka till internationella insatser som främjar biståndsfinansierad tjänsteexport, cybersäkerhet, genomförandet av EU:s verktygslåda för 5G-cybersäkerhet och säker undervattensinfrastruktur för elektronisk kommunikation, samt bidra till internationella samarbeten för utveckling av nästa generations trådlösa kommunikationsteknik (6G). Myndigheten ska även 2026, då Sverige är medlem av Internationella teleunionens verkställande råd, bistå med sin expertkunskap i förberedelser inför, under och efter möten i det verkställande rådet och, i förekommande fall, i rådets arbetsgrupper. Myndigheten ska i samband med detta ha en löpande dialog med Regeringskansliet (Finansdepartementet).",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "samordna",
+    "utveckla",
+    "beredskap_säkerhet",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26430:assignments:7"
+  },
+  {
+   "title": "Samordning av regionalfondsprogram",
+   "group": [],
+   "text": "Myndigheten ska bidra vid genomförandet av aktuella regionalfondsprogram under programperioden 2021–2027 med fokus på förbättrad konnektivitet. Myndigheten ska särskilt bistå Tillväxtverket i myndighetens arbete med uppföljning och redovisning av bredbandsprojekt inom programmen.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Tillväxtverket"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26430:assignments:8"
+  },
+  {
+   "title": "Förmågeutveckling och stärkt motståndskraft i beredskapssektorn elektronisk kommunikation och post",
+   "group": [],
+   "text": "Mot bakgrund av det befintliga regeringsuppdraget att stärka förmågan att förebygga och hantera incidenter som kan följa av aktörsdrivna hot i sektorn för elektronisk kommunikation (Fi2025/01426) ska myndigheten:\n\n– säkerställa att den har förmåga att agera proaktivt och handlingskraftigt såväl vid hanteringen av fredstida krissituationer som vid krig och krigsfara, samt i detta syfte utbilda och öva sin personal och se till att den stärker en kultur och ett arbetssätt som utgår från de krav som ett krig ställer,\\\n– arbeta med förmågeutveckling avseende samverkan och ledning inom beredskapssektorn, exempelvis genom att effektivt kunna utbyta information, inklusive information som omfattas av säkerhetsskydd, inför och under höjd beredskap samt genom att säkerställa en uthållig reparationsberedskap,\\\n– säkerställa en kontinuerlig lägesuppfattning av incidenter inom sektorn för att stärka förmågan att identifiera avvikelser från normalbilden och därmed stärka Sveriges samlade motståndskraft mot hybridhot, samt\\\n– identifiera behov av och, i de fall myndigheten bedömer det lämpligt, ingå avtal som syftar till att upprätthålla försörjningen av varor och tjänster som är nödvändiga för myndighetens prioriterade uppgifter vid fredstida kriser och höjd beredskap. I de fall myndigheten nyttjar särskilda avtalsformer i form av sådana försörjningsberedskapsavtal (F-avtal) som beskrivs i betänkandet Nya samverkansformer, modern byggnads- och reparationsberedskap – för ökad försörjningsberedskap (SOU 2025:68) ska dessa avtal löpande rapporteras till MCF.\n\nUppdraget ska senast den 22 februari 2027 redovisas till Regeringskansliet (Finansdepartementet och Försvarsdepartementet). Redovisningen ska ingå i den särskilda redovisningen för civilt försvar. Den del av uppdraget som handlar om lägesuppfattning av incidenter ska redovisas i en särskild bilaga.",
+   "dates": [
+    "2027-02-22"
+   ],
+   "deadlines": [
+    "2027-02-22"
+   ],
+   "recipients": [
+    "Regeringskansliet (Finansdepartementet och Försvarsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "säkerställa att den har förmåga att agera proaktivt och handlingskraftigt såväl vid hanteringen av fredstida krissituationer som vid krig och krigsfara, samt i detta syfte utbilda och öva sin personal och se till att den stärker en kultur och ett arbetssätt som utgår från de krav som ett krig ställer,\\",
+    "arbeta med förmågeutveckling avseende samverkan och ledning inom beredskapssektorn, exempelvis genom att effektivt kunna utbyta information, inklusive information som omfattas av säkerhetsskydd, inför och under höjd beredskap samt genom att säkerställa en uthållig reparationsberedskap,\\",
+    "säkerställa en kontinuerlig lägesuppfattning av incidenter inom sektorn för att stärka förmågan att identifiera avvikelser från normalbilden och därmed stärka Sveriges samlade motståndskraft mot hybridhot, samt\\",
+    "identifiera behov av och, i de fall myndigheten bedömer det lämpligt, ingå avtal som syftar till att upprätthålla försörjningen av varor och tjänster som är nödvändiga för myndighetens prioriterade uppgifter vid fredstida kriser och höjd beredskap. I de fall myndigheten nyttjar särskilda avtalsformer i form av sådana försörjningsberedskapsavtal (F-avtal) som beskrivs i betänkandet Nya samverkansformer, modern byggnads- och reparationsberedskap – för ökad försörjningsberedskap (SOU 2025:68) ska dessa avtal löpande rapporteras till MCF."
+   ],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26430:assignments:9"
+  },
+  {
+   "title": "Prognos för beställningsbemyndiganden",
+   "group": [],
+   "text": "Myndigheten ska redovisa en prognos för de förslag om beställningsbemyndiganden som lämnats i budgetunderlaget och för de åtaganden som ingåtts med stöd av äldre beställningsbemyndiganden. Prognosen ska lämnas senast den 24 juli 2026 via statsredovisningssystemet Hermes och utformas enligt närmare information från Statskontoret.",
+   "dates": [
+    "2026-07-24"
+   ],
+   "deadlines": [
+    "2026-07-24"
+   ],
+   "forecast_dates": [],
+   "recipients": [],
+   "partners": [
+    "Statskontoret"
+   ],
+   "channels": [
+    "hermes",
+    "budgetunderlag"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26430:assignments:10"
+  },
+  {
+   "title": "Utgiftsprognoser",
+   "group": [],
+   "text": "Myndigheten ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Prognoserna lämnas i statsredovisningssystemet Hermes senast den\n\n− 2 februari\\\n− 22 april\\\n− 24 juli\\\n− 9 november.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26430:assignments:11"
+  },
+  {
+   "title": "Pågående uppdrag",
+   "group": [],
+   "text": "I*bilagan*redovisas myndighetens pågående uppdrag.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "26430:assignments:12"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "2:1",
+   "name": "Post- och telestyrelsen",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 22,
+    "name": "Kommunikationer"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Post- och telestyrelsen",
+     "amount_tkr": 353763,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Förvaltningskostnader för vissa myndighetsuppgifter (ram)",
+       "amount_tkr": 353763
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Förvaltningskostnader för vissa myndighetsuppgifter",
+     "text": "Anslagsposten får användas för myndighetens förvaltningsutgifter i den mån dessa inte finansieras med avgifter."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "2:2",
+   "name": "Ersättning för särskilda tjänster för personer med funktionsnedsättning",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 22,
+    "name": "Kommunikationer"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Post- och telestyrelsen",
+     "amount_tkr": 106278,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Ersättning för särskilda tjänster för personer med funktionsnedsättning (ram)",
+       "amount_tkr": 106278
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Ersättning för särskilda tjänster för personer med funktionsnedsättning",
+     "text": "Anslagsposten får användas för ersättning samt nödvändiga informationsinsatser för:\n−posttjänster och elektroniska kommunikationstjänster som bedöms vara av särskild vikt för personer med funktionsnedsättning och personer med behov av särskilt stöd\n−utsträckt posttjänst till äldre och personer med funktionsnedsättning i glesbygd\n−befordran av alternativa läsformat\n−övriga tjänster som underlättar tillgången till elektroniska kommunikationstjänster för personer med funktionsnedsättning, inklusive samtalsförmedlande tjänster.\nAv anslagsposten får ett belopp om högst 5 000 000 kronor användas för ersättning och nödvändiga informationsinsatser för:\n−utvecklingsprojekt och utbildningsprojekt för personer med funktionsnedsättning och personer med speciella behov för ökad digital tillgänglighet och användbarhet, samt för tillgängliga elektroniska tjänster\n−analyser, undersökningar och främjandeinsatser inom det digitala området i syfte att skapa förutsättningar för individer att vara digitalt inkluderade i samhället genom användning av digitala tjänster, inklusive studier av it-användning bland personer med funktionsnedsättning för att komplettera Statistiska centralbyråns undersökning Befolkningens it-användning\n−särskilda utredningar\n−innovationstävlingar som har genomförts före 2024.\nAnslagsposten får även användas till bidrag som betalas ut engångsvis och i förskott till annan myndighet, offentlig aktör, företag eller organisation."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "1",
+     "max": 5000000,
+     "unit": "kronor"
+    }
+   ]
+  },
+  {
+   "code": "2:3",
+   "name": "Grundläggande betaltjänster",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 22,
+    "name": "Kommunikationer"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Länsstyrelsen i Dalarnas län",
+     "amount_tkr": 2000,
+     "items": [
+      {
+       "ap": "2",
+       "name": "Grundl. betaltj. - del till länsstyrelsen i Dalarna (ram)",
+       "amount_tkr": 2000
+      }
+     ],
+     "sum_ok": true
+    },
+    {
+     "by": "Post- och telestyrelsen",
+     "amount_tkr": 23037,
+     "items": [
+      {
+       "ap": "3",
+       "name": "Grundl. betaltj. - del till Post- och telestyrelsen (ram)",
+       "amount_tkr": 23037
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "2",
+     "name": "Grundl. betaltj. - del till länsstyrelsen i Dalarna",
+     "text": "Anslagsposten får användas för bevakning av att det finns grundläggande betaltjänster som motsvarar samhällets behov. Anslaget får vidare användas för de uppgifter som länsstyrelserna ska utföra enligt 2 och 3 §§ förordningen (2017:869) om bevakning av grundläggande betaltjänster."
+    },
+    {
+     "ap": "3",
+     "name": "Grundl. betaltj. - del till Post- och telestyrelsen",
+     "text": "Anslagsposten får användas för upphandling av grundläggande betaltjänster, inklusive grundläggande betaltjänster för äldre personer och personer med funktionsnedsättning i landsbygd, och insatser för främjande av grundläggande betaltjänster.\nAnslagsposten får även användas för finansiellt stöd till länsstyrelser och samverkande myndigheter för utformning och genomförande av regionala och nationella stöd- och utvecklingsinsatser för grundläggande betaltjänster, inklusive främjandearbete, samt utgifter enligt förordningen (2014:139) om statligt stöd till tillhandahållare av grundläggande betaltjänster."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "2:5",
+   "name": "Driftsäker och tillgänglig elektronisk kommunikation",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 22,
+    "name": "Kommunikationer"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Post- och telestyrelsen",
+     "amount_tkr": 1323814,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Del till Post- och telestyrelsen (ram)",
+       "amount_tkr": 140000
+      },
+      {
+       "ap": "2",
+       "name": "Elektronisk komm - Tillgängliga elektroniska kommunikationer - del till Post- och telestyrelsen (ram)",
+       "amount_tkr": 13014
+      },
+      {
+       "ap": "6",
+       "name": "Civilt försvar (ram)",
+       "amount_tkr": 639000
+      },
+      {
+       "ap": "7",
+       "name": "Stöd för bredbandsutbyggnad (ram)",
+       "amount_tkr": 531800
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Del till Post- och telestyrelsen",
+     "text": "Anslagsposten får användas för åtgärder mot allvarliga hot och påfrestningar i fredstid avseende elektroniska kommunikationer. Anslagsposten får även användas för upphandling av bl.a. utrustning för att skydda samhället mot allvarliga hot och påfrestningar på elektroniska kommunikationer i fredstid.\nAv anslagsposten får högst 6 200 000 kronor användas för utgifter för administration av åtgärderna."
+    },
+    {
+     "ap": "2",
+     "name": "Elektronisk komm - Tillgängliga elektroniska kommunikationer - del till Post- och telestyrelsen",
+     "text": "Anslagsposten får användas för åtgärder och samordningsinsatser för driftsäkra och tillgängliga elektroniska kommunikationer.\nAnslagsposten får även användas för utgifter för administration av åtgärderna.\nAv anslagsposten får högst 12 000 000 kronor användas för utgifter för bredbandskoordinatorer. Myndigheten får betala ut högst 571 000 kronor per aktör.\nAv anslagsposten får högst 1 000 000 kronor användas till åtgärder i enlighet med förordningen (2018:20) om stöd för åtgärder som ger tillgång till telefoni och funktionell tillgång till internet.\nAnslagsposten får även användas för utgifter för administration av åtgärder för att främja, analysera och stödja bredbandsutbyggnad.\nAnslagsposten får också användas till förvaltning och underhåll av en webbportal med information om utbyggnad av höghastighetsnät för elektronisk kommunikation i enlighet med Europaparlamentets och rådets direktiv 2014/61/EU av den 15 maj 2014 om åtgärder för att minska kostnaderna för utbyggnad av höghastighetsnät för elektronisk kommunikation."
+    },
+    {
+     "ap": "6",
+     "name": "Civilt försvar",
+     "text": "Anslagsposten får användas för åtgärder för driftsäkra och robusta elektroniska kommunikationer och post, åtgärder för höjd beredskap och för att bemöta hybridhot.\nAv anslagsposten får även högst 75 miljoner kronor användas för utgifter för införande av cell broadcast-teknik."
+    },
+    {
+     "ap": "7",
+     "name": "Stöd för bredbandsutbyggnad",
+     "text": "Anslagsposten får användas för utbetalning av medel enligt förordningen (2020:266) om statligt stöd för utbyggnad av bredbandsinfrastruktur. Medel ska betalas ut enligt utbetalningsplaner som fastställs av myndigheten.\\\nHögst 70 000 000 kronor får användas för de åtgärder som krävs för en effektiv och rättssäker hantering av medlen som redovisas mot anslagsposten samt för uppföljning och tillsyn över användningen av dessa medel."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "1",
+     "max": 6200000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "2",
+     "max": 12000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "2",
+     "max": 571000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "2",
+     "max": 1000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "7",
+     "max": 70000000,
+     "unit": "kronor"
+    }
+   ]
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "2:1 Post- och telestyrelsen",
+   "ap": "ap.1",
+   "Anslagskredit": 9562,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:2 Ersättning för särskilda tjänster för personer med funktionsnedsättning",
+   "ap": "ap.1",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:3 Grundläggande betaltjänster",
+   "ap": "ap.2",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:3 Grundläggande betaltjänster",
+   "ap": "ap.3",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:5 Driftsäker och tillgänglig elektronisk kommunikation",
+   "ap": "ap.1",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:5 Driftsäker och tillgänglig elektronisk kommunikation",
+   "ap": "ap.2",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:5 Driftsäker och tillgänglig elektronisk kommunikation",
+   "ap": "ap.6",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:5 Driftsäker och tillgänglig elektronisk kommunikation",
+   "ap": "ap.7",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 60000,
+  "Räntekontokredit": 37000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 26564
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 26564
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 26564
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 26564
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 26564
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 31564
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 31564
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 31564
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 31564
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 31564
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 31564
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 31559
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "2:1 Post- och telestyrelsen",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "9 562",
+     "3 %",
+     "0"
+    ],
+    [
+     "2:2 Ersättning för särskilda tjänster för personer med funktionsnedsättning",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "2:3 Grundläggande betaltjänster",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.2",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.3",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "2:5 Driftsäker och tillgänglig elektronisk kommunikation",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.2",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.6",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.7",
+     "0",
+     "Inget",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Omfördelning av anslagssparande",
+   "rows": [
+    [
+     "Omfördelning från anslag/ap1",
+     "Omfördelning till anslag/ap2",
+     "Belopp (tkr)",
+     "Belopp andel (%)"
+    ],
+    [
+     "2:5 Driftsäker och tillgänglig elektronisk kommunikation",
+     "",
+     "",
+     ""
+    ],
+    [
+     "2:5 ap.5",
+     "2:5 ap.7",
+     "100 %"
+    ],
+    [
+     "2:5 ap.3",
+     "2:5 ap.6",
+     "100 %"
+    ],
+    [
+     "2:5 ap.4",
+     "2:5 ap.7",
+     "100 %"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Avslutade anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagstyp"
+    ],
+    [
+     "2:5 Driftsäker och tillgänglig elektronisk kommunikation",
+     ""
+    ],
+    [
+     "ap.3",
+     "ram"
+    ],
+    [
+     "ap.4",
+     "ram"
+    ],
+    [
+     "ap.5",
+     "ram"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Beställningsbemyndiganden",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Bemyndigande",
+     "Utgifter mot anslag till följd av ekonomiska åtaganden",
+     "",
+     "",
+     ""
+    ],
+    [
+     "2026",
+     "2027",
+     "2028",
+     "2029 -",
+     "Slutår"
+    ],
+    [
+     "2:2 Ersättning för särskilda tjänster för personer med funktionsnedsättning",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "250 000",
+     "104 319",
+     "91 186",
+     "54 495",
+     "2030"
+    ],
+    [
+     "2:3 Grundläggande betaltjänster",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.3",
+     "40 000",
+     "23 000",
+     "15 000",
+     "2 000",
+     "2030"
+    ],
+    [
+     "2:5 Driftsäker och tillgänglig elektronisk kommunikation",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "259 500",
+     "93 409",
+     "87 236",
+     "78 855",
+     "2036"
+    ],
+    [
+     "ap.6",
+     "2 679 700",
+     "878 015",
+     "821 689",
+     "979 996",
+     "2036"
+    ],
+    [
+     "ap.2",
+     "300",
+     "300",
+     "0",
+     "0",
+     "2036"
+    ],
+    [
+     "ap.7",
+     "1 719 000",
+     "639 372",
+     "598 016",
+     "481 612",
+     "2036"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "60 000"
+    ],
+    [
+     "Räntekontokredit",
+     "37 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "26 564"
+    ],
+    [
+     "2026-02-25",
+     "26 564"
+    ],
+    [
+     "2026-03-25",
+     "26 564"
+    ],
+    [
+     "2026-04-25",
+     "26 564"
+    ],
+    [
+     "2026-05-25",
+     "26 564"
+    ],
+    [
+     "2026-06-25",
+     "31 564"
+    ],
+    [
+     "2026-07-25",
+     "31 564"
+    ],
+    [
+     "2026-08-25",
+     "31 564"
+    ],
+    [
+     "2026-09-25",
+     "31 564"
+    ],
+    [
+     "2026-10-25",
+     "31 564"
+    ],
+    [
+     "2026-11-25",
+     "31 564"
+    ],
+    [
+     "2026-12-25",
+     "31 559"
+    ],
+    [
+     "Summa",
+     "353 763"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "2:1 ap.1",
+     "Förvaltningskostnader för vissa myndighetsuppgifter"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Offentligrättslig verksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Elektronisk kommunikation1",
+     "15 770",
+     "-9 858",
+     "297 500",
+     "298 880",
+     "-1 380",
+     "4 532"
+    ],
+    [
+     "Post1",
+     "-15 438",
+     "1 570",
+     "43 850",
+     "42 489",
+     "1 361",
+     "-12 507"
+    ],
+    [
+     "Radioutrustning1",
+     "5 009",
+     "-5 427",
+     "11 500",
+     "11 500",
+     "0",
+     "-418"
+    ],
+    [
+     "Betrodda tjänster1",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0"
+    ],
+    [
+     "Utbyggnad av bredbandsnät1",
+     "8 270",
+     "-3 379",
+     "0",
+     "3 244",
+     "-3 244",
+     "1 647"
+    ],
+    [
+     "Gränsöverskridande paketleveranstjänster1",
+     "1 290",
+     "-918",
+     "1 100",
+     "1 819",
+     "-719",
+     "-347"
+    ],
+    [
+     "EU:s dataförvaltningsförordning1",
+     "0",
+     "0",
+     "25",
+     "25",
+     "0",
+     "0"
+    ],
+    [
+     "EU:s förordning om digitala tjänster1",
+     "0",
+     "0",
+     "25",
+     "25",
+     "0",
+     "0"
+    ],
+    [
+     "Betrodda tjänster3",
+     "100"
+    ],
+    [
+     "Tillsyn enligt cybersäkerhetslagen1",
+     "0",
+     "0",
+     "12 000",
+     "12 000",
+     "0",
+     "0"
+    ],
+    [
+     "Summa",
+     "14 901",
+     "-18 012",
+     "366 100",
+     "369 982",
+     "-3 982",
+     "-7 093"
+    ]
+   ]
+  },
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna ej disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "Ink. tit.",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Offentligrättslig verksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Beredskapsavgift för elektroniska kommunikationer1",
+     "9453",
+     "2 595",
+     "-3 600",
+     "140 000",
+     "140 000",
+     "0",
+     "-1 005"
+    ]
+   ]
+  }
+ ],
+ "has_fee_section": true,
+ "exceptions_text": "Anläggningstillgångar som finansieras från anslaget 2:5 Driftsäker och tillgänglig elektronisk kommunikation inom utgiftsområde 22 Kommunikationer, anslagspost 6 Civilt försvar är undantagna från kravet på lånefinansiering i 2 kap. 1 § kapitalförsörjningsförordningen (2011:210). Detta undantag gäller även för de anläggningstillgångar som övriga myndigheter anskaffar och som finansieras från anslaget 2:5 Driftsäker och tillgänglig elektronisk kommunikation, anslagspost 6 Civilt försvar.\n\nPå regeringens vägnar\n\nErik Slottner\n\nMatilda Hårdänge\n\n**Kopia till**\n\nStatsrådsberedningen/REV\\\nJustitiedepartementet/INS och KRIM\\\nUtrikesdepartementet/FH, FN, HI och SP\\\nFörsvarsdepartementet/ECH, ETU och ESS\\\nSocialdepartementet/SOF\\\nFinansdepartementet/BA, BSÄ, DOF, FMA, K, KO, OU och SFÖ\\\nKlimat- och näringslivsdepartementet/BK och NIM\\\nKulturdepartementet/MD\\\nLandsbygds- och infrastrukturdepartementet/JL, RUL, SMF, TP och US\\\nFörvaltningsavdelningen/EKA\\\nriksdagen, trafikutskottet\\\nEnergimarknadsinspektionen\\\nFörsvarsmakten\\\nKammarkollegiet\\\nMyndigheten för civilt försvar\\\nMyndigheten för delaktighet\\\nMyndigheten för digital förvaltning\\\nMyndigheten för tillgängliga medier\\\nRiksgäldskontoret\\\nStatskontoret\\\nSveriges Kommuner och Regioner\\\nTillväxtverket\\\nTrafikverket\\\nGotlands kommun\\\nLänsstyrelserna\\\nRegionerna",
+ "summary": {
+  "n_goals": 8,
+  "n_org": 1,
+  "n_assignments": 13,
+  "n_deadlines": 5,
+  "deadlines": [
+   "2026-07-24",
+   "2026-10-30",
+   "2027-02-22",
+   "2027-02-28",
+   "2030-02-22"
+  ],
+  "partners": [
+   "Energimarknadsinspektionen",
+   "Mediemyndigheten",
+   "Myndigheten för civilt försvar",
+   "Myndigheten för digital förvaltning",
+   "Statskontoret",
+   "Tillväxtverket",
+   "Trafikverket"
+  ],
+  "n_appropriations": 4,
+  "appropriations_total_tkr": 1808892,
+  "payment_plan_total_tkr": 353763,
+  "md_chars": 30506
+ },
+ "layout": "standard",
+ "warnings": []
+}

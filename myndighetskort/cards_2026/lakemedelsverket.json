@@ -1,0 +1,699 @@
+{
+ "schema_version": 1,
+ "id": 26376,
+ "original_rbid": 25915,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-06-18",
+ "year": "2026",
+ "name": "Läkemedelsverket",
+ "slug": "lakemedelsverket",
+ "department": "Socialdepartementet",
+ "expenditure_areas": [
+  9
+ ],
+ "registry_numbers": [
+  "S2026/01224"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1",
+   "2025/26:99"
+  ],
+  "bet": [
+   "2025/26:FiU21",
+   "2025/26:SoU1"
+  ],
+  "rskr": [
+   "2025/26:114",
+   "2025/26:348"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "",
+ "goals": [
+  {
+   "title": null,
+   "group": [],
+   "text": "*Stödja tillgången till läkemedel och medicintekniska produkter*\n\nLäkemedelsverket ska redovisa hur myndigheten arbetar nationellt för att stödja en god tillgång till läkemedel och medicintekniska produkter i normalläget såväl som under fredstida krissituationer och höjd beredskap samt, där så är möjligt, resultatet av myndighetens arbete. Läkemedelsverket ska även redovisa hur myndigheten arbetar med omvärldsbevakning i syfte att öka förutsättningarna att förebygga och hantera förändringar i tillgången på läkemedel och medicintekniska produkter.\n\n*Åtgärder som bidrar till att förebygga brott*\n\nLäkemedelsverket ska redovisa hur den verksamhet som myndigheten bedriver relaterar till brottsförebyggande arbete. Av redovisningen ska även framgå vilka insatser som genomförts eller vilket stöd som myndigheten gett till relevanta aktörer, såsom regioner, kommuner och företag, i syfte att identifiera och motverka välfärdsbrottslighet.\n\n*Nationell strategi för life science*\n\nLäkemedelsverket ska redogöra för hur myndigheten har arbetat för att bidra till för myndigheten relevanta målsättningar som anges i den nationella strategin för life science (KN2024/02228).\n\n*Informations- och cybersäkerhet*\n\nLäkemedelsverket ska redogöra för de åtgärder som vidtagits för att höja myndighetens generella säkerhetsnivå och beakta nya krav enligt Europaparlamentets och rådets direktiv (EU) 2022/2555 av den 14 december 2022 om åtgärder för en hög gemensam cybersäkerhetsnivå i hela unionen, om ändring av förordning (EU) nr 910/2014 och direktiv (EU) 2018/1972 och om upphävande av direktiv (EU) 2016/1148 (NIS2-direktivet) samt för att utveckla tillsynsverksamheten till följd av NIS2. Läkemedelsverket ska särskilt redogöra för hur myndigheten utvärderat det egna informationssäkerhetsarbetet, inbegripet den egna organisationens beredskap och möjlighet att hantera incidenter, samt huruvida åtgärder vidtagits med anledning av resultatet. Om hela eller delar av redovisningen bedöms innehålla säkerhetsskyddsklassificerad information kan denna redovisas i särskild ordning i samband med årsredovisningen.\n\n*Effektiv tillståndsprocess*\n\nLäkemedelsverket ska återrapportera hur den arbetar för att effektivisera tillståndsprocessen för kliniska prövningar enligt nationella förordningar samt Europaparlamentets och rådets förordning (EU) nr 536/2014 om kliniska prövningar av humanläkemedel, förordning (EU) 2017/745 om medicintekniska produkter och förordning (EU) 2017/746 om medicintekniska produkter för in vitro-diagnostik. Vidare ska Läkemedelsverket återrapportera hur myndigheten samverkar med Etikprövningsmyndigheten och Regionala Biobankscentra för att skapa en mer sammanhållen och förutsägbar process.\n\n*Öka förmågan att använda AI och ny teknik genom datadrivet arbete*\n\nLäkemedelsverket ska redovisa i vilken utsträckning de arbetar datadrivet samt vilka åtgärder de vidtagit för att förbättra sin förmåga att arbeta datadrivet.\n\n*Marknadskontroll för ökad regelefterlevnad*\n\nLäkemedelsverket ska inom ramen för tillämpningen av Europaparlamentets och rådets förordning 2019/1020 (EU) om marknadskontroll och Europaparlamentets och rådets förordning 2022/2065 (EU) om digitala tjänster beskriva hur myndigheten har bidragit i aktiviteter på europeisk nivå som har särskilt fokus på e-handel med produkter som inte lever upp till EU-lagstiftning. Läkemedelsverket ska vidare beskriva hur myndigheten har samarbetat med övriga relevanta marknadskontrollmyndigheter, inklusive Tullverket, och vad samarbetet resulterat i gällande operativa insatser avseende e-handel från tredje land.\n\n*Färdval och resepolicy vid tjänsteresor*\n\nAlla trafikslag ska kunna nyttjas (väg, järnväg, luft- och sjöfart) för att säkerställa effektiva och ändamålsenliga transporter. Läkemedelsverket ska därför redovisa hur myndigheten har säkerställt att val av färdsätt vid tjänsteresor sker färdmedelsneutralt och utifrån behov. Vidare ska Läkemedelsverket redovisa huruvida myndigheten köpt in hållbart flygbränsle till organisationens flygresor. När kostnader jämförs för olika färdval ska hela resans kostnad beaktas, exempelvis kostnader för nödvändig övernattning samt total arbetstid för hela resan.",
+   "dates": [
+    "2022-12-14"
+   ],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Etikprövningsmyndigheten",
+    "Tullverket"
+   ],
+   "channels": [
+    "årsredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna",
+    "utveckla",
+    "tillsyn_kontroll",
+    "statistik_data",
+    "digitalisering_ai",
+    "beredskap_säkerhet",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26376:goals:0"
+  }
+ ],
+ "org": [
+  {
+   "title": null,
+   "group": [],
+   "text": "*Säkerställa proaktivitet och handlingskraft vid fredstida krissituationer eller vid krig och krigsfara*\n\nLäkemedelsverket ska säkerställa att myndigheten har förmåga att agera proaktivt och handlingskraftigt i hanteringen av såväl fredstida krissituationer som vid krig och krigsfara. Utöver de krav som ställs i förordningen (2022:524) om statliga myndigheters beredskap ska myndigheten i detta syfte utbilda och öva sin personal samt se till att myndigheten stärker en kultur och arbetssätt som utgår från de krav som ett krig ställer. Uppdraget ska redovisas till Regeringskansliet (Socialdepartementet och Försvarsdepartementet) senast den 22 februari 2027. Detta ska ingå i den särskilda redovisningen för civilt försvar.*Driva och förvalta Swetrial*\n\nLäkemedelsverket ska driva och förvalta Swetrial, en nationell funktion och ett partnerskap för att främja kliniska prövningar i Sverige. Uppdraget bygger på tidigare redovisning av uppdraget att föreslå förbättrade förutsättningar och stärkt genomförandekapacitet för kliniska prövningar (S2024/01311).",
+   "dates": [
+    "2027-02-22"
+   ],
+   "deadlines": [
+    "2027-02-22"
+   ],
+   "recipients": [
+    "Regeringskansliet (Socialdepartementet och Försvarsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "föreslå",
+    "utveckla",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2022:524"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "org",
+   "item_id": "26376:org:0"
+  }
+ ],
+ "assignments": [
+  {
+   "title": "Nya uppdrag",
+   "group": [],
+   "text": "*Läkemedelsboken*\n\nLäkemedelsverket ska fortsätta arbetet med att uppdatera, förvalta och tillgängliggöra Läkemedelsboken. För uppdraget får Läkemedelsverket under 2026 använda 6 000 000 kronor som ska redovisas mot det under utgiftsområde 9 Hälsovård, sjukvård och social omsorg för budgetåret 2026 uppförda anslaget 1:6 Bidrag till folkhälsa och sjukvård, anslagsposten 29 Ordnat införande och strukturerad uppföljning. Medlen betalas ut engångsvis efter rekvisition till Kammarkollegiet senast den 1 december 2026. Medel som inte har använts för avsett ändamål ska återbetalas senast den 31 mars 2027 till Kammarkollegiet. Vid samma tidpunkt ska en ekonomisk redovisning av använda medel lämnas till Kammarkollegiet. Redovisning, rekvisition och återbetalning ska hänvisa till regleringsbrevet för budgetåret 2026 avseende Läkemedelsverket.\n\n*Fortsatt stärka tillgången till blodplasma för läkemedelstillverkning*\n\nLäkemedelsverket ska tillsammans med Socialstyrelsen fortsatt utreda förutsättningarna och lämna förslag på åtgärder för ökad insamling och användning av plasma som råvara för läkemedelsframställning (plasma-derived medicinal products; PDMPs samt S/D-plasma). Socialstyrelsen ska senast den 5 juni 2026 lämna en slutredovisning av uppdraget till Regeringskansliet (Socialdepartementet). Medel för uppdraget har tilldelats Läkemedelsverket i regleringsbrev för budgetåret 2026 avseende anslag 1:14 Civilt försvar inom hälso- och sjukvård, anslagsposten 1 Del till Kammarkollegiet.\n\n*Ändring av uppdrag om förberedelser för framtagandet av en nationell lägesbild över tillgången till läkemedel*\n\nLäkemedelsverkets och E-hälsomyndighetens uppdrag att förbereda ett system för att ta fram en nationell lägesbild över tillgång och efterfrågan för läkemedel ändras på så sätt att uppdragstiden förlängs. Arbetet ska utgå från de informationsmängder och åtgärder som ingår i etapp 1 enligt myndigheternas redovisningar av uppdraget att göra en förstudie om nationell lägesbild för läkemedel (S2022/01265) och de kompletterande förslag, analyser och planer för det fortsatta arbetet som myndigheterna har redovisat inom ramen för uppdraget. Läkemedelsverket och E-hälsomyndigheten ska senast den 27 februari 2026 och senast den 26 februari 2027 lämna en delredovisning av uppdraget och senast den 29 februari 2028 lämna en slutredovisning av uppdraget till Regeringskansliet (Socialdepartementet). En plan för det fortsatta arbetet ska redovisas senast den 30 september 2026 och senast den 30 september 2027. Myndigheterna ska löpande informera Regeringskansliet (Socialdepartementet) om hur arbetet med uppdraget fortskrider och vid behov föra en dialog med Socialdepartementet om tidplan för arbetet och andra frågor. Medel för uppdraget har tilldelats Läkemedelsverket i regleringsbrev för budgetåret 2026 avseende anslag 1:14 Civilt försvar inom hälso- och sjukvård, anslagsposten 1 Del till Kammarkollegiet.\n\n*Uppdrag att ta fram kunskapsunderlag för användning av melatonin och andra läkemedel som används vid sömnproblem*\n\nLäkemedelsverket ska ta fram kunskapsunderlag för användning av melatonin och andra läkemedel som används vid sömnproblem hos vuxna respektive barn och unga. I uppdraget ingår att, vid behov, uppdatera befintliga rekommendationer för behandling med melatonin-läkemedel avseende sömnproblem hos barn och unga, kartlägga användningen av melatonin och identifiera potentiella negativa effekter samt baserat på aktuell kunskap och befintliga rekommendationer genomföra kommunikations- och spridningsinsatser till berörda aktörer. När uppdraget utförs ska Läkemedelsverket föra dialog med och inhämta kunskap och erfarenheter från Folkhälsomyndigheten inom ramen för deras uppdrag att ta fram vägledning och rekommendationer för att främja goda sömnvanor hos barn och unga (S2025/01326). Läkemedelsverket ska senast den 30 juni 2026 lämna en delredovisning av uppdraget till Regeringskansliet (Socialdepartementet). Läkemedelsverket ska senast den 1 oktober 2027 lämna en slutredovisning av uppdraget till Regeringskansliet (Socialdepartementet). Redovisningarna ska hänvisa till regleringsbrevet för budgetåret 2026 avseende Läkemedelsverket. För uppdraget får Läkemedelsverket under 2026 använda 2 000 000 kronor som ska redovisas mot det under utgiftsområde 9 Hälsovård, sjukvård och social omsorg för budgetåret 2026 uppförda anslaget 1:8 Bidrag till psykiatri, anslagsposten 3 Till Kammarkollegiets disposition. Medlen betalas ut engångsvis efter rekvisition till Kammarkollegiet senast den 1 december 2026. Medel som inte har använts för avsett ändamål ska återbetalas senast den 31 mars 2027 till Kammarkollegiet. Vid samma tidpunkt ska en ekonomisk redovisning av använda medel lämnas till Kammarkollegiet. Rekvisition, återbetalning och redovisningar ska hänvisa till regleringsbrevet för budgetåret 2026 avseende Läkemedelsverket.\n\n*Förenkla för företag genom verksamt.se*\n\nLäkemedelsverket ska förenkla för företag genom att under 2026–2028 uppdatera, kvalitetssäkra och förvalta myndighetens innehåll på den myndighetsgemensamma webbplatsen verksamt.se. Myndigheten ska även bidra till den branschanpassade tjänsten som Tillväxtverket vidareutvecklar på verksamt.se.\n\n*Uppdrag att analysera tillgängligheten till läkemedel köpta på distans*\n\nLäkemedelsverket får i uppdrag att analysera hur myndighetens nya föreskrifter gällande distanshandel med läkemedel har påverkat tillgängligheten till läkemedel. I uppdraget ska Läkemedelsverket särskilt beakta situationen för personer i gles- och landsbygder. För uppdraget får Läkemedelsverket under 2026 använda 1 500 000 kronor som ska redovisas mot det under utgiftsområde 9 Hälsovård, sjukvård och social omsorg för budgetåret 2026 uppförda anslaget 1:6 Bidrag till folkhälsa och sjukvård, anslagsposten 10 Till Läkemedelsverkets disposition. Läkemedelsverket ska senast den 31 oktober 2027 lämna en skriftlig redovisning av uppdraget till Regeringskansliet (Socialdepartementet). Redovisningen av uppdraget ska hänvisa till diarienumret för detta beslut.",
+   "dates": [
+    "2026-02-27",
+    "2026-06-05",
+    "2026-06-30",
+    "2026-09-30",
+    "2026-12-01",
+    "2027-02-26",
+    "2027-03-31",
+    "2027-09-30",
+    "2027-10-01",
+    "2027-10-31",
+    "2028-02-29"
+   ],
+   "deadlines": [
+    "2026-02-27",
+    "2026-06-05",
+    "2026-06-30",
+    "2026-09-30",
+    "2026-12-01",
+    "2027-02-26",
+    "2027-03-31",
+    "2027-09-30",
+    "2027-10-01",
+    "2027-10-31",
+    "2028-02-29"
+   ],
+   "recipients": [
+    "Kammarkollegiet",
+    "Regeringskansliet (Socialdepartementet)"
+   ],
+   "partners": [
+    "E-hälsomyndigheten",
+    "Folkhälsomyndigheten",
+    "Kammarkollegiet",
+    "Socialstyrelsen",
+    "Tillväxtverket"
+   ],
+   "channels": [
+    "delredovisning",
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "föreslå",
+    "fördela_medel",
+    "utveckla",
+    "informera"
+   ],
+   "anslag_refs": [
+    "1:14",
+    "1:6",
+    "1:8"
+   ],
+   "expenditure_area_refs": [
+    9
+   ],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26376:assignments:0"
+  },
+  {
+   "title": "Återkommande uppdrag",
+   "group": [],
+   "text": "*Prognoser*\n\nMyndigheten ska redovisa prognoser för anslaget 1:9 Läkemedelsverket för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Prognoserna lämnas i informationssystemet Hermes.\n\nLäkemedelsverket ska även lämna utförligt kommenterade prognoser för sina avgiftsintäkter och kostnader i en särskild rapport vid nedanstående tillfällen. Vid varje prognostillfälle ska prognoser lämnas för åren 2026–2029 och kommenteras i förhållande till föregående prognostillfälle samt i förhållande till budgeten.\n\nI samband med prognostillfället i april ska även en rapport lämnas med en översiktlig redovisning av volymerna för ansökningsärenden inom ramen för förordningen (2010:1167) om avgifter för den statliga kontrollen av läkemedel, med syfte att påvisa hur olika delar i förordningen relaterar till myndighetens aggregerade ekonomi. Redovisningen ska förhålla sig till rubrikindelningen i förordningen.\n\n- 2 februari\n- 22 april\n- 24 juli\n- 9 november.\n\nMyndigheten ska redovisa en prognos för de förslag om beställningsbemyndiganden som lämnats i budgetunderlaget och för de åtaganden som ingåtts med stöd av äldre beställningsbemyndiganden. Prognosen ska lämnas senast den 24 juli 2026 via Statsredovisningssystemet i Hermes och utformas enligt närmare information från Statskontoret.",
+   "dates": [
+    "2026-07-24"
+   ],
+   "deadlines": [
+    "2026-07-24"
+   ],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [
+    "Statskontoret"
+   ],
+   "channels": [
+    "hermes",
+    "budgetunderlag"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos",
+    "tillsyn_kontroll"
+   ],
+   "anslag_refs": [
+    "1:9"
+   ],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2010:1167"
+   ],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "26376:assignments:1"
+  },
+  {
+   "title": "Pågående uppdrag",
+   "group": [],
+   "text": "| | | |\n| --- | --- | --- |\n| **Uppdrag** | **Beslut om uppdraget** | **Redovisningstidpunkt** |\n| Uppdrag att sprida information om risker vid berusning med lustgas | Regeringsbeslut S2023/00968, ändrat genom regeringsbeslut S2024/01305 | Uppdraget ska slutredovisas den 31 mars 2026. |\n| Uppdrag att förebygga och hantera rest- och bristsituationer avseende läkemedel | Regeringsbeslut S2023/01609 | Uppdraget ska i fråga om punkterna 6-10 redovisas den 15 februari 2026. |\n| Fördjupad säkerhetsuppföljning av vacciner mot sjukdomen covid-19 | Regeringsbeslut S2020/08531 | Uppdraget ska delredovisas den 15 december 2026. Uppdraget ska slutredovisas den 15 december 2027. |\n| Uppdrag att medverka i genomförandet av Europeiska unionens strategi för Östersjöregionen | Regeringsbeslut SB2021/01583 ändrat genom SB2025/01094 | Redovisas 31 januari 2027 och därefter var tredje år. |\n| Stärka och påskynda förenklingsarbetet | Regleringsbrev för budgetåret 2024 | Uppdraget ska slutredovisas den 15 mars 2026. |\n| Uppdrag att möjliggöra framtagande av en nationell lägesbild över medicintekniska produkter samt produktionskartläggning av medicintekniska produkter i Sverige | Regeringsbeslut S2024/00545 | Uppdraget ska delredovisas den 15 december 2026. Uppdraget ska slutredovisas den 31 oktober 2027. |\n| Uppdrag att samordna och följa upp arbetet inom ramen för regeringens nationella läkemedelsstrategi | Regeringsbeslut S2024/00189 | Uppdraget ska delredovisas den 1 februari 2026. Uppdraget ska slutredovisas den 1 februari 2027. |\n| Uppdrag att öka kunskapen om användningen av adhd-läkemedel med fokus på att främja en jämlik, säker och ändamålsenlig användning | Regeringsbeslut S2024/01051 | Uppdraget ska delredovisas den 1 juni 2026. Uppdraget ska slutredovisas den 1 juni 2027. |\n| Uppdrag att etablera en nationell samverkansstruktur för hälso- och sjukvårdens försörjningsberedskap | Regeringsbeslut S2024/01055 | Uppdraget ska slutredovisas av Socialstyrelsen den 15 december 2026. |\n| Uppdrag till Socialstyrelsen och Läkemedelsverket att stärka tillgången till särskilt kritiska sjukvårdsprodukter genom tillverkningsberedskap | Regeringsbeslut S2024/01776 | Uppdraget ska delredovisas den 15 januari 2026. Uppdraget ska slutredovisas den 15 januari 2027. |\n| Uppdrag till Läkemedelsverket om risker med och åtgärder mot falska läkemedel | Regeringsbeslut S2024/01953 | Uppdraget ska slutredovisas den 31 januari 2026. |\n| Uppdrag att ta fram en myndighetsgemensam nationell plan för en bättre beroendevård och stärkt förebyggande arbete | Regeringsbeslut S2025/01284 | Uppdraget redovisas av Socialstyrelsen och Folkhälsomyndigheten den 1 juni 2026. |\n| Uppdrag till Läkemedelsverket och Inspektionen för vård och omsorg om tillstånd och tillsyn när det gäller humanmaterial | Regeringsbeslut S2025/00748 | Uppdraget ska slutredovisas den 10 februari 2027. |\n| Uppdrag att utreda möjligheten att flytta över tillsynen över egentillverkade medicintekniska produkter från Inspektionen för vård och omsorg till Läkemedelsverket | Regeringsbeslut S2025/00577 | Uppdraget ska redovisas den 31 januari 2026. |\n| Uppdrag till Läkemedelsverket att se över avgiftsmodellen för Läkemedelsverkets verksamhet som avser medicintekniska produkter | Regeringsbeslut S2025/00579 | Uppdraget ska redovisas den 31 januari 2026. |\n| Uppdrag att samordna, stödja och följa upp genomförandet av den nationella strategin inom området psykisk hälsa och suicidprevention | Regeringsbeslut S2025/00016 | Uppdraget ska delredovisas av Folkhälsomyndigheten och Socialstyrelsen den 19 december 2026 och 2027. Uppdraget ska slutredovisas den 19 december 2028. |\n| Uppdrag att redovisa resultat inom ramen för regeringens utvecklingsprogram för jämställdhetsintegrering i statliga myndigheter | Regeringsbeslut A2024/01457 | Uppdraget ska redovisas den 20 januari 2026. |\n| Inriktning för civilt försvar 2025-2030 | Regeringsbeslut Fö2024/02054 | Uppdraget ska redovisas i samband med årsredovisningen. |\n| Uppdrag till Läkemedelsverket att förbereda för arbetet som marknadskontrollmyndighet enligt EHDS | Regeringsbeslut S2025/00793 | Uppdraget ska redovisas den 31 januari 2027. |\n| Uppdrag om medicintekniska produkter | Regleringsbrev för budgetåret 2025 | Uppdraget ska redovisas den 27 februari 2026. |\n| Uppdrag att stärka och utveckla insatserna inom området psykisk hälsa och suicidprevention med fokus på en effektivare och säkrare läkemedelsanvändning | Regleringsbrev för budgetåret 2022 och 2025 | Uppdraget ska delredovisas den 1 december 2026 och 2027. Uppdraget ska slutredovisas den 31 mars 2028. |\n| Uppdrag om nationell samverkan och handlingsplan för arbetet mot antimikrobiell resistens | Regeringsbeslut S2025/01938 | Uppdraget ska delredovisas av Folkhälsomyndigheten och Jordbruksverket den 15 december 2026 och därefter årligen fr.o.m. den 1 mars 2028 t.o.m. 2030. |\n| Uppdrag till beredskapsmyndigheterna om personallån mellan myndigheter | Regeringsbeslut Fö2025/00670 | Uppdraget ska slutredovisas i årsredovisningen för 2025. |\n| Uppdrag om fortsatt aktörsgemensam samverkan och övning för att stärka öppenvårdsapotekens beredskap | Regeringsbeslut S2024/00544 | Uppdraget ska delredovisas den 15 februari 2027 och slutredovisas den 15 februari 2028. |\n| Uppdrag till Läkemedelsverket och Försvarsmakten om hantering av läkemedel i syfte att stärka beredskapen | Regeringsbeslut S2025/01872 | Uppdraget ska redovisas den 18 juni 2026. |\n| Uppdrag att ta fram en nationell handlingsplan för att förebygga och behandla hjärt- och kärlsjukdom | Regeringsbeslut S2025/01981 | Uppdraget ska redovisas årligen och slutredovisas den 15 oktober 2028. |\n\n*För regeringsuppdrag som lämnats i ett särskilt regeringsbeslut utgör tabellen endast en upplysning om vilka uppdrag som vid årets början var riktade till myndigheten och vilka tider som då gällde för återrapportering eller liknande.*",
+   "dates": [
+    "2026-01-15",
+    "2026-01-20",
+    "2026-01-31",
+    "2026-02-01",
+    "2026-02-15",
+    "2026-02-27",
+    "2026-03-15",
+    "2026-03-31",
+    "2026-06-01",
+    "2026-06-18",
+    "2026-12-01",
+    "2026-12-15",
+    "2026-12-19",
+    "2027-01-15",
+    "2027-01-31",
+    "2027-02-01",
+    "2027-02-10",
+    "2027-02-15",
+    "2027-06-01",
+    "2027-10-31",
+    "2027-12-15",
+    "2028-02-15",
+    "2028-03-01",
+    "2028-03-31",
+    "2028-10-15",
+    "2028-12-19"
+   ],
+   "deadlines": [],
+   "recipients": [
+    "Socialstyrelsen"
+   ],
+   "partners": [
+    "Folkhälsomyndigheten",
+    "Försvarsmakten",
+    "Inspektionen för vård och omsorg",
+    "Socialstyrelsen",
+    "Statens jordbruksverk"
+   ],
+   "channels": [
+    "årsredovisning",
+    "delredovisning",
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna",
+    "utveckla",
+    "tillsyn_kontroll",
+    "beredskap_säkerhet",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "26376:assignments:2"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "1:9",
+   "name": "Läkemedelsverket",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 9,
+    "name": "Hälsovård, sjukvård och social omsorg"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Läkemedelsverket",
+     "amount_tkr": 249799,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Läkemedelsverket - del till LV (ram)",
+       "amount_tkr": 189799
+      },
+      {
+       "ap": "2",
+       "name": "Förbättrade förutsättningar för kliniska prövningar (ram)",
+       "amount_tkr": 60000
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Läkemedelsverket - del till LV",
+     "text": "Anslaget får användas för utgifter vid Läkemedelsverket för:\n- tillsyn och därtill hörande uppgifter om medicintekniska produkter,\n- producentobunden läkemedelsinformation,\n- utökade ansvarsområden till följd av lagen (2006:496) om blodsäkerhet och lagen (2008:286) om kvalitets- och säkerhetsnormer vid hantering av mänskliga vävnader och celler,\n- strukturerad uppföljning av nya läkemedel,\n- utökade ansvarsområden till följd av ny lagstiftning på EU-nivå inom områden för kosmetika, medicinteknik och avancerade terapier,\n- drift av Giftinformationscentralen,\n- tillsyn av tatueringsfärger,\n- centrum för läkemedel och miljö,\n- tillsyn enligt förordningen (2012:596) om införsel av och handel med sprutor och kanyler,\n- förvaltning av nationellt substansregister,\n- arbete med att skapa förmåga att upprätthålla verksamhet under störda förhållanden och höjd beredskap,\n- arbete med cyber- och informationssäkerhet, samt\n- uppgifter till följd av Europaparlamentets och rådets förordning om fastställande av harmoniserande regler för artificiell intelligens."
+    },
+    {
+     "ap": "2",
+     "name": "Förbättrade förutsättningar för kliniska prövningar",
+     "text": "Anslaget får även användas för utveckling, stöd och förvaltning av en struktur och partnerskap för kliniska prövningar. Anslaget får även användas för bidrag för att främja kliniska prövningar."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "1:9 Läkemedelsverket",
+   "ap": "ap.1",
+   "Anslagskredit": 7433,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:9 Läkemedelsverket",
+   "ap": "ap.2",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 200000,
+  "Räntekontokredit": 75000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 15650
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 15650
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 15650
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 15650
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 15650
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 15936
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 15936
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 15936
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 15936
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 15936
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 15936
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 15933
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:9 Läkemedelsverket",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "7 433",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.2",
+     "0",
+     "Inget",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Beställningsbemyndiganden",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Bemyndigande",
+     "Utgifter mot anslag till följd av ekonomiska åtaganden",
+     "",
+     "",
+     ""
+    ],
+    [
+     "2026",
+     "2027",
+     "2028",
+     "2029 -",
+     "Slutår"
+    ],
+    [
+     "1:9 Läkemedelsverket",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.2",
+     "300 000",
+     "60 000",
+     "60 000",
+     "180 000",
+     "2031"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "200 000"
+    ],
+    [
+     "Räntekontokredit",
+     "75 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "15 650"
+    ],
+    [
+     "2026-02-25",
+     "15 650"
+    ],
+    [
+     "2026-03-25",
+     "15 650"
+    ],
+    [
+     "2026-04-25",
+     "15 650"
+    ],
+    [
+     "2026-05-25",
+     "15 650"
+    ],
+    [
+     "2026-06-25",
+     "15 936"
+    ],
+    [
+     "2026-07-25",
+     "15 936"
+    ],
+    [
+     "2026-08-25",
+     "15 936"
+    ],
+    [
+     "2026-09-25",
+     "15 936"
+    ],
+    [
+     "2026-10-25",
+     "15 936"
+    ],
+    [
+     "2026-11-25",
+     "15 936"
+    ],
+    [
+     "2026-12-25",
+     "15 933"
+    ],
+    [
+     "Summa",
+     "189 799"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "1:9 ap.1",
+     "Läkemedelsverket - del till LV"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Offentligrättslig verksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Tillstånd och tillsyn1",
+     "209 402",
+     "35 325",
+     "974 711",
+     "1 038 478",
+     "-63 767",
+     "180 960"
+    ],
+    [
+     "Kliniska prövningar2",
+     "-30 672",
+     "-12 525",
+     "25 289",
+     "41 522",
+     "-16 233",
+     "-59 430"
+    ],
+    [
+     "Summa",
+     "178 730",
+     "22 800",
+     "1 000 000",
+     "1 080 000",
+     "-80 000",
+     "121 530"
+    ]
+   ]
+  },
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna ej disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "Ink. tit.",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Offentligrättslig verksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Blodverksamhet1",
+     "2552",
+     "-10 682",
+     "-1 500",
+     "1 500",
+     "3 000",
+     "-1 500",
+     "-13 682"
+    ],
+    [
+     "Vävnads- och cellverksamhet1",
+     "2552",
+     "-5 079",
+     "-400",
+     "300",
+     "700",
+     "-400",
+     "-5 879"
+    ],
+    [
+     "Summa",
+     "-15 761",
+     "-1 900",
+     "1 800",
+     "3 700",
+     "-1 900",
+     "-19 561"
+    ]
+   ]
+  }
+ ],
+ "has_fee_section": true,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 1,
+  "n_org": 1,
+  "n_assignments": 3,
+  "n_deadlines": 13,
+  "deadlines": [
+   "2026-02-27",
+   "2026-06-05",
+   "2026-06-30",
+   "2026-07-24",
+   "2026-09-30",
+   "2026-12-01",
+   "2027-02-22",
+   "2027-02-26",
+   "2027-03-31",
+   "2027-09-30",
+   "2027-10-01",
+   "2027-10-31",
+   "2028-02-29"
+  ],
+  "partners": [
+   "E-hälsomyndigheten",
+   "Etikprövningsmyndigheten",
+   "Folkhälsomyndigheten",
+   "Försvarsmakten",
+   "Inspektionen för vård och omsorg",
+   "Kammarkollegiet",
+   "Socialstyrelsen",
+   "Statens jordbruksverk",
+   "Statskontoret",
+   "Tillväxtverket",
+   "Tullverket"
+  ],
+  "n_appropriations": 1,
+  "appropriations_total_tkr": 249799,
+  "payment_plan_total_tkr": 189799,
+  "md_chars": 25319
+ },
+ "layout": "standard",
+ "warnings": []
+}

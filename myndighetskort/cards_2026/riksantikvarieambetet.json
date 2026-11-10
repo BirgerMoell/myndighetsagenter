@@ -1,0 +1,1210 @@
+{
+ "schema_version": 1,
+ "id": 26431,
+ "original_rbid": 26024,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-06-18",
+ "year": "2026",
+ "name": "Riksantikvarieämbetet",
+ "slug": "riksantikvarieambetet",
+ "department": "Kulturdepartementet",
+ "expenditure_areas": [
+  17
+ ],
+ "registry_numbers": [
+  "Ku2026/00572 (delvis)",
+  "Ku2026/00591"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1",
+   "2025/26:99"
+  ],
+  "bet": [
+   "2025/26:FiU21",
+   "2025/26:KrU1"
+  ],
+  "rskr": [
+   "2025/26:351",
+   "2025/26:83"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "",
+ "goals": [
+  {
+   "title": "Bidragsgivning",
+   "group": [],
+   "text": "Riksantikvarieämbetet ska redovisa hur bidragsgivningen från anslaget 6:2 Bidrag till kulturmiljövård och anslaget 6:4 Bidrag till arbetslivsmuseer har främjat ett levande kulturarv som bevaras, används och utvecklas. Riksantikvarieämbetet ska särskilt redovisa hur bidragsgivningen bidragit till uppfyllelsen av de nationella målen för kulturmiljöarbetet.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "fördela_medel",
+    "utveckla"
+   ],
+   "anslag_refs": [
+    "6:2",
+    "6:4"
+   ],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26431:goals:0"
+  },
+  {
+   "title": "Forsknings- och utvecklingsinsatser inom kulturområdet",
+   "group": [],
+   "text": "Riksantikvarieämbetet ska redovisa hur myndigheten har använt eller fördelat medlen från anslag 1:4 Forsknings- och utvecklingsinsatser inom kulturområdet. Redovisningen ska omfatta\n\n- vilka strategiska prioriteringar som legat till grund för användningen eller fördelningen av medel\n- vilka insatser som finansierats eller delfinansierats av anslaget under året\n- på vilket sätt insatserna förväntas bidra till kulturområdets utveckling\n- en resultatbedömning av genomförda insatser.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "fördela_medel"
+   ],
+   "anslag_refs": [
+    "1:4"
+   ],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "vilka strategiska prioriteringar som legat till grund för användningen eller fördelningen av medel",
+    "vilka insatser som finansierats eller delfinansierats av anslaget under året",
+    "på vilket sätt insatserna förväntas bidra till kulturområdets utveckling",
+    "en resultatbedömning av genomförda insatser."
+   ],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26431:goals:1"
+  },
+  {
+   "title": "Uppdragsarkeologi",
+   "group": [],
+   "text": "Riksantikvarieämbetet ska redovisa resultaten av myndighetens arbete för att främja utvecklingen på det uppdragsarkeologiska området.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26431:goals:2"
+  },
+  {
+   "title": "Kulturarvs-it",
+   "group": [],
+   "text": "Riksantikvarieämbetet ska redovisa vilka som fått bidrag enligt förordningen (2003:248) om bidrag till lönekostnader inom verk-\\\nsamheten kulturarvs-it, med vilka belopp och för vilka ändamål. Redovisningen ska också innehålla en bedömning av statsbidragets effekter i förhållande till syftet med bidragen.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "fördela_medel"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2003:248"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26431:goals:3"
+  },
+  {
+   "title": "Gestaltad livsmiljö",
+   "group": [],
+   "text": "Riksantikvarieämbetet ska redovisa genomförda insatser och resultat i arbetet med målet för arkitektur, form och design och den gestaltade livsmiljön (prop. 2017/18:110, bet. 2017/18:CKrU1, rskr. 2017/18:316).",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26431:goals:4"
+  },
+  {
+   "title": "Publik och tillgänglighet",
+   "group": [],
+   "text": "Riksantikvarieämbetet ska, avseende myndighetens besöksmål, redovisa\n\n- den verksamhet som svarar mot den unga publikens behov samt insatser för att öka den unga publiken\n- de åtgärder som vidtagits för att öka tillgängligheten för personer med funktionsnedsättning.\n\nRiksantikvarieämbetet ska till Myndigheten för kulturanalys lämna uppgifter om besöksutvecklingen på myndighetens besöksmål. Redovisning ska ske i enlighet med de anvisningar Myndigheten för kulturanalys lämnar.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [
+    "Myndigheten för kulturanalys"
+   ],
+   "partners": [
+    "Myndigheten för kulturanalys"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "den verksamhet som svarar mot den unga publikens behov samt insatser för att öka den unga publiken",
+    "de åtgärder som vidtagits för att öka tillgängligheten för personer med funktionsnedsättning."
+   ],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26431:goals:5"
+  },
+  {
+   "title": "Verksamheten Svensk museitjänst",
+   "group": [],
+   "text": "Riksantikvarieämbetet ska särredovisa verksamheten Svensk museitjänst i resultatredovisningen.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26431:goals:6"
+  },
+  {
+   "title": "Lokalkostnader",
+   "group": [],
+   "text": "Riksantikvarieämbetet ska specificera myndighetens totala lokalkostnader för 2026 enligt följande:\n\n- hyra\n- el och uppvärmning\n- reparationer och underhåll\n- övriga driftskostnader.\n\nOm myndigheten har fler än en hyresvärd ska kostnaderna fördelas per hyresvärd.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "fördela_medel"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "el och uppvärmning",
+    "reparationer och underhåll",
+    "övriga driftskostnader."
+   ],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26431:goals:7"
+  },
+  {
+   "title": "Sponsringsintäkter",
+   "group": [],
+   "text": "Riksantikvarieämbetet ska särredovisa eventuella sponsringsintäkter i not till resultaträkningen.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26431:goals:8"
+  },
+  {
+   "title": "Bidragsintäkter",
+   "group": [],
+   "text": "Riksantikvarieämbetet ska särredovisa fördelningen av eventuella bidragsintäkter mellan statliga bidrag, icke-statliga bidrag respektive bidrag från mellanstatliga organ i not till resultaträkningen.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26431:goals:9"
+  }
+ ],
+ "org": [
+  {
+   "title": "Samverkansråd inom ramen för kultursamverkansmodellen",
+   "group": [],
+   "text": "Riksantikvarieämbetet ska under 2026 delta i det samverkansråd vid Statens kulturråd som ska samordna de nationella kulturpolitiska intressena inom ramen för kultursamverkansmodellen.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Statens kulturråd"
+   ],
+   "channels": [],
+   "task_types": [
+    "samordna"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "org",
+   "item_id": "26431:org:0"
+  },
+  {
+   "title": "Säkerställa proaktivitet och handlingskraft vid fredstida krissituationer eller vid krig och krigsfara",
+   "group": [],
+   "text": "Riksantikvarieämbetet ska säkerställa att myndigheten har förmåga att agera proaktivt och handlingskraftigt i hanteringen av såväl fredstida krissituationer som vid krig och krigsfara. Utöver de krav som ställs i förordningen (2022:524) om statliga myndigheters beredskap ska Riksantikvarieämbetet i detta syfte utbilda och öva sin personal samt se till att myndigheten stärker en kultur och arbetssätt som utgår från de krav som ett krig ställer. Uppdraget ska redovisas till Regeringskansliet (Kulturdepartementet och Försvarsdepartementet) senast den 22 februari 2027. Detta ska ingå i den särskilda redovisningen för civilt försvar.",
+   "dates": [
+    "2027-02-22"
+   ],
+   "deadlines": [
+    "2027-02-22"
+   ],
+   "recipients": [
+    "Regeringskansliet (Kulturdepartementet och Försvarsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2022:524"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "org",
+   "item_id": "26431:org:1"
+  }
+ ],
+ "assignments": [
+  {
+   "title": "Åtgärder för ett stärkt civilt försvar",
+   "group": [],
+   "text": "Riksantikvarieämbetet ska vidta särskilda åtgärder för att stärka skyddet av kulturarv genom beredskapsplanering avseende evakueringsmagasin och säkra transporter. Åtgärderna ska syfta till att utveckla och stärka det civila försvaret och därmed bidra till en högre samlad förmåga inom totalförsvaret i enlighet med inriktningsbeslut för det civila försvaret 2025–2030. Myndigheten ska redovisa vidtagna åtgärder och resultatet av dessa. Uppdraget ska redovisas till Regeringskansliet (Kulturdepartementet och Försvarsdepartementet) senast den 22 februari 2027. Detta ska ingå i den särskilda redovisningen för civilt försvar.",
+   "dates": [
+    "2027-02-22"
+   ],
+   "deadlines": [
+    "2027-02-22"
+   ],
+   "recipients": [
+    "Regeringskansliet (Kulturdepartementet och Försvarsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26431:assignments:0"
+  },
+  {
+   "title": "Uppdrag om stöd i återlämnandeprocesser",
+   "group": [],
+   "text": "Riksantikvarieämbetet ska informera om möjligheterna för organisationer som företräder de nationella minoriteterna, inklusive urfolket samerna, att söka bidrag för återlämnandeprocesser samt erbjuda vägledning i samband med återlämnandeprocesser. Vid genomförandet av uppdraget ska Riksantikvarieämbetet inhämta synpunkter från Sametinget och Myndigheten för ungdoms- och civilsamhällesfrågor. Uppdraget ska redovisas till Regeringskansliet (Kulturdepartementet) senast den 22 februari 2027.",
+   "dates": [
+    "2027-02-22"
+   ],
+   "deadlines": [
+    "2027-02-22"
+   ],
+   "recipients": [
+    "Regeringskansliet (Kulturdepartementet)"
+   ],
+   "partners": [
+    "Myndigheten för ungdoms- och civilsamhällesfrågor",
+    "Sametinget"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "utveckla",
+    "informera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26431:assignments:1"
+  },
+  {
+   "title": "Redovisning av överklaganden",
+   "group": [],
+   "text": "Riksantikvarieämbetet ska redovisa de ärenden där myndigheten har överklagat ett beslut eller en dom som en statlig förvaltningsmyndighet eller en domstol har meddelat, om ett bifall till överklagandet kan leda till att en fysisk eller juridisk person inte kan påbörja, fortsätta bedriva eller vidareutveckla en yrkesmässig verksamhet, eller om det kan leda till att den redovisade tidsplanen för att påbörja eller vidareutveckla en sådan verksamhet påverkas. Redovisningen ska lämnas till Regeringskansliet (Klimat- och näringslivsdepartementet med kopia till Kulturdepartementet) senast tre månader efter det att myndigheten fattat beslut om överklagande.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [
+    "Regeringskansliet (Klimat- och näringslivsdepartementet med kopia till Kulturdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26431:assignments:2"
+  },
+  {
+   "title": "Kiruna – Europeisk kulturhuvudstad 2029",
+   "group": [],
+   "text": "Riksantikvarieämbetet ska i dialog med Kiruna kommun se över möjligheter att medverka inför och under evenemanget Europeisk kulturhuvudstad 2029.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "samordna",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26431:assignments:3"
+  },
+  {
+   "title": "Prognos för beställningsbemyndiganden",
+   "group": [],
+   "text": "Myndigheten ska redovisa en prognos för de förslag om beställningsbemyndiganden som lämnats i budgetunderlaget och för de åtaganden som ingåtts med stöd av äldre beställningsbemyndiganden. Prognosen ska lämnas senast den 24 juli 2026 via statsredovisningssystemet i Hermes och utformas enligt närmare information från Statskontoret.",
+   "dates": [
+    "2026-07-24"
+   ],
+   "deadlines": [
+    "2026-07-24"
+   ],
+   "forecast_dates": [],
+   "recipients": [],
+   "partners": [
+    "Statskontoret"
+   ],
+   "channels": [
+    "hermes",
+    "budgetunderlag"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26431:assignments:4"
+  },
+  {
+   "title": "Prognoser 2026–2029",
+   "group": [],
+   "text": "Myndigheten ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Prognoserna lämnas i informationssystemet Hermes senast den\n\n- 2 februari\n- 24 juli\n- 9 oktober.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-07-24",
+    "2026-10-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26431:assignments:5"
+  },
+  {
+   "title": "Tidigare givna uppdrag",
+   "group": [],
+   "text": "| | | |\n| --- | --- | --- |\n| Uppdrag att redovisa resultat inom ramen för regeringens utvecklingsprogram för jämställdhetsintegrering i statliga myndigheter | A2024/01457 | Redovisning till Regeringskansliet (Arbetsmarknadsdepartementet med kopia till Kulturdepartementet) senast den 20 januari 2026 |\n| Uppdrag att kartlägga användningen av AI i kulturmiljöarbetet | Ku2025/00684 Ku2025/00717 | Redovisning till Regeringskansliet (Kulturdepartementet) senast den 27 februari 2026 |\n| Uppdrag att bidra till att uppmärksamma 250-årsjubileet av judiskt liv i Sverige | Ku2025/00684 Ku2025/00717 | Redovisning till Regeringskansliet (Kulturdepartementet) senast den 31 mars 2026 |\n| Uppdrag att redovisa genomförandet av den regionala utvecklingspolitiken och den sammanhållna landsbygdspolitiken | LI2024/00652 | Redovisning till Regeringskansliet (Landsbygds- och infrastrukturdepartementet med kopia till Tillväxtverket) senast den 31 januari 2027 |\n| Strategi för systematisk uppföljning av funktionshinderspolitiken under 2021–2031 | S2021/06595 S2025/01367 | Redovisning till Myndigheten för delaktighet (MFD) årligen senast den 1 februari |\n| Uppdrag att ingå i och bistå Rådet för levande städer | LI2025/00210 | Rådet för levande städer ska hålla Regeringskansliet informerat om arbetet och senast den 31 december 2030 slutredovisa uppdraget |\n| Uppdrag att bistå Miljömålsrådet | M2018/01715 M2021/01947 M2022/00273 | Slutredovisas den 6 maj 2026 |\n| Bidra i genomförandet av regionalfondsprogram under programperioden 2021–2027 | Ku2021/02377 | Redovisning till Regeringskansliet (Klimat- och näringslivsdepartementet) senast den 24 februari 2028 |\n\n*För regeringsuppdrag som lämnats i ett särskilt regeringsbeslut utgör tabellen endast en upplysning om vilka uppdrag som vid årets början var riktade till myndigheten och vilka tider som då gällde för återrapportering eller liknande.*",
+   "dates": [
+    "2026-01-20",
+    "2026-02-27",
+    "2026-03-31",
+    "2026-05-06",
+    "2027-01-31",
+    "2028-02-24",
+    "2030-12-31"
+   ],
+   "deadlines": [
+    "2026-01-20",
+    "2026-02-27",
+    "2026-03-31",
+    "2027-01-31",
+    "2028-02-24",
+    "2030-12-31"
+   ],
+   "recipients": [
+    "Myndigheten för delaktighet",
+    "Regeringskansliet (Arbetsmarknadsdepartementet med kopia till Kulturdepartementet)",
+    "Regeringskansliet (Klimat- och näringslivsdepartementet)",
+    "Regeringskansliet (Kulturdepartementet)",
+    "Regeringskansliet (Landsbygds- och infrastrukturdepartementet med kopia till Tillväxtverket)",
+    "Tillväxtverket"
+   ],
+   "partners": [
+    "Myndigheten för delaktighet",
+    "Tillväxtverket"
+   ],
+   "channels": [
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna",
+    "utveckla",
+    "informera",
+    "digitalisering_ai"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "26431:assignments:6"
+  },
+  {
+   "title": "Anmälningar om förstärkt skydd",
+   "group": [],
+   "text": "Riksantikvarieämbetet ska lämna förslag på kulturegendom som bör anmälas för förstärkt skydd enligt andra protokollet till 1954 års Haagkonvention om skydd för kulturegendom i händelse av väpnad konflikt. Myndigheten ska även lämna förslag på hur det nationella förfarandet för anmälan kan organiseras samt redovisa konsekvenser av förslagen. Myndigheten ska samråda med Försvarsmakten och vid behov ge Myndigheten för civilt försvar, Kungl. biblioteket, Riksarkivet och berörda länsstyrelser samt andra berörda institutioner tillfälle att yttra sig. Uppdraget ska redovisas till Regeringskansliet (Kulturdepartementet) senast den 1 december 2026.",
+   "dates": [
+    "2026-12-01"
+   ],
+   "deadlines": [
+    "2026-12-01"
+   ],
+   "recipients": [
+    "Regeringskansliet (Kulturdepartementet)"
+   ],
+   "partners": [
+    "Försvarsmakten",
+    "Kungl. biblioteket",
+    "Myndigheten för civilt försvar",
+    "Riksarkivet"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "föreslå"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26431:assignments:7"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "1:4",
+   "name": "Forsknings- och utvecklingsinsatser inom kulturområdet",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 17,
+    "name": "Kultur, medier, trossamfund och fritid"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Riksantikvarieämbetet",
+     "amount_tkr": 20290,
+     "items": [
+      {
+       "ap": "10",
+       "name": "Riksantikvarieämbetet (ram)",
+       "amount_tkr": 20290
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "10",
+     "name": "Riksantikvarieämbetet",
+     "text": "Anslagsposten får användas för utgifter för forsknings- och utvecklingsinsatser. Anslagsposten får även användas för utgifter för administration och genomförande av verksamheten.\nAv anslagsposten ska minst 3 500 000 kronor användas för bidragsgivning till de centrala museernas forsknings- och utvecklingsverksamhet."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "6:1",
+   "name": "Riksantikvarieämbetet",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 17,
+    "name": "Kultur, medier, trossamfund och fritid"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Riksantikvarieämbetet",
+     "amount_tkr": 342359,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Riksantikvarieämbetet (ram)",
+       "amount_tkr": 329729
+      },
+      {
+       "ap": "2",
+       "name": "Kulturarvs-it (ram)",
+       "amount_tkr": 12630
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Riksantikvarieämbetet",
+     "text": "Anslagsposten får användas för Riksantikvarieämbetets förvaltningsutgifter.\nAnslagsposten får användas för finansiering av anläggningstillgångar inom ramen för uppdraget Åtgärder för ett stärkt civilt försvar.\nAnslagsposten får också användas för att betala det svenska bidraget till Europeana.\nAv anslagsposten får högst 4 750 000 kronor användas enligt förordningen (2014:108) om statsbidrag till ideella organisationer inom kulturmiljöområdet.\nTillskottet avser uppdrag om en digital plattform för att förmedla kunskap om Sveriges kulturkanon."
+    },
+    {
+     "ap": "2",
+     "name": "Kulturarvs-it",
+     "text": "Medlen ska användas till löner för arbetsledare inom ramen för kulturarvs-it enligt förordningen (2003:248) om bidrag till lönekostnader inom verksamheten kulturarvs-it."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "1",
+     "max": 4750000,
+     "unit": "kronor"
+    }
+   ]
+  },
+  {
+   "code": "6:2",
+   "name": "Bidrag till kulturmiljövård",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 17,
+    "name": "Kultur, medier, trossamfund och fritid"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Riksantikvarieämbetet",
+     "amount_tkr": 299782,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Bidrag till kulturmiljövård (ram)",
+       "amount_tkr": 290782
+      },
+      {
+       "ap": "2",
+       "name": "Bidrag till kulturarvsarbete (ram)",
+       "amount_tkr": 9000
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Bidrag till kulturmiljövård",
+     "text": "Anslagsposten får användas enligt förordningen (2010:1121) om bidrag till förvaltning av värdefulla kulturmiljöer. Av medlen får dock högst 10 000 000 kronor användas enligt 10 §. Därtill får högst 2 000 000 kronor användas enligt 13 § andra stycket. Medel som inte används till bidrag enligt 13 § andra stycket får användas för att bekosta konservering av fynd från äldre arkeologiska undersökningar. För 2026 tillförs anslagsposten 5 000 000 kronor som ska användas för bidrag till kommuner enligt 9 §.\nAnslagsposten får även användas för kostnader, inlösen, ersättning och hittelön enligt 2 kap. 7, 8, 14–16 §§ och 3 kap. 10 § kulturmiljölagen (1988:950) samt 31 kap. 4 § 2 miljöbalken.\nAnslagsposten får också användas för bidrag till kostnader för visst arbete vid länsstyrelserna för\n- vård och tillgängliggörande av värdefulla kulturmiljöer,\n- framtagande av kunskapsunderlag, samt\n- arkeologiska utredningar som syftar till att ta reda på om en fornlämning berörs av ett planerat arbetsföretag och som inte ska bekostas av någon annan.\nAnslagsposten får därtill med högst 2 000 000 kronor användas för bidrag till föreningen Laponiatjuottjudus för förvaltningen av världsarvet Laponia enligt Laponiaförordningen (2011:840)."
+    },
+    {
+     "ap": "2",
+     "name": "Bidrag till kulturarvsarbete",
+     "text": "Anslagsposten får användas i enlighet med förordningen (2017:628) om statsbidrag till kulturarvsarbete.\nAv anslagsposten får högst 1 000 000 kronor användas till bidrag för återlämnande och återbegravning av mänskliga kvarlevor. Medel som inte används för återlämnande och återbegravning av mänskliga kvarlevor får användas för återlämnande av föremål."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "1",
+     "max": 10000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "1",
+     "max": 2000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "1",
+     "max": 2000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "2",
+     "max": 1000000,
+     "unit": "kronor"
+    }
+   ]
+  },
+  {
+   "code": "6:4",
+   "name": "Bidrag till arbetslivsmuseer",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 17,
+    "name": "Kultur, medier, trossamfund och fritid"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Riksantikvarieämbetet",
+     "amount_tkr": 8000,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Bidrag till arbetslivsmuseer (ram)",
+       "amount_tkr": 8000
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Bidrag till arbetslivsmuseer",
+     "text": "Anslagsposten får användas för bidrag till arbetslivsmuseer enligt förordningen (2017:628) om statsbidrag till kulturarvsarbete."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "7:5",
+   "name": "Statliga utställningsgarantier och inköp av vissa kulturföremål",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 17,
+    "name": "Kultur, medier, trossamfund och fritid"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Riksantikvarieämbetet",
+     "amount_tkr": 1,
+     "items": [
+      {
+       "ap": "3",
+       "name": "Utställningsgarantier (ram)",
+       "amount_tkr": 1
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "3",
+     "name": "Utställningsgarantier",
+     "text": "Anslagsposten får användas till statliga utställningsgarantier enligt förordningen (1998:200) om statliga utställningsgarantier."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "1:4 Forsknings- och utvecklingsinsatser inom kulturområdet",
+   "ap": "ap.10",
+   "Anslagskredit": 608,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "6:1 Riksantikvarieämbetet",
+   "ap": "ap.1",
+   "Anslagskredit": 10240,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "6:1 Riksantikvarieämbetet",
+   "ap": "ap.2",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "6:2 Bidrag till kulturmiljövård",
+   "ap": "ap.1",
+   "Anslagskredit": 8993,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "6:2 Bidrag till kulturmiljövård",
+   "ap": "ap.2",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "6:4 Bidrag till arbetslivsmuseer",
+   "ap": "ap.1",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "7:5 Statliga utställningsgarantier och inköp av vissa kulturföremål",
+   "ap": "ap.3",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 100000,
+  "Räntekontokredit": 30000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 30138
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 30138
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 30138
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 30138
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 30138
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 30281
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 30281
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 30281
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 30281
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 30281
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 30281
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 30273
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:4 Forsknings- och utvecklingsinsatser inom kulturområdet",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.10",
+     "608",
+     "Inget",
+     "0"
+    ],
+    [
+     "6:1 Riksantikvarieämbetet",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "10 240",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.2",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "6:2 Bidrag till kulturmiljövård",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "8 993",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.2",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "6:4 Bidrag till arbetslivsmuseer",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "7:5 Statliga utställningsgarantier och inköp av vissa kulturföremål",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.3",
+     "0",
+     "Inget",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Beställningsbemyndiganden",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Bemyndigande",
+     "Utgifter mot anslag till följd av ekonomiska åtaganden",
+     "",
+     "",
+     ""
+    ],
+    [
+     "2026",
+     "2027",
+     "2028",
+     "2029 -",
+     "Slutår"
+    ],
+    [
+     "6:2 Bidrag till kulturmiljövård",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "90 000",
+     "69 500",
+     "10 500",
+     "10 000",
+     "2029"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "100 000"
+    ],
+    [
+     "Räntekontokredit",
+     "30 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "30 138"
+    ],
+    [
+     "2026-02-25",
+     "30 138"
+    ],
+    [
+     "2026-03-25",
+     "30 138"
+    ],
+    [
+     "2026-04-25",
+     "30 138"
+    ],
+    [
+     "2026-05-25",
+     "30 138"
+    ],
+    [
+     "2026-06-25",
+     "30 281"
+    ],
+    [
+     "2026-07-25",
+     "30 281"
+    ],
+    [
+     "2026-08-25",
+     "30 281"
+    ],
+    [
+     "2026-09-25",
+     "30 281"
+    ],
+    [
+     "2026-10-25",
+     "30 281"
+    ],
+    [
+     "2026-11-25",
+     "30 281"
+    ],
+    [
+     "2026-12-25",
+     "30 273"
+    ],
+    [
+     "Summa",
+     "362 649"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "1:4 ap.10",
+     "Riksantikvarieämbetet"
+    ],
+    [
+     "6:1 ap.1",
+     "Riksantikvarieämbetet"
+    ],
+    [
+     "6:1 ap.2",
+     "Kulturarvs-it"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Verksamhet med full kostnadstäckning",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Museitjänster1",
+     "-10 120",
+     "-2 312",
+     "42 068",
+     "42 041",
+     "27",
+     "-12 405"
+    ],
+    [
+     "Butiksförsäljning besöksmål1",
+     "-4",
+     "-28",
+     "868",
+     "836",
+     "32",
+     "0"
+    ],
+    [
+     "Summa",
+     "-10 124",
+     "-2 340",
+     "42 936",
+     "42 877",
+     "59",
+     "-12 405"
+    ],
+    [
+     "Offentligrättslig verksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Statliga utställningsgarantier1",
+     "309",
+     "-122",
+     "800",
+     "987",
+     "-187",
+     "0"
+    ]
+   ]
+  }
+ ],
+ "has_fee_section": true,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 10,
+  "n_org": 2,
+  "n_assignments": 8,
+  "n_deadlines": 9,
+  "deadlines": [
+   "2026-01-20",
+   "2026-02-27",
+   "2026-03-31",
+   "2026-07-24",
+   "2026-12-01",
+   "2027-01-31",
+   "2027-02-22",
+   "2028-02-24",
+   "2030-12-31"
+  ],
+  "partners": [
+   "Försvarsmakten",
+   "Kungl. biblioteket",
+   "Myndigheten för civilt försvar",
+   "Myndigheten för delaktighet",
+   "Myndigheten för kulturanalys",
+   "Myndigheten för ungdoms- och civilsamhällesfrågor",
+   "Riksarkivet",
+   "Sametinget",
+   "Statens kulturråd",
+   "Statskontoret",
+   "Tillväxtverket"
+  ],
+  "n_appropriations": 5,
+  "appropriations_total_tkr": 670432,
+  "payment_plan_total_tkr": 362649,
+  "md_chars": 19250
+ },
+ "layout": "standard",
+ "warnings": []
+}

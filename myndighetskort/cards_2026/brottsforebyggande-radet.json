@@ -1,0 +1,1003 @@
+{
+ "schema_version": 1,
+ "id": 26392,
+ "original_rbid": 25714,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-06-18",
+ "year": "2026",
+ "name": "Brottsförebyggande rådet",
+ "slug": "brottsforebyggande-radet",
+ "department": "Justitiedepartementet",
+ "expenditure_areas": [
+  4
+ ],
+ "registry_numbers": [
+  "Ju2026/01446 (delvis)"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1",
+   "2025/26:99"
+  ],
+  "bet": [
+   "2025/26:FiU21",
+   "2025/26:JuU1"
+  ],
+  "rskr": [
+   "2025/26:101",
+   "2025/26:345"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "Brottsförebyggande rådets (Brå) huvudsakliga uppgifter framgår av förordningen (2016:1201) med instruktion för Brottsförebyggande rådet.",
+ "goals": [
+  {
+   "title": "Statistik enligt förverkandedirektivet",
+   "group": [],
+   "text": "Brå ska övergripande redogöra för hur myndigheten arbetar för att säkerställa att rätt förutsättningar finns på plats för att Brå ska kunna samla in och rapportera den statistik som följer av artikel 28 i Europaparlamentets och Rådets direktiv (EU) 2024/1260 om återvinning av tillgångar och förverkande. Det arbetet innefattar exempelvis kravställan på andra myndigheter inom Rättsväsendets digitalisering, i syfte att utveckla ett strukturerat informationsutbyte om beslagshantering med den information som är nödvändig enligt artikel 28.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla",
+    "statistik_data",
+    "digitalisering_ai",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26392:goals:0"
+  },
+  {
+   "title": "Förmågan att använda AI och ny teknik genom datadrivet arbete",
+   "group": [],
+   "text": "Brå ska redovisa i vilken utsträckning myndigheten arbetar datadrivet, vilka åtgärder myndigheten vidtagit för att förbättra sin förmåga att arbeta datadrivet samt en bedömning av åtgärdernas resultat. Brå ska även redovisa på vilket sätt arbetet med data och AI har bidragit till att utveckla verksamheten och höja kvaliteten i utförandet av myndighetens uppgifter. Av redovisningen ska framgå hur myndigheten beaktar risker och arbetar för att användning av data och AI sker på ett etiskt, säkert och icke-diskriminerande sätt. Eventuella hinder eller framgångsfaktorer för datadrivet arbete och användande av AI-teknik ska även redovisas.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla",
+    "statistik_data",
+    "digitalisering_ai"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26392:goals:1"
+  }
+ ],
+ "org": [],
+ "assignments": [
+  {
+   "title": "Avhopparverksamhet",
+   "group": [],
+   "text": "Brå ska göra en uppföljning av de avhopparärenden för vilka kommuner har beviljats statligt stöd åren 2020–2025. Brå ska också undersöka i vilken utsträckning det går att följa upp avhopparärenden som finansierats av kommuner och i den mån det är möjligt följa upp ett urval av dessa ärenden. Av uppföljningen ska framgå vad som kännetecknar avhopparna i de ärenden som beviljats medel, vilka insatser avhopparna har fått och i vilken utsträckning de har återfallit i brott efter insatserna. Utvecklingen över tid i dessa avseenden ska också framgå av uppföljningen. Brå ska vid behov lämna rekommendationer på hur avhopparverksamheten kan utvecklas. Brå ska inom ramen för uppdraget inhämta synpunkter från Polismyndigheten, Kriminalvården, Socialstyrelsen, Statens institutionsstyrelse och länsstyrelserna, som har i uppdrag att tillhandahålla stöd till arbetet med avhoppare från organiserad brottslighet (Ju2025/01696). Dessa myndigheter ska vid behov även bidra med de kunskaper och uppgifter som behövs för uppdragets genomförande. Uppdraget ska redovisas till Regeringskansliet (Justitiedepartementet) senast den 22 oktober 2027.",
+   "dates": [
+    "2027-10-22"
+   ],
+   "deadlines": [
+    "2027-10-22"
+   ],
+   "recipients": [
+    "Regeringskansliet (Justitiedepartementet)"
+   ],
+   "partners": [
+    "Kriminalvården",
+    "Polismyndigheten",
+    "Socialstyrelsen",
+    "Statens institutionsstyrelse",
+    "länsstyrelserna"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26392:assignments:0"
+  },
+  {
+   "title": "Förverkande av egendom",
+   "group": [],
+   "text": "Den nya förverkandelagstiftningen trädde i kraft den 8 november 2024 (prop. 2023/24:144). Brå ska studera förekomsten och tillämpningen av förverkanden som aktualiseras inom ramen för arbetet med den tillgångsinriktade brottsbekämpningen, det vill säga med syfte att komma åt brottsvinster. Brå ska belysa framgångsfaktorer och utmaningar kopplat till arbetet med förverkanden samt om det förverkas egendom i den utsträckning som är möjlig. Brå ska vid genomförandet av uppdraget inhämta kunskaper och uppgifter från Domstolsverket, Ekobrottsmyndigheten, Polismyndigheten, Skatteverket, Tullverket och Åklagarmyndigheten. Uppdraget ska redovisas till Regeringskansliet (Justitiedepartementet) senast den 30 juni 2027.",
+   "dates": [
+    "2024-11-08",
+    "2027-06-30"
+   ],
+   "deadlines": [
+    "2027-06-30"
+   ],
+   "recipients": [
+    "Regeringskansliet (Justitiedepartementet)"
+   ],
+   "partners": [
+    "Domstolsverket",
+    "Ekobrottsmyndigheten",
+    "Polismyndigheten",
+    "Skatteverket",
+    "Tullverket",
+    "Åklagarmyndigheten"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26392:assignments:1"
+  },
+  {
+   "title": "Uppföljning av rättsväsendets hantering av barnfridsbrottet",
+   "group": [],
+   "text": "Barnfridsbrottet infördes den 1 juli 2021 för att stärka det straffrättsliga skyddet för barn som lever i hem där det förekommer olika former av våld, t.ex. våld i nära relationer eller hedersrelaterat våld och förtryck (prop. 2020/21:170). Brå ska kartlägga rättsväsendets hantering av barnfridsbrottet från anmälan till dom. Brå ska identifiera svårigheter och framgångsfaktorer i utrednings- och lagföringsarbetet, samt ge förslag på hur rättsväsendets hantering av barnfridsbrott skulle kunna förbättras. Brå ska inhämta kunskap och erfarenheter från Socialstyrelsen, som i regleringsbrevet för 2026 getts i uppdrag att kartlägga socialtjänstens hantering av barnfridsbrottet, och Linköpings universitet (Barnafrid – Nationellt centrum för kunskap om våld mot barn). För uppdraget får Brå under 2026 använda 1 000 000 kronor som ska belasta det under utgiftsområde 9 Hälsovård, sjukvård och social omsorg för budgetåret 2026 uppförda anslaget 4:7 Bidrag till utveckling av socialt arbete m.m., anslagsposten 5 Övriga utvecklingsmedel. Brå får vidare använda 1 000 000 kronor som ska belasta det under utgiftsområde 13 Integration och jämställdhet uppförda anslaget 3:1 Särskilda jämställdhetsåtgärder, anslagsposten 12 – Särskilda jämställdhetsåtgärder efter regeringsbeslut. För 2027 beräknas 2 000 000 kronor tilldelas Brå, under förutsättning att riksdagen anvisar medel för de aktuella anslagen. Uppdraget ska redovisas till Regeringskansliet (Justitiedepartementet med kopia till Socialdepartementet och Arbetsmarknadsdepartementet) senast den 25 november 2027.",
+   "dates": [
+    "2021-07-01",
+    "2027-11-25"
+   ],
+   "deadlines": [
+    "2027-11-25"
+   ],
+   "recipients": [
+    "Regeringskansliet (Justitiedepartementet med kopia till Socialdepartementet och Arbetsmarknadsdepartementet)"
+   ],
+   "partners": [
+    "Linköpings universitet",
+    "Socialstyrelsen"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "fördela_medel"
+   ],
+   "anslag_refs": [
+    "3:1",
+    "4:7"
+   ],
+   "expenditure_area_refs": [
+    9,
+    13
+   ],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26392:assignments:2"
+  },
+  {
+   "title": "Hatbrott",
+   "group": [],
+   "text": "Brå ska ta fram ett fördjupat kunskapsunderlag om hatbrott. Utifrån polisanmälningar med ett identifierat hatbrottsmotiv ska Brå beskriva de hatbrott som drabbar offer från olika grupper, inklusive den svenska majoritetsbefolkningen, samt eventuella likheter och skillnader mellan de hatbrott som drabbar olika grupper i befolkningen. Brå ska också analysera hur några andra länders lagstiftning används för att motverka hatbrott mot olika grupper, inklusive majoritetsbefolkningen. I uppdraget ingår även att, utifrån forskning och andra kunskapsunderlag, analysera skäl till att hatbrott inte anmäls, samt erfarenheter och konsekvenser av att utsättas för hatbrott. Brå ska också lämna rekommendationer för hur arbetet att minska mörkertalet när det gäller hatbrott skulle kunna utvecklas. Uppdraget ska redovisas till Regeringskansliet (Justitiedepartementet) senast den 14 oktober 2027.",
+   "dates": [
+    "2027-10-14"
+   ],
+   "deadlines": [
+    "2027-10-14"
+   ],
+   "recipients": [
+    "Regeringskansliet (Justitiedepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26392:assignments:3"
+  },
+  {
+   "title": "Studie om brottslighet i anpassad skola",
+   "group": [],
+   "text": "Brå ska undersöka förutsättningarna att genomföra en studie som undersöker utsatthet för brott samt delaktighet i brott bland elever i anpassad skola. Brå ska lämna förslag på hur en sådan studie skulle kunna genomföras samt redovisa kostnadsberäkningar. I genomförandet av uppdraget ska myndigheten inhämta kunskap och erfarenheter från relevanta myndigheter samt organisationer inom det civila samhället. Uppdraget ska redovisas till Regeringskansliet (Justitiedepartementet med kopia till Utbildningsdepartementet och Socialdepartementet) senast den 25 november 2026.",
+   "dates": [
+    "2026-11-25"
+   ],
+   "deadlines": [
+    "2026-11-25"
+   ],
+   "recipients": [
+    "Regeringskansliet (Justitiedepartementet med kopia till Utbildningsdepartementet och Socialdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "föreslå",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26392:assignments:4"
+  },
+  {
+   "title": "Polisanmälningar i skolväsendet",
+   "group": [],
+   "text": "Brå ska undersöka vilka olika alternativ som finns för myndigheten att följa upp de polisanmälningar som rektorer i skolväsendet gör med anledning av den nya bestämmelsen i skollagen om att misstänkta brott som huvudregel ska anmälas till Polismyndigheten (6 a kap. 10 och 11 §§ skollagen) som trädde i kraft den 1 juli 2025. En redovisning av de olika alternativen ska lämnas. Brå ska vidare, utifrån en bedömning av det mest lämpliga alternativet, lämna förslag på hur en sådan uppföljning skulle kunna genomföras. Brå ska vid genomförande av uppdraget inhämta kunskaper och erfarenhet från Polismyndigheten och Statens skolverk. Uppdraget ska redovisas till Regeringskansliet (Justitiedepartementet) senast den 18 december 2026.",
+   "dates": [
+    "2025-07-01",
+    "2026-12-18"
+   ],
+   "deadlines": [
+    "2026-12-18"
+   ],
+   "recipients": [
+    "Polismyndigheten",
+    "Regeringskansliet (Justitiedepartementet)"
+   ],
+   "partners": [
+    "Polismyndigheten",
+    "Statens skolverk"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "föreslå",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26392:assignments:5"
+  },
+  {
+   "title": "Fördjupat stöd för ett systematiskt nationellt brottsförebyggande arbete",
+   "group": [],
+   "text": "Brå ska fortsätta att erbjuda rådgivning och ett fördjupat stöd till myndigheter för att utveckla sitt systematiska brottsförebyggande arbete. Stödet ska prioriteras till de myndigheter som har behov av stöd och som omfattades av uppdraget att utveckla det brottsförebyggande arbetet som redovisades den 31 augusti 2025 (Ju2024/02612). För uppdraget får Brå använda 3 000 000 kronor som ska redovisas mot det under utgiftsområde 4 för budgetåret 2026 uppförda anslaget 1:14 Bidrag till brottsförebyggande arbete, anslagsposten 3 Bidrag till brottsförebyggande arbete - del till Kammarkollegiet. Medlen betalas ut engångsvis efter rekvisition till Kammarkollegiet senast den 1 december 2026. Medel som inte har använts ska återbetalas senast den 31 mars 2027 till Kammarkollegiet. Vid samma tidpunkt ska en ekonomisk redovisning av använda medel lämnas till Kammarkollegiet. Redovisning, rekvisition och återbetalning ska hänvisa till regleringsbrevet för Brå för 2026. För 2027 och 2028 beräknas 3 000 000 kronor per år tilldelas Brå, under förutsättning att riksdagen anvisar medel för det aktuella anslaget. Uppdraget ska redovisas till Regeringskansliet (Justitiedepartementet) senast den 15 december 2028.",
+   "dates": [
+    "2025-08-31",
+    "2026-12-01",
+    "2027-03-31",
+    "2028-12-15"
+   ],
+   "deadlines": [
+    "2026-12-01",
+    "2027-03-31",
+    "2028-12-15"
+   ],
+   "recipients": [
+    "Kammarkollegiet",
+    "Regeringskansliet (Justitiedepartementet)"
+   ],
+   "partners": [
+    "Kammarkollegiet"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "fördela_medel",
+    "utveckla"
+   ],
+   "anslag_refs": [
+    "1:14"
+   ],
+   "expenditure_area_refs": [
+    4
+   ],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26392:assignments:6"
+  },
+  {
+   "title": "Administrativa åtgärder för att förebygga brottslighet",
+   "group": [],
+   "text": "Brå ska ta fram en webbaserad utbildning om administrativa åtgärder mot brott, det vill säga användningen av administrativa regler för att minska risken att viktiga verksamheter missbrukas och för att störa och försvåra för kriminella att bedriva brottslig verksamhet. Utbildningen ska i första hand riktas till statliga myndigheter men kan även göras tillgänglig för andra relevanta aktörer. Uppdraget ska redovisas till Regeringskansliet (Justitiedepartementet) senast den 1 juli 2026.",
+   "dates": [
+    "2026-07-01"
+   ],
+   "deadlines": [
+    "2026-07-01"
+   ],
+   "recipients": [
+    "Regeringskansliet (Justitiedepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26392:assignments:7"
+  },
+  {
+   "title": "Ökad kunskap i det brottsförebyggande och våldsförebyggande arbetet",
+   "group": [],
+   "text": "Brå och Jämställdhetsmyndigheten ska sammanställa och beskriva kunskapsläget i Sverige gällande kopplingar mellan erfarenheter av våldsutsatthet i barndomen och att senare involveras och utnyttjas i kriminalitet. Uppdraget omfattar alla former av våld mot barn, inklusive sexuell exploatering, våld i nära relationer och hedersrelaterat våld och förtryck. Särskilt fokus ska läggas på gängrelaterade miljöer. Myndigheterna ska också kartlägga vilka insatser, metoder och arbetssätt som i dag används i Sverige, på universell, selekterad och indikerad preventionsnivå, som syftar till att motverka att barn som har utsatts för våld senare involveras och utnyttjas i kriminalitet. Myndigheterna ska, genom att kartlägga vilka kunskaps-, verksamhets- och samverkansluckor som finns, identifiera hur ansvar och roller mellan olika aktörer kan utvecklas eller förtydligas på nationell, regional och lokal nivå för att bättre förebygga gängkriminalitet på alla preventionsnivåer. Myndigheterna ska även lämna förslag på hur stöd till olika aktörer kan förbättras samt följa upp användningen av och vid behov revidera Metodstöd för kartläggning av tre våldstyper (Brå & Jämställdhetsmyndigheten 2022). Brå ska samordna uppdragets genomförande. För uppdraget får Brå använda 1 000 000 kronor 2026 som ska redovisas mot det under utgiftsområde 13 Integration och jämställdhet för budgetåret 2026 uppförda anslaget 3:1 Särskilda jämställdhetsåtgärder, anslagsposten 12 Jämställdhetsinsatser efter regeringsbeslut. Brå får vidare använda 1 000 000 kronor 2026 som ska redovisas mot det under utgiftsområde 9 Hälsovård, sjukvård och social omsorg uppförda anslaget 4:7 Bidrag till utveckling av socialt arbete m.m., anslagsposten 5 Övriga utvecklingsmedel. Medlen utbetalas engångsvis efter rekvisition till Kammarkollegiet. Rekvisition ska lämnas senast den 1 december 2026. Medel som inte har förbrukats ska återbetalas till Kammarkollegiet senast den 31 mars 2027. En ekonomisk redovisning ska lämnas till Kammarkollegiet senast den 31 mars 2027. Rekvisition, återbetalning och redovisning ska hänvisa till regleringsbrevet för Brå för 2026. För 2027 beräknas 2 000 000 kronor och för 2028 beräknas 1 000 000 kronor tilldelas under förutsättning att riksdagen anvisar medel för de aktuella anslagen. Brå ska, med stöd av Jämställdhetsmyndigheten, redovisa uppdraget till Regeringskansliet (Justitiedepartementet med kopia till Arbetsmarknadsdepartementet och Socialdepartementet) senast den 1 juli 2028.",
+   "dates": [
+    "2026-12-01",
+    "2027-03-31",
+    "2028-07-01"
+   ],
+   "deadlines": [
+    "2026-12-01",
+    "2027-03-31",
+    "2028-07-01"
+   ],
+   "recipients": [
+    "Kammarkollegiet",
+    "Regeringskansliet (Justitiedepartementet med kopia till Arbetsmarknadsdepartementet och Socialdepartementet)"
+   ],
+   "partners": [
+    "Jämställdhetsmyndigheten",
+    "Kammarkollegiet"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "föreslå",
+    "samordna",
+    "fördela_medel",
+    "utveckla"
+   ],
+   "anslag_refs": [
+    "3:1",
+    "4:7"
+   ],
+   "expenditure_area_refs": [
+    9,
+    13
+   ],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26392:assignments:8"
+  },
+  {
+   "title": "Utvärdering",
+   "group": [],
+   "text": "Brå ska analysera förutsättningarna att utveckla förmågan att genomföra utvärderingar på det kriminalpolitiska området, t.ex. vad gäller effektutvärderingar, utvärderingar avseende samhällsekonomiska aspekter och utvärderingar av reformer. Brå ska redovisa både vilka åtgärder myndigheten kan vidta och vilka andra åtgärder som kan vidtas för att stärka utvärderingsförmågan inom det kriminalpolitiska området. Brå ska beakta de bedömningar relaterat till detta som görs i SOU 2025:13, SOU 2025:25, SOU 2025:96 samt Vetenskapsrådets rapport Insatser, åtgärder och metoder för att förebygga brottslighet kopplad till kriminella nätverk (2025). Brå ska vid behov samråda med berörda myndigheter inom rättsväsendet, myndigheter som genomför utvärderingar inom andra politikområden samt andra berörda aktörer. Brå ska vid behov även inhämta internationella erfarenheter. Uppdraget ska redovisas till Regeringskansliet (Justitiedepartementet) senast den 18 november 2026.",
+   "dates": [
+    "2026-11-18"
+   ],
+   "deadlines": [
+    "2026-11-18"
+   ],
+   "recipients": [
+    "Regeringskansliet (Justitiedepartementet)"
+   ],
+   "partners": [
+    "Vetenskapsrådet"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26392:assignments:9"
+  },
+  {
+   "title": "Sammanhållet kunskaps- och metodstöd för brottsförebyggande arbete",
+   "group": [],
+   "text": "Statens skolverk, Brottsförebyggande rådet och Socialstyrelsen ska gemensamt ta fram ett sammanhållet, behovsanpassat och praktiknära kunskaps- och metodstöd för brottsförebyggande arbete i skolväsendet. Stödet ska omfatta såväl social som situationell brottsprevention. Med social brottsprevention avses i detta uppdrag åtgärder för att minska individers benägenhet att begå brott samt att minska risken för individer att utsättas för brott. Med situationell brottsprevention avses i detta uppdrag att förhindra eller försvåra att brott begås genom att förändra den aktuella platsen eller situationen där brott kan begås. Stödmaterialet ska knyta väl an till skolväsendets uppdrag. Uppdraget ska samordnas med uppdraget om situationell brottsprevention i skolväsendet (U2025/01545, Ju2025/01479). Även andra relevanta uppdrag på området ska beaktas. Vid genomförande av uppdraget ska myndigheterna inhämta kunskaper och erfarenheter från Polismyndigheten och Statens institutionsstyrelse. Skolverket ska vara samordnande myndighet. Myndigheterna ska gemensamt redovisa uppdraget till Regeringskansliet (Utbildningsdepartementet, Justitiedepartementet och Socialdepartementet) senast den 30 juni 2027.\n\nFör uppdraget får Brå och Socialstyrelsen använda 500 000 kronor vardera under 2026 som ska redovisas mot det under utgiftsområde 4 för budgetåret 2026 uppförda anslaget 1:14 Bidrag till brottsförebyggande arbete – del till Kammarkollegiet. Medlen betalas ut engångsvis efter rekvisition till Kammarkollegiet senast den 1 december 2026. Medel som inte har använts ska återbetalas senast den 31 mars 2027 till Kammarkollegiet. Vid samma tidpunkt ska en ekonomisk redovisning av använda medel lämnas till Kammarkollegiet. Redovisning, rekvisition och återbetalning ska hänvisa till regleringsbrevet för Brå för 2026. För 2027 beräknas 500 000 kronor vardera tilldelas Brå och Socialstyrelsen, under förutsättning att riksdagen anvisar medel för det aktuella anslaget.",
+   "dates": [
+    "2026-12-01",
+    "2027-03-31",
+    "2027-06-30"
+   ],
+   "deadlines": [
+    "2026-12-01",
+    "2027-03-31",
+    "2027-06-30"
+   ],
+   "recipients": [
+    "Kammarkollegiet",
+    "Regeringskansliet (Utbildningsdepartementet, Justitiedepartementet och Socialdepartementet)"
+   ],
+   "partners": [
+    "Kammarkollegiet",
+    "Polismyndigheten",
+    "Socialstyrelsen",
+    "Statens institutionsstyrelse",
+    "Statens skolverk"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "fördela_medel",
+    "utveckla"
+   ],
+   "anslag_refs": [
+    "1:14"
+   ],
+   "expenditure_area_refs": [
+    4
+   ],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26392:assignments:10"
+  },
+  {
+   "title": "Bedömningar av verksamhetsvolymer i brottmålsprocessen",
+   "group": [],
+   "text": "Brå ska tillsammans med Polismyndigheten, Åklagarmyndigheten, Ekobrottsmyndigheten, Domstolsverket och Kriminalvården fortsätta arbetet med att bedöma framtida verksamhetsvolymer i brottmålsprocessen. Arbetet ska bedrivas med utgångspunkt i det uppdrag som gavs till myndigheterna i oktober 2019 (Ju2019/01057). Uppdraget innefattar att fortsätta utveckla arbetet för att bedömningarna ska öka förståelsen för resursbehov och brottmålsprocessen som en helhet. Myndigheterna ska gemensamt redovisa sina resultat till Regeringskansliet (Justitiedepartementet) senast den 1 mars 2027.",
+   "dates": [
+    "2027-03-01"
+   ],
+   "deadlines": [
+    "2027-03-01"
+   ],
+   "recipients": [
+    "Regeringskansliet (Justitiedepartementet)"
+   ],
+   "partners": [
+    "Domstolsverket",
+    "Ekobrottsmyndigheten",
+    "Kriminalvården",
+    "Polismyndigheten",
+    "Åklagarmyndigheten"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26392:assignments:11"
+  },
+  {
+   "title": "Prognoser",
+   "group": [],
+   "text": "Brå ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Prognoserna lämnas i informationssystemet Hermes senast den\n\n2 februari\n\n22 april\n\n24 juli\n\n9 november.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26392:assignments:12"
+  },
+  {
+   "title": "Pågående uppdrag",
+   "group": [],
+   "text": "*För regeringsuppdrag som lämnats i ett särskilt regeringsbeslut utgör tabellen endast en upplysning om vilka uppdrag som vid årets början var riktade till myndigheten och vilka tider som då gällde för återrapportering eller liknande.*\n\n| | | |\n| --- | --- | --- |\n| **Uppdrag** | **Beslut om uppdraget** | **Redovisning ska lämnas** |\n| Redovisa resultat inom ramen för regeringens utvecklingsprogram för jämställdhetsintegrering i statliga myndigheter | A2024/01457 | 20 januari 2026 |\n| Fortsatt stöd till befintliga etableringar av GVI | Ju2024/00221 | 1 mars 2026 |\n| Bedömningar av verksamhetsvolymer i brottmålsprocessen | Regleringsbrev 2025 | 2 mars 2026 |\n| Utveckla samverkan med civilsamhället i det brottsförebyggande arbetet | Ju2024/01492 | 2 mars 2026 |\n| Utveckla samverkan med näringslivet i det brottsförebyggande arbetet | Ju2025/00227 | 2 mars 2026 |\n| Utvärdering av straffet för mord | Regleringsbrev 2024 | 14 mars 2026 |\n| Utvärdering av satsningen på 10 000 fler polisanställda | Ju2021/02238 | 27 mars 2026 |\n| Fortsätta utveckla det nationella och regionala stödet i det brottsförebyggande arbetet | Ju2025/01724 | 31 mars 2026, 31 mars 2027 och 31 mars 2028 |\n| Fortsätta utveckla stödet till arbetet med barn och unga som riskerar att begå eller begår grova brott med koppling till organiserad brottslighet | Ju2025/00846 | 29 april 2026 |\n| Fördjupad studie av antiziganistiska hatbrott | Regleringsbrev 2024 | 13 maj 2026 |\n| Uppföljning av brottet hedersförtryck | Regleringsbrev 2025 | 28 maj 2026 |\n| Situationell brottsprevention i skolväsendet | Regleringsbrev 2025 | 29 maj 2026, 30 december 2026 och 30 juni 2027 |\n| Stödja arbetet mot otillåten påverkan | Fi2024/01456 | 31 maj 2026 |\n| Införliva strategin mot våldsbejakande extremism och terrorism i myndigheternas verksamheter | Ju2024/00024 | 1 september 2026 |\n| Öka kunskapen om hur kriminella nätverk rekryterar barn och unga i digitala miljöer | Ju2025/00155 | 15 oktober 2026 |\n| Underlag om ungas levnadsvillkor | S2023/03148 | 31 december 2026 |\n| Rättsväsendets hantering av antisemitiska hatbrott | Ju2025/02074 | 8 april 2027 |\n| Stöd för socialtjänstens omställning | S2024/00196 (delvis) S2025/00116 (delvis) | 1 mars 2029 |",
+   "dates": [
+    "2026-01-20",
+    "2026-03-01",
+    "2026-03-02",
+    "2026-03-14",
+    "2026-03-27",
+    "2026-03-31",
+    "2026-04-29",
+    "2026-05-13",
+    "2026-05-28",
+    "2026-05-29",
+    "2026-05-31",
+    "2026-09-01",
+    "2026-10-15",
+    "2026-12-30",
+    "2026-12-31",
+    "2027-03-31",
+    "2027-04-08",
+    "2027-06-30",
+    "2028-03-31",
+    "2029-03-01"
+   ],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "26392:assignments:13"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "1:7",
+   "name": "Brottsförebyggande rådet",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 4,
+    "name": "Rättsväsendet"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Brottsförebyggande rådet",
+     "amount_tkr": 316670,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Brottsförebyggande rådet (ram)",
+       "amount_tkr": 276670
+      },
+      {
+       "ap": "2",
+       "name": "Nationellt centrum mot våldsbejakande extremism (ram)",
+       "amount_tkr": 40000
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Brottsförebyggande rådet",
+     "text": "Anslagsposten får användas för Brottsförebyggande rådets förvaltningsutgifter."
+    },
+    {
+     "ap": "2",
+     "name": "Nationellt centrum mot våldsbejakande extremism",
+     "text": "Anslagsposten får användas för utgifter för verksamheten vid ett nationellt centrum mot våldsbejakande extremism och för bidrag till projekt eller verksamhet som bedrivs utanför myndigheten som syftar till att stärka och utveckla det förebyggande arbetet mot våldsbejakande extremism."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "1:14",
+   "name": "Bidrag till brottsförebyggande arbete",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 4,
+    "name": "Rättsväsendet"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Brottsförebyggande rådet",
+     "amount_tkr": 75157,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Bidrag till lokalt brottsförebyggande arbete (ram)",
+       "amount_tkr": 75157
+      }
+     ],
+     "sum_ok": true
+    },
+    {
+     "by": "Länsstyrelsen i Örebro län",
+     "amount_tkr": 68000,
+     "items": [
+      {
+       "ap": "2",
+       "name": "Regional samordning av brottsförebyggande arbete (ram)",
+       "amount_tkr": 68000
+      }
+     ],
+     "sum_ok": true
+    },
+    {
+     "by": "Kammarkollegiet",
+     "amount_tkr": 14000,
+     "items": [
+      {
+       "ap": "3",
+       "name": "Bidrag till brottsförebyggande arbete - del till Kammarkollegiet (ram)",
+       "amount_tkr": 14000
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Bidrag till lokalt brottsförebyggande arbete",
+     "text": "**1. Anslagsposten får användas för att stärka och utveckla det lokala brottsförebyggande arbetet.**\n**2. Högst 10 000 000 kronor får användas i enlighet med förordningen (2019:1282) om statsbidrag för förebyggande arbete mot våldsbejakande extremism.**\n**3. Högst 52 000 000 kronor får användas i enlighet med förordningen (2023:442) om statsbidrag till kommuner för brottsförebyggande åtgärder. Av dessa får högst 2 000 000 kronor användas för kostnader för Brås administration av bidraget.**"
+    },
+    {
+     "ap": "2",
+     "name": "Regional samordning av brottsförebyggande arbete",
+     "text": "**1. Anslagsposten får användas av Länsstyrelsen i Örebro län för vidare fördelning till länsstyrelserna för finansiering av brottsförebyggande arbete i enlighet med förordningen (2016:1258) om regional samordning av brottsförebyggande arbete. Av tilldelade medel får högst 10 000 000 kronor användas för att stödja det lokala arbetet i den s.k. bob-strukturen, med barn och unga som riskerar att begå eller begår grova brott med koppling till organiserad brottslighet.**\n**2. Högst 12 000 000 kronor får användas för regional samordning av arbetet med stöd till avhoppare.**"
+    },
+    {
+     "ap": "3",
+     "name": "Bidrag till brottsförebyggande arbete - del till Kammarkollegiet",
+     "text": "Anslagsposten får, efter beslut av regeringen, användas för att stärka det brottsförebyggande och brottsofferstödjande arbetet.\nKammarkollegiet ska betala ut 700 000 kronor till Totalförsvarets forskningsinstitut (FOI) för en förstärkning av arbetet med uppdraget om hur kriminella nätverk påverkar barn och unga i digitala miljöer (Ju2025/00157). Medlen ska utbetalas till FOI utan rekvisition senast den 27 februari 2026. Medel som inte har använts för avsett ändamål ska återbetalas av FOI senast den 31 mars 2027 till Kammarkollegiet. Vid samma tidpunkt ska FOI lämna en ekonomisk redovisning av använda medel till Kammarkollegiet."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "1",
+     "max": 10000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "1",
+     "max": 52000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "1",
+     "max": 2000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "2",
+     "max": 10000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "2",
+     "max": 12000000,
+     "unit": "kronor"
+    }
+   ]
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "1:7 Brottsförebyggande rådet",
+   "ap": "ap.1",
+   "Anslagskredit": 8300,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 2000
+  },
+  {
+   "anslag": "1:7 Brottsförebyggande rådet",
+   "ap": "ap.2",
+   "Anslagskredit": 1200,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:14 Bidrag till brottsförebyggande arbete",
+   "ap": "ap.1",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:14 Bidrag till brottsförebyggande arbete",
+   "ap": "ap.2",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:14 Bidrag till brottsförebyggande arbete",
+   "ap": "ap.3",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 2000
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 35000,
+  "Räntekontokredit": 8500
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 26389
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 26389
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 26389
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 26389
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 26389
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 26389
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 26056
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 26056
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 26056
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 26056
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 26056
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 26056
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:7 Brottsförebyggande rådet",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "8 300",
+     "3 %",
+     "2 000"
+    ],
+    [
+     "ap.2",
+     "1 200",
+     "3 %",
+     "0"
+    ],
+    [
+     "1:14 Bidrag till brottsförebyggande arbete",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.2",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.3",
+     "0",
+     "Inget",
+     "2 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "35 000"
+    ],
+    [
+     "Räntekontokredit",
+     "8 500"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "26 389"
+    ],
+    [
+     "2026-02-25",
+     "26 389"
+    ],
+    [
+     "2026-03-25",
+     "26 389"
+    ],
+    [
+     "2026-04-25",
+     "26 389"
+    ],
+    [
+     "2026-05-25",
+     "26 389"
+    ],
+    [
+     "2026-06-25",
+     "26 389"
+    ],
+    [
+     "2026-07-25",
+     "26 056"
+    ],
+    [
+     "2026-08-25",
+     "26 056"
+    ],
+    [
+     "2026-09-25",
+     "26 056"
+    ],
+    [
+     "2026-10-25",
+     "26 056"
+    ],
+    [
+     "2026-11-25",
+     "26 056"
+    ],
+    [
+     "2026-12-25",
+     "26 056"
+    ],
+    [
+     "Summa",
+     "314 670"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "1:7 ap.1",
+     "Brottsförebyggande rådet"
+    ],
+    [
+     "1:7 ap.2",
+     "Nationellt centrum mot våldsbejakande extremism"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [],
+ "has_fee_section": true,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 2,
+  "n_org": 0,
+  "n_assignments": 14,
+  "n_deadlines": 13,
+  "deadlines": [
+   "2026-07-01",
+   "2026-11-18",
+   "2026-11-25",
+   "2026-12-01",
+   "2026-12-18",
+   "2027-03-01",
+   "2027-03-31",
+   "2027-06-30",
+   "2027-10-14",
+   "2027-10-22",
+   "2027-11-25",
+   "2028-07-01",
+   "2028-12-15"
+  ],
+  "partners": [
+   "Domstolsverket",
+   "Ekobrottsmyndigheten",
+   "Jämställdhetsmyndigheten",
+   "Kammarkollegiet",
+   "Kriminalvården",
+   "Linköpings universitet",
+   "Polismyndigheten",
+   "Skatteverket",
+   "Socialstyrelsen",
+   "Statens institutionsstyrelse",
+   "Statens skolverk",
+   "Tullverket",
+   "Vetenskapsrådet",
+   "länsstyrelserna",
+   "Åklagarmyndigheten"
+  ],
+  "n_appropriations": 2,
+  "appropriations_total_tkr": 473827,
+  "payment_plan_total_tkr": 314670,
+  "md_chars": 24849
+ },
+ "layout": "standard",
+ "warnings": []
+}

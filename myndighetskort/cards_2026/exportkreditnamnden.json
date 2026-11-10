@@ -1,0 +1,457 @@
+{
+ "schema_version": 1,
+ "id": 27545,
+ "original_rbid": 25767,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-09-03",
+ "year": "2026",
+ "name": "Exportkreditnämnden",
+ "slug": "exportkreditnamnden",
+ "department": "Utrikesdepartementet",
+ "expenditure_areas": [
+  7,
+  24
+ ],
+ "registry_numbers": [
+  "UD2026/13238"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1"
+  ],
+  "bet": [
+   "2025/26:NU1"
+  ],
+  "rskr": [
+   "2025/26:129"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "",
+ "goals": [
+  {
+   "title": "Mål",
+   "group": [],
+   "text": "Verksamheten ska bidra till att främja svenskt näringslivs konkurrenskraft internationellt, med fokus på såväl etablerade som på nya branscher och företag. Svenska företags export till komplexa marknader ska särskilt främjas.\n\nVerksamheten ska bedrivas så att samarbetsmöjligheter med relevanta myndigheter och organisationer med uppgift att stödja företagsutveckling och internationalisering tas tillvara, särskilt inom ramen för Team Sweden-samarbetet och i syfte att genomföra Sveriges strategi för utrikeshandel, investeringar och globala konkurrenskraft.\n\nVerksamheten ska anpassas för att vara i linje med Parisavtalets 1,5-gradersmål. För garantier till projekt med höga växthusgasutsläpp ska investeringen i mottagarlandet vara i förenlighet med landets redovisade väg för klimatomställning (t.ex.*National Determined Contribution*, NDC) som är i linje med Parisavtalets 1,5-gradersmål med nettonollutsläpp 2050.\n\n- Avseende gaskraftverk kan projekt undantas från kravet på omställning i låg- och medelinkomstländer där det råder stor energibrist om investeringen kan påvisas vara bättre ur miljö- eller klimathänsyn än andra planerbara alternativ.\n- Säkerhets- och klimatförbättrande åtgärder i existerande gaskraftverk ska kunna genomföras i låg- och medelinkomstländer. Existerande gaskraftverk ska i nämnda länder kunna ersättas förutsatt att det leder till minskade utsläpp av Co2 per kwh.\n\nI ovan nämnda undantagsfall ska det aktuella gaskraftverket vara omställningsbart och kunna drivas på fossilfritt bränsle.\n\nFör investeringar i gaskraftverk i högre medelinkomstländer ska det specifika projektet eller verksamheten ha en dokumenterad och vetenskapligt underbyggd omställningsplan i linje med Parisavtalets 1,5-gradersmål.\n\nÅterrapportering:\nEKN ska redovisa följande:\n\n- totalt antal av garanterade affärer och garantivolym som ingås under 2026, fördelat efter region och bransch samt separat rapportering för de särskilda exportkreditgarantierna för Ukraina; de särskilda exportkreditgarantierna för försvarsexport till den ukrainska staten; och finansieringsinstrumentet för beviljande av bistånd i samband med en exportkredit,\n- antalet nya kunder bland små och medelstora företag vid utgången av 2026, samt vilka insatser som har genomförts för att nå ut till fler små och medelstora företag och hur EKN samverkat med andra aktörer i detta syfte,\n- myndighetens återförsäkringar påden privata marknaden. Av redovisningen ska framgå omfattning, motiv, typ av garantiåtaganden, samt hur detta bedöms ha påverkat den samlade risken i EKN:s garantiverksamhet,\n- den verksamhet som myndigheten har bedrivit för att säkerställa förenlighet med målen i Parisavtalet,\n- transparensen i fordringar på andra stater i linje med G20s riktlinjer för hållbar finansiering,\n- åtgärder vidtagna för att säkerställa transparensen i verksamheten, inklusive informationstillgängligheten för allmänheten,\n- åtgärder vidtagna för att kontinuerligt utveckla produktutbudet för att möta framväxande behov i nya och etablerade branscher,\n- EKN:s bidrag till att lansera konceptet Made with Sweden,\n- EKN:s bidrag till Statskontorets utvärdering av utrikeshandelsstrategin,\n- hur EKN använt AI för att utveckla verksamheten och öka organisationens effektivitet,\n- den verksamhet som myndigheten bedrivit inom CSR-frågor.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [
+    "Statskontoret"
+   ],
+   "partners": [
+    "Statskontoret"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna",
+    "fördela_medel",
+    "utveckla",
+    "digitalisering_ai",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "Avseende gaskraftverk kan projekt undantas från kravet på omställning i låg- och medelinkomstländer där det råder stor energibrist om investeringen kan påvisas vara bättre ur miljö- eller klimathänsyn än andra planerbara alternativ.",
+    "Säkerhets- och klimatförbättrande åtgärder i existerande gaskraftverk ska kunna genomföras i låg- och medelinkomstländer. Existerande gaskraftverk ska i nämnda länder kunna ersättas förutsatt att det leder till minskade utsläpp av Co2 per kwh.",
+    "totalt antal av garanterade affärer och garantivolym som ingås under 2026, fördelat efter region och bransch samt separat rapportering för de särskilda exportkreditgarantierna för Ukraina; de särskilda exportkreditgarantierna för försvarsexport till den ukrainska staten; och finansieringsinstrumentet för beviljande av bistånd i samband med en exportkredit,",
+    "antalet nya kunder bland små och medelstora företag vid utgången av 2026, samt vilka insatser som har genomförts för att nå ut till fler små och medelstora företag och hur EKN samverkat med andra aktörer i detta syfte,",
+    "myndighetens återförsäkringar påden privata marknaden. Av redovisningen ska framgå omfattning, motiv, typ av garantiåtaganden, samt hur detta bedöms ha påverkat den samlade risken i EKN:s garantiverksamhet,",
+    "den verksamhet som myndigheten har bedrivit för att säkerställa förenlighet med målen i Parisavtalet,",
+    "transparensen i fordringar på andra stater i linje med G20s riktlinjer för hållbar finansiering,",
+    "åtgärder vidtagna för att säkerställa transparensen i verksamheten, inklusive informationstillgängligheten för allmänheten,",
+    "åtgärder vidtagna för att kontinuerligt utveckla produktutbudet för att möta framväxande behov i nya och etablerade branscher,",
+    "EKN:s bidrag till att lansera konceptet Made with Sweden,",
+    "EKN:s bidrag till Statskontorets utvärdering av utrikeshandelsstrategin,",
+    "hur EKN använt AI för att utveckla verksamheten och öka organisationens effektivitet,",
+    "den verksamhet som myndigheten bedrivit inom CSR-frågor."
+   ],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27545:goals:0"
+  }
+ ],
+ "org": [],
+ "assignments": [
+  {
+   "title": "Uppdrag SME",
+   "group": [],
+   "text": "Myndigheten ska senast den 28 februari 2026 inkomma med en rapport med förslag på åtgärder för att öka antalet små och medelstora företag som använder sig av EKN:s garantier.",
+   "dates": [
+    "2026-02-28"
+   ],
+   "deadlines": [
+    "2026-02-28"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27545:assignments:0"
+  },
+  {
+   "title": "Redovisning av prognoser",
+   "group": [],
+   "text": "Myndigheten ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Prognoserna lämnas i informationssystemet Hermes senast:\n\n-2 februari\n\n-22 april\n\n-24 juli och\n\n-9 november.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27545:assignments:1"
+  },
+  {
+   "title": "Prognos för beställningsbemyndiganden",
+   "group": [
+    "Redovisning av prognoser"
+   ],
+   "text": "Myndigheten ska redovisa en prognos för de förslag om beställningsbemyndiganden som lämnats i budgetunderlaget och för de åtaganden som ingåtts med stöd av äldre beställningsbemyndiganden. Prognosen ska lämnas senast den 24 juli 2026 via Statsredovisningssystemet i Hermes och utformas enligt närmare information från Ekonomistyrningsverket.",
+   "dates": [
+    "2026-07-24"
+   ],
+   "deadlines": [
+    "2026-07-24"
+   ],
+   "forecast_dates": [],
+   "recipients": [],
+   "partners": [
+    "Ekonomistyrningsverket"
+   ],
+   "channels": [
+    "hermes",
+    "budgetunderlag"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27545:assignments:2"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "2:3",
+   "name": "Exportfrämjande verksamhet",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 24,
+    "name": "Näringsliv"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Exportkreditnämnden",
+     "amount_tkr": 176000,
+     "items": [
+      {
+       "ap": "3",
+       "name": "Exportkreditgarantier till Ukraina (ram)",
+       "amount_tkr": 176000
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "3",
+     "name": "Exportkreditgarantier till Ukraina",
+     "text": "Anslagsposten får användas för att täcka förluster som uppstår vid infriandet av de särskilda exportkreditgarantierna för Ukraina under garantiperioden 2025–2035. Om garantin infrias ska anslaget 2:3 Exportfrämjande verksamhet inom utgiftsområde 24 Näringsliv belastas upp till det belopp som motsvarar den avgift som garantitagaren har betalat. För överstigande förluster ska anslaget 1:1 Biståndsverksamhet inom utgiftsområde 7 Internationellt bistånd belastas.\nExportkreditnämnden får högst använda 70 miljoner kronor av tilldelade medel."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "1:1",
+   "name": "Biståndsverksamhet",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 7,
+    "name": "Internationellt bistånd"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Exportkreditnämnden",
+     "amount_tkr": 2900,
+     "items": [
+      {
+       "ap": "18",
+       "name": "Biståndsverksamhet - del till EKN Biståndsverksamhet (ram)",
+       "amount_tkr": 2900
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "18",
+     "name": "Biståndsverksamhet - del till EKN Biståndsverksamhet",
+     "text": "Medlen ska användas i enlighet med förordning (2025:790) om biståndsmedel i kombination med exportfinansiering. Medlen får användas till förvaltningskostnader.\nExportkreditnämnden ska till Styrelsen för internationellt utvecklingssamarbete (Sida) sammanställa och rapportera statistik i enlighet med OECD:s biståndskommitté DAC:s riktlinjer. För att främja transparens i biståndet ska myndigheten tillgängliggöra dokument och resultat på Openaid.se. Sida samordnar denna rapportering och kommer att meddela tidpunkter och tillvägagångsätt."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "1:1 Biståndsverksamhet",
+   "ap": "ap.18",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:3 Exportfrämjande verksamhet",
+   "ap": "ap.3",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 5000,
+  "- Exportkreditgarantier": 650000000,
+  "- Råvarugarantier": 12000000,
+  "- Investeringsgarantier": 10000000,
+  "- Exportkreditgarantier till Ukraina": 1776000,
+  "- Exportkreditgarantier för försvarsexport till den ukrainska staten": 500000
+ },
+ "payment_plan": [],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:1 Biståndsverksamhet",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.18",
+     "0",
+     "Inget",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "2:3 Exportfrämjande verksamhet",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.3",
+     "0",
+     "Inget",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Beställningsbemyndiganden",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Bemyndigande",
+     "Utgifter mot anslag till följd av ekonomiska åtaganden",
+     "",
+     "",
+     ""
+    ],
+    [
+     "2026",
+     "2027",
+     "2028",
+     "2029 -",
+     "Slutår"
+    ],
+    [
+     "1:1 Biståndsverksamhet",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.18",
+     "2 432 000",
+     "480 000",
+     "650 000",
+     "1 302 000",
+     "2047"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar, krediter och garantier",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "5 000"
+    ],
+    [
+     "Övriga kontokrediter"
+    ],
+    [
+     "- Garantiverksamheten",
+     "Obegränsad"
+    ],
+    [
+     "Garantier"
+    ],
+    [
+     "- Exportkreditgarantier",
+     "650 000 000"
+    ],
+    [
+     "- Råvarugarantier",
+     "12 000 000"
+    ],
+    [
+     "- Investeringsgarantier",
+     "10 000 000"
+    ],
+    [
+     "- Exportkreditgarantier till Ukraina",
+     "1 776 000"
+    ],
+    [
+     "- Exportkreditgarantier för försvarsexport till den ukrainska staten",
+     "500 000"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Garantier",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Garantiverksamhet, administration1",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0"
+    ],
+    [
+     "Garantiverksamhet, riskmässig andel1",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0"
+    ],
+    [
+     "Summa",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0"
+    ]
+   ]
+  }
+ ],
+ "has_fee_section": true,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 1,
+  "n_org": 0,
+  "n_assignments": 3,
+  "n_deadlines": 2,
+  "deadlines": [
+   "2026-02-28",
+   "2026-07-24"
+  ],
+  "partners": [
+   "Ekonomistyrningsverket",
+   "Statskontoret"
+  ],
+  "n_appropriations": 2,
+  "appropriations_total_tkr": 178900,
+  "payment_plan_total_tkr": 0,
+  "md_chars": 11776
+ },
+ "layout": "standard",
+ "warnings": []
+}

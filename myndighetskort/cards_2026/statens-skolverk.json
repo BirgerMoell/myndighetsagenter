@@ -1,0 +1,2660 @@
+{
+ "schema_version": 1,
+ "id": 27547,
+ "original_rbid": 25940,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-09-03",
+ "year": "2026",
+ "name": "Statens skolverk",
+ "slug": "statens-skolverk",
+ "department": "Utbildningsdepartementet",
+ "expenditure_areas": [
+  16
+ ],
+ "registry_numbers": [
+  "U2026/01562"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1",
+   "2025/26:99"
+  ],
+  "bet": [
+   "2025/26:FiU21",
+   "2025/26:UbU1"
+  ],
+  "rskr": [
+   "2025/26:124",
+   "2025/26:349"
+  ]
+ },
+ "n_attachments_stated": 1,
+ "mission": "Myndighetens uppgifter framgår bl.a. av förordningen (2015:1047) med instruktion för Statens skolverk.",
+ "goals": [
+  {
+   "title": "Verksamhetsutveckling",
+   "group": [],
+   "text": "Statens skolverk ska redovisa hur effektiviseringsarbetet inom myndigheten har bedrivits och kommer att bedrivas, inklusive uppskatta vilka kostnadsminskningar som har gjorts, mot bakgrund av bl.a. minskningen av förvaltningsanslaget (prop. 2025/26:1 utg.omr. 16 avsnitt 3.6.1). Vidare ska Skolverket redovisa vilka utvecklingsinsatser i verksamheten som myndigheten har vidtagit och planerar att vidta när det gäller att stärka den egna organisationen, styrningen och uppföljningen. Syftet med utvecklingsinsatserna ska vara att erbjuda skolväsendet ett ännu mer relevant och ändamålsenligt stöd som utgår från målgruppernas behov och vilar på vetenskaplig grund och beprövad erfarenhet. Redovisningen ska omfatta hur Skolverket omhändertagit de erfarenheter och det arbete som gjorts, bl.a. vad gäller samverkan mellan skolmyndigheterna, inom ramen för uppdraget om en översyn av stöd och information via webbplatser samt om utveckling och samordning av forskningsspridning (U2023/02135).",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27547:goals:0"
+  },
+  {
+   "title": "Felaktiga utbetalningar",
+   "group": [],
+   "text": "Statens skolverk ska redovisa vilka åtgärder som har vidtagits för att motverka felaktiga utbetalningar av de stöd och bidrag som myndigheten administrerar.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27547:goals:1"
+  },
+  {
+   "title": "Informations- och cybersäkerhet",
+   "group": [],
+   "text": "Statens skolverk ska övergripande redogöra för hur myndigheten har förvaltat och utvecklat sitt arbete med informations- och cybersäkerhet, inklusive den egna organisationens beredskap och möjlighet att hantera incidenter. Myndigheten ska även lämna en redogörelse över vidtagna åtgärder för att utveckla den interna styrningen och uppföljningen av arbetet.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "analysera",
+    "utveckla",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27547:goals:2"
+  }
+ ],
+ "org": [
+  {
+   "title": "Säkerställa proaktivitet och handlingskraft vid fredstida krissituationer eller vid krig och krigsfara",
+   "group": [],
+   "text": "Statens skolverk ska säkerställa att myndigheten har förmåga att agera proaktivt och handlingskraftigt i hanteringen av såväl fredstida krissituationer som vid krig och krigsfara. Utöver de krav som ställs i förordningen (2022:524) om statliga myndigheters beredskap ska myndigheten i detta syfte utbilda och öva sin personal samt se till att myndigheten stärker en kultur och arbetssätt som utgår från de krav som ett krig ställer. Uppdraget ska redovisas till Regeringskansliet (Utbildningsdepartementet och Försvarsdepartementet) senast den 22 februari 2027 i den särskilda redovisningen för civilt försvar.",
+   "dates": [
+    "2027-02-22"
+   ],
+   "deadlines": [
+    "2027-02-22"
+   ],
+   "recipients": [
+    "Regeringskansliet (Utbildningsdepartementet och Försvarsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2022:524"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "org",
+   "item_id": "27547:org:0"
+  },
+  {
+   "title": "Förbereda för inrättandet av ett centrum för entreprenörskap",
+   "group": [],
+   "text": "Statens skolverk ges i uppdrag att förbereda för att inrätta ett centrum för entreprenörskap som ska sprida kunskap om utbildning i entreprenörskap, samt uppmuntra fler gymnasieskolor och grundskolor att ha utbildning i entreprenörskap. Befintlig verksamhet, som i dag bedrivs utifrån uppgiften att särskilt stimulera arbetet med entreprenörskap i skolväsendet enligt förordningen (2015:1047) med instruktion för Statens skolverk, ska inordnas i centret. I uppdraget ingår att beskriva hur samverkan ska ske med relevanta aktörer, inklusive Tillväxtverket och Ung Företagsamhet. Uppdraget ska redovisas senast den 18 december 2026.",
+   "dates": [
+    "2026-12-18"
+   ],
+   "deadlines": [
+    "2026-12-18"
+   ],
+   "recipients": [],
+   "partners": [
+    "Tillväxtverket"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "utveckla",
+    "informera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2015:1047"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "org",
+   "item_id": "27547:org:1"
+  }
+ ],
+ "assignments": [
+  {
+   "title": "Nya uppdrag 2026",
+   "group": [],
+   "text": "",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27547:assignments:0"
+  },
+  {
+   "title": "Prognoser",
+   "group": [],
+   "text": "Statens skolverk ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Prognoserna lämnas i informationssystemet Hermes senast den\n\n– 2 februari,\n\n– 22 april,\n\n– 24 juli, och\n\n– 9 november.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27547:assignments:1"
+  },
+  {
+   "title": "Prognos för beställningsbemyndiganden",
+   "group": [],
+   "text": "Statens skolverk ska redovisa en prognos för de förslag om beställningsbemyndiganden som lämnats i budgetunderlaget och för de åtaganden som ingåtts med stöd av äldre beställningsbemyndiganden. Prognosen ska lämnas senast den 24 juli 2026 via Statsredovisningssystemet i Hermes och utformas enligt närmare information från Statskontoret.",
+   "dates": [
+    "2026-07-24"
+   ],
+   "deadlines": [
+    "2026-07-24"
+   ],
+   "forecast_dates": [],
+   "recipients": [],
+   "partners": [
+    "Statskontoret"
+   ],
+   "channels": [
+    "hermes",
+    "budgetunderlag"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27547:assignments:2"
+  },
+  {
+   "title": "Nationellt kartläggningsmaterial för svenska som andraspråk",
+   "group": [],
+   "text": "Statens skolverk ska ta fram ett nationellt kartläggningsmaterial som kan ligga till grund för rektorns beslut om när en elev ska få undervisning i svenska som andraspråk och för beslut om när en elev ska övergå från ämnet svenska som andraspråk till ämnet svenska i grundskolan, anpassade grundskolan, sameskolan och specialskolan. Skolverket ska samordna framtagandet av ett nationellt kartläggningsmaterial med arbetet i uppdraget om att förbereda införandet av en tioårig grundskola och ta fram förslag på nya läroplaner, i vilket det bl.a. ingår att ta fram kursplaner som riktar sig till elever som är nybörjare i svenska språket och som ska benämnas Grundläggande svenska (U2025/02427). Uppdraget ska redovisas till Regeringskansliet (Utbildningsdepartementet) senast den 1 september 2027.",
+   "dates": [
+    "2027-09-01"
+   ],
+   "deadlines": [
+    "2027-09-01"
+   ],
+   "recipients": [
+    "Regeringskansliet (Utbildningsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27547:assignments:3"
+  },
+  {
+   "title": "Kartläggning och stöd gällande arbetet med att hantera tillbud i skolverksamheter",
+   "group": [],
+   "text": "Statens skolverk och Arbetsmiljöverket ska tillsammans och utifrån respektive myndighets ansvarsområde kartlägga eventuella hinder i\\\nskolhuvudmännens arbete med incidentrapportering internt och anmälan av tillbud till ansvariga myndigheter. Utifrån kartläggningen ska de även, inom ramen för respektive myndighets uppdrag, se över och komplettera befintligt stöd när det gäller arbetsmiljön i verksamheter inom skolväsendet. I detta ingår stöd till huvudmännen och rektorerna i arbetet med att systematiskt hantera tillbud i verksamheten för att öka förutsättningarna att förebygga risker för hot och våld mot lärare, förskollärare eller annan personal och, i förekommande fall, elever. Skolverket och Arbetsmiljöverket bör inom ramen för uppdraget även inhämta kunskaper och erfarenheter från relevanta myndigheter inklusive Försäkringskassan och Statens skolinspektion. Skolverket och Arbetsmiljöverket ska gemensamt redovisa uppdraget till Regeringskansliet (Utbildningsdepartementet och Arbetsmarknadsdepartementet) senast den 30 december 2026.",
+   "dates": [
+    "2026-12-30"
+   ],
+   "deadlines": [
+    "2026-12-30"
+   ],
+   "recipients": [
+    "Regeringskansliet (Utbildningsdepartementet och Arbetsmarknadsdepartementet)"
+   ],
+   "partners": [
+    "Arbetsmiljöverket",
+    "Försäkringskassan",
+    "Statens skolinspektion"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "tillsyn_kontroll"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27547:assignments:4"
+  },
+  {
+   "title": "Demokratistärkande insatser för att motverka antisemitism och andra former av rasism",
+   "group": [],
+   "text": "Statens skolverk och Forum för levande historia ska tillsammans genomföra spridningsaktiviteter och följa upp verktyget för\\\nsystematiskt arbete med demokratistärkande insatser i skolväsendet, folkbildningen och inom andra delar av utbildning för vuxna. Syftet är att motverka nutida uttryck för antisemitism och andra former av rasism, oavsett vem det drabbar. Uppdraget ska anpassas till och ta hänsyn till uppdraget som Brottsförebyggande rådet har om hatbrott i regleringsbrevet för budgetåret 2026. Myndigheterna ska erbjuda målgrupperna processtöd i arbetet med verktyget och arbeta utåtriktat för att nå fler förskolor och skolor, i synnerhet sådana förskolor och skolor som särskilt är i behov av arbete med verktyget. Utgångspunkten för uppdraget är densamma som för tidigare uppdrag (U2021/04941, Ku2021/02377, U2023/03701 och Ku2023/01402). Myndigheterna ska löpande hålla Regeringskansliet (Utbildningsdepartementet och Kulturdepartementet) informerat om arbetet. Uppdraget ska redovisas gemensamt till Regeringskansliet (Utbildningsdepartementet och Kulturdepartementet) senast den 15 januari 2027. I redovisningen ska det ingå uppgifter om i vilken utsträckning och utifrån vilka utmaningar som förskolor och skolor har tagit del av det stöd som erbjuds inom ramen för uppdraget.",
+   "dates": [
+    "2027-01-15"
+   ],
+   "deadlines": [
+    "2027-01-15"
+   ],
+   "recipients": [
+    "Regeringskansliet (Utbildningsdepartementet och Kulturdepartementet)"
+   ],
+   "partners": [
+    "Brottsförebyggande rådet",
+    "Forum för levande historia"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla",
+    "informera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27547:assignments:5"
+  },
+  {
+   "title": "Fortbildning och kompetensutveckling med anledning av införandet av en tioårig grundskola",
+   "group": [],
+   "text": "Statens skolverk ska förbereda för fortbildning i form av uppdragsutbildning för lärare som i dag arbetar i förskoleklassen eller i grundskolans årskurs 1–3. Fortbildningen ska syfta till att ge de lärare som ska arbeta i blivande årskurs 1 kompetens att integrera förskolans pedagogik och arbetssätt på lämpligt sätt i undervisningen. Vid behov av särskilt anpassad fortbildning för lärare inom anpassade grundskolan, specialskolan och sameskolan bör tillgången till skolformsspecifik fortbildning säkerställas. Skolverket ska även ta fram andra kompetensutvecklingsinsatser för lärare och andra berörda personalgrupper med samma syften som för fortbildningen. Fortbildningen och kompetensutvecklingsinsatserna ska kunna erbjudas från och med vårterminen 2027. Uppdraget ska genomföras med utgångspunkt i förslagen i betänkandet En tioårig grundskola – Införandet av en ny årskurs 1 i grundskolan, grundsärskolan, specialskolan och sameskolan (SOU 2021:33 avsnitt 6.5). Uppdraget ska redovisas till Regeringskansliet (Utbildningsdepartementet) senast den 29 januari 2027.",
+   "dates": [
+    "2027-01-29"
+   ],
+   "deadlines": [
+    "2027-01-29"
+   ],
+   "recipients": [
+    "Regeringskansliet (Utbildningsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27547:assignments:6"
+  },
+  {
+   "title": "Stärkt arbete mot utanförskap",
+   "group": [],
+   "text": "Statens skolverk ska förvalta och utveckla sitt arbete när det gäller att använda sig av regionala statistikområden (RegSo) för analyser, uppföljningar och utvärderingar samt vid redovisning av statistik med syfte att främja utvecklingen av skolväsendet inom områden där utanförskapet är stort. Vidare ska Skolverket analysera hur myndigheten kan påverka utvecklingen av skolväsendet i områden där utanförskapet är stort samt belysa hur myndighetens arbete mot utanförskap kan stärkas. Skolverket ska även bistå Boverket med sakkunskap och underlag som bidrar till Boverkets uppdrag om utanförskap i regleringsbrev för budgetåret 2026. Skolverkets tidigare uppdrag om effektivare integration och minskat utanförskap (U2023/03701) samt Statistiska centralbyråns och Boverkets fördjupade analys av områden där utanförskapet är stort (SCB, Slutrapport av regeringsuppdrag 2024:2) ska vara utgångspunkter för arbetet.\n\nSkolverket ska löpande hålla Regeringskansliet (Utbildningsdepartementet och Arbetsmarknadsdepartementet) informerat om uppdraget. Uppdraget ska redovisas till Regeringskansliet (Utbildningsdepartementet och Arbetsmarknadsdepartementet) senast den 5 mars 2027.",
+   "dates": [
+    "2027-03-05"
+   ],
+   "deadlines": [
+    "2027-03-05"
+   ],
+   "recipients": [
+    "Boverket",
+    "Regeringskansliet (Utbildningsdepartementet och Arbetsmarknadsdepartementet)"
+   ],
+   "partners": [
+    "Boverket",
+    "Statistiska centralbyrån"
+   ],
+   "channels": [
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna",
+    "utveckla",
+    "informera",
+    "statistik_data"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27547:assignments:7"
+  },
+  {
+   "title": "Utökad tid i förskola och fritidshem för barn vars föräldrar omfattas av aktivitetskravet inom försörjningsstödet",
+   "group": [],
+   "text": "Statens skolverk ska sprida information till kommunerna om att de har tilldelats extra medel för att erbjuda utökad tid i förskola och fritidshem för barn vars föräldrar omfattas av aktivitetskravet inom försörjningsstödet. Myndigheten ska även genomföra insatser för att främja att utökad tid erbjuds. I uppdraget ingår även att, efter att aktivitetskravet har trätt i kraft den 1 juli 2026, följa upp i vilken utsträckning reformen har inneburit förändring i antalet erbjudna timmar samt redovisa resultatet av denna uppföljning fördelat per kommun. Vid genomförandet av uppdraget ska Skolverket inhämta kunskap och erfarenhet från Sveriges Kommuner och Regioner. Uppdraget ska redovisas senast den 26 februari 2027 till Regeringskansliet (Utbildningsdepartementet och Socialdepartementet).\n\nFör genomförandet av uppdraget får Skolverket under 2026 använda högst 1 000 000 kronor som ska redovisas mot det under utgiftsområde 9 Hälsovård, sjukvård och social omsorg för budgetåret 2026 uppförda anslaget 4:7*Bidrag till utveckling av socialt arbete m.m*, anslagspost 5 Övriga utvecklingsmedel. Medlen betalas ut engångsvis efter rekvisition till Kammarkollegiet senast den 30 november 2026. Medel som inte har använts för avsett ändamål ska återbetalas senast den 31 mars 2027 till Kammarkollegiet. Vid samma tidpunkt ska en ekonomisk redovisning av använda medel lämnas till Kammarkollegiet.",
+   "dates": [
+    "2026-07-01",
+    "2026-11-30",
+    "2027-02-26",
+    "2027-03-31"
+   ],
+   "deadlines": [
+    "2026-11-30",
+    "2027-02-26",
+    "2027-03-31"
+   ],
+   "recipients": [
+    "Kammarkollegiet",
+    "Regeringskansliet (Utbildningsdepartementet och Socialdepartementet)"
+   ],
+   "partners": [
+    "Kammarkollegiet",
+    "Sveriges Kommuner och Regioner"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "fördela_medel",
+    "utveckla"
+   ],
+   "anslag_refs": [
+    "4:7"
+   ],
+   "expenditure_area_refs": [
+    9
+   ],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27547:assignments:8"
+  },
+  {
+   "title": "Reviderat kartläggningsmaterial för nyanlända elever",
+   "group": [],
+   "text": "Statens skolverk ska revidera kartläggningsmaterialet för bedömning av nyanlända elevers kunskaper, så att materialet är bättre anpassat till alla berörda elevgrupper och kan användas mer effektivt. Revideringen ska utgå från Skolverkets översyn av kartläggningsmaterialet (U2024/02541). Uppdraget ska redovisas till Regeringskansliet (Utbildningsdepartementet) senast den 7 december 2026.",
+   "dates": [
+    "2026-12-07"
+   ],
+   "deadlines": [
+    "2026-12-07"
+   ],
+   "recipients": [
+    "Regeringskansliet (Utbildningsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27547:assignments:9"
+  },
+  {
+   "title": "Kriminalvårdens skolverksamhet för barn och unga",
+   "group": [],
+   "text": "Statens skolverk och Kriminalvården ska, med utgångspunkt i promemorian Kriminalvårdens skolverksamhet för barn och unga (U2025/02404), gemensamt analysera vilket eller vilka program motsvarande yrkesprogram i gymnasieskolan, och i förekommande fall inriktningar inom dessa program, som Kriminalvården bör kunna erbjuda inom ramen för sin skolverksamhet. Myndigheterna ska även analysera hur utbildning motsvarande introduktionsprogrammet yrkesintroduktion bör kunna erbjudas. Vidare ska myndigheterna analysera vilket eller vilka program motsvarande nationella program i anpassade gymnasieskolan som Kriminalvården bör kunna erbjuda inom ramen för sin skolverksamhet. Vid genomförandet av uppdraget ska särskild hänsyn tas till att utbildningen ska anordnas i kriminalvårdsanstalt. I uppdraget ingår också att analysera möjligheterna för eleverna att efter genomförd utbildning etablera sig på arbetsmarknaden. Skolverket ska vara samordnande myndighet för uppdraget. Skolverket ska redovisa uppdraget till Regeringskansliet (Utbildningsdepartementet och Justitiedepartementet) senast den 30 september 2026.",
+   "dates": [
+    "2026-09-30"
+   ],
+   "deadlines": [
+    "2026-09-30"
+   ],
+   "recipients": [
+    "Regeringskansliet (Utbildningsdepartementet och Justitiedepartementet)"
+   ],
+   "partners": [
+    "Kriminalvården"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27547:assignments:10"
+  },
+  {
+   "title": "Uppdrag utifrån lagrådsremissen Offentlighetsprincipen med lättnadsregler för mindre enskilda huvudmän i skolväsendet",
+   "group": [],
+   "text": "Följande uppdrag ges utifrån lagrådsremissen Offentlighetsprincipen med lättnadsregler för mindre enskilda huvudmän i skolväsendet. Uppdragen ges med förbehåll för riksdagens beslut med anledning av den proposition regeringen har för avsikt att lämna i mars 2026. Statens skolverks arbete ska bedrivas med utgångspunkt i lagrådsremissens bedömningar och förslag.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "analysera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27547:assignments:11"
+  },
+  {
+   "title": "Erbjuda stöd",
+   "group": [
+    "Uppdrag utifrån lagrådsremissen Offentlighetsprincipen med lättnadsregler för mindre enskilda huvudmän i skolväsendet"
+   ],
+   "text": "Skolverket ska ta fram och erbjuda stöd till enskilda huvudmän i skolväsendet om allmänna handlingar, sekretess och arkivering, inför och efter införandet av offentlighetsprincipen hos enskilda huvudmän i skolväsendet. Stödet, som ska vara konkret och verksamhetsnära, ska ges i form av stödmaterial, kompetensutveckling och som generell rådgivning om regelverket inom ramen för myndighetens upplysningstjänst. Vid genomförandet av uppdraget ska Skolverket föra en dialog med målgruppen. Skolverket ska redovisa uppdraget till Regeringskansliet (Utbildningsdepartementet) senast den 18 december 2026.",
+   "dates": [
+    "2026-12-18"
+   ],
+   "deadlines": [
+    "2026-12-18"
+   ],
+   "recipients": [
+    "Regeringskansliet (Utbildningsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27547:assignments:12"
+  },
+  {
+   "title": "Utveckla det nationella informationssystemet för skolväsendet",
+   "group": [
+    "Uppdrag utifrån lagrådsremissen Offentlighetsprincipen med lättnadsregler för mindre enskilda huvudmän i skolväsendet"
+   ],
+   "text": "Regeringen har i lagrådsremissen föreslagit att enskilda huvudmän som enligt lagrådsremissens förslag är mindre huvudmän ska få tillämpa vissa s.k. lättnadsregler. Vilka huvudmän som ska anses vara mindre föreslås avgränsas med ett högsta barn- och elevantal. För att det ska vara tydligt för allmänheten vilka huvudmän, och därmed vilka förskole- eller skolenheter, som får tillämpa lättnadsregler, behöver information om detta finnas tillgänglig i det nationella informationssystemet för skolväsendet enligt förordningen (2015:195) om ett nationellt informationssystem för skolväsendet. Även motsvarande uppgifter om fritidshem behöver finns tillgängliga för allmänheten. Skolverket ska därför ta fram förslag till författningsändringar för att myndigheten den 1 januari 2029 ska kunna publicera sådana uppgifter. Uppdraget ska redovisas till Regeringskansliet (Utbildningsdepartementet) senast den 1 juni 2028.",
+   "dates": [
+    "2028-06-01",
+    "2029-01-01"
+   ],
+   "deadlines": [
+    "2028-06-01"
+   ],
+   "recipients": [
+    "Regeringskansliet (Utbildningsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "föreslå",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2015:195"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27547:assignments:13"
+  },
+  {
+   "title": "Kartlägga bestämmelser om uppgiftsskyldighet",
+   "group": [
+    "Uppdrag utifrån lagrådsremissen Offentlighetsprincipen med lättnadsregler för mindre enskilda huvudmän i skolväsendet"
+   ],
+   "text": "Skolverket ska kartlägga bestämmelser om uppgiftsskyldighet för enskilda huvudmän inom skolväsendet som finns i föreskrifter på lägre nivå än förordning, men som fr.o.m. den 1 januari 2027 bör regleras i förordning för att ha sekretessbrytande effekt enligt 10 kap. 28 § offentlighets- och sekretesslagen (2009:400). Uppdraget ska redovisas till Regeringskansliet (Utbildningsdepartementet) senast den 1 juni 2026.",
+   "dates": [
+    "2026-06-01",
+    "2027-01-01"
+   ],
+   "deadlines": [
+    "2026-06-01"
+   ],
+   "recipients": [
+    "Regeringskansliet (Utbildningsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2009:400"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27547:assignments:14"
+  },
+  {
+   "title": "Sveriges kulturkanon i utbildningen",
+   "group": [],
+   "text": "Statens skolverk ska ta fram ett förslag på hur Sveriges kulturkanon kan införas i relevanta delar av styrdokumenten och ett stöd för hur Sveriges kulturkanon kan användas i tillämpliga delar i utbildningen i skolväsendet. Vid genomförandet av uppdraget ska Skolverket beakta Riksantikvarieämbetets uppdrag att utveckla en digital plattform för Sveriges kulturkanon (Ku2026/00396). Vidare ska Skolverket samordna arbetet med uppdraget med det pågående uppdraget att förbereda införandet av en tioårig grundskola och ta fram förslag på nya läroplaner (U2025/02427 och U2026/00888). Uppdraget ska redovisas till Regeringskansliet (Utbildningsdepartementet) senast den 31 maj 2027.",
+   "dates": [
+    "2027-05-31"
+   ],
+   "deadlines": [
+    "2027-05-31"
+   ],
+   "recipients": [
+    "Regeringskansliet (Utbildningsdepartementet)"
+   ],
+   "partners": [
+    "Riksantikvarieämbetet"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27547:assignments:15"
+  },
+  {
+   "title": "Stöd för att integrera undervisning i svenska och yrkesämnen i vård och omsorg",
+   "group": [],
+   "text": "Statens skolverk ska ta fram stöd för hur undervisning i svenska som andraspråk, nivå 1, och yrkesämnen som ingår i vård- och omsorgsprogrammet kan integreras vid utbildning i kommunal vuxenutbildning. Stödet ska möjliggöra att eleverna får med sig de kunskaper i svenska som behövs för arbete i äldreomsorgen. Skolverket ska vid genomförandet av uppdraget inhämta kunskaper och erfarenheter från Stockholms universitet och Socialstyrelsen. Uppdraget ska redovisas till Regeringskansliet (Socialdepartementet med kopia till Utbildningsdepartementet) senast den 31 mars 2028.\n\nFör uppdraget får Skolverket under 2026 använda högst 1 000 000 kronor som ska redovisas mot det inom utgiftsområde 9 Hälsovård, sjukvård och social omsorg för budgetåret 2026 uppförda anslaget 4:5*Stimulansbidrag och åtgärder inom äldreområdet*, anslagsposten 8 Utvecklingsmedel - Kammarkollegiet. Medlen betalas ut engångsvis efter rekvisition till Kammarkollegiet senast den 1 december 2026. Medel som inte har använts för avsett ändamål ska återbetalas senast den 31 mars 2027 till Kammarkollegiet. Vid samma tidpunkt ska en ekonomisk redovisning av använda medel lämnas till Kammarkollegiet. Rekvisition, återbetalning och redovisning av medel ska hänvisa till regleringsbrevet för budgetåret 2026 avseende Statens skolverk. För 2027 beräknas 1 000 000 kronor avsättas för uppdraget under förutsättning att riksdagen anvisat medel för det aktuella anslaget.",
+   "dates": [
+    "2026-12-01",
+    "2027-03-31",
+    "2028-03-31"
+   ],
+   "deadlines": [
+    "2026-12-01",
+    "2027-03-31",
+    "2028-03-31"
+   ],
+   "recipients": [
+    "Kammarkollegiet",
+    "Regeringskansliet (Socialdepartementet med kopia till Utbildningsdepartementet)"
+   ],
+   "partners": [
+    "Kammarkollegiet",
+    "Socialstyrelsen",
+    "Stockholms universitet"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla"
+   ],
+   "anslag_refs": [
+    "4:5"
+   ],
+   "expenditure_area_refs": [
+    9
+   ],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27547:assignments:16"
+  },
+  {
+   "title": "Stöd när det gäller skolregler, konsekvensplaner och förväntansdokument",
+   "group": [],
+   "text": "Statens skolverk ska med utgångspunkt i propositionen Bättre förutsättningar för trygghet och studiero i skolan (prop. 2025/26:193) ta fram stöd, t.ex. i form av exempelmallar, när det gäller arbetet med skolregler, konsekvensplaner samt förväntansdokument. Skolverket ska inom ramen för uppdraget, när det är aktuellt, se över och komplettera befintligt stöd inklusive webbsidor som rör detta arbete. Stödet ska – med förbehåll för att riksdagen beslutar i enlighet med förslagen i propositionen – ge tillämparna en såväl konkret som juridisk vägledning och tillhandahållas så snart som möjligt efter riksdagens beslut med anledning av propositionen. Stödet ska dock tillhandahållas senast den 1 januari 2027. Vid genomförandet av uppdraget ska Skolverket inhämta kunskaper och erfarenheter från Specialpedagogiska skolmyndigheten, Statens skolinspektion och Myndigheten för familjerätt och föräldraskapsstöd. Uppdraget ska redovisas till Regeringskansliet (Utbildningsdepartementet) senast den 18 december 2026.",
+   "dates": [
+    "2026-12-18",
+    "2027-01-01"
+   ],
+   "deadlines": [
+    "2026-12-18",
+    "2027-01-01"
+   ],
+   "recipients": [
+    "Regeringskansliet (Utbildningsdepartementet)"
+   ],
+   "partners": [
+    "Myndigheten för familjerätt och föräldraskapsstöd",
+    "Specialpedagogiska skolmyndigheten",
+    "Statens skolinspektion"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla",
+    "tillsyn_kontroll",
+    "informera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27547:assignments:17"
+  },
+  {
+   "title": "Insatser mot antisemitism i skolväsendet",
+   "group": [],
+   "text": "Statens skolverk ska genomföra kunskapshöjande insatser riktade till huvudmän i syfte att motverka antisemitism i skolväsendet. En utgångspunkt för arbetet är myndighetens studie Antisemitism i skolan och de slutsatser som framgår av rapporten (rapport 2025:28). Insatserna ska fokusera på spridning av Skolverkets egna och andra relevanta aktörers befintliga insatser och metoder samt särskilt beakta Forum för levande historias uppdrag att genomföra kunskapshöjande insatser mot antisemitism (A2025/00530) och uppdraget till Göteborgs universitet (Segerstedtinstitutet) att sprida kunskap om arbetsmetoder mot antisemitism (U2023/00410). I arbetet med uppdraget ska Skolverket föra en dialog med Forum för levande historia och Göteborgs universitet (Segerstedtinstitutet) samt i övrigt inhämta kunskaper och erfarenheter från andra relevanta aktörer. Skolverket ska löpande hålla Regeringskansliet (Utbildningsdepartementet och Arbetsmarknadsdepartementet) informerat om arbetet. Uppdraget ska delredovisas senast den 15 februari 2027 och slutredovisas senast den 15 februari 2028 till Regeringskansliet (Utbildningsdepartementet och Arbetsmarknadsdepartementet) med kopia till Forum för levande historia. Uppdraget är i linje med regeringens strategi för att stärka judiskt liv och motverka antisemitism åren 2025–2034 (Ku2025/00578).\n\nFör uppdraget får Skolverket under 2026 använda högst 1 000 000 kronor som ska redovisas mot det inom utgiftsområde 13 Integration och jämställdhet för budgetåret 2026 uppförda anslaget 2:2*Åtgärder mot diskriminering och rasism m.m.*, anslagsposten 12 Åtgärder mot antisemitism. Medlen betalas ut engångsvis efter rekvisition till Kammarkollegiet senast den 1 december 2026. Medel som inte har använts för avsett ändamål ska återbetalas senast den 31 mars 2027 till Kammarkollegiet. Vid samma tidpunkt ska en ekonomisk redovisning av använda medel lämnas till Kammarkollegiet. Rekvisition, återbetalning och redovisning av medel ska hänvisa till regleringsbrevet för budgetåret 2026 avseende Statens skolverk. För 2027 beräknas 1 000 000 kronor avsättas för uppdraget under förutsättning att riksdagen anvisat medel för det aktuella anslaget.",
+   "dates": [
+    "2026-12-01",
+    "2027-02-15",
+    "2027-03-31",
+    "2028-02-15"
+   ],
+   "deadlines": [
+    "2026-12-01",
+    "2027-02-15",
+    "2027-03-31",
+    "2028-02-15"
+   ],
+   "recipients": [
+    "Forum för levande historia",
+    "Göteborgs universitet",
+    "Kammarkollegiet",
+    "Regeringskansliet (Utbildningsdepartementet och Arbetsmarknadsdepartementet)"
+   ],
+   "partners": [
+    "Forum för levande historia",
+    "Göteborgs universitet",
+    "Kammarkollegiet"
+   ],
+   "channels": [
+    "delredovisning",
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "utveckla",
+    "informera"
+   ],
+   "anslag_refs": [
+    "2:2"
+   ],
+   "expenditure_area_refs": [
+    13
+   ],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27547:assignments:18"
+  },
+  {
+   "title": "Sammanhållet kunskaps- och metodstöd för brottsförebyggande arbete",
+   "group": [],
+   "text": "Statens skolverk, Brottsförebyggande rådet och Socialstyrelsen ska gemensamt ta fram ett sammanhållet, behovsanpassat och praktiknära kunskaps- och metodstöd för brottsförebyggande arbete i skolväsendet. Stödet ska omfatta såväl social som situationell brottsprevention. Med social brottsprevention avses i detta uppdrag åtgärder för att minska individers benägenhet att begå brott samt att minska risken för individer att utsättas för brott. Med situationell brottsprevention avses i detta uppdrag att förhindra eller försvåra att brott begås genom att förändra den aktuella platsen eller situationen där brott kan begås. Stödmaterialet ska knyta väl an till skolväsendets uppdrag. Uppdraget ska samordnas med uppdraget om situationell brottsprevention i skolväsendet (U2025/01545, Ju2025/01479). Även andra relevanta uppdrag på området ska beaktas. Vid genomförande av uppdraget ska myndigheterna inhämta kunskaper och erfarenheter från Polismyndigheten och Statens institutionsstyrelse. Skolverket ska vara samordnande myndighet. Myndigheterna ska gemensamt redovisa uppdraget till Regeringskansliet (Utbildningsdepartementet, Justitiedepartementet och Socialdepartementet) senast den 30 juni 2027.",
+   "dates": [
+    "2027-06-30"
+   ],
+   "deadlines": [
+    "2027-06-30"
+   ],
+   "recipients": [
+    "Regeringskansliet (Utbildningsdepartementet, Justitiedepartementet och Socialdepartementet)"
+   ],
+   "partners": [
+    "Brottsförebyggande rådet",
+    "Polismyndigheten",
+    "Socialstyrelsen",
+    "Statens institutionsstyrelse"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27547:assignments:19"
+  },
+  {
+   "title": "Uppdrag till Skolverket om ekonomisk information på enhetsnivå",
+   "group": [],
+   "text": "Statens skolverk ska utreda och föreslå vilken ekonomisk information på enhetsnivå om verksamheten hos offentliga och enskilda huvudmän inom skolväsendet som ska tillgängliggöras för allmänheten. Förslaget ska avse sådan information som bedöms relevant att tillgängliggöra, utifrån syftet att öka transparensen i hur offentliga medel används i verksamheter inom skolväsendet samt att enheters ekonomiska förhållanden ska kunna jämföras med varandra. Skolverket ska också bedöma vad som krävs för att relevanta uppgifter ska kunna samlas in och tillgängliggöras, om viss information i stället bör tillgängliggöras på en annan nivå än enhetsnivå, och lämna förslag på en tidsplan. Utgångspunkten för förslaget bör vara att insamlingen i möjligaste mån ska samordnas med annan insamling av uppgifter från huvudmännen. Myndigheten ska även i övrigt ta hänsyn till uppgiftslämnarnas administrativa börda. Vid behov ska Skolverket lämna förslag på nödvändiga författningsändringar. Uppdraget ska redovisas till Regeringskansliet (Utbildningsdepartementet) senast den 1 juni 2027.",
+   "dates": [
+    "2027-06-01"
+   ],
+   "deadlines": [
+    "2027-06-01"
+   ],
+   "recipients": [
+    "Regeringskansliet (Utbildningsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "föreslå",
+    "samordna"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27547:assignments:20"
+  },
+  {
+   "title": "Förbereda fortbildning för förskollärare och lärare",
+   "group": [],
+   "text": "Statens skolverk ska, med utgångspunkt i remitterade förslag till ändringar i förordningen (2011:326) om behörighet och legitimation för lärare och förskollärare (U2026/00797), föreslå lämplig fortbildning i form av uppdragsutbildning som kan ge redan legitimerade förskollärare och lärare behörighet att undervisa i årskurs 1–4 i den tioåriga grundskolan. I uppdraget ingår att föreslå hur utbildningen kan genomföras, t.ex. lämplig studietakt. Fortbildningen ska kunna erbjudas på distans. Skolverket ska inhämta kunskaper och erfarenheter från universitet och högskolor, enskilda utbildningsanordnare och andra relevanta aktörer. Skolverket ska redovisa uppdraget till Regeringskansliet (Utbildningsdepartementet) senast den 1 oktober 2026.",
+   "dates": [
+    "2026-10-01"
+   ],
+   "deadlines": [
+    "2026-10-01"
+   ],
+   "recipients": [
+    "Regeringskansliet (Utbildningsdepartementet)"
+   ],
+   "partners": [
+    "universitet och högskolor"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "föreslå",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2011:326"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27547:assignments:21"
+  },
+  {
+   "title": "Språkfrukost i skolan",
+   "group": [],
+   "text": "Statens skolverk ska ge kommuner eller enskilda huvudmän som har skolenheter med socioekonomiskt svåra förutsättningar stöd för att planera, organisera och genomföra språkfrukost i skolan. I uppdraget ingår även att betala ut bidrag för språkfrukost. Med språkfrukost avses i detta uppdrag att elever med regelbundenhet erbjuds frukost och språkträning tillsammans med skolpersonal med goda kunskaper i svenska språket. Insatsen ska riktas till elever som behöver stärka sina kunskaper i svenska språket och som går i förskoleklass och grundskolans årskurs 1–3. Uppdraget ska redovisas till Regeringskansliet (Utbildningsdepartementet) senast den 12 mars 2027.",
+   "dates": [
+    "2027-03-12"
+   ],
+   "deadlines": [
+    "2027-03-12"
+   ],
+   "recipients": [
+    "Regeringskansliet (Utbildningsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "fördela_medel",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27547:assignments:22"
+  },
+  {
+   "title": "Kompetenshöjande insatser inom STEM",
+   "group": [],
+   "text": "Statens skolverk ska genomföra kompetenshöjande insatser inom STEM (Science, Technology, Engineering, Mathematics) för att stärka undervisningen och öka elevernas intresse för området. Insatserna ska rikta sig till lärare som undervisar inom naturvetenskap, matematik och teknik samt till andra relevanta yrkesgrupper, t.ex. studie- och yrkesvägledare. Insatserna kan exempelvis handla om STEM-internat med föreläsningar och möjligheter till erfarenhetsutbyte. Skolverket ska inom ramen för uppdraget inhämta kunskaper och erfarenheter från STEM-delegationen. Uppdraget ska redovisas till Regeringskansliet (Utbildningsdepartementet) senast den 31 mars 2027.",
+   "dates": [
+    "2027-03-31"
+   ],
+   "deadlines": [
+    "2027-03-31"
+   ],
+   "recipients": [
+    "Regeringskansliet (Utbildningsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla",
+    "informera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27547:assignments:23"
+  },
+  {
+   "title": "Kartläggning och analys av anpassade gymnasieskolan",
+   "group": [],
+   "text": "Statens skolverk ska, med utgångspunkt i Skolverkets rapport Gymnasiesärskolan: Uppföljning och analys av 2013 års reform (2016, rapport 435), kartlägga och analysera anpassade gymnasieskolan, t.ex. vad gäller allsidigt urval av nationella program och inriktningar. Skolverket ska också redovisa i vilken utsträckning utbildningsutbudet anpassas efter elevernas specifika önskemål, förutsättningar och lokala arbetsmarknadsbehov. Redovisningen av myndighetens kartläggning och analys ska ske uppdelat per respektive nationellt program och det individuella programmet och, när det är lämpligt, i tematisk form. I uppdraget ingår även att kartlägga och analysera elevsammansättningen i anpassade gymnasieskolan. Vid genomförandet av uppdraget ska Skolverket inhämta kunskaper och erfarenheter från Arbetsförmedlingen, Myndigheten för delaktighet, Specialpedagogiska skolmyndigheten och Statens skolinspektion. Skolverket ska även föra en dialog med utredningen om en ämnesutformad gymnasieskola (U 2025:06) och löpande hålla Regeringskansliet (Utbildningsdepartementet) informerat om uppdraget. Uppdraget ska redovisas till Regeringskansliet (Utbildningsdepartementet) senast den 15 juni 2027.",
+   "dates": [
+    "2027-06-15"
+   ],
+   "deadlines": [
+    "2027-06-15"
+   ],
+   "recipients": [
+    "Regeringskansliet (Utbildningsdepartementet)"
+   ],
+   "partners": [
+    "Arbetsförmedlingen",
+    "Myndigheten för delaktighet",
+    "Specialpedagogiska skolmyndigheten",
+    "Statens skolinspektion"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla",
+    "tillsyn_kontroll",
+    "informera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27547:assignments:24"
+  },
+  {
+   "title": "Finansiering av tryck av boken @stoltjude: om judiskt liv i Sverige",
+   "group": [],
+   "text": "Statens skolverk ska efter rekvisition betala ut 1 000 000 kronor till Judiska Ungdomsförbundet i Sverige för finansiering av tryck av den senaste upplagan av boken @stoltjude: om judiskt liv i Sverige. Boken ska spridas kostnadsfritt till skolor. Medlen betalas ut engångsvis efter rekvisition till Skolverket senast den 30 oktober 2026. Outnyttjade medel ska återbetalas till Skolverket senast den 26 februari 2027. Uppdraget är i linje med regeringens strategi för att stärka judiskt liv och motverka antisemitism åren 2025–2034 (Ku2025/00578).\n\nFör uppdraget får Statens skolverk under 2026 använda högst 1 000 000 kronor som ska redovisas mot det inom utgiftsområde 1 Rikets styrelse för budgetåret 2026 uppförda anslaget 7:1*Åtgärder för nationella minoriteter*, anslagsposten 2 Åtgärder för att stärka judiskt liv. Medlen betalas ut engångsvis efter rekvisition till Kammarkollegiet senast den 1 december 2026. Medel som inte har använts för avsett ändamål ska återbetalas senast den 31 mars 2027 till Kammarkollegiet. Vid samma tidpunkt ska en ekonomisk redovisning av använda medel lämnas till Kammarkollegiet. Rekvisition, återbetalning och redovisning av medel ska hänvisa till regleringsbrevet för budgetåret 2026 avseende Statens skolverk.",
+   "dates": [
+    "2026-10-30",
+    "2026-12-01",
+    "2027-02-26",
+    "2027-03-31"
+   ],
+   "deadlines": [
+    "2026-10-30",
+    "2026-12-01",
+    "2027-02-26",
+    "2027-03-31"
+   ],
+   "recipients": [
+    "Kammarkollegiet"
+   ],
+   "partners": [
+    "Kammarkollegiet"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "fördela_medel"
+   ],
+   "anslag_refs": [
+    "7:1"
+   ],
+   "expenditure_area_refs": [
+    1
+   ],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27547:assignments:25"
+  },
+  {
+   "title": "Förbereda framtagande av yrkesprov",
+   "group": [],
+   "text": "Statens skolverk ska förbereda för införandet av yrkesprov i gymnasieskolan, anpassade gymnasieskolan och inom kommunal vuxenutbildning. Yrkesproven syftar till att förbättra elevernas möjligheter på arbetsmarknaden. Förberedelserna ska bedrivas utifrån förslagen i regeringens proposition Bättre förutsättningar för yrkesutbildning (prop. 2025/26:198) och ske i nära samverkan med berörda branscher. Skolverket ska löpande hålla Regeringskansliet (Utbildningsdepartementet) informerat om uppdraget.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "samordna",
+    "utveckla",
+    "informera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27547:assignments:26"
+  },
+  {
+   "title": "Uppdrag som har getts i tidigare regleringsbrev och som ändras i detta regleringsbrev",
+   "group": [],
+   "text": "",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27547:assignments:27"
+  },
+  {
+   "title": "Fortbildning och kompetensutveckling med anledning av införandet av en tioårig grundskola",
+   "group": [],
+   "text": "Uppdraget om fortbildning och kompetensutveckling med anledning av införandet av en tioårig grundskola ändras på så sätt att fortbildningen och kompetensutvecklingsinsatserna ska kunna erbjudas från och med höstterminen 2027. Uppdraget ändras vidare på så sätt att det också ska genomföras med utgångspunkt i propositionen En tioårig grundskola (prop. 2024/25:143 avsnitt 6.3). Uppdragstiden förlängs. Uppdraget ska redovisas till Regeringskansliet (Utbildningsdepartementet) senast den 17 september 2027.",
+   "dates": [
+    "2027-09-17"
+   ],
+   "deadlines": [
+    "2027-09-17"
+   ],
+   "recipients": [
+    "Regeringskansliet (Utbildningsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27547:assignments:28"
+  },
+  {
+   "title": "Drift och förvaltning för inloggning till provtjänst för digitala nationella prov",
+   "group": [],
+   "text": "Uppdraget om drift och förvaltning för inloggning till provtjänst för digitala nationella prov ändras på så sätt att uppdragstiden förlängs till den 30 juni 2028. Skolverket ska utreda hur den fortsatta driften och förvaltningen ska ske efter detta datum. Vidare ändras uppdraget på så sätt att det ska delredovisas till Regeringskansliet (Utbildningsdepartementet) senast den 1 oktober 2026 och 2027 och slutredovisas till Regeringskansliet (Utbildningsdepartementet) senast den 31 december 2028.",
+   "dates": [
+    "2026-10-01",
+    "2028-06-30",
+    "2028-12-31"
+   ],
+   "deadlines": [
+    "2026-10-01",
+    "2028-12-31"
+   ],
+   "recipients": [
+    "Regeringskansliet (Utbildningsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [
+    "delredovisning",
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27547:assignments:29"
+  },
+  {
+   "title": "Nationellt kartläggningsmaterial för svenska som andraspråk",
+   "group": [],
+   "text": "Uppdraget om att ta fram ett nationellt kartläggningsmaterial för svenska som andraspråk ändras på så sätt att kartläggningsmaterialet även ska kunna användas för beslut om när en elev i ämnet svenska som andraspråk ska läsa enligt kursplanen för grundläggande svenska, som kommer att börja gälla fr.o.m. höstterminen 2028, och när en elev ska övergå från denna kursplan till kursplanen för svenska som andraspråk. Uppdraget ändras även på så sätt att uppdragstiden förlängs. Uppdraget ska slutredovisas till Regeringskansliet (Utbildningsdepartementet) senast den 3 februari 2028.",
+   "dates": [
+    "2028-02-03"
+   ],
+   "deadlines": [
+    "2028-02-03"
+   ],
+   "recipients": [
+    "Regeringskansliet (Utbildningsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27547:assignments:30"
+  },
+  {
+   "title": "Kartläggning och stöd gällande arbetet med att hantera tillbud i skolverksamheter",
+   "group": [],
+   "text": "Uppdraget om kartläggning och stöd gällande arbetet med att hantera tillbud i skolverksamheter ändras på så sätt att det ska slutredovisas till Regeringskansliet (Utbildningsdepartementet och Arbetsmarknadsdepartementet) senast den 31 mars 2027.",
+   "dates": [
+    "2027-03-31"
+   ],
+   "deadlines": [
+    "2027-03-31"
+   ],
+   "recipients": [
+    "Regeringskansliet (Utbildningsdepartementet och Arbetsmarknadsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27547:assignments:31"
+  },
+  {
+   "title": "Uppdrag som har getts i tidigare regleringsbrev",
+   "group": [],
+   "text": "01. \\*Förbereda framtagande av standardiserade tester.\\*Uppdraget återges i regleringsbrevet för 2025.\n02. \\*Förbereda för ändringar i betygssystemet.\\*Uppdraget återges i regleringsbrevet för 2025.\n03. *Förbereda införandet av en tioårig grundskola*. Uppdraget återges i regleringsbrevet för 2025.\n04. *Demokratistärkande insatser för att motverka antisemitism och andra former av rasism*. Uppdraget återges i regleringsbrevet för 2024 och ska slutredovisas senast den 15 januari 2026.\n05. *Stödmaterial för att förebygga sexualbrott och andra grova brott*. Uppdraget återges i regleringsbrevet för 2025 och ska redovisas senast den 18 februari 2026.\n06. \\*Stödmaterial om hur personal kan agera i bl.a. akuta situationer.\\*Uppdraget återges i regleringsbrevet för 2025 och ska redovisas senast den 27 februari 2026.\n07. *Säkerställa proaktivitet och handlingskraft vid fredstida krissituationer eller vid krig och krigsfara*. Uppdraget återges i regleringsbrevet för 2025 och ska redovisas senast den 1 mars 2026.\n08. *Effektivare arbete för integration och minskat utanförskap*. Uppdraget återges i regleringsbrevet för 2024 och ska slutredovisas senast den 5 mars 2026.\n09. *Intresse och behörighet för STEM-utbildning*. Uppdraget återges i regleringsbrevet för 2024 och ändrades i regleringsbrevet för 2025. Uppdraget ska slutredovisas senast den 16 mars 2026.\n10. \\*Uppmärksamma 250-årsjubileet av judiskt liv i Sverige.\\*Uppdraget återges i regleringsbrevet för 2025 och ska redovisas senast den 31 mars 2026.\n11. *Stödmaterial för undervisning om psykisk hälsa*. Uppdraget återges i regleringsbrevet för 2025 och ska redovisas senast den 29 maj 2026.\n12. *Stöd för uppföljning av barns språkutveckling i förskolan*. Uppdraget återges i regleringsbrevet för 2025 och ska redovisas senast den 5 juni 2026.\n13. *Fortbildning för att stärka barns och elevers språk-, läs-, skriv- och matematikutveckling*. Uppdraget återges i regleringsbrevet för 2024 och ändrades i regleringsbrevet för 2025. Uppdraget ska slutredovisas senast den 30 juni 2026.\n14. *Arbete för att förebygga, upptäcka och åtgärda mäns våld mot kvinnor, inklusive våld i ungas relationer och hedersrelaterat våld och förtryck*. Uppdraget återges i regleringsbrevet för 2024 och ska slutredovisas senast den 1 december 2026.\n15. *Stärkta kunskaper i samiska*. Uppdraget återges i regleringsbrevet för 2025 och ska redovisas senast den 30 december 2026.\n16. *Drift och förvaltning för inloggning till provtjänst för digitala nationella prov*. Uppdraget återges i regleringsbrevet för 2024 och ska slutredovisas senast den 31 december 2026.\n17. *Tekniksprånget*. Uppdraget återges i regleringsbrevet för 2020 och ändrades i regleringsbrevet för 2024. Uppdraget ska redovisas årligen senast den 1 mars och slutredovisas senast den 1 mars 2027.\n18. *Språkträning för anställda inom välfärden*. Uppdraget återges i regleringsbrevet för 2023 och ändrades i regleringsbrevet för 2024. Uppdraget ska slutredovisas senast den 31 mars 2027.\n19. *Situationell brottsprevention i skolväsendet*. Uppdraget återges i regleringsbrevet för 2025. Den del av uppdraget som rör en nationell kartläggning och en internationell lägesbild ska redovisas senast den 29 maj 2026. Den del av uppdraget som rör ett kunskaps- och metodstöd ska delredovisas senast den 30 december 2026. Uppdraget ska slutredovisas senast den 30 juni 2027.\n20. \\*Utvärdering av statsbidrag för fortbildning av lärare och förskollärare.\\*Uppdraget återges i regleringsbrevet för 2023 och ska slutredovisas senast den 1 december 2027.\n21. *Statistik om skolbibliotek och lägesbeskrivning*. Uppdraget återges i regleringsbrevet för 2024. Den del av uppdraget som rör lägesbeskrivningen ska redovisas senast den 15 december 2026 och därefter senast den 17 december 2027.\n22. *Språksatsning i fritidshemmet*. Uppdraget återges i regleringsbrevet för 2025 och ska delredovisas senast den 13 april 2026 och slutredovisas senast den 20 december 2027.\n23. *Framtagande av läslistor*. Uppdraget återges i regleringsbrevet för 2024 och ändrades i regleringsbrevet för 2025. Uppdraget ska slutredovisas senast den 12 januari 2028.\n24. *Försöksverksamhet med språkstärkande insatser under skollov*. Uppdraget återges i regleringsbrevet för 2025 och ska delredovisas senast den 25 februari 2026 och 25 februari 2027 och slutredovisas senast den 25 februari 2028.",
+   "dates": [
+    "2026-01-15",
+    "2026-02-18",
+    "2026-02-25",
+    "2026-02-27",
+    "2026-03-01",
+    "2026-03-05",
+    "2026-03-16",
+    "2026-03-31",
+    "2026-04-13",
+    "2026-05-29",
+    "2026-06-05",
+    "2026-06-30",
+    "2026-12-01",
+    "2026-12-15",
+    "2026-12-30",
+    "2026-12-31",
+    "2027-02-25",
+    "2027-03-01",
+    "2027-03-31",
+    "2027-06-30",
+    "2027-12-01",
+    "2027-12-17",
+    "2027-12-20",
+    "2028-01-12",
+    "2028-02-25"
+   ],
+   "deadlines": [
+    "2026-01-15",
+    "2026-02-18",
+    "2026-02-25",
+    "2026-02-27",
+    "2026-03-01",
+    "2026-03-05",
+    "2026-03-16",
+    "2026-03-31",
+    "2026-04-13",
+    "2026-05-29",
+    "2026-06-05",
+    "2026-06-30",
+    "2026-12-01",
+    "2026-12-15",
+    "2026-12-30",
+    "2026-12-31",
+    "2027-03-01",
+    "2027-03-31",
+    "2027-06-30",
+    "2027-12-01",
+    "2027-12-17",
+    "2027-12-20",
+    "2028-01-12",
+    "2028-02-25"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "delredovisning",
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "fördela_medel",
+    "utveckla",
+    "statistik_data",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "\\*Förbereda framtagande av standardiserade tester.\\*Uppdraget återges i regleringsbrevet för 2025.",
+    "\\*Förbereda för ändringar i betygssystemet.\\*Uppdraget återges i regleringsbrevet för 2025.",
+    "*Förbereda införandet av en tioårig grundskola*. Uppdraget återges i regleringsbrevet för 2025.",
+    "*Demokratistärkande insatser för att motverka antisemitism och andra former av rasism*. Uppdraget återges i regleringsbrevet för 2024 och ska slutredovisas senast den 15 januari 2026.",
+    "*Stödmaterial för att förebygga sexualbrott och andra grova brott*. Uppdraget återges i regleringsbrevet för 2025 och ska redovisas senast den 18 februari 2026.",
+    "\\*Stödmaterial om hur personal kan agera i bl.a. akuta situationer.\\*Uppdraget återges i regleringsbrevet för 2025 och ska redovisas senast den 27 februari 2026.",
+    "*Säkerställa proaktivitet och handlingskraft vid fredstida krissituationer eller vid krig och krigsfara*. Uppdraget återges i regleringsbrevet för 2025 och ska redovisas senast den 1 mars 2026.",
+    "*Effektivare arbete för integration och minskat utanförskap*. Uppdraget återges i regleringsbrevet för 2024 och ska slutredovisas senast den 5 mars 2026.",
+    "*Intresse och behörighet för STEM-utbildning*. Uppdraget återges i regleringsbrevet för 2024 och ändrades i regleringsbrevet för 2025. Uppdraget ska slutredovisas senast den 16 mars 2026.",
+    "\\*Uppmärksamma 250-årsjubileet av judiskt liv i Sverige.\\*Uppdraget återges i regleringsbrevet för 2025 och ska redovisas senast den 31 mars 2026.",
+    "*Stödmaterial för undervisning om psykisk hälsa*. Uppdraget återges i regleringsbrevet för 2025 och ska redovisas senast den 29 maj 2026.",
+    "*Stöd för uppföljning av barns språkutveckling i förskolan*. Uppdraget återges i regleringsbrevet för 2025 och ska redovisas senast den 5 juni 2026.",
+    "*Fortbildning för att stärka barns och elevers språk-, läs-, skriv- och matematikutveckling*. Uppdraget återges i regleringsbrevet för 2024 och ändrades i regleringsbrevet för 2025. Uppdraget ska slutredovisas senast den 30 juni 2026.",
+    "*Arbete för att förebygga, upptäcka och åtgärda mäns våld mot kvinnor, inklusive våld i ungas relationer och hedersrelaterat våld och förtryck*. Uppdraget återges i regleringsbrevet för 2024 och ska slutredovisas senast den 1 december 2026.",
+    "*Stärkta kunskaper i samiska*. Uppdraget återges i regleringsbrevet för 2025 och ska redovisas senast den 30 december 2026.",
+    "*Drift och förvaltning för inloggning till provtjänst för digitala nationella prov*. Uppdraget återges i regleringsbrevet för 2024 och ska slutredovisas senast den 31 december 2026.",
+    "*Tekniksprånget*. Uppdraget återges i regleringsbrevet för 2020 och ändrades i regleringsbrevet för 2024. Uppdraget ska redovisas årligen senast den 1 mars och slutredovisas senast den 1 mars 2027.",
+    "*Språkträning för anställda inom välfärden*. Uppdraget återges i regleringsbrevet för 2023 och ändrades i regleringsbrevet för 2024. Uppdraget ska slutredovisas senast den 31 mars 2027.",
+    "*Situationell brottsprevention i skolväsendet*. Uppdraget återges i regleringsbrevet för 2025. Den del av uppdraget som rör en nationell kartläggning och en internationell lägesbild ska redovisas senast den 29 maj 2026. Den del av uppdraget som rör ett kunskaps- och metodstöd ska delredovisas senast den 30 december 2026. Uppdraget ska slutredovisas senast den 30 juni 2027.",
+    "\\*Utvärdering av statsbidrag för fortbildning av lärare och förskollärare.\\*Uppdraget återges i regleringsbrevet för 2023 och ska slutredovisas senast den 1 december 2027.",
+    "*Statistik om skolbibliotek och lägesbeskrivning*. Uppdraget återges i regleringsbrevet för 2024. Den del av uppdraget som rör lägesbeskrivningen ska redovisas senast den 15 december 2026 och därefter senast den 17 december 2027.",
+    "*Språksatsning i fritidshemmet*. Uppdraget återges i regleringsbrevet för 2025 och ska delredovisas senast den 13 april 2026 och slutredovisas senast den 20 december 2027.",
+    "*Framtagande av läslistor*. Uppdraget återges i regleringsbrevet för 2024 och ändrades i regleringsbrevet för 2025. Uppdraget ska slutredovisas senast den 12 januari 2028.",
+    "*Försöksverksamhet med språkstärkande insatser under skollov*. Uppdraget återges i regleringsbrevet för 2025 och ska delredovisas senast den 25 februari 2026 och 25 februari 2027 och slutredovisas senast den 25 februari 2028."
+   ],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27547:assignments:32"
+  },
+  {
+   "title": "Uppdrag som har getts tidigare i särskilda regeringsbeslut",
+   "group": [],
+   "text": "Se*bilaga 1*.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27547:assignments:33"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "1:1",
+   "name": "Statens skolverk",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 16,
+    "name": "Utbildning och universitetsforskning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Statens skolverk",
+     "amount_tkr": 1416011,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Statens skolverk (ram)",
+       "amount_tkr": 1416011
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Statens skolverk",
+     "text": "Anslagsposten får användas för Statens skolverks förvaltningsutgifter."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "1:5",
+   "name": "Utveckling av skolväsendet och annan pedagogisk verksamhet",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 16,
+    "name": "Utbildning och universitetsforskning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Statens skolverk",
+     "amount_tkr": 5633885,
+     "items": [
+      {
+       "ap": "3",
+       "name": "Till Statens skolverks disposition (ram)",
+       "amount_tkr": 5603885
+      },
+      {
+       "ap": "4",
+       "name": "Bidrag till vissa organisationer (ram)",
+       "amount_tkr": 30000
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "3",
+     "name": "Till Statens skolverks disposition",
+     "text": "Anslagsposten får användas för utvecklingsarbete, kompetensutveckling och internationella studier enligt nedan angivna villkor.\n**Villkor som avser uppdrag givna i särskild ordning**\nI enlighet med regeringsbeslut den 27 februari 2014 (U2014/01602 m.fl.) ska Statens skolverk betala ut 3 300 000 kronor till Linköpings universitet för uppdraget att stödja skolutvecklingen inom de naturvetenskapliga ämnena och teknik samt svara för en samordning av de verksamheter som bedrivs vid de nationella resurscentrumen i biologi, fysik respektive kemi vid Uppsala universitet, Lunds universitet respektive Stockholms universitet samt vid det egna resurscentrumet i teknik.\nHögst 100 500 000 kronor ska användas för utgifter med anledning av Statens skolverks uppdrag att genomföra riktade insatser för högre kunskapsresultat och ökad måluppfyllelse (U2024/01164). Medlen får även användas för att slutföra samverkansperioden för huvudmän i redan beslutade urvalsomgångar inom ramen för uppdraget att genomföra insatser för att stärka utbildningens kvalitet för barn och elever som är nyanlända eller har annat modersmål än svenska (U2019/03787) och uppdraget om samverkan för bästa skola (U2019/03786).\n**Villkor som avser uppdrag givna i regleringsbrev**\nStatens skolverk ska betala ut 18 000 000 kronor till Kungl. Ingenjörsvetenskapsakademien (IVA) för utgifter med anledning av uppdraget att fortsatt genomföra Tekniksprånget.\nHögst 12 000 000 kronor ska användas för utgifter med anledning av uppdraget om språksatsning i fritidshemmet.\nHögst 4 000 000 kronor ska användas för utgifter med anledning av den del av uppdraget om fortbildning och kompetensutveckling med anledning av införandet av en tioårig grundskola som avser framtagande av andra kompetensutvecklingsinsatser.\nHögst 2 000 000 kronor ska användas för utgifter med anledning av uppdraget om reviderat kartläggningsmaterial för nyanlända elever.\nHögst 30 000 000 kronor ska användas för utgifter med anledning av den del av uppdraget om språkfrukost i skolan som avser utbetalning av bidrag. Statens skolverk ska efter ansökan betala ut högst 30 000 000 kronor till de kommuner eller enskilda huvudmän som ansvarar för någon av de 500 skolenheter som har de svåraste socioekonomiska förutsättningarna, för att vid dessa skolenheter erbjuda språkfrukost i förskoleklass och årskurs 1–3 i grundskolan. Vid fördelningen av bidraget ska skolenheter med de svåraste socioekonomiska förutsättningarna prioriteras. Bidrag får lämnas med högst 7 500 kronor för varje elev som erbjuds att delta i verksamheten. Statens skolverk ska följa upp hur statsbidraget har använts.\nHögst 10 000 000 kronor ska användas för utgifter med anledning av uppdraget om kompetenshöjande insatser inom STEM.\n**Villkor som avser förordningar**\nStatens skolverk ska använda högst 482 000 000 kronor för utgifter i enlighet med 3 § förordningen (2011:947) om statsbidrag för gymnasial lärlingsutbildning och lärlingsliknande utbildning inom introduktionsprogram. För första halvåret 2026, för ansökan avseende vårterminen 2026, ska Skolverket besluta om högst 241 000 000 kronor. För andra halvåret 2026, för ansökan avseende höstterminen 2026, ska Skolverket besluta om högst 241 000 000 kronor.\nHögst 89 200 000 kronor ska användas för utgifter i enlighet med förordningen (2014:854) om vidareutbildning i form av ett fjärde tekniskt år och statsbidrag för sådan utbildning.\nHögst 25 500 000 kronor ska användas för utgifter i enlighet med förordningen (1997:153) om statsbidrag till teknik- och naturvetenskapscentrum.\nHögst 282 300 000 kronor ska användas för utgifter i enlighet med förordningen (2014:144) om statsbidrag för hjälp med läxor eller annat skolarbete utanför ordinarie undervisningstid. Av dessa medel får högst 80 500 000 kronor fördelas till huvudmän för gymnasieskolan.\nHögst 112 000 000 kronor ska användas för utgifter i enlighet med förordningen (2014:47) om statsbidrag för undervisning under skollov.\nHögst 96 100 000 kronor ska användas för utgifter för befattningsutbildning i enlighet med förordningen (2011:183) om befattningsutbildning och fortbildning för rektorer och annan personal med motsvarande ledningsfunktion i skola, förskola och fritidshem.\nHögst 570 000 000 kronor ska användas för utgifter i enlighet med förordningen (2021:316) om statsbidrag till huvudmän för förskoleklasser och grundskolor med socioekonomiska utmaningar.\nHögst 555 000 000 kronor ska användas för utgifter i enlighet med förordningen (2023:86) om statsbidrag för inköp av läroböcker och lärarhandledningar.\nHögst 150 000 000 kronor ska användas för utgifter i enlighet med förordningen (2024:1340) om statsbidrag för personalkostnader i akutskolor.\nHögst 1 350 000 000 kronor ska användas för utgifter i enlighet med förordningen (2024:1341) om statsbidrag för personalförstärkning. Utöver dessa medel ska högst 200 000 000 kronor användas för utgifter i enlighet med 5 § nämnda förordning.\nHögst 200 000 000 kronor ska användas för utgifter i enlighet med förordningen (2023:179) om statsbidrag för personalkostnader för skolsociala team.\nHögst 45 000 000 kronor ska användas för utgifter i enlighet med förordningen (2011:355) om försöksverksamhet med riksrekryterande spetsutbildning i grundskolans högre årskurser och statsbidrag för sådan utbildning, förordningen (2008:793) om försöksverksamhet med riksrekryterande gymnasial spetsutbildning och statsbidrag för sådan utbildning, förordningen (2024:675) om riksrekryterande spetsutbildning i högstadiet i grundskolan och statsbidrag för sådan utbildning och förordningen (2024:677) om statsbidrag för riksrekryterande spetsutbildning i matematik eller naturvetenskapliga, teknikvetenskapliga, samhällsvetenskapliga eller humanistiska ämnen i gymnasieskolan.\nHögst 40 000 000 kronor ska användas för utgifter i enlighet med förordningen (2023:889) om statsbidrag för införande av ämnesbetyg.\nHögst 550 000 000 kronor ska användas för utgifter i enlighet med förordningen (2024:62) om statsbidrag för inköp av litteratur.\nHögst 25 000 000 kronor ska användas för utgifter i enlighet med förordningen (2011:192) om statsbidrag för entreprenörskap i skolan och för upphandling av tjänster för att stödja entreprenörskap inom skolväsendet.\nHögst 100 000 000 kronor ska användas för utgifter med anledning av uppdraget om försöksverksamhet med språkstärkande insatser under skollov. I detta ingår att fördela medel enligt förordningen (2025:49) om statsbidrag för försöksverksamhet med språkstärkande insatser under skollov.\nHögst 400 000 000 kronor ska användas för utgifter i enlighet med förordningen (2025:718) om statsbidrag till säkerhetshöjande åtgärder i skolväsendet.\nHögst 12 000 000 kronor ska användas för utgifter i enlighet med förordningen (2025:359) om statsbidrag för fjärrundervisning i nationella minoritetsspråk.\nHögst 2 000 000 kronor ska användas för utgifter i enlighet med förordningen (2011:398) om särskild utbildning med judiska studier i grundskolan och statsbidrag för sådan utbildning.\nHögst 10 000 000 kronor ska användas för utgifter i enlighet med förordningen (2026:1751) om statsbidrag för undervisning på entreprenad inom små och dyra yrkesområden.\n**Övriga villkor**\nHögst 10 000 000 kronor ska användas för elevers deltagande i och för anordnande av vetenskapstävlingar. Fördelningen av medlen ska prioriteras så att vetenskapsolympiader och andra internationella vetenskapstävlingar tilldelas medel i första hand och nationella vetenskapstävlingar och kvalificeringstävlingar i andra hand. Medlen ska fördelas med en rimlighet i förhållandet mellan aktiviteterna och kostnaderna i ansökan.\nMedel under anslagsposten får användas för stipendier till islänningar för yrkesutbildning i Sverige.\nHögst 100 000 kronor ska användas för utgifter i samband med Europeisk språkutmärkelse (European Language Label).\nStatens skolverk ska betala ut 500 000 kronor till vardera Stockholms universitet och Lunds universitet för verksamheterna med nationellt resurscentrum i kemi respektive fysik.\nStatens skolverk ska betala ut 1 700 000 kronor till Göteborgs universitet för verksamheten Nationellt centrum för matematikutbildning i syfte att stimulera den ämnesdidaktiska forskningen inom matematik och sprida dess resultat.\nStatens skolverk ska efter rekvisition betala ut 2 000 000 kronor till Stiftelsen Allmänna Barnhuset för att vidareutveckla och sprida Skolfam och Förfam. Det inkluderar bl.a. att fortsätta den nationella samordningen och utvecklingen av Skolfam, sprida Skolfam ytterligare regionalt och kommunalt, initiera nationell samordning av Förfam och utveckla en manual för Förfam. Skolverket ska redovisa användningen av medlen. Outnyttjade medel ska återbetalas till Skolverket senast den 30 mars 2027.\nStatens skolverk ska efter ansökan betala ut högst 88 000 000 kronor till sådana enskilda mindre huvudmän som avses i förslaget till ny lydelse av 29 kap. 15 § skollagen (2010:800) i regeringens proposition Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet (prop. 2025/26:191). Medlen syftar till att underlätta mindre huvudmäns förberedelser för att hantera de uppgifter som offentlighetsprincipen för med sig. Medlen ska fördelas bland de huvudmän som uppfyller kriterierna enligt förslaget ovan med samma belopp till varje huvudman. Detta villkor gäller med förbehåll för riksdagens beslut med anledning av propositionen.\nStatens skolverk ska efter rekvisition betala ut högst 30 000 000 kronor till kommuner eller enskilda huvudmän inom skolväsendet för insatser som syftar till att elever i skolor med socioekonomiska utmaningar ska knyta kontakt med arbetslivet. De huvudmän som avses är de som har minst en sådan skolenhet i grundskolan som avses i 17 § förordningen (2019:1288) om statsbidrag till skolhuvudmän som inrättar karriärsteg för lärare med elever i högstadiet. Om rekvisitionerna uppgår till mer än tillgängligt belopp ska beloppet minskas proportionerligt."
+    },
+    {
+     "ap": "4",
+     "name": "Bidrag till vissa organisationer",
+     "text": "Statens skolverk ska betala ut 15 000 000 kronor av medlen under anslagsposten till WorldSkills Sweden för arbetet med att höja yrkesutbildningens kvalitet och attraktionskraft.\nStatens skolverk ska efter rekvisition betala ut 3 500 000 kronor till NTA Skolutveckling ekonomisk förening för arbetet med skolutvecklingsprogrammet Naturvetenskap och teknik för alla. Skolverket ska redovisa användningen av medlen. Outnyttjade medel ska återbetalas till Skolverket senast den 30 mars 2027.\nStatens skolverk ska betala ut 700 000 kronor till ämneslärarorganisationer.\nÖvriga medel ska användas för\n- bidrag till elevorganisationer i form av verksamhetsstöd,\n- bidrag till föräldraorganisationer,\n- Sveriges anslutning till Europeiskt centrum för moderna språk i Graz,\n- förberedelsearbete när det gäller uppfinnartävlingen Årets unga innovatör för elever i årskurserna 6\\*–\\*9, och\n- stöd till Dyslexiförbundet för verksamheten vid Skrivknuten i Stockholm."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "3",
+     "max": 100500000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "3",
+     "max": 12000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "3",
+     "max": 4000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "3",
+     "max": 2000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "3",
+     "max": 30000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "3",
+     "max": 30000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "3",
+     "max": 7500,
+     "unit": "kronor"
+    },
+    {
+     "ap": "3",
+     "max": 10000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "3",
+     "max": 482000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "3",
+     "max": 241000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "3",
+     "max": 241000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "3",
+     "max": 89200000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "3",
+     "max": 25500000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "3",
+     "max": 282300000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "3",
+     "max": 80500000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "3",
+     "max": 112000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "3",
+     "max": 96100000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "3",
+     "max": 570000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "3",
+     "max": 555000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "3",
+     "max": 150000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "3",
+     "max": 1350000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "3",
+     "max": 200000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "3",
+     "max": 200000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "3",
+     "max": 45000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "3",
+     "max": 40000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "3",
+     "max": 550000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "3",
+     "max": 25000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "3",
+     "max": 100000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "3",
+     "max": 400000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "3",
+     "max": 12000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "3",
+     "max": 2000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "3",
+     "max": 10000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "3",
+     "max": 10000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "3",
+     "max": 100000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "3",
+     "max": 88000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "3",
+     "max": 30000000,
+     "unit": "kronor"
+    }
+   ]
+  },
+  {
+   "code": "1:6",
+   "name": "Statligt stöd till särskild utbildning i gymnasieskolan",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 16,
+    "name": "Utbildning och universitetsforskning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Statens skolverk",
+     "amount_tkr": 222771,
+     "items": [
+      {
+       "ap": "2",
+       "name": "Särskilda bidrag för riksrekryterande gymnasial utbildning för elever med funktionsnedsättning (ram)",
+       "amount_tkr": 222771
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "2",
+     "name": "Särskilda bidrag för riksrekryterande gymnasial utbildning för elever med funktionsnedsättning",
+     "text": "Medel under anslagsposten ska användas för ett elevbaserat tilläggsbidrag till Göteborgs, Kristianstads, Stockholms och Umeå kommuner för utbildning i gymnasieskolan för svårt rörelsehindrade elever. Antalet elevplatser och tilläggsbidraget för respektive kommun 2026 anges nedan. Medlen ska utbetalas till respektive kommun under februari och november 2026 med hälften av bidraget vid varje tillfälle.\nMedlen ska vidare användas för ersättning till Örebro kommun enligt\n- 6 § avtalet mellan staten och Örebro kommun om gymnasial utbildning i Örebro för döva och hörselskadade samt dövblinda ungdomar från hela landet, där elevantalet uppgår till 258 elever och totalt verksamhetsstöd till 107 500 000 kronor för 2026,\n- 8 § nämnda avtal, där medel för särskilda stödinsatser för vårterminen 2026 ska uppgå till 1 454 855 kronor,\n- 9 § nämnda avtal, och\n- 6 § avtalet mellan staten och Örebro kommun om utbildning vid den riksrekryterande anpassade gymnasieskolan för elever med dövhet och hörselskada. Utbetalning ska ske enligt vad som framgår av avtalen.\nTill Örebro kommun ska även 10 000 000 kronor betalas för tillfälligt utökat statsbidrag till den riksrekryterande anpassade gymnasieskolan för elever med dövhet och hörselskada.\nFrån anslagsposten ska även betalas ersättning till Region Sörmland enligt avtal mellan staten och Region Sörmland om utbildning för barn och ungdomar med intellektuell funktionsnedsättning från hela landet. Utbetalning ska ske enligt vad som framgår av avtalet."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "1:7",
+   "name": "Maxtaxa i förskola, fritidshem och annan pedagogisk verksamhet samt kvalitetshöjande åtgärder inom förskola",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 16,
+    "name": "Utbildning och universitetsforskning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Statens skolverk",
+     "amount_tkr": 5760000,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Maxtaxa i förskola, fritidshem och annan pedagogisk verksamhet (ram)",
+       "amount_tkr": 2595000
+      },
+      {
+       "ap": "2",
+       "name": "Omsorg under tid då förskola eller fritidshem inte erbjuds (ram)",
+       "amount_tkr": 79000
+      },
+      {
+       "ap": "4",
+       "name": "Kvalitetshöjande åtgärder inom förskolan (ram)",
+       "amount_tkr": 3086000
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Maxtaxa i förskola, fritidshem och annan pedagogisk verksamhet",
+     "text": "Högst 1 595 000 000 kronor ska användas för utgifter i enlighet med förordningen (2001:160) om statsbidrag till kommuner som tillämpar maxtaxa inom förskolan och fritidshemmet. Utöver dessa medel ska högst 1 000 000 000 kronor användas under det andra kalenderhalvåret för utgifter i enlighet med förordningen."
+    },
+    {
+     "ap": "2",
+     "name": "Omsorg under tid då förskola eller fritidshem inte erbjuds",
+     "text": "Anslagsposten ska användas för utgifter i enlighet med förordningen (2012:994) om statsbidrag för omsorg under tid då förskola eller fritidshem inte erbjuds."
+    },
+    {
+     "ap": "4",
+     "name": "Kvalitetshöjande åtgärder inom förskolan",
+     "text": "Anslagsposten ska användas för utgifter i enlighet med förordningen (2021:848) om statsbidrag för kvalitetshöjande åtgärder inom förskolan."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "1",
+     "max": 1595000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "1",
+     "max": 1000000000,
+     "unit": "kronor"
+    }
+   ]
+  },
+  {
+   "code": "1:8",
+   "name": "Bidrag till viss verksamhet inom skolväsendet, m.m.",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 16,
+    "name": "Utbildning och universitetsforskning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Statens skolverk",
+     "amount_tkr": 206720,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Särskilt verksamhetsstöd till vissa utbildningar (ram)",
+       "amount_tkr": 30462
+      },
+      {
+       "ap": "2",
+       "name": "Statsbidrag för vissa gymnasieutbildningar m.m. (ram)",
+       "amount_tkr": 126258
+      },
+      {
+       "ap": "3",
+       "name": "Skolgång för barn som vistas i landet utan tillstånd (ram)",
+       "amount_tkr": 50000
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Särskilt verksamhetsstöd till vissa utbildningar",
+     "text": "Statens skolverk ska efter rekvisition göra nedanstående utbetalningar av särskilt verksamhetsstöd för utbildningar med särskild inriktning under månaderna februari och september 2026, med hälften av bidraget vid varje tillfälle:\n- 404 000 kronor till Mjölby kommun för utbildning i guldsmedsteknik, och\n- 3 200 000 kronor till Nybro kommun för utbildning i glasblåsning.\nStatsbidrag ska lämnas enligt förordningen (2011:7) om dansarutbildning samt enligt avtal mellan staten och Göteborgs och Stockholms kommuner om anordnande av förberedande dansarutbildning och yrkesdansarutbildning med följande belopp:\n- 5 376 000 kronor till Göteborgs kommun för förberedande dansarutbildning,\n- 5 376 000 kronor till Stockholms kommun för förberedande dansarutbildning, och\n- 12 681 000 kronor till Stockholms kommun för yrkesdansarutbildning. Utbetalningarna ska ske i februari 2026.\nStatsbidrag ska lämnas enligt förordningen om dansarutbildning samt enligt avtal mellan staten och Stockholms kommun för internatboende för elever på dansarutbildning med högst 3 425 000 kronor. Utbetalningarna ska ske i februari 2026 efter rekvisition."
+    },
+    {
+     "ap": "2",
+     "name": "Statsbidrag för vissa gymnasieutbildningar m.m.",
+     "text": "Anslagsposten ska användas till kostnader för Sveriges anslutning till examensorganisationen International Baccalaureate Office (IBO) i Genève enligt förordningen (1993:795) om statsbidrag till avgifter till International Baccalaureate Office.\nAnslagsposten ska användas till kostnader för statsbidrag enligt 16 § förordningen (SKOLFS 2002:7) om internationell gymnasial utbildning i Stockholm och Göteborg samt vid Sigtunaskolan Humanistiska Läroverket i Sigtuna för bidragsåret 2026.\nAnslagsposten ska användas till kostnader för statsbidrag till kommuner, regioner eller enskilda huvudmän för elever från nordiska länder enligt 12 kap. 8–10 §§ gymnasieförordningen (2010:2039) och 7 kap. 6–8 §§ förordningen (2011:1108) om vuxenutbildning. För elever i gymnasieskolan ersätts huvudmännen med det belopp per elev, program och i förekommande fall inriktning som myndigheten har föreskrivit med stöd av 13 kap. 9 § gymnasieförordningen (riksprislistan). För särskilda varianter gäller dock det belopp som har beslutats för utbildningen enligt 5 kap. 11 § gymnasieförordningen och för riksrekryterande utbildningar, utom riksrekryterande idrottsutbildningar, det belopp som har beslutats enligt 5 kap. 18 § samma förordning. För utbildning som leder fram till International Baccalaureate gäller det belopp som myndigheten har föreskrivit för naturvetenskapsprogrammet i riksprislistan. Ersättning får dock lämnas med högst det belopp som tas ut vid interkommunal ersättning. För bidrag till kommun och region ska de belopp som har föreskrivits i riksprislistan reduceras med den ersättning för ingående mervärdesskatt som ingår i beloppen. För yrkesdansarutbildning enligt förordningen om dansarutbildning ska det belopp som avses i 12 kap. 8–10 §§ gymnasieförordningen motsvara anordnarens självkostnad. För elever i kommunal vuxenutbildning ersätts kommunen eller regionen med 53 400 kronor per 800 verksamhetspoäng.\nNär det gäller ersättning enligt förordningen (SKOLFS 1991:47) om ersättning vid personskada till elev i viss utbildning i gymnasieskolan eller anpassade gymnasieskolan utbetalas medlen av Statens skolverk till Kammarkollegiet efter faktura.\nFör statsbidrag enligt förordningen (2015:736) om statsbidrag till kostnader för utbildning i Sverige för utlandssvenska elever ska beloppet som avses i 7 § nämnda förordning för bidragsåret 2026 utgöra 42 400 kronor per termin och elev. Anslagsposten ska även användas till kostnader för statsbidrag enligt 8 § nämnda förordning.\nStatsbidrag ska lämnas enligt förordningen (2011:538) om utbildning och statsbidrag för vissa barn och ungdomar som inte är folkbokförda i Sverige."
+    },
+    {
+     "ap": "3",
+     "name": "Skolgång för barn som vistas i landet utan tillstånd",
+     "text": "Högst 50 000 000 kronor ska användas för utgifter i enlighet med förordningen (2013:361) om statsbidrag för utbildning för barn som vistas i landet utan tillstånd."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "1",
+     "max": 3425000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "3",
+     "max": 50000000,
+     "unit": "kronor"
+    }
+   ]
+  },
+  {
+   "code": "1:9",
+   "name": "Bidrag till svensk undervisning i utlandet",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 16,
+    "name": "Utbildning och universitetsforskning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Statens skolverk",
+     "amount_tkr": 130582,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Elev- och lokalkostnadsbidrag vid svensk undervisning i utlandet (ram)",
+       "amount_tkr": 130582
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Elev- och lokalkostnadsbidrag vid svensk undervisning i utlandet",
+     "text": "Bidrag betalas ut enligt förordningen (1994:519) om statsbidrag till utbildning av utlandssvenska barn och ungdomar.\nBidrag lämnas för undervisning i svenska och om Sverige vid Lycée International i Saint Germain-en-Laye i Frankrike enligt regeringsbeslut den 8 juni 1995 (U1995/02060). Beloppet som avses under punkten 2 i regeringsbeslutet ska för bidragsåret 2026 utgöra 19 020 kronor per elev.\nBidrag lämnas för undervisning i svenska och om Sverige vid United Nations International School of Hanoi i Vietnam enligt regeringsbeslut den 4 december 2003 (U2003/01402). Beloppet som avses i regeringsbeslutet ska för bidragsåret 2026 utgöra 19 020 kronor per elev.\nBidrag lämnas för undervisning i svenska och om Sverige vid den svenska sektionen vid Dubai International Academy i Förenade Arabemiraten enligt regeringsbeslut den 17 november 2011 (U2011/03012). Beloppet som avses i regeringsbeslutet ska för bidragsåret 2026 utgöra 19 020 kronor per elev.\nBidrag lämnas för undervisning i svenska och om Sverige vid den svenska sektionen vid QSI International School of Papa i Ungern enligt regeringsbeslut den 28 juni 2012 (U2012/01746). Beloppet som avses i regeringsbeslutet ska för bidragsåret 2026 utgöra 19 020 kronor per elev.\nBidrag lämnas enligt förordningen (SKOLFS 1998:30) om statsbidrag till svensk undervisning vid International School of Geneva och American School of Warszaw. Beloppet som avses i 7 § förordningen ska för bidragsåret 2026 utgöra 19 020 kronor per elev.\nEnligt överenskommelsen den 27 juni 1996 mellan Norge och Sverige om samarbete på utlandsundervisningens område ska en ekonomisk avräkning mellan länderna ske efter varje läsårs slut. Denna ersättning ska tillföras respektive betalas ut från denna anslagspost av Statens skolverk.\nStatsbidraget för svenska elever i finländska utlandsskolor enligt överenskommelsen den 19 februari 2014 mellan Sverige och Finland om samarbete på utlandsundervisningens område ska betalas ut från denna anslagspost av Statens skolverk.\nMedel ska efter rekvisition betalas till Riksföreningen Sverigekontakt för att stödja svenskundervisning på Island.\n**Ersättning till distansinstitut**\nBidrag ska betalas ut till distansinstitut för undervisning enligt avtal mellan Statens skolverk och berörda parter.\n**Europaskolorna**\nMedel under anslagsposten ska användas för lönekostnader m.m. till personal som är anställd av Statens skolverk vid Europaskolorna.\n**Utvecklingsinsatser**\nAv medlen under anslagsposten får högst 1 000 000 kronor användas för Statens skolverks utvecklingsinsatser för svensk undervisning i utlandet.\nMyndigheten ska redovisa de insatser som har genomförts."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "1",
+     "max": 1000000,
+     "unit": "kronor"
+    }
+   ]
+  },
+  {
+   "code": "1:10",
+   "name": "Fortbildning av lärare och förskolepersonal",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 16,
+    "name": "Utbildning och universitetsforskning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Statens skolverk",
+     "amount_tkr": 1109526,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Fortbildning av lärare, rektorer och viss annan personal (ram)",
+       "amount_tkr": 1109526
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Fortbildning av lärare, rektorer och viss annan personal",
+     "text": "Statens skolverk ska använda högst 20 000 000 kronor för utgifter för fortbildning i enlighet med förordningen (2011:183) om befattningsutbildning och fortbildning för rektorer och annan personal med motsvarande ledningsfunktion i skola, förskola och fritidshem. Fortbildningsinsatserna som erbjuds ska spegla rektorers behov av kontinuerlig fortbildning och utveckling av sin yrkesskicklighet under hela yrkeskarriären samt täcka ett behov av specifika fortbildningar för rektorer inom olika delar av skolväsendet. Medlen ska även användas för utgifter för fortbildningsinsatser som inte anges i ovan nämnda förordning för rektorer och annan personal med motsvarande ledningsfunktion.\nHögst 2 000 000 kronor ska användas för utgifter med anledning av uppdraget om stärkta kunskaper i samiska.\nHögst 220 000 000 kronor ska användas för utgifter för kompetensutveckling för rektorer, lärare och förskollärare med anledning av Skolverkets ansvar för det nationella professionsprogrammet för rektorer, lärare och förskollärare.\nHögst 25 000 000 kronor ska användas för utgifter i enlighet med förordningen (2021:237) om statsbidrag för främjande av forskning och utvecklingsarbete i skolväsendet.\nHögst 792 500 000 kronor ska användas för utgifter för uppdragsutbildning och för statsbidrag i enlighet med förordningen (2023:144) om statsbidrag för fortbildning av lärare och förskollärare.\nHögst 50 000 000 kronor ska användas för utgifter med anledning av uppdraget om fortbildning för att stärka barns och elevers språk-, läs-, skriv- och matematikutveckling."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "1",
+     "max": 20000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "1",
+     "max": 2000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "1",
+     "max": 220000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "1",
+     "max": 25000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "1",
+     "max": 792500000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "1",
+     "max": 50000000,
+     "unit": "kronor"
+    }
+   ]
+  },
+  {
+   "code": "1:13",
+   "name": "Bidrag till lärarlöner",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 16,
+    "name": "Utbildning och universitetsforskning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Statens skolverk",
+     "amount_tkr": 4875000,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Bidrag till lärarlöner (ram)",
+       "amount_tkr": 4875000
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Bidrag till lärarlöner",
+     "text": "Statens skolverk ska använda högst 3 000 000 000 kronor för utgifter i enlighet med förordningen (2016:100) om statsbidrag för höjda löner till lärare och förskollärare.\nHögst 1 852 000 000 kronor ska användas för utgifter i enlighet med förordningen (2019:1288) om statsbidrag till skolhuvudmän som inrättar karriärsteg för lärare. Av dessa medel ska högst 410 000 000 kronor användas för bidrag till huvudmän med skolenheter som har särskilt svåra förutsättningar.\nHögst 23 000 000 kronor ska användas för medel till utbildningsbidrag enligt förordningen (2016:706) om utbildningsbidrag för kompletterande pedagogisk utbildning som leder till ämneslärarexamen för personer som har en examen på forskarnivå. Statens skolverk ska efter rekvisition från Stockholms universitet betala ut medel till de anordnande lärosätena. Rekvisition av medel för de studenter som deltar i utbildningen under våren 2026 ska lämnas senast den 3 april 2026. Skolverkets beslut ska omfatta hela året. Utbetalning av medel ska göras senast i april 2026 respektive september 2026. Outnyttjade medel ska återbetalas till Skolverket senast den 2 februari 2027."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "1",
+     "max": 3000000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "1",
+     "max": 1852000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "1",
+     "max": 410000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "1",
+     "max": 23000000,
+     "unit": "kronor"
+    }
+   ]
+  },
+  {
+   "code": "1:15",
+   "name": "Statligt stöd för stärkt kunskapsutveckling",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 16,
+    "name": "Utbildning och universitetsforskning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Statens skolverk",
+     "amount_tkr": 9364600,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Statligt stöd för stärkt kunskapsutveckling (ram)",
+       "amount_tkr": 9364600
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Statligt stöd för stärkt kunskapsutveckling",
+     "text": "Statens skolverk ska använda anslagsposten för utgifter i enlighet med förordningen (2018:49) om statsbidrag för stärkt kunskapsutveckling."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "1:17",
+   "name": "Statligt stöd till vuxenutbildning",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 16,
+    "name": "Utbildning och universitetsforskning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Statens skolverk",
+     "amount_tkr": 3562422,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Yrkesinriktad vuxenutbildning (ram)",
+       "amount_tkr": 3472422
+      },
+      {
+       "ap": "2",
+       "name": "Lärcentrum och vissa andra stöd till vuxenutbildning (ram)",
+       "amount_tkr": 90000
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Yrkesinriktad vuxenutbildning",
+     "text": "Statens skolverk ska använda högst 3 347 422 000 kronor för utgifter i enlighet med förordningen (2016:937) om statsbidrag för regional yrkesinriktad vuxenutbildning.\nHögst 125 000 000 kronor ska användas för utgifter i enlighet med förordningen (2023:603) om statsbidrag för yrkesinriktad vuxenutbildning vid företagsetableringar, företagsexpansioner, företagsnedläggningar och företagsneddragningar."
+    },
+    {
+     "ap": "2",
+     "name": "Lärcentrum och vissa andra stöd till vuxenutbildning",
+     "text": "Högst 50 000 000 kronor ska användas för bidrag för lärcentrum i enlighet med förordningen (2017:1303) om statsbidrag för lärcentrum.\nHögst 40 000 000 kronor ska användas för att möjliggöra språkträning för anställda inom välfärden."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "1",
+     "max": 3347422000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "1",
+     "max": 125000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "2",
+     "max": 50000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "2",
+     "max": 40000000,
+     "unit": "kronor"
+    }
+   ]
+  },
+  {
+   "code": "1:19",
+   "name": "Statligt stöd till yrkeshögskoleutbildning",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 16,
+    "name": "Utbildning och universitetsforskning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Statens skolverk",
+     "amount_tkr": 10600,
+     "items": [
+      {
+       "ap": "2",
+       "name": "Särskilt verksamhetsstöd för vissa utbildningar (ram)",
+       "amount_tkr": 10600
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "2",
+     "name": "Särskilt verksamhetsstöd för vissa utbildningar",
+     "text": "Statens skolverk ska, utan rekvisition, göra följande utbetalningar för utbildningar med särskild inriktning.\n600 000 kronor ska betalas ut till Svenska Hemslöjdsföreningarnas Riksförbund för dess riksomfattande kursverksamhet. Bidraget betalas ut under mars och oktober 2026 med hälften av bidraget vid varje tillfälle.\n10 000 000 kronor ska betalas ut till Samernas Utbildningscentrum i Jokkmokk som bidrag för utbildningsverksamheten. Bidraget ska betalas ut under januari 2026."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "1:1 Statens skolverk",
+   "ap": "ap.1",
+   "Anslagskredit": 42180,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:5 Utveckling av skolväsendet och annan pedagogisk verksamhet",
+   "ap": "ap.3",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:5 Utveckling av skolväsendet och annan pedagogisk verksamhet",
+   "ap": "ap.4",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:6 Statligt stöd till särskild utbildning i gymnasieskolan",
+   "ap": "ap.2",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:7 Maxtaxa i förskola, fritidshem och annan pedagogisk verksamhet samt kvalitetshöjande åtgärder inom förskola",
+   "ap": "ap.1",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:7 Maxtaxa i förskola, fritidshem och annan pedagogisk verksamhet samt kvalitetshöjande åtgärder inom förskola",
+   "ap": "ap.2",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:7 Maxtaxa i förskola, fritidshem och annan pedagogisk verksamhet samt kvalitetshöjande åtgärder inom förskola",
+   "ap": "ap.4",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:8 Bidrag till viss verksamhet inom skolväsendet, m.m.",
+   "ap": "ap.1",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:8 Bidrag till viss verksamhet inom skolväsendet, m.m.",
+   "ap": "ap.2",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:8 Bidrag till viss verksamhet inom skolväsendet, m.m.",
+   "ap": "ap.3",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:9 Bidrag till svensk undervisning i utlandet",
+   "ap": "ap.1",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:10 Fortbildning av lärare och förskolepersonal",
+   "ap": "ap.1",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:13 Bidrag till lärarlöner",
+   "ap": "ap.1",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:15 Statligt stöd för stärkt kunskapsutveckling",
+   "ap": "ap.1",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:17 Statligt stöd till vuxenutbildning",
+   "ap": "ap.1",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:17 Statligt stöd till vuxenutbildning",
+   "ap": "ap.2",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:19 Statligt stöd till yrkeshögskoleutbildning",
+   "ap": "ap.2",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 140000,
+  "Räntekontokredit": 46500
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 117168
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 117168
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 117168
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 117168
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 117168
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 118597
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 118597
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 118597
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 118597
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 118597
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 118597
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 118589
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:1 Statens skolverk",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "42 180",
+     "3 %",
+     "0"
+    ],
+    [
+     "1:5 Utveckling av skolväsendet och annan pedagogisk verksamhet",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.3",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.4",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "1:6 Statligt stöd till särskild utbildning i gymnasieskolan",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.2",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "1:7 Maxtaxa i förskola, fritidshem och annan pedagogisk verksamhet samt kvalitetshöjande åtgärder inom förskola",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.2",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.4",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "1:8 Bidrag till viss verksamhet inom skolväsendet, m.m.",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.2",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.3",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "1:9 Bidrag till svensk undervisning i utlandet",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "1:10 Fortbildning av lärare och förskolepersonal",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "1:13 Bidrag till lärarlöner",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "1:15 Statligt stöd för stärkt kunskapsutveckling",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "1:17 Statligt stöd till vuxenutbildning",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.2",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "1:19 Statligt stöd till yrkeshögskoleutbildning",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.2",
+     "0",
+     "Inget",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Beställningsbemyndiganden",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Bemyndigande",
+     "Utgifter mot anslag till följd av ekonomiska åtaganden",
+     "",
+     "",
+     ""
+    ],
+    [
+     "2026",
+     "2027",
+     "2028",
+     "2029 -",
+     "Slutår"
+    ],
+    [
+     "1:5 Utveckling av skolväsendet och annan pedagogisk verksamhet",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.3",
+     "1 468 000",
+     "618 887",
+     "224 859",
+     "624 254",
+     "2035"
+    ],
+    [
+     "1:7 Maxtaxa i förskola, fritidshem och annan pedagogisk verksamhet samt kvalitetshöjande åtgärder inom förskola",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.4",
+     "2 886 000",
+     "2 886 000",
+     "",
+     "",
+     "2027"
+    ],
+    [
+     "1:10 Fortbildning av lärare och förskolepersonal",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "535 000",
+     "397 863",
+     "114 986",
+     "22 151",
+     "2029"
+    ],
+    [
+     "1:13 Bidrag till lärarlöner",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "2 426 000",
+     "2 426 000",
+     "",
+     "",
+     "2027"
+    ],
+    [
+     "1:15 Statligt stöd för stärkt kunskapsutveckling",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "7 583 200",
+     "7 583 200",
+     "",
+     "",
+     "2027"
+    ],
+    [
+     "1:17 Statligt stöd till vuxenutbildning",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "9 372 000",
+     "3 372 000",
+     "3 000 000",
+     "3 000 000",
+     "2029"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "140 000"
+    ],
+    [
+     "Räntekontokredit",
+     "46 500"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "117 168"
+    ],
+    [
+     "2026-02-25",
+     "117 168"
+    ],
+    [
+     "2026-03-25",
+     "117 168"
+    ],
+    [
+     "2026-04-25",
+     "117 168"
+    ],
+    [
+     "2026-05-25",
+     "117 168"
+    ],
+    [
+     "2026-06-25",
+     "118 597"
+    ],
+    [
+     "2026-07-25",
+     "118 597"
+    ],
+    [
+     "2026-08-25",
+     "118 597"
+    ],
+    [
+     "2026-09-25",
+     "118 597"
+    ],
+    [
+     "2026-10-25",
+     "118 597"
+    ],
+    [
+     "2026-11-25",
+     "118 597"
+    ],
+    [
+     "2026-12-25",
+     "118 589"
+    ],
+    [
+     "Summa",
+     "1 416 011"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "1:1 ap.1",
+     "Statens skolverk"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna ej disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "Ink. tit.",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Offentligrättslig verksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Utfärda och komplettera lärarlegitimationer3",
+     "2552",
+     "26 000"
+    ],
+    [
+     "Prövning av meriteringsnivå3",
+     "2552",
+     "21 000"
+    ],
+    [
+     "Summa",
+     "0",
+     "0",
+     "47 000",
+     "0",
+     "0",
+     "0"
+    ]
+   ]
+  }
+ ],
+ "has_fee_section": true,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 3,
+  "n_org": 2,
+  "n_assignments": 34,
+  "n_deadlines": 50,
+  "deadlines": [
+   "2026-01-15",
+   "2026-02-18",
+   "2026-02-25",
+   "2026-02-27",
+   "2026-03-01",
+   "2026-03-05",
+   "2026-03-16",
+   "2026-03-31",
+   "2026-04-13",
+   "2026-05-29",
+   "2026-06-01",
+   "2026-06-05",
+   "2026-06-30",
+   "2026-07-24",
+   "2026-09-30",
+   "2026-10-01",
+   "2026-10-30",
+   "2026-11-30",
+   "2026-12-01",
+   "2026-12-07",
+   "2026-12-15",
+   "2026-12-18",
+   "2026-12-30",
+   "2026-12-31",
+   "2027-01-01",
+   "2027-01-15",
+   "2027-01-29",
+   "2027-02-15",
+   "2027-02-22",
+   "2027-02-26",
+   "2027-03-01",
+   "2027-03-05",
+   "2027-03-12",
+   "2027-03-31",
+   "2027-05-31",
+   "2027-06-01",
+   "2027-06-15",
+   "2027-06-30",
+   "2027-09-01",
+   "2027-09-17",
+   "2027-12-01",
+   "2027-12-17",
+   "2027-12-20",
+   "2028-01-12",
+   "2028-02-03",
+   "2028-02-15",
+   "2028-02-25",
+   "2028-03-31",
+   "2028-06-01",
+   "2028-12-31"
+  ],
+  "partners": [
+   "Arbetsförmedlingen",
+   "Arbetsmiljöverket",
+   "Boverket",
+   "Brottsförebyggande rådet",
+   "Forum för levande historia",
+   "Försäkringskassan",
+   "Göteborgs universitet",
+   "Kammarkollegiet",
+   "Kriminalvården",
+   "Myndigheten för delaktighet",
+   "Myndigheten för familjerätt och föräldraskapsstöd",
+   "Polismyndigheten",
+   "Riksantikvarieämbetet",
+   "Socialstyrelsen",
+   "Specialpedagogiska skolmyndigheten",
+   "Statens institutionsstyrelse",
+   "Statens skolinspektion",
+   "Statistiska centralbyrån",
+   "Statskontoret",
+   "Stockholms universitet",
+   "Sveriges Kommuner och Regioner",
+   "Tillväxtverket",
+   "universitet och högskolor"
+  ],
+  "n_appropriations": 11,
+  "appropriations_total_tkr": 32292117,
+  "payment_plan_total_tkr": 1416011,
+  "md_chars": 71813
+ },
+ "layout": "standard",
+ "warnings": []
+}

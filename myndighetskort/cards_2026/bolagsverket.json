@@ -1,0 +1,500 @@
+{
+ "schema_version": 1,
+ "id": 26364,
+ "original_rbid": 25971,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-06-11",
+ "year": "2026",
+ "name": "Bolagsverket",
+ "slug": "bolagsverket",
+ "department": "Klimat- och näringslivsdepartementet",
+ "expenditure_areas": [
+  24
+ ],
+ "registry_numbers": [
+  "KN2026/01307 (delvis)",
+  "KN2026/01324"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1",
+   "2025/26:99"
+  ],
+  "bet": [
+   "2025/26:FiU21",
+   "2025/26:NU1"
+  ],
+  "rskr": [
+   "2025/26:131",
+   "2025/26:350"
+  ]
+ },
+ "n_attachments_stated": 2,
+ "mission": "",
+ "goals": [
+  {
+   "title": "Ansvara för basförvaltning avseende verksamt.se",
+   "group": [],
+   "text": "Bolagsverket ska ansvara för förvaltning av teknisk drift, utveckling, underhåll och förvaltning av ingående system i verksamt.se samt kundtjänst och support för dessa lösningar.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26364:goals:0"
+  },
+  {
+   "title": "Färdval och resepolicy vid tjänsteresor",
+   "group": [],
+   "text": "Alla trafikslag ska kunna nyttjas (väg, järnväg, luft- och sjöfart) för att säkerställa effektiva och ändamålsenliga transporter. Bolagsverket ska därför redovisa hur myndigheten har säkerställt att val av färdsätt vid tjänsteresor sker färdmedelsneutralt och utifrån behov. Vidare ska Bolagsverket redovisa huruvida myndigheten köpt in hållbart flygbränsle till organisationens flygresor. När kostnader jämförs för olika färdval ska hela resans kostnad beaktas, exempelvis kostnader för nödvändig övernattning samt total arbetstid för hela resan.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26364:goals:1"
+  },
+  {
+   "title": "Utveckling av registret för verkliga huvudmän",
+   "group": [],
+   "text": "Bolagsverket ska med stöd av Myndigheten för ungdoms- och civilsamhällesfrågor verka för att utvecklingen av registret över verkliga huvudmän sker med hänsyn tagen till behovet av informationsinsatser i förhållande till civila samhällets aktörer samt redogöra för hur arbetet med utveckling av registret skett i detta avseende.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Myndigheten för ungdoms- och civilsamhällesfrågor"
+   ],
+   "channels": [],
+   "task_types": [
+    "informera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26364:goals:2"
+  },
+  {
+   "title": "Nya verktyg för att motverka att företag används för att begå brott",
+   "group": [],
+   "text": "Bolagsverket har fått nya verktyg att motverka att företag används för att begå brott. Bolagsverket ska redovisa hur dessa nya verktyg har använts, på vilka sätt dessa verktyg har stärkt arbetet mot bolag som brottsverktyg och om myndigheten erfarit några tillämpningssvårigheter i arbetet med verktygen.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26364:goals:3"
+  }
+ ],
+ "org": [],
+ "assignments": [
+  {
+   "title": "Kostnader och intäktskällor för verksamt.se",
+   "group": [],
+   "text": "Bolagsverket ska bidra till Tillväxtverkets uppdrag att sammanställa och redovisa de totala kostnaderna och intäktskällorna för verksamt.se för 2025 samt lämna en preliminär budget för 2027–2029 där de beräknade totala kostnaderna och intäktskällorna för verksamt.se framgår. Om kostnaderna beräknas överstiga intäkterna ska också förslag om finansiering lämnas. Uppdraget ska redovisas till Regeringskansliet (Klimat- och näringslivsdepartementet) senast den 27 februari 2026.",
+   "dates": [
+    "2026-02-27"
+   ],
+   "deadlines": [
+    "2026-02-27"
+   ],
+   "recipients": [
+    "Regeringskansliet (Klimat- och näringslivsdepartementet)",
+    "Tillväxtverket"
+   ],
+   "partners": [
+    "Tillväxtverket"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26364:assignments:0"
+  },
+  {
+   "title": "Mina ombud",
+   "group": [],
+   "text": "Bolagsverket ska ansvara för förvaltning och teknisk drift av samt support för den nationella förvaltningsgemensamma digitala infrastrukturen för en standardiserad och säker digital fullmaktshantering för företag och privatpersoner. I uppdraget ingår att tillhandahålla lagringsyta för juridiska och fysiska personers fullmakter som används för att utföra ärenden hos statliga eller kommunala myndigheter, företag eller andra organisationer.\n\nBolagsverket ska vidare bistå Myndigheten för digital förvaltning i att följa upp och redovisa utvecklingen av den förvaltningsgemensamma digitala infrastrukturen (Ena) i den del som avser ”Mina ombud”. Uppdraget ska redovisas till Regeringskansliet (Finansdepartementet) senast den 13 mars 2027.",
+   "dates": [
+    "2027-03-13"
+   ],
+   "deadlines": [
+    "2027-03-13"
+   ],
+   "recipients": [
+    "Regeringskansliet (Finansdepartementet)"
+   ],
+   "partners": [
+    "Myndigheten för digital förvaltning"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26364:assignments:1"
+  },
+  {
+   "title": "Prognoser",
+   "group": [],
+   "text": "Bolagsverket ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Prognoserna lämnas i informationssystemet Hermes senast den\n\n– 2 februari,\n\n– 22 april,\n\n– 24 juli och\n\n– 9 november.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26364:assignments:2"
+  },
+  {
+   "title": "Pågående uppdrag",
+   "group": [],
+   "text": "I bilaga 1 redovisas Bolagsverkets pågående uppdrag.\n\n*För regeringsuppdrag som lämnats i ett särskilt regeringsbeslut utgör bilagan endast en upplysning om vilka uppdrag som vid årets början var riktade till myndigheten och vilka tider som då gällde för återrapportering eller liknande.*",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "26364:assignments:3"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "1:11",
+   "name": "Bolagsverket",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 24,
+    "name": "Näringsliv"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Bolagsverket",
+     "amount_tkr": 243481,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Finansiering av likvidatorer (ram)",
+       "amount_tkr": 31000
+      },
+      {
+       "ap": "2",
+       "name": "Bolagsverket (ram)",
+       "amount_tkr": 212481
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Finansiering av likvidatorer",
+     "text": "Anslagsposten får användas för utgifter för likvidatorer där myndigheten har utsett likvidatorer vid tvångslikvidationer eller där myndigheten har förordnat en annan likvidator än den som företaget har föreslagit vid frivilliga likvidationer."
+    },
+    {
+     "ap": "2",
+     "name": "Bolagsverket",
+     "text": "Anslagsposten får användas för utgifter för associationsrättsliga ärenden, inklusive sammankoppling till e-juridikportalen.\nAnslagsposten får även användas för förvaltning och utveckling av register för rapportering av betalningstider och Mina ombud för företag och fysiska personer samt för att utöka analyskapacitet och samverkan i arbetet mot ekonomisk brottslighet och finansiering av terrorism.\nAv anslagsposten får högst 29 000 000 kronor användas för utvecklingen av en digital identitetsplånbok. Högst 21 700 000 kronor får användas för utvecklingen av ett samlat system för registerkontroll vid offentlig upphandling.\nAv anslagsposten får högst 34 000 000 kronor användas för arbetet med att tillgodose kraven gällande registret över verkliga huvudmän i EU:s nya regelverk mot penningtvätt och finansiering av terrorism.\nAv anslagsposten får högst 17 000 000 kronor användas för utveckling av en kostnadsfri tjänst för digital ingivning av årsredovisningar.\nAv anslagsposten får högst 2 000 000 kronor användas för att möjliggöra att omhänderta årsredovisningar i elektroniskt format enligt EU-direktivet om företagens hållbarhetsrapportering.\nAv anslagsposten får högst 1 000 000 kronor användas för utveckling av rutiner för inhämtning av information från domstolar samt pilotstudie om digital överföring.\nAv anslagsposten får högst 8 000 000 kronor användas för finansiering, förvaltning och utveckling av teknisk infrastruktur för den sammansatta bastjänsten (förenklat uppgiftslämnande), vilket är en tjänst som bland annat används på verksamt.se.\nAv anslagsposten ska högst 22 443 000 kronor användas för kostnadsfritt tillhandahållande av registerinformation inom området digital förvaltning.\nAv anslagsposten får högst 24 200 000 kronor användas för Bolagsverkets arbete med drift, förvaltning och utveckling av företagsportalen verksamt.se.\nAv anslagsposten får högst 35 000 000 kronor användas för omställning med anledning av genomförandet av Europaparlamentets och rådets direktiv (EU) 2019/1024 av den 20 juni 2019 om öppna data och vidareutnyttjande av information från den offentliga sektorn och kommissionens genomförandeförordning (EU) 2023/138 av den 21 december 2022 om fastställande av en förteckning över särskilda värdefulla dataset och arrangemangen för offentliggörande och vidareutnyttjande av dessa.\nHögst 9 500 000 kronor ska användas för åtgärder för civilt försvar och beredskap.\nBolagsverket ska kunna använda och samverka med det gemensamma radiokommunikationssystemet Rakel. Bolagsverket ska betala totalt 66 500 kronor till Myndigheten för civilt försvar som abonnemangsavgift för detta system. Beloppet ska betalas efter fakturering från Myndigheten för civilt försvar."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "2",
+     "max": 29000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "2",
+     "max": 21700000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "2",
+     "max": 34000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "2",
+     "max": 17000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "2",
+     "max": 2000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "2",
+     "max": 1000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "2",
+     "max": 8000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "2",
+     "max": 22443000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "2",
+     "max": 24200000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "2",
+     "max": 35000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "2",
+     "max": 9500000,
+     "unit": "kronor"
+    }
+   ]
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "1:11 Bolagsverket",
+   "ap": "ap.1",
+   "Anslagskredit": 1414,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:11 Bolagsverket",
+   "ap": "ap.2",
+   "Anslagskredit": 10000,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 230000,
+  "Räntekontokredit": 10000
+ },
+ "payment_plan": [],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:11 Bolagsverket",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "1 414",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.2",
+     "10 000",
+     "Inget",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "230 000"
+    ],
+    [
+     "Räntekontokredit",
+     "10 000"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Offentligrättslig verksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Företagsregistreringar, företagsinteckningar och kungörelser1",
+     "50 905",
+     "-23 972",
+     "583 611",
+     "593 866",
+     "-10 255",
+     "16 678"
+    ],
+    [
+     "Patentombudsnämnden1",
+     "-10",
+     "-42",
+     "984",
+     "972",
+     "12",
+     "-40"
+    ],
+    [
+     "Förseningsavgifter årsredovisningar1",
+     "0",
+     "0",
+     "68 700",
+     "68 700",
+     "0",
+     "0"
+    ],
+    [
+     "Summa",
+     "50 895",
+     "-24 014",
+     "653 295",
+     "663 538",
+     "-10 243",
+     "16 638"
+    ],
+    [
+     "Uppdragsverksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Uppdragsverksamhet1",
+     "-256",
+     "-2 369",
+     "108 310",
+     "112 064",
+     "-3 754",
+     "-6 379"
+    ]
+   ]
+  }
+ ],
+ "has_fee_section": true,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 4,
+  "n_org": 0,
+  "n_assignments": 4,
+  "n_deadlines": 2,
+  "deadlines": [
+   "2026-02-27",
+   "2027-03-13"
+  ],
+  "partners": [
+   "Myndigheten för digital förvaltning",
+   "Myndigheten för ungdoms- och civilsamhällesfrågor",
+   "Tillväxtverket"
+  ],
+  "n_appropriations": 1,
+  "appropriations_total_tkr": 243481,
+  "payment_plan_total_tkr": 0,
+  "md_chars": 12560
+ },
+ "layout": "standard",
+ "warnings": []
+}

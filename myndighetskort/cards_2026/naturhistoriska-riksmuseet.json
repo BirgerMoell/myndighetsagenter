@@ -1,0 +1,695 @@
+{
+ "schema_version": 1,
+ "id": 26440,
+ "original_rbid": 26027,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-06-18",
+ "year": "2026",
+ "name": "Naturhistoriska riksmuseet",
+ "slug": "naturhistoriska-riksmuseet",
+ "department": "Kulturdepartementet",
+ "expenditure_areas": [
+  17
+ ],
+ "registry_numbers": [
+  "Ku2026/00572 (delvis)",
+  "Ku2026/00595"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1",
+   "2025/26:99"
+  ],
+  "bet": [
+   "2025/26:FiU21",
+   "2025/26:KrU1"
+  ],
+  "rskr": [
+   "2025/26:351",
+   "2025/26:83"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "",
+ "goals": [
+  {
+   "title": "Publik och tillgänglighet",
+   "group": [],
+   "text": "Naturhistoriska riksmuseet ska redovisa\n\n- den verksamhet som svarar mot den unga publikens behov samt insatser för att öka den unga publiken\n- de åtgärder som vidtagits för att öka tillgängligheten för personer med funktionsnedsättning\n- förändringar i besöksutvecklingen i förhållande till tidigare år.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "den verksamhet som svarar mot den unga publikens behov samt insatser för att öka den unga publiken",
+    "de åtgärder som vidtagits för att öka tillgängligheten för personer med funktionsnedsättning",
+    "förändringar i besöksutvecklingen i förhållande till tidigare år."
+   ],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26440:goals:0"
+  },
+  {
+   "title": "Forsknings- och utvecklingsinsatser inom kulturområdet",
+   "group": [],
+   "text": "Naturhistoriska riksmuseet ska redovisa hur myndigheten har använt eller fördelat medlen från anslag 1:4 Forsknings- och utvecklingsinsatser inom kulturområdet. Redovisningen ska omfatta\n\n- vilka strategiska prioriteringar som legat till grund för användningen eller fördelningen av medel\n- vilka insatser som finansierats eller delfinansierats av anslaget under året\n- på vilket sätt insatserna förväntas bidra till kulturområdets utveckling\n- en resultatbedömning av genomförda insatser.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "fördela_medel"
+   ],
+   "anslag_refs": [
+    "1:4"
+   ],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "vilka strategiska prioriteringar som legat till grund för användningen eller fördelningen av medel",
+    "vilka insatser som finansierats eller delfinansierats av anslaget under året",
+    "på vilket sätt insatserna förväntas bidra till kulturområdets utveckling",
+    "en resultatbedömning av genomförda insatser."
+   ],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26440:goals:1"
+  },
+  {
+   "title": "Bevara och tillgängliggöra kulturarvet genom digitisering och digitalisering",
+   "group": [],
+   "text": "Naturhistoriska riksmuseet ska redovisa resultatet av arbetet med digitisering och digitalisering av myndighetens samlingar. Av redovisningen ska följande framgå\n\n- samlingarnas storlek, inklusive årets tillväxt\n- hur stort antal i och hur stor andel av samlingarna som är digital\n- hur stor andel av samlingarna som är digitalt tillgänglig\n- vilka delar av resultatet som härrör från den medelsförstärkning som myndigheten har tilldelats\n- vilka kostnader myndigheten har haft för arbetet med digitisering och digitalisering.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "digitalisering_ai"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "samlingarnas storlek, inklusive årets tillväxt",
+    "hur stort antal i och hur stor andel av samlingarna som är digital",
+    "hur stor andel av samlingarna som är digitalt tillgänglig",
+    "vilka delar av resultatet som härrör från den medelsförstärkning som myndigheten har tilldelats",
+    "vilka kostnader myndigheten har haft för arbetet med digitisering och digitalisering."
+   ],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26440:goals:2"
+  },
+  {
+   "title": "Avgiftsbelagd verksamhet",
+   "group": [],
+   "text": "Naturhistoriska riksmuseet ska redovisa hur arbetet med att åstadkomma ekonomisk balans i den avgiftsbelagda verksamheten Undersökningar, utredningar och andra tjänster fortskrider.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26440:goals:3"
+  },
+  {
+   "title": "Breddad finansiering",
+   "group": [],
+   "text": "Naturhistoriska riksmuseet ska redovisa hur myndigheten arbetar för att bredda finansieringen av verksamheten.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26440:goals:4"
+  },
+  {
+   "title": "Lokalkostnader",
+   "group": [],
+   "text": "Naturhistoriska riksmuseet ska specificera myndighetens totala lokalkostnader för 2026 enligt följande:\n\n- hyra, varav kostnadshyra\n- el och uppvärmning\n- reparationer och underhåll\n- övriga driftskostnader.\n\nOm myndigheten har fler än en hyresvärd ska kostnaderna fördelas per hyresvärd.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "fördela_medel"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "hyra, varav kostnadshyra",
+    "el och uppvärmning",
+    "reparationer och underhåll",
+    "övriga driftskostnader."
+   ],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26440:goals:5"
+  },
+  {
+   "title": "Sponsringsintäkter",
+   "group": [],
+   "text": "Naturhistoriska riksmuseet ska särredovisa eventuella sponsringsintäkter i not till resultaträkningen.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26440:goals:6"
+  },
+  {
+   "title": "Bidragsintäkter",
+   "group": [],
+   "text": "Naturhistoriska riksmuseet ska särredovisa fördelningen av eventuella bidragsintäkter mellan statliga bidrag, icke-statliga bidrag respektive bidrag från mellanstatliga organ i not till resultaträkningen.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26440:goals:7"
+  }
+ ],
+ "org": [],
+ "assignments": [
+  {
+   "title": "Marina genetiska resurser",
+   "group": [],
+   "text": "Naturhistoriska riksmuseet ska påbörja nödvändiga förberedelser för att kunna ta emot och vårda marina genetiska resurser från havsområden utanför nationell jurisdiktion när Sverige tillträder avtalet om bevarande och hållbar användning av marin biologisk mångfald i områden utanför nationell jurisdiktion (BBNJ). Förberedelserna ska innefatta utformandet av en ordning för hur sådana prover kan tas emot, förvaras och märkas för att möjliggöra uttag av prover och rapporter i enlighet med kraven i avtalet.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26440:assignments:0"
+  },
+  {
+   "title": "AI och datadrivet arbete",
+   "group": [],
+   "text": "Naturhistoriska riksmuseet ska redovisa i vilken utsträckning myndigheten arbetar datadrivet och hur AI används i verksamheten. Myndigheten ska även redogöra för på vilket sätt arbetet med data och AI har bidragit till att utveckla verksamheten och höja kvaliteten i utförandet av myndighetens uppgifter och uppdrag. Av redovisningen ska framgå hur myndigheten beaktar risker och arbetar för att användning av data och AI sker på ett etiskt, säkert och icke-diskriminerande sätt. Eventuella hinder eller framgångsfaktorer för datadrivet arbete och användande av AI ska även redovisas.\n\nUppdraget ska redovisas till Regeringskansliet (Kulturdepartementet) senast den 4 maj 2026.",
+   "dates": [
+    "2026-05-04"
+   ],
+   "deadlines": [
+    "2026-05-04"
+   ],
+   "recipients": [
+    "Regeringskansliet (Kulturdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla",
+    "statistik_data",
+    "digitalisering_ai"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26440:assignments:1"
+  },
+  {
+   "title": "Kiruna - Europeisk kulturhuvudstad 2029",
+   "group": [],
+   "text": "Naturhistoriska riksmuseet ska i dialog med Kiruna kommun se över möjligheterna att medverka inför och under evenemanget Europeisk kulturhuvudstad 2029.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "samordna",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26440:assignments:2"
+  },
+  {
+   "title": "Prognoser 2026–2029",
+   "group": [],
+   "text": "Myndigheten ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Av kommentarerna ska det framgå vilka antaganden som använts i prognosen samt eventuella osäkerhetsfaktorer och hur detta påverkat prognosen. Vid väsentliga prognosavvikelser ska myndigheten även ange vilka åtgärder som vidtagits eller planeras att vidtas för att verksamheten ska bedrivas inom ramen för tilldelade medel. Prognoserna lämnas i informationssystemet Hermes senast den\n\n- 2 februari\n- 24 juli\n- 9 november.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26440:assignments:3"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "1:4",
+   "name": "Forsknings- och utvecklingsinsatser inom kulturområdet",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 17,
+    "name": "Kultur, medier, trossamfund och fritid"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Naturhistoriska riksmuseet",
+     "amount_tkr": 7010,
+     "items": [
+      {
+       "ap": "12",
+       "name": "Naturhistoriska riksmuseet (ram)",
+       "amount_tkr": 7010
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "12",
+     "name": "Naturhistoriska riksmuseet",
+     "text": "Anslagsposten får användas för utgifter för forsknings- och utvecklingsinsatser. Anslagsposten får även användas för utgifter för administration och genomförande av verksamheten.\nAnslagsposten får användas för samfinansiering av projekt eller liknande verksamhet inom ramen för myndighetens verksamhetsområde."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "7:1",
+   "name": "Centrala museer: Myndigheter",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 17,
+    "name": "Kultur, medier, trossamfund och fritid"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Naturhistoriska riksmuseet",
+     "amount_tkr": 250113,
+     "items": [
+      {
+       "ap": "3",
+       "name": "Naturhistoriska riksmuseet (ram)",
+       "amount_tkr": 250113
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "3",
+     "name": "Naturhistoriska riksmuseet",
+     "text": "Anslagsposten får användas för Naturhistoriska riksmuseets förvaltningsutgifter.\nAnslagsposten får användas för omniteatern Cosmonovas kostnader upp till fem procent av anslaget.\nTillskottet sker för att en intäktsjusterad hyressättning ska kunna gälla för Naturhistoriska riksmuseets huvudbyggnad från och med den 1 juli 2026. (Intäktsjusteradhyra innebär att hyran sätts på en marknadsmässig nivå vid inträdet ihyresmodellen. Hyran justeras sedan enligt den årliga pris- och löneomräkningen för lokalkostnader.)"
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "1:4 Forsknings- och utvecklingsinsatser inom kulturområdet",
+   "ap": "ap.12",
+   "Anslagskredit": 210,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "7:1 Centrala museer: Myndigheter",
+   "ap": "ap.3",
+   "Anslagskredit": 6975,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 90000,
+  "Räntekontokredit": 22000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 19961
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 19961
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 19961
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 19961
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 19961
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 22474
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 22474
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 22474
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 22474
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 22474
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 22474
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 22474
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:4 Forsknings- och utvecklingsinsatser inom kulturområdet",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.12",
+     "210",
+     "Inget",
+     "0"
+    ],
+    [
+     "7:1 Centrala museer: Myndigheter",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.3",
+     "6 975",
+     "3 %",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "90 000"
+    ],
+    [
+     "Räntekontokredit",
+     "22 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "19 961"
+    ],
+    [
+     "2026-02-25",
+     "19 961"
+    ],
+    [
+     "2026-03-25",
+     "19 961"
+    ],
+    [
+     "2026-04-25",
+     "19 961"
+    ],
+    [
+     "2026-05-25",
+     "19 961"
+    ],
+    [
+     "2026-06-25",
+     "22 474"
+    ],
+    [
+     "2026-07-25",
+     "22 474"
+    ],
+    [
+     "2026-08-25",
+     "22 474"
+    ],
+    [
+     "2026-09-25",
+     "22 474"
+    ],
+    [
+     "2026-10-25",
+     "22 474"
+    ],
+    [
+     "2026-11-25",
+     "22 474"
+    ],
+    [
+     "2026-12-25",
+     "22 474"
+    ],
+    [
+     "Summa",
+     "257 123"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "1:4 ap.12",
+     "Naturhistoriska riksmuseet"
+    ],
+    [
+     "7:1 ap.3",
+     "Naturhistoriska riksmuseet"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Avgiftsbelagd verksamhet där intäkterna disponeras",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Försäljning av varor1",
+     "400",
+     "0",
+     "4 900",
+     "5 100",
+     "-200",
+     "200"
+    ],
+    [
+     "Undersökningar, utredningar och andra tjänster1",
+     "5 654",
+     "-1 500",
+     "37 700",
+     "39 200",
+     "-1 500",
+     "2 654"
+    ],
+    [
+     "Cosmonova1",
+     "953",
+     "0",
+     "19 100",
+     "19 300",
+     "-200",
+     "753"
+    ],
+    [
+     "Summa",
+     "7 007",
+     "-1 500",
+     "61 700",
+     "63 600",
+     "-1 900",
+     "3 607"
+    ],
+    [
+     "Övrig avgiftsbelagd verksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Entréer och visningar3",
+     "23 000"
+    ],
+    [
+     "Övrigt3",
+     "1 000"
+    ],
+    [
+     "Summa",
+     "0",
+     "0",
+     "24 000",
+     "0",
+     "0",
+     "0"
+    ]
+   ]
+  }
+ ],
+ "has_fee_section": true,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 8,
+  "n_org": 0,
+  "n_assignments": 4,
+  "n_deadlines": 1,
+  "deadlines": [
+   "2026-05-04"
+  ],
+  "partners": [],
+  "n_appropriations": 2,
+  "appropriations_total_tkr": 257123,
+  "payment_plan_total_tkr": 257123,
+  "md_chars": 10026
+ },
+ "layout": "standard",
+ "warnings": []
+}

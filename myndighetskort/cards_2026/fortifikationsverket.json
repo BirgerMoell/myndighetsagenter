@@ -1,0 +1,444 @@
+{
+ "schema_version": 1,
+ "id": 27462,
+ "original_rbid": 25775,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-06-11",
+ "year": "2026",
+ "name": "Fortifikationsverket",
+ "slug": "fortifikationsverket",
+ "department": "Finansdepartementet",
+ "expenditure_areas": [],
+ "registry_numbers": [
+  "Fi2026/01450"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1"
+  ],
+  "bet": [
+   "2025/26:FiU2"
+  ],
+  "rskr": [
+   "2025/26:133"
+  ]
+ },
+ "n_attachments_stated": 2,
+ "mission": "",
+ "goals": [
+  {
+   "title": "Mål",
+   "group": [],
+   "text": "Myndigheten ska bidra till att det övergripande målet för totalförsvaret och målet för det militära försvaret uppnås (prop. 2024/25:34, bet. 2024/25:FöU2, rskr. 2024/25:114).\n\nMyndighetens förvaltning av fastigheter avsedda för försvarsändamål och utvecklingen av detta fastighetsbestånd ska vara ändamålsenligt i förhållande till totalförsvarets behov. Fastighetsbeståndet ska stärka Försvarsmaktens operativa förmåga.\n\nMyndigheten ska bidra till att Försvarsmaktens behov av anläggningar och fastigheter m.m. kan tillgodoses i den takt som anges i regeringsbeslutet om inriktningen för militära försvaret 2025–2030 (Fö2024/02054 [delvis]).\n\nMyndigheten ska i sin verksamhet uppnå en avkastning om 5 procent på 30 procent av myndighetens genomsnittliga lån för samhällsinvesteringar i Riksgäldskontoret. Avkastningen avser överskott före försäljningar av fast egendom på grund av försvarsbeslut och försäljningar av övnings- och skjutfält samt före kostnader för avveckling.\n\nFastigheternas värden ska bevaras på en för ägaren och brukaren långsiktigt lämplig nivå.\n\nMyndighetens hänsyn till miljö- och kulturvärden ska i tillämpliga delar motsvara vad som gäller för andra stora fastighetsförvaltare.\n\nÅterrapportering:\nRedovisningen av verksamhetens resultat ska fördelas på verksamhetsdelarna Förvaltning, Anskaffning och avyttring, Uppdrag, Införhyrningar och Fortifikatorisk utveckling. Myndigheten ska redovisa:\n\n– totalkostnader för drift och underhåll\\\n– driftsnetto i kronor per kvadratmeter i det öppna beståndet\\\n– antalet överföringar av förvaltningsansvaret där fastighetens marknadsvärde överstigit 40 000 000 kronor\\\n– försäljningar av fast egendom som överstigit 40 000 000 kronor\\\n– andel uthyrd area i procent av det öppna beståndet\\\n– hyresintäkter i kronor per kvadratmeter av det öppna beståndet\\\n– energiförbrukning i kilowattimmar per kvadratmeter av det öppna beståndet\\\n– driftkostnader i kronor per kvadratmeter av det öppna beståndet\\\n– underhållskostnader i kronor per kvadratmeter av det öppna beståndet.\n\nMyndigheten ska redovisa investeringar som regeringen beslutat om och som avser projekt som pågår eller har avslutats under det närmast föregående året. Av redovisningen ska framgå:\n\n– det objekt som investeringen avser\\\n– datum för det senaste regeringsbeslutet\\\n– av regeringen beviljad investeringsram\\\n– utfall närmast föregående år\\\n– ackumulerat utfall\\\n– om det är fråga om ett pågående projekt, prognosticerat slutligt utfall\\\n– datum eller i förekommande fall beräknat datum för projektets färdigställande.\n\nMyndigheten ska redovisa vilka åtgärder som har vidtagits och planeras att vidtas för att stärka myndighetens förmåga att verka under höjd beredskap. Myndigheten ska även redovisa hur den inom sitt verksamhetsområde bidrar till att skapa förutsättningar för Försvarsmakten att nå regeringens krav på operativ förmåga enligt regeringens beslut om inriktningen för det militära försvaret 2025–2030 (Fö2024/02054 [delvis]).\n\nMyndigheten ska redovisa hur dess verksamhet har bidragit till genomförandet av för myndigheten aktuella delar av det riksdagsbundna målet för Agenda 2030, och hur den har bidragit till att uppfylla för myndigheten aktuella delar av de nationella miljökvalitetsmålen. Myndigheten ska särskilt redovisa arbetet för att identifiera platser där spridningsbegränsande åtgärder med avseende på PFAS är prioriterat och kan vidtas, samt vilka spridningsbegränsande åtgärder som har vidtagits under året.\n\nMyndigheten ska redovisa vilka åtgärder som har vidtagits för att utveckla en effektiv och robust energiförsörjning av dess anläggningar.\n\nMyndigheten ska redogöra för hur den har verkat förebildligt för hållbara gestaltade livsmiljöer och bidragit till det nationella målet för arkitektur, form och design (prop. 2017/18:110, bet. 2017/18:CKrU1, rskr. 2017/18:316).\n\nMyndigheten ska redovisa antalet tecknade arrendeavtal, avtalstid och arrendeavgift för 2024–2026.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [],
+   "recipients": [],
+   "partners": [
+    "Försvarsmakten",
+    "Riksgäldskontoret"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "prognos",
+    "fördela_medel",
+    "utveckla",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "totalkostnader för drift och underhåll\\",
+    "driftsnetto i kronor per kvadratmeter i det öppna beståndet\\",
+    "antalet överföringar av förvaltningsansvaret där fastighetens marknadsvärde överstigit 40 000 000 kronor\\",
+    "försäljningar av fast egendom som överstigit 40 000 000 kronor\\",
+    "andel uthyrd area i procent av det öppna beståndet\\",
+    "hyresintäkter i kronor per kvadratmeter av det öppna beståndet\\",
+    "energiförbrukning i kilowattimmar per kvadratmeter av det öppna beståndet\\",
+    "driftkostnader i kronor per kvadratmeter av det öppna beståndet\\",
+    "underhållskostnader i kronor per kvadratmeter av det öppna beståndet.",
+    "det objekt som investeringen avser\\",
+    "datum för det senaste regeringsbeslutet\\",
+    "av regeringen beviljad investeringsram\\",
+    "utfall närmast föregående år\\",
+    "ackumulerat utfall\\",
+    "om det är fråga om ett pågående projekt, prognosticerat slutligt utfall\\",
+    "datum eller i förekommande fall beräknat datum för projektets färdigställande."
+   ],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27462:goals:0"
+  }
+ ],
+ "org": [
+  {
+   "title": "Tillväxt",
+   "group": [],
+   "text": "Myndigheten ska redovisa en plan för dess tillväxt fram t.o.m 2030. Planen ska bl.a. innehålla en prognos för behovet av personella resurser och för hur myndigheten uppfyller behovet. Av planen ska framgå inom vilka personalkategorier som kompetensförsörjningen är särskilt kritisk och vilka konsekvenser som en eventuell personalbrist kan få för utbyggnaden av den militära infrastrukturen och annan infrastruktur som stödjer totalförsvaret. Myndigheten ska även redovisa vilken kompetens som myndigheten har behov av kortsiktigt respektive långsiktigt. Planen ska också innehålla en redovisning av de ekonomiska konsekvenser som tillväxten innebär. Av planen ska framgå vilka åtgärder som har vidtagits för att säkra kompetensförsörjningen, samt vilka åtgärder som avses vidtas inom de personalkategorier där det råder personalbrist och där bristen påverkar möjligheterna att skyndsamt öka utbyggnaden av den militära infrastrukturen. Uppdraget ska genomföras i samarbete med Försvarsmakten. Uppdraget ska senast den 25 september 2026 redovisas till Regeringskansliet (Finansdepartementet).",
+   "dates": [
+    "2026-09-25"
+   ],
+   "deadlines": [
+    "2026-09-25"
+   ],
+   "forecast_dates": [],
+   "recipients": [
+    "Regeringskansliet (Finansdepartementet)"
+   ],
+   "partners": [
+    "Försvarsmakten"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "prognos",
+    "utveckla",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "org",
+   "item_id": "27462:org:0"
+  }
+ ],
+ "assignments": [
+  {
+   "title": "Åtgärder för skyndsam utbyggnad av den militära infrastrukturen",
+   "group": [],
+   "text": "Myndigheten ska analysera och redovisa vilka åtgärder, i form av exempelvis regelförenklingar, som skulle bidra till en skyndsam utbyggnad av den militära infrastrukturen. Redovisningen ska förutom analysen bl.a. innehålla bedömningar av vilka konsekvenser som nuvarande regelverk får för utbyggnaden av militär infrastruktur i enlighet med den beslutade inriktningen för det militära försvaret 2025–2030 (Fö2024/02054)\\*.\\*Redovisningen av åtgärderna ska omfatta bedömningar av vilken effekt respektive åtgärd skulle få i form av tidsvinster och kostnadseffektivitet för myndigheten och utbyggnaden av Sveriges operativa försvarsförmåga. Myndigheten ska vid utförandet av uppdraget inhämta synpunkter från Försvarsmakten och andra berörda myndigheter. Uppdraget ska senast den 3 april 2026 delredovisas och senast den 25 september samma år slutredovisas till Regeringskansliet (Finansdepartementet).",
+   "dates": [
+    "2026-04-03"
+   ],
+   "deadlines": [
+    "2026-04-03"
+   ],
+   "recipients": [
+    "Regeringskansliet (Finansdepartementet)"
+   ],
+   "partners": [
+    "Försvarsmakten"
+   ],
+   "channels": [
+    "delredovisning",
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27462:assignments:0"
+  },
+  {
+   "title": "Effektiva arbetssätt och processer",
+   "group": [],
+   "text": "Myndigheten ska tillsammans med Försvarsmakten och Försvarets materielverk redovisa arbetsläge, vidtagna åtgärder och resultat avseende myndigheternas arbete med att effektivisera arbetssätt och processer för att korta ledtider i syfte att snabbt stärka den svenska försvarsförmågan. Myndigheterna ska bl.a. redovisa vilka effekter vidtagna åtgärder haft på ledtiderna. Uppdraget ska senast den 29 april 2026 och senast den 30 september samma år redovisas muntligt till Regeringskansliet (Finansdepartementet).",
+   "dates": [
+    "2026-04-29"
+   ],
+   "deadlines": [
+    "2026-04-29"
+   ],
+   "recipients": [
+    "Regeringskansliet (Finansdepartementet)"
+   ],
+   "partners": [
+    "Försvarets materielverk",
+    "Försvarsmakten"
+   ],
+   "channels": [
+    "muntlig"
+   ],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27462:assignments:1"
+  },
+  {
+   "title": "Bildandet av en utrikesunderrättelsetjänst",
+   "group": [],
+   "text": "Myndigheten ska bistå utredningen Bildandet av en utrikesunderrättelsetjänst (UD 2025:01) med att identifiera och etablera ändamålsenliga lokaler för den nya myndighet som ska kunna starta sin verksamhet den 1 januari 2027. Lokalerna ska motsvara de behov som utredningen bedömer vara nödvändiga. I det fall verksamheten inleds i tillfälliga lokaler ska en planering och en tidsplan för tillhandahållande av permanenta lokaler tas fram. Fortifikationsverket ska löpande informera Regeringskansliet (Finansdepartementet) om arbetet.",
+   "dates": [
+    "2027-01-01"
+   ],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "analysera",
+    "samordna",
+    "informera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27462:assignments:2"
+  },
+  {
+   "title": "Investeringsplan",
+   "group": [],
+   "text": "Myndigheten ska i budgetunderlaget, samt den 12 juni och 9 oktober 2026, redovisa en investeringsplan för 2026–2029 avseende påbörjade och planerade byggnadsprojekt. Objekt för vilka investeringskostnaden överstigit 100 000 000 kronor ska redovisas separat i underlaget, medan objekt med en lägre investeringskostnad får redovisas samlat. Avvikelser i förhållande till den redovisning som har lämnats i budgetunderlaget ska senast den 12 juni och 9 oktober 2026 redovisas till Regeringskansliet (Finansdepartementet).",
+   "dates": [
+    "2026-10-09"
+   ],
+   "deadlines": [],
+   "recipients": [
+    "Regeringskansliet (Finansdepartementet)"
+   ],
+   "partners": [],
+   "channels": [
+    "budgetunderlag"
+   ],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27462:assignments:3"
+  },
+  {
+   "title": "Investeringsutfall",
+   "group": [],
+   "text": "Myndigheten ska i budgetunderlaget, samt den 12 juni och 9 oktober 2026, redovisa investeringsutfallet jämfört med investeringsplanen för 2025–2028. Avvikelser från planen för objekt där investeringen överstiger 100 000 000 kronor ska kommenteras. Investeringar kopplade till Nato och Natos investeringsprogram (NSIP) ska särredovisas.",
+   "dates": [
+    "2026-10-09"
+   ],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "budgetunderlag"
+   ],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27462:assignments:4"
+  },
+  {
+   "title": "Internationell samverkan",
+   "group": [],
+   "text": "Myndigheten bemyndigas att inleda förhandlingar om avtal med motsvarande myndigheter i andra länder i syfte att utbyta erfarenheter och information inom ramen för myndighetens verksamhetsområde. Regeringskansliet (Finansdepartementet) ska underrättas när förhandlingar inleds. Efter avslutade förhandlingar ska myndigheten i särskild ordning redovisa förhandlingsresultatet till Regeringskansliet.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [
+    "Regeringskansliet"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27462:assignments:5"
+  },
+  {
+   "title": "Natos investeringsprogram (NSIP)",
+   "group": [],
+   "text": "Myndigheten ska bistå Försvarsmakten i arbetet med finansiering för investeringar som bedöms vara berättigad till sådan från NSIP. Fortifikationsverket ska samordna, sammanställa och redovisa uppgifter till Natos system CIRIS. Inrapporteringen ska ske utifrån uppgifter från myndigheter som ansvarar för NSIP-projekt, främst Försvarets materielverk och Försvarsmakten.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Försvarets materielverk",
+    "Försvarsmakten"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27462:assignments:6"
+  },
+  {
+   "title": "Våtmarker",
+   "group": [],
+   "text": "Myndigheten ska, i den utsträckning som det är förenligt med dess grunduppdrag, anlägga och restaurera våtmarker i syfte att bidra till minskade växthusgasutsläpp, biologisk mångfald, minskad övergödning eller förbättrad vattenbalansering. Uppdraget finansieras av medel från anslaget 1:3 Åtgärder för värdefull natur inom utgiftsområde 20 Allmän miljö- och naturvård, anslagspost 2 Kostnader för skötsel av skyddade områden, artbevarande, friluftsliv m.m. Bidraget betalas ut efter rekvisition ställd till Naturvårdsverket. Uppdraget ska i samband med årsredovisningen för 2026 redovisas till Regeringskansliet (Finansdepartementet, med kopia till Klimat- och näringslivsdepartementet).",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [
+    "Naturvårdsverket",
+    "Regeringskansliet (Finansdepartementet, med kopia till Klimat- och näringslivsdepartementet)"
+   ],
+   "partners": [
+    "Naturvårdsverket"
+   ],
+   "channels": [
+    "årsredovisning"
+   ],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [
+    "1:3"
+   ],
+   "expenditure_area_refs": [
+    20
+   ],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27462:assignments:7"
+  },
+  {
+   "title": "Pågående uppdrag",
+   "group": [],
+   "text": "Pågående uppdrag redovisas i*bilaga 1*.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "27462:assignments:8"
+  }
+ ],
+ "appropriations": [],
+ "financial_terms": [],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 677800,
+  "Räntekontokredit": 500000,
+  "- Låneram": 75000000
+ },
+ "payment_plan": [],
+ "finance_tables": [
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "677 800"
+    ],
+    [
+     "Räntekontokredit",
+     "500 000"
+    ],
+    [
+     "Låneram för samhällsinvesteringar"
+    ],
+    [
+     "- Låneram",
+     "75 000 000"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Avgiftsbelagd verksamhet där intäkterna disponeras",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Uppdragsverksamhet1",
+     "488 364",
+     "30 072",
+     "10 251 617",
+     "10 372 539",
+     "-120 922",
+     "397 514"
+    ]
+   ]
+  }
+ ],
+ "has_fee_section": true,
+ "exceptions_text": "**1. Myndigheten får disponera överskott från försäljningar av övnings- och skjutfält, inklusive byggnadsobjekt, för att bekosta: – avveckling av fält som varken kan avyttras eller användas – avveckling av riskarrenden eller inlösen av mark, t.ex. inom inarrenderade riskområden – avveckling och förvaltning av fält som är under försäljning – förädling och röjning av fält som återtas för militär verksamhet – metod- och teknikutveckling för hantering av oexploderad ammunition – historisk dokumentation, verifiering och röjning av oexploderad ammunition – insamling av uppgifter om tidigare verksamhet som kan utgöra en miljöbelastning och för sammanställning av miljödokumentation.**\n\n**2. Inom ramen för sitt förvaltningsuppdrag och de ekonomiska resurser som myndigheten förfogar över får myndigheten, utan hinder av beloppsbegränsningen i 10 § förordningen (1993:527) om förvaltning av statliga fastigheter, m.m., besluta om investeringar när den beräknade investeringskostnaden inte överstiger 200 000 000 kronor per projekt och, om det är fråga om ett förvärv av fast egendom, kravet på affärsmässighet i 8 kap. 7 § budgetlagen (2011:203) är uppfyllt.**\n\nMyndigheten får besluta om förvärv av fast egendom, även om det\\\nfinns skäl att göra avsteg från kravet på affärsmässighet, om den\\\nberäknade investeringskostnaden inte överstiger 40 000 000 kronor.\\\nSkälen för avsteg från affärsmässighet ska dokumenteras. Det kan i\\\nvissa fall finnas skäl att frångå kravet på affärsmässighet vid förvärv\\\nav fast egendom för genomförande av riksdagens beslut om\\\ntotalförsvaret (prop. 2025/26:1 utg.omr. 2 avsnitt 5.6.1).\n\n**3. Myndigheten får besluta om att förvaltningsansvaret enligt 16 § förordningen om förvaltning av statliga fastigheter, m.m. ska föras över till andra fastighetsförvaltande myndigheter i sådana fall där berörda myndigheter är överens om villkoren för överföringen, och fastighetens marknadsvärde inte överstiger 20 000 000 kronor.**\n\n**4. Myndigheten får, utan att begära regeringens medgivande enligt 9 § andra stycket förordningen (1993:528) om statliga myndigheters lokalförsörjning, ingå arrendeavtal med en längre löptid än sex år om arrendeavgiften inte överstiger 100 000 kr per år.**\n\n**ÖVRIGA BESTÄMMELSER**\n\nMyndigheten ska redovisa 110 000 kronor mot inkomsttitel 2811 Övriga\\\ninkomster av statens verksamhet för att finansiera den förvaltningsgemensamma digitala infrastrukturen.\n\nMyndigheten får finansiera en investering i en fastighet som redovisas som omsättningstillgång med lån i Riksgäldskontoret.\n\nPå regeringens vägnar\n\nNiklas Wykman\n\nAlexander Bornevall\n\n**Kopia till**\n\nStatsrådsberedningen/REV\\\nUtrikesdepartementet/UND\\\nFörsvarsdepartementet/CF och MF\\\nFinansdepartementet/BA, ESA och SFÖ\\\nKlimat- och näringsdepartementet/NM\\\nKulturdepartementet/KL\\\nArbetsmarknadsdepartementet/PE\\\nLandsbygds- och infrastrukturdepartementet\\\nFörvaltningsavdelningen/EKA\\\nriksdagen, finansutskottet\\\nBoverket\\\nFörsvarets materielverk\\\nFörsvarsmakten\\\nMyndigheten för samhällsskydd och beredskap\\\nRiksgäldskontoret\\\nStatskontoret\\\nTotalförsvarets forskningsinstitut",
+ "summary": {
+  "n_goals": 1,
+  "n_org": 1,
+  "n_assignments": 9,
+  "n_deadlines": 3,
+  "deadlines": [
+   "2026-04-03",
+   "2026-04-29",
+   "2026-09-25"
+  ],
+  "partners": [
+   "Försvarets materielverk",
+   "Försvarsmakten",
+   "Naturvårdsverket",
+   "Riksgäldskontoret"
+  ],
+  "n_appropriations": 0,
+  "appropriations_total_tkr": 0,
+  "payment_plan_total_tkr": 0,
+  "md_chars": 15630
+ },
+ "layout": "standard",
+ "warnings": []
+}

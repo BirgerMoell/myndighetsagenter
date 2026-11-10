@@ -1,0 +1,577 @@
+{
+ "schema_version": 1,
+ "id": 26060,
+ "original_rbid": 26060,
+ "type": "Regleringsbrev",
+ "category": "Myndighet",
+ "date": "2025-12-18",
+ "year": "2026",
+ "name": "Tullverket",
+ "slug": "tullverket",
+ "department": "Finansdepartementet",
+ "expenditure_areas": [
+  3
+ ],
+ "registry_numbers": [
+  "Fi2025/01880",
+  "Fi2025/02222 (delvis)"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1"
+  ],
+  "bet": [
+   "2025/26:SkU1"
+  ],
+  "rskr": [
+   "2025/26:97"
+  ]
+ },
+ "n_attachments_stated": 2,
+ "mission": "Tullverket ska bidra till att säkerställa finansieringen av den offentliga sektorn och bidra till ett väl fungerande samhälle för allmänhet och företag samt motverka brottslighet.\n\nAllmänhet och företag ska ha förtroende för Tullverkets verksamhet och alla ska ges samma möjligheter och villkor vid kontakter med myndigheten.\n\nTullverkets uppgifter framgår av ett flertal författningar, bland annat EU:s tullagstiftning, tullagen (2016:253) och förordningen (2016:1332) med instruktion för Tullverket.",
+ "goals": [
+  {
+   "title": "Den brottsförebyggande verksamheten",
+   "group": [],
+   "text": "Tullverket ska redovisa hur myndigheten har stärkt arbetet med att förebygga brottslighet i samband med in- och utförsel av varor. Tullverket ska också redovisa effekterna av myndighetens utökade möjligheter att ingripa mot brott, t.ex. när det gäller stöldgods som är på väg att föras ut ur landet.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26060:goals:0"
+  },
+  {
+   "title": "Kontrollverksamheten",
+   "group": [],
+   "text": "Tullverket har ett ansvar för att inom myndighetens kontrollverksamhet bedriva ett arbete inom samtliga risk- och restriktionsområden\\*.\\*Ambitionsnivån avseende att förhindra smuggling av narkotika, vapen och explosiva varor liksom att förhindra storskalig eller frekvent illegal införsel av alkohol och tobak samt utförsel av stöldgods ska fortsätta att öka. Tullverket ska redovisa resultatet av kontrollverksamheten avseende smuggling av narkotika, vapen och explosiva varor samt storskalig eller frekvent illegal införsel av alkohol och tobak samt utförsel av stöldgods. Av redovisningen ska det även framgå hur ambitionsnivån ökat, vilka överväganden som har gjorts och hur den ökade ambitionsnivån har balanserats i förhållande till insatser på övriga risk- och restriktionsområden.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "tillsyn_kontroll"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26060:goals:1"
+  },
+  {
+   "title": "Förstärkt arbete mot den kriminella ekonomin",
+   "group": [],
+   "text": "En målbild för hur Skatteverket, Tullverket och Kronofogdemyndigheten ska stärka insatserna för att motverka den kriminella ekonomin presenterades i augusti 2023. Tullverket ska redovisa genomförda åtgärder och resultatet av dessa samt analysera utvecklingen jämfört med september 2023.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Kronofogdemyndigheten",
+    "Skatteverket"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26060:goals:2"
+  },
+  {
+   "title": "Skattefelet",
+   "group": [],
+   "text": "Skillnaden mellan de teoretiskt riktiga och de fastställda beloppen för skatter och avgifter (skattefelet) ska vara så liten som möjligt. Tullverket ska vartannat år bedöma skattefelets storlek och i vilken grad skattefelet har förändrats. Nästa bedömning ska lämnas i årsredovisningen för 2026.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "årsredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26060:goals:3"
+  },
+  {
+   "title": "Verksamhetsutveckling",
+   "group": [],
+   "text": "Tullverket ska redovisa de viktigaste verksamhets- och it-utvecklingsinsatser som har genomförts under året. Redovisningen ska göras utifrån förväntad nytta, påverkan på myndighetens sätt att utföra sina uppgifter och när effekten förväntas uppstå. Vidare ska myndigheten redovisa vilka större framtida utmaningar som har identifierats, men där något utvecklingsarbete ännu inte har inletts. Tullverket ska även redovisa de effekter som har uppkommit under året som härrör från verksamhetsutveckling som genomförts under året eller tidigare.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "digitalisering_ai"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26060:goals:4"
+  },
+  {
+   "title": "Generella redovisningskrav",
+   "group": [],
+   "text": "Tullverkets analyser ska utgå från för myndighetens verksamhet relevanta faktorer. Myndigheten ska i relevanta delar använda och redovisa 10-åriga tidsserier. En sammanställning över de indikatorer som används ska redovisas i en bilaga.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "statistik_data"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26060:goals:5"
+  },
+  {
+   "title": "Sanktioner",
+   "group": [],
+   "text": "Tullverket ska redovisa vilka förebyggande åtgärder myndigheten har vidtagit, enskilt och i samverkan med andra myndigheter, för att främja efterlevnaden av EU:s sanktionsförordningar och den svenska sanktionslagstiftningen.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26060:goals:6"
+  }
+ ],
+ "org": [],
+ "assignments": [
+  {
+   "title": "Utgiftsprognoser",
+   "group": [],
+   "text": "Tullverket ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Av prognoskommentarerna ska det framgå vilka antaganden som har använts, vilka osäkerhetsfaktorer som finns samt eventuella förändringar som rör finansiering, kostnader och verksamhet. Vid väsentliga prognosavvikelser ska myndigheten ange orsaker till dessa samt vilka åtgärder som har vidtagits eller som planeras för att verksamheten ska bedrivas inom tillgängliga ekonomiska ramar. Prognoserna lämnas i informationssystemet Hermes senast den\n\n2 februari\\\n22 april\\\n24 juli\\\n9 november",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26060:assignments:0"
+  },
+  {
+   "title": "Pågående uppdrag",
+   "group": [],
+   "text": "Pågående uppdrag till Tullverket framgår av bilaga 1.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "26060:assignments:1"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "1:2",
+   "name": "Tullverket",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 3,
+    "name": "Skatt, tull och exekution"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Tullverket",
+     "amount_tkr": 3441754,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Tullverket (ram)",
+       "amount_tkr": 3441754
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Tullverket",
+     "text": "1. Anslagsposten får användas för Tullverkets förvaltningsutgifter.\n2. Från anslagsposten ska kostnaderna för en av regeringen utsedd tjänsteman stationerad vid Sveriges ständiga representation vid EU i Bryssel betalas.\n3. Från anslagsposten får högst 10 000 000 kronor användas med anledning av eventuella särskilda krav från Europeiska kommissionen på grund av att Tullverket underlåtit att iaktta skyldigheten att fastställa och betala in traditionella egna medel. Detta ska dock inte gälla krav på egna medel till följd av beslut som ligger utanför Tullverkets kontroll. Ett exempel på detta är underlåtenhet som kan härledas till gällande svenska bestämmelser snarare än Tullverkets tillämpning av dessa. Ett annat exempel är fall där räntekostnader uppkommit till följd av att regeringen har valt att driva ett ärende mot Europeiska kommissionen.\n4. Tullverket ska kunna använda och samverka med stöd av det gemensamma radiokommunikationssystemet Rakel. Från anslagsposten får högst 13 005 000 kronor användas för abonnemangsavgift för Rakel. Beloppet ska betalas till Myndigheten för civilt försvar efter fakturering."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "1",
+     "max": 10000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "1",
+     "max": 13005000,
+     "unit": "kronor"
+    }
+   ]
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "1:2 Tullverket",
+   "ap": "ap.1",
+   "Anslagskredit": 103252,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 1050000,
+  "Räntekontokredit": 150000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 286813
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 286813
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 286813
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 286813
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 286813
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 286813
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 286813
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 286813
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 286813
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 286813
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 286813
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 286811
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:2 Tullverket",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "103 252",
+     "3 %",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "1 050 000"
+    ],
+    [
+     "Räntekontokredit",
+     "150 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "286 813"
+    ],
+    [
+     "2026-02-25",
+     "286 813"
+    ],
+    [
+     "2026-03-25",
+     "286 813"
+    ],
+    [
+     "2026-04-25",
+     "286 813"
+    ],
+    [
+     "2026-05-25",
+     "286 813"
+    ],
+    [
+     "2026-06-25",
+     "286 813"
+    ],
+    [
+     "2026-07-25",
+     "286 813"
+    ],
+    [
+     "2026-08-25",
+     "286 813"
+    ],
+    [
+     "2026-09-25",
+     "286 813"
+    ],
+    [
+     "2026-10-25",
+     "286 813"
+    ],
+    [
+     "2026-11-25",
+     "286 813"
+    ],
+    [
+     "2026-12-25",
+     "286 811"
+    ],
+    [
+     "Summa",
+     "3 441 754"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "1:2 ap.1",
+     "Tullverket"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Uppdragsverksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Kontroll av handel med sälprodukter1",
+     "-83",
+     "5",
+     "10",
+     "5",
+     "5",
+     "-73"
+    ],
+    [
+     "Kontroll av päls av katt och hund1",
+     "-70",
+     "5",
+     "25",
+     "20",
+     "5",
+     "-60"
+    ],
+    [
+     "Tjänsteexport1",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0"
+    ],
+    [
+     "Summa",
+     "-153",
+     "10",
+     "35",
+     "25",
+     "10",
+     "-133"
+    ]
+   ]
+  },
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna ej disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "Ink. tit.",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Offentligrättslig verksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Dröjsmålsränta1",
+     "2397",
+     "74 245",
+     "80",
+     "80",
+     "0",
+     "80",
+     "74 405"
+    ]
+   ]
+  }
+ ],
+ "has_fee_section": true,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 7,
+  "n_org": 0,
+  "n_assignments": 2,
+  "n_deadlines": 0,
+  "deadlines": [],
+  "partners": [
+   "Kronofogdemyndigheten",
+   "Skatteverket"
+  ],
+  "n_appropriations": 1,
+  "appropriations_total_tkr": 3441754,
+  "payment_plan_total_tkr": 3441754,
+  "md_chars": 10563
+ },
+ "layout": "standard",
+ "warnings": []
+}

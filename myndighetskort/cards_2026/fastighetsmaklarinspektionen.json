@@ -1,0 +1,444 @@
+{
+ "schema_version": 1,
+ "id": 26245,
+ "original_rbid": 25848,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-03-05",
+ "year": "2026",
+ "name": "Fastighetsmäklarinspektionen",
+ "slug": "fastighetsmaklarinspektionen",
+ "department": "Finansdepartementet",
+ "expenditure_areas": [
+  18
+ ],
+ "registry_numbers": [
+  "Fi2026/00597"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1"
+  ],
+  "bet": [
+   "2025/26:CU1"
+  ],
+  "rskr": [
+   "2025/26:104"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "Myndigheten ska bidra till väl fungerande konsumentmarknader, balanserade och tydliga regler för näringsidkare, ett starkt konsumentskydd och en hållbar konsumtion (prop. 2024/25:1 utg.omr. 18). Myndighetens uppgifter framgår bl.a. av förordningen (2009:606) med instruktion för Fastighetsmäklarinspektionen.",
+ "goals": [
+  {
+   "title": null,
+   "group": [],
+   "text": "Myndigheten ska redovisa hur myndighetens insatser, i form av tillsyn, information till fastighetsmäklare och fastighetsmäklarföretag samt samarbete med andra myndigheter, motverkar penningtvätt och finansiering av terrorism. Myndigheten ska även lämna förslag på hur myndigheten kan bidra till att stärka samarbetet med andra myndigheter avseende arbetet mot penningtvätt och finansiering av terrorism. Av redovisningen ska grunderna för myndighetens prioriteringar och val av insatser framgå.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "föreslå",
+    "tillsyn_kontroll"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26245:goals:0"
+  }
+ ],
+ "org": [],
+ "assignments": [
+  {
+   "title": "Prognoser",
+   "group": [],
+   "text": "Myndigheten ska redovisa prognoser med tillhörande kommentarer för 2026–2029 vid nedanstående tillfällen. Av kommentarerna ska framgå vilka antaganden som använts i prognosen, osäkerhetsfaktorer och eventuella förändringar av förutsättningarna för myndigheten att bedriva sin verksamhet. Vidare ska förändringar i förhållande till föregående prognostillfälle samt den av myndigheten beslutade budgeten kommenteras. Vid prognosavvikelser ska myndigheten ange vilka åtgärder som vidtagits eller planeras att vidtas. Prognoserna ska lämnas i informationssystemet Hermes senast den\n\n– 2 februari\\\n– 22 april\\\n– 24 juli\\\n– 9 november.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26245:assignments:0"
+  },
+  {
+   "title": "Öka förmågan att använda AI och ny teknik genom datadrivet arbete",
+   "group": [],
+   "text": "Myndigheten ska analysera och redovisa hur den arbetar datadrivet, dvs. använder data till stöd för sina analyser och beslut. Myndigheten ska också redovisa de åtgärder som den har vidtagit för att förbättra sin förmåga att arbeta datadrivet och resultatet av åtgärderna.\\\nI redovisningen ska ingå en beskrivning av hur ett datadrivet arbetssätt och användning av AI har bidragit till att utveckla myndighetens verksamhet och höja kvaliteten i utförandet av myndighetens uppgifter. Myndigheten ska även redovisa hur den beaktar risker och arbetar för att användningen av data och AI ska ske på ett etiskt, säkert och icke-diskriminerande sätt. Myndigheten ska vidare analysera och redovisa förutsättningarna för att ytterligare öka sin förmåga att använda AI och ny teknik genom att arbeta datadrivet. Uppdraget ska senast den 15 maj 2026 redovisas till Regeringskansliet (Finansdepartementet).",
+   "dates": [
+    "2026-05-15"
+   ],
+   "deadlines": [
+    "2026-05-15"
+   ],
+   "recipients": [
+    "Regeringskansliet (Finansdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla",
+    "statistik_data",
+    "digitalisering_ai"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26245:assignments:1"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "2:3",
+   "name": "Fastighetsmäklarinspektionen",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 18,
+    "name": "Samhällsplanering, bostadsförsörjning och byggande samt konsumentpolitik"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Fastighetsmäklarinspektionen",
+     "amount_tkr": 36963,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Fastighetsmäklarinspektionen (ram)",
+       "amount_tkr": 36963
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Fastighetsmäklarinspektionen",
+     "text": "Medlen ska användas för Fastighetsmäklarinspektionens förvaltningsutgifter."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "2:3 Fastighetsmäklarinspektionen",
+   "ap": "ap.1",
+   "Anslagskredit": 1108,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 6000,
+  "Räntekontokredit": 4000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 3080
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 3080
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 3080
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 3080
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 3080
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 3080
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 3080
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 3080
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 3080
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 3080
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 3080
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 3083
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "2:3 Fastighetsmäklarinspektionen",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "1 108",
+     "3 %",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "6 000"
+    ],
+    [
+     "Räntekontokredit",
+     "4 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "3 080"
+    ],
+    [
+     "2026-02-25",
+     "3 080"
+    ],
+    [
+     "2026-03-25",
+     "3 080"
+    ],
+    [
+     "2026-04-25",
+     "3 080"
+    ],
+    [
+     "2026-05-25",
+     "3 080"
+    ],
+    [
+     "2026-06-25",
+     "3 080"
+    ],
+    [
+     "2026-07-25",
+     "3 080"
+    ],
+    [
+     "2026-08-25",
+     "3 080"
+    ],
+    [
+     "2026-09-25",
+     "3 080"
+    ],
+    [
+     "2026-10-25",
+     "3 080"
+    ],
+    [
+     "2026-11-25",
+     "3 080"
+    ],
+    [
+     "2026-12-25",
+     "3 083"
+    ],
+    [
+     "Summa",
+     "36 963"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "2:3 ap.1",
+     "Fastighetsmäklarinspektionen"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna ej disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "Ink. tit.",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Ansöknings- och registeravgift",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Ansökningsverksamheten2",
+     "2553",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0"
+    ],
+    [
+     "Ansökningsverksamheten1",
+     "2553",
+     "-14 915",
+     "201",
+     "3 135",
+     "3 069",
+     "66",
+     "-14 648"
+    ],
+    [
+     "Summa",
+     "-14 915",
+     "201",
+     "3 135",
+     "3 069",
+     "66",
+     "-14 648"
+    ],
+    [
+     "Årliga avgifter",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Tillsyns- och informationsverksamhet2",
+     "2553",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0"
+    ],
+    [
+     "Tillsyns- och informationsverksamhet1",
+     "2553",
+     "30 702",
+     "-1 398",
+     "30 875",
+     "33 762",
+     "-2 887",
+     "26 417"
+    ],
+    [
+     "Summa",
+     "30 702",
+     "-1 398",
+     "30 875",
+     "33 762",
+     "-2 887",
+     "26 417"
+    ]
+   ]
+  }
+ ],
+ "has_fee_section": true,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 1,
+  "n_org": 0,
+  "n_assignments": 2,
+  "n_deadlines": 1,
+  "deadlines": [
+   "2026-05-15"
+  ],
+  "partners": [],
+  "n_appropriations": 1,
+  "appropriations_total_tkr": 36963,
+  "payment_plan_total_tkr": 36963,
+  "md_chars": 7324
+ },
+ "layout": "standard",
+ "warnings": []
+}

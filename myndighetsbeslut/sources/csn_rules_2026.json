@@ -1,0 +1,815 @@
+{
+ "retrieved": "2026-11-10",
+ "rules": [
+  {
+   "key": "prisbasbelopp_2026",
+   "value": 59200,
+   "unit": "SEK",
+   "valid_for": "2026",
+   "statute": "Socialförsäkringsbalken 2 kap. 6-7 §§ (fastställs av regeringen)",
+   "source_url": "https://www.csn.se/om-csn/aktuellt/nyhetsflode/2025-09-18-hogre-studiemedel-och-fribelopp-fran-arsskiftet.html",
+   "quote": "Regeringen har nu fastställt 2026 års prisbasbelopp till 59 200 kr.",
+   "confidence": "verified",
+   "note": "Taken from CSN news item (not from SCB/regeringen directly; the SFB section was not fetched). Cross-checked: all 2026 CSN amounts reproduce from statute percentages x 59 200 with floor rounding."
+  },
+  {
+   "key": "studiemedel_weekly_amounts_general_grant",
+   "value": {
+    "100": {
+     "bidrag": 1030,
+     "lan": 2368,
+     "total": 3398
+    },
+    "75": {
+     "bidrag": 775,
+     "lan": 1776,
+     "total": 2551
+    },
+    "50": {
+     "bidrag": 509,
+     "lan": 1190,
+     "total": 1699
+    },
+    "four_weeks": {
+     "100": {
+      "bidrag": 4120,
+      "lan": 9472,
+      "total": 13592
+     },
+     "75": {
+      "bidrag": 3100,
+      "lan": 7104,
+      "total": 10204
+     },
+     "50": {
+      "bidrag": 2036,
+      "lan": 4760,
+      "total": 6796
+     }
+    }
+   },
+   "unit": "SEK per week",
+   "valid_for": "2026",
+   "statute": "Studiestödslagen 3 kap. 11 § (total 5,74/4,31/2,87 % of PBB) and 12 § (bidrag 1,74/1,31/0,86 %)",
+   "source_url": "https://www.csn.se/download/18.4d7595ec19a0342c1ca493/1763026113261/2437B_belopp_2511.pdf",
+   "quote": "Studiemedel med generellt bidrag: Heltid 1 030 kr, 2 368 kr, 3 398 kr",
+   "confidence": "verified",
+   "note": "PDF 'Studiemedelsbelopp för studier i Sverige 2026' (CSN nr 2437B/2511), read as rendered image. Full-time row also on https://www.csn.se/bidrag-och-lan/studiemedel.html. Rounding: floor(pct*PBB) for total and bidrag; loan = total - bidrag. Pace bands: >=50 and <75 -> 50; >=75 and <100 -> 75; 100."
+  },
+  {
+   "key": "studiemedel_statutory_percentages",
+   "value": {
+    "total": {
+     "100": 5.74,
+     "75": 4.31,
+     "50": 2.87
+    },
+    "bidrag_general": {
+     "100": 1.74,
+     "75": 1.31,
+     "50": 0.86
+    },
+    "bidrag_higher": {
+     "100": 3.85,
+     "75": 2.89,
+     "50": 1.92
+    },
+    "tillaggslan": {
+     "100": 1.98,
+     "75": 1.49,
+     "50": 0.99
+    },
+    "min_weekly_amount": 0.25
+   },
+   "unit": "percent of prisbasbelopp per week",
+   "valid_for": "2026",
+   "statute": "Studiestödslagen 3 kap. 11, 12, 13, 14, 22 §§",
+   "source_url": "https://data.riksdagen.se/dokument/sfs-1999-1395.text",
+   "quote": "5,74 procent av prisbasbeloppet vid studier på heltid",
+   "confidence": "verified",
+   "note": "Law text consolidated t.o.m. SFS 2026:1688."
+  },
+  {
+   "key": "higher_grant_weekly_amounts",
+   "value": {
+    "100": {
+     "bidrag": 2279,
+     "lan": 1119,
+     "total": 3398
+    },
+    "75": {
+     "bidrag": 1710,
+     "lan": 841,
+     "total": 2551
+    },
+    "50": {
+     "bidrag": 1136,
+     "lan": 563,
+     "total": 1699
+    }
+   },
+   "unit": "SEK per week",
+   "valid_for": "2026",
+   "statute": "Studiestödslagen 3 kap. 13 §",
+   "source_url": "https://www.csn.se/download/18.4d7595ec19a0342c1ca493/1763026113261/2437B_belopp_2511.pdf",
+   "quote": "Studiemedel med högre bidrag: Heltid 2 279 kr, 1 119 kr, 3 398 kr",
+   "confidence": "verified",
+   "note": "Full-time row also on https://www.csn.se/bidrag-och-lan/studiemedel/hogre-bidrag.html. 75/50 % rows only from the PDF image."
+  },
+  {
+   "key": "higher_grant_eligibility",
+   "value": {
+    "education": [
+     "komvux grundläggande/gymnasial nivå",
+     "folkhögskola grundskole-/gymnasienivå",
+     "pilotverksamhet nationell yrkesutbildning",
+     "KPU leading to grundlärar-/ämneslärarexamen (from year turning 25)"
+    ],
+    "age_25_plus": "from the calendar year the student turns 25: grundskolenivå; gymnasienivå only if lacking three-year gymnasieutbildning or equivalent",
+    "age_20_24": "from 2nd half of year turning 20 through year turning 24: unemployed, enrolled in jobbgarantin för ungdomar or jobb- och utvecklingsgarantin, lacks gymnasieexamen, no studiestöd in the previous 6 months",
+    "exclusion": "not if >=120 högskolepoäng completed",
+    "budget_cap": "granted within appropriated funds, in order of application arrival"
+   },
+   "unit": "",
+   "valid_for": "2026",
+   "statute": "Studiestödslagen 3 kap. 13 §; studiestödsförordningen 3 kap. 9, 9 a, 10 §§",
+   "source_url": "https://www.csn.se/bidrag-och-lan/studiemedel/hogre-bidrag.html",
+   "quote": "Om pengarna tar slut kan du inte få det högre bidraget för det året.",
+   "confidence": "verified",
+   "note": ""
+  },
+  {
+   "key": "tillaggslan",
+   "value": {
+    "weekly": {
+     "100": 1172,
+     "75": 882,
+     "50": 586
+    },
+    "four_weeks": {
+     "100": 4688,
+     "75": 3528,
+     "50": 2344
+    },
+    "max_weeks_fulltime_equiv": 120,
+    "min_age": "calendar year the student turns 25",
+    "income_requirement_sek": 245680,
+    "income_requirement_rule": "income in calendar year before study start >= 415 % of the PBB for the year studies start; income = överskott i tjänst + näringsverksamhet (not kapital)",
+    "income_requirement_2025_start": 244020,
+    "other": [
+     "must have studiemedel (CSN: bidrag och lån) for the same weeks",
+     "studies in Sweden, EU/EES or Switzerland",
+     "föräldrapenning exception: an earlier year's income may be used"
+    ]
+   },
+   "unit": "SEK per week",
+   "valid_for": "2026",
+   "statute": "Studiestödslagen 3 kap. 14 §; studiestödsförordningen 3 kap. 12 §",
+   "source_url": "https://www.csn.se/bidrag-och-lan/studiemedel/tillaggslan.html",
+   "quote": "ska du ha tjänat minst 245 680 kronor under 2025",
+   "confidence": "verified",
+   "note": ""
+  },
+  {
+   "key": "tillaggsbidrag_children",
+   "value": {
+    "weekly": {
+     "100": {
+      "1": 195,
+      "2": 319,
+      "3": 384,
+      "4": 449,
+      "5": 514
+     },
+     "75": {
+      "1": 148,
+      "2": 242,
+      "3": 289,
+      "4": 336,
+      "5": 383
+     },
+     "50": {
+      "1": 94,
+      "2": 159,
+      "3": 194,
+      "4": 229,
+      "5": 264
+     }
+    },
+    "percent_of_pbb_per_child": {
+     "100": {
+      "first": 0.33,
+      "second": 0.21,
+      "third_and_more": 0.11
+     },
+     "75": {
+      "first": 0.25,
+      "second": 0.16,
+      "third_and_more": 0.08
+     },
+     "50": {
+      "first": 0.16,
+      "second": 0.11,
+      "third_and_more": 0.06
+     }
+    },
+    "conditions": [
+     "vårdnadshavare for the child",
+     "has studiemedel for the weeks",
+     "through the calendar half-year the child turns 18",
+     "only one guardian at a time"
+    ]
+   },
+   "unit": "SEK per week",
+   "valid_for": "2026",
+   "statute": "Studiestödslagen 3 kap. 13 a-13 b §§; studiestödsförordningen 3 kap. 11 a-11 d §§",
+   "source_url": "https://www.csn.se/bidrag-och-lan/studiemedel/tillaggsbidrag.html",
+   "quote": "Du kan få bidraget till och med det kalender­halvår barnet fyller 18 år.",
+   "confidence": "verified",
+   "note": "CSN table reproduces only if each child's increment is floored separately (e.g. 5 children full-time = 195+124+65+65+65 = 514, not floor(0.87 %*PBB)=515). More than 5 children: add the third-child increment (65/47/35) each."
+  },
+  {
+   "key": "fribelopp_table_2026",
+   "value": {
+    "1": {
+     "100": 223669,
+     "75": 225007,
+     "50": 226457
+    },
+    "2": {
+     "100": 217932,
+     "75": 220709,
+     "50": 223592
+    },
+    "3": {
+     "100": 212196,
+     "75": 216411,
+     "50": 220727
+    },
+    "4": {
+     "100": 206460,
+     "75": 212113,
+     "50": 217861
+    },
+    "5": {
+     "100": 200723,
+     "75": 207815,
+     "50": 214996
+    },
+    "6": {
+     "100": 194987,
+     "75": 203517,
+     "50": 212131
+    },
+    "7": {
+     "100": 189250,
+     "75": 199219,
+     "50": 209266
+    },
+    "8": {
+     "100": 183514,
+     "75": 194921,
+     "50": 206400
+    },
+    "9": {
+     "100": 177777,
+     "75": 190624,
+     "50": 203535
+    },
+    "10": {
+     "100": 172041,
+     "75": 186326,
+     "50": 200670
+    },
+    "11": {
+     "100": 166304,
+     "75": 182028,
+     "50": 197804
+    },
+    "12": {
+     "100": 160568,
+     "75": 177730,
+     "50": 194939
+    },
+    "13": {
+     "100": 154831,
+     "75": 173432,
+     "50": 192074
+    },
+    "14": {
+     "100": 149095,
+     "75": 169134,
+     "50": 189209
+    },
+    "15": {
+     "100": 143358,
+     "75": 164836,
+     "50": 186343
+    },
+    "16": {
+     "100": 137622,
+     "75": 160538,
+     "50": 183478
+    },
+    "17": {
+     "100": 131885,
+     "75": 156240,
+     "50": 180613
+    },
+    "18": {
+     "100": 126149,
+     "75": 151942,
+     "50": 177748
+    },
+    "19": {
+     "100": 120412,
+     "75": 147644,
+     "50": 174882
+    },
+    "20": {
+     "100": 114676,
+     "75": 143346,
+     "50": 172017
+    },
+    "21": {
+     "100": 108939,
+     "75": 139048,
+     "50": 169152
+    },
+    "22": {
+     "100": 103203,
+     "75": 134751,
+     "50": 166286
+    },
+    "23": {
+     "100": 97466,
+     "75": 130453,
+     "50": 163421
+    },
+    "24": {
+     "100": 91730,
+     "75": 126155,
+     "50": 160556
+    },
+    "25": {
+     "100": 85993,
+     "75": 121857,
+     "50": 157691
+    },
+    "26": {
+     "100": 80257,
+     "75": 117559,
+     "50": 154825
+    }
+   },
+   "unit": "SEK per kalenderhalvår, keyed by weeks with studiemedel in the half-year then study pace",
+   "valid_for": "2026",
+   "statute": "Studiestödslagen 3 kap. 16-17 §§",
+   "source_url": "https://www.csn.se/bidrag-och-lan/studiemedel/inkomst-och-fribelopp.html",
+   "quote": "Fribelopp för studiemedel, från 1 januari 2026",
+   "confidence": "verified",
+   "note": "All 78 cells verified equal to floor((base% + step%*(20-weeks)) * 59200), base 193.71/242.14/290.57 %, step 9.69/7.26/4.84 percentage points per week (3 kap. 17 §). CSN table stops at 26 weeks. Same fribelopp applies if only bidrag is taken. The same CSN page still contains stale text ('86 782 kronor' for 20 weeks and a worked example using fribelopp 90 000) - ignore those."
+  },
+  {
+   "key": "fribelopp_table_2025",
+   "value": {
+    "1": {
+     "100": 222158,
+     "75": 223487,
+     "50": 224927
+    },
+    "2": {
+     "100": 216460,
+     "75": 219218,
+     "50": 222081
+    },
+    "3": {
+     "100": 210762,
+     "75": 21949,
+     "50": 219235
+    },
+    "4": {
+     "100": 205065,
+     "75": 210680,
+     "50": 216389
+    },
+    "5": {
+     "100": 199367,
+     "75": 206411,
+     "50": 213543
+    },
+    "6": {
+     "100": 193669,
+     "75": 202142,
+     "50": 210698
+    },
+    "7": {
+     "100": 187971,
+     "75": 197873,
+     "50": 207852
+    },
+    "8": {
+     "100": 182274,
+     "75": 193604,
+     "50": 205006
+    },
+    "9": {
+     "100": 176576,
+     "75": 189336,
+     "50": 202160
+    },
+    "10": {
+     "100": 170878,
+     "75": 185067,
+     "50": 199314
+    },
+    "11": {
+     "100": 165180,
+     "75": 180798,
+     "50": 196468
+    },
+    "12": {
+     "100": 159483,
+     "75": 176529,
+     "50": 193622
+    },
+    "13": {
+     "100": 153785,
+     "75": 172260,
+     "50": 190776
+    },
+    "14": {
+     "100": 148087,
+     "75": 167991,
+     "50": 187930
+    },
+    "15": {
+     "100": 142390,
+     "75": 163722,
+     "50": 185084
+    },
+    "16": {
+     "100": 136692,
+     "75": 159453,
+     "50": 182238
+    },
+    "17": {
+     "100": 130994,
+     "75": 155184,
+     "50": 179392
+    },
+    "18": {
+     "100": 125296,
+     "75": 150916,
+     "50": 176547
+    },
+    "19": {
+     "100": 119599,
+     "75": 146647,
+     "50": 173701
+    },
+    "20": {
+     "100": 113901,
+     "75": 142378,
+     "50": 170855
+    },
+    "21": {
+     "100": 108203,
+     "75": 138109,
+     "50": 168009
+    },
+    "22": {
+     "100": 102506,
+     "75": 133840,
+     "50": 165163
+    },
+    "23": {
+     "100": 96808,
+     "75": 129571,
+     "50": 162317
+    },
+    "24": {
+     "100": 91110,
+     "75": 125302,
+     "50": 159471
+    },
+    "25": {
+     "100": 85412,
+     "75": 121033,
+     "50": 156625
+    },
+    "26": {
+     "100": 79715,
+     "75": 116765,
+     "50": 153779
+    }
+   },
+   "unit": "SEK per kalenderhalvår",
+   "valid_for": "2025",
+   "statute": "Studiestödslagen 3 kap. 16-17 §§",
+   "source_url": "https://www.csn.se/bidrag-och-lan/studiemedel/inkomst-och-fribelopp.html",
+   "quote": "Fribelopp för studiemedel, från 1 januari 2025",
+   "confidence": "verified",
+   "note": "CSN page prints '21 949' for 3 weeks/75 % - an obvious typo on the page (expected about 214 949); value stored as printed."
+  },
+  {
+   "key": "fribelopp_income_definition",
+   "value": {
+    "counts": "överskott i inkomstslagen tjänst, näringsverksamhet och kapital enligt beslut om slutlig skatt, attributed to the calendar half-year",
+    "half_years": [
+     "1 Jan-30 Jun",
+     "1 Jul-31 Dec"
+    ],
+    "timing": "salary counts in the half-year it is paid; capital gain on home sale counts when the purchase contract is signed; capital income normally split 50/50 between half-years in the after-check",
+    "examples_counted": [
+     "lön",
+     "a-kassa",
+     "föräldrapenning",
+     "sjukpenning",
+     "vinst bostadsförsäljning",
+     "kapitalinkomster",
+     "omställningsstudiestöd (bidragsdelen)",
+     "skattepliktig pension",
+     "utländska inkomster"
+    ],
+    "not_counted": [
+     "bostadsbidrag",
+     "barnbidrag",
+     "skatteåterbäring",
+     "arv och gåvor",
+     "studiemedel itself"
+    ],
+    "decision_basis": "decision is based on the applicant's own estimated income; checked afterwards against slutlig skatt (about two years later)",
+    "hogskola_term_rule": "for högskola studies a 20-week autumn term is deemed to fall entirely in the second half-year (förordningen 3 kap. 16 §)"
+   },
+   "unit": "",
+   "valid_for": "2026",
+   "statute": "Studiestödslagen 3 kap. 19 §; studiestödsförordningen 3 kap. 16 §",
+   "source_url": "https://data.riksdagen.se/dokument/sfs-1999-1395.text",
+   "quote": "överskott i inkomstslagen tjänst, näringsverksamhet och kapital enligt beslut om slutlig skatt",
+   "confidence": "verified",
+   "note": ""
+  },
+  {
+   "key": "fribelopp_reduction_rule",
+   "value": {
+    "reduction_percent_of_excess_income": 61,
+    "applies_to": "the amount under 3 kap. 11 § (bidrag + lån) for the half-year; reduction split between bidrag and lån in proportion to their shares (3 kap. 21 §)",
+    "minimum_weekly_amount_rule": "no studiemedel if amount per week (average over the half-year) is equal to or below 0.25 % of PBB",
+    "minimum_weekly_amount_sek_2026": 149,
+    "if_zero": "if income removes studiemedel entirely, no tilläggsbidrag, tilläggslån or merkostnadslån either (förordningen 3 kap. 15 §)"
+   },
+   "unit": "percent",
+   "valid_for": "2026",
+   "statute": "Studiestödslagen 3 kap. 18, 21, 22 §§; studiestödsförordningen 3 kap. 15 §",
+   "source_url": "https://data.riksdagen.se/dokument/sfs-1999-1395.text",
+   "quote": "minskas med 61 procent av den överskjutande inkomsten",
+   "confidence": "verified",
+   "note": "CSN wording: no studiemedel 'om studiemedelsbeloppet blir lägre än 149 kronor per vecka' (0.25 % x 59 200 = 148; statute says 'motsvarar eller är lägre än'). CSN example: 20 weeks full-time, income 150 000, fribelopp 114 676 -> reduction about 21 548."
+  },
+  {
+   "key": "age_limits",
+   "value": {
+    "lower": {
+     "eftergymnasial": "no lower age limit",
+     "grundskole_gymnasieniva": "earliest from the second calendar half-year of the year the student turns 20"
+    },
+    "upper": "through the calendar year the student turns 60; nothing from the year turning 61",
+    "loan_restriction_from": "calendar year the student turns 51"
+   },
+   "unit": "",
+   "valid_for": "2026",
+   "statute": "Studiestödslagen 3 kap. 2 § andra stycket, 3 §",
+   "source_url": "https://www.csn.se/bidrag-och-lan/studiemedel/aldersgranser-for-studiemedel.html",
+   "quote": "Du kan ha rätt till bidrag till och med det år du fyller 60.",
+   "confidence": "verified",
+   "note": ""
+  },
+  {
+   "key": "loan_weeks_by_age_lantrappa",
+   "value": {
+    "51": 220,
+    "52": 200,
+    "53": 180,
+    "54": 160,
+    "55": 140,
+    "56": 120,
+    "57": 100,
+    "58": 80,
+    "59": 60,
+    "60": 40
+   },
+   "unit": "max total weeks of studielån, by age reached during the calendar year",
+   "valid_for": "2026",
+   "statute": "Studiestödslagen 3 kap. 9 §",
+   "source_url": "https://data.riksdagen.se/dokument/sfs-1999-1395.text",
+   "quote": "begränsad till sammanlagt högst det antal veckor som anges nedan",
+   "confidence": "verified",
+   "note": "Earlier loan weeks count toward the total, except: grundskolenivå loan weeks not counted, gymnasienivå loan weeks counted at half. A student whose earlier loans are fully repaid or written off may get new loans regardless. After a break without loan, entitlement is reassessed at the age when the new period starts. Bidrag is not affected by the trappa."
+  },
+  {
+   "key": "max_weeks_by_level",
+   "value": {
+    "eftergymnasial": 240,
+    "gymnasieniva": {
+     "lacks_three_year_gymnasium": 120,
+     "has_three_year_gymnasium_or_equivalent": 80
+    },
+    "grundskoleniva": {
+     "has_grundskola_or_equivalent": 40,
+     "lacks_grundskola": 80,
+     "lacks_grundskola_and_needs_fardighetstraning": 100
+    },
+    "extra": {
+     "sarskilda_skal_from_year_turning_40": "up to 40 additional weeks",
+     "synnerliga_skal": "longer time possible, no fixed cap"
+    },
+    "part_time": "weeks converted to full-time equivalents (20 weeks at 50 % = 10 weeks used)",
+    "counting": "weeks count as used even if only bidrag is taken; approved sick weeks are not counted"
+   },
+   "unit": "full-time weeks",
+   "valid_for": "2026",
+   "statute": "Studiestödslagen 3 kap. 8, 10 §§",
+   "source_url": "https://data.riksdagen.se/dokument/sfs-1999-1395.text",
+   "quote": "studier på heltid under sammanlagt högst 240 veckor",
+   "confidence": "verified",
+   "note": "CSN page https://www.csn.se/bidrag-och-lan/studiemedel/langsta-tid-med-studiemedel.html says särskilda skäl is tried 'om du är över 40 år'; statute: from the year the student turns 40."
+  },
+  {
+   "key": "study_result_requirement",
+   "value": {
+    "hogskola": {
+     "hp_per_fulltime_week": 1.5,
+     "first_40_fulltime_weeks_percent": 62.5,
+     "thereafter_percent": 75.0,
+     "rounding": "CSN rounds the requirement down to nearest whole number",
+     "example": "40 weeks full-time = 60 hp commitment -> 37 hp required in first year, 45 hp later"
+    },
+    "komvux": "15 poäng passed per full-time week with studiestöd (full-time pace is 20 poäng/week)",
+    "folkhogskola_yrkeshogskola": "study at the pace in the utbildningsplan; school assesses; minor temporary delays accepted",
+    "polisprogrammet": "100 percent",
+    "period_tested": "the weeks of the latest decision; if insufficient CSN may look back up to 53 consecutive weeks",
+    "no_test_when": [
+     "first-time student / never previously enrolled (3 kap. 6 §)",
+     "results older than 10 years",
+     "first application at eftergymnasial level after only gymnasienivå studiemedel",
+     "studiemedel for ordinary gymnasieskola",
+     "periods of full sick leave approved by Försäkringskassan",
+     "approved periods of tillfällig vård av barn or närstående",
+     "interrupted studies with återkrav: only the period actually studied is tested"
+    ],
+    "exception": "särskilda skäl (3 kap. 7 § andra stycket 1)"
+   },
+   "unit": "",
+   "valid_for": "2026",
+   "statute": "Studiestödslagen 3 kap. 6-7 §§; studiestödsförordningen 3 kap. 4, 5, 5 a §§",
+   "source_url": "https://data.riksdagen.se/dokument/sfs-2000-655.text",
+   "quote": "62,5 procent av sitt studieåtagande under de första 40 veckorna",
+   "confidence": "partly",
+   "note": "CSN page: https://www.csn.se/bidrag-och-lan/studiemedel/studieresultat.html. Detailed list of what counts as särskilda skäl is in CSNFS 2001:1 (not fetched) - marked partly for that part."
+  },
+  {
+   "key": "prior_loans_and_reclaims",
+   "value": {
+    "arsbelopp": "must have paid the fixed årsbelopp that were due before the calendar year the new studiemedel concerns (CSN: all årsbelopp through the year before)",
+    "aterkrav": "at most one calendar half-year's reclaimed studiestöd may remain unpaid",
+    "exception": "synnerliga skäl (very restrictive; documented circumstances beyond the student's control, clear study purpose, shown willingness to pay)",
+    "also_covers": "reclaimed omställningsstudiestöd"
+   },
+   "unit": "",
+   "valid_for": "2026",
+   "statute": "Studiestödslagen 3 kap. 26 § (lydelse SFS 2025:1547, in force 1 Jan 2026)",
+   "source_url": "https://data.riksdagen.se/dokument/sfs-1999-1395.text",
+   "quote": "högst ett kalenderhalvårs återkrävt studiestöd eller omställningsstudiestöd återstår att betala",
+   "confidence": "verified",
+   "note": "CSN page: https://www.csn.se/bidrag-och-lan/studiemedel/tidigare-lan-eller-aterkrav.html"
+  },
+  {
+   "key": "minimum_pace_and_period",
+   "value": {
+    "min_pace_percent": 50,
+    "min_consecutive_weeks": 3,
+    "allowed_paces": [
+     50,
+     75,
+     100
+    ],
+    "fulltime_definition": {
+     "hogskola": "1.5 hp/week",
+     "yrkeshogskola": "5 poäng/week",
+     "komvux": "20 poäng/week"
+    },
+    "education_must_be_eligible": "only läroanstalter/utbildningar designated by the government or CSN (bilagan till studiestödsförordningen)",
+    "other": [
+     "must be registered on the courses",
+     "no studiemedel for more than full-time",
+     "not for time covered by aktivitetsstöd, sjuk-/aktivitets-/rehabiliteringsersättning, studiehjälp, omställningsstudiestöd, foreign study finance etc. (3 kap. 25, 25 b §§)"
+    ]
+   },
+   "unit": "",
+   "valid_for": "2026",
+   "statute": "Studiestödslagen 3 kap. 2, 5, 25 §§; studiestödsförordningen 3 kap. 4 §",
+   "source_url": "https://data.riksdagen.se/dokument/sfs-1999-1395.text",
+   "quote": "Studierna måste dock pågå under en sammanhängande tid om minst tre veckor.",
+   "confidence": "verified",
+   "note": ""
+  },
+  {
+   "key": "application_retroactivity",
+   "value": {
+    "max_calendar_weeks_before_application_week": 4,
+    "max_period_per_decision": "one year at a time (CSN: at most 53 weeks per application)",
+    "no_fixed_deadline": true
+   },
+   "unit": "calendar weeks",
+   "valid_for": "2026",
+   "statute": "Studiestödsförordningen 3 kap. 37 §",
+   "source_url": "https://data.riksdagen.se/dokument/sfs-2000-655.text",
+   "quote": "högst fyra kalenderveckor före den kalendervecka då ansökan kom in",
+   "confidence": "verified",
+   "note": "The limit is 4 calendar WEEKS before the WEEK the application arrived, not 'before the application month'. CSN: 'fyra veckor bakåt i tiden från den vecka vi får in din ansökan'."
+  },
+  {
+   "key": "appeal",
+   "value": {
+    "body": "Överklagandenämnden för studiestöd (ÖKS) for decisions on studiestöd; förvaltningsrätten for decisions on repayment of loans",
+    "time_limit": "must reach CSN within three weeks from the day the appellant received the decision",
+    "filed_with": "CSN (beslutsmyndigheten), which re-examines and then forwards to ÖKS",
+    "omprovning": "the student may instead request omprövning by CSN (new examination, new decision); CSN may/must correct under FL 37-39 §§",
+    "oks_decision_final": true,
+    "csn_decision_applies_immediately": true
+   },
+   "unit": "",
+   "valid_for": "2026",
+   "statute": "Studiestödslagen 6 kap. 10-11 §§; studiestödsförordningen 6 kap. 14 §; förvaltningslagen (2017:900) 37-39, 43-44 §§",
+   "source_url": "https://data.riksdagen.se/dokument/sfs-2017-900.text",
+   "quote": "inom tre veckor från den dag då den som överklagar fick del av beslutet",
+   "confidence": "verified",
+   "note": "CSN FAQ: https://www.csn.se/fragor-och-svar/hur-gor-jag-om-jag-vill-omprova-eller-overklaga-csns-beslut.html . ÖKS decisions cannot be appealed (6 kap. 11 §)."
+  },
+  {
+   "key": "aterkrav",
+   "value": {
+    "income": "if överskott (tjänst, näringsverksamhet, kapital) per slutlig skatt exceeded the income used for the decision, the excess paid shall be reclaimed (5 kap. 1 § första stycket); amounts under 300 SEK not reclaimed",
+    "other_causes": "incorrect information, failure to notify changes, or otherwise received wrongly and realised or should have realised it (5 kap. 1 § andra stycket)",
+    "interrupted_studies": "studiestöd paid for time after the interruption is reclaimed; not if due to approved sickness/leave (5 kap. 2 §)",
+    "waiver": "synnerliga skäl -> full or partial waiver",
+    "interest": "statens utlåningsränta + 2 percentage points from the day the money was received; 4.53 % in 2026",
+    "fee_sek": 100,
+    "payment": "lump sum, 30 days; payment plan possible",
+    "notification_duty": "3 kap. 27 § studiestödslagen",
+    "not_reclaimed": "failing the study-result requirement alone does not cause återkrav; only if fewer credits were actually studied than granted for and not reported"
+   },
+   "unit": "",
+   "valid_for": "2026",
+   "statute": "Studiestödslagen 5 kap. 1-2, 4 §§; studiestödsförordningen 5 kap. 1 §",
+   "source_url": "https://data.riksdagen.se/dokument/sfs-1999-1395.text",
+   "quote": "ska det som betalats ut för mycket krävas tillbaka",
+   "confidence": "verified",
+   "note": "CSN page: https://www.csn.se/betala-tillbaka/aterkrav.html (interest 4,53 % 2026, fee 100 kr per återkrav och år)."
+  },
+  {
+   "key": "study_loan_interest_2026",
+   "value": 2.135,
+   "unit": "percent",
+   "valid_for": "2026",
+   "statute": "Studiestödslagen 4 kap. 1 §",
+   "source_url": "https://www.csn.se/bidrag-och-lan/studiemedel.html",
+   "quote": "Räntan på studielånet är 2,135 procent år 2026.",
+   "confidence": "verified",
+   "note": ""
+  },
+  {
+   "key": "changes_during_2026",
+   "value": {
+    "2026-01-01": [
+     "SFS 2025:1547: 3 kap. 25 and 26 §§ new wording, 25 a § repealed",
+     "studiestartsstödet abolished from 2026",
+     "SFS 2025:1567: 3 kap. 4 b § - Ukraine temporary-protection holders eligible after first 12 months of permit",
+     "förordningen 3 kap. 5 a § new wording (SFS 2025:1551)"
+    ],
+    "2026-07-12": "SFS 2026:1150 changes to residence-permit grounds in 2 kap. 4 § / 3 kap. 4 §",
+    "later_2026": "SFS 2026:1003 (3 kap. 4 a §), 2026:1688 (3 kap. 4 §), 2026:141 (5 kap. 6 a § address duty) - in-force dates not checked",
+    "2027-01-01": "SFS 2026:1394: 4 kap. 6 § (repayment) changes"
+   },
+   "unit": "",
+   "valid_for": "2026",
+   "statute": "Studiestödslagen övergångsbestämmelser",
+   "source_url": "https://data.riksdagen.se/dokument/sfs-1999-1395.text",
+   "quote": "Denna lag träder i kraft den 1 januari 2026.",
+   "confidence": "partly",
+   "note": "No change during 2026 found to amounts, fribelopp percentages, age limits, week limits or the 61 % rule. Amendments mostly concern citizenship/residence-permit conditions. Content of what changed in 25/26 §§ versus the 2025 wording was not compared."
+  },
+  {
+   "key": "csnfs_2001_1_detailed_rules",
+   "value": null,
+   "unit": "",
+   "valid_for": "2026",
+   "statute": "CSNFS 2001:1 (consolidated t.o.m. CSNFS 2025:4)",
+   "source_url": "https://www.csn.se/download/18.744b4d3219d02ca14d2d2d/1782391622626/2001-1-2025-4%20Centrala%20studiest%C3%B6dsn%C3%A4mndens%20f%C3%B6reskrifter%20och%20allm%C3%A4nna%20r%C3%A5d%20om%20beviljning%20av%20studiemedel.pdf",
+   "quote": "",
+   "confidence": "not_found",
+   "note": "URL located in CSN sitemap but the document was NOT fetched or read. Detailed rules on särskilda skäl for study results, synnerliga skäl, and week calculation live here."
+  }
+ ]
+}

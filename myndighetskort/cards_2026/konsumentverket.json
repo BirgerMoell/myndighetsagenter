@@ -1,0 +1,546 @@
+{
+ "schema_version": 1,
+ "id": 27500,
+ "original_rbid": 25849,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-07-02",
+ "year": "2026",
+ "name": "Konsumentverket",
+ "slug": "konsumentverket",
+ "department": "Finansdepartementet",
+ "expenditure_areas": [
+  18
+ ],
+ "registry_numbers": [
+  "Fi2026/01641"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1"
+  ],
+  "bet": [
+   "2025/26:CU1"
+  ],
+  "rskr": [
+   "2025/26:104"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "Myndigheten ska bidra till väl fungerande konsumentmarknader, balanserade och tydliga regler för näringsidkare, ett starkt konsumentskydd och en hållbar konsumtion (prop. 2024/25:1 utg.omr. 18). Myndighetens uppgifter framgår bl.a. av förordningen (2009:607) med instruktion för Konsumentverket.",
+ "goals": [
+  {
+   "title": "Färdval och resepolicy vid tjänsteresor",
+   "group": [],
+   "text": "Alla trafikslag ska kunna nyttjas (väg, järnväg, luft- och sjöfart) för att säkerställa effektiva och ändamålsenliga transporter. Myndigheten ska därför redovisa hur den har säkerställt att val av färdsätt vid tjänsteresor sker färdmedelsneutralt och utifrån behov. Vidare ska myndigheten redovisa huruvida myndigheten köpt in hållbart flygbränsle till organisationens flygresor. När kostnader jämförs för olika färdval ska hela resans kostnad beaktas, exempelvis kostnader för nödvändig övernattning och totalt arbetstid för hela resan.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27500:goals:0"
+  }
+ ],
+ "org": [],
+ "assignments": [
+  {
+   "title": "Prognoser",
+   "group": [],
+   "text": "Myndigheten ska redovisa prognoser med tillhörande kommentarer för 2026–2029 vid nedanstående tillfällen. Av kommentarerna ska framgå vilka antaganden som använts i prognosen, osäkerhetsfaktorer och eventuella förändringar av förutsättningarna för myndigheten att bedriva sin verksamhet. Vidare ska förändringar i förhållande till föregående prognostillfälle samt den av myndigheten beslutade budgeten kommenteras. Vid prognosavvikelser ska myndigheten ange vilka åtgärder som vidtagits eller planeras att vidtas. Prognoserna ska lämnas i informationssystemet Hermes senast den\n\n– 2 februari\\\n– 22 april\\\n– 24 juli\\\n– 9 november.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27500:assignments:0"
+  },
+  {
+   "title": "Öka förmågan att använda AI och ny teknik genom datadrivet arbete",
+   "group": [],
+   "text": "Myndigheten ska analysera och redovisa hur den arbetar datadrivet, dvs. använder data till stöd för sina analyser och beslut. Myndigheten ska också redovisa de åtgärder som den har vidtagit för att förbättra sin förmåga att arbeta datadrivet och resultatet av åtgärderna.\\\nI redovisningen ska ingå en beskrivning av hur ett datadrivet arbetssätt och användning av AI har bidragit till att utveckla myndighetens verksamhet och höja kvaliteten i utförandet av myndighetens uppgifter. Myndigheten ska även redovisa hur den beaktar risker och arbetar för att användningen av data och AI ska ske på ett etiskt, säkert och icke-diskriminerande sätt. Myndigheten ska vidare analysera och redovisa förutsättningarna för att ytterligare öka sin förmåga att använda AI och ny teknik genom att arbeta datadrivet. Uppdraget ska senast den 15 maj 2026 redovisas till Regeringskansliet (Finansdepartementet).",
+   "dates": [
+    "2026-05-15"
+   ],
+   "deadlines": [
+    "2026-05-15"
+   ],
+   "recipients": [
+    "Regeringskansliet (Finansdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla",
+    "statistik_data",
+    "digitalisering_ai"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27500:assignments:1"
+  },
+  {
+   "title": "Redovisning av myndighetens arbete med marknadsföring av skönhetsingrepp",
+   "group": [],
+   "text": "Myndigheten ska redovisa en uppföljning av den granskning av marknadsföring av skönhetsingrepp som myndigheten redovisade 2023. Redovisningen ska också omfatta hur myndigheten har samverkat och avser att samverka med Läkemedelsverket och vid behov andra berörda myndigheter i det fortsatta arbetet med frågan. Vidare ska myndigheten föreslå åtgärder för att komma till rätta med de brister som har identifierats i granskningen och i det uppföljande arbetet, med särskilt fokus på unga personer. Myndigheten ska senast den 30 juni 2026 redovisa uppdraget till Regerinskansliet (Finansdepartementet med kopia till Socialdepartementet).",
+   "dates": [
+    "2026-06-30"
+   ],
+   "deadlines": [
+    "2026-06-30"
+   ],
+   "recipients": [],
+   "partners": [
+    "Läkemedelsverket"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "föreslå",
+    "samordna"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27500:assignments:2"
+  },
+  {
+   "title": "Marknadskontroll för ökad efterlevnad",
+   "group": [],
+   "text": "Myndigheten ska arbeta aktivt och riskbaserat med marknadskontroll, med särskilt fokus på produkter som inte lever upp till Europaparlamentets och rådets förordning (EU) 2019/1020 om marknadskontroll och överenstämmelse för produkter och om ändring av direktiv 2004/42 EG och förordningarna (EG) nr 765/2008 och (EU) nr 305/2011, inklusive produkter för privat användning. Myndigheten ska även beskriva hur den har samarbetat med övriga relevanta marknadskontrollmyndigheter och Tullverket, inklusive bidragit till marknadskontrollinsatser och marknadskontrollaktiviteter på EU-nivå, och vad samarbetet resulterat i när det gäller operativa insatser avseende e-handel från tredje land. Uppdraget ska senast den 15 mars 2027 redovisas till Regeringskansliet (Utrikesdepartementet).",
+   "dates": [
+    "2027-03-15"
+   ],
+   "deadlines": [
+    "2027-03-15"
+   ],
+   "recipients": [
+    "Regeringskansliet (Utrikesdepartementet)"
+   ],
+   "partners": [
+    "Tullverket"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "tillsyn_kontroll",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27500:assignments:3"
+  },
+  {
+   "title": "Förvalta innehåll på webbplatsen verksamt.se",
+   "group": [],
+   "text": "Myndigheten ska förvalta sitt innehåll på den myndighetsgemensamma webbplatsen verksamt.se.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27500:assignments:4"
+  },
+  {
+   "title": "Pågående uppdrag",
+   "group": [],
+   "text": "| | | |\n| --- | --- | --- |\n| Uppdrag | Beslut om uppdrag | Rapporteringstidpunkt |\n| Uppdrag att systematiskt följa upp funktionshinderpolitiken 2021–2031 | S2025/01367 | Årligen senast den 1 februari till Myndigheten för delaktighet |\n| Uppdrag att redovisa och förstärka arbetet när det gäller marknadsföring via influencers | Fi2025/01290 | Den 31 januari 2026 |\n| Uppdrag att bistå Miljömålsrådet | M2022/00273 | Den 6 maj 2026 |\n| Uppdrag att stärka och påskynda förenklingsarbetet | Fi2023/03172 (delvis) | Den 15 mars 2026 |\n| Uppdrag att motverka överskuldsättning bland kriminalvårdsklienter i anstalt och häkte | Ju2024/01770 (delvis) | Den 15 juni 2026 |\n| Uppdrag att sammanställa och sprida information om ekonomiska aspekter av våld i nära relationer | A2024/00777, A2025/00884 | Delredovisning den 28 maj 2026 och slutredovisning den 15 december 2027 |\n| Uppdrag att följa och analysera livsmedelsprisernas utveckling | Fi2025/02131 | Delredovisning den 1 mars 2026, den 1 september 2026 och den 1 september 2027, samt slutredovisning den 1 september 2028. |\n\n*För regeringsuppdrag som lämnats i ett särskilt regeringsbeslut utgör tabellen ovan endast en upplysning om vilka uppdrag som vid årets början var riktade till myndigheten och vilka tider som då gällde för återrapportering eller liknande.*",
+   "dates": [
+    "2026-01-31",
+    "2026-03-01",
+    "2026-03-15",
+    "2026-05-06",
+    "2026-05-28",
+    "2026-06-15",
+    "2026-09-01",
+    "2027-09-01",
+    "2027-12-15",
+    "2028-09-01"
+   ],
+   "deadlines": [],
+   "recipients": [
+    "Myndigheten för delaktighet"
+   ],
+   "partners": [
+    "Myndigheten för delaktighet"
+   ],
+   "channels": [
+    "delredovisning",
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "27500:assignments:5"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "2:1",
+   "name": "Konsumentverket",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 18,
+    "name": "Samhällsplanering, bostadsförsörjning och byggande samt konsumentpolitik"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Konsumentverket",
+     "amount_tkr": 197867,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Konsumentverket (ram)",
+       "amount_tkr": 187217
+      },
+      {
+       "ap": "2",
+       "name": "Rättegångskostnader (ram)",
+       "amount_tkr": 5650
+      },
+      {
+       "ap": "3",
+       "name": "Uppföljning av livsmedelspriser (ram)",
+       "amount_tkr": 5000
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Konsumentverket",
+     "text": "Medlen får användas för Konsumentverkets förvaltningsutgifter."
+    },
+    {
+     "ap": "2",
+     "name": "Rättegångskostnader",
+     "text": "Medlen får användas för kostnader med anledning av mål vid domstol där konsumentombudsmannen för talan."
+    },
+    {
+     "ap": "3",
+     "name": "Uppföljning av livsmedelspriser",
+     "text": "Medlen får användas för kostnader kopplade till uppdraget till Konsumentverket och Konjunkturinstitutet att följa och analysera livsmedelsprisernas utveckling."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "2:1 Konsumentverket",
+   "ap": "ap.1",
+   "Anslagskredit": 5836,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:1 Konsumentverket",
+   "ap": "ap.2",
+   "Anslagskredit": 100,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:1 Konsumentverket",
+   "ap": "ap.3",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Allt",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 14000,
+  "Räntekontokredit": 5000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 16489
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 16489
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 16489
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 16489
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 16489
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 16489
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 16489
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 16489
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 16489
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 16489
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 16489
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 16488
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "2:1 Konsumentverket",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "5 836",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.2",
+     "100",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.3",
+     "0",
+     "Allt",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Avslutade anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagstyp"
+    ],
+    [
+     "2:4 (2025) Åtgärder på konsumentområdet",
+     ""
+    ],
+    [
+     "ap.1 (2025)",
+     "ram"
+    ],
+    [
+     "ap.2 (2025)",
+     "ram"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "14 000"
+    ],
+    [
+     "Räntekontokredit",
+     "5 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "16 489"
+    ],
+    [
+     "2026-02-25",
+     "16 489"
+    ],
+    [
+     "2026-03-25",
+     "16 489"
+    ],
+    [
+     "2026-04-25",
+     "16 489"
+    ],
+    [
+     "2026-05-25",
+     "16 489"
+    ],
+    [
+     "2026-06-25",
+     "16 489"
+    ],
+    [
+     "2026-07-25",
+     "16 489"
+    ],
+    [
+     "2026-08-25",
+     "16 489"
+    ],
+    [
+     "2026-09-25",
+     "16 489"
+    ],
+    [
+     "2026-10-25",
+     "16 489"
+    ],
+    [
+     "2026-11-25",
+     "16 489"
+    ],
+    [
+     "2026-12-25",
+     "16 488"
+    ],
+    [
+     "Summa",
+     "197 867"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "2:1 ap.1",
+     "Konsumentverket"
+    ],
+    [
+     "2:1 ap.2",
+     "Rättegångskostnader"
+    ],
+    [
+     "2:1 ap.3",
+     "Uppföljning av livsmedelspriser"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [],
+ "has_fee_section": true,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 1,
+  "n_org": 0,
+  "n_assignments": 6,
+  "n_deadlines": 3,
+  "deadlines": [
+   "2026-05-15",
+   "2026-06-30",
+   "2027-03-15"
+  ],
+  "partners": [
+   "Läkemedelsverket",
+   "Myndigheten för delaktighet",
+   "Tullverket"
+  ],
+  "n_appropriations": 1,
+  "appropriations_total_tkr": 197867,
+  "payment_plan_total_tkr": 197867,
+  "md_chars": 9545
+ },
+ "layout": "standard",
+ "warnings": []
+}

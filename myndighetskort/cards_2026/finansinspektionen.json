@@ -1,0 +1,758 @@
+{
+ "schema_version": 1,
+ "id": 26361,
+ "original_rbid": 26066,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-06-11",
+ "year": "2026",
+ "name": "Finansinspektionen",
+ "slug": "finansinspektionen",
+ "department": "Finansdepartementet",
+ "expenditure_areas": [
+  2
+ ],
+ "registry_numbers": [
+  "Fi2026/01437 (delvis)"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1",
+   "2025/26:99"
+  ],
+  "bet": [
+   "2025/26:FiU2",
+   "2025/26:FiU21"
+  ],
+  "rskr": [
+   "2025/26:133",
+   "2025/26:344"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "Finansinspektionens uppgifter framgår av ett flertal författningar, bland annat förordningen (2023:910) med instruktion för Finansinspektionen.",
+ "goals": [
+  {
+   "title": "Återrapportering",
+   "group": [],
+   "text": "Myndigheten ska redovisa hur tillsynen har fördelats på olika typer av tillsynsinsatser, inklusive platsbesök, och på olika företagskategorier och hur den heltäckande tillsynen har bedrivits. Huvudfokus ska dock ligga på att redovisa den riskbaserade tillsynen, t.ex. vilka huvudsakliga risker som har identifierats inom respektive företagskategori och hur tillsynen har utformats för att hantera dessa. Redovisningen ska beakta hur tillsynen skiljer sig åt mellan insatser och företagskategorier i syfte att förbättra den samlade uppföljningen av tillsynsverksamheten. Hur tillsynen fördelas på olika verksamhetsområden ska också redovisas. Myndigheten ska också redovisa effekterna av tillsynen och på vilket sätt insatserna har bidragit till att uppnå dessa.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "fördela_medel",
+    "tillsyn_kontroll"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26361:goals:0"
+  },
+  {
+   "title": "Övrig återrapportering",
+   "group": [],
+   "text": "",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26361:goals:1"
+  },
+  {
+   "title": "Kommunikativ tillsyn",
+   "group": [],
+   "text": "Myndigheten ska redovisa vilka åtgärder som har vidtagits för att ge branschen vägledning inom ramen för den kommunikativa tillsynen. Återrapporteringen ska redogöra för vilka regelverk som har prioriterats i den kommunikativa tillsynen.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "tillsyn_kontroll",
+    "informera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26361:goals:2"
+  },
+  {
+   "title": "Tillsyn över inkassobolag",
+   "group": [],
+   "text": "Myndigheten ska redovisa vilka åtgärder som har vidtagits under 2026 för att utveckla en aktiv och förebyggande planerad tillsyn över inkassobolag och kreditförvaltare. Återrapporteringen ska även redogöra för vilka resurser som har avsatts under 2026 för att utveckla denna tillsyn.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla",
+    "tillsyn_kontroll"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26361:goals:3"
+  },
+  {
+   "title": "Genomförande av EU:s sanktioner",
+   "group": [],
+   "text": "Myndigheten ska redovisa vilka förebyggande åtgärder myndigheten har vidtagit, enskilt och i samverkan med andra myndigheter, för att säkerställa efterlevnaden av EU:s sanktionsförordningar och den svenska sanktionslagstiftningen.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "utveckla",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26361:goals:4"
+  }
+ ],
+ "org": [],
+ "assignments": [
+  {
+   "title": "Prognoser",
+   "group": [],
+   "text": "Myndigheten ska redovisa prognoser för anslagsbelastningen vid nedanstående tillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Av kommentarerna ska det framgå vilka antaganden som använts i prognosen och eventuella osäkerhetsfaktorer. Vid väsentliga prognosavvikelser ska myndigheten även ange orsakerna till utvecklingen, samt vilka åtgärder som vidtagits eller planeras för att verksamheten ska bedrivas inom ramen för tilldelade medel. Prognoserna lämnas i informationssystemet Hermes senast den\n\n– 2 februari\n\n– 22 april\n\n– 24 juli\n\n– 9 november.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26361:assignments:0"
+  },
+  {
+   "title": "Effektivisera tillsynsverksamheten",
+   "group": [],
+   "text": "Myndigheten ska analysera och redovisa hur tillsynsverksamheten kan effektiviseras. Myndigheten ska i detta arbete beakta de brister och rekommendationer som framgår av Statskontorets rapport Växande uppdrag - med vilket resultat. Av analysen ska det även framgå hur tillsynen ska följas upp för att öka effektiviteten, i synnerhet när det gäller effektivare handläggningsprocesser och säkerställande av regelefterlevnad. I analysen och redovisningen ska det beaktas hur den kommunikativa tillsynen kan utvecklas i detta syfte. Förslaget ska vara långsiktigt och säkerställa att det finns rutiner på plats för att kunna följa upp effektiviseringens resultat. Uppdraget ska redovisas till Regeringskansliet (Finansdepartementet) senast den 15 juni 2026.",
+   "dates": [
+    "2026-06-15"
+   ],
+   "deadlines": [
+    "2026-06-15"
+   ],
+   "recipients": [
+    "Regeringskansliet (Finansdepartementet)"
+   ],
+   "partners": [
+    "Statskontoret"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla",
+    "tillsyn_kontroll"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26361:assignments:1"
+  },
+  {
+   "title": "Statistik om hushållens skuldsättning",
+   "group": [],
+   "text": "Myndigheten ska årligen genomföra en stickprovsundersökning avseende dels bolånetagare, dels låntagare av konsumtionslån och redovisa beskrivande statistik om respektive lånetyp. Den redovisade statistiken ska avse föregående kalenderår och belysa medelvärden, fördelningen för olika skuldmått och betalningssvårigheter. I den mån myndigheten har tillgång till aggregerad data ska även den redovisas. Myndigheten ska också redovisa utvalda standardiserade nyckeltal för skulder. Uppdraget ska redovisas till Regeringskansliet (Finansdepartementet) senast den 1 april årligen fram t.o.m. 2027.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [
+    "Regeringskansliet (Finansdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla",
+    "statistik_data"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26361:assignments:2"
+  },
+  {
+   "title": "Näringslivets roll i det civila försvaret",
+   "group": [],
+   "text": "Myndigheten ska analysera och lämna förslag på hur de finansiella företagen kan involveras i det civila försvaret avseende deras förmåga att upprätthålla sin verksamhet vid höjd beredskap och kris. Förslaget ska syfta till att myndigheten kan utföra sina uppgifter som beredskapsmyndighet enligt förordningen (2022:524) om statliga myndigheters beredskap. Om förslaget inkluderar en möjlighet för myndigheten att meddela föreskrifter för de privata finansiella företagen ska förslag till nödvändiga författningsändringar ingå i redovisningen. Myndigheten ska inhämta synpunkter från Riksgäldskontoret. Synpunkterna ska inhämtas för att beakta Riksgäldskontorets eventuella behov av att företagen involveras i det civila försvaret för att Riksgäldskontoret ska utföra sina uppgifter enligt förordningen om statliga myndigheters beredskap. Uppdraget ska redovisas till Regeringskansliet (Finansdepartementet) senast den 1 juni 2026.",
+   "dates": [
+    "2026-06-01"
+   ],
+   "deadlines": [
+    "2026-06-01"
+   ],
+   "recipients": [
+    "Regeringskansliet (Finansdepartementet)"
+   ],
+   "partners": [
+    "Riksgäldskontoret"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "föreslå",
+    "samordna",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2022:524"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26361:assignments:3"
+  },
+  {
+   "title": "Stärkt motståndskraft mot hybridhot",
+   "group": [],
+   "text": "I syfte att stärka Sveriges samlade motståndskraft mot hybridhot behöver respektive beredskapssektor stärka sin förmåga att upptäcka och hantera incidenter som skulle kunna vara aktörsdrivna. Mot den bakgrunden ska myndigheten:\n\n- säkerställa en kontinuerlig lägesuppfattning av incidenter inom den egna verksamheten och inom sitt sektorsansvar i syfte att upprätthålla en normalbild,\n- sammanställa öppen information om den hotbild som finns mot sektorn och tillgängliggöra den för aktörer som tillhandahåller samhällsviktig verksamhet inom sektorn samt\n- samverka med Säkerhetspolisen, Myndigheten för civilt försvar och andra berörda myndigheter i syfte att vid behov klargöra eller utveckla rapporteringsvägar för avvikelser eller säkerhetsincidenter.\n\nUppdraget ska redovisas senast den 28 februari 2027 till Regeringskansliet (Finansdepartementet).",
+   "dates": [
+    "2027-02-28"
+   ],
+   "deadlines": [
+    "2027-02-28"
+   ],
+   "recipients": [
+    "Regeringskansliet (Finansdepartementet)"
+   ],
+   "partners": [
+    "Myndigheten för civilt försvar",
+    "Säkerhetspolisen"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "utveckla",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "säkerställa en kontinuerlig lägesuppfattning av incidenter inom den egna verksamheten och inom sitt sektorsansvar i syfte att upprätthålla en normalbild,",
+    "sammanställa öppen information om den hotbild som finns mot sektorn och tillgängliggöra den för aktörer som tillhandahåller samhällsviktig verksamhet inom sektorn samt",
+    "samverka med Säkerhetspolisen, Myndigheten för civilt försvar och andra berörda myndigheter i syfte att vid behov klargöra eller utveckla rapporteringsvägar för avvikelser eller säkerhetsincidenter."
+   ],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26361:assignments:4"
+  },
+  {
+   "title": "Pågående uppdrag",
+   "group": [],
+   "text": "| | | |\n| --- | --- | --- |\n| **Sammanfattning av uppdraget** | Beslut om uppdraget | Rapporteringstidpunkt |\n| Kontaktpunkt i arbetet med att utveckla en europeisk ram för samordning av systemiska cyberincidenter (EU-SCICF) | Fi2023/02527 | Löpande |\n| Stärka och påskynda förenklingsarbetet | Fi2023/03284 | 15 mars 2026 |\n| Inriktning för civilt försvar 2025-2030 | Fö2024/02054 | 22 februari 2026, 22 februari 2027, 22 februari 2028, 22 februari 2029, 22 februari 2030 |\n| Uppdrag till beredskapsmyndigheterna om personallån mellan myndigheter | Fö2025/00670 | 22 februari 2026 |\n\n*För regeringsuppdrag som lämnats i ett särskilt regeringsbeslut utgör tabellen endast en upplysning om vilka uppdrag som vid årets början var riktade till myndigheten och vilka tider som då gällde för återrapportering eller liknande.*",
+   "dates": [
+    "2026-02-22",
+    "2026-03-15",
+    "2027-02-22",
+    "2028-02-22",
+    "2029-02-22",
+    "2030-02-22"
+   ],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla",
+    "beredskap_säkerhet",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "26361:assignments:5"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "1:2",
+   "name": "Finansinspektionens avgifter till EU:s tillsynsmyndigheter",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 2,
+    "name": "Samhällsekonomi och finansförvaltning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Finansinspektionen",
+     "amount_tkr": 33050,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Finansinspektionens avgifter till EU:s tillsynsmyndigheter (ram)",
+       "amount_tkr": 33050
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [],
+   "caps": []
+  },
+  {
+   "code": "1:10",
+   "name": "Finansinspektionen",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 2,
+    "name": "Samhällsekonomi och finansförvaltning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Finansinspektionen",
+     "amount_tkr": 899410,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Finansinspektionen (ram)",
+       "amount_tkr": 897910
+      },
+      {
+       "ap": "3",
+       "name": "Krigsförsäkringsnämnden (ram)",
+       "amount_tkr": 1500
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Finansinspektionen",
+     "text": "Anslagsposten får användas för Finansinspektionens förvaltningsutgifter.\nMyndigheten ska kunna använda och samverka med det gemensamma radiokommunikationssystemet Rakel. Myndigheten ska betala totalt 114 000 kronor till Myndigheten för civilt försvar som abonnemangsavgift för detta system. Beloppet ska betalas efter fakturering från Myndigheten för civilt försvar."
+    },
+    {
+     "ap": "3",
+     "name": "Krigsförsäkringsnämnden",
+     "text": "Anslagsposten får användas för Krigsförsäkringsnämndens verksamhet."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "1:2 Finansinspektionens avgifter till EU:s tillsynsmyndigheter",
+   "ap": "ap.1",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:10 Finansinspektionen",
+   "ap": "ap.1",
+   "Anslagskredit": 26757,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:10 Finansinspektionen",
+   "ap": "ap.3",
+   "Anslagskredit": 45,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 160000,
+  "Räntekontokredit": 25000,
+  "- Statlig krigsförsäkring": 200000000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 74451
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 74451
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 74451
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 74451
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 74451
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 75308
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 75308
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 75308
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 75308
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 75308
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 75308
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 75307
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:2 Finansinspektionens avgifter till EU:s tillsynsmyndigheter",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "1:10 Finansinspektionen",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "26 757",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.3",
+     "45",
+     "3 %",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "160 000"
+    ],
+    [
+     "Räntekontokredit",
+     "25 000"
+    ],
+    [
+     "Övriga kontokrediter"
+    ],
+    [
+     "- Statlig krigsförsäkring",
+     "200 000 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "74 451"
+    ],
+    [
+     "2026-02-25",
+     "74 451"
+    ],
+    [
+     "2026-03-25",
+     "74 451"
+    ],
+    [
+     "2026-04-25",
+     "74 451"
+    ],
+    [
+     "2026-05-25",
+     "74 451"
+    ],
+    [
+     "2026-06-25",
+     "75 308"
+    ],
+    [
+     "2026-07-25",
+     "75 308"
+    ],
+    [
+     "2026-08-25",
+     "75 308"
+    ],
+    [
+     "2026-09-25",
+     "75 308"
+    ],
+    [
+     "2026-10-25",
+     "75 308"
+    ],
+    [
+     "2026-11-25",
+     "75 308"
+    ],
+    [
+     "2026-12-25",
+     "75 307"
+    ],
+    [
+     "Summa",
+     "899 410"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "1:10 ap.1",
+     "Finansinspektionen"
+    ],
+    [
+     "1:10 ap.3",
+     "Krigsförsäkringsnämnden"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Ansökningsavgifter",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Avgifter (SFS 2001:911)1",
+     "-25 896",
+     "19 000",
+     "160 000",
+     "155 000",
+     "5 000",
+     "-1 896"
+    ],
+    [
+     "Uppdragsverksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Finansiella företags uppgifter till Riksgäldskontoret1",
+     "0",
+     "0",
+     "300",
+     "300",
+     "0",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna ej disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "Ink. tit.",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Offentligrättsliga avgifter",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Årliga avgifter för Finansinspektionens verksamhet1",
+     "2548",
+     "-18 202",
+     "20 000",
+     "919 000",
+     "919 000",
+     "0",
+     "1 798"
+    ],
+    [
+     "Bötesmedel3",
+     "2712",
+     "350 000"
+    ],
+    [
+     "Restavgifter och dröjsmålsavgifter3",
+     "2711",
+     "150"
+    ],
+    [
+     "Summa",
+     "-18 202",
+     "20 000",
+     "1 269 150",
+     "919 000",
+     "0",
+     "1 798"
+    ]
+   ]
+  }
+ ],
+ "has_fee_section": true,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 5,
+  "n_org": 0,
+  "n_assignments": 6,
+  "n_deadlines": 3,
+  "deadlines": [
+   "2026-06-01",
+   "2026-06-15",
+   "2027-02-28"
+  ],
+  "partners": [
+   "Myndigheten för civilt försvar",
+   "Riksgäldskontoret",
+   "Statskontoret",
+   "Säkerhetspolisen"
+  ],
+  "n_appropriations": 2,
+  "appropriations_total_tkr": 932460,
+  "payment_plan_total_tkr": 899410,
+  "md_chars": 13627
+ },
+ "layout": "standard",
+ "warnings": []
+}

@@ -1,0 +1,3482 @@
+{
+ "schema_version": 1,
+ "id": 27560,
+ "original_rbid": 26104,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-09-24",
+ "year": "2026",
+ "name": "Försäkringskassan",
+ "slug": "forsakringskassan",
+ "department": "Socialdepartementet",
+ "expenditure_areas": [
+  9,
+  10,
+  12
+ ],
+ "registry_numbers": [
+  "S2026/01948"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1",
+   "2025/26:236",
+   "2025/26:99"
+  ],
+  "bet": [
+   "2025/26:FiU21",
+   "2025/26:SfU1",
+   "2025/26:SfU3",
+   "2025/26:SoU1"
+  ],
+  "rskr": [
+   "2025/26:107",
+   "2025/26:108",
+   "2025/26:114",
+   "2025/26:217",
+   "2025/26:348"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "",
+ "goals": [
+  {
+   "title": "Mål för sjukförsäkringen",
+   "group": [],
+   "text": "Sjukförsäkringen ska ge ekonomisk trygghet vid nedsatt arbetsförmåga på grund av sjukdom och ett effektivt stöd för återgång i arbete. För att motverka långvarig sjukfrånvaro ska Försäkringskassan tidigt i sjukfallen klarlägga behov av rehabilitering och verka för att åtgärder vidtas för en effektiv rehabilitering.\n\nÅterrapportering:\nFörsäkringskassan ska redovisa måluppfyllelsen och särskilt redovisa:\n\n- vilka åtgärder som har vidtagits för att regelverket för bedömning av arbetsförmåga och rätten till ersättning tillämpas enhetligt och rättssäkert samt vilka resultat åtgärderna har lett till,\n- vilka åtgärder som har vidtagits för att säkerställa att såväl förebyggande insatser som tidiga rehabiliteringsinsatser för återgång i arbete genomförs, med särskilt fokus på sjukfrånvaro i psykiatriska diagnoser. Redovisningen ska inbegripa insatser som vidtas i samverkan med arbetsgivare, hälso- och sjukvård, Arbetsförmedlingen och genom samordningsförbund samt vilka resultat åtgärderna har lett till,\n- hur ovanstående arbete bidragit till det riksdagsbundna målet om att frånvaron från arbete på grund av sjukdom ska ligga på en långsiktigt stabil och låg nivå.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Arbetsförmedlingen"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "vilka åtgärder som har vidtagits för att regelverket för bedömning av arbetsförmåga och rätten till ersättning tillämpas enhetligt och rättssäkert samt vilka resultat åtgärderna har lett till,",
+    "vilka åtgärder som har vidtagits för att säkerställa att såväl förebyggande insatser som tidiga rehabiliteringsinsatser för återgång i arbete genomförs, med särskilt fokus på sjukfrånvaro i psykiatriska diagnoser. Redovisningen ska inbegripa insatser som vidtas i samverkan med arbetsgivare, hälso- och sjukvård, Arbetsförmedlingen och genom samordningsförbund samt vilka resultat åtgärderna har lett till,",
+    "hur ovanstående arbete bidragit till det riksdagsbundna målet om att frånvaron från arbete på grund av sjukdom ska ligga på en långsiktigt stabil och låg nivå."
+   ],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27560:goals:0"
+  },
+  {
+   "title": "Mål för assistansersättningen",
+   "group": [],
+   "text": "Försäkringskassans arbete med assistansersättning ska bidra till det nationella målet för funktionshinderspolitiken (prop. 2016/17:188, bet. 2017/18:SoU5, rskr 2017/18:86). Handläggningen ska präglas av hög kvalitet och rättssäkerhet så att den som är berättigad till ersättning får det, samtidigt som den som inte har rätt till ersättning inte får det. Handläggningen ska ske på ett sätt som leder till likvärdiga beslut över hela landet, för såväl flickor och pojkar som kvinnor och män. Försäkringskassan ska även säkerställa en god kontroll för ett effektivt och rättssäkert nyttjande av gemensamma resurser och därigenom förebygga och förhindra felaktiga utbetalningar och bidragsbrott.\n\nÅterrapportering:\nFörsäkringskassan ska redovisa måluppfyllelsen och genomförda insatser för att uppnå målet. Vidare ska Försäkringskassan redovisa hur samverkan med Inspektionen för vård och omsorg har genomförts och på vilket sätt den har bidragit till att förbättra verksamheten.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Inspektionen för vård och omsorg"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "tillsyn_kontroll"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27560:goals:1"
+  },
+  {
+   "title": "Mål för föräldraförsäkringen",
+   "group": [],
+   "text": "Försäkringskassan ska stärka förutsättningarna för ett jämställt användande av föräldrapenning och tillfällig föräldrapenning. Försäkringskassans information ska bidra till att föräldrar får bättre kunskap om föräldraförsäkringens regelverk, om möjligheterna att använda föräldrapenningen flexibelt och om de långsiktiga effekterna av fördelningen av föräldraledighet.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27560:goals:2"
+  },
+  {
+   "title": "Mål för tillgänglighet och handläggning",
+   "group": [],
+   "text": "Handläggningstider och ärendebalanser (antal pågående ärenden) ska minska. Tillgängligheten i telefonin ska vara god och stabil.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27560:goals:3"
+  },
+  {
+   "title": "Mål för en återbetalningsverksamhet i balans",
+   "group": [],
+   "text": "Färre enskilda ska bli återbetalningsskyldiga. Handläggningen av återkrav ska ske skyndsamt, balansen av återkravsärenden ska minska, återbetalningarna ska öka och besluten ska hålla hög rättslig kvalitet.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27560:goals:4"
+  },
+  {
+   "title": "Mål för minskade felaktiga utbetalningar",
+   "group": [],
+   "text": "Försäkringskassan ska bidra till målet att de felaktiga utbetalningarna från välfärdssystemen och den brottslighet som riktas mot dessa system ska minska. Omfattningen av felaktiga utbetalningar från de ersättningar som Försäkringskassan hanterar och den brottslighet som riktas mot dessa ersättningar ska därför minska.\n\nÅterrapportering:\nFörsäkringskassan ska redovisa måluppfyllelsen, genomförda åtgärder för att minska de felaktiga utbetalningarna och den brottslighet som riktas mot välfärdssystemen samt en bedömning av åtgärdernas effekter.\n\nRedovisningen ska därutöver omfatta följande:\n\n- Upptäckta felaktiga utbetalningar (antal utbetalningar, orsaker och totalt belopp) samt andel felaktiga utbetalningar som har orsakats av Försäkringskassan.\n- De upptäckta felaktiga utbetalningarnas andel av det totalt utbetalda beloppet.\n- Andelen upptäckta felaktiga utbetalningar av de uppskattade totala felaktiga utbetalningarna.\n- Konstaterade felaktiga utbetalningar i kontrollutredningsverksamheten per krona i kostnader för kontrollarbetet.\n- Återbetalda medel samt andelen återbetalda medel av upptäckta felaktiga utbetalningar.\n- Återkrav (antal, orsaker och belopp) och total fordran.\n- Antal polisanmälningar.\n\nMed kostnaden för kontrollarbetet avses en uppskattning av kostnaderna som är direkt relaterade till kostnader för kontrollåtgärder som vidtas inom kontrollutredningsverksamheten.\n\nRedovisningen ska, utom för total fordran och återbetalda medel, göras per ersättning för de ersättningar som ingår i årsredovisningens resultatredovisning och totalt. Därtill ska en analys göras av hur utfallet av indikatorerna förändrats över tid samt orsaker till förändringen.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "årsredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "tillsyn_kontroll",
+    "statistik_data"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "Upptäckta felaktiga utbetalningar (antal utbetalningar, orsaker och totalt belopp) samt andel felaktiga utbetalningar som har orsakats av Försäkringskassan.",
+    "De upptäckta felaktiga utbetalningarnas andel av det totalt utbetalda beloppet.",
+    "Andelen upptäckta felaktiga utbetalningar av de uppskattade totala felaktiga utbetalningarna.",
+    "Konstaterade felaktiga utbetalningar i kontrollutredningsverksamheten per krona i kostnader för kontrollarbetet.",
+    "Återbetalda medel samt andelen återbetalda medel av upptäckta felaktiga utbetalningar.",
+    "Återkrav (antal, orsaker och belopp) och total fordran.",
+    "Antal polisanmälningar."
+   ],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27560:goals:5"
+  },
+  {
+   "title": "Återrapportering om korrekta uppgifter om pensionsgrundande inkomst",
+   "group": [],
+   "text": "Försäkringskassan ska redovisa hur myndigheten säkerställer att korrekta uppgifter om pensionsgrundande utbetalningar lämnas till Skatteverket. Redovisningen ska inbegripa en bedömning av resultatet.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [
+    "Skatteverket"
+   ],
+   "partners": [
+    "Skatteverket"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27560:goals:6"
+  },
+  {
+   "title": "Efterlevnad av internationella sanktioner",
+   "group": [],
+   "text": "Försäkringskassan ska redovisa vilka förebyggande åtgärder som har vidtagits, enskilt och i samverkan med andra myndigheter, för att främja efterlevnaden av EU:s sanktionsförordningar och den svenska sanktionslagstiftningen.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27560:goals:7"
+  }
+ ],
+ "org": [],
+ "assignments": [
+  {
+   "title": null,
+   "group": [],
+   "text": "Redovisningen av respektive uppdrag nedan ska hänvisa till regleringsbrevet för 2026 avseende Försäkringskassan.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27560:assignments:0"
+  },
+  {
+   "title": "En verksamhet och en ekonomi i balans",
+   "group": [],
+   "text": "Försäkringskassan ska, utan att rättssäkerheten riskeras, vidta åtgärder för att minska handläggningstider och ärendebalanser (antalet pågående ärenden) samt för att tillgängligheten i telefonin ska vara god och stabil.Försäkringskassan ska lämna en samlad redovisning av resultatutvecklingen i myndighetens verksamhet, samt förväntad framtida utveckling av resultaten.\n\nRedovisningen ska innefatta områdena ärendehandläggning, telefoni, medarbetare, samt ekonomi. Redovisningen ska innefatta en fördjupande del om utvecklingen av resultaten i ärendehandläggningen, vilka åtgärder som vidtas för att stärka ärendehandläggningen samt en redogörelse av hur rättssäkerheten upprätthålls med anledning av de åtgärder som vidtas.\n\nRedovisningen ska omfatta månadsvisa och ackumulerade resultat för de indikatorer som sedan tidigare tagits fram i dialog med Regeringskansliet (Socialdepartementet) och där det är relevant redovisas per förmån/ område. Redovisningen ska utöver de månadsvisa resultaten även innehålla förväntad utveckling till och med 2028 för handläggningstider, ärendebalanser och tillgängligheten i telefonin samt jämförelse med den senast redovisade förväntade utvecklingen. Försäkringskassan ska redovisa eventuella förändringar i automatiseringsgraden samt vilka åtgärder myndigheten har vidtagit för att öka automatiseringsgraden där så är möjligt och lämpligt.\n\nAv den ekonomiska delen av redovisningen ska fördelningen av resurser på ärendehandläggning, it-verksamhet, styr- och stödfunktioner samt övrig verksamhet framgå, samt hur stor del av kostnaderna som inte belastar förvaltningsanslaget (avgifter och bidrag). Myndigheten ska redovisa vilka effektiviseringsåtgärder myndigheten har genomfört och planerar för att rikta resurser till kärnverksamheten.\n\nResultaten ska analyseras och kommenteras, vidare ska eventuella avvikelser redovisas, samt vilka åtgärder myndigheten vidtagit för att hantera dessa. Uppdraget ska redovisas till Regeringskansliet (Socialdepartementet) den 31 mars 2026 och den 30 september 2026. Redovisningen i mars 2026 ska avse helårsutfall för 2025. Redovisningen i september 2026 ska avse utfall för första halvåret 2026.\n\nDen redovisning som efterfrågas i uppdrag att minska handläggningstiderna i ärenden om intyg S1 samt ersättning till enskilda för deras kostnader för hälso- och sjukvård som har lämnats i en annan EU/EES-medlemsstat (S2024/00639) ska fortsättningsvis ske inom ramen för detta uppdrag. En slutredovisning ska ske avseende denna del senast den 15 september 2027.",
+   "dates": [
+    "2026-03-31",
+    "2026-09-30",
+    "2027-09-15"
+   ],
+   "deadlines": [
+    "2027-09-15"
+   ],
+   "recipients": [
+    "Regeringskansliet (Socialdepartementet)"
+   ],
+   "partners": [],
+   "channels": [
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna",
+    "statistik_data",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27560:assignments:1"
+  },
+  {
+   "title": "Öka förmågan att använda AI och ny teknik genom datadrivet arbete",
+   "group": [],
+   "text": "Försäkringskassan ska redovisa i vilken utsträckning myndigheten arbetar datadrivet, vilka åtgärder som har vidtagits för att förbättra förmågan att arbeta datadrivet, samt göra en bedömning av vilket resultat som åtgärderna har lett till. Försäkringskassan ska även redovisa på vilket sätt arbetet med data och AI har bidragit till att utveckla verksamheten.\n\nAv redovisningen ska framgå hur myndigheten beaktar risker och arbetar för att användning av data och AI sker på ett etiskt, säkert och icke-diskriminerande sätt. Eventuella hinder eller framgångsfaktorer för datadrivet arbete och användande av AI-teknik ska även redovisas.\n\nUppdraget ska redovisas till Regeringskansliet (Socialdepartementet) senast den 15 mars 2026.",
+   "dates": [
+    "2026-03-15"
+   ],
+   "deadlines": [
+    "2026-03-15"
+   ],
+   "recipients": [
+    "Regeringskansliet (Socialdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla",
+    "statistik_data",
+    "digitalisering_ai"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27560:assignments:2"
+  },
+  {
+   "title": "Genomförd och planerad it-utveckling",
+   "group": [],
+   "text": "Försäkringskassan ska redovisa de viktigaste it-utvecklingsinsatserna som har genomförts under 2026. Redovisningen ska göras utifrån förväntad nytta, påverkan på myndighetens sätt att utföra sina uppgifter och när effekter förväntas uppstå. Vidare ska Försäkringskassan redovisa vilka större framtida behov av it-utveckling som har identifierats där utvecklingsarbetet är pågående, i en planeringsfas, inte har inletts eller har prioriterats ner.\n\nUppdraget ska redovisas till Regeringskansliet (Socialdepartementet) senast den 31 januari 2027.",
+   "dates": [
+    "2027-01-31"
+   ],
+   "deadlines": [
+    "2027-01-31"
+   ],
+   "recipients": [
+    "Regeringskansliet (Socialdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "digitalisering_ai"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27560:assignments:3"
+  },
+  {
+   "title": "Prognoser",
+   "group": [],
+   "text": "Försäkringskassan ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Prognoserna lämnas i informationssystemet Hermes senast den:\n\n- 2 februari\n- 22 april\n- 24 juli\n- 9 november\n\nVid prognostillfällena ska, om inte annat anges, följande redovisas:\n\n- belastning på samtliga anslag och anslagsposter redovisat totalt samt fördelat per månad\n- prognostiserat utfall för 2026 för samtliga anslag och anslagsposter, redovisat totalt samt fördelat per månad\n- förklaring och analys till förändringar i prognos och utfall med hjälp av makro- och volymförändringar, samt\n- beskrivningar och motiveringar av eventuella förändringar av prognosmodeller, samt beskrivningar av hur förändringarna påverkat prognoserna jämfört med tidigare prognosmodeller.\n\nUtöver ovanstående ska Försäkringskassan avseende förvaltningsanslaget redovisa:\n\n- vilka antaganden som har använts i prognosen\n- vilka osäkerhetsfaktorer som finns, samt\n- vad som har orsakat eventuella förändringar\n\nOm myndigheten bedömer att åtgärder krävs för att inte avvika från de ekonomiska ramar som regeringen beslutat ska myndigheten redovisa vilka åtgärder som har vidtagits eller planeras att vidtas, samt analysera och redovisa vilka konsekvenserna blir för verksamheten till följd av dessa åtgärder.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos",
+    "analysera",
+    "fördela_medel"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "belastning på samtliga anslag och anslagsposter redovisat totalt samt fördelat per månad",
+    "prognostiserat utfall för 2026 för samtliga anslag och anslagsposter, redovisat totalt samt fördelat per månad",
+    "förklaring och analys till förändringar i prognos och utfall med hjälp av makro- och volymförändringar, samt",
+    "beskrivningar och motiveringar av eventuella förändringar av prognosmodeller, samt beskrivningar av hur förändringarna påverkat prognoserna jämfört med tidigare prognosmodeller.",
+    "vilka antaganden som har använts i prognosen",
+    "vilka osäkerhetsfaktorer som finns, samt",
+    "vad som har orsakat eventuella förändringar"
+   ],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27560:assignments:4"
+  },
+  {
+   "title": "Prognos för beställningsbemyndiganden",
+   "group": [],
+   "text": "Myndigheten ska redovisa en prognos för de förslag om beställningsbemyndiganden som lämnats i budgetunderlaget och för de åtaganden som ingåtts med stöd av äldre beställningsbemyndiganden. Prognosen ska lämnas senast den 24 juli 2026 via Statsredovisningssystemet i Hermes och utformas enligt närmare information från Statskontoret.",
+   "dates": [
+    "2026-07-24"
+   ],
+   "deadlines": [
+    "2026-07-24"
+   ],
+   "forecast_dates": [],
+   "recipients": [],
+   "partners": [
+    "Statskontoret"
+   ],
+   "channels": [
+    "hermes",
+    "budgetunderlag"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27560:assignments:5"
+  },
+  {
+   "title": "FELAKTIGA UTBETALNINGAR, BIDRAGSBROTT OCH ÅTERBETALNING",
+   "group": [],
+   "text": "",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27560:assignments:6"
+  },
+  {
+   "title": "Hur nya kontrollverktyg har kommit till användning i verksamheten",
+   "group": [],
+   "text": "Försäkringskassan ska redovisa hur de möjligheter som följer av författningsändringar har implementerats i myndighetens verksamhet och vad dessa har gett för resultat i förhållande till respektive reforms syfte.\n\nFörfattningsändringarna som är avses är de som framgår av följande:\n\n- En ny dataskyddsreglering på socialförsäkringsområdet (prop. 2023/24:29, bet. 2023/24:SfU7, rskr. 2023/24:119).\n- En ny lag om uppgiftsskyldighet för att motverka felaktiga utbetalningar från välfärdssystemen samt fusk, regelöverträdelser och brottslighet i arbetslivet (prop. 2023/24:85, bet. 2023/24:KU27, rskr. 2023/24:195).\n- Ökat informationsutbyte mellan myndigheter – en ny sekretessbrytande bestämmelse (prop. 2024/25:180, bet. 2025/26:KU6, rskr. 2025/26:24).\n- Bättre verktyg för kontroll – uppgiftsinhämtning inom socialförsäkringen och ekonomiskt bistånd (prop. 2024/25:179, bet. 2025/26:SfU6, rskr. 2025/26:16).\n- Bättre verktyg för att bekämpa den kriminella ekonomin – betalningssäkring inom socialförsäkringen (prop. 2024/25:39, bet. 2024/25:SfU10, rskr. 2024/25:135).\n- Uppgifter som ska lämnas i samband med arbetsgivardeklarationen (prop. 2024/25:36, prop. 2024/25:SfU9, rskr. 2024/25:97).\n- Förordning (2024:409) om ändring i förordningen (2001:588) om behandling av uppgifter i Skatteverkets beskattningsverksamhet.\n\nUppdraget ska redovisas till Regeringskansliet (Socialdepartementet) senast den 23 oktober 2026.",
+   "dates": [
+    "2026-10-23"
+   ],
+   "deadlines": [
+    "2026-10-23"
+   ],
+   "recipients": [
+    "Regeringskansliet (Socialdepartementet)"
+   ],
+   "partners": [
+    "Skatteverket"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "tillsyn_kontroll"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2001:588",
+    "2024:409"
+   ],
+   "sub_questions": [
+    "En ny dataskyddsreglering på socialförsäkringsområdet (prop. 2023/24:29, bet. 2023/24:SfU7, rskr. 2023/24:119).",
+    "En ny lag om uppgiftsskyldighet för att motverka felaktiga utbetalningar från välfärdssystemen samt fusk, regelöverträdelser och brottslighet i arbetslivet (prop. 2023/24:85, bet. 2023/24:KU27, rskr. 2023/24:195).",
+    "Ökat informationsutbyte mellan myndigheter – en ny sekretessbrytande bestämmelse (prop. 2024/25:180, bet. 2025/26:KU6, rskr. 2025/26:24).",
+    "Bättre verktyg för kontroll – uppgiftsinhämtning inom socialförsäkringen och ekonomiskt bistånd (prop. 2024/25:179, bet. 2025/26:SfU6, rskr. 2025/26:16).",
+    "Bättre verktyg för att bekämpa den kriminella ekonomin – betalningssäkring inom socialförsäkringen (prop. 2024/25:39, bet. 2024/25:SfU10, rskr. 2024/25:135).",
+    "Uppgifter som ska lämnas i samband med arbetsgivardeklarationen (prop. 2024/25:36, prop. 2024/25:SfU9, rskr. 2024/25:97).",
+    "Förordning (2024:409) om ändring i förordningen (2001:588) om behandling av uppgifter i Skatteverkets beskattningsverksamhet."
+   ],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27560:assignments:7"
+  },
+  {
+   "title": "Rätt från början och en återbetalningsverksamhet i balans",
+   "group": [],
+   "text": "Fler beslut ska bli rätt från början och Försäkringskassan ska vidta åtgärder i syfte att motverka att enskilda blir återbetalningsskyldiga. Vid genomförandet av uppdraget ska särskild vikt läggas vid fastställandet av sjukpenninggrundande inkomst och av försäkringstillhörighet samt omprövning av rätten till livränta vid ändrade förhållanden. Myndigheten ska öka förmågan att omhänderta anmälningar av ändrade förhållanden. Myndigheten ska vidare, med hög rättslig kvalitet i beslut om återkrav bl.a. med beaktande av rapporten Rättsliga brister i återkrav? (ISF 2025:8) och för att säkerställa en rättssäker hantering av bidragsspärr och sanktionsavgift i socialförsäkringen, stärka förmågan att återkräva felaktiga utbetalningar och öka återbetalningen av felaktigt utbetalda ersättningar.\n\nFörsäkringskassan ska redovisa åtgärder som vidtas för att motverka att enskilda blir återbetalningsskyldiga samt utvecklingen av resultaten i handläggningen av återkrav och återbetalning. När det gäller återbetalningen av skulder ska fordringarnas ålder, storlek, ursprung och enskildas förutsättningar för återbetalning beaktas.\n\nRedovisningen ska omfatta månadsvisa och ackumulerade resultat för de indikatorer som sedan tidigare har tagits fram i dialog med Regeringskansliet (Socialdepartementet) och där det är relevant redovisas per förmån. Redovisningen avseende återbetalning av skulder ska ske fördelat på skulder som uppstått före och skulder som uppstått efter den 1 september 2022, då ändringen i utsökningsbalken om snabbare och enklare verkställighet av myndighetsbeslut trädde i kraft (prop. 2021/22:206, bet. 2021/22:CU30, rskr. 2021/22:447).\n\nResultaten ska analyseras och kommenteras. Uppdraget ska redovisas till Regeringskansliet (Socialdepartementet) den 16 mars, den 15 juni , den 15 september och den 16 november. Redovisningen i mars 2026 ska avse helårsutfall för 2025.",
+   "dates": [
+    "2022-09-01"
+   ],
+   "deadlines": [],
+   "recipients": [
+    "Regeringskansliet (Socialdepartementet)"
+   ],
+   "partners": [
+    "Inspektionen för socialförsäkringen"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna",
+    "fördela_medel",
+    "utveckla",
+    "statistik_data"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27560:assignments:8"
+  },
+  {
+   "title": "Ökad efterhandskontroll inom statligt tandvårdsstöd",
+   "group": [],
+   "text": "Försäkringskassan ska öka sina efterhandskontroller av utbetalningar till tandvårdsmottagningar för att förhindra att oseriösa eller kriminella aktörer kringgår regelverket.\n\nFörsäkringskassan ska i större utsträckning kontrollera att den ersättningsberättigade tandvård som tandvårdsmottagningar rapporterar till Försäkringskassan faktiskt har genomförts. I uppdraget ingår även att utföra mer omfattande kontroller, bl.a. av vilka tandvårdsbehandlingar patienten har fått betala för och hur mycket när ersättningsberättigande tandvård utförts. Inom ramen för uppdraget ska Försäkringskassan stärka sitt samarbete med berörda aktörer, däribland Inspektionen för vård och omsorg.\n\nEn delredovisning för resultaten av kontrollerna ska lämnas till Regeringskansliet (Socialdepartementet) senast den 1 februari 2027. Uppdraget ska slutredovisas senast den 1 februari 2029.",
+   "dates": [
+    "2027-02-01",
+    "2029-02-01"
+   ],
+   "deadlines": [
+    "2027-02-01",
+    "2029-02-01"
+   ],
+   "recipients": [
+    "Regeringskansliet (Socialdepartementet)"
+   ],
+   "partners": [
+    "Inspektionen för vård och omsorg"
+   ],
+   "channels": [
+    "delredovisning",
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "tillsyn_kontroll"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27560:assignments:9"
+  },
+  {
+   "title": "Uppdrag i syfte att förbättra myndighetens förutsättningar att arbeta mot gränsöverskridande arbetslivskriminalitet",
+   "group": [],
+   "text": "Försäkringskassan ska, utifrån iakttagelser och rekommendationer i ISF 2025:4, redovisa vad som behöver förtydligas i regelverket (lag eller förordning) för att myndigheten ska kunna uppfylla sitt uppdrag som behörig institution för tillämplig lagstiftning, både avseende personer som kommer till Sverige och personer som tillfälligt arbetar i annan medlemsstat inom EU. Redovisningen ska innehålla förslag på vilka eventuella förtydliganden som krävs och varför.\n\nFörsäkringskassan ska därutöver redovisa vad som krävs för att ett digitalt och sökbart register över inkommande och utfärdade A1-intyg ska kunna driftsättas. Registret ska förbättra myndighetens förutsättningar att själva identifiera och utreda felaktiga och förfalskade A1-intyg, samt agera på impulser från andra aktörer, från såväl Sverige som annan medlemsstat. Redovisningen ska innehålla en beskrivning av de praktiska steg som behöver vidtas för att ett sökbart register ska komma på plats och en tidplan. Pågående utvecklingsarbete avseende digitaliseringen av intyg utfärdade inom ramen för EU-förordningarna (förordning [EG] nr 883/2004 om samordning av de sociala trygghetssystemen) och 987/2009 (förordning [EG] nr 987/2009 om tillämpningsbestämmelser till förordning (EG) nr 883/2004 om samordning av de sociala trygghetssystemen) och andra EU-initiativ med bäring på samordningen av de sociala trygghetssystemen ska beaktas. Försäkringskassan ska även redovisa vilka åtgärder som har vidtagits och ska vidtas för att, i väntan på att ett digitalt och sökbart register kommer på plats, stärka myndighetens arbete med att själva identifiera och utreda felaktiga och förfalskade A1-intyg, samt agera på impulser från andra aktörer.\n\nUppdraget ska redovisas till Regeringskansliet (Socialdepartementet) senast den 30 september 2026.",
+   "dates": [
+    "2026-09-30"
+   ],
+   "deadlines": [
+    "2026-09-30"
+   ],
+   "recipients": [
+    "Regeringskansliet (Socialdepartementet)"
+   ],
+   "partners": [
+    "Inspektionen för socialförsäkringen"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "statistik_data",
+    "digitalisering_ai",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27560:assignments:10"
+  },
+  {
+   "title": "SJUKFÖRSÄKRING",
+   "group": [],
+   "text": "",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27560:assignments:11"
+  },
+  {
+   "title": "Kartläggning av rehabiliteringspenningen",
+   "group": [],
+   "text": "Försäkringskassan ska kartlägga och analysera rehabiliteringspenningens funktion. Kartläggningen ska ge information om i vilken typ av ärenden och situationer rehabiliteringspenning beviljas, såväl inom det förstärkta samarbetet mellan Försäkringskassan och Arbetsförmedlingen som i övriga sjukpenningärenden.\n\nFörsäkringskassan ska också beskriva vilka möjligheter till flexibel upptrappning i arbetsträning som ryms inom ramen för nuvarande tillämpning av regelverket för rehabiliteringspenning, vid såväl helt som delvis nedsatt arbetsförmåga.\n\nFörsäkringskassan ska även redovisa konsekvenserna av samordning av rehabiliteringspenning och sjukpenning för\n\n- den försäkrade,\n- administrationen,\n- uppföljning, samt\n- övriga konsekvenser.\n\nUppdraget ska redovisas till Regeringskansliet (Socialdepartementet) senast den 15 oktober 2026.",
+   "dates": [
+    "2026-10-15"
+   ],
+   "deadlines": [
+    "2026-10-15"
+   ],
+   "recipients": [
+    "Regeringskansliet (Socialdepartementet)"
+   ],
+   "partners": [
+    "Arbetsförmedlingen"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "administrationen,",
+    "uppföljning, samt",
+    "övriga konsekvenser."
+   ],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27560:assignments:12"
+  },
+  {
+   "title": "Förebygga felaktiga utbetalningar inom sjukpenningen",
+   "group": [],
+   "text": "Försäkringskassan ska se över och ta ställning till om den befintliga riskprofilen inom sjukpenningen är effektiv för att förebygga felaktiga utbetalningar och därigenom minska behovet av återkrav.\n\nFörsäkringskassan ska även ta ställning till om det finns skäl att utveckla fler riskprofiler inom sjukpenningen för att förebygga och minska omfattningen av de felaktiga utbetalningarna, samt vid behov utveckla befintliga eller nya sådana riskprofiler. Myndigheten ska särskilt överväga om det finns skäl att använda uppgifter från de månatliga arbetsgivardeklarationerna i sådana riskprofiler.\n\nFör att förebygga felaktiga utbetalningar och minska behovet av återkrav ska Försäkringskassan också utveckla befintliga eller nya arbetssätt för kontroller inför beslut om sjukpenning.\n\nEn plan för hur uppdraget ska genomföras ska redovisas till Regeringskansliet (Socialdepartementet) senast den 1 mars 2026. Uppdraget ska slutredovisas till Regeringskansliet (Socialdepartementet) senast den 2 november 2026.",
+   "dates": [
+    "2026-03-01",
+    "2026-11-02"
+   ],
+   "deadlines": [
+    "2026-03-01",
+    "2026-11-02"
+   ],
+   "recipients": [
+    "Regeringskansliet (Socialdepartementet)"
+   ],
+   "partners": [],
+   "channels": [
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "utveckla",
+    "tillsyn_kontroll"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27560:assignments:13"
+  },
+  {
+   "title": "Unga med aktivitetsersättning och personer med sjukpenning i särskilda fall",
+   "group": [],
+   "text": "Försäkringskassan ska utveckla indikatorer för att löpande kunna följa upp att unga med aktivitetsersättning på grund av nedsatt arbetsförmåga och personer med sjukpenning i särskilda fall ges möjligheter att närma sig arbete eller studier. I uppdraget ingår att följa utvecklingen för unga med aktivitetsersättning som finns i kommunernas dagliga verksamhet. I uppdraget ingår även att skapa förutsättningar som möjliggör uppföljning av identifierade indikatorer genom statistikuttag.\n\nUppdraget ska redovisas till Regeringskansliet (Socialdepartementet) senast den 15 december 2026.",
+   "dates": [
+    "2026-12-15"
+   ],
+   "deadlines": [
+    "2026-12-15"
+   ],
+   "recipients": [
+    "Regeringskansliet (Socialdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla",
+    "statistik_data"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27560:assignments:14"
+  },
+  {
+   "title": "Insatser för personer som är sjukskrivna och för unga med aktivitetsersättning",
+   "group": [],
+   "text": "Försäkringskassan och Arbetsförmedlingen ska i samverkan se till att fler kvinnor och män ges nödvändigt stöd för återgång i arbete eller omställning till ett nytt arbete. Sjukskrivna och unga med aktivitetsersättning ska så tidigt som möjligt få tillgång till insatser inom ramen för myndigheternas rehabiliteringssamverkan för att utveckla eller återfå arbetsförmågan och därmed kunna återgå i, eller få, arbete.\n\nFörsäkringskassan och Arbetsförmedlingen ska ge kvinnor och män individuellt anpassade förutsättningar för övergången från Försäkringskassan till Arbetsförmedlingen och myndigheternas samverkan ska bidra till att förhindra att individer förlorar sin sjukpenninggrundande inkomst i anslutning till övergången mellan myndigheterna. Myndigheterna ska genom tillgängliga relevanta uppgifter följa upp resultaten för de kvinnor och män som deltagit i myndigheternas samverkan. Genom samverkan ska myndigheterna bidra till det riksdagsbundna målet om att frånvaron från arbete på grund av sjukdom ska ligga på en långsiktigt stabil och låg nivå.\n\nFörsäkringskassan och Arbetsförmedlingen ska arbeta för att samordningsförbunden prioriterar att finansiera insatser för långtidssjukskrivna, unga med funktionsnedsättning och unga som har aktivitetsersättning, i syfte att stärka kvinnors och mäns förmåga till förvärvsarbete. Arbetsförmedlingen och Försäkringskassan ska bidra till att alla parter i samverkan tar ansvar för samordningsförbundens insatser.\n\nFörsäkringskassan och Arbetsförmedlingen ska genom det Nationella rådet för finansiell samordning stödja utvecklingen av samordningsförbunden.\n\nUppdragen ska redovisas till Regeringskansliet (Socialdepartementet och Arbetsmarknadsdepartementet) senast den 14 april 2027. Försäkringskassan ska även samlat redovisa målgrupper och insatser som finansieras av samordningsförbunden till Regeringskansliet (Socialdepartementet) senast den 14 april 2027.",
+   "dates": [
+    "2027-04-14"
+   ],
+   "deadlines": [
+    "2027-04-14"
+   ],
+   "recipients": [
+    "Arbetsförmedlingen",
+    "Regeringskansliet (Socialdepartementet och Arbetsmarknadsdepartementet)",
+    "Regeringskansliet (Socialdepartementet)"
+   ],
+   "partners": [
+    "Arbetsförmedlingen"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27560:assignments:15"
+  },
+  {
+   "title": "Uppföljning av stödet för återgång i arbete till sjukskrivna personer",
+   "group": [],
+   "text": "Försäkringskassan ska, i syfte att fortlöpande följa upp det av riksdagen beslutade målet för utgiftsområde 10, utarbeta indikatorer dels för stödet till sjukskrivna individer, dels för effektiviteten i detta stöd i form av återgång i arbete. Indikatorerna ska göra det möjligt att följa\n\n- i vilken omfattning individer som har haft sjukpenning fått stöd för återgång i arbete från arbetsgivare, hälso- och sjukvården samt Försäkringskassan, och\n- sambandet mellan stödet till individen och återgången i arbete.\n\nResultaten ska redovisas efter kön, ålder, utbildningsnivå, diagnos, sjukfallens längd och yrke. Utgångspunkten för uppdraget är de resultat som redovisas i rapporten Återgång i arbete vid längre sjukskrivning (Socialförsäkringsrapport 2025:7).\n\nEn plan för uppdraget ska redovisas till Regeringskansliet (Socialdepartementet) senast den 1 april 2026. En delrapport med tillgängliga resultat ska redovisas till Regeringskansliet (Socialdepartementet) senast den 1 juni 2027. Uppdraget ska slutredovisas till Regeringskansliet (Socialdepartementet) senast den 1 december 2027.",
+   "dates": [
+    "2026-04-01",
+    "2027-06-01",
+    "2027-12-01"
+   ],
+   "deadlines": [
+    "2026-04-01",
+    "2027-06-01",
+    "2027-12-01"
+   ],
+   "recipients": [
+    "Regeringskansliet (Socialdepartementet)"
+   ],
+   "partners": [],
+   "channels": [
+    "delredovisning",
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "statistik_data"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [
+    10
+   ],
+   "sfs_refs": [],
+   "sub_questions": [
+    "i vilken omfattning individer som har haft sjukpenning fått stöd för återgång i arbete från arbetsgivare, hälso- och sjukvården samt Försäkringskassan, och",
+    "sambandet mellan stödet till individen och återgången i arbete."
+   ],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27560:assignments:16"
+  },
+  {
+   "title": "Analys av SGI-beslut avseende förhållandet till inkomstuppgifter",
+   "group": [],
+   "text": "Försäkringskassan ska analysera förhållandet mellan fastställd sjukpenninggrundande inkomst (SGI) och inkomstuppgifterna från den försäkrade respektive de inkomstuppgifter som arbetsgivaren lämnat till Skatteverket. Syftet är att klargöra hur handläggningen av SGI fungerar och hur förutsättningarna för maskinella beslut ser ut i olika situationer. Uppdraget är avgränsat till inkomst av anställning.\n\nEn översiktlig delredovisning gällande förhållandet mellan fastställd SGI och inkomstuppgifter ska lämnas till Regeringskansliet (Socialdepartementet) senast den 22 maj 2026. Uppdraget ska slutredovisas till Regeringskansliet (Socialdepartementet) senast den 31 mars 2027.",
+   "dates": [
+    "2026-05-22",
+    "2027-03-31"
+   ],
+   "deadlines": [
+    "2026-05-22",
+    "2027-03-31"
+   ],
+   "recipients": [
+    "Regeringskansliet (Socialdepartementet)",
+    "Skatteverket"
+   ],
+   "partners": [
+    "Skatteverket"
+   ],
+   "channels": [
+    "delredovisning",
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27560:assignments:17"
+  },
+  {
+   "title": "EKONOMISK TRYGGHET FÖR FAMILJER OCH BARN",
+   "group": [],
+   "text": "",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27560:assignments:18"
+  },
+  {
+   "title": "Resultatindikatorer för den ekonomiska familjepolitiken",
+   "group": [],
+   "text": "Försäkringskassan ska redovisa indikatorer som möjliggör analys av måluppfyllelsen för utgiftsområdet Ekonomisk trygghet för familjer och barn. När det är möjligt ska hänsyn tas till den påverkan växelvis boende barn har på barnhushållens disponibla inkomster. Slutredovisningen ska innehålla en analys av utvecklingen av de mest centrala indikatorerna.\n\nEn delredovisning av resultaten, i tabeller och diagram, ska lämnas till Regeringskansliet (Socialdepartementet) senast den 15 april 2026. En slutredovisning av resultat och analyser ska lämnas till Regeringskansliet (Socialdepartementet) senast den 16 juni 2026.",
+   "dates": [
+    "2026-04-15",
+    "2026-06-16"
+   ],
+   "deadlines": [
+    "2026-04-15",
+    "2026-06-16"
+   ],
+   "recipients": [
+    "Regeringskansliet (Socialdepartementet)"
+   ],
+   "partners": [],
+   "channels": [
+    "delredovisning",
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "statistik_data"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27560:assignments:19"
+  },
+  {
+   "title": "Stärka föräldrars kunskaper om flexibel föräldrapenning och vad som påverkar ekonomin under föräldraledigheten",
+   "group": [],
+   "text": "Försäkringskassan ska genom att utveckla informationen till föräldrar öka kunskapen om vad som påverkar hushållets disponibla inkomst när föräldrarna väljer hur de fördelar föräldrapenningen mellan sig. På så sätt ökar förutsättningarna att göra informerade val. Informationen ska vara lättillgänglig och så långt möjligt ge möjlighet för föräldrarna att simulera olika fördelning av föräldrapenning. Hänsyn ska tas till bl.a. effekterna av kollektivavtalad föräldralön, jobbskatteavdrag och statlig inkomstskatt.\n\nFörsäkringskassan ska även stärka föräldrars kunskaper om föräldrapenningens flexibilitet för att ge bättre förutsättningar att planera sin föräldraledighet utifrån familjens behov. Särskild vikt ska läggas vid att informera om möjligheten att nyttja s.k. dubbeldagar och att överlåta föräldrapenning till någon annan försäkrad.\n\nUppdraget ska redovisas till Regeringskansliet (Socialdepartementet) senast den 30 januari 2027.",
+   "dates": [
+    "2027-01-30"
+   ],
+   "deadlines": [
+    "2027-01-30"
+   ],
+   "recipients": [
+    "Regeringskansliet (Socialdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "fördela_medel",
+    "utveckla",
+    "informera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27560:assignments:20"
+  },
+  {
+   "title": "Omprövningar inom omvårdnadsbidrag",
+   "group": [],
+   "text": "Försäkringskassan ska, samtidigt som handläggning av ansökningar av omvårdnadsbidrag bedrivs effektivt och med god service och kvalitet, säkerställa att handläggningen av tidsbestämda omprövningar av omvårdnadsbidrag genomförs.\n\nFörsäkringskassan ska särskilt redovisa vilka åtgärder myndigheten ska vidta för att ärendebalansen av tidsbestämda omprövningar av omvårdnadsbidrag ska minska på kort sikt samt vilka långsiktiga åtgärder som myndigheten avser att vidta för att säkerställa en långsiktigt hållbar handläggning. Försäkringskassan ska redovisa utvecklingen av resultaten i handläggningen av den tidsbestämda omprövningen av omvårdnadsbidrag. Indikatorer ska redovisas per månad. Resultaten ska analyseras och kommenteras, vidare ska eventuella avvikelser redovisas, samt vilka åtgärder myndigheten vidtagit för att hantera dessa.\n\nUppdraget ska redovisas som en del av ovan regleringsbrevsuppdrag En verksamhet och en ekonomi i balans till Regeringskansliet (Socialdepartementet) den 31 mars och den 30 september 2026.",
+   "dates": [
+    "2026-09-30"
+   ],
+   "deadlines": [],
+   "recipients": [
+    "Regeringskansliet (Socialdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "statistik_data"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27560:assignments:21"
+  },
+  {
+   "title": "Uppföljning av VAB-reform",
+   "group": [],
+   "text": "Från och med den 1 januari 2026 utökas antalet situationer som ger rätt till tillfällig föräldrapenning (VAB), bl.a. när en förälder behöver avstå från förvärvsarbete i samband med deltagande i introduktion av barnets behov av hjälp med egenvård i förskolan eller skolan, exempelvis för ett barn med diabetes. Försäkringskassan ska följa upp användningen av VAB i de nya situationerna.\n\nEn första redovisning av nyttjandet ska lämnas till Regeringskansliet (Socialdepartementet) senast den 30 juni 2026 och en andra redovisning ska lämnas senast den 26 februari 2027.",
+   "dates": [
+    "2026-01-01",
+    "2026-06-30",
+    "2027-02-26"
+   ],
+   "deadlines": [
+    "2026-06-30",
+    "2027-02-26"
+   ],
+   "recipients": [
+    "Regeringskansliet (Socialdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27560:assignments:22"
+  },
+  {
+   "title": "ÖVRIGA UPPDRAG",
+   "group": [],
+   "text": "",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27560:assignments:23"
+  },
+  {
+   "title": "Utbetalning av elstöd",
+   "group": [],
+   "text": "Försäkringskassan ska betala ut elstöd enligt förordningen (2026:502) om elstöd till konsumenter för januari–februari 2026 som träder i kraft den 26 maj 2026.\n\nFör uppdraget får Försäkringskassan under 2026 använda medel som ska redovisas mot det under utgiftsområde 21 Energi för budgetåret 2026 uppförda anslaget 1:12 Energistöd, ap.3 Energistöd - del till Försäkringskassan.",
+   "dates": [
+    "2026-05-26"
+   ],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "fördela_medel"
+   ],
+   "anslag_refs": [
+    "1:12"
+   ],
+   "expenditure_area_refs": [
+    21
+   ],
+   "sfs_refs": [
+    "2026:502"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27560:assignments:24"
+  },
+  {
+   "title": "Medel till studentkliniker för tandvård",
+   "group": [],
+   "text": "Försäkringskassan ska betala ut 30 000 000 kr för att stärka patienttillgången genom att möjliggöra avgiftsfri tandvård vid studentkliniker som avser tandläkare, tandhygienister och tandtekniker under utbildning. Medlen ska betalas ut engångsvis utan rekvisition senast den 1 september 2026 enligt följande fördelning:\n\n| | |\n| --- | --- |\n| Göteborgs universitet | 3 422 000 kronor |\n| Umeå universitet | 6 722 000 kronor |\n| Karolinska institutet | 10 200 000 kronor |\n| Karlstads universitet | 306 000 kronor |\n| Malmö universitet | 8 500 000 kronor |\n| Högskolan Kristianstad | 425 000 kronor |\n| Stiftelsen Högskolan i Jönköping | 425 000 kronor |\n\nUtgifterna ska redovisas mot det under utgiftsområde 9 Hälsovård, sjukvård och social omsorg för budgetåret 2026 uppförda anslaget anslag 1:4 Tandvårdsförmåner, anslagsposten 11 Studentkliniker.",
+   "dates": [
+    "2026-09-01"
+   ],
+   "deadlines": [
+    "2026-09-01"
+   ],
+   "recipients": [],
+   "partners": [
+    "Göteborgs universitet",
+    "Högskolan Kristianstad",
+    "Karlstads universitet",
+    "Karolinska institutet",
+    "Malmö universitet",
+    "Umeå universitet"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "fördela_medel"
+   ],
+   "anslag_refs": [
+    "1:4"
+   ],
+   "expenditure_area_refs": [
+    9
+   ],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27560:assignments:25"
+  },
+  {
+   "title": "Utgångspunkter för totalförsvaret",
+   "group": [],
+   "text": "Försäkringskassan ska i sin roll som sektorsansvarig myndighet inom beredskapssektorn ekonomisk säkerhet komplettera och konkretisera Utgångspunkter för totalförsvaret 2025–2030 (Fö2025/01349) utifrån beredskapssektorns ansvarsområde.\n\nUppdraget ska redovisas till Regeringskansliet (Socialdepartementet och Försvarsdepartementet) senast den 22 februari 2027. Redovisningen ska ingå i den särskilda redovisningen för civilt försvar.",
+   "dates": [
+    "2027-02-22"
+   ],
+   "deadlines": [
+    "2027-02-22"
+   ],
+   "recipients": [
+    "Regeringskansliet (Socialdepartementet och Försvarsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27560:assignments:26"
+  },
+  {
+   "title": "Avtal för stärkt försörjningsberedskap",
+   "group": [],
+   "text": "Försäkringskassan ska identifiera behov av och, i de fall myndigheten bedömer det lämpligt, teckna avtal som syftar till att upprätthålla försörjningen av varor och tjänster som är nödvändiga för myndighetens prioriterade uppgifter vid fredstida kriser och höjd beredskap. I de fall myndigheten nyttjar särskilda avtalsformer i form av sådana försörjningsberedskapsavtal (F-avtal) som beskrivs i SOU 2025:68 ska dessa löpande rapporteras till Myndigheten för civilt försvar.\n\nUppdraget ska redovisas till Regeringskansliet (Socialdepartementet och Försvarsdepartementet) senast den 22 februari 2027, och ingå i den särskilda redovisningen för civilt försvar. Som stöd för arbetet kan myndigheten använda bland annat Utgångspunkter för totalförsvaret 2025–2030 (Fö2025/01349).",
+   "dates": [
+    "2027-02-22"
+   ],
+   "deadlines": [
+    "2027-02-22"
+   ],
+   "recipients": [
+    "Myndigheten för civilt försvar",
+    "Regeringskansliet (Socialdepartementet och Försvarsdepartementet)"
+   ],
+   "partners": [
+    "Myndigheten för civilt försvar"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27560:assignments:27"
+  },
+  {
+   "title": "Stärkt motståndskraft mot hybridhot",
+   "group": [],
+   "text": "I syfte att stärka Sveriges samlade motståndskraft mot hybridhot behöver respektive sektor stärka sin förmåga att upptäcka och hantera incidenter som skulle kunna utgöra aktörsdrivna hot. Mot den bakgrunden ska Försäkringskassan:\n\n- säkerställa en kontinuerlig lägesuppfattning av incidenter inom den egna verksamheten och inom sitt sektorsansvar i syfte att upprätthålla en normalbild,\n- sammanställa öppen information om den hotbild som finns mot sektorn och tillgängliggöra den för aktörer som tillhandahåller samhällsviktig verksamhet inom sektorn, samt\n- samverka med Säkerhetspolisen, Myndigheten för civilt försvar och andra berörda myndigheter i syfte att vid behov klargöra eller utveckla rapporteringsvägar för avvikelser eller säkerhetsincidenter.\n\nUppdraget ska redovisas till Regeringskansliet (Socialdepartementet) senast den 1 mars 2027.",
+   "dates": [
+    "2027-03-01"
+   ],
+   "deadlines": [
+    "2027-03-01"
+   ],
+   "recipients": [
+    "Regeringskansliet (Socialdepartementet)"
+   ],
+   "partners": [
+    "Myndigheten för civilt försvar",
+    "Säkerhetspolisen"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "utveckla",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "säkerställa en kontinuerlig lägesuppfattning av incidenter inom den egna verksamheten och inom sitt sektorsansvar i syfte att upprätthålla en normalbild,",
+    "sammanställa öppen information om den hotbild som finns mot sektorn och tillgängliggöra den för aktörer som tillhandahåller samhällsviktig verksamhet inom sektorn, samt",
+    "samverka med Säkerhetspolisen, Myndigheten för civilt försvar och andra berörda myndigheter i syfte att vid behov klargöra eller utveckla rapporteringsvägar för avvikelser eller säkerhetsincidenter."
+   ],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27560:assignments:28"
+  },
+  {
+   "title": "Effektivisera processen om fastställande av årlig inkomst gällande omställningsstudiestöd",
+   "group": [],
+   "text": "Försäkringskassan och Centrala studiestödsnämnden (CSN) ska gemensamt redovisa hur processen om fastställande av årlig inkomst som ligger till grund för handläggning av omställningsstudiestödet ser ut. Myndigheterna ska också vidta nödvändiga åtgärder för att effektivisera processen.\n\nUppdraget ska redovisas till Regeringskansliet (Utbildningsdepartementet och Socialdepartementet) senast den 1 september 2026.",
+   "dates": [
+    "2026-09-01"
+   ],
+   "deadlines": [
+    "2026-09-01"
+   ],
+   "recipients": [
+    "Regeringskansliet (Utbildningsdepartementet och Socialdepartementet)"
+   ],
+   "partners": [
+    "Centrala studiestödsnämnden"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27560:assignments:29"
+  },
+  {
+   "title": "Förbereda för implementering av bidragsreformen",
+   "group": [],
+   "text": "Försäkringskassan ska förbereda för implementeringen av bidragsreformen i de delar som rör Försäkringskassans verksamhet. Det gäller bl.a. införandet av kvalificeringen till vissa bosättningsbaserade socialförsäkringsförmåner som planeras att träda i kraft den 1 januari 2027 (Budgetpropositionen för 2025. Prop. 2024/25:1). Försäkringskassan ska informera om de nya regler som följer av reformen samt förbereda verksamheten för de förändringar som kommer att ske.",
+   "dates": [
+    "2027-01-01"
+   ],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "utveckla",
+    "informera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27560:assignments:30"
+  },
+  {
+   "title": "Statistik om jobbpremien",
+   "group": [],
+   "text": "För att möjliggöra utvärdering av den statliga ersättningen jobbpremie ska Försäkringskassan utveckla och tillgängliggöra statistik. Försäkringskassan ska föra dialog med Institutet för arbetsmarknads- och utbildningspolitisk utvärdering (IFAU) för att säkerställa att statistiken kan användas för att utvärdera om jobbpremien har haft avsedd effekt. Statistiken ska lämnas efter begäran av Regeringskansliet (Socialdepartementet).",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Institutet för arbetsmarknads- och utbildningspolitisk utvärdering"
+   ],
+   "channels": [],
+   "task_types": [
+    "analysera",
+    "utveckla",
+    "statistik_data"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27560:assignments:31"
+  },
+  {
+   "title": "Informationsinsatser för att uppmuntra till frivillig återvandring",
+   "group": [],
+   "text": "Försäkringskassan ska bistå Migrationsverket i arbetet med att informera om möjligheten till stöd för frivillig återvandring. I arbetet ska myndigheten ta stöd av Migrationsverket och den nationella samordnaren för frivillig återvandring (Ju2025:14).\n\nFörsäkringskassan ska senast den 30 september 2026 rapportera till Regeringskansliet (Justitiedepartementet och Socialdepartementet) vilka informationsinsatser som har genomförts.",
+   "dates": [
+    "2026-09-30"
+   ],
+   "deadlines": [
+    "2026-09-30"
+   ],
+   "recipients": [
+    "Regeringskansliet (Justitiedepartementet och Socialdepartementet)"
+   ],
+   "partners": [
+    "Migrationsverket"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "informera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27560:assignments:32"
+  },
+  {
+   "title": "Det allmänna ombudets verksamhet",
+   "group": [],
+   "text": "En samlad redogörelse för allmänna ombudets verksamhet under 2026 inklusive ombudets viktigaste iakttagelser ska lämnas. Av redovisningen ska det framgå hur många beslut från Försäkringskassan respektive Pensionsmyndigheten som ombudet har överklagat under 2026 samt fördelningen mellan överklaganden till fördel och till nackdel för den försäkrade. Av redovisningen ska även framgå hur många prejudicerande domar som ombudet har bidragit till att driva fram.\n\nEn delredovisning med prognos för utfall över medelsanvändning ska senast den 24 juli 2026 lämnas till Regeringskansliet (Socialdepartementet). Uppdraget ska redovisas till Regeringskansliet (Socialdepartementet) senast den 26 februari 2027.",
+   "dates": [
+    "2026-07-24",
+    "2027-02-26"
+   ],
+   "deadlines": [
+    "2026-07-24",
+    "2027-02-26"
+   ],
+   "forecast_dates": [],
+   "recipients": [
+    "Regeringskansliet (Socialdepartementet)"
+   ],
+   "partners": [
+    "Pensionsmyndigheten"
+   ],
+   "channels": [
+    "delredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27560:assignments:33"
+  },
+  {
+   "title": "Överenskommelse mellan staten och Sveriges Kommuner och Regioner",
+   "group": [],
+   "text": "Försäkringskassan ska fastställa redovisningskrav och redovisningsrutiner samt betala ut ersättning enligt överenskommelsen mellan staten och Sveriges Kommuner och Regioner (SKR) Digital överföring av läkarintyg 2026–2027 (S2025/01752).",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Sveriges Kommuner och Regioner"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "fördela_medel"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27560:assignments:34"
+  },
+  {
+   "title": "TIDIGARE GIVNA UPPDRAG I REGLERINGSBREV ELLER SÄRSKILDA REGERINGSBESLUT",
+   "group": [],
+   "text": "För regeringsuppdrag som lämnats i ett särskilt regeringsbeslut utgör tabellen endast en upplysning om vilka uppdrag som vid årets början var riktade till myndigheten och vilka tider som då gällde för återrapportering eller liknande.\n\n| | | |\n| --- | --- | --- |\n| **Uppdrag** | **Beslut om uppdraget** | **Redovisningstidpunkt** |\n| Uppdrag om systematisk uppföljning av funktionshinderspolitiken under 2021–2031 | S2021/06595, S2025/01367 | Senast den 1 februari till Myndigheten för delaktighet, till och med 2031. |\n| Inriktningen för civilt försvar 2025-2030 | Fö2024/02054 | Den 22 februari 2026 |\n| Uppdrag att följa upp mål om handläggningstider samt om bemötande och service hos vissa myndigheter | N2022/01751 | Årligen till Tillväxtverket senast den 15 februari t o m 2029. |\n| Uppdrag om att stärka samordning kopplat till Sveriges möjligheter att attrahera och behålla högkvalificerad internationell kompetens och annan utländsk arbetskraft som är viktig för Sveriges konkurrenskraft | KN2024/00521 | Den 31 mars 2026 och 2027 (av Tillväxtverket) |\n| Uppföljning av överlåtelse av föräldrapenning | Regleringsbrev för 2024 | Den 30 januari 2026 |\n| Det allmänna ombudets verksamhet | Regleringsbrev för 2025 | Den 27 februari 2026 |\n| Nationella programmet för Europeiska socialfonden 2021–2027 | Regleringsbrev för 2023 | Den 22 februari, årligen t.o.m. 2030. |\n| Uppdrag att sammanställa och sprida information om ekonomiska aspekter av våld i nära relationer | A2024/0077, A2025/00884 | Delredovisning den 28 maj 2026, slutredovisning den 15 december 2027 (av Jämställdhetsmyndigheten) |\n| Uppdrag att implementera en myndighetsgemensam plan för att öka utrikes födda kvinnors inträde på arbetsmarknaden | A2023/00923 | Den 31 mars 2026 av Arbetsförmedlingen. |\n| Ändring av uppdraget att förbereda och införa ett fritidskort för barn och unga | S2023/01303 | Delredovisning den 31 mars 2026 och slutredovisning den 31 mars 2027 (av e-Hälsomyndigheten) |\n| Ändring av uppdraget att upprätta och förbereda förvaltning av ett utförarregister för fritidskort för barn och unga | S2024/00033 | Delredovisning den 31 mars 2026 och slutredovisning den 31 mars 2027. |\n| Utbetalning av elstöd till hushåll | Regleringsbrev för 2024 | |\n| Uppdrag att studera felaktiga utbetalningar av vissa ersättningar | Fi2024/01861 Fi2024/02405 | Den 5 oktober 2026 |\n| Ändring av uppdraget att inrätta regionala center mot arbetslivskriminalitet och om varaktig myndighetssamverkan | A2024/01109 | Den 31 mars 2026 och 2027 (av Arbetsmiljöverket) |\n| Uppdrag om förstärkt tillsyn mot välfärdsbrottslighet inom omsorgen | S2024/00041 | Den 31 januari 2027 (av IVO) |\n| Uppdrag om förstärkt tillsyn mot välfärdsbrottslighet inom hälso- och sjukvården och tandvård | S2024/00037 | Den 31 januari 2027 (av IVO) |\n| Uppdrag om att ta tillvara arbetsförmåga i förvärvsarbete på arbetsmarknaden | Regleringsbrev för 2025 | Den 14 april 2026 |\n| Insatser för personer som är sjukskrivna och för unga med aktivitetsersättning | Regleringsbrev för 2025 | Den 14 april 2026 |\n| Uppdrag att vidta åtgärder utifrån de rekommendationer Riksrevisionen lämnar i granskningen av övervägande skäl | Regleringsbrev för 2025 | Den 3 februari 2026 |\n| Stärkt samverkan och kontroll av utländska inkomster i syfte att motverka felaktiga utbetalningar och öka återbetalningen | Regleringsbrev för 2025 | Den 15 april 2026 |\n| Kraftsamling mot organiserad brottslighet i välfärden | S2025/01085 | Den 30 april 2026, den 30 sep 2027 |\n| Det allmänna ombudets verksamhet | Regleringsbrev för 2025 | Den 27 februari 2026 |\n| Uppdrag till Försäkringskassan och Skatteverket att utreda förutsättningarna för en AI-verkstad för den offentliga förvaltningen | Fi2025/01523 | Den 12 januari 2026 |\n| Uppdrag att förbereda införandet av administrativa sanktioner i socialförsäkringen | S2025/00457 | Senast före utgången av september 2026 |\n| Uppdrag att samordna utvecklingen av effektiv informationsdelning i arbetet mot brott | Fi2025/01460 | Delredovisning senast den 31 januari 2026, slutredovisning senast den 31 augusti 2026 (av Skatteverket) |\n| Uppdrag till Försäkringskassan att förbereda införandet av månadsberäkning av bostadsbidrag | S2025/01189 | |\n| Uppdrag att kraftsamla mot organiserad brottslighet i välfärden | S2025/01085 | Delredovisning senast den 30 april 2026, slutredovisning senast 30 september 2027 (gemensam med övriga myndigheter som omfattas av uppdraget) |\n| Uppdrag att förbereda införandet av en ny tandvårdsreform | S2025/00158 | Den 2 mars 2026 |\n| | | |\n| Förbereda för begränsning av ansökningstiden för tillfällig föräldrapenning | Regleringsbrev för 2025 | Reformen träder i kraft 1 april 2026 |\n| Uppdrag att samordna, stödja och följa upp genomförandet av den nationella strategin inom området psykisk hälsa och suicidprevention | S2025/00016 | Delredovisning av Folkhälsomyndigheten och Socialstyrelsen senast den 19 december 2026 respektive den 19 december 2027. Slutredovisning av Folkhälsomyndigheten och Socialstyrelsen senast den 19 december 2028. |\n| Uppdrag till beredskapsmyndigheterna om personallån mellan myndigheter | Fö2025/00670 | Den 23 februari 2026 |",
+   "dates": [
+    "2026-01-12",
+    "2026-01-30",
+    "2026-01-31",
+    "2026-02-03",
+    "2026-02-22",
+    "2026-02-23",
+    "2026-02-27",
+    "2026-03-02",
+    "2026-03-31",
+    "2026-04-01",
+    "2026-04-14",
+    "2026-04-15",
+    "2026-04-30",
+    "2026-05-28",
+    "2026-08-31",
+    "2026-10-05",
+    "2026-12-19",
+    "2027-01-31",
+    "2027-03-31",
+    "2027-09-30",
+    "2027-12-15",
+    "2027-12-19",
+    "2028-12-19"
+   ],
+   "deadlines": [
+    "2026-01-31",
+    "2026-04-30",
+    "2026-08-31",
+    "2026-12-19",
+    "2027-09-30",
+    "2028-12-19"
+   ],
+   "recipients": [
+    "Myndigheten för delaktighet",
+    "Tillväxtverket"
+   ],
+   "partners": [
+    "Arbetsförmedlingen",
+    "Arbetsmiljöverket",
+    "Folkhälsomyndigheten",
+    "Inspektionen för vård och omsorg",
+    "Jämställdhetsmyndigheten",
+    "Myndigheten för delaktighet",
+    "Riksrevisionen",
+    "Skatteverket",
+    "Socialstyrelsen",
+    "Tillväxtverket"
+   ],
+   "channels": [
+    "delredovisning",
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna",
+    "utveckla",
+    "tillsyn_kontroll",
+    "statistik_data",
+    "digitalisering_ai",
+    "beredskap_säkerhet",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "27560:assignments:35"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "1:4",
+   "name": "Tandvårdsförmåner",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 9,
+    "name": "Hälsovård, sjukvård och social omsorg"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Socialstyrelsen",
+     "amount_tkr": 8500,
+     "items": [
+      {
+       "ap": "4",
+       "name": "Kompetenscentrum på tandvårdsområdet (ram)",
+       "amount_tkr": 8500
+      }
+     ],
+     "sum_ok": true
+    },
+    {
+     "by": "Försäkringskassan",
+     "amount_tkr": 12777168,
+     "items": [
+      {
+       "ap": "8",
+       "name": "Allmän tandvårdsersättning (ram)",
+       "amount_tkr": 4026123
+      },
+      {
+       "ap": "9",
+       "name": "Allmänt tandvårdsbidrag (ram)",
+       "amount_tkr": 2388790
+      },
+      {
+       "ap": "10",
+       "name": "Kommuntypsstöd till vårdgivare (ram)",
+       "amount_tkr": 480000
+      },
+      {
+       "ap": "11",
+       "name": "Studentkliniker (ram)",
+       "amount_tkr": 30000
+      },
+      {
+       "ap": "12",
+       "name": "Särskild tandvårdsersättning (ram)",
+       "amount_tkr": 5700000
+      },
+      {
+       "ap": "13",
+       "name": "Särskilt tandvårdsbidrag (ram)",
+       "amount_tkr": 152255
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "4",
+     "name": "Kompetenscentrum på tandvårdsområdet",
+     "text": "Socialstyrelsen disponerar anslagsposten för ekonomiskt stöd till kompetenscentrum på tandvårdsområdet. Högst 8 000 000 kronor får utbetalas till olika kompetenscentrum.\nAv medlen ska Socialstyrelsen utbetala 500 000 kronor, engångsvis efter rekvisition, till Nordisk Institutt for Odontologiske Materialer (NIOM) för finansiering av Dentala Material Norden (nordisk produktdatabas för dentala biomaterial)."
+    },
+    {
+     "ap": "8",
+     "name": "Allmän tandvårdsersättning",
+     "text": "Anslagsposten får användas för utgifter för allmän tandvårdsersättning enligt lagen (2008:145) om statligt tandvårdsstöd."
+    },
+    {
+     "ap": "9",
+     "name": "Allmänt tandvårdsbidrag",
+     "text": "Anslagsposten får användas för utgifter för allmänt tandvårdsbidrag enligt lagen (2008:145) om statligt tandvårdsstöd."
+    },
+    {
+     "ap": "10",
+     "name": "Kommuntypsstöd till vårdgivare",
+     "text": "Anslagsposten får användas för stöd enligt förordning (2026:75) om statligt stöd för ökad tillgänglighet till tandvård."
+    },
+    {
+     "ap": "11",
+     "name": "Studentkliniker",
+     "text": "Anslagsposten får användas för stöd till studentkliniker."
+    },
+    {
+     "ap": "12",
+     "name": "Särskild tandvårdsersättning",
+     "text": "Anslagsposten får användas för utgifter för särskild tandvårdsersättning enligt lagen (2008:145) om statligt tandvårdsstöd."
+    },
+    {
+     "ap": "13",
+     "name": "Särskilt tandvårdsbidrag",
+     "text": "Anslagsposten får användas för utgifter för särskilt tandvårdsbidrag enligt lagen (2008:145) om statligt tandvårdsstöd."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "4",
+     "max": 8000000,
+     "unit": "kronor"
+    }
+   ]
+  },
+  {
+   "code": "1:7",
+   "name": "Sjukvård i internationella förhållanden",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 9,
+    "name": "Hälsovård, sjukvård och social omsorg"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Försäkringskassan",
+     "amount_tkr": 705408,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Sjukvård i internationella förhållanden (ram)",
+       "amount_tkr": 705408
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Sjukvård i internationella förhållanden",
+     "text": "Anslagsposten får användas för utgifter för vårdförmåner enligt rådets förordning (EEG) nr 1408/71 av den 14 juni 1971 om tillämpningen av systemen för social trygghet när anställda, egenföretagare eller deras familjemedlemmar flyttar inom gemenskapen, förordning (EG) nr 883/2004 av den 29 april 2004 om samordning av de sociala trygghetssystemen, lagen (2013:513) om ersättning för kostnader till följd av vård i ett annat land inom Europeiska ekonomiska samarbetsområdet, gällande överenskommelser om social trygghet som Sverige tecknat med andra länder samt för sådan övrig vård som Sverige vid tillämpning av EU-rätten är skyldigt att erbjuda. Anslagsposten får även användas för utgifter för vårdformer enligt avtalet om Förenade konungariket Storbritannien och Nordirlands utträde ur Europeiska unionen och Europeiska atomenergigemenskapen (2019/C 384 I/01) samt avtalet om handel och samarbete mellan Europeiska unionen och Europeiska atomenergigemenskapen, å ena sidan, och Förenade konungariket Storbritannien och Nordirland, å andra sidan."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "4:3",
+   "name": "Bilstöd till personer med funktionsnedsättning",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 9,
+    "name": "Hälsovård, sjukvård och social omsorg"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Försäkringskassan",
+     "amount_tkr": 264237,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Bilstöd till personer med funktionsnedsättning (ram)",
+       "amount_tkr": 264237
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Bilstöd till personer med funktionsnedsättning",
+     "text": "Anslagsposten får användas för utgifter för bilstöd till personer med funktionsnedsättning enligt socialförsäkringsbalken och lagen (2010:111) om införande av socialförsäkringsbalken."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "4:4",
+   "name": "Kostnader för statlig assistansersättning",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 9,
+    "name": "Hälsovård, sjukvård och social omsorg"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Försäkringskassan",
+     "amount_tkr": 27432553,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Kostnader för statlig assistansersättning (ram)",
+       "amount_tkr": 27432553
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Kostnader för statlig assistansersättning",
+     "text": "Anslagsposten får användas för utgifter för statlig assistansersättning till vissa personer med funktionsnedsättning enligt socialförsäkringsbalken, lagen (2010:111) om införande av socialförsäkringsbalken samt förordningen (1993:1091) om assistansersättning.\nInkomster från kommunerna avseende assistansersättning för de första 20 timmarna per vecka ska redovisas brutto mot anslaget."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "1:1",
+   "name": "Sjukpenning och rehabilitering m.m.",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 10,
+    "name": "Ekonomisk trygghet vid sjukdom och funktionsnedsättning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Försäkringskassan",
+     "amount_tkr": 51559676,
+     "items": [
+      {
+       "ap": "5",
+       "name": "Boendetillägg (ram)",
+       "amount_tkr": 392726
+      },
+      {
+       "ap": "8",
+       "name": "Sjukpenning respektive rehabiliteringspenning i särskilda fall (ram)",
+       "amount_tkr": 360111
+      },
+      {
+       "ap": "15",
+       "name": "Närståendepenning (ram)",
+       "amount_tkr": 242716
+      },
+      {
+       "ap": "16",
+       "name": "Statlig ålderspensionsavgift för närståendepenning (ram)",
+       "amount_tkr": 22123
+      },
+      {
+       "ap": "17",
+       "name": "Statlig ålderspensionsavgift för rehabiliteringspenning (ram)",
+       "amount_tkr": 0
+      },
+      {
+       "ap": "18",
+       "name": "Statlig ålderspensionsavgift för sjukpenning (ram)",
+       "amount_tkr": 4765000
+      },
+      {
+       "ap": "19",
+       "name": "Rehabiliteringspenning (ram)",
+       "amount_tkr": 8000
+      },
+      {
+       "ap": "20",
+       "name": "Arbetshjälpmedel m.m. (ram)",
+       "amount_tkr": 100000
+      },
+      {
+       "ap": "21",
+       "name": "Sjukpenning (ram)",
+       "amount_tkr": 45669000
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "5",
+     "name": "Boendetillägg",
+     "text": "Anslagsposten får användas för utgifter för boendetillägg enligt socialförsäkringsbalken."
+    },
+    {
+     "ap": "8",
+     "name": "Sjukpenning respektive rehabiliteringspenning i särskilda fall",
+     "text": "Anslagsposten får användas för utgifter för sjukpenning respektive rehabiliteringspenning i särskilda fall enligt socialförsäkringsbalken."
+    },
+    {
+     "ap": "15",
+     "name": "Närståendepenning",
+     "text": "Anslagsposten får användas för utgifter för närståendepenning enligt socialförsäkringsbalken och lagen (2010:111) om införande av socialförsäkringsbalken."
+    },
+    {
+     "ap": "16",
+     "name": "Statlig ålderspensionsavgift för närståendepenning",
+     "text": "Anslagsposten får användas för utgifter för statlig ålderspensionsavgift enligt lagen (1998:676) om statlig ålderspensionsavgift.\nAvser preliminär statlig ålderspensionsavgift för 2026 om 23 870 295 kronor och ett regleringsbelopp för 2023 om -1 747 295 kronor."
+    },
+    {
+     "ap": "17",
+     "name": "Statlig ålderspensionsavgift för rehabiliteringspenning",
+     "text": "Anslagsposten får användas för utgifter för statlig ålderspensionsavgift enligt lagen (1998:676) om statlig ålderspensionsavgift.\nEftersom summan av den preliminära statliga ålderspensionsavgiften och regleringsbeloppet för 2026 för anslagspost 17 S*tatlig ålderspensionsavgift för rehabiliteringspenning*beräknas bli negativ, ska Försäkringskassan för 2026 inte betala någon statlig ålderspensionsavgift för anslagspost 17.\nPensionsmyndigheten ska redovisa 56 647 208 kronor på inkomsttitel 2811 avseende regleringsbelopp för statliga ålderspensionsavgifter för rehabiliteringspenning som betalats av Försäkringskassan för 2023."
+    },
+    {
+     "ap": "18",
+     "name": "Statlig ålderspensionsavgift för sjukpenning",
+     "text": "Anslagsposten får användas för utgifter för statlig ålderspensionsavgift enligt lagen (1998:676) om statlig ålderspensionsavgift.\nAvser preliminär statlig ålderspensionsavgift för 2026 om 4 521 353 609 kronor och ett regleringsbelopp för 2023 om 243 646 391 kronor."
+    },
+    {
+     "ap": "19",
+     "name": "Rehabiliteringspenning",
+     "text": "Anslagsposten får användas för utgifter för rehabiliteringspenning enligt socialförsäkringsbalken och lagen (2010:111) om införande av socialförsäkringsbalken.\nFörsäkringskassan får använda anslagsposten för utgifter för ersättning för skada orsakad av deltagare i arbetslivsinriktad rehabilitering enligt förordningen (1980:631) om ersättning av allmänna medel för skada orsakad av deltagare i ett arbetsmarknadspolitiskt program eller arbetslivsinriktad rehabilitering m.m."
+    },
+    {
+     "ap": "20",
+     "name": "Arbetshjälpmedel m.m.",
+     "text": "Anslagsposten får användas för utgifter för arbetshjälpmedel, läkarutlåtanden och läkarundersökningar, särskilt bidrag samt resor till och från arbetet enligt socialförsäkringsbalken och lagen (2010:111) om införande av socialförsäkringsbalken."
+    },
+    {
+     "ap": "21",
+     "name": "Sjukpenning",
+     "text": "Anslagsposten får användas för utgifter för sjukpenning enligt socialförsäkringsbalken och lagen (2010:111) om införande av socialförsäkringsbalken samt för de utgifter som kan uppkomma med anledning av vissa bestämmelser i sjuklönesystemet, nämligen den s.k. sjuklönegarantin och det särskilda högriskskyddet enligt lagen (1991:1047) om sjuklön, för utgifter för avskrivning av studielån avseende sjukperioder enligt studiestödslagen (1999:1395), samt för utgifter för sjuklönekostnader enligt lagen (1991:1047) om sjuklön."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "1:2",
+   "name": "Aktivitets- och sjukersättningar m.m.",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 10,
+    "name": "Ekonomisk trygghet vid sjukdom och funktionsnedsättning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Försäkringskassan",
+     "amount_tkr": 53674700,
+     "items": [
+      {
+       "ap": "5",
+       "name": "Aktivitets- och sjukersättningar (ram)",
+       "amount_tkr": 41049700
+      },
+      {
+       "ap": "6",
+       "name": "Bostadstillägg till personer med aktivitets- och sjukersättningar (ram)",
+       "amount_tkr": 6827000
+      },
+      {
+       "ap": "8",
+       "name": "Statlig ålderspensionsavgift för aktivitets- och sjukersättningar (ram)",
+       "amount_tkr": 5798000
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "5",
+     "name": "Aktivitets- och sjukersättningar",
+     "text": "Anslagsposten får användas för utgifter för aktivitetsersättning och sjukersättning enligt socialförsäkringsbalken och lagen (2010:111) om införande av socialförsäkringsbalken."
+    },
+    {
+     "ap": "6",
+     "name": "Bostadstillägg till personer med aktivitets- och sjukersättningar",
+     "text": "Anslagsposten får användas för utgifter för bostadstillägg enligt socialförsäkringsbalken och lagen (2010:111) om införande av socialförsäkringsbalken."
+    },
+    {
+     "ap": "8",
+     "name": "Statlig ålderspensionsavgift för aktivitets- och sjukersättningar",
+     "text": "Anslagsposten får användas för utgifter för statlig ålderspensionsavgift enligt lagen (1998:676) om statlig ålderspensionsavgift.\nAvser preliminär statlig ålderspensionsavgift för 2026 om 5 597 254 775 kronor och ett regleringsbelopp för 2023 om 200 745 225 kronor."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "1:3",
+   "name": "Merkostnadsersättning och handikappersättning",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 10,
+    "name": "Ekonomisk trygghet vid sjukdom och funktionsnedsättning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Försäkringskassan",
+     "amount_tkr": 1440000,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Handikappersättningar (ram)",
+       "amount_tkr": 823000
+      },
+      {
+       "ap": "2",
+       "name": "Merkostnadsersättning (ram)",
+       "amount_tkr": 617000
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Handikappersättningar",
+     "text": "Anslagsposten får användas för utgifter för handikappersättningar enligt socialförsäkringsbalken och lagen (2010:111) om införande av socialförsäkringsbalken."
+    },
+    {
+     "ap": "2",
+     "name": "Merkostnadsersättning",
+     "text": "Anslagsposten får användas för utgifter för merkostnadsersättning enligt socialförsäkringsbalken och lagen (2010:111) om införande av socialförsäkringsbalken."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "1:4",
+   "name": "Arbetsskadeersättningar m.m.",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 10,
+    "name": "Ekonomisk trygghet vid sjukdom och funktionsnedsättning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Försäkringskassan",
+     "amount_tkr": 2494000,
+     "items": [
+      {
+       "ap": "4",
+       "name": "Statlig ålderspensionsavgift för arbetsskadelivränta (ram)",
+       "amount_tkr": 192000
+      },
+      {
+       "ap": "5",
+       "name": "Arbetsskadelivränta (ram)",
+       "amount_tkr": 2302000
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "4",
+     "name": "Statlig ålderspensionsavgift för arbetsskadelivränta",
+     "text": "Anslagsposten får användas för utgifter för statlig ålderspensionsavgift enligt lagen (1998:676) om statlig ålderspensionsavgift.\nAvser preliminär statlig ålderspensionsavgift för 2026 om 192 527 051 kronor och ett regleringsbelopp för 2023 om -527 051 kronor."
+    },
+    {
+     "ap": "5",
+     "name": "Arbetsskadelivränta",
+     "text": "Anslagsposten får användas för utgifter för arbetsskadeersättning enligt 40, 41, 87 och 88 kap. socialförsäkringsbalken samt motsvarande äldre föreskrifter.\nFörsäkringskassan får fr.o.m. den 1 januari 2026 räkna om livräntor från den frivilliga yrkesskadeförsäkringen med den procentsats som motsvarar förändringen av prisbasbeloppet mellan 2025 och 2026."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "1:5",
+   "name": "Ersättning inom det statliga personskadeskyddet",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 10,
+    "name": "Ekonomisk trygghet vid sjukdom och funktionsnedsättning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Försäkringskassan",
+     "amount_tkr": 38082,
+     "items": [
+      {
+       "ap": "3",
+       "name": "Ersättning inom det statliga personskadeskyddet (ram)",
+       "amount_tkr": 36256
+      },
+      {
+       "ap": "4",
+       "name": "Statlig ålderspensionsavgift för ersättning inom det statliga personskadeskyddet (ram)",
+       "amount_tkr": 1826
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "3",
+     "name": "Ersättning inom det statliga personskadeskyddet",
+     "text": "Anslagsposten får användas för utgifter för ersättningar inom det statliga personskadeskyddet enligt 7, 43, 87 och 88 kap. socialförsäkringsbalken samt motsvarande äldre föreskrifter. Anslagsposten får också användas för utgifter för krigsskadeersättning till sjömän enligt 7, 44, 87 och 88 kap. socialförsäkringsbalken samt motsvarande äldre föreskrifter."
+    },
+    {
+     "ap": "4",
+     "name": "Statlig ålderspensionsavgift för ersättning inom det statliga personskadeskyddet",
+     "text": "Anslagsposten får användas för utgifter för statlig ålderspensionsavgift enligt lagen (1998:676) om statlig ålderspensionsavgift.\nAvser preliminär statlig ålderspensionsavgift för 2026 om 1 928 079 kronor och ett regleringsbelopp för 2023 om -102 079 kronor."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "1:6",
+   "name": "Bidrag för sjukskrivningsprocessen",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 10,
+    "name": "Ekonomisk trygghet vid sjukdom och funktionsnedsättning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Kammarkollegiet",
+     "amount_tkr": 3700,
+     "items": [
+      {
+       "ap": "2",
+       "name": "Kunskapsutveckling för sjukskrivningsprocessen (ram)",
+       "amount_tkr": 3700
+      }
+     ],
+     "sum_ok": true
+    },
+    {
+     "by": "Försäkringskassan",
+     "amount_tkr": 1433000,
+     "items": [
+      {
+       "ap": "3",
+       "name": "Finansiell samordning genom samordningsförbund (ram)",
+       "amount_tkr": 339000
+      },
+      {
+       "ap": "5",
+       "name": "Rehabiliteringsinsatser i samarbete mellan Försäkringskassan och Arbetsförmedlingen (ram)",
+       "amount_tkr": 700000
+      },
+      {
+       "ap": "8",
+       "name": "Arbetsplatsinriktat rehabiliteringsstöd (ram)",
+       "amount_tkr": 134000
+      },
+      {
+       "ap": "9",
+       "name": "Försäkringsmedicinska utredningar (ram)",
+       "amount_tkr": 244000
+      },
+      {
+       "ap": "10",
+       "name": "Bidrag till hälso- och sjukvården (ram)",
+       "amount_tkr": 16000
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "2",
+     "name": "Kunskapsutveckling för sjukskrivningsprocessen",
+     "text": "Anslagsposten får användas för utgifter för att ta fram kunskap om och utveckla sjukskrivningsprocessen.\nSocialstyrelsen får använda 2 000 000 kronor under 2026 enligt regeringsbeslut IV:2 från den 10 oktober 2024 (S2024/01779) och regeringsbeslut IV:2 från den 28 maj 2025 (S2025/01084) för uppdrag att stärka hälso- och sjukvårdens arbete med sjukskrivning och rehabilitering. Medlen betalas ut engångsvis efter rekvisition ställd till Kammarkollegiet senast den 1 december 2026. Medel som inte har förbrukats ska återbetalas till Kammarkollegiet senast den 31 mars 2027. Vid samma tidpunkt ska en ekonomisk redovisning lämnas till Kammarkollegiet. Rekvisition, återbetalning och redovisning ska hänvisa till regleringsbrevet för 2026 avseende Försäkringskassan, anslag 1.6 Bidrag till sjukskrivningsprocessen, anslagspost 2 Kunskapsutveckling för sjukskrivningsprocessen."
+    },
+    {
+     "ap": "3",
+     "name": "Finansiell samordning genom samordningsförbund",
+     "text": "Anslagsposten får användas för utgifter för samverkan och finansiell samordning enligt lagen (2003:1210) om finansiell samordning av rehabiliteringsinsatser. Av dessa medel får Försäkringskassan använda högst 3 000 000 kronor för administrativa kostnader till följd av arbetet med att stödja utvecklingen av samordningsförbundens verksamhet."
+    },
+    {
+     "ap": "5",
+     "name": "Rehabiliteringsinsatser i samarbete mellan Försäkringskassan och Arbetsförmedlingen",
+     "text": "Anslagsposten får användas för utgifter för samverkan inom rehabiliteringsområdet mellan Försäkringskassan och Arbetsförmedlingen."
+    },
+    {
+     "ap": "8",
+     "name": "Arbetsplatsinriktat rehabiliteringsstöd",
+     "text": "Anslagsposten får användas för utgifter för bidrag till arbetsgivare för köp av arbetsplatsinriktat rehabiliteringsstöd enligt förordningen (2014:67) om bidrag till arbetsgivare för köp av arbetsplatsinriktat rehabiliteringsstöd för återgång i arbete."
+    },
+    {
+     "ap": "9",
+     "name": "Försäkringsmedicinska utredningar",
+     "text": "Anslagsposten får användas för utgifter för försäkringsmedicinska utredningar i enlighet med lagen (2018:744) om försäkringsmedicinska utredningar och förordningen (2018:1633) om försäkringsmedicinska utredningar.\nHögst 1 500 000 kr får användas för utveckling av metoden för aktivitetsförmågeutredning.\nHögst 2 200 000 kr får användas för kostnader för att tillhandahålla utbildningar som riktar sig till den personal som ska utföra försäkringsmedicinska utredningar i enlighet med 4 § i nämnda förordning."
+    },
+    {
+     "ap": "10",
+     "name": "Bidrag till hälso- och sjukvården",
+     "text": "Anslagsposten får användas för utbetalning av bidrag till Sveriges Kommuner och Regioner i enlighet med överenskommelsen mellan staten och Sveriges Kommuner och Regioner - Digital överföring av läkarintyg 2026-2027 (S2025/01752)."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "3",
+     "max": 3000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "9",
+     "max": 1500000,
+     "unit": "kr"
+    },
+    {
+     "ap": "9",
+     "max": 2200000,
+     "unit": "kr"
+    }
+   ]
+  },
+  {
+   "code": "2:1",
+   "name": "Försäkringskassan",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 10,
+    "name": "Ekonomisk trygghet vid sjukdom och funktionsnedsättning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Försäkringskassan",
+     "amount_tkr": 11295917,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Förvaltningsmedel (ram)",
+       "amount_tkr": 11295917
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Förvaltningsmedel",
+     "text": "Anslaget får användas för Försäkringskassans förvaltningsutgifter. Anslaget får även användas för forskning inom socialförsäkringens område.\nAv anslagsposten får högst 8 900 000 kronor användas för att stödja forskning inom socialförsäkringens område under såväl Försäkringskassans som Pensionsmyndighetens ansvarsområden.\nAv anslagsposten avser 8 428 000 kronor det allmänna ombudet och ombudets kansli.\nFörsäkringskassan ska kunna använda och samverka med det gemensamma radiokommunikationssystemet Rakel. Försäkringskassan ska betala totalt 1 434 500 kronor till Myndigheten för civilt försvar som abonnemangsavgift för detta system. Beloppet ska betalas efter fakturering från Myndigheten för civilt försvar."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "1",
+     "max": 8900000,
+     "unit": "kronor"
+    }
+   ]
+  },
+  {
+   "code": "1:1",
+   "name": "Barnbidrag",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 12,
+    "name": "Ekonomisk trygghet för familjer och barn"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Försäkringskassan",
+     "amount_tkr": 31659197,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Allmänt barnbidrag (ram)",
+       "amount_tkr": 27934274
+      },
+      {
+       "ap": "2",
+       "name": "Flerbarnstillägg (ram)",
+       "amount_tkr": 3411739
+      },
+      {
+       "ap": "3",
+       "name": "Förlängt barnbidrag (ram)",
+       "amount_tkr": 282857
+      },
+      {
+       "ap": "4",
+       "name": "Tilläggsbelopp vid familjeförmån (ram)",
+       "amount_tkr": 30327
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Allmänt barnbidrag",
+     "text": "Anslagsposten får användas för utgifter för allmänt barnbidrag enligt socialförsäkringsbalken och lagen (2010:111) om införande av socialförsäkringsbalken."
+    },
+    {
+     "ap": "2",
+     "name": "Flerbarnstillägg",
+     "text": "Anslagsposten får användas för utgifter för flerbarnstillägg enligt socialförsäkringsbalken och lagen (2010:111) om införande av socialförsäkringsbalken."
+    },
+    {
+     "ap": "3",
+     "name": "Förlängt barnbidrag",
+     "text": "Anslagsposten får användas för utgifter för förlängt barnbidrag enligt socialförsäkringsbalken och lagen (2010:111) om införande av socialförsäkringsbalken."
+    },
+    {
+     "ap": "4",
+     "name": "Tilläggsbelopp vid familjeförmån",
+     "text": "Anslaget får användas för tilläggsbelopp vid familjeförmåner enligt Europaparlamentets och rådets förordning (EG) nr 883/2004 om samordning av de sociala trygghetssystemen."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "1:2",
+   "name": "Föräldraförsäkring",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 12,
+    "name": "Ekonomisk trygghet för familjer och barn"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Försäkringskassan",
+     "amount_tkr": 49640665,
+     "items": [
+      {
+       "ap": "4",
+       "name": "Statlig ålderspensionsavgift för föräldrapenning (ram)",
+       "amount_tkr": 3203646
+      },
+      {
+       "ap": "8",
+       "name": "Statlig ålderspensionsavgift för tillfällig föräldrapenning (ram)",
+       "amount_tkr": 913995
+      },
+      {
+       "ap": "9",
+       "name": "Föräldrapenning (ram)",
+       "amount_tkr": 35622189
+      },
+      {
+       "ap": "10",
+       "name": "Statlig ålderspensionsavgift för graviditetspenning (ram)",
+       "amount_tkr": 35360
+      },
+      {
+       "ap": "11",
+       "name": "Tillfällig föräldrapenning (ram)",
+       "amount_tkr": 9354917
+      },
+      {
+       "ap": "12",
+       "name": "Graviditetspenning (ram)",
+       "amount_tkr": 510558
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "4",
+     "name": "Statlig ålderspensionsavgift för föräldrapenning",
+     "text": "Anslagsposten får användas för utgifter för statlig ålderspensionsavgift enligt lagen (1998:676) om statlig ålderspensionsavgift.\nAnslagsposten avser preliminär statlig ålderspensionsavgift för 2026 om 3 526 596 664 kronor och ett regleringsbelopp för 2023 om -322 950 664 kronor."
+    },
+    {
+     "ap": "8",
+     "name": "Statlig ålderspensionsavgift för tillfällig föräldrapenning",
+     "text": "Anslagsposten får användas för utgifter för statlig ålderspensionsavgift enligt lagen (1998:676) om statlig ålderspensionsavgift.\nAnslagsposten avser preliminär statlig ålderspensionsavgift för 2026 om 926 625 903 kronor och ett regleringsbelopp för 2023 om -12 630 903 kronor."
+    },
+    {
+     "ap": "9",
+     "name": "Föräldrapenning",
+     "text": "Anslagsposten får användas för utgifter för föräldrapenning enligt socialförsäkringsbalken och lagen (2010:111) om införande av socialförsäkringsbalken."
+    },
+    {
+     "ap": "10",
+     "name": "Statlig ålderspensionsavgift för graviditetspenning",
+     "text": "Anslagsposten får användas för utgifter för statlig ålderspensionsavgift enligt lagen (1998:676) om statlig ålderspensionsavgift.\nAnslagsposten avser preliminär statlig ålderspensionsavgift för 2026 om 50 544 799 kronor och ett regleringsbelopp för 2023 om -15 184 799 kronor."
+    },
+    {
+     "ap": "11",
+     "name": "Tillfällig föräldrapenning",
+     "text": "Anslagsposten får användas för utgifter för tillfällig föräldrapenning enligt socialförsäkringsbalken och lagen (2010:111) om införande av socialförsäkringsbalken."
+    },
+    {
+     "ap": "12",
+     "name": "Graviditetspenning",
+     "text": "Anslagsposten får användas för utgifter för graviditetspenning enligt socialförsäkringsbalken och lagen (2010:111) om införande av socialförsäkringsbalken."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "1:3",
+   "name": "Underhållsstöd",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 12,
+    "name": "Ekonomisk trygghet för familjer och barn"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Försäkringskassan",
+     "amount_tkr": 2780875,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Underhållsstöd (ram)",
+       "amount_tkr": 2780875
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Underhållsstöd",
+     "text": "Anslagsposten får användas för utgifter för underhållsstöd enligt socialförsäkringsbalken och lagen (2010:111) om införande av socialförsäkringsbalken.\nBetalningar från bidragsskyldiga föräldrar ska återföras och särredovisas till anslaget."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "1:4",
+   "name": "Adoptionsbidrag",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 12,
+    "name": "Ekonomisk trygghet för familjer och barn"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Försäkringskassan",
+     "amount_tkr": 9784,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Adoptionsbidrag (ram)",
+       "amount_tkr": 9784
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Adoptionsbidrag",
+     "text": "Anslagsposten får användas för utgifter för bidrag till kostnader för internationella adoptioner enligt socialförsäkringsbalken. Bidrag lämnas för adoptioner som förmedlas enligt en sammanslutning som är auktoriserad enligt lagen (1997:192) om internationell adoptionsförmedling."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "1:6",
+   "name": "Omvårdnadsbidrag och vårdbidrag",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 12,
+    "name": "Ekonomisk trygghet för familjer och barn"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Försäkringskassan",
+     "amount_tkr": 7645098,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Statlig ålderspensionsavgift för omvårdnadsbidrag och vårdbidrag (ram)",
+       "amount_tkr": 702022
+      },
+      {
+       "ap": "2",
+       "name": "Omvårdnadsbidrag och vårdbidrag (ram)",
+       "amount_tkr": 6943076
+      },
+      {
+       "ap": "4",
+       "name": "Vårdbidrag för funktionshindrade barn (ram)",
+       "amount_tkr": 0
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Statlig ålderspensionsavgift för omvårdnadsbidrag och vårdbidrag",
+     "text": "Anslagsposten får användas för utgifter för ålderspensionsavgift enligt lagen (1998:676) om statlig ålderspensionsavgift.\nAnslagsposten avser preliminär statlig ålderspensionsavgift för omvårdnadsbidrag för 2026 om 687 356 699 kronor och ett regleringsbelopp för 2023 om 14 665 301 kronor.\nEftersom summan av den preliminära statliga ålderspensionsavgiften och regleringsbeloppet 2026 för statlig ålderspensionsavgift för vårdbidrag beräknas bli negativ, ska Försäkringskassan inte betala någon statlig ålderspensionsavgift för vårdbidrag 2026.\nPensionsmyndigheten ska redovisa 44 489 007 kronor på inkomsttitel 2811 avseende regleringsbelopp för statliga ålderspensionsavgifter som betalats av Försäkringskassan för Vårdbidrag för 2023."
+    },
+    {
+     "ap": "2",
+     "name": "Omvårdnadsbidrag och vårdbidrag",
+     "text": "Anslagsposten får användas för utgifter för omvårdnadsbidrag och vårdbidrag enligt socialförsäkringsbalken."
+    },
+    {
+     "ap": "4",
+     "name": "Vårdbidrag för funktionshindrade barn",
+     "text": "Anslagsposten får användas för utgifter för vårdbidrag enligt socialförsäkringsbalken."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "1:8",
+   "name": "Bostadsbidrag",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 12,
+    "name": "Ekonomisk trygghet för familjer och barn"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Försäkringskassan",
+     "amount_tkr": 3673310,
+     "items": [
+      {
+       "ap": "2",
+       "name": "Bostadsbidrag (ram)",
+       "amount_tkr": 3673310
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "2",
+     "name": "Bostadsbidrag",
+     "text": "Anslagsposten får användas för utgifter för bostadsbidrag till barnfamiljer samt till unga som fyllt 18 år men inte 29 år enligt socialförsäkringsbalken."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "1:4 Tandvårdsförmåner",
+   "ap": "ap.4",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:4 Tandvårdsförmåner",
+   "ap": "ap.8",
+   "Anslagskredit": 274124,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:4 Tandvårdsförmåner",
+   "ap": "ap.9",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:4 Tandvårdsförmåner",
+   "ap": "ap.10",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:4 Tandvårdsförmåner",
+   "ap": "ap.11",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:4 Tandvårdsförmåner",
+   "ap": "ap.12",
+   "Anslagskredit": 1004442,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:4 Tandvårdsförmåner",
+   "ap": "ap.13",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:7 Sjukvård i internationella förhållanden",
+   "ap": "ap.1",
+   "Anslagskredit": 35270,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "4:3 Bilstöd till personer med funktionsnedsättning",
+   "ap": "ap.1",
+   "Anslagskredit": 13211,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "4:4 Kostnader för statlig assistansersättning",
+   "ap": "ap.1",
+   "Anslagskredit": 1371627,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:1 Sjukpenning och rehabilitering m.m.",
+   "ap": "ap.5",
+   "Anslagskredit": 19636,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:1 Sjukpenning och rehabilitering m.m.",
+   "ap": "ap.8",
+   "Anslagskredit": 18005,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:1 Sjukpenning och rehabilitering m.m.",
+   "ap": "ap.15",
+   "Anslagskredit": 12135,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:1 Sjukpenning och rehabilitering m.m.",
+   "ap": "ap.16",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:1 Sjukpenning och rehabilitering m.m.",
+   "ap": "ap.17",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:1 Sjukpenning och rehabilitering m.m.",
+   "ap": "ap.18",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:1 Sjukpenning och rehabilitering m.m.",
+   "ap": "ap.19",
+   "Anslagskredit": 400,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:1 Sjukpenning och rehabilitering m.m.",
+   "ap": "ap.20",
+   "Anslagskredit": 5000,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:1 Sjukpenning och rehabilitering m.m.",
+   "ap": "ap.21",
+   "Anslagskredit": 2283450,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:2 Aktivitets- och sjukersättningar m.m.",
+   "ap": "ap.5",
+   "Anslagskredit": 2052485,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:2 Aktivitets- och sjukersättningar m.m.",
+   "ap": "ap.6",
+   "Anslagskredit": 341350,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:2 Aktivitets- och sjukersättningar m.m.",
+   "ap": "ap.8",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:3 Merkostnadsersättning och handikappersättning",
+   "ap": "ap.1",
+   "Anslagskredit": 41150,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:3 Merkostnadsersättning och handikappersättning",
+   "ap": "ap.2",
+   "Anslagskredit": 30850,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:4 Arbetsskadeersättningar m.m.",
+   "ap": "ap.4",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:4 Arbetsskadeersättningar m.m.",
+   "ap": "ap.5",
+   "Anslagskredit": 115100,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:5 Ersättning inom det statliga personskadeskyddet",
+   "ap": "ap.3",
+   "Anslagskredit": 1812,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:5 Ersättning inom det statliga personskadeskyddet",
+   "ap": "ap.4",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:6 Bidrag för sjukskrivningsprocessen",
+   "ap": "ap.2",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:6 Bidrag för sjukskrivningsprocessen",
+   "ap": "ap.3",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:6 Bidrag för sjukskrivningsprocessen",
+   "ap": "ap.5",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:6 Bidrag för sjukskrivningsprocessen",
+   "ap": "ap.8",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:6 Bidrag för sjukskrivningsprocessen",
+   "ap": "ap.9",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:6 Bidrag för sjukskrivningsprocessen",
+   "ap": "ap.10",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:1 Försäkringskassan",
+   "ap": "ap.1",
+   "Anslagskredit": 338157,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:1 Barnbidrag",
+   "ap": "ap.1",
+   "Anslagskredit": 1396713,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:1 Barnbidrag",
+   "ap": "ap.2",
+   "Anslagskredit": 170586,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:1 Barnbidrag",
+   "ap": "ap.3",
+   "Anslagskredit": 14142,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:1 Barnbidrag",
+   "ap": "ap.4",
+   "Anslagskredit": 1516,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:2 Föräldraförsäkring",
+   "ap": "ap.4",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:2 Föräldraförsäkring",
+   "ap": "ap.8",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:2 Föräldraförsäkring",
+   "ap": "ap.9",
+   "Anslagskredit": 1781109,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:2 Föräldraförsäkring",
+   "ap": "ap.10",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:2 Föräldraförsäkring",
+   "ap": "ap.11",
+   "Anslagskredit": 467745,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:2 Föräldraförsäkring",
+   "ap": "ap.12",
+   "Anslagskredit": 25527,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:3 Underhållsstöd",
+   "ap": "ap.1",
+   "Anslagskredit": 139043,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:4 Adoptionsbidrag",
+   "ap": "ap.1",
+   "Anslagskredit": 293,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:6 Omvårdnadsbidrag och vårdbidrag",
+   "ap": "ap.1",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:6 Omvårdnadsbidrag och vårdbidrag",
+   "ap": "ap.2",
+   "Anslagskredit": 347150,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:6 Omvårdnadsbidrag och vårdbidrag",
+   "ap": "ap.4",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:8 Bostadsbidrag",
+   "ap": "ap.2",
+   "Anslagskredit": 183665,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 2400000,
+  "Räntekontokredit": 500000,
+  "- Försäkringskassans behov av likviditet i utbetalning av ersättning för vård i andra länder": 170000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 939326
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 939326
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 939326
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 939326
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 939326
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 942755
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 942755
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 942755
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 942755
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 942755
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 942755
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 942757
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:4 Tandvårdsförmåner",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.4",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.8",
+     "274 124",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.9",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.10",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.11",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.12",
+     "1 004 442",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.13",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "1:7 Sjukvård i internationella förhållanden",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "35 270",
+     "Inget",
+     "0"
+    ],
+    [
+     "4:3 Bilstöd till personer med funktionsnedsättning",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "13 211",
+     "Inget",
+     "0"
+    ],
+    [
+     "4:4 Kostnader för statlig assistansersättning",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "1 371 627",
+     "Inget",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:1 Sjukpenning och rehabilitering m.m.",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.5",
+     "19 636",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.8",
+     "18 005",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.15",
+     "12 135",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.16",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.17",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.18",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.19",
+     "400",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.20",
+     "5 000",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.21",
+     "2 283 450",
+     "Inget",
+     "0"
+    ],
+    [
+     "1:2 Aktivitets- och sjukersättningar m.m.",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.5",
+     "2 052 485",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.6",
+     "341 350",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.8",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "1:3 Merkostnadsersättning och handikappersättning",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "41 150",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.2",
+     "30 850",
+     "Inget",
+     "0"
+    ],
+    [
+     "1:4 Arbetsskadeersättningar m.m.",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.4",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.5",
+     "115 100",
+     "Inget",
+     "0"
+    ],
+    [
+     "1:5 Ersättning inom det statliga personskadeskyddet",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.3",
+     "1 812",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.4",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "1:6 Bidrag för sjukskrivningsprocessen",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.2",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.3",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.5",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.8",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.9",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.10",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "2:1 Försäkringskassan",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "338 157",
+     "3 %",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:1 Barnbidrag",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "1 396 713",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.2",
+     "170 586",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.3",
+     "14 142",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.4",
+     "1 516",
+     "Inget",
+     "0"
+    ],
+    [
+     "1:2 Föräldraförsäkring",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.4",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.8",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.9",
+     "1 781 109",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.10",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.11",
+     "467 745",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.12",
+     "25 527",
+     "Inget",
+     "0"
+    ],
+    [
+     "1:3 Underhållsstöd",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "139 043",
+     "Inget",
+     "0"
+    ],
+    [
+     "1:4 Adoptionsbidrag",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "293",
+     "Inget",
+     "0"
+    ],
+    [
+     "1:6 Omvårdnadsbidrag och vårdbidrag",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.2",
+     "347 150",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.4",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "1:8 Bostadsbidrag",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.2",
+     "183 665",
+     "Inget",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Omfördelning av anslagssparande",
+   "rows": [
+    [
+     "Omfördelning från anslag/ap1",
+     "Omfördelning till anslag/ap2",
+     "Belopp (tkr)",
+     "Belopp andel (%)"
+    ],
+    [
+     "1:6 Omvårdnadsbidrag och vårdbidrag",
+     "",
+     "",
+     ""
+    ],
+    [
+     "1:6 ap.4",
+     "1:6 ap.2",
+     "100 %"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Avslutade anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagstyp"
+    ],
+    [
+     "1:4 Tandvårdsförmåner",
+     ""
+    ],
+    [
+     "ap.1",
+     "ram"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Avslutade anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagstyp"
+    ],
+    [
+     "1:7 (2025) Ersättning för höga sjuklönekostnader",
+     ""
+    ],
+    [
+     "ap.1 (2025)",
+     "ram"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "2 400 000"
+    ],
+    [
+     "Räntekontokredit",
+     "500 000"
+    ],
+    [
+     "Övriga kontokrediter"
+    ],
+    [
+     "- Försäkringskassans behov av likviditet i utbetalning av ersättning för vård i andra länder",
+     "170 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "939 326"
+    ],
+    [
+     "2026-02-25",
+     "939 326"
+    ],
+    [
+     "2026-03-25",
+     "939 326"
+    ],
+    [
+     "2026-04-25",
+     "939 326"
+    ],
+    [
+     "2026-05-25",
+     "939 326"
+    ],
+    [
+     "2026-06-25",
+     "942 755"
+    ],
+    [
+     "2026-07-25",
+     "942 755"
+    ],
+    [
+     "2026-08-25",
+     "942 755"
+    ],
+    [
+     "2026-09-25",
+     "942 755"
+    ],
+    [
+     "2026-10-25",
+     "942 755"
+    ],
+    [
+     "2026-11-25",
+     "942 755"
+    ],
+    [
+     "2026-12-25",
+     "942 757"
+    ],
+    [
+     "Summa",
+     "11 295 917"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "2:1 ap.1",
+     "Förvaltningsmedel"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Uppdragsverksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Administration av statlig fordran3",
+     "9 500"
+    ],
+    [
+     "Ersättning från affärsdrivande verk2",
+     "0",
+     "0",
+     "300",
+     "300",
+     "0",
+     "0"
+    ],
+    [
+     "Electronic Exchange of Social Security Information (EESSI)1",
+     "-54",
+     "54",
+     "2 600",
+     "2 600",
+     "0",
+     "0"
+    ],
+    [
+     "Samordnad och säker statlig it-drift (SSSID)1",
+     "-5 897",
+     "3 000",
+     "260 000",
+     "257 000",
+     "3 000",
+     "103"
+    ],
+    [
+     "Datorbearbetningar, systemutveckling, statistik m.m.1",
+     "0",
+     "0",
+     "22 000",
+     "22 000",
+     "0",
+     "0"
+    ],
+    [
+     "Intäkter från pensionsmyndigheten1",
+     "30 489",
+     "-56 400",
+     "251 600",
+     "249 700",
+     "1 900",
+     "-24 011"
+    ],
+    [
+     "Administration av familjebidrag och dagpenning1",
+     "0",
+     "0",
+     "35 400",
+     "35 400",
+     "0",
+     "0"
+    ],
+    [
+     "Summa",
+     "24 538",
+     "-53 346",
+     "581 400",
+     "567 000",
+     "4 900",
+     "-23 908"
+    ]
+   ]
+  },
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna ej disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "Ink. tit.",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Beräknad budget för avgiftsbelagd verksamhet där intäkterna ej disponeras",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Avgift för anslutning till det elektroniska systemet för statligt tandvårdsstöd1",
+     "2511",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0"
+    ]
+   ]
+  }
+ ],
+ "has_fee_section": true,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 8,
+  "n_org": 0,
+  "n_assignments": 36,
+  "n_deadlines": 32,
+  "deadlines": [
+   "2026-01-31",
+   "2026-03-01",
+   "2026-03-15",
+   "2026-04-01",
+   "2026-04-15",
+   "2026-04-30",
+   "2026-05-22",
+   "2026-06-16",
+   "2026-06-30",
+   "2026-07-24",
+   "2026-08-31",
+   "2026-09-01",
+   "2026-09-30",
+   "2026-10-15",
+   "2026-10-23",
+   "2026-11-02",
+   "2026-12-15",
+   "2026-12-19",
+   "2027-01-30",
+   "2027-01-31",
+   "2027-02-01",
+   "2027-02-22",
+   "2027-02-26",
+   "2027-03-01",
+   "2027-03-31",
+   "2027-04-14",
+   "2027-06-01",
+   "2027-09-15",
+   "2027-09-30",
+   "2027-12-01",
+   "2028-12-19",
+   "2029-02-01"
+  ],
+  "partners": [
+   "Arbetsförmedlingen",
+   "Arbetsmiljöverket",
+   "Centrala studiestödsnämnden",
+   "Folkhälsomyndigheten",
+   "Göteborgs universitet",
+   "Högskolan Kristianstad",
+   "Inspektionen för socialförsäkringen",
+   "Inspektionen för vård och omsorg",
+   "Institutet för arbetsmarknads- och utbildningspolitisk utvärdering",
+   "Jämställdhetsmyndigheten",
+   "Karlstads universitet",
+   "Karolinska institutet",
+   "Malmö universitet",
+   "Migrationsverket",
+   "Myndigheten för civilt försvar",
+   "Myndigheten för delaktighet",
+   "Pensionsmyndigheten",
+   "Riksrevisionen",
+   "Skatteverket",
+   "Socialstyrelsen",
+   "Statskontoret",
+   "Sveriges Kommuner och Regioner",
+   "Säkerhetspolisen",
+   "Tillväxtverket",
+   "Umeå universitet"
+  ],
+  "n_appropriations": 17,
+  "appropriations_total_tkr": 258535870,
+  "payment_plan_total_tkr": 11295917,
+  "md_chars": 75898
+ },
+ "layout": "standard",
+ "warnings": []
+}

@@ -1,0 +1,977 @@
+{
+ "schema_version": 1,
+ "id": 26405,
+ "original_rbid": 25858,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-06-11",
+ "year": "2026",
+ "name": "Umeå universitet",
+ "slug": "umea-universitet",
+ "department": "Utbildningsdepartementet",
+ "expenditure_areas": [
+  16
+ ],
+ "registry_numbers": [
+  "U2026/01202 (delvis)"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1",
+   "2025/26:99"
+  ],
+  "bet": [
+   "2025/26:FiU21",
+   "2025/26:UbU1"
+  ],
+  "rskr": [
+   "2025/26:124",
+   "2025/26:349"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "Gemensamma bestämmelser för universitet och högskolor finns i regleringsbrev för budgetåret 2026 avseende universitet och högskolor.",
+ "goals": [
+  {
+   "title": "Särskilda åtaganden",
+   "group": [],
+   "text": "**1. Umeå universitet ska varje läsår erbjuda utbildning i meänkieli och samiska. Lärosätet har rätt att avräkna helårsstudenter och helårsprestationer inom utbildningsområde Övrigt för dessa ämnen. Av årsredovisningen ska framgå antalet erbjudna platser, antalet sökande samt antalet helårsstudenter och helårsprestationer inom respektive utbildning.**\n\n**2. Universitetet ska, mot bakgrund av Sveriges åtaganden enligt Europarådets ramkonvention om skydd för nationella minoriteter (SÖ 2000:2) och Europeiska stadgan om landsdels- eller minoritetsspråk (SÖ 2000:3), som Sverige har ratificerat, bedriva utvecklingsarbete och utbildning på vetenskaplig grund, däribland med sikte på lärarutbildningar.**\n\nArbetet ska främja undervisning i och på minoritetsspråken meänkieli och samiska i förskolan, grundskolan, gymnasieskolan och högskolan. I arbetet ska universitetet ta hänsyn till de särskilda behov och förutsättningar som språken har samt föra en dialog med företrädare för de nationella minoriteterna. Lärosätet ska samverka med berörda aktörer, bl.a. övriga lärosäten som har uppdrag när det gäller nationella minoritetsspråk, i Sverige och, när relevant, i andra länder som har erfarenhet av arbete med de aktuella språken. Lärosätet har rätt att avräkna helårsstudenter och helårsprestationer inom utbildningsområde Övrigt för detta ämne.\n\n**3. Umeå universitet ska anordna decentraliserad utbildning motsvarande minst 100 helårsstudenter. Av årsredovisningen ska framgå omfattning, inriktning, studieorter och total kostnad för denna verksamhet.**",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "årsredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26405:goals:0"
+  },
+  {
+   "title": "Rekryteringsmål för professorer",
+   "group": [
+    "Mål"
+   ],
+   "text": "Under 2025–2028 har lärosätet ett mål för könsfördelningen bland nyrekryterade professorer om 52 procent kvinnor.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26405:goals:1"
+  },
+  {
+   "title": "Mål för antal examina",
+   "group": [
+    "Mål"
+   ],
+   "text": "Under 2025–2028 har lärosätet mål om antal utfärdade examina från vissa utbildningar inom nedan angivna områden. Målen och de examina som omfattas av dessa anges i tabellen nedan. Lärosätet ska i årsredovisningen redovisa antalet utfärdade examina inom respektive område de senaste tre åren för de yrkesexamina som anges i tabellen samt vilka åtgärder som har vidtagits för att uppnå målen.\n\n| | |\n| --- | --- |\n| **Område (examina som omfattas av målet inom parentes)** | **Mål för antal utfärdade examina under 2025–2028** |\n| Lärar- och förskollärarutbildningar (förskollärarexamina, grundlärarexamina, speciallärarexamina, specialpedagogexamina, yrkeslärarexamina och ämneslärarexamina) | 1 430 |\n| Hälso- och sjukvårdsutbildningar (barnmorskeexamina, biomedicinsk analytikerexamina, fysioterapeutexamina, sjuksköterskeexamina och specialistsjuksköterskeexamina) | 1 945 |",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "årsredovisning"
+   ],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26405:goals:2"
+  },
+  {
+   "title": "Mål för andel biträdande lektorer",
+   "group": [
+    "Mål"
+   ],
+   "text": "Under 2025–2028 har Umeå universitet ett mål att 3 procent av samtlig forskande och undervisande personal (heltidsekvivalenter) ska vara biträdande lektorer.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26405:goals:3"
+  }
+ ],
+ "org": [],
+ "assignments": [],
+ "appropriations": [
+  {
+   "code": "2:11",
+   "name": "Umeå universitet: Utbildning på grundnivå och avancerad nivå",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 16,
+    "name": "Utbildning och universitetsforskning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Umeå universitet",
+     "amount_tkr": 1694535,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Takbelopp (ram)",
+       "amount_tkr": 1694535
+      },
+      {
+       "ap": "1.1",
+       "name": "Takbelopp (ram)",
+       "amount_tkr": 1694535
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1.1",
+     "name": "Takbelopp",
+     "text": "Anslagsposten får användas för högskoleutbildning på grundnivå och avancerad nivå samt behörighetsgivande och högskoleintroducerande utbildning.\nAnvisningar för avräkning av helårsstudenter och helårsprestationer finns i bilaga till regleringsbrev avseende universitet och högskolor."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "2:12",
+   "name": "Umeå universitet: Forskning och utbildning på forskarnivå",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 16,
+    "name": "Utbildning och universitetsforskning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Umeå universitet",
+     "amount_tkr": 1349615,
+     "items": [
+      {
+       "ap": "5",
+       "name": "Basresurs (ram)",
+       "amount_tkr": 1349615
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "5",
+     "name": "Basresurs",
+     "text": "Anslagsposten får användas för forskning och utbildning på forskarnivå.\nI anslagsposten ingår medel för strategiska forskningsområden enligt tabellen nedan."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "2:65",
+   "name": "Särskilda medel till universitet och högskolor",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 16,
+    "name": "Utbildning och universitetsforskning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Umeå universitet",
+     "amount_tkr": 87177,
+     "items": [
+      {
+       "ap": "14",
+       "name": "Decentraliserad utbildning (ram)",
+       "amount_tkr": 20839
+      },
+      {
+       "ap": "15",
+       "name": "Bidrag till lektorat i samiska och Bildmuseet (ram)",
+       "amount_tkr": 2913
+      },
+      {
+       "ap": "42",
+       "name": "Holdingbolag (ram)",
+       "amount_tkr": 2830
+      },
+      {
+       "ap": "45",
+       "name": "Lärarutbildning i minoritetsspråk (ram)",
+       "amount_tkr": 4897
+      },
+      {
+       "ap": "60",
+       "name": "Forskningsanknytning av polisutbildningen (ram)",
+       "amount_tkr": 1071
+      },
+      {
+       "ap": "63",
+       "name": "Medel till sjukhusfysikerutbildningen (ram)",
+       "amount_tkr": 1593
+      },
+      {
+       "ap": "66",
+       "name": "Korta kurser (ram)",
+       "amount_tkr": 1777
+      },
+      {
+       "ap": "98",
+       "name": "Medel för studenthälsa (ram)",
+       "amount_tkr": 2562
+      },
+      {
+       "ap": "108",
+       "name": "Decentraliserad vårdutbildning (ram)",
+       "amount_tkr": 9245
+      },
+      {
+       "ap": "118",
+       "name": "Utveckling utbildning krishantering m.m. (ram)",
+       "amount_tkr": 800
+      },
+      {
+       "ap": "121",
+       "name": "Praktiknära forskning (ram)",
+       "amount_tkr": 15800
+      },
+      {
+       "ap": "127",
+       "name": "Kognitionsvetenskap (ram)",
+       "amount_tkr": 1000
+      },
+      {
+       "ap": "150",
+       "name": "VFU i tandvårdsutbildningar (ram)",
+       "amount_tkr": 19500
+      },
+      {
+       "ap": "151",
+       "name": "Praktiknära forskarskola vård (ram)",
+       "amount_tkr": 2350
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "14",
+     "name": "Decentraliserad utbildning",
+     "text": "Anslagsposten får användas för decentraliserad utbildning.\\\nI anslagsposten ingår 7 124 000 kronor för decentraliserad läkarutbildning."
+    },
+    {
+     "ap": "15",
+     "name": "Bidrag till lektorat i samiska och Bildmuseet",
+     "text": "Anslagsposten får användas för bidrag till lektorat i samiska och Bildmuseet."
+    },
+    {
+     "ap": "42",
+     "name": "Holdingbolag",
+     "text": "Anslagsposten får användas för idébanksmedel och kapitaltillskott till holdingbolag vid lärosätet för finansiering av verksamhet som syftar till att främja kommersialisering av forskningsresultat och innovationer.\nUmeå universitet bemyndigas att under 2026 utbetala ett kapitaltillskott på högst 1 000 000 kronor till holdingbolaget som är knutet till lärosätet. Kapitaltillskottet ska finansiera kostnader för verksamhet som bedrivs i form av en idébank och får lämnas i enlighet med förordningen (2022:1390) om statligt stöd för idébanker inom holdingbolag vid universitet och högskolor.\nUmeå universitet bemyndigas att under 2026 utbetala ett kapitaltillskott på högst 1 830 000 kronor till holdingbolaget som är knutet till lärosätet. Kapitaltillskottet ska finansiera kostnader för verksamhet som syftar till att främja kommersialisering av forskningsresultat och innovationer och får lämnas i enlighet med förordningen (2025:727) om statligt stöd för innovationsverksamhet inom holdingbolag vid universitet och högskolor."
+    },
+    {
+     "ap": "45",
+     "name": "Lärarutbildning i minoritetsspråk",
+     "text": "Anslagsposten får användas för lärarutbildning i minoritetsspråk."
+    },
+    {
+     "ap": "60",
+     "name": "Forskningsanknytning av polisutbildningen",
+     "text": "Anslagsposten får användas för att stärka forskningsanknytningen av\\\npolisutbildning."
+    },
+    {
+     "ap": "63",
+     "name": "Medel till sjukhusfysikerutbildningen",
+     "text": "Anslagsposten får användas för att stärka sjukhusfysikerutbildning."
+    },
+    {
+     "ap": "66",
+     "name": "Korta kurser",
+     "text": "Anslagsposten får användas för att utveckla korta kurser för yrkesverksamma med inriktning mot grön omställning, batterier och teknik. Arbetet ska redovisas i årsredovisningen."
+    },
+    {
+     "ap": "98",
+     "name": "Medel för studenthälsa",
+     "text": "Anslagsposten får användas för att stärka studenthälsan och bl.a. möjliggöra mer preventivt arbete för att minska studenternas psykiska och fysiska ohälsa samt stärka stödet för studieovana studenter. Av medlen avser 1 190 000 kronor arbete med att särskilt främja psykisk hälsa bland studenter."
+    },
+    {
+     "ap": "108",
+     "name": "Decentraliserad vårdutbildning",
+     "text": "Anslagsposten får användas för tillkommande kostnader för biomedicinsk analytikerutbildning, sjuksköterskeutbildning, barnmorskeutbildning och specialistsjuksköterskeutbildning som uppkommer till följd av att utbildningen bedrivs på annan ort (decentraliserad vårdutbildning).\nUniversitetet ska redovisa tillkommande kostnader, antal helårsstudenter som tillkommer genom den decentraliserade utbildningen uppdelat per utbildning, prognos för antal helårsstudenter kommande två år samt de viktigaste erfarenheterna av satsningen."
+    },
+    {
+     "ap": "118",
+     "name": "Utveckling utbildning krishantering m.m.",
+     "text": "Anslagsposten får användas för att i samarbete med Försvarshögskolan och Malmö universitet ta fram utbildning inom bl.a. ledarskap, konflikt- och krishantering som ska kunna användas inom lärar- och förskollärarutbildningarna. Arbetet ska redovisas i årsredovisningen."
+    },
+    {
+     "ap": "121",
+     "name": "Praktiknära forskning",
+     "text": "*Praktiknära forskning*\nAnslagsposten får användas för praktiknära forskning i syfte att bidra till en stärkt vetenskaplig grund i lärar- och förskollärarutbildningen och i skolväsendet. Verksamheten ska utformas och genomföras i samverkan mellan ansvariga universitet, deltagande universitet och högskolor och skolhuvudmän. Varje universitet och högskola ska samverka med flera skolhuvudmän. Det ska finnas en variation bland skolhuvudmännen med avseende på t.ex. storlek, geografiskt läge, skolform och årskurser. Forskningen som bedrivs i samverkan mellan universitet, högskolor och skolhuvudmän ska vara verksamhetsrelevant och generera forskningsresultat av hög kvalitet. Lärare och förskollärare ska ges möjlighet att medverka i planering och genomförande av forskningen.\n*Kartläggning av småämnen*\nUniversitetet ska stödja och samordna en kartläggning av lärosäten med lärarutbildningar inom en region, där samverkan kan ske både inom och utanför regionen. Av kartläggningen ska framgå de undervisningsämnen eller ämnesområden för vilka det finns en stor risk att dessa inte kan anordnas till följd av ett minskat antal studenter i och med de skärpta tillträdeskraven till vissa lärarutbildningar som införs höstterminen 2027. Vidare ska det i kartläggningen ingå att inventera vilket behov av stöd som finns för dessa små ämnen. Av anslagsposten avser 200 000 kronor under 2026 detta arbete.\nUniversitetet ska senast den 15 oktober 2026 redovisa sin bedömning av behov av stöd för sådana ämnen samt bedömda tillkommande kostnader uppdelat per ämnesområde till Regeringskansliet (Utbildningsdepartementet) med kopia till Universitetskanslersämbetet. Redovisningen kan samordnas med redovisning av utbildningssamarbeten inom lärarutbildning som framgår av regleringsbrev för budgetåret 2026 avseende anslag 2:64, ap. 16."
+    },
+    {
+     "ap": "127",
+     "name": "Kognitionsvetenskap",
+     "text": "Anslagsposten får användas för att förbereda och anordna kompetensutvecklingsinsatser för lärare vid det egna eller andra lärosäten som ska undervisa i kognitionsvetenskap på lärarutbildningarna. Kompetensutvecklingen ska anordnas med flexibla undervisningsformer och möjliggöra deltagande för många lärare inom lärarutbildningarna. Insatserna ska vara inriktade mot olika årskurser, ämnen och ämnesområden och bygga vidare på Skolverkets fortbildningssatsning på högskolekurser inom kognitionsvetenskap och de delar av kognitionsvetenskap som är relevanta för lärarutbildningen, särskilt internationellt etablerad science of learning.\nUniversitetet ska i sin årsredovisning redogöra för vilka kurser eller förberedelser som har genomförts , hur många som har deltagit eller omfattats av planeringen och vid vilka lärosäten deltagarna är verksamma samt hur insatserna har stärkt lärarutbildarnas förmåga att undervisa i kognitionsvetenskap (science of learning). Redovisningen ska även kunna användas som underlag i UKÄ:s utvärdering av lärosätenas arbete med kognitionsvetenskap (U2025/02425)."
+    },
+    {
+     "ap": "150",
+     "name": "VFU i tandvårdsutbildningar",
+     "text": "Anslagsposten får användas för ersättning för kostnader för verksamhetsförlagd utbildning (VFU) inom tandläkarutbildning och tandhygienistutbildning i syfte att stärka tillgången till VFU. Av medlen avser 16 600 000 kronor tandläkarutbildning, 1 700 000 kronor tandhygienistutbildning och 1 200 000 kronor tandteknikerutbildning.\nUniversitetet ska i årsredovisningen för 2026 beskriva arbetet för att stärka tillgången till VFU samt eventuella samarbeten med regioner eller privata tandvårdskliniker som ingåtts eller planeras."
+    },
+    {
+     "ap": "151",
+     "name": "Praktiknära forskarskola vård",
+     "text": "Anslagsposten får användas för praktiknära forskarskola.\nUmeå universitet ska samordna en praktiknära forskarskola för sjuksköterskor och specialistsjuksköterskor tillsamman med Luleå tekniska universitet och Mittuniversitetet. Syftet med forskarskolan är att höja kvaliteten och forskningsanknytningen i utbildningarna genom fler disputerade lärare liksom fler mer kvalificerade handledare inom den verksamhetsförlagda utbildningen (VFU).\nUniversitetet ska redovisa arbetet med forskarskolan i årsredovisningen. Av redovisningen ska framgå inriktning på forskarskolan, hur många doktorander som har antagits och deltagit och samarbete med t.ex. regioner, kommuner och privata vårdgivare. Av redovisningen ska det även framgå inriktning för planerat arbete under kommande år och hur universitetet i arbetet med forskarskolan samverkat med arbetet för att stärka samordningen av VFU-platser."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "42",
+     "max": 1000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "42",
+     "max": 1830000,
+     "unit": "kronor"
+    }
+   ]
+  },
+  {
+   "code": "2:66",
+   "name": "Ersättningar för klinisk utbildning och forskning",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 16,
+    "name": "Utbildning och universitetsforskning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Umeå universitet",
+     "amount_tkr": 404857,
+     "items": [
+      {
+       "ap": "4",
+       "name": "Umeå universitet (ram)",
+       "amount_tkr": 321331
+      },
+      {
+       "ap": "8",
+       "name": "Umeå universitet (ram)",
+       "amount_tkr": 82396
+      },
+      {
+       "ap": "14",
+       "name": "Utvecklingsmedel (ram)",
+       "amount_tkr": 1130
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "4",
+     "name": "Umeå universitet",
+     "text": "Anslagsposten får användas för kostnader när det gäller regionens medverkan i utbildning av läkare (ALF-ersättning) i enlighet med det avtal som i september 2014 tecknats mellan staten och vissa landsting om samarbete om utbildning av läkare, klinisk forskning och utveckling av hälso- och sjukvården (ALF-avtalet).\nUmeå universitet ersätts för högst 1 170 helårsstudenter inom läkarutbildningen vilket är det minsta antal helårsstudenter som staten förväntar sig att regionen ska ta emot för den verksamhetsintegrerade utbildningen av läkare.\nUniversitetet ska i årsredovisningen lämna uppgifter om hur ALF-ersättningen har fördelats under året när det gäller lokalkostnader, lönekostnader och övriga kostnader. I årsredovisningen ska universitetet redovisa det totala antalet helårsstudenter på läkarutbildningen."
+    },
+    {
+     "ap": "8",
+     "name": "Umeå universitet",
+     "text": "Anslagsposten får användas för kostnader när det gäller regionens medverkan i grundutbildning av tandläkare (TUA-ersättning) i enlighet med det avtal som i augusti 2004 slutits mellan staten och vissa landsting om samarbete om grundutbildning av tandläkare, odontologisk forskning och utveckling av tandvården (TUA-avtalet) kompletterat med regionala avtal mellan respektive landsting och universitet.\nUniversitetet ersätts för högst 360 helårsstudenter inom tandläkarutbildningen när det gäller kompensation för regionens medverkan i grundutbildningen av tandläkare.\nUniversitetet ska i årsredovisningen lämna uppgifter om hur TUA-ersättningen har fördelats under året när det gäller lokalkostnader, lönekostnader och övriga kostnader. I årsredovisningen ska universitetet redovisa totalt antal helårsstudenter på tandläkarutbildningen."
+    },
+    {
+     "ap": "14",
+     "name": "Utvecklingsmedel",
+     "text": "Anslagsposten får användas för utvecklingsmedel.\nAv årsredovisningen ska framgå på vilket sätt Umeå universitet har använt medlen för att utveckla klinisk utbildning och forskning."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "2:11 Umeå universitet: Utbildning på grundnivå och avancerad nivå",
+   "ap": "ap.1.1",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "10 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:12 Umeå universitet: Forskning och utbildning på forskarnivå",
+   "ap": "ap.5",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Allt",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.14",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.15",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.42",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.45",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.60",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.63",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.66",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.98",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.108",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.118",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.121",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.127",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.150",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.151",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:66 Ersättningar för klinisk utbildning och forskning",
+   "ap": "ap.4",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:66 Ersättningar för klinisk utbildning och forskning",
+   "ap": "ap.8",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:66 Ersättningar för klinisk utbildning och forskning",
+   "ap": "ap.14",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 725000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 292862
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 292862
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 292862
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 292862
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 292862
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 292862
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 296504
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 296504
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 296504
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 296504
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 296504
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 296492
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "2:11 Umeå universitet: Utbildning på grundnivå och avancerad nivå",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1.1",
+     "0",
+     "10 %",
+     "0"
+    ],
+    [
+     "2:12 Umeå universitet: Forskning och utbildning på forskarnivå",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.5",
+     "0",
+     "Allt",
+     "0"
+    ],
+    [
+     "2:65 Särskilda medel till universitet och högskolor",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.14",
+     "0",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.15",
+     "0",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.42",
+     "0",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.45",
+     "0",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.60",
+     "0",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.63",
+     "0",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.66",
+     "0",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.98",
+     "0",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.108",
+     "0",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.118",
+     "0",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.121",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.127",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.150",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.151",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "2:66 Ersättningar för klinisk utbildning och forskning",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.4",
+     "0",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.8",
+     "0",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.14",
+     "0",
+     "3 %",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Omfördelning av anslagssparande",
+   "rows": [
+    [
+     "Omfördelning från anslag/ap1",
+     "Omfördelning till anslag/ap2",
+     "Belopp (tkr)",
+     "Belopp andel (%)"
+    ],
+    [
+     "2:11 Umeå universitet: Utbildning på grundnivå och avancerad nivå",
+     "",
+     "",
+     ""
+    ],
+    [
+     "2:11 ap.1.2",
+     "2:11 ap.1.1",
+     "100 %"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Avslutade anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagstyp"
+    ],
+    [
+     "2:11 Umeå universitet: Utbildning på grundnivå och avancerad nivå",
+     ""
+    ],
+    [
+     "ap.1.2",
+     "ram"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "725 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "292 862"
+    ],
+    [
+     "2026-02-25",
+     "292 862"
+    ],
+    [
+     "2026-03-25",
+     "292 862"
+    ],
+    [
+     "2026-04-25",
+     "292 862"
+    ],
+    [
+     "2026-05-25",
+     "292 862"
+    ],
+    [
+     "2026-06-25",
+     "292 862"
+    ],
+    [
+     "2026-07-25",
+     "296 504"
+    ],
+    [
+     "2026-08-25",
+     "296 504"
+    ],
+    [
+     "2026-09-25",
+     "296 504"
+    ],
+    [
+     "2026-10-25",
+     "296 504"
+    ],
+    [
+     "2026-11-25",
+     "296 504"
+    ],
+    [
+     "2026-12-25",
+     "296 492"
+    ],
+    [
+     "Summa",
+     "3 536 184"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "2:11 ap.1.1",
+     "Takbelopp"
+    ],
+    [
+     "2:12 ap.5",
+     "Basresurs"
+    ],
+    [
+     "2:65 ap.14",
+     "Decentraliserad utbildning"
+    ],
+    [
+     "2:65 ap.15",
+     "Bidrag till lektorat i samiska och Bildmuseet"
+    ],
+    [
+     "2:65 ap.42",
+     "Holdingbolag"
+    ],
+    [
+     "2:65 ap.45",
+     "Lärarutbildning i minoritetsspråk"
+    ],
+    [
+     "2:65 ap.60",
+     "Forskningsanknytning av polisutbildningen"
+    ],
+    [
+     "2:65 ap.63",
+     "Medel till sjukhusfysikerutbildningen"
+    ],
+    [
+     "2:65 ap.66",
+     "Korta kurser"
+    ],
+    [
+     "2:65 ap.98",
+     "Medel för studenthälsa"
+    ],
+    [
+     "2:65 ap.108",
+     "Decentraliserad vårdutbildning"
+    ],
+    [
+     "2:65 ap.118",
+     "Utveckling utbildning krishantering m.m."
+    ],
+    [
+     "2:65 ap.121",
+     "Praktiknära forskning"
+    ],
+    [
+     "2:65 ap.127",
+     "Kognitionsvetenskap"
+    ],
+    [
+     "2:65 ap.150",
+     "VFU i tandvårdsutbildningar"
+    ],
+    [
+     "2:65 ap.151",
+     "Praktiknära forskarskola vård"
+    ],
+    [
+     "2:66 ap.4",
+     "Umeå universitet"
+    ],
+    [
+     "2:66 ap.8",
+     "Umeå universitet"
+    ],
+    [
+     "2:66 ap.14",
+     "Utvecklingsmedel"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [],
+ "has_fee_section": true,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 4,
+  "n_org": 0,
+  "n_assignments": 0,
+  "n_deadlines": 0,
+  "deadlines": [],
+  "partners": [],
+  "n_appropriations": 4,
+  "appropriations_total_tkr": 3536184,
+  "payment_plan_total_tkr": 3536184,
+  "md_chars": 19891
+ },
+ "layout": "standard",
+ "warnings": []
+}

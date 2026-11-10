@@ -1,0 +1,702 @@
+{
+ "schema_version": 1,
+ "id": 26386,
+ "original_rbid": 25859,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-06-11",
+ "year": "2026",
+ "name": "Örebro universitet",
+ "slug": "orebro-universitet",
+ "department": "Utbildningsdepartementet",
+ "expenditure_areas": [
+  16
+ ],
+ "registry_numbers": [
+  "U2026/01217"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1"
+  ],
+  "bet": [
+   "2025/26:UbU1"
+  ],
+  "rskr": [
+   "2025/26:124"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "Gemensamma bestämmelser för universitet och högskolor finns i regleringsbrev för budgetåret 2026 avseende universitet och högskolor.",
+ "goals": [
+  {
+   "title": "Särskilt åtagande",
+   "group": [],
+   "text": "Örebro universitet ska anordna restaurangutbildning i Grythyttan. Av årsredovisningen ska verksamhetens omfattning och dess ekonomiska resultat framgå.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "årsredovisning"
+   ],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26386:goals:0"
+  },
+  {
+   "title": "Rekryteringsmål för professorer",
+   "group": [
+    "Mål"
+   ],
+   "text": "Under 2025–2028 har lärosätet ett mål för könsfördelningen bland nyrekryterade professorer om 53 procent kvinnor.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26386:goals:1"
+  },
+  {
+   "title": "Mål för antal examina",
+   "group": [
+    "Mål"
+   ],
+   "text": "Under 2025–2028 har lärosätet mål om antal utfärdade examina från vissa utbildningar inom nedan angivna områden. Målen och de examina som omfattas av dessa anges i tabellen nedan. Lärosätet ska i årsredovisningen redovisa antalet utfärdade examina inom respektive område de senaste tre åren för de yrkesexamina som anges i tabellen samt vilka åtgärder som har vidtagits för att uppnå målen.\n\n| | |\n| --- | --- |\n| **Område (examina som omfattas av målet inom parentes)** | **Mål för antal utfärdade examina under 2025–2028** |\n| Lärar- och förskollärarutbildningar (förskollärarexamina, grundlärarexamina, specialpedagogexamina och ämneslärarexamina) | 985 |\n| Hälso- och sjukvårdsutbildningar (biomedicinsk analytikerexamina, sjuksköterskeexamina och specialistsjuksköterskeexamina) | 1 245 |",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "årsredovisning"
+   ],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26386:goals:2"
+  },
+  {
+   "title": "Mål för andel biträdande lektorer",
+   "group": [
+    "Mål"
+   ],
+   "text": "Under 2025–2028 har Örebro universitet ett mål att 4 procent av samtlig forskande och undervisande personal (heltidsekvivalenter) ska vara biträdande lektorer.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26386:goals:3"
+  }
+ ],
+ "org": [],
+ "assignments": [],
+ "appropriations": [
+  {
+   "code": "2:25",
+   "name": "Örebro universitet: Utbildning på grundnivå och avancerad nivå",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 16,
+    "name": "Utbildning och universitetsforskning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Örebro universitet",
+     "amount_tkr": 966377,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Takbelopp (ram)",
+       "amount_tkr": 966377
+      },
+      {
+       "ap": "1.1",
+       "name": "Takbelopp (ram)",
+       "amount_tkr": 966377
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1.1",
+     "name": "Takbelopp",
+     "text": "Anslagsposten får användas för högskoleutbildning på grundnivå och avancerad nivå samt behörighetsgivande och högskoleintroducerande utbildning.\nAnvisningar för avräkning av helårsstudenter och helårsprestationer finns i bilaga till regleringsbrev avseende universitet och högskolor."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "2:26",
+   "name": "Örebro universitet: Forskning och utbildning på forskarnivå",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 16,
+    "name": "Utbildning och universitetsforskning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Örebro universitet",
+     "amount_tkr": 356479,
+     "items": [
+      {
+       "ap": "3",
+       "name": "Basresurs (ram)",
+       "amount_tkr": 356479
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "3",
+     "name": "Basresurs",
+     "text": "Anslagsposten får användas för forskning och utbildning på forskarnivå."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "2:65",
+   "name": "Särskilda medel till universitet och högskolor",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 16,
+    "name": "Utbildning och universitetsforskning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Örebro universitet",
+     "amount_tkr": 16432,
+     "items": [
+      {
+       "ap": "23",
+       "name": "Lokalisering av verksamhet till Grythyttan (ram)",
+       "amount_tkr": 4491
+      },
+      {
+       "ap": "24",
+       "name": "Nätverksadministration och utveckling av skolledarutbildning (ram)",
+       "amount_tkr": 404
+      },
+      {
+       "ap": "46",
+       "name": "Holdingbolag (ram)",
+       "amount_tkr": 1050
+      },
+      {
+       "ap": "72",
+       "name": "Korta kurser (ram)",
+       "amount_tkr": 3482
+      },
+      {
+       "ap": "100",
+       "name": "Medel för studenthälsa (ram)",
+       "amount_tkr": 1555
+      },
+      {
+       "ap": "144",
+       "name": "Praktiknära forskarskola vård (ram)",
+       "amount_tkr": 5450
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "23",
+     "name": "Lokalisering av verksamhet till Grythyttan",
+     "text": "Anslagsposten får användas för utgifter för lokalisering av verksamhet till Grythyttan."
+    },
+    {
+     "ap": "24",
+     "name": "Nätverksadministration och utveckling av skolledarutbildning",
+     "text": "Anslagsposten får användas för nätverksadministration och utveckling av skolledarutbildning."
+    },
+    {
+     "ap": "46",
+     "name": "Holdingbolag",
+     "text": "Anslagsposten får användas för idébanksmedeloch kapitaltillskott till holdingbolag vid lärosätet för finansiering av verksamhet som syftar till att främja kommersialisering av forskningsresultat och innovationer.\nÖrebro universitet bemyndigas att under 2026 utbetala ett kapitaltillskott på högst 250 000 kronor till holdingbolaget som är knutet till lärosätet. Kapitaltillskottet ska finansiera kostnader för verksamhet som bedrivs i form av en idébank och får lämnas i enlighet med förordningen (2022:1390) om statligt stöd för idébanker inom holdingbolag vid universitet och högskolor.\nÖrebro universitet bemyndigas att under 2026 utbetala ett kapitaltillskott på högst 800 000 kronor till holdingbolaget som är knutet till lärosätet. Kapitaltillskottet ska finansiera kostnader för verksamhet som syftar till att främja kommersialisering av forskningsresultat och innovationer och får lämnas i enlighet med förordningen (2025:727) om statligt stöd för innovationsverksamhet inom holdingbolag vid universitet och högskolor."
+    },
+    {
+     "ap": "72",
+     "name": "Korta kurser",
+     "text": "Anslagsposten får användas för att utveckla korta kurser för yrkesverksamma med inriktning mot artificiell intelligens (AI) i yrkesutbildningar inom t.ex. skola, vård och omsorg, socialtjänst, juridik, administration och ingenjörsutbildningar. Universitetet ska samverka med övriga lärosäten som ingår i satsningen för att möjliggöra att ett allsidigt och samordnat utbildningsutbud tas fram. Universitetet ska även sträva efter att samverka med lärosäten som inte tar del av dessa särskilda medel i syfte att möjliggöra att kurserna ska kunna bidra till att utveckla utbildningsutbudet i högskolan som helhet. Arbetet ska redovisas i årsredovisningen."
+    },
+    {
+     "ap": "100",
+     "name": "Medel för studenthälsa",
+     "text": "Anslagsposten får användas för att stärka studenthälsan och bl.a. möjliggöra mer preventivt arbete för att minska studenternas psykiska och fysiska ohälsa samt stärka stödet för studieovana studenter. Av medlen avser 710 000 kronor arbete med att särskilt främja psykisk hälsa bland studenter."
+    },
+    {
+     "ap": "144",
+     "name": "Praktiknära forskarskola vård",
+     "text": "Anslagsposten får användas för praktiknära forskarskola.\nÖrebro universitet ska samordna en praktiknära forskarskola för sjuksköterskor och specialistsjuksköterskor tillsammans med Karlstads universitet, Mälardalens universitet, Högskolan Dalarna, Högskolan i Gävle och Stiftelsen Högskolan i Jönköping. Syftet med forskarskolan är att höja kvaliteten och forskningsanknytningen i utbildningarna genom fler disputerade lärare liksom fler mer kvalificerade handledare inom den verksamhetsförlagda utbildningen (VFU). Universitetet ska redovisa arbetet med forskarskolan i årsredovisningen. Av redovisningen ska framgå inriktning på forskarskolan, hur många doktorander som har antagits och deltagit och samarbete med t.ex. regioner, kommuner och privata vårdgivare. Av redovisningen ska det även framgå inriktning för planerat arbete under kommande år och hur universitetet i arbetet med forskarskolan samverkat med arbetet för att stärka samordningen av VFU-platser.\nUniversitetet kan även samarbeta med Linköpings universitet om forskarskolan."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "46",
+     "max": 250000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "46",
+     "max": 800000,
+     "unit": "kronor"
+    }
+   ]
+  },
+  {
+   "code": "2:66",
+   "name": "Ersättningar för klinisk utbildning och forskning",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 16,
+    "name": "Utbildning och universitetsforskning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Örebro universitet",
+     "amount_tkr": 113692,
+     "items": [
+      {
+       "ap": "10",
+       "name": "Örebro universitet (ram)",
+       "amount_tkr": 113692
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "10",
+     "name": "Örebro universitet",
+     "text": "Anslagsposten får användas för kostnader när det gäller regionens medverkan i utbildning av läkare (ALF-ersättning) i enlighet med det avtal som i september 2014 tecknats mellan staten och vissa landsting om samarbete om utbildning av läkare, klinisk forskning och utveckling av hälso- och sjukvården (ALF-avtalet).\nÖrebro universitet ersätts för högst 366 helårsstudenter inom läkarutbildningen vilket är det minsta antal helårsstudenter som staten förväntar sig att regionen ska ta emot för den verksamhetsintegrerade utbildningen av läkare.\nUniversitetet ska i årsredovisningen lämna uppgifter om hur ALF-ersättningen har fördelats under året när det gäller lokalkostnader, lönekostnader och övriga kostnader. I årsredovisningen ska universitetet redovisa det totala antalet helårsstudenter på läkarutbildningen."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "2:25 Örebro universitet: Utbildning på grundnivå och avancerad nivå",
+   "ap": "ap.1.1",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "10 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:26 Örebro universitet: Forskning och utbildning på forskarnivå",
+   "ap": "ap.3",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Allt",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.23",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.24",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.46",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.72",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.100",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.144",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:66 Ersättningar för klinisk utbildning och forskning",
+   "ap": "ap.10",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 240000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 120628
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 120628
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 120628
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 120628
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 120628
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 120628
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 121536
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 121536
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 121536
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 121536
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 121536
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 121532
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "2:25 Örebro universitet: Utbildning på grundnivå och avancerad nivå",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1.1",
+     "0",
+     "10 %",
+     "0"
+    ],
+    [
+     "2:26 Örebro universitet: Forskning och utbildning på forskarnivå",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.3",
+     "0",
+     "Allt",
+     "0"
+    ],
+    [
+     "2:65 Särskilda medel till universitet och högskolor",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.23",
+     "0",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.24",
+     "0",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.46",
+     "0",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.72",
+     "0",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.100",
+     "0",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.144",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "2:66 Ersättningar för klinisk utbildning och forskning",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.10",
+     "0",
+     "3 %",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Omfördelning av anslagssparande",
+   "rows": [
+    [
+     "Omfördelning från anslag/ap1",
+     "Omfördelning till anslag/ap2",
+     "Belopp (tkr)",
+     "Belopp andel (%)"
+    ],
+    [
+     "2:25 Örebro universitet: Utbildning på grundnivå och avancerad nivå",
+     "",
+     "",
+     ""
+    ],
+    [
+     "2:25 ap.1.2",
+     "2:25 ap.1.1",
+     "100 %"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Avslutade anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagstyp"
+    ],
+    [
+     "2:25 Örebro universitet: Utbildning på grundnivå och avancerad nivå",
+     ""
+    ],
+    [
+     "ap.1.2",
+     "ram"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "240 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "120 628"
+    ],
+    [
+     "2026-02-25",
+     "120 628"
+    ],
+    [
+     "2026-03-25",
+     "120 628"
+    ],
+    [
+     "2026-04-25",
+     "120 628"
+    ],
+    [
+     "2026-05-25",
+     "120 628"
+    ],
+    [
+     "2026-06-25",
+     "120 628"
+    ],
+    [
+     "2026-07-25",
+     "121 536"
+    ],
+    [
+     "2026-08-25",
+     "121 536"
+    ],
+    [
+     "2026-09-25",
+     "121 536"
+    ],
+    [
+     "2026-10-25",
+     "121 536"
+    ],
+    [
+     "2026-11-25",
+     "121 536"
+    ],
+    [
+     "2026-12-25",
+     "121 532"
+    ],
+    [
+     "Summa",
+     "1 452 980"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "2:25 ap.1.1",
+     "Takbelopp"
+    ],
+    [
+     "2:26 ap.3",
+     "Basresurs"
+    ],
+    [
+     "2:65 ap.23",
+     "Lokalisering av verksamhet till Grythyttan"
+    ],
+    [
+     "2:65 ap.24",
+     "Nätverksadministration och utveckling av skolledarutbildning"
+    ],
+    [
+     "2:65 ap.46",
+     "Holdingbolag"
+    ],
+    [
+     "2:65 ap.72",
+     "Korta kurser"
+    ],
+    [
+     "2:65 ap.100",
+     "Medel för studenthälsa"
+    ],
+    [
+     "2:65 ap.144",
+     "Praktiknära forskarskola vård"
+    ],
+    [
+     "2:66 ap.10",
+     "Örebro universitet"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [],
+ "has_fee_section": true,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 4,
+  "n_org": 0,
+  "n_assignments": 0,
+  "n_deadlines": 0,
+  "deadlines": [],
+  "partners": [],
+  "n_appropriations": 4,
+  "appropriations_total_tkr": 1452980,
+  "payment_plan_total_tkr": 1452980,
+  "md_chars": 11647
+ },
+ "layout": "standard",
+ "warnings": []
+}

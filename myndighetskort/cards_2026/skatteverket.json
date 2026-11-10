@@ -1,0 +1,925 @@
+{
+ "schema_version": 1,
+ "id": 26374,
+ "original_rbid": 26007,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-05-21",
+ "year": "2026",
+ "name": "Skatteverket",
+ "slug": "skatteverket",
+ "department": "Finansdepartementet",
+ "expenditure_areas": [
+  3
+ ],
+ "registry_numbers": [
+  "Fi2026/01181"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1"
+  ],
+  "bet": [
+   "2025/26:SkU1"
+  ],
+  "rskr": [
+   "2025/26:97"
+  ]
+ },
+ "n_attachments_stated": 2,
+ "mission": "Skatteverket ska bidra till att säkerställa finansieringen av den offentliga sektorn och bidra till ett väl fungerande samhälle och utföra sina uppgifter på ett sätt som är rättssäkert, kostnadseffektivt och enkelt för både allmänhet och företag samt motverka brottslighet.\n\nAllmänhet och företag ska ha förtroende för Skatteverkets verksamhet och alla ska ges samma möjligheter och villkor vid kontakter med myndigheten.\n\nSkatteverkets uppgifter framgår av ett flertal författningar, bland annat förordningen (2017:154) med instruktion för Skatteverket.",
+ "goals": [
+  {
+   "title": "Skattefelet",
+   "group": [],
+   "text": "Skillnaden mellan de teoretiskt riktiga och de fastställda beloppen för skatter och avgifter (skattefelet) ska vara så liten som möjligt. Skatteverket ska vart fjärde år bedöma skattefelets storlek och i vilken grad skattefelet har förändrats. En bedömning kommer att lämnas i årsredovisningen för 2025 och därefter i årsredovisningen för 2029. Skatteverket ska redovisa resultatet av genomförda analyser för att utöka underlaget för kommande bedömning av skattefelet.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "årsredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26374:goals:0"
+  },
+  {
+   "title": "Folkbokföringsfelet",
+   "group": [],
+   "text": "Uppgifterna i folkbokföringen ska hålla en hög kvalitet och folkbokföringsfelet ska vara så litet som möjligt. Skatteverket ska bedöma folkbokföringsfelets storlek och redovisa vilka åtgärder som har vidtagits för att öka kvaliteten i folkbokföringen. Skatteverket ska särskilt beskriva hur fel förebyggs och vilka åtgärder som vidtagits för att stärka möjligheterna att utifrån riskbedömningar prioritera arbetet med att minska felen.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26374:goals:1"
+  },
+  {
+   "title": "Kontrollverksamhetens inriktning",
+   "group": [],
+   "text": "Skatteverket ska redovisa hur resurserna i huvudsak har prioriterats till olika områden där kontrollerna kan uppnå bästa möjliga effekt och områden där risk för fel och fusk är hög. Skatteverket ska också redovisa och analysera kontrollverksamhetens resultat avseende t.ex. förändrade skattebeslut och regelefterlevnad.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "tillsyn_kontroll"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26374:goals:2"
+  },
+  {
+   "title": "Åtgärder för förbättrad folkbokföring",
+   "group": [],
+   "text": "Skatteverket ska öka kontrollerna av bosättningsuppgifter och samordningsnummer. I det ingår att upptäcka, omhänderta och utreda fler indikationer om fel avseende folkbokföring och samordningsnummer samt initiera egna kontroller på ett systematiskt sätt. Skatteverket ska göra dataanalyser och urval för att upptäcka felaktiga uppgifter i folkbokföringsverksamheten och inrikta sin kontroll mot områden med hög risk för fel och fusk och där bästa möjliga effekt kan uppstå. Skatteverket ska även stärka arbetet med identitetskontroller vid tilldelning av samordningsnummer, inklusive kontrollen av biometriska uppgifter, samt verka för att samordningsnummer efter styrkt identitet blir det som används brett i samhället. Skatteverket ska även öka medvetenhet, kunskap, förståelse och ansvarstagande när det gäller folkbokföringsuppgifter. Informationsinsatser ska riktas både brett i samhället och till målgrupper som är relevanta för att uppnå bättre kvalitet i folkbokföringen. Skatteverket ska redovisa genomförda åtgärder för att förbättra folkbokföringen och resultatet av dessa.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "tillsyn_kontroll",
+    "informera",
+    "statistik_data"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26374:goals:3"
+  },
+  {
+   "title": "Förstärkt arbete mot den kriminella ekonomin",
+   "group": [],
+   "text": "En målbild för hur Skatteverket, Tullverket och Kronofogdemyndigheten ska stärka insatserna för att motverka den kriminella ekonomin presenterades i augusti 2023. Skatteverket ska redovisa genomförda åtgärder och resultatet av dessa samt analysera utvecklingen jämfört med september 2023.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Kronofogdemyndigheten",
+    "Tullverket"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26374:goals:4"
+  },
+  {
+   "title": "Sanktioner",
+   "group": [],
+   "text": "Skatteverket ska redovisa vilka förebyggande åtgärder myndigheten har vidtagit, enskilt och i samverkan med andra myndigheter, för att främja efterlevnaden av EU:s sanktionsförordningar och den svenska sanktionslagstiftningen.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26374:goals:5"
+  },
+  {
+   "title": "Verksamhetsutveckling",
+   "group": [],
+   "text": "Skatteverket ska redovisa de viktigaste verksamhets- och it-utvecklingsinsatserna som har genomförts under året. Redovisningen ska göras utifrån förväntad nytta, påverkan på myndighetens sätt att utföra sina uppgifter och när effekten förväntas uppstå. Vidare ska myndigheten redovisa vilka större framtida utmaningar som har identifierats, men där något utvecklingsarbete ännu inte har inletts. Skatteverket ska även redovisa de effekter som har uppkommit under året som härrör från verksamhetsutveckling som genomförts under året eller tidigare.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "digitalisering_ai"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26374:goals:6"
+  },
+  {
+   "title": "Generella redovisningskrav",
+   "group": [],
+   "text": "Skatteverkets analyser ska utgå från för myndighetens verksamhet relevanta faktorer. Myndigheten ska i relevanta delar använda och redovisa 10-åriga tidsserier. En sammanställning över de indikatorer som används ska redovisas i en bilaga.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "statistik_data"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26374:goals:7"
+  }
+ ],
+ "org": [],
+ "assignments": [
+  {
+   "title": "Öka kunskapen om individuppgifter i arbetsgivardeklarationer",
+   "group": [],
+   "text": "Flera myndigheter och arbetslöshetskassorna får tillgång till individuppgifter som lämnats till Skatteverket i arbetsgivardeklarationer så att uppgifterna kan användas i deras ärendehantering. Användare av uppgifterna behöver ha tillräcklig kunskap om uppgifterna och vilka fel som kan förekomma bland dem för att kunna använda uppgifterna på ett lämpligt sätt i sin ärendehandläggning. Skatteverket ska därför genomföra kunskapshöjande insatser gentemot användare av uppgifterna i syfte att skapa en ökad riskmedvetenhet i användningen av individuppgifter.\n\nDe kunskapshöjande insatserna ska utgå från den analys Skatteverket gör av individuppgifterna i arbetsgivardeklarationer för att identifiera vilka avsiktliga fel som kan förekomma. Skatteverket ska använda befintliga analysmetoder för att identifiera avsiktliga fel men också utveckla metoder för att beskriva felens karaktär och omfattning. Den samlade bilden av förekomsten av avsiktliga fel ska kunna utgöra ett stöd för myndigheternas och arbetslöshetskassornas interna riskbedömningar för hur individuppgifterna kan användas i verksamheten. Den samlade bilden ska också kunna vara ett stöd i såväl Skatteverkets som övriga myndigheters och abetslöshetskassors arbete med att upptäcka avsiktliga fel.\n\nI genomförandet av uppdraget ska Skatteverket föra dialog med Arbetsförmedlingen, Centrala studiestödsnämnden, Ekobrottsmyndigheten, Försäkringskassan, Migrationsverket, Pensionsmyndigheten, Polismyndigheten, Åklagarmyndigheten och arbetslöshetskassorna. Uppdraget ska redovisas till Regeringskansliet (Finansdepartementet) senast den 11 december 2026.",
+   "dates": [
+    "2026-12-11"
+   ],
+   "deadlines": [
+    "2026-12-11"
+   ],
+   "recipients": [
+    "Regeringskansliet (Finansdepartementet)"
+   ],
+   "partners": [
+    "Arbetsförmedlingen",
+    "Centrala studiestödsnämnden",
+    "Ekobrottsmyndigheten",
+    "Försäkringskassan",
+    "Migrationsverket",
+    "Pensionsmyndigheten",
+    "Polismyndigheten",
+    "arbetslöshetskassorna",
+    "Åklagarmyndigheten"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla",
+    "informera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26374:assignments:0"
+  },
+  {
+   "title": "Stärkt motståndskraft mot hybridhot",
+   "group": [],
+   "text": "I syfte att stärka Sveriges samlade motståndskraft mot hybridhot behöver respektive sektor stärka sin förmåga att upptäcka och hantera incidenter som skulle kunna utgöra aktörsdrivna hot. Mot den bakgrunden ska Skatteverket:\n\n- säkerställa en kontinuerlig lägesuppfattning av incidenter inom den egna verksamheten och inom sitt sektorsansvar i syfte att upprätthålla en normalbild,\n- sammanställa öppen information om den hotbild som finns mot sektorn och tillgängliggöra den för aktörer som tillhandahåller samhällsviktig verksamhet inom sektorn samt\n- samverka med Säkerhetspolisen, Myndigheten för civilt försvar och andra berörda myndigheter i syfte att vid behov klargöra eller utveckla rapporteringsvägar för avvikelser eller säkerhetsincidenter.\n\nUppdraget ska redovisas till Regeringskansliet (Finansdepartementet) senast den 28 februari 2027.",
+   "dates": [
+    "2027-02-28"
+   ],
+   "deadlines": [
+    "2027-02-28"
+   ],
+   "recipients": [
+    "Regeringskansliet (Finansdepartementet)"
+   ],
+   "partners": [
+    "Myndigheten för civilt försvar",
+    "Säkerhetspolisen"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "utveckla",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "säkerställa en kontinuerlig lägesuppfattning av incidenter inom den egna verksamheten och inom sitt sektorsansvar i syfte att upprätthålla en normalbild,",
+    "sammanställa öppen information om den hotbild som finns mot sektorn och tillgängliggöra den för aktörer som tillhandahåller samhällsviktig verksamhet inom sektorn samt",
+    "samverka med Säkerhetspolisen, Myndigheten för civilt försvar och andra berörda myndigheter i syfte att vid behov klargöra eller utveckla rapporteringsvägar för avvikelser eller säkerhetsincidenter."
+   ],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26374:assignments:1"
+  },
+  {
+   "title": "Utgiftsprognoser",
+   "group": [],
+   "text": "Skatteverket ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Av prognoskommentarerna ska det framgå vilka antaganden som har använts, vilka osäkerhetsfaktorer som finns samt eventuella förändringar som rör finansiering, kostnader och verksamhet. Vid väsentliga prognosavvikelser ska myndigheten ange orsaker till dessa samt vilka åtgärder som har vidtagits eller som planeras för att verksamheten ska bedrivas inom tillgängliga ekonomiska ramar. Prognoserna lämnas i informationssystemet Hermes senast den\n\n2 februari\\\n22 april\\\n24 juli\\\n9 november",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26374:assignments:2"
+  },
+  {
+   "title": "Förhindra att adresser används utan intressenters vetskap",
+   "group": [],
+   "text": "Skatteverket ska beskriva och analysera hur olika adresser som registreras i folkbokföringsverksamheten, t.ex. särskild postadress och kontaktadress, kan användas felaktigt och vidta åtgärder för att motverka tillvägagångssätten. Skatteverkets arbetssätt och riskhantering ska utvecklas för att motverka att adresser utnyttjas.\n\nI uppdraget ingår att ta fram tjänster som bidrar till en ökad trygghet för folkbokförda personer och andra intressenter kring en adress (t.ex. ägare till fritidshus). Skatteverket har i dag en tjänst som vid anmälan om flytt inom Sverige ger personer som är folkbokförda på samma fastighet eller lägenhet möjlighet att lämna synpunkter avseende den anmälan som inkommit till Skatteverket innan personer registreras på samma adress. Skatteverket ska införa motsvarande tjänst för fler målgrupper och i fler situationer, bl.a. genom att ge ägare av vissa typer av fastigheter möjlighet att lämna synpunkter i fråga om registrering av en adressuppgift i folkbokföringsverksamheten.\n\nI genomförandet av uppdraget ska Skatteverket föra dialog med Lantmäteriet. Uppdraget ska redovisas till regeringen (Finansdepartementet) senast den 18 december 2026.",
+   "dates": [
+    "2026-12-18"
+   ],
+   "deadlines": [
+    "2026-12-18"
+   ],
+   "recipients": [
+    "regeringen"
+   ],
+   "partners": [
+    "Lantmäteriet"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26374:assignments:3"
+  },
+  {
+   "title": "Motverka att systemet för skyddade personuppgifter i folkbokföringen används felaktigt",
+   "group": [],
+   "text": "Skatteverket ska beskriva och analysera om, och i så fall hur, skyddad folkbokföring och sekretessmarkering i folkbokföringsverksamheten kan användas felaktigt för att dölja och främja kriminell verksamhet. Om sådana tillvägagångsätt identifieras ska Skatteverket motverka dessa. Skatteverket ska också överväga om, och i så fall på vilket sätt, perspektivet samhällsrisk bör beaktas i handläggningen. I genomförandet av uppdraget ska Skatteverket föra dialog med Polismyndigheten. Uppdraget ska redovisas till regeringen (Finansdepartementet) senast den 18 december 2026. Om det behövs kan delar av redovisningen lämnas i särskild ordning.",
+   "dates": [
+    "2026-12-18"
+   ],
+   "deadlines": [
+    "2026-12-18"
+   ],
+   "recipients": [
+    "regeringen"
+   ],
+   "partners": [
+    "Polismyndigheten"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26374:assignments:4"
+  },
+  {
+   "title": "Pågående uppdrag",
+   "group": [],
+   "text": "Pågående uppdrag till Skatteverket framgår av bilaga 1. För regeringsuppdrag som lämnats i ett särskilt regeringsbeslut utgör bilagan endast en upplysning om vilka uppdrag som vid årets början var riktade till myndigheten och vilka tider som då gällde för återrapportering eller liknande.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "26374:assignments:5"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "1:1",
+   "name": "Skatteverket",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 3,
+    "name": "Skatt, tull och exekution"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Skatteverket",
+     "amount_tkr": 9434848,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Skatteverket (ram)",
+       "amount_tkr": 9434848
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Skatteverket",
+     "text": "1. Anslagsposten får användas för Skatteverkets förvaltningsutgifter.\n2. Anslagsposten får användas för Skatterättsnämndens och Forskarskattenämndens verksamheter samt för Sveriges avgift till Nordiska skattevetenskapliga forskningsrådet och Intra-European Organisation of Tax Administrations (IOTA).\n3. Anslagsposten får användas för ersättningsbelopp enligt 43 kap. skatteförfarandelagen (2011:1244) om ersättning för kostnader för ombud, biträde eller utredning samt kostnader för skiljemannaförfarande enligt lagen (1999:1211) om konvention om undanröjande av dubbelbeskattning vid justering av inkomst mellan företag i intressegemenskap. Ersättningsbelopp om högst 30 000 000 kronor får belasta anslaget. Kostnaderna ska särredovisas.\n4. Anslagsposten får användas för handräckning på grund av avtal med främmande stat i vissa beskattningsärenden.\n5. Skatteverket ska kunna använda och samverka med stöd av det gemensamma radiokommunikationssystemet Rakel. Från anslagsposten får högst 1 130 500 kronor användas för abonnemangsavgift för Rakel. Beloppet ska efter fakturering betalas till Myndigheten för civilt försvar."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "1",
+     "max": 30000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "1",
+     "max": 1130500,
+     "unit": "kronor"
+    }
+   ]
+  },
+  {
+   "code": "1:4",
+   "name": "Kompensation förhöjt grundavdrag födda 1957",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 3,
+    "name": "Skatt, tull och exekution"
+   },
+   "older_budget_year": 2024,
+   "disposals": [
+    {
+     "by": "Skatteverket",
+     "amount_tkr": 0,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Kompensation förhöjt grundavdrag födda 1957 (ram)",
+       "amount_tkr": 0
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Kompensation förhöjt grundavdrag födda 1957",
+     "text": "Anslaget får användas för bidrag till personer födda 1957 avseende kompensation för förhöjt grundavdrag 2023."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "1:1 Skatteverket",
+   "ap": "ap.1",
+   "Anslagskredit": 283045,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:4 (2024) Kompensation förhöjt grundavdrag födda 1957",
+   "ap": "ap.1 (2024)",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": 3000,
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 1750000,
+  "Räntekontokredit": 617000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 786237
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 786237
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 786237
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 786237
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 786237
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 786237
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 786237
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 786237
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 786237
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 786237
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 786237
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 786241
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:1 Skatteverket",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "283 045",
+     "3 %",
+     "0"
+    ],
+    [
+     "1:4 (2024) Kompensation förhöjt grundavdrag födda 1957",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1 (2024)",
+     "0",
+     "3 000",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "1 750 000"
+    ],
+    [
+     "Räntekontokredit",
+     "617 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "786 237"
+    ],
+    [
+     "2026-02-25",
+     "786 237"
+    ],
+    [
+     "2026-03-25",
+     "786 237"
+    ],
+    [
+     "2026-04-25",
+     "786 237"
+    ],
+    [
+     "2026-05-25",
+     "786 237"
+    ],
+    [
+     "2026-06-25",
+     "786 237"
+    ],
+    [
+     "2026-07-25",
+     "786 237"
+    ],
+    [
+     "2026-08-25",
+     "786 237"
+    ],
+    [
+     "2026-09-25",
+     "786 237"
+    ],
+    [
+     "2026-10-25",
+     "786 237"
+    ],
+    [
+     "2026-11-25",
+     "786 237"
+    ],
+    [
+     "2026-12-25",
+     "786 241"
+    ],
+    [
+     "Summa",
+     "9 434 848"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "1:1 ap.1",
+     "Skatteverket"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Uppdragsverksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Administration av ålderspension med ersättning från AP-fonderna1",
+     "13 584",
+     "20 690",
+     "384 157",
+     "402 105",
+     "-17 948",
+     "16 326"
+    ],
+    [
+     "Administration av ålderspension med ersättning från premiepensionssystemet1",
+     "2 202",
+     "3 229",
+     "60 025",
+     "62 756",
+     "-2 731",
+     "2 700"
+    ],
+    [
+     "Intäkter från Kronofogdemyndigheten för levererat verksamhetsstöd3",
+     "283 000"
+    ],
+    [
+     "Intäkter från Utbetalningsmyndigheten för levererat verksamhetsstöd3",
+     "19 000"
+    ],
+    [
+     "Folkbokföring Navet1",
+     "61",
+     "2 600",
+     "8 000",
+     "7 000",
+     "1 000",
+     "3 661"
+    ],
+    [
+     "SPAR1",
+     "-8 940",
+     "7 000",
+     "50 000",
+     "50 000",
+     "0",
+     "-1 940"
+    ],
+    [
+     "Samordnad säker statlig it-drift1",
+     "0",
+     "0",
+     "1 000",
+     "1 000",
+     "0",
+     "0"
+    ],
+    [
+     "Tjänsteexport1",
+     "-3 427",
+     "0",
+     "60 000",
+     "60 000",
+     "0",
+     "-3 427"
+    ],
+    [
+     "Summa",
+     "3 480",
+     "33 519",
+     "865 182",
+     "582 861",
+     "-19 679",
+     "17 320"
+    ],
+    [
+     "Offentligrättslig verksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ID-kort2",
+     "0",
+     "0",
+     "60 000",
+     "60 000",
+     "0",
+     "0"
+    ],
+    [
+     "Namnärenden1",
+     "-3 646",
+     "-3 000",
+     "17 000",
+     "19 000",
+     "-2 000",
+     "-8 646"
+    ],
+    [
+     "Prissättningsbesked2",
+     "0",
+     "0",
+     "1 500",
+     "1 500",
+     "0",
+     "0"
+    ],
+    [
+     "Summa",
+     "-3 646",
+     "-3 000",
+     "78 500",
+     "80 500",
+     "-2 000",
+     "-8 646"
+    ]
+   ]
+  },
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna ej disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "Ink. tit.",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Avgiftsintäkter",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Meddelat förhandsbesked i tax.frågor m.m.1",
+     "2511",
+     "0",
+     "0",
+     "250",
+     "250",
+     "0",
+     "0"
+    ],
+    [
+     "Ansökningsavgifter avseende äktenskapsregistret1",
+     "2511",
+     "0",
+     "0",
+     "6 000",
+     "6 000",
+     "0",
+     "0"
+    ],
+    [
+     "Ansökningsavgifter avseende europeiskt arvsintyg1",
+     "2511",
+     "0",
+     "0",
+     "700",
+     "700",
+     "0",
+     "0"
+    ],
+    [
+     "Särskilt uppskattningsvärde på fastighet1",
+     "2511",
+     "0",
+     "0",
+     "250",
+     "250",
+     "0",
+     "0"
+    ],
+    [
+     "Summa",
+     "0",
+     "0",
+     "7 200",
+     "7 200",
+     "0",
+     "0"
+    ]
+   ]
+  }
+ ],
+ "has_fee_section": true,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 8,
+  "n_org": 0,
+  "n_assignments": 6,
+  "n_deadlines": 3,
+  "deadlines": [
+   "2026-12-11",
+   "2026-12-18",
+   "2027-02-28"
+  ],
+  "partners": [
+   "Arbetsförmedlingen",
+   "Centrala studiestödsnämnden",
+   "Ekobrottsmyndigheten",
+   "Försäkringskassan",
+   "Kronofogdemyndigheten",
+   "Lantmäteriet",
+   "Migrationsverket",
+   "Myndigheten för civilt försvar",
+   "Pensionsmyndigheten",
+   "Polismyndigheten",
+   "Säkerhetspolisen",
+   "Tullverket",
+   "arbetslöshetskassorna",
+   "Åklagarmyndigheten"
+  ],
+  "n_appropriations": 2,
+  "appropriations_total_tkr": 9434848,
+  "payment_plan_total_tkr": 9434848,
+  "md_chars": 17625
+ },
+ "layout": "standard",
+ "warnings": []
+}

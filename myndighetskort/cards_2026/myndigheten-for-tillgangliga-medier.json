@@ -1,0 +1,567 @@
+{
+ "schema_version": 1,
+ "id": 25863,
+ "original_rbid": 25863,
+ "type": "Regleringsbrev",
+ "category": "Myndighet",
+ "date": "2025-12-18",
+ "year": "2026",
+ "name": "Myndigheten för tillgängliga medier",
+ "slug": "myndigheten-for-tillgangliga-medier",
+ "department": "Kulturdepartementet",
+ "expenditure_areas": [
+  17
+ ],
+ "registry_numbers": [
+  "Ku2025/01141 (delvis)",
+  "Ku2025/01267"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1"
+  ],
+  "bet": [
+   "2025/26:KrU1"
+  ],
+  "rskr": [
+   "2025/26:83"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "",
+ "goals": [
+  {
+   "title": "Informations- och kommunikationsverksamhet",
+   "group": [],
+   "text": "Myndigheten för tillgängliga medier ska redovisa kostnaderna för myndighetens externa informations- och kommunikationsverksamhet. Myndigheten ska också redovisa de motiv som ligger till grund för myndighetens val av externa kommunikationsinsatser och hur insatserna bidragit till genomförandet av myndighetens kärnuppgifter och uppdrag. Vidare ska myndigheten redovisa hur den externa informations- och kommunikationsverksamheten följs upp.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25863:goals:0"
+  },
+  {
+   "title": "Bidragsintäkter",
+   "group": [],
+   "text": "Myndigheten för tillgängliga medier ska särredovisa fördelningen av eventuella bidragsintäkter mellan statliga bidrag, bidrag från mellanstatliga organ respektive icke-statliga bidrag i not till resultaträkningen.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25863:goals:1"
+  }
+ ],
+ "org": [],
+ "assignments": [
+  {
+   "title": "Alla väljare",
+   "group": [],
+   "text": "Myndigheten för tillgängliga medier ska driva webbplatsen ”Alla väljare” – www.allavaljare.se, med lättläst nyhetsinformation för att öka möjligheten för personer med lässvårigheter att tillgodogöra sig sådan information och följa den politiska debatten i samband med de allmänna valen 2026. Verksamheten ska särskilt inriktas mot grupper med lågt deltagande i tidigare allmänna val såsom unga, utrikes födda och personer med funktionsnedsättning. För ändamålet får Myndigheten för tillgängliga medier använda högst 800 000 kronor från anslaget 6:1 Allmänna val och demokrati, anslagspost 11 Demokrati – del till Kammarkollegiet. Myndigheten ska engångsvis rekvirera medlen från Kammarkollegiet senast den 2 oktober 2026. Medel som inte har förbrukats ska återbetalas till Kammarkollegiet senast den 1 mars 2027.",
+   "dates": [
+    "2026-10-02",
+    "2027-03-01"
+   ],
+   "deadlines": [
+    "2026-10-02",
+    "2027-03-01"
+   ],
+   "recipients": [
+    "Kammarkollegiet"
+   ],
+   "partners": [
+    "Kammarkollegiet"
+   ],
+   "channels": [],
+   "task_types": [
+    "fördela_medel"
+   ],
+   "anslag_refs": [
+    "6:1"
+   ],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "25863:assignments:0"
+  },
+  {
+   "title": "Öka förmågan att använda AI och ny teknik genom datadrivet arbete",
+   "group": [],
+   "text": "Myndigheten för tillgängliga medier ska redovisa i vilken utsträckning myndigheten arbetar datadrivet, vilka åtgärder myndigheten vidtagit för att förbättra sin förmåga att arbeta datadrivet samt en bedömning av vilket resultat åtgärderna har lett till. Myndigheten ska även redovisa på vilket sätt arbetet med data och AI har bidragit till att utveckla verksamheten. Av redovisningen ska framgå hur myndigheten beaktar risker med användningen av data och AI. Även eventuella hinder eller framgångsfaktorer för datadrivet arbete och användande av AI-teknik ska redovisas. Uppdraget ska redovisas till Regeringskansliet (Kulturdepartementet) senast den 15 maj 2026.",
+   "dates": [
+    "2026-05-15"
+   ],
+   "deadlines": [
+    "2026-05-15"
+   ],
+   "recipients": [
+    "Regeringskansliet (Kulturdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla",
+    "statistik_data",
+    "digitalisering_ai"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "25863:assignments:1"
+  },
+  {
+   "title": "Prognoser 2026–2029",
+   "group": [],
+   "text": "Myndigheten för tillgängliga medier ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Prognoserna lämnas i informationssystemet Hermes senast den\n\n- 2 februari\n- 24 juli\n- 9 november.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "25863:assignments:2"
+  },
+  {
+   "title": "Prognos för beställningsbemyndiganden",
+   "group": [],
+   "text": "Myndigheten ska redovisa en prognos för de förslag om beställningsbemyndiganden som lämnats i budgetunderlaget och för de åtaganden som ingåtts med stöd av äldre beställningsbemyndiganden. Prognosen ska lämnas senast den 24 juli 2026 via statsredovisningssystemet i Hermes och utformas enligt närmare information från Statskontoret.",
+   "dates": [
+    "2026-07-24"
+   ],
+   "deadlines": [
+    "2026-07-24"
+   ],
+   "forecast_dates": [],
+   "recipients": [],
+   "partners": [
+    "Statskontoret"
+   ],
+   "channels": [
+    "hermes",
+    "budgetunderlag"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "25863:assignments:3"
+  },
+  {
+   "title": "Tidigare givna uppdrag",
+   "group": [],
+   "text": "| | | |\n| --- | --- | --- |\n| Uppdrag | Beslut om uppdraget | Redovisningstidpunkt |\n| Uppdrag att följa upp funktionshinderspolitiken 2021–2031 utifrån det nationella målet för funktionshinderspolitiken | S2021/06595, S2025/01367 | Årligen till Myndigheten för delaktighet senast den 1 februari |\n\n*För regeringsuppdrag som lämnats i ett särskilt regeringsbeslut utgör tabellen endast en upplysning om vilka uppdrag som vid årets början var riktade till myndigheten och vilka tider som då gällde för återrapportering eller liknande.*",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [
+    "Myndigheten för delaktighet"
+   ],
+   "partners": [
+    "Myndigheten för delaktighet"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "25863:assignments:4"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "3:2",
+   "name": "Myndigheten för tillgängliga medier",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 17,
+    "name": "Kultur, medier, trossamfund och fritid"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Myndigheten för tillgängliga medier",
+     "amount_tkr": 151335,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Myndigheten för tillgängliga medier (ram)",
+       "amount_tkr": 151335
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Myndigheten för tillgängliga medier",
+     "text": "Anslagsposten får användas för Myndigheten för tillgängliga mediers förvaltningsutgifter."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "10:4",
+   "name": "Stöd till taltidningar",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 17,
+    "name": "Kultur, medier, trossamfund och fritid"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Myndigheten för tillgängliga medier",
+     "amount_tkr": 43406,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Stöd till taltidningar (ram)",
+       "amount_tkr": 43406
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Stöd till taltidningar",
+     "text": "Anslaget får användas i enlighet med bestämmelserna i förordningen (2025:366) om en taltidningstjänst hos Myndigheten för tillgängliga medier.\nAv anslaget får högst 8 000 000 kronor användas för löne- och omkostnader relaterade till taltidningsverksamheten samt för avskrivningar och räntor för utvecklingsprojekt i syfte att effektivisera verksamheten."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "1",
+     "max": 8000000,
+     "unit": "kronor"
+    }
+   ]
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "3:2 Myndigheten för tillgängliga medier",
+   "ap": "ap.1",
+   "Anslagskredit": 4540,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "10:4 Stöd till taltidningar",
+   "ap": "ap.1",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 26000,
+  "Räntekontokredit": 4796
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 12611
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 12611
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 12611
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 12611
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 12611
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 12611
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 12611
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 12611
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 12611
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 12611
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 12611
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 12614
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "3:2 Myndigheten för tillgängliga medier",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "4 540",
+     "3 %",
+     "0"
+    ],
+    [
+     "10:4 Stöd till taltidningar",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "0",
+     "Inget",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "26 000"
+    ],
+    [
+     "Räntekontokredit",
+     "4 796"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "12 611"
+    ],
+    [
+     "2026-02-25",
+     "12 611"
+    ],
+    [
+     "2026-03-25",
+     "12 611"
+    ],
+    [
+     "2026-04-25",
+     "12 611"
+    ],
+    [
+     "2026-05-25",
+     "12 611"
+    ],
+    [
+     "2026-06-25",
+     "12 611"
+    ],
+    [
+     "2026-07-25",
+     "12 611"
+    ],
+    [
+     "2026-08-25",
+     "12 611"
+    ],
+    [
+     "2026-09-25",
+     "12 611"
+    ],
+    [
+     "2026-10-25",
+     "12 611"
+    ],
+    [
+     "2026-11-25",
+     "12 611"
+    ],
+    [
+     "2026-12-25",
+     "12 614"
+    ],
+    [
+     "Summa",
+     "151 335"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "3:2 ap.1",
+     "Myndigheten för tillgängliga medier"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Verksamhet med full kostnadstäckning",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Avgiftsintäkter för verksamhet avseende uppdrag inom verksamhetsområdet1",
+     "0",
+     "0",
+     "1 164",
+     "1 164",
+     "0",
+     "0"
+    ],
+    [
+     "Övrig avgiftsbelagd verksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Avgiftsintäkter för försäljning och tillhandahållande av litteratur och information3",
+     "5 305"
+    ]
+   ]
+  }
+ ],
+ "has_fee_section": true,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 2,
+  "n_org": 0,
+  "n_assignments": 5,
+  "n_deadlines": 4,
+  "deadlines": [
+   "2026-05-15",
+   "2026-07-24",
+   "2026-10-02",
+   "2027-03-01"
+  ],
+  "partners": [
+   "Kammarkollegiet",
+   "Myndigheten för delaktighet",
+   "Statskontoret"
+  ],
+  "n_appropriations": 2,
+  "appropriations_total_tkr": 194741,
+  "payment_plan_total_tkr": 151335,
+  "md_chars": 7994
+ },
+ "layout": "standard",
+ "warnings": []
+}

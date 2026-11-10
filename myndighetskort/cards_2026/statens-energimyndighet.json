@@ -1,0 +1,2365 @@
+{
+ "schema_version": 1,
+ "id": 27455,
+ "original_rbid": 25972,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-06-18",
+ "year": "2026",
+ "name": "Statens energimyndighet",
+ "slug": "statens-energimyndighet",
+ "department": "Klimat- och näringslivsdepartementet",
+ "expenditure_areas": [
+  21
+ ],
+ "registry_numbers": [
+  "KN2026/01307(delvis)",
+  "KN2026/01376(delvis)",
+  "KN2026/01395"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1",
+   "2025/26:236",
+   "2025/26:275",
+   "2025/26:99"
+  ],
+  "bet": [
+   "2025/26:FiU47",
+   "2025/26:FiU48",
+   "2025/26:NU3"
+  ],
+  "rskr": [
+   "2025/26:118",
+   "2025/26:218",
+   "2025/26:350",
+   "2025/26:427"
+  ]
+ },
+ "n_attachments_stated": 1,
+ "mission": "",
+ "goals": [
+  {
+   "title": "Bidra till att främja ny kärnkraft i Sverige",
+   "group": [],
+   "text": "Statens energimyndighet ska redovisa vilka åtgärder myndigheten har genomfört för att bidra till regeringens plan för ny kärnkraft i Sverige som anges i regeringens proposition Energipolitikens långsiktiga inriktning (prop. 2023/24:105). Redovisningen ska även inkludera hur myndigheten har bidragit till prioriterade internationella samarbeten om kärnkraft, och hur dessa kan bidra till att främja ny kärnkraft i Sverige samt hur förutsättningarna ser ut för att nyttja spillvärme från kärnkraft.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27455:goals:0"
+  },
+  {
+   "title": "Stöd till Ukraina",
+   "group": [],
+   "text": "Statens energimyndighet ska redovisa vilka åtgärder myndigheten har genomfört för att bidra till regeringens arbete med att stödja energisektorn i Ukraina, samt hur erfarenheter från Ukraina i form av konkreta åtgärdsförslag kan nyttjas för att bidra till stärkt energiberedskap i Sverige.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27455:goals:1"
+  },
+  {
+   "title": "Cybersäkerhet för civilt försvar inom energisektorn",
+   "group": [],
+   "text": "Statens energimyndighet ska redovisa hur myndigheten utvecklat sitt arbete inom cybersäkerhet för att säkerställa ett effektivt och rättssäkert arbete för en hög cybersäkerhet inom energisektorn. Kritiska samhällsfunktioner är i hög grad beroende av digitala system och en god cybersäkerhet är grundläggande för det civila försvaret.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27455:goals:2"
+  },
+  {
+   "title": "Energiplanering",
+   "group": [],
+   "text": "Statens energimyndighet ska redovisa hur medel för energiplanering har använts för att utveckla den nationella, regionala och kommunala energiplaneringen samt vilka resultat som uppnåtts.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27455:goals:3"
+  },
+  {
+   "title": "Medverka till genomförandet av regeringens Strategi för Sveriges utrikeshandel, investeringar och global konkurrenskraft",
+   "group": [],
+   "text": "Statens energimyndighet ska redovisa vilka insatser myndigheten har genomfört inom ramen för sitt verksamhetsområde för att i samarbete med andra myndigheter och främjandeaktörer medverka till genomförandet av regeringens Strategi för Sveriges utrikeshandel, investeringar och global konkurrenskraft.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27455:goals:4"
+  },
+  {
+   "title": "Resurseffektivitetskrav inom ekodesign och energimärkning",
+   "group": [],
+   "text": "Statens energimyndighet ska redovisa hur myndigheten, tillsammans med Naturvårdsverket, Kemikalieinspektionen, Styrelsen för ackreditering och teknisk kontroll (Swedac) och Upphandlingsmyndigheten har utarbetat synpunkter och förslag samt varit pådrivande i ekodesignforumet och dess expertgrupp för medlemsstater och i andra relevanta processer för genomförandet av Europaparlamentets och rådets förordning (EU) 2024/1781 av den 13 juni 2024 om upprättande av en ram för att fastställa ekodesignkrav för hållbara produkter, om ändring av direktiv (EU) 2020/1828 och förordning (EU) 2023/1542 och om upphävande av direktiv 2009/125/EG. Statens energimyndighet ska även redovisa hur myndigheten har samordnat arbetet med energirelaterade och energiintensiva produkter samt med horisontella energiaspekter och hur myndigheten med stöd av berörda myndigheter har varit pådrivande i det arbetet. Myndigheten ska i arbetet med att utarbeta synpunkter och förslag även tillvarata Boverkets och Elsäkerhetsverkets kunskap och erfarenheter i detta arbete.",
+   "dates": [
+    "2024-06-13"
+   ],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Boverket",
+    "Elsäkerhetsverket",
+    "Kemikalieinspektionen",
+    "Naturvårdsverket",
+    "Styrelsen för ackreditering och teknisk kontroll",
+    "Upphandlingsmyndigheten"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "utveckla",
+    "tillsyn_kontroll",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27455:goals:5"
+  },
+  {
+   "title": "Svenskt deltagande i Horisont Europa",
+   "group": [],
+   "text": "Statens energimyndighet ska redovisa vilka insatser som har vidtagits för att myndigheten ska bidra till de mål som anges i den nationella strategin för svenskt deltagande i Horisont Europa 2021–2027 (U2021/03975).",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27455:goals:6"
+  },
+  {
+   "title": "Underlag inom nationell plan för moderna miljövillkor",
+   "group": [],
+   "text": "Statens energimyndighet ska redovisa hur myndigheten har arbetat med att förse de länsstyrelser som är vattenmyndigheter, med underlag om hur miljöanpassningarna av vattenkraften som följer av klassificering och kvalitetskrav enligt 4 kap. vattenförvaltningsförordningen (2004:660) påverkar vattenkraftens förmågor i fråga om de vattenkraftverk som myndigheten bedömer har en särskild betydelse för elsystemet.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2004:660"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27455:goals:7"
+  },
+  {
+   "title": "Motverka felaktiga utbetalningar",
+   "group": [],
+   "text": "Statens energimyndighet ska redovisa vilka åtgärder som har vidtagits för att motverka felaktiga utbetalningar av stöd och bidrag till företag och civilsamhälle.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "fördela_medel"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27455:goals:8"
+  },
+  {
+   "title": "Färdval och resepolicy vid tjänsteresor",
+   "group": [],
+   "text": "Alla trafikslag ska kunna nyttjas (väg, järnväg, luft- och sjöfart) för att säkerställa effektiva och ändamålsenliga transporter. Myndigheten ska därför redovisa hur den har säkerställt att val av färdsätt vid tjänsteresor sker färdmedelsneutralt och utifrån behov. Vidare ska myndigheten redovisa huruvida myndigheten köpt in hållbart flygbränsle till organisationens flygresor. När kostnader jämförs för olika färdval ska hela resans kostnad beaktas, exempelvis kostnader för nödvändig övernattning samt total arbetstid för hela resan.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27455:goals:9"
+  }
+ ],
+ "org": [
+  {
+   "title": "Proaktivitet och handlingskraft vid kris eller krig",
+   "group": [],
+   "text": "Statens energimyndighet ska säkerställa att myndigheten har förmåga att agera proaktivt och handlingskraftigt i hanteringen av såväl fredstida krissituationer som vid krig och krigsfara. Utöver de krav som ställs i förordningen (2022:524) om statliga myndigheters beredskap ska myndigheten i detta syfte utbilda och öva sin personal samt se till att myndigheten stärker en kultur och arbetssätt som utgår från de krav som ett krig ställer. Uppdraget ska redovisas till Regeringskansliet (Klimat- och näringslivsdepartementet och Försvarsdepartementet) senast den 22 februari 2027. Detta ska ingå i den särskilda redovisningen för civilt försvar.",
+   "dates": [
+    "2027-02-22"
+   ],
+   "deadlines": [
+    "2027-02-22"
+   ],
+   "recipients": [
+    "Regeringskansliet (Klimat- och näringslivsdepartementet och Försvarsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2022:524"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "org",
+   "item_id": "27455:org:0"
+  }
+ ],
+ "assignments": [
+  {
+   "title": "Stödja kompetensförsörjningen för elektrifieringen och kvantifiera behovet av kärnkraftskompetens",
+   "group": [],
+   "text": "Statens energimyndighet ska fortsatt stödja kompetensförsörjningen för elektrifiering av samhället och, efter samverkan med relevanta myndigheter, samhälls- och branschaktörer, föreslå åtgärder som behöver vidtas. I uppdraget ingår också att kvantifiera kompetensbehovet på kort, medellång och längre sikt inom de viktigaste kompetenskategorierna som krävs för en kärnkraftsutbyggnad i Sverige genom en efterfråge- och utbudsanalys. Analysen ska göras i dialog med på området relevanta myndigheter och aktörer. Vid genomförandet av uppdraget ska myndigheten i den del som avser kärnkraft ta vara på erfarenheter från motsvarande analyser som utförts i Frankrike och Storbritannien. För uppdraget får myndigheten använda 1 000 000 kronor från anslag 1:5 Energiplanering ap.7 inom UO21. Uppdraget ska redovisas till Regeringskansliet (Klimat- och näringslivsdepartementet) senast den1 juni 2027.",
+   "dates": [
+    "2027-06-01"
+   ],
+   "deadlines": [],
+   "recipients": [
+    "Regeringskansliet (Klimat- och näringslivsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "föreslå",
+    "samordna",
+    "utveckla"
+   ],
+   "anslag_refs": [
+    "1:5"
+   ],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27455:assignments:0"
+  },
+  {
+   "title": "Arbete med statligt stöd till ny kärnkraft",
+   "group": [],
+   "text": "Statens energimyndighet ska under 2026 och 2027 inom sitt ansvarsområde och efter dialog med Klimat- och näringslivsdepartementet bistå Regeringskansliet i arbetet med statligt stöd till företag för investeringar i ny kärnkraft. Myndigheten får för genomförandet av uppdraget under 2026 använda högst 1 000 000 kronor som ska redovisas mot det under utgiftsområde 21 Energi för budgetåret 2026 uppförda anslaget 1:5 Energiplanering, anslagsposten 7 Insatser för ny kärnkraft. Regeringen beräknar att 1 000 000 kronor kommer att avsättas för uppdraget för 2027, under förutsättning att riksdagen anvisat medel för det aktuella anslaget.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "utveckla"
+   ],
+   "anslag_refs": [
+    "1:5"
+   ],
+   "expenditure_area_refs": [
+    21
+   ],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27455:assignments:1"
+  },
+  {
+   "title": "Civilplikt inom energisektorn",
+   "group": [],
+   "text": "Statens energimyndighet ska utreda och bedöma behovet av och förutsättningarna för civilplikt i verksamhetsområden för drift, underhåll och reparationer inom andra energislag än el. I uppdraget ingår att utreda och bedöma om det är nödvändigt med civilplikt för drift, underhåll och reparationer inom andra energislag än el för att tillgodose behov av personalförstärkning vid höjd beredskap. Vidare ska Statens energimyndighet identifiera berörda aktörer, både offentliga och privata, som myndigheten behöver involvera i arbetet, samt att aktivt samarbeta med dessa aktörer inom ramen för uppdraget. Uppdraget ska redovisas till Regeringskansliet (Klimat- och näringslivsdepartementet) senast den 29 januari 2027.",
+   "dates": [
+    "2027-01-29"
+   ],
+   "deadlines": [
+    "2027-01-29"
+   ],
+   "recipients": [
+    "Regeringskansliet (Klimat- och näringslivsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27455:assignments:2"
+  },
+  {
+   "title": "Ekonomisk kompensation till kommuner",
+   "group": [],
+   "text": "Statens energimyndighet ska betala ut riktade statsbidrag till vissa kommuner och regioner för reducerat elstöd. Uppdraget ska vara genomfört senast den 9 juni 2026.",
+   "dates": [
+    "2026-06-09"
+   ],
+   "deadlines": [
+    "2026-06-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "fördela_medel"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27455:assignments:3"
+  },
+  {
+   "title": "Insatser för genomförande av direktivet om energieffektivitet",
+   "group": [],
+   "text": "Statens energimyndighet ska främja effektivare och minskad energi- och effektanvändning i enlighet med Europaparlamentets och rådets direktiv (EU) 2023/1791 av den 13 september 2023 om energieffektivitet och om ändring av förordning (EU) 2023/955. Arbetet ska fokusera på utveckling av insatser så som nätverksaktiviteter samt informations- och kompetenshöjande insatser om energieffektivitet med syfte att använda resurser på ett effektivt sätt, öka den privata finansieringen till energieffektivitetsåtgärder samt bidra till ett hållbart samhälle och konkurrenskraft. Uppdraget ska utgå från myndighetens tidigare uppdrag KN2025/01331. Insatserna ska kunna bidra till genomförande av artiklarna 11.6–11.8, 22, 24, 28–30 i direktivet om energieffektivitet. I uppdraget ingår även att formera den nationella hubben till den europeiska koalitionen för finansiering av energieffektivitetsåtgärder samt att ta fram en vägledning till upphandlande myndigheter och enheter som stöd vid upphandlingar som omfattas av de nya kraven som följer av direktivet om energieffektivitet. Den sista delen av uppdraget ska genomföras med stöd av Upphandlingsmyndigheten inom ramen för Upphandlingsmyndighetens verksamhetsområde. Uppdraget ska redovisas till Regeringskansliet (Klimat- och näringslivsdepartementet) senast den 1 november 2026.",
+   "dates": [
+    "2023-09-13",
+    "2026-11-01"
+   ],
+   "deadlines": [
+    "2026-11-01"
+   ],
+   "recipients": [
+    "Regeringskansliet (Klimat- och näringslivsdepartementet)"
+   ],
+   "partners": [
+    "Upphandlingsmyndigheten"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla",
+    "informera",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27455:assignments:4"
+  },
+  {
+   "title": "Underlag till Sveriges integrerade nationella energi- och klimatplan",
+   "group": [],
+   "text": "Statens energimyndighet ska utarbeta ett förslag till utkast på Sveriges integrerade nationella energi- och klimatplan för perioden 2031–2040 i enlighet med artikel 9 i Europaparlamentets och rådets förordning (EU) 2018/1999 av den 11 december 2018 om styrningen av energiunionen och av klimatåtgärder samt om ändring av Europaparlamentets och rådets förordningar (EG) nr 663/2009 och (EG) nr 715/2009, Europaparlamentets och rådets direktiv 94/22/EG, 98/70/EG, 2009/31/EG, 2009/73/EG, 2010/31/EU, 2012/27/EU och 2013/30/EU samt rådets direktiv 2009/119/EG och (EU) 2015/652 och om upphävande av Europaparlamentets och rådets förordning (EU) nr 525/2013 (EU:s styrningsförordning) och klimatrapporteringsförordningen (2014:1434). Uppdraget ska genomföras i samarbete med Naturvårdsverket och Sveriges meteorologiska och hydrologiska institut. Detta innebär att Naturvårdsverket ansvarar för de delar som rör utsläpp och upptag av växthusgaser, samt att Sveriges meteorologiska och hydrologiska institut ansvarar för delar som rör anpassning till klimatförändringar. Energimarknadsinspektionen och Affärsverket svenska kraftnät ska bistå Statens energimyndighet i tillämpliga delar och Statens energimyndighet ska stämma av underlaget med Konjunkturinstitutet i de delar som gäller deras expertområde. I uppdraget ingår att ha dialog med och inhämta synpunkter från relevanta aktörer genom att genomföra konsultationer med aktörer i enlighet med förordningen. Förslaget på utkast till plan ska innehålla en redogörelse av vad konsultationen har resulterat i. Uppdraget ska redovisas till Regeringskansliet (Klimat-och näringslivsdepartementet) senast den 1 september 2027.",
+   "dates": [
+    "2018-12-11",
+    "2027-09-01"
+   ],
+   "deadlines": [
+    "2027-09-01"
+   ],
+   "recipients": [
+    "Regeringskansliet (Klimat-och näringslivsdepartementet)"
+   ],
+   "partners": [
+    "Affärsverket svenska kraftnät",
+    "Energimarknadsinspektionen",
+    "Konjunkturinstitutet",
+    "Naturvårdsverket",
+    "Sveriges meteorologiska och hydrologiska institut"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "utveckla",
+    "tillsyn_kontroll",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2014:1434"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27455:assignments:5"
+  },
+  {
+   "title": "Underlag till lägesrapportering av Sveriges integrerade nationella energi- och klimatplan",
+   "group": [],
+   "text": "Statens energimyndighet ska ta fram underlag till den integrerade energi-och klimatlägesrapporten som följer upp Sveriges nationella energi- och klimatplan. Underlaget ska utarbetas i enlighet med artikel 17 i Europaparlamentets och rådets förordning (EU) 2018/1999 av den 11 december 2018 om styrningen av energiunionen och av klimatåtgärder. Naturvårdsverket ska bidra med scenarioberäkningar och underlag i de delar som omfattar utsläpp och upptag av växthusgaser och Sveriges meteorologiska och hydrologiska institut ska bistå med relevant sakkunskap i de delar som omfattar anpassning till klimatförändringar. Boverket, Energimarknadsinspektionen, Statistiska centralbyrån (SCB) och Affärsverket svenska kraftnät ska bistå Statens energimyndighet i relevanta delar. I uppdraget ingår att bistå Regeringskansliet vid rapporteringen till EU-kommissionen. Underlaget ska redovisas till Regeringskansliet (Klimat- och näringslivsdepartementet) senast den 30 januari 2027.",
+   "dates": [
+    "2018-12-11",
+    "2027-01-30"
+   ],
+   "deadlines": [
+    "2027-01-30"
+   ],
+   "recipients": [
+    "Regeringskansliet (Klimat- och näringslivsdepartementet)"
+   ],
+   "partners": [
+    "Affärsverket svenska kraftnät",
+    "Boverket",
+    "Energimarknadsinspektionen",
+    "Naturvårdsverket",
+    "Statistiska centralbyrån",
+    "Sveriges meteorologiska och hydrologiska institut"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "tillsyn_kontroll",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27455:assignments:6"
+  },
+  {
+   "title": "Lämna underlag till övervakningsrapporter",
+   "group": [],
+   "text": "Statens energimyndighet ska ta fram underlag i enlighet med kommissionens beslut i statsstödsärende SA.102347 om skattebefrielse för rena och höginblandade biodrivmedel. Underlaget ska redovisas till Regeringskansliet (Finansdepartementet med kopia till Klimat- och näringslivsdepartementet) senast den 25 mars 2026. Det ska i rapporten utvärderas om överkompensation förelåg för helåret 2025 och göras en översiktlig bedömning av om överkompensation för 2026 riskerar att uppkomma utifrån relevanta påverkansfaktorer såsom råvarupriser.\n\nStatens energimyndighet ska även ta fram underlag i enlighet med principerna beskrivna i kommissionens beslut i statsstödsärende SA.56908 (och i beslut som ersätter det beslutet) om skattebefrielse av biogas använt som motorbränsle. Underlaget ska redovisas till Regeringskansliet (Finansdepartementet med kopia till Klimat- och näringslivsdepartementet) senast den 25 mars 2026 och innehålla en utvärdering om överkompensation förelåg för helåret 2025.\n\nDärutöver ska Statens energimyndighet ta fram underlag i enlighet med principerna beskrivna i kommissionens beslut i statsstödsärende SA.56125 (och i beslut som ersätter det beslutet) om skattebefrielse av biogas använd för uppvärmning. Underlaget ska redovisas till Regeringskansliet (Finansdepartementet med kopia till Klimat- och näringslivsdepartementet) senast den 25 mars 2026 och innehålla en utvärdering av om överkompensation förelåg för helåret 2025.",
+   "dates": [
+    "2026-03-25"
+   ],
+   "deadlines": [
+    "2026-03-25"
+   ],
+   "recipients": [
+    "Regeringskansliet (Finansdepartementet med kopia till Klimat- och näringslivsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27455:assignments:7"
+  },
+  {
+   "title": "Undersöka utvidgning av Industriklivet till CCS och CCU utanför industrin",
+   "group": [],
+   "text": "Statens energimyndighet ska analysera lämpligheten av att vidga Industriklivet till att även omfatta CCS och CCU utanför industrin, oavsett kolatomernas ursprung, och vid behov lämna författningsförslag för en sådan utvidgning. För uppdraget får myndigheten använda 3 000 000 kronor från anslag 1:18 Industriklivet ap.3 inom UO20. Uppdraget ska redovisas till Regeringskansliet (Klimat- och näringslivsdepartementet) senast den 1 december 2026.",
+   "dates": [
+    "2026-12-01"
+   ],
+   "deadlines": [
+    "2026-12-01"
+   ],
+   "recipients": [
+    "Regeringskansliet (Klimat- och näringslivsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "föreslå"
+   ],
+   "anslag_refs": [
+    "1:18"
+   ],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27455:assignments:8"
+  },
+  {
+   "title": "Analysera utveckling av Klimatpremien till miljöarbetsmaskiner",
+   "group": [],
+   "text": "Statens energimyndighet ska analysera hur stödet till miljöarbetsmaskiner inom Klimatpremien kan utvecklas för att öka dess attraktivitet, snabba på marknadsintroduktionen av sådana maskiner och därmed minska utsläppen. I uppdraget ingår att undersöka möjligheten att både miljöarbetsmaskiner och tillhörande laddnings- och energiförsörjningslösningar blir stödberättigade i Klimatpremien. Hänsyn ska tas till artikel 28 i Europaparlamentets och rådets förordning (EU) 2024/1735 av den 13 juni 2024 om inrättande av en åtgärdsram för att stärka Europas ekosystem för tillverkning av nettonollteknik och om ändring av förordning (EU) 2018/1724 (förordningen om nettonollindustrin). Såväl leasing som ägande bör omfattas. Myndigheten ska vid behov lämna författningsförslag och ska i uppdraget samråda med Naturvårdsverket, näringslivet och andra relevanta aktörer. Uppdraget ska redovisas till Regeringskansliet (Klimat- och näringslivsdepartementet) senast den 15 juni 2026. För uppdraget får Statens energimyndighet använda högst 1 000 000 kronor av anslaget 1:17 Klimatpremier inom UO20.",
+   "dates": [
+    "2024-06-13",
+    "2026-06-15"
+   ],
+   "deadlines": [
+    "2026-06-15"
+   ],
+   "recipients": [
+    "Regeringskansliet (Klimat- och näringslivsdepartementet)"
+   ],
+   "partners": [
+    "Naturvårdsverket"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "föreslå",
+    "utveckla",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [
+    "1:17"
+   ],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27455:assignments:9"
+  },
+  {
+   "title": "Stärkt motståndskraft mot hybridhot",
+   "group": [],
+   "text": "I syfte att stärka Sveriges samlade motståndskraft mot hybridhot ska Statens energimyndighet under 2026, genom existerande fora för samverkan med myndigheter och näringsliv inom beredskapssektorn energiförsörjning, inventera och göra en sammanställning av de hybridhot som dessa aktörer identifierar. Myndigheten ska verka för att öppen information om hybridhot som är relevanta för sektorn sprids till aktörer inom sektorn energiförsörjning. Aktörerna ska uppmanas att aktivt söka identifiera avvikelser från normalbilden inom den egna verksamheten och informeras om lämpliga rapportvägar som bör användas för att anmäla avvikelser från normalbilden, till exempel till Säkerhetspolisen, Myndigheten för civilt försvar och andra berörda myndigheter. Uppdraget ska redovisas senast den 28 februari 2027 till Regeringskansliet (Klimat- och näringslivsdepartementet).",
+   "dates": [
+    "2027-02-28"
+   ],
+   "deadlines": [
+    "2027-02-28"
+   ],
+   "recipients": [
+    "Regeringskansliet (Klimat- och näringslivsdepartementet)",
+    "Säkerhetspolisen"
+   ],
+   "partners": [
+    "Myndigheten för civilt försvar",
+    "Säkerhetspolisen"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "informera",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27455:assignments:10"
+  },
+  {
+   "title": "Civilt försvar",
+   "group": [],
+   "text": "Statens energimyndighet ska vidta energiberedskapsåtgärder för att stärka samhällets förmåga att motstå allvarliga störningar i energiförsörjningen vid höjd beredskap eller fredstida krissituationer. Åtgärderna ska syfta till att utveckla och stärka det civila försvaret och därmed bidra till en högre samlad förmåga inom totalförsvaret. Åtgärderna ska syfta till att stärka samhällets förmåga att tillhandahålla en trygg energiförsörjning och samhällets förmåga att hantera störningar i energiförsörjningen. Åtgärder som omfattar kostnadsersättning för andra aktörers insatser, antingen genom ekonomiskt stöd eller avtal inklusive försörjningsberedskapsavtal (F-avtal beskrivna i SOU2025:68), ska riktas till aktörer som i yrkesmässig verksamhet producerar, lagrar eller distribuerar energi, och om lämpligt även till företag eller andra organisationer som stödjer dessa aktörer. Åtgärder med påverkan på elförsörjningens aktörer, exempelvis riktade mot kraftvärme, ska samordnas med Affärsverket svenska kraftnät.\n\nMyndigheten ska genomföra informationsinsatser och andra kompetens- eller kunskapshöjande åtgärder rörande tillförsel och användning av energi som myndigheten bedömer kan vara effektiva för att stärka det civila försvaret. Dessa åtgärder kan riktas till hela samhället, men bör särskilt riktas till kommuner, regioner och andra offentliga och privata utövare av samhällsviktig verksamhet inklusive aktörer som i yrkesmässig verksamhet producerar, lagrar eller distribuerar energi. Åtgärderna bör omfatta vägledning kring kontinuitetsplanering och effektiva åtgärder som kan vidtas för att öka uthålligheten i samhällsviktig verksamhet vid omfattande störningar i energiförsörjning.\n\nMyndigheten ska redovisa vilka åtgärder som vidtagits respektive vad som är planerad inriktning för den kommande treårsperioden inom el, gas, flytande drivmedel respektive värme och kyla samt hur åtgärder och resultat förhåller sig till relevanta krisnivåer inom energisektorn och höjd beredskap. Myndigheten ska vidare redovisa hur den arbetat med att inkludera perspektiven försörjningstrygghet och totalförsvar i verksamheten i stort. Uppdraget ska redovisas till Regeringskansliet (Klimat- och näringslivsdepartementet och Försvarsdepartementet) senast den 22 februari 2027. Detta ska ingå i den särskilda redovisningen för civilt försvar.",
+   "dates": [
+    "2027-02-22"
+   ],
+   "deadlines": [
+    "2027-02-22"
+   ],
+   "recipients": [
+    "Regeringskansliet (Klimat- och näringslivsdepartementet och Försvarsdepartementet)"
+   ],
+   "partners": [
+    "Affärsverket svenska kraftnät"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna",
+    "utveckla",
+    "informera",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27455:assignments:11"
+  },
+  {
+   "title": "Marknadskontroll för ökad regelefterlevnad",
+   "group": [],
+   "text": "Statens energimyndighet ska arbeta aktivt och riskbaserat inom marknadskontroll med särskilt fokus på produkter som inte lever upp till EU:s marknadskontrollförordning (EU) 2019/1020, inklusive produkter för privat användning. Myndigheten ska även beskriva hur myndigheten har samarbetat med övriga relevanta marknadskontrollmyndigheter och Tullverket, inklusive bidragit till marknadskontrollinsatser och marknadskontrollaktiviteter på EU-nivå, och vad samarbetet resulterat i gällande operativa insatser avseende e-handel från tredje land. Uppdragets ska redovisas till Regeringskansliet (Utrikesdepartementet) senast den 15 mars 2027.",
+   "dates": [
+    "2027-03-15"
+   ],
+   "deadlines": [
+    "2027-03-15"
+   ],
+   "recipients": [
+    "Regeringskansliet (Utrikesdepartementet)"
+   ],
+   "partners": [
+    "Tullverket"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "tillsyn_kontroll",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27455:assignments:12"
+  },
+  {
+   "title": "Pågående uppdrag",
+   "group": [],
+   "text": "Statens energimyndighets pågående uppdrag redovisas i*bilagan*.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "27455:assignments:13"
+  },
+  {
+   "title": "Prognoser",
+   "group": [],
+   "text": "Statens energimyndighet ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Prognoserna lämnas i informationssystemet Hermes senast den\n\n- 2 februari,\n- 22 april,\n- 24 juli, och\n- 9 november.\n\nI nära anslutning till prognoserna den 24 juli och den 9 november ska Statens energimyndighet i särskild ordning och efter dialog med Regeringskansliet (Klimat- och näringslivsdepartementet) lämna prognoser för den avgiftsbelagda verksamheten.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27455:assignments:14"
+  },
+  {
+   "title": "Prognos för beställningsbemyndiganden",
+   "group": [],
+   "text": "Myndigheten ska redovisa en prognos för de förslag om beställningsbemyndiganden som lämnats i budgetunderlaget och för de åtaganden som ingåtts med stöd av äldre beställningsbemyndiganden. Prognosen ska lämnas senast den 24 juli 2026 via Statsredovisningssystemet i Hermes och utformas enligt närmare information från Statskontoret.",
+   "dates": [
+    "2026-07-24"
+   ],
+   "deadlines": [
+    "2026-07-24"
+   ],
+   "forecast_dates": [],
+   "recipients": [],
+   "partners": [
+    "Statskontoret"
+   ],
+   "channels": [
+    "hermes",
+    "budgetunderlag"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27455:assignments:15"
+  },
+  {
+   "title": "Industriklivet",
+   "group": [],
+   "text": "Statens energimyndighet ska redovisa vilka analyser och åtgärder som har genomförts för att säkerställa att medel inom ramen för Industriklivet har lämnats i enlighet med förordningen (2017:1319) om statligt stöd till åtgärder som bidrar till industrins klimatomställning och till aktörer med god kreditvärdighet.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2017:1319"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27455:assignments:16"
+  },
+  {
+   "title": "Pumpkraft",
+   "group": [],
+   "text": "Statens energimyndighet ska kartlägga och beskriva förutsättningarna för och utmaningarna med att etablera mer pumpkraft i Sverige. Vid behov ska myndigheten ta in synpunkter från berörda kommuner och länsstyrelser, myndigheter och andra aktörer. Underlaget ska redovisas till Regeringskansliet (Klimat- och näringslivsdepartementet) senast den 26 februari 2027.",
+   "dates": [
+    "2027-02-26"
+   ],
+   "deadlines": [
+    "2027-02-26"
+   ],
+   "recipients": [
+    "Regeringskansliet (Klimat- och näringslivsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27455:assignments:17"
+  },
+  {
+   "title": "Ekonomiskt stöd till kommuner med vindkraft",
+   "group": [],
+   "text": "Statens energimyndighet ska betala ut ett ekonomiskt statsbidrag till kommuner med vindkraftverk inom sina kommungränser. Ett bidragsbelopp ska lämnas för varje hel megawatt installerad effekt vindkraft som var driftsatt i en kommun vid utgången av 2025 och som beviljats tillstånd före utgången av 2024. Bidragsbeloppet ska beräknas genom att de medel som avsatts och beräknats för bidraget*incitament till kommunerna för vindkraftsutbyggnad*(prop. 2024/25:1) för åren 2025 och 2026 under anslag 1:5*Ene\\*\\*rgiplanering*(utgiftsområde 21 Energi) divideras med det totala antalet megawatt installerad effekt vindkraft som var driftsatt i landets samtliga kommuner under 2025. Bidraget för 2025 ska betalas ut senast den 30 mars 2026 med medel från anslag 1:5*Energiplanering*och anslagspost 6 Incitament till kommunerna för vindkraftsutbyggnad – till STEM (ram). Bidraget för 2026 ska betalas ut senast den 30 april 2026 med medel från anslag 1:5*Energiplanering*och anslagspost 6 Incitament till kommunerna för vindkraftsutbyggnad – till STEM (ram).",
+   "dates": [
+    "2026-03-30",
+    "2026-04-30"
+   ],
+   "deadlines": [
+    "2026-03-30",
+    "2026-04-30"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "fördela_medel"
+   ],
+   "anslag_refs": [
+    "1:5"
+   ],
+   "expenditure_area_refs": [
+    21
+   ],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27455:assignments:18"
+  },
+  {
+   "title": "Förberedelser för elstöd till hushåll",
+   "group": [],
+   "text": "Energimyndigheten ska, i samarbete med Försäkringskassan, vidta nödvändiga åtgärder för att ett elstöd till hushåll för januari och februari 2026 ska kunna utbetalas från och med den andra halvan av juni 2026.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Försäkringskassan"
+   ],
+   "channels": [],
+   "task_types": [
+    "fördela_medel"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27455:assignments:19"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "1:1",
+   "name": "Statens energimyndighet",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 21,
+    "name": "Energi"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Statens energimyndighet",
+     "amount_tkr": 602028,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Statens energimyndighet: Förvaltningsutgifter (ram)",
+       "amount_tkr": 602028
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Statens energimyndighet: Förvaltningsutgifter",
+     "text": "Anslagsposten finansierar Statens energimyndighets förvaltningsutgifter.\nAnslagsposten får även finansiera utgifter för arvoden till ledamöter i Oljekrisnämnden samt Fjärrvärmenämndens verksamhet utöver de ansökningsavgifter som disponeras enligt 12 § fjärrvärmelagen (2008:263) samt utgifter för eget deltagande i EU:s program.\nStatens energimyndighet ska kunna använda och samverka med det gemensamma radiokommunikationssystemet Rakel. Statens energimyndighet ska betala totalt 95 000 kronor till Myndigheten för civilt försvar som abonnemangsavgift för detta system. Beloppet ska betalas efter fakturering från Myndigheten för civilt försvar."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "1:2",
+   "name": "Insatser för energieffektivisering",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 21,
+    "name": "Energi"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Statens energimyndighet",
+     "amount_tkr": 31000,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Insatser för energieffektivisering (ram)",
+       "amount_tkr": 31000
+      }
+     ],
+     "sum_ok": true
+    },
+    {
+     "by": "Boverket",
+     "amount_tkr": 255000,
+     "items": [
+      {
+       "ap": "3",
+       "name": "Investeringsbidrag för energieffektivisering (ram)",
+       "amount_tkr": 230000
+      },
+      {
+       "ap": "4",
+       "name": "Byggnaders energiprestanda (ram)",
+       "amount_tkr": 25000
+      }
+     ],
+     "sum_ok": true
+    },
+    {
+     "by": "Upphandlingsmyndigheten",
+     "amount_tkr": 1000,
+     "items": [
+      {
+       "ap": "6",
+       "name": "Energikrav i offentlig upphandling (ram)",
+       "amount_tkr": 1000
+      }
+     ],
+     "sum_ok": true
+    },
+    {
+     "by": "Länsstyrelsen i Örebro län",
+     "amount_tkr": 40000,
+     "items": [
+      {
+       "ap": "5",
+       "name": "Insatser energief. - del till Länsstyrelsen i Örebro län (ram)",
+       "amount_tkr": 40000
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Insatser för energieffektivisering",
+     "text": "Anslagsposten får användas för följande.\n- Insatser för energieffektivisering i relation till lagar, förordningar och EU-direktiv, inklusive arbete med att utveckla svenska ståndpunkter för förhandlingar.\n- Provning av energirelaterade produkter och utrustning och därmed sammanhängande verksamheter.\n- Finansiering av EU-projekt och internationellt samarbete inom energieffektiviseringsområdet.\n- Informations-, kompetenshöjande och utbildningsinsatser, program- och nätverksaktiviteter, utredningar, utveckling och tillhandahållande av metoder, verktyg, system och modeller och standardavtal för energieffektivisering, effektiv resursanvändning, energitjänster och användning av förnybar energi med fokus på offentlig sektor, företag, banker och andra finansieringsinstitut samt med koppling till den europeiska koalitionen för finansiering av energieffektivitetsåtgärder.\n- Medel får användas till kapacitets- och kompetenshöjande insatser för energieffektivisering med syfte att minska sårbarheten för relevanta målgrupper, inklusive personer i energifattigdom, exempelvis vid höga energipriser.\n- Högst 10 000 000 kronor får användas för insamling av ny och utveckling av befintlig energistatistik som kan användas i syfte att minska energianvändningen, till exempel genomförandet av mätningar av energi i hushåll och lokaler.\n- Medel får användas för att säkerställa ackreditering hos aktörer som certifierar installatörer och experter av förnybar energi och effektiv energianvändning, samt utbildning, uppdaterade utbildningsmaterial och informationsinsatser som hör till denna certifiering."
+    },
+    {
+     "ap": "3",
+     "name": "Investeringsbidrag för energieffektivisering",
+     "text": "Anslagsposten får användas till ekonomiskt investeringsbidrag för energieffektivisering i småhus. Högst 7 000 000 kronor får användas för Boverkets administrativa kostnader.\nMedel får användas för att hantera ansökningar inkomna till länsstyrelserna senast den 1 juni 2025 i enlighet med förordning (2023:402) om bidrag för energieffektivisering i småhus."
+    },
+    {
+     "ap": "4",
+     "name": "Byggnaders energiprestanda",
+     "text": "Anslagsposten får användas för genomförandearbete och uppföljning avseende Europaparlamentets och rådets direktiv 2010/31/EU av den 19 maj 2010 om byggnaders energiprestanda, inkluderat omarbetningar av detta direktiv.\nAnslagsposten får även användas till genomförandearbete avseende Europaparlamentets och rådets direktiv (EU) 2023/1791 av den 13 september 2023 om energieffektivitet och om ändring av förordning (EU) 2023/955 (omarbetning) i de delar som kopplar till artikel 5 och 6."
+    },
+    {
+     "ap": "5",
+     "name": "Insatser energief. - del till Länsstyrelsen i Örebro län",
+     "text": "Anslagsposten får användas för länsstyrelsernas administrativa kostnader som kopplar till hantering av investeringsbidraget för energieffektivisering. Fördelning av medel mellan länsstyrelserna bestäms av Länsstyrelsen i Örebro län.\nMedel får användas för att hantera ansökningar inkomna till länsstyrelserna senast den 1 juni 2025 i enlighet med förordningen (2023:402) om bidrag för energieffektivisering i småhus."
+    },
+    {
+     "ap": "6",
+     "name": "Energikrav i offentlig upphandling",
+     "text": "Anslagsposten får användas för stöd och metodutveckling kring energikrav vid offentlig upphandling. I tillägg får anslagsposten användas till genomförandearbete avseende Europaparlamentets och rådets direktiv (EU) 2023/1791 av den 13 september 2023 om energieffektivitet och om ändring av förordning (EU) 2023/955 (omarbetning) i de delar som kopplar till upphandling."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "1",
+     "max": 10000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "3",
+     "max": 7000000,
+     "unit": "kronor"
+    }
+   ]
+  },
+  {
+   "code": "1:3",
+   "name": "Energiforskning",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 21,
+    "name": "Energi"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Statens energimyndighet",
+     "amount_tkr": 1527723,
+     "items": [
+      {
+       "ap": "11",
+       "name": "Forskning, utveckling och innovation (ram)",
+       "amount_tkr": 1527723
+      }
+     ],
+     "sum_ok": true
+    },
+    {
+     "by": "Kammarkollegiet",
+     "amount_tkr": 0,
+     "items": [
+      {
+       "ap": "2",
+       "name": "Energiforskn - till Kammarkollegiet (ram)",
+       "amount_tkr": 0
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "2",
+     "name": "Energiforskn - till Kammarkollegiet",
+     "text": "Anslagsposten får användas för att finansiera kostnader för uppföljning och utvärdering av energiforskningsverksamheten. Medlen får disponeras efter beslut av Regeringskansliet, Klimat- och näringslivsdepartementet."
+    },
+    {
+     "ap": "11",
+     "name": "Forskning, utveckling och innovation",
+     "text": "Anslagsposten får användas för forsknings- och innovationsinsatser i enlighet med de övergripande riktlinjer som framgår av propositionen Forskning och innovation på energiområdet för\\\nförsörjningstrygghet, konkurrenskraft och klimatomställning (prop. 2024/25:72).\nAnslaget får användas för myndighetens arbete med forskningsrelaterade uppgifter, utgifter för utrednings-, utvärderings- och samordningsinsatser inom energiområdet, svenskt och internationellt forsknings- och utvecklingssamarbete samt för att uppfylla Sveriges åtaganden inom ramen för ingångna bilaterala energiforskningssamarbeten.\nAnslaget får användas för att lämna statligt stöd i form av bidrag för forsknings-, utvecklings-, demonstrations- och kommersialiseringsinsatser inom energiområdet. Anslaget får även användas för utgifter för bidrag för att främja utvecklingen av teknik som baserar sig på fossilfria energislag och effektiv energianvändning i industriella processer i försöks- eller fullskaleanläggningar. Anslaget får därmed användas såväl till kärnkraft forskning som till forskning om förnybar energi. Statens energimyndighet har ansvar för strategiarbetet och har möjlighet att prioritera insatser kring alla relevanta energislag, inklusive kärnkraft, i den mån detta bedöms rimligt för att bidra till målen.\nFörordningen (2008:761) om statligt stöd till forskning och utveckling samt innovation inom energiområdet gäller för anslagsposten vid beviljande av medel i det fall EU:s regler om statsstöd är tillämpliga.\nFör anslagsposten gäller även förordningen (2003:564) om bidrag till åtgärder för en effektiv och miljöanpassad energiförsörjning i de delar som avser bidrag till investeringar för att främja energi från förnybara energikällor och investeringsstöd för infrastruktur.\nAnslagsposten får användas för programanknutna aktiviteter som planering, uppföljning, utvärdering och systemkostnader.\nAnslagsposten får användas för standardiseringsarbete av relevans för prioriterade forskningsområden.\nAnslagsposten får användas för teknikupphandling för att utveckla, demonstrera och introducera ny energieffektiv teknik på marknaden.\nAnslagsposten får användas för innovationsupphandling för att utveckla, demonstrera och kommersialisera innovativa lösningar på marknaden.\nAnslagsposten får användas för EU-projekt och deltagande i EU:s program samt finansiering av myndighetens arbete med av regeringen ingångna bilaterala samarbetsavtal inom energiområdet och annat internationellt samarbete, förutsatt att verksamheten överensstämmer med övriga villkor för anslaget och energipolitiska mål.\nI fråga om bidrag till dyrbar vetenskaplig utrustning vid institution inom högskola eller universitet ska samråd ske med Vetenskapsrådet.\nBidrag för forskningsprojekt vid universitet och högskolor ska omfatta medel för de direkta och de indirekta kostnaderna i samma proportioner som beräknats för projektet i dess helhet. Avsikten är inte att åstadkomma en generell höjning av statliga myndigheters finansiering av de indirekta kostnaderna, utan att finansieringen ska anpassas till den faktiska situationen i det enskilda fallet.\nAnslagsposten får användas för allmänna energisystem- och klimatstudier.\nBranschorgan och institut kan beviljas programanknutna medel för samordning, resultatspridning och nyttiggörande av projektresultat i samband med genomförande av utvecklingsprogram/branschprogram där Statens energimyndighet är medfinansiär."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "1:5",
+   "name": "Energiplanering",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 21,
+    "name": "Energi"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Statens energimyndighet",
+     "amount_tkr": 1075000,
+     "items": [
+      {
+       "ap": "2",
+       "name": "Energiplanering - till STEM (ram)",
+       "amount_tkr": 110000
+      },
+      {
+       "ap": "4",
+       "name": "EKR - till STEM (ram)",
+       "amount_tkr": 90000
+      },
+      {
+       "ap": "6",
+       "name": "Incitament till kommunerna för vindkraftsutbyggnad - till STEM (ram)",
+       "amount_tkr": 370000
+      },
+      {
+       "ap": "7",
+       "name": "Insatser för kärnkraft - till STEM (ram)",
+       "amount_tkr": 55000
+      },
+      {
+       "ap": "8",
+       "name": "Investeringsstöd leveranssäkerhet i elsystemet - till STEM (ram)",
+       "amount_tkr": 450000
+      }
+     ],
+     "sum_ok": true
+    },
+    {
+     "by": "Länsstyrelsen i Örebro län",
+     "amount_tkr": 90000,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Energiplanering - Regional Energiplanering (ram)",
+       "amount_tkr": 90000
+      }
+     ],
+     "sum_ok": true
+    },
+    {
+     "by": "Energimarknadsinspektionen",
+     "amount_tkr": 20000,
+     "items": [
+      {
+       "ap": "3",
+       "name": "Energiplanering - till Ei (ram)",
+       "amount_tkr": 20000
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Energiplanering - Regional Energiplanering",
+     "text": "Medlen får användas för länsstyrelsernas arbete med att utveckla den regionala energiplaneringen inom uppdraget om att leda och samordna det regionala genomförandet av energi- och klimatpolitiken, i syfte att bidra till stärkt näringslivsutveckling, minskad klimatpåverkan, förbättrad energiberedskap och trygg energiförsörjning. Fördelning av medel mellan länsstyrelserna bestäms av Länsstyrelsen i Örebro län."
+    },
+    {
+     "ap": "2",
+     "name": "Energiplanering - till STEM",
+     "text": "Anslagsposten får användas för myndigheters, länsstyrelsers, regioners och kommuners arbete med energiplanering, grön omställning och ökad försörjningstrygghet. Anslagsposten får användas för att främja nationell energiplanering vilket inkluderar arbete med att utveckla underlag och planeringsförutsättningar för att underlätta investeringar i fossilfri elproduktion, t.ex. kärnkraft, elnät, vätgasprojekt och annan infrastruktur som är nödvändig för elektrifieringen i Sverige, samt den nationella planen för omprövning av vattenkraft. Anslagsposten får även under utvecklingsfasen användas för Statens energimyndighets administrativa utgifter.\nAnslagsposten får användas för insatser som bidrar till effektiva plan- och tillståndsprocesser för etablering av stora volymer planerbar elproduktion, t.ex. kärnkraft, men också underlätta för etablering av annan fossilfri elproduktion, elnät, vätgasprojekt och annan infrastruktur som är nödvändning för elektrifieringen.\nAnslagsposten får användas för Statens energimyndighets administrativa arbete att utifrån sitt ansvarsområde och de energipolitiska målen stödja länsstyrelserna i genomförandet av arbetet med att utveckla den regionala energiplaneringen inom uppdraget om att leda och samordna det regionala genomförandet av energi- och klimatpolitiken.\nAnslagsposten får användas som finansiering av myndighetens arbete för att tydliggöra vattenkraftens nyttor och betydelse för elförsörjningen. Myndigheten får för arbetet använda högst 1 000 000 kronor från anslagsposten.\nHögst 3 000 000 kronor får användas för pilotprojekt för 1–3 accelerationsområden enligt artikel 15c i Europaparlamentets och rådets direktiv (EU) 2018/2001 av den 11 december 2018 om främjande av användningen av energi från förnybara energikällor. Även pilotprojekt som ännu inte har ansökt hos länsstyrelsen om inrättande av ett eller flera accelerationsområden ska kunna beviljas stöd. Medlen ska vara utbetalda senast den 30 september 2026."
+    },
+    {
+     "ap": "3",
+     "name": "Energiplanering - till Ei",
+     "text": "Anslagsposten får användas till Energimarknadsinspektionens, Lantmäteriets och länsstyrelsernas kostnader för särskilda insatser, uppgifter eller andra myndighetsgemensamma utvecklingsarbeten som syftar till kortare ledtider vid prövning av nätkoncession.\nEnergimarknadsinspektionen beslutar om belopp och tidpunkter för när medel kan rekvireras samt hur outnyttjade medel ska betalas tillbaka till anslaget.\nAnslagsposten får användas för Energimarknadsinspektionens administrativa arbete att utifrån sitt ansvarsområde och de energipolitiska målen stödja länsstyrelserna i genomförandet av arbetet med att utveckla den regionala energiplaneringen inom uppdraget om att leda och samordna det regionala genomförandet av energi- och klimatpolitiken.\nAnslaget får användas för att genomföra uppdraget om att redovisa elnätsutbyggnad.\nAnslaget får användas för att genomföra uppdraget Plattform för dialog om elmarknadens regelverk."
+    },
+    {
+     "ap": "4",
+     "name": "EKR - till STEM",
+     "text": "Anslagsposten får användas för åtgärder som genomförs i enlighet med förordningen (2016:385) om bidrag till kommunal energi- och klimatrådgivning samt för kompetensutveckling och organisering av den kommunala energirådgivningen och de regionala energikontorens samordning av den kommunala energirådgivningen. Anslagsposten får också användas för myndighetens administrativa utgifter kopplade till energi- och klimatrådgivningen, exempelvis planering, utveckling av verksamheten (t.ex. digitalisering för arbete med beredskapsfrågor), utvärdering och uppföljning av verksamheten. Anslagsposten får även användas för energi- och klimatrådgivning genom andra kanaler än kommunerna om det bedöms mer ändamålsenligt för att nå olika målgrupper så som personer som påverkas av energifattigdom, t.ex. vid rådgivning på andra språk än svenska."
+    },
+    {
+     "ap": "6",
+     "name": "Incitament till kommunerna för vindkraftsutbyggnad - till STEM",
+     "text": "Anslagsposten får användas till statsbidrag i syfte att öka kommunernas incitament att säga ja till ny vindkraft och kompensera de kommuner som redan låtit vindkraft byggas.\nHögst 340 miljoner kronor får användas till att betala ut ett ekonomiskt statsbidrag för 2025 till kommuner med vindkraftverk inom sina kommungränser.\nHögst 370 miljoner kronor får användas till att betala ut ett ekonomiskt statsbidrag för 2026 till kommuner med vindkraftverk inom sina kommungränser."
+    },
+    {
+     "ap": "7",
+     "name": "Insatser för kärnkraft - till STEM",
+     "text": "Anslagsposten får användas till särskilda insatser för att bidra till regeringens ambition om ny kärnkraft enligt propositionen Energipolitikens långsiktiga inriktning och för att effektivt kunna följa upp den nationella kärnkraftsamordnarens arbete, samt arbetet med att få en finansierings- och riskdelningsmodell för ny kärnkraft på plats.\nFördelning av medel från anslagsposten beslutas av regeringen.\nAnslagsposten får användas som finansiering av Riksgäldskontorets regeringsuppdrag att bistå Regeringskansliet i arbetet med statligt stöd till ny kärnkraft (Fi2025/01935). Riksgäldskontoret får för uppdraget använda högst 3 000 000 kronor från anslagsposten.\nAnslagsposten får användas som finansiering av Affärsverket svenska kraftnät och Energimarknadsinspektionens regeringsuppdrag om arbete med statligt stöd till ny kärnkraft (KN2025/02410 och KN2025/02401)."
+    },
+    {
+     "ap": "8",
+     "name": "Investeringsstöd leveranssäkerhet i elsystemet - till STEM",
+     "text": "Anslagsposten får användas till investeringar som bidrar till planerings- och leveranssäkerhetsmål för elsystemet och därmed ökar\nförsörjningstryggheten på nationell, regional och lokal nivå. Anslaget får användas för ekonomiska bidrag till investeringar som stärker den leveranssäkerheten eller ökar anslutningskapaciteten i elsystemet regionalt eller lokalt (Kraftlyftet).\nHögst 20 000 000 kronor får användas för informationsinsatser, kompetenshöjande utbildningsinsatser och nätverksaktiviteter med syfte att stärka förmågan och minska sårbarheten i de regionala energisystemen för att genomföra satsningen Investeringsstöd för att stärka leveranssäkerheten i elsystemet (Kraftlyftet). Myndigheten får trots det som står i 2 kap. 1 § kapitalförsörjningsförordningen (2011:210) finansiera anläggningstillgångar som används i myndighetens verksamhet med medel från anslaget. Anslagsposten får även användas för myndighetens förvaltningskostnader inom dessa områden.\nHögst 10 000 000 kronor av anslagsposten får under utvecklingsfasen användas för Statens energimyndighets administrativa utgifter."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "2",
+     "max": 1000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "2",
+     "max": 3000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "7",
+     "max": 3000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "8",
+     "max": 20000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "8",
+     "max": 10000000,
+     "unit": "kronor"
+    }
+   ]
+  },
+  {
+   "code": "1:6",
+   "name": "Avgifter till internationella organisationer",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 21,
+    "name": "Energi"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Statens energimyndighet",
+     "amount_tkr": 19328,
+     "items": [
+      {
+       "ap": "2",
+       "name": "Avg. till int. org - del till STEM (ram)",
+       "amount_tkr": 19328
+      }
+     ],
+     "sum_ok": true
+    },
+    {
+     "by": "Kammarkollegiet",
+     "amount_tkr": 14000,
+     "items": [
+      {
+       "ap": "3",
+       "name": "Avg. till int. org - del till Kammarkollegiets disposition (ram)",
+       "amount_tkr": 14000
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "2",
+     "name": "Avg. till int. org - del till STEM",
+     "text": "Anslagsposten finansierar avgifter till internationella organisationer samt utgifter för internationellt samarbete inom energiområdet."
+    },
+    {
+     "ap": "3",
+     "name": "Avg. till int. org - del till Kammarkollegiets disposition",
+     "text": "Anslagsposten finansierar avgifter till internationella organisationer samt utgifter för internationellt samarbete inom energiområdet. Medel för avgifter utbetalas mot verifikat till följande organisationer:\n- Internationella energiforumet (IEF),\n- Internationella byrån för förnybar energi (IRENA),\n- Energistadgefördraget (ECT), och\n- Clean Energy Ministerial (CEM).\nI övrigt får medel användas först efter beslut av regeringen."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "1:8",
+   "name": "Laddinfrastruktur",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 21,
+    "name": "Energi"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Statens energimyndighet",
+     "amount_tkr": 593000,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Laddinfrastruktur - till STEM (ram)",
+       "amount_tkr": 593000
+      }
+     ],
+     "sum_ok": true
+    },
+    {
+     "by": "Trafikverket",
+     "amount_tkr": 7000,
+     "items": [
+      {
+       "ap": "2",
+       "name": "Laddinfrastruktur - till TRV (ram)",
+       "amount_tkr": 7000
+      }
+     ],
+     "sum_ok": true
+    },
+    {
+     "by": "Länsstyrelsen i Örebro län",
+     "amount_tkr": 5000,
+     "items": [
+      {
+       "ap": "3",
+       "name": "Laddinfrastruktur - till Länsstyrelsen i Örebro län (ram)",
+       "amount_tkr": 5000
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Laddinfrastruktur - till STEM",
+     "text": "Anslaget får även användas för stöd till infrastruktur för elektrifiering av tunga transporter med fokus på regionala nätverk och sammanhängande stråk mellan Sveriges större städer. Anslaget får också användas för berörda myndigheters utgifter för arbete kopplat till stödet. Stöd ska fördelas i enlighet med förordningen (2022:107) om statligt stöd till regionala elektrifieringspiloter för tunga transporter."
+    },
+    {
+     "ap": "2",
+     "name": "Laddinfrastruktur - till TRV",
+     "text": "Anslagsposten får användas för utgifter för stöd till publika stationer för snabbladdning av elfordon för ökad tillgänglighet, redundans och kapacitetshöjning längs större vägar. Medel på anslagsposten ska fördelas i enlighet med förordningen (2020:577) om statligt stöd för utbyggnad av publika laddstationer för snabbladdning av elfordon.\nHögst 1 500 000 kronor får användas för Trafikverkets administrativa utgifter kopplade till stödet."
+    },
+    {
+     "ap": "3",
+     "name": "Laddinfrastruktur - till Länsstyrelsen i Örebro län",
+     "text": "Högst 5 000 000 kronor får användas för länsstyrelsernas kostnader. Medlen fördelas mellan länsstyrelserna av Länsstyrelsen i Örebro län."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "2",
+     "max": 1500000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "3",
+     "max": 5000000,
+     "unit": "kronor"
+    }
+   ]
+  },
+  {
+   "code": "1:9",
+   "name": "Biogasstöd",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 21,
+    "name": "Energi"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Statens energimyndighet",
+     "amount_tkr": 1035000,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Biogasstöd (ram)",
+       "amount_tkr": 1035000
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Biogasstöd",
+     "text": "Anslagsposten får användas för stöd för produktion och förädling av biogas."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "1:10",
+   "name": "Energiberedskap",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 21,
+    "name": "Energi"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Statens energimyndighet",
+     "amount_tkr": 333000,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Energiberedskap (ram)",
+       "amount_tkr": 333000
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Energiberedskap",
+     "text": "Anslagsposten får användas för energiberedskapsåtgärder för att stärka samhällets förmåga att motstå allvarliga störningar i energiförsörjningen vid höjd beredskap eller fredstida krissituationer.\nMinst 60 miljoner ska användas för åtgärder som stärker försörjningstryggheten av flytande drivmedel i syfte att bidra till att upprätthålla grundläggande samhällsfunktioner och totalförsvaret.\nMinst 60 miljoner kronor ska användas för åtgärder som stärker försörjningen av värme och kyla i syfte att bidra till att upprätthålla grundläggande samhällsfunktioner och totalförsvaret.\nMinst 60 miljoner kronor ska användas för åtgärder som stärker försörjningen av gas i syfte att bidra till att upprätthålla grundläggande samhällsfunktioner och totalförsvaret.\nAnslagsposten får även användas för ersättning för solidaritetsgas som begärs enligt artikel 13 i Europaparlamentets och rådets förordning (EU) 2017/1938 av den 25 oktober 2017 om åtgärder för att säkerställa försörjningstryggheten för gas och om upphävande av förordning (EU) nr 994/2010. Beslut om stöd och utbetalning av medel får, trots vad som anges i 11 § anslagsförordningen (2011:223), göras i förskott för stödberättigade kostnader under genomförandetiden.\nÅterbetalningsskyldighet ska finnas om investeringar med stödberättigade kostnader inte genomförs. Myndigheten får trots det som står i 2 kap. 1 § kapitalförsörjningsförordningen (2011:210) finansiera anläggningstillgångar som används i myndighetens verksamhet med medel från anslaget.\nAv anslagsposten beräknas 60 miljoner för myndighetens förvaltningskostnader inom dessa områden och för att upprätthålla myndighetens egen samhällsviktiga verksamhet vid fredstida krissituationer och höjd beredskap."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "1:12",
+   "name": "Energistöd",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 21,
+    "name": "Energi"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Statens energimyndighet",
+     "amount_tkr": 180000,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Ekonomisk kompensation till kommuner (ram)",
+       "amount_tkr": 137000
+      },
+      {
+       "ap": "2",
+       "name": "Högkostnadsskydd (ram)",
+       "amount_tkr": 43000
+      }
+     ],
+     "sum_ok": true
+    },
+    {
+     "by": "Försäkringskassan",
+     "amount_tkr": 4372000,
+     "items": [
+      {
+       "ap": "3",
+       "name": "Energistöd - del till Försäkringskassan (ram)",
+       "amount_tkr": 4372000
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Ekonomisk kompensation till kommuner",
+     "text": "Anslagsposten får användas till bidrag för att ersätta kommuner och regioner som inte fick fullt elstöd 2023 för att de klassades som jordbruksfastigheter enligt följande fördelning:\nRegion Halland 17 907 000 kronor,\\\nRegion Jönköping 18 102 000 kronor,\\\nRegion Södermanland 17 619 000 kronor,\\\nRegion Västra Götaland 17 941 000 kronor\\\nRegion Östergötland 17 695 000 kronor,\\\nFalkenberg kommun 16 323 000 kronor,\\\nSala kommun 5 164 000 kronor,\\\nUpplands Väsby kommun 8 064 000 kronor,\\\nÖrebro kommun 17 688 000 kronor."
+    },
+    {
+     "ap": "2",
+     "name": "Högkostnadsskydd",
+     "text": "Anslaget får användas för att lämna stöd till hushåll vid höga el- och gaspriser samt för myndighetens administration för utbetalning av sådant stöd.\nAnslaget får även användas för att lämna stöd till hushåll vid höga el- och gaspriser i enligt med den kommande förordningen om gasprisstöd för januari-februari 2026 samt för myndighetens och gasnätföretagens administration för utbetalning av sådant stöd.\nHögst 2 000 000 kronor får användas för Statens energimyndighets administrativa utgifter kopplade till förberedande arbete och utbetalningar av ett tillfälligt el- och gasstöd."
+    },
+    {
+     "ap": "3",
+     "name": "Energistöd - del till Försäkringskassan",
+     "text": "Anslagsposten får användas för att lämna stöd till hushåll vid höga el- och gaspriser i enlighet med förordning (2026:502) om elstöd till konsumenter för januari-februari 2026 samt för Försäkringskassans administration för utbetalning av sådant elstöd.\nHögst 120 000 000 kronor får användas till Försäkringskassans administrativa kostnader för att hantera stödet."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "2",
+     "max": 2000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "3",
+     "max": 120000000,
+     "unit": "kronor"
+    }
+   ]
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "1:1 Statens energimyndighet",
+   "ap": "ap.1",
+   "Anslagskredit": 18060,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:2 Insatser för energieffektivisering",
+   "ap": "ap.1",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:2 Insatser för energieffektivisering",
+   "ap": "ap.3",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:2 Insatser för energieffektivisering",
+   "ap": "ap.4",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:2 Insatser för energieffektivisering",
+   "ap": "ap.5",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:2 Insatser för energieffektivisering",
+   "ap": "ap.6",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:3 Energiforskning",
+   "ap": "ap.2",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:3 Energiforskning",
+   "ap": "ap.11",
+   "Anslagskredit": 44289,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:5 Energiplanering",
+   "ap": "ap.1",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:5 Energiplanering",
+   "ap": "ap.2",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:5 Energiplanering",
+   "ap": "ap.3",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:5 Energiplanering",
+   "ap": "ap.4",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:5 Energiplanering",
+   "ap": "ap.6",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Allt",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:5 Energiplanering",
+   "ap": "ap.7",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:5 Energiplanering",
+   "ap": "ap.8",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:6 Avgifter till internationella organisationer",
+   "ap": "ap.2",
+   "Anslagskredit": 550,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:6 Avgifter till internationella organisationer",
+   "ap": "ap.3",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:8 Laddinfrastruktur",
+   "ap": "ap.1",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:8 Laddinfrastruktur",
+   "ap": "ap.2",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:8 Laddinfrastruktur",
+   "ap": "ap.3",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:9 Biogasstöd",
+   "ap": "ap.1",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:10 Energiberedskap",
+   "ap": "ap.1",
+   "Anslagskredit": 3000,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:12 Energistöd",
+   "ap": "ap.1",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:12 Energistöd",
+   "ap": "ap.2",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:12 Energistöd",
+   "ap": "ap.3",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 121000,
+  "Räntekontokredit": 18000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 50169
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 50169
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 50169
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 50169
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 50169
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 50169
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 50169
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 50169
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 50169
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 50169
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 50169
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 50169
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:1 Statens energimyndighet",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "18 060",
+     "3 %",
+     "0"
+    ],
+    [
+     "1:2 Insatser för energieffektivisering",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.3",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.4",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.5",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.6",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "1:3 Energiforskning",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.2",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.11",
+     "44 289",
+     "Inget",
+     "0"
+    ],
+    [
+     "1:5 Energiplanering",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.2",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.3",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.4",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.6",
+     "0",
+     "Allt",
+     "0"
+    ],
+    [
+     "ap.7",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.8",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "1:6 Avgifter till internationella organisationer",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.2",
+     "550",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.3",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "1:8 Laddinfrastruktur",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.2",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.3",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "1:9 Biogasstöd",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "1:10 Energiberedskap",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "3 000",
+     "Inget",
+     "0"
+    ],
+    [
+     "1:12 Energistöd",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.2",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.3",
+     "0",
+     "Inget",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Avslutade anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagstyp"
+    ],
+    [
+     "1:3 Energiforskning",
+     ""
+    ],
+    [
+     "ap.1",
+     "ram"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Beställningsbemyndiganden",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Bemyndigande",
+     "Utgifter mot anslag till följd av ekonomiska åtaganden",
+     "",
+     "",
+     ""
+    ],
+    [
+     "2026",
+     "2027",
+     "2028",
+     "2029 -",
+     "Slutår"
+    ],
+    [
+     "1:2 Insatser för energieffektivisering",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.3",
+     "1 000 000",
+     "250 000",
+     "250 000",
+     "500 000",
+     "2030"
+    ],
+    [
+     "1:3 Energiforskning",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.11",
+     "4 100 000",
+     "1 400 000",
+     "1 400 000",
+     "1 300 000",
+     "2031"
+    ],
+    [
+     "1:5 Energiplanering",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.2",
+     "160 000",
+     "80 000",
+     "80 000",
+     "0",
+     "2035"
+    ],
+    [
+     "ap.4",
+     "100 000",
+     "100 000",
+     "0",
+     "0",
+     "2035"
+    ],
+    [
+     "ap.8",
+     "5 000 000",
+     "600 000",
+     "1 200 000",
+     "3 200 000",
+     "2035"
+    ],
+    [
+     "1:8 Laddinfrastruktur",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "2 000 000",
+     "750 000",
+     "500 000",
+     "750 000",
+     "2030"
+    ],
+    [
+     "1:10 Energiberedskap",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "1 050 000",
+     "200 000",
+     "500 000",
+     "350 000",
+     "2029"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "121 000"
+    ],
+    [
+     "Räntekontokredit",
+     "18 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "50 169"
+    ],
+    [
+     "2026-02-25",
+     "50 169"
+    ],
+    [
+     "2026-03-25",
+     "50 169"
+    ],
+    [
+     "2026-04-25",
+     "50 169"
+    ],
+    [
+     "2026-05-25",
+     "50 169"
+    ],
+    [
+     "2026-06-25",
+     "50 169"
+    ],
+    [
+     "2026-07-25",
+     "50 169"
+    ],
+    [
+     "2026-08-25",
+     "50 169"
+    ],
+    [
+     "2026-09-25",
+     "50 169"
+    ],
+    [
+     "2026-10-25",
+     "50 169"
+    ],
+    [
+     "2026-11-25",
+     "50 169"
+    ],
+    [
+     "2026-12-25",
+     "50 169"
+    ],
+    [
+     "Summa",
+     "602 028"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "1:1 ap.1",
+     "Statens energimyndighet: Förvaltningsutgifter"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Offentligrättslig verksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Avgifter enligt förordningen (2011:1480) om elcertifikat1",
+     "-374",
+     "1 776",
+     "4 816",
+     "4 431",
+     "385",
+     "1 787"
+    ],
+    [
+     "Avgifter enligt förordningen (2010:853) om ursprungsgarantier för el1",
+     "7 484",
+     "-5 297",
+     "21 905",
+     "23 119",
+     "-1 214",
+     "973"
+    ],
+    [
+     "Ansökningsavgifter enligt 12 § fjärrvärmelagen (2008:263)2",
+     "0",
+     "0",
+     "100",
+     "1 000",
+     "-900",
+     "-900"
+    ],
+    [
+     "Avgifter enligt förordningen (2020:1180) om vissa utsläpp av växthusgaser1",
+     "-384",
+     "-335",
+     "660",
+     "500",
+     "160",
+     "-559"
+    ],
+    [
+     "Ansökningsavgifter enligt 12 § fjärrvärmelagen (2008:263)3",
+     "0"
+    ],
+    [
+     "Summa",
+     "6 726",
+     "-3 856",
+     "27 481",
+     "29 050",
+     "-1 569",
+     "1 301"
+    ],
+    [
+     "Uppdragsverksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Provningsverksamhet1",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0"
+    ],
+    [
+     "Tjänsteexport1",
+     "191",
+     "-95",
+     "1 155",
+     "1 155",
+     "0",
+     "96"
+    ],
+    [
+     "Summa",
+     "191",
+     "-95",
+     "1 155",
+     "1 155",
+     "0",
+     "96"
+    ]
+   ]
+  },
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna ej disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "Ink. tit.",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Offentligrättslig verksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Försörjningstrygghetsavgift enligt förordningen (2008:1330) om vissa avgifter på naturgasområdet1",
+     "2552",
+     "1 713",
+     "-100",
+     "3 800",
+     "5 000",
+     "-1 200",
+     "413"
+    ],
+    [
+     "Avgifter enligt 6 § i förordningen (2014:349) om vissa kostnads-nyttoanalyser på energiområdet2",
+     "2811",
+     "0",
+     "0",
+     "12",
+     "0",
+     "12",
+     "12"
+    ],
+    [
+     "Tillsynsavgift för tillhandahållande och användning av hållbara flygbränslen (STEMSF2025:4)2",
+     "2552",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0"
+    ],
+    [
+     "Tillsynsavgift för tillhandahållande och användning av hållbara flygbränslen (STEMSF2025:4)1",
+     "2552",
+     "0",
+     "0",
+     "168",
+     "168",
+     "0",
+     "0"
+    ],
+    [
+     "Summa",
+     "1 713",
+     "-100",
+     "3 980",
+     "5 168",
+     "-1 188",
+     "425"
+    ]
+   ]
+  }
+ ],
+ "has_fee_section": true,
+ "exceptions_text": "Statens energimyndighet får använda en förenklad räntekontorutin som innebär att samtliga betalningar initialt går genom SCR och att en justering mellan betalningsvägarna sedan görs månadsvis.\n\nPå regeringens vägnar\n\nEbba Busch\n\nWilly Hallgren\n\n**Kopia till**\n\nStatsrådsberedningen, internrevisionen och FCK\\\nFörsvarsdepartementet, CF och ECH\\\nFinansdepartementet, BA(UO21) och SFÖ\\\nSocialdepartementet, S SF\\\nFörvaltningsavdelningen, RK ekonomi och affärer\\\nRiksdagen/näringsutskottet\\\nAffärsverket svenska kraftnät\\\nElsäkerhetsverket\\\nEnergimarknadsinspektionen\\\nForskningsrådet för miljö, areella näringar och samhällsbyggande\\\nFörsvarsmakten\\\nFörsäkringskassan\\\nKammarkollegiet\\\nKonjunkturinstitutet\\\nLänsstyrelserna\\\nMyndigheten för civilt försvar\\\nMyndigheten för tillväxtpolitiska utvärderingar och analyser\\\nNaturvårdsverket\\\nSveriges Kommuner och Regioner",
+ "summary": {
+  "n_goals": 10,
+  "n_org": 1,
+  "n_assignments": 20,
+  "n_deadlines": 15,
+  "deadlines": [
+   "2026-03-25",
+   "2026-03-30",
+   "2026-04-30",
+   "2026-06-09",
+   "2026-06-15",
+   "2026-07-24",
+   "2026-11-01",
+   "2026-12-01",
+   "2027-01-29",
+   "2027-01-30",
+   "2027-02-22",
+   "2027-02-26",
+   "2027-02-28",
+   "2027-03-15",
+   "2027-09-01"
+  ],
+  "partners": [
+   "Affärsverket svenska kraftnät",
+   "Boverket",
+   "Elsäkerhetsverket",
+   "Energimarknadsinspektionen",
+   "Försäkringskassan",
+   "Kemikalieinspektionen",
+   "Konjunkturinstitutet",
+   "Myndigheten för civilt försvar",
+   "Naturvårdsverket",
+   "Statistiska centralbyrån",
+   "Statskontoret",
+   "Styrelsen för ackreditering och teknisk kontroll",
+   "Sveriges meteorologiska och hydrologiska institut",
+   "Säkerhetspolisen",
+   "Tullverket",
+   "Upphandlingsmyndigheten"
+  ],
+  "n_appropriations": 9,
+  "appropriations_total_tkr": 10200079,
+  "payment_plan_total_tkr": 602028,
+  "md_chars": 55757
+ },
+ "layout": "standard",
+ "warnings": []
+}

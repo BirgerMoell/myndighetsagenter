@@ -1,0 +1,583 @@
+{
+ "schema_version": 1,
+ "id": 26406,
+ "original_rbid": 25832,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-06-11",
+ "year": "2026",
+ "name": "Rymdstyrelsen",
+ "slug": "rymdstyrelsen",
+ "department": "Utbildningsdepartementet",
+ "expenditure_areas": [
+  16
+ ],
+ "registry_numbers": [
+  "U2026/01202 (delvis)"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1",
+   "2025/26:99"
+  ],
+  "bet": [
+   "2025/26:FiU21",
+   "2025/26:UbU1"
+  ],
+  "rskr": [
+   "2025/26:124",
+   "2025/26:349"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "",
+ "goals": [
+  {
+   "title": "Ansökningar om tillstånd för och kontroll av rymdverksamhet",
+   "group": [],
+   "text": "Rymdstyrelsen ska redovisa åtgärder för att säkerställa kvaliteten i samt resultatet av\n\n- beredningen av ansökningar till rymdverksamhet, och\n- kontrollen av rymdverksamhet som bedrivs av den som har tillstånd till sådan verksamhet.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "tillsyn_kontroll"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "beredningen av ansökningar till rymdverksamhet, och",
+    "kontrollen av rymdverksamhet som bedrivs av den som har tillstånd till sådan verksamhet."
+   ],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26406:goals:0"
+  },
+  {
+   "title": "Svenskt deltagande i Horisont Europa",
+   "group": [],
+   "text": "Rymdstyrelsen ska redovisa vilka insatser som vidtagits för att myndigheten ska bidra till de mål som anges i den nationella strategin för svenskt deltagande i Horisont Europa 2021–2027 (U2021/03975).",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26406:goals:1"
+  },
+  {
+   "title": "Informations- och cybersäkerhet",
+   "group": [],
+   "text": "Rymdstyrelsen ska övergripande redogöra för hur myndigheten har förvaltat och utvecklat sitt arbete med informations- och cybersäkerhet inbegripet den egna organisationens beredskap och möjlighet att hantera incidenter samt en beskrivning av åtgärder för att utveckla den interna styrningen och uppföljningen av arbetet. Myndigheten ska även redogöra för huruvida en analys gjorts av hot och sårbarheter för myndigheten samt om åtgärder vidtagits och hur myndigheten arbetar för att minska eventuella identifierade risker med anledning av detta.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "analysera",
+    "utveckla",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26406:goals:2"
+  },
+  {
+   "title": "Beakta Sveriges utrikes-, säkerhets- och försvarspolitiska intressen",
+   "group": [],
+   "text": "Rymdstyrelsen ska övergripande beskriva hur myndigheten i sin verksamhet tillämpar kravet i instruktionen att beakta Sveriges utrikes-, säkerhets- och försvarspolitiska intressen.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26406:goals:3"
+  }
+ ],
+ "org": [],
+ "assignments": [
+  {
+   "title": "Prognoser",
+   "group": [],
+   "text": "Rymdstyrelsen ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Prognoserna lämnas i informationssystemet Hermes senast den\n\n– 2 februari,\n\n– 22 april,\n\n– 24 juli, och\n\n– 9 november.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26406:assignments:0"
+  },
+  {
+   "title": "Prognos för beställningsbemyndiganden",
+   "group": [],
+   "text": "Rymdstyrelsen ska redovisa en prognos för de förslag om beställningsbemyndiganden som lämnats i budgetunderlaget och för de åtaganden som ingåtts med stöd av äldre beställningsbemyndiganden. Prognosen ska lämnas senast den 24 juli 2026 via Statsredovisningssystemet i Hermes och utformas enligt närmare information från Statskontoret.",
+   "dates": [
+    "2026-07-24"
+   ],
+   "deadlines": [
+    "2026-07-24"
+   ],
+   "forecast_dates": [],
+   "recipients": [],
+   "partners": [
+    "Statskontoret"
+   ],
+   "channels": [
+    "hermes",
+    "budgetunderlag"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26406:assignments:1"
+  },
+  {
+   "title": "Tidigare angivna uppdrag i regleringsbrev eller särskilda regeringsbeslut",
+   "group": [],
+   "text": "| | | |\n| --- | --- | --- |\n| Uppdrag | Beslut om uppdraget | Redovisningstidpunkt |\n| Utveckla uppföljning och redovisning | Regleringsbrev för 2024 | Den 15 april 2026 |\n| Nationellt satellitprogram | Regleringsbrev för 2025 | Årligen i årsredovisningen |\n| Nationellt program för rymdteknik med dubbla användningsområden | Regleringsbrev för 2025 | Årligen i årsredovisningen |\n| Nationellt rymddataprogram | Regleringsbrev för 2025 | Årligen i årsredovisningen |\n| Riktlinjer för ansvarsfull internationalisering vid utbildnings-, forsknings- och innovationssamarbeten | U2025/01518 | I årsredovisning för 2026 |\n| Uppdrag att utreda förutsättningarna för en ny organisation för prövningen av tillstånd till rymdverksamhet | Ju2025/02699 | Den 16 mars 2026 |\n\n*För regeringsuppdrag som lämnats i ett särskilt regeringsbeslut utgör tabellen endast en upplysning om vilka uppdrag som vid årets början var riktade till myndigheten och vilka tider som då gällde för återrapportering eller liknande.*",
+   "dates": [
+    "2026-03-16",
+    "2026-04-15"
+   ],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "årsredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26406:assignments:2"
+  },
+  {
+   "title": "Tillstånd och kontroll av rymdverksamhet",
+   "group": [],
+   "text": "Rymdstyrelsen har i redovisning av uppdrag (Ju2025/02699) lämnat förslag om ny organisation för prövningen av tillstånd till rymdverksamhet. Regeringen har i propositionen Vårändringsbudget för 2026 (prop. 2025/26:99) angett att Rymdstyrelsen bör ges förutsättningar att snarast påbörja arbetet med att inrätta den nya organisationen. Syftet är att säkerställa ett effektivt och rättssäkert system för prövning av tillstånd för rymdverksamhet bl.a. för att säkerställa att svensk rymdverksamhet bedrivs på säkert sätt. I fråga om flygsäkerhet ska standarden FAA part 450 nyttjas. Rymdstyrelsen ska som del av förberedelsearbetet inhämta kunskap och erfarenheter om tillstånds- och tillsynsverksamhet från relevanta myndigheter och externa aktörer som till exempel amerikanska Federal Aviation Administration (FAA) och norska Luftfartstilsynet (LT).",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla",
+    "tillsyn_kontroll"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26406:assignments:3"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "3:4",
+   "name": "Rymdforskning och rymdverksamhet",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 16,
+    "name": "Utbildning och universitetsforskning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Rymdstyrelsen",
+     "amount_tkr": 1384056,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Rymdforskning - del till RS (ram)",
+       "amount_tkr": 1384056
+      }
+     ],
+     "sum_ok": true
+    },
+    {
+     "by": "Kammarkollegiet",
+     "amount_tkr": 60000,
+     "items": [
+      {
+       "ap": "2",
+       "name": "Rymdforskning - del till KamK (ram)",
+       "amount_tkr": 60000
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Rymdforskning - del till RS",
+     "text": "**1. Forskningsmedel till nationell verksamhet får utbetalas med högst en tolftedel av anslaget före utgången av varje månad enligt beslut som fattats av Rymdstyrelsen.**\n**2. Anslagsposten får användas till att finansiera stöd för forskning och utveckling inklusive industriutvecklingsprojekt och fjärranalys inom nationella och internationella samarbeten samt annan verksamhet med anknytning till forskning och utveckling, t.ex. information, utvärderingar, konferenser och resebidrag. Anslagsposten får även användas för statligt stöd till företag i enlighet med bestämmelserna i förordningen (2020:1015) om statligt stöd till forskning och utveckling inom rymdområdet.**\n**3. Vidare får anslagsposten användas för att finansiera utgifter för statsbidrag för verksamhet vid Esrange samt till utgifter för ersättning till vissa samebyar och till Samefonden med anledning av verksamheten vid Esrange. Rymdstyrelsen ska med anledning av verksamheten på Esrange betala ut ersättning för möjlig skada och olägenhet med 22 200 kronor vardera till samebyarna Könkämä, Lainiovuoma och Saarivuoma, 206 000 kronor till samebyn Talma samt 53 400 kronor till Samefonden.**\n**4. Av anslagsposten ska minst 70 000 000 kronor finansiera uppdragen inom rymdforskning och rymdteknik och minst 10 000 000 kronor ska finansiera en nationell forskarskola inom rymdområdet i enlighet med vad som presenteras i propositionen Forskning och innovation för framtid, nyfikenhet och nytta (prop. 2024/25:60).**\n**5. Användandet av anslagsposten ska ske med hänsynstagande till Sveriges utrikes-, säkerhets- och försvarspolitiska intressen i enlighet med Sveriges nationella rymdstrategi som presenteras i regeringens skrivelse ”En strategi för svensk rymdverksamhet (Skr. 2017/18:259)”.**"
+    },
+    {
+     "ap": "2",
+     "name": "Rymdforskning - del till KamK",
+     "text": "Anslaget ska användas för statsbidrag till Svenska rymdaktiebolaget för att finansiera bolagets samhällsuppdrag. Medlen ska utbetalas engångsvis utan rekvisition till Svenska rymdaktiebolaget senast i mars 2026."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "3:5",
+   "name": "Rymdstyrelsen: Förvaltning",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 16,
+    "name": "Utbildning och universitetsforskning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Rymdstyrelsen",
+     "amount_tkr": 69379,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Rymdstyr.: Förvaltn - del till RS (ram)",
+       "amount_tkr": 69379
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Rymdstyr.: Förvaltn - del till RS",
+     "text": "Anslagsposten får användas för Rymdstyrelsens förvaltningsutgifter."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "3:4 Rymdforskning och rymdverksamhet",
+   "ap": "ap.1",
+   "Anslagskredit": 70867,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "3:4 Rymdforskning och rymdverksamhet",
+   "ap": "ap.2",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "3:5 Rymdstyrelsen: Förvaltning",
+   "ap": "ap.1",
+   "Anslagskredit": 1661,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 1500,
+  "Räntekontokredit": 1000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 4615
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 4615
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 4615
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 4615
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 4615
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 4615
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 6948
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 6948
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 6948
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 6948
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 6948
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 6949
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "3:4 Rymdforskning och rymdverksamhet",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "70 867",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.2",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "3:5 Rymdstyrelsen: Förvaltning",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "1 661",
+     "3 %",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Beställningsbemyndiganden",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Bemyndigande",
+     "Utgifter mot anslag till följd av ekonomiska åtaganden",
+     "",
+     "",
+     ""
+    ],
+    [
+     "2026",
+     "2027",
+     "2028",
+     "2029 -",
+     "Slutår"
+    ],
+    [
+     "3:4 Rymdforskning och rymdverksamhet",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "6 000 000",
+     "1 465 000",
+     "1 545 000",
+     "2 990 000",
+     "2043"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "1 500"
+    ],
+    [
+     "Räntekontokredit",
+     "1 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "4 615"
+    ],
+    [
+     "2026-02-25",
+     "4 615"
+    ],
+    [
+     "2026-03-25",
+     "4 615"
+    ],
+    [
+     "2026-04-25",
+     "4 615"
+    ],
+    [
+     "2026-05-25",
+     "4 615"
+    ],
+    [
+     "2026-06-25",
+     "4 615"
+    ],
+    [
+     "2026-07-25",
+     "6 948"
+    ],
+    [
+     "2026-08-25",
+     "6 948"
+    ],
+    [
+     "2026-09-25",
+     "6 948"
+    ],
+    [
+     "2026-10-25",
+     "6 948"
+    ],
+    [
+     "2026-11-25",
+     "6 948"
+    ],
+    [
+     "2026-12-25",
+     "6 949"
+    ],
+    [
+     "Summa",
+     "69 379"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "3:5 ap.1",
+     "Rymdstyr.: Förvaltn - del till RS"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [],
+ "has_fee_section": true,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 4,
+  "n_org": 0,
+  "n_assignments": 4,
+  "n_deadlines": 1,
+  "deadlines": [
+   "2026-07-24"
+  ],
+  "partners": [
+   "Statskontoret"
+  ],
+  "n_appropriations": 2,
+  "appropriations_total_tkr": 1513435,
+  "payment_plan_total_tkr": 69379,
+  "md_chars": 10472
+ },
+ "layout": "standard",
+ "warnings": []
+}

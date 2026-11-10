@@ -1,0 +1,916 @@
+{
+ "schema_version": 1,
+ "id": 26402,
+ "original_rbid": 25829,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-06-11",
+ "year": "2026",
+ "name": "Uppsala universitet",
+ "slug": "uppsala-universitet",
+ "department": "Utbildningsdepartementet",
+ "expenditure_areas": [
+  16
+ ],
+ "registry_numbers": [
+  "U2026/01202 (delvis)"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1",
+   "2025/26:99"
+  ],
+  "bet": [
+   "2025/26:FiU21",
+   "2025/26:UbU1"
+  ],
+  "rskr": [
+   "2025/26:124",
+   "2025/26:349"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "Gemensamma bestämmelser för universitet och högskolor finns i regleringsbrev för budgetåret 2026 avseende universitet och högskolor.",
+ "goals": [
+  {
+   "title": "Särskilda åtaganden",
+   "group": [],
+   "text": "**1. Uppsala universitet ska anordna viss internationell fortbildning för lärare och viss fortbildning för modersmålslärare för elever med annat modersmål än svenska. Vidare ska universitetet svara för Sveriges deltagande i Europarådets språkprojekt och fortbildningsprogram för lärare. Av årsredovisningen ska framgå antalet deltagare i respektive utbildning och en sammanfattande beskrivning av hur uppdraget har genomförts.**\n\n**2. Uppsala universitet ska varje läsår erbjuda utbildning i albanska, assyriologi, bosniska, egyptologi, estetik, estniska, finska, hindi, kroatiska, kurdiska, persiska, seismologi, serbiska och turkiska. Universitetet har rätt att avräkna helårsstudenter och helårsprestationer inom utbildningsområde Övrigt för dessa ämnen. Av årsredovisningen ska framgå antalet erbjudna platser, antalet sökande samt antalet helårsstudenter och helårsprestationer inom respektive utbildning.**\n\n**3. Uppsala universitet ska bedriva forskning med anknytning till den kliniska verksamheten inom området mäns våld mot kvinnor. Arbetet ska utgå från regeringens jämställdhetspolitiska delmål 6 och 7. (prop. 2025/26:1 utg.omr. 13 avsnitt 5.5). Universitetet ska samverka med Akademiska sjukhuset i Uppsala i frågor som rör den kliniska verksamheten inom området. I detta ingår att stödja driften av nationella stödtelefoner med chattfunktioner som riktar sig till kvinnor, män, icke-binära, personer med transerfarenhet, personer som har utsatts för hedersrelaterat våld och förtryck samt berörda yrkesverksamma.**",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "årsredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26402:goals:0"
+  },
+  {
+   "title": "Rekryteringsmål för professorer",
+   "group": [
+    "Mål"
+   ],
+   "text": "Under 2025–2028 har lärosätet ett mål för könsfördelningen bland nyrekryterade professorer om 50 procent kvinnor.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26402:goals:1"
+  },
+  {
+   "title": "Mål för antal examina",
+   "group": [
+    "Mål"
+   ],
+   "text": "Under 2025–2028 har lärosätet mål om antal utfärdade examina från vissa utbildningar inom nedan angivna områden. Målen och de examina som omfattas av dessa anges i tabellen nedan. Lärosätet ska i årsredovisningen redovisa antalet utfärdade examina inom respektive område de senaste tre åren för de yrkesexamina som anges i tabellen samt vilka åtgärder som har vidtagits för att uppnå målen.\n\n| | |\n| --- | --- |\n| **Område (examina som omfattas av målet inom parentes)** | **Mål för antal utfärdade examina under 2025–2028** |\n| Lärar- och förskollärarutbildningar (förskollärarexamina, grundlärarexamina, speciallärarexamina och ämneslärarexamina) | 1 785 |\n| Hälso- och sjukvårdsutbildningar (barnmorskeexamina, biomedicinsk analytikerexamina, fysioterapeutexamina, sjuksköterskeexamina och specialistsjuksköterskeexamina) | 2 060 |",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "årsredovisning"
+   ],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26402:goals:2"
+  },
+  {
+   "title": "Mål för andel biträdande lektorer",
+   "group": [
+    "Mål"
+   ],
+   "text": "Under 2025–2028 har Uppsala universitet ett mål att 4 procent av samtlig forskande och undervisande personal (heltidsekvivalenter) ska vara biträdande lektorer.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26402:goals:3"
+  }
+ ],
+ "org": [
+  {
+   "title": "Verksamhet på Gotland",
+   "group": [],
+   "text": "Uppsala universitet ska bedriva verksamhet på Gotland. Verksamheten på Gotland ska erbjuda en vetenskaplig miljö för fullvärdig utbildning och forskning. Universitetet ska redovisa verksamheten på Gotland i årsredovisningen.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "årsredovisning"
+   ],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "org",
+   "item_id": "26402:org:0"
+  }
+ ],
+ "assignments": [
+  {
+   "title": "Pågående uppdrag",
+   "group": [],
+   "text": "**1. Uppsala universitet ska fortsatt förvalta och vidareutveckla den webbaserade introduktionen i mänskliga rättigheter. Universitetet ska genomföra verksamhetsanpassade och praktiskt inriktade utbildningsinsatser om de mänskliga rättigheterna för personal i ett urval av statliga myndigheter i enlighet med tidigare beslut (Ku2017/00254, Ku2017/00961) och berörd personal i kommuner och regioner i enlighet med underlag från Uppsala universitet (A2020/02305). I uppdraget ingår utbildningsinsatser om barnets rättigheter. Uppdraget (inklusive vilka åtgärder som vidtagits för att fler mottagare kan nås av utbildningsinsatserna) och användningen av medel ska redovisas till Regeringskansliet (Arbetsmarknadsdepartementet och Socialdepartementet) senast den 2 mars 2027.**",
+   "dates": [
+    "2027-03-02"
+   ],
+   "deadlines": [
+    "2027-03-02"
+   ],
+   "recipients": [
+    "Regeringskansliet (Arbetsmarknadsdepartementet och Socialdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "26402:assignments:0"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "2:3",
+   "name": "Uppsala universitet: Utbildning på grundnivå och avancerad nivå",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 16,
+    "name": "Utbildning och universitetsforskning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Uppsala universitet",
+     "amount_tkr": 2207888,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Takbelopp (ram)",
+       "amount_tkr": 2207888
+      },
+      {
+       "ap": "1.1",
+       "name": "Takbelopp (ram)",
+       "amount_tkr": 2207888
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1.1",
+     "name": "Takbelopp",
+     "text": "Anslagsposten får användas för högskoleutbildning på grundnivå och avancerad nivå samt behörighetsgivande och högskoleintroducerande utbildning.\nAnvisningar för avräkning av helårsstudenter och helårsprestationer finns i bilaga till regleringsbrev avseende universitet och högskolor."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "2:4",
+   "name": "Uppsala universitet: Forskning och utbildning på forskarnivå",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 16,
+    "name": "Utbildning och universitetsforskning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Uppsala universitet",
+     "amount_tkr": 2619766,
+     "items": [
+      {
+       "ap": "6",
+       "name": "Basresurs (ram)",
+       "amount_tkr": 2619766
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "6",
+     "name": "Basresurs",
+     "text": "Anslagsposten får användas för forskning och utbildning på forskarnivå.\nI anslagsposten ingår medel för ett nätverk i Europaforskning i statsvetenskap och för en årsbok om Europaforskning.\nI anslagsposten ingår medel för strategiska forskningsområden enligt tabellen nedan.\nMedlen för det strategiska forskningsområdet molekylär biovetenskap ska användas för verksamheten vid Nationellt centrum för livsvetenskaplig forskning (SciLifeLab).\nAv anslagsposten ingår 28 022 000 kronor för en förstärkning av forsknings- och utbildningsmiljöerna inom elektrifiering och batteriteknik.\n**Bemyndiganden**\nUppsala universitet bemyndigas med anledning av medlemskap i kunskaps- och innovationsplattformen inom kultur och kreativa näringar under Europeiska institutet för innovation och teknik (EIT Culture and Creativity) att besluta om en årlig medlemsavgift på högst 300 000 kronor under 2024–2026 (i enlighet med beslut om budgetpropositionen för 2024).\nUppsala universitet bemyndigas med anledning av medlemskapet i en kunskaps- och innovationsplattform inom råvaror under Europeiska institutet för innovation och teknik (EIT Raw Materials) att besluta om en årlig medlemsavgift på högst 380 000 kronor under 2026–2028 (i enlighet med beslut om budgetpropositionen för 2026).\nUppsala universitet bemyndigas med anledning av medlemskapet i Centre Européen de Calcul Atomique et Moléculaire (CECAM) att besluta om en årlig medlemsavgift på högst 380 000 kronor under 2026–2028 (i enlighet med beslut om budgetpropositionen för 2026)."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "6",
+     "max": 300000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "6",
+     "max": 380000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "6",
+     "max": 380000,
+     "unit": "kronor"
+    }
+   ]
+  },
+  {
+   "code": "2:65",
+   "name": "Särskilda medel till universitet och högskolor",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 16,
+    "name": "Utbildning och universitetsforskning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Uppsala universitet",
+     "amount_tkr": 68531,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Nationellt resurscentrum i biologi och bioteknik (ram)",
+       "amount_tkr": 2239
+      },
+      {
+       "ap": "2",
+       "name": "Internationell lärarfortbildning (ram)",
+       "amount_tkr": 10458
+      },
+      {
+       "ap": "3",
+       "name": "Sekretariat för Östersjöuniversitetet (ram)",
+       "amount_tkr": 2863
+      },
+      {
+       "ap": "44",
+       "name": "Holdingbolag (ram)",
+       "amount_tkr": 5490
+      },
+      {
+       "ap": "49",
+       "name": "Nationellt centrum för kvinnofrid (ram)",
+       "amount_tkr": 27845
+      },
+      {
+       "ap": "65",
+       "name": "Korta kurser (ram)",
+       "amount_tkr": 7673
+      },
+      {
+       "ap": "99",
+       "name": "Medel för studenthälsa (ram)",
+       "amount_tkr": 4263
+      },
+      {
+       "ap": "124",
+       "name": "Kognitionsvetenskap (ram)",
+       "amount_tkr": 1000
+      },
+      {
+       "ap": "147",
+       "name": "Genomströmning civilingenjörsutbildningen (ram)",
+       "amount_tkr": 2300
+      },
+      {
+       "ap": "148",
+       "name": "Praktiknära forskarskola vård (ram)",
+       "amount_tkr": 4400
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Nationellt resurscentrum i biologi och bioteknik",
+     "text": "Anslagsposten får användas för verksamhet vid Nationellt resurscentrum i biologi och bioteknik. Linköpings universitet ska svara för en samordning av de verksamheter som bedrivs vid de nationella resurscentrumen i biologi, fysik respektive kemi vid Uppsala universitet, Lunds universitet respektive Stockholms universitet samt vid det egna resurscentrumet i teknik (U2014/01602 m.fl.). Uppsala universitet ska samarbeta med Linköpings universitet i samordningen av verksamheterna."
+    },
+    {
+     "ap": "2",
+     "name": "Internationell lärarfortbildning",
+     "text": "Anslagsposten får användas för internationell lärarfortbildning."
+    },
+    {
+     "ap": "3",
+     "name": "Sekretariat för Östersjöuniversitetet",
+     "text": "Anslagsposten får användas för sekretariatet för Östersjöuniversitetet."
+    },
+    {
+     "ap": "44",
+     "name": "Holdingbolag",
+     "text": "Anslagsposten får användas för idébanksmedel och kapitaltillskott till holdingbolag vid lärosätet för finansiering av verksamhet som syftar till att främja kommersialisering av forskningsresultat och innovationer.\nUppsala universitet bemyndigas att under 2026 utbetala ett kapitaltillskott på högst 1 000 000 kronor till holdingbolaget som är knutet till lärosätet. Kapitaltillskottet ska finansiera kostnader för verksamhet som bedrivs i form av en idébank och får lämnas i enlighet med förordningen (2022:1390) om statligt stöd för idébanker inom holdingbolag vid universitet och högskolor.\nUppsala universitet bemyndigas att under 2026 utbetala ett kapitaltillskott på högst 4 490 000 kronor till holdingbolaget som är knutet till lärosätet. Kapitaltillskottet ska finansiera kostnader för verksamhet som syftar till att främja kommersialisering av forskningsresultat och innovationer och får lämnas i enlighet med förordningen (2025:727) om statligt stöd för innovationsverksamhet inom holdingbolag vid universitet och högskolor."
+    },
+    {
+     "ap": "49",
+     "name": "Nationellt centrum för kvinnofrid",
+     "text": "Anslagsposten får användas för Nationellt centrum för kvinnofrid."
+    },
+    {
+     "ap": "65",
+     "name": "Korta kurser",
+     "text": "Anslagsposten får användas för att utveckla korta kurser för yrkesverksamma med inriktning mot grön omställning, batterier och teknik. Av anslagsposten avser 4 500 000 kronor medel för att utveckla korta kurser med inriktning mot kärnkraftsteknik. Arbetet ska redovisas i årsredovisningen."
+    },
+    {
+     "ap": "99",
+     "name": "Medel för studenthälsa",
+     "text": "Anslagsposten får användas för att stärka studenthälsan och bl.a. möjliggöra mer preventivt arbete för att minska studenternas psykiska och fysiska ohälsa samt stärka stödet för studieovana studenter. Av medlen avser 1 910 000 kronor arbete med att särskilt främja psykisk hälsa bland studenter."
+    },
+    {
+     "ap": "124",
+     "name": "Kognitionsvetenskap",
+     "text": "Anslagsposten får användas för att förbereda och anordna kompetensutvecklingsinsatser för lärare vid det egna eller andra lärosäten som ska undervisa i kognitionsvetenskap på lärarutbildningarna. Kompetensutvecklingen ska anordnas med flexibla undervisningsformer och möjliggöra deltagande för många lärare inom lärarutbildningarna. Insatserna ska vara inriktade mot olika årskurser, ämnen och ämnesområden och bygga vidare på Skolverkets fortbildningssatsning på högskolekurser inom kognitionsvetenskap och de delar av kognitionsvetenskap som är relevanta för lärarutbildningen, särskilt internationellt etablerad science of learning.\nUniversitetet ska i sin årsredovisning redogöra för vilka kurser eller förberedelser som har genomförts , hur många som har deltagit eller omfattats av planeringen och vid vilka lärosäten deltagarna är verksamma samt hur insatserna har stärkt lärarutbildarnas förmåga att undervisa i kognitionsvetenskap (science of learning). Redovisningen ska även kunna användas som underlag i UKÄ:s utvärdering av lärosätenas arbete med kognitionsvetenskap (U2025/02425)."
+    },
+    {
+     "ap": "147",
+     "name": "Genomströmning civilingenjörsutbildningen",
+     "text": "Anslagsposten får användas för arbete för att öka genomströmningen i civilingenjörsutbildningen.\nUppsala universitet ska tillsammans med Linköpings universitet och Blekinge tekniska högskola ta fram förslag på arbetssätt och förslag till åtgärder för att motivera studenter att avsluta sina studier och ta ut examen. Arbetet ska särskilt inriktas på studenter som befinner sig nära examen men som av olika skäl inte fullföljer utbildningen. I uppdraget ingår att redovisa de identifierade åtgärderna samt en bedömning av deras genomförbarhet, resursbehov och förväntade effekter.\nArbetet ska redovisas gemensamt till Regeringskansliet (Utbildningsdepartementet) senast den 26 mars 2027."
+    },
+    {
+     "ap": "148",
+     "name": "Praktiknära forskarskola vård",
+     "text": "Anslagsposten får användas för praktiknära forskarskola.\nUppsala universitet ska samordna en praktiknära forskarskola för sjuksköterskor och specialistsjuksköterskor tillsamman med Karolinska institutet, Marie Cederschiöld högskola AB, Stiftelsen Röda Korsets Högskola och Sophiahemmet, Ideell förening. Syftet med forskarskolan är att höja kvaliteten och forskningsanknytningen i utbildningarna genom fler disputerade lärare liksom fler mer kvalificerade handledare inom den verksamhetsförlagda utbildningen (VFU). Universitetet ska redovisa arbetet med forskarskolan i årsredovisningen. Av redovisningen ska framgå inriktning på forskarskolan, hur många doktorander som har antagits och deltagit och samarbete med t.ex. regioner, kommuner och privata vårdgivare. Av redovisningen ska det även framgå inriktning för planerat arbete under kommande år och hur universitetet i arbetet med forskarskolan samverkat med arbetet för att stärka samordningen av VFU-platser."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "44",
+     "max": 1000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "44",
+     "max": 4490000,
+     "unit": "kronor"
+    }
+   ]
+  },
+  {
+   "code": "2:66",
+   "name": "Ersättningar för klinisk utbildning och forskning",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 16,
+    "name": "Utbildning och universitetsforskning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Uppsala universitet",
+     "amount_tkr": 355544,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Uppsala universitet (ram)",
+       "amount_tkr": 354438
+      },
+      {
+       "ap": "15",
+       "name": "Utvecklingsmedel (ram)",
+       "amount_tkr": 1106
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Uppsala universitet",
+     "text": "Anslagsposten får användas för kostnader när det gäller regionens medverkan i utbildning av läkare (ALF-ersättning) i enlighet med det avtal som i september 2014 tecknats mellan staten och vissa landsting om samarbete om utbildning av läkare, klinisk forskning och utveckling av hälso- och sjukvården (ALF-avtalet).\nUppsala universitet ersätts för högst 1 091 helårsstudenter inom läkarutbildningen vilket är det minsta antal helårsstudenter som staten förväntar sig att regionen ska ta emot för den verksamhetsintegrerade utbildningen av läkare.\nUppsala universitet ska i årsredovisningen lämna uppgifter om hur ALF-ersättningen har fördelats under året när det gäller lokalkostnader, lönekostnader och övriga kostnader. I årsredovisningen ska universitetet redovisa det totala antalet helårsstudenter på läkarutbildningen."
+    },
+    {
+     "ap": "15",
+     "name": "Utvecklingsmedel",
+     "text": "Anslagsposten får användas för utvecklingsmedel.\nAv årsredovisningen ska framgå på vilket sätt Uppsala universitet har använt medlen för att utveckla klinisk utbildning och forskning."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "2:3 Uppsala universitet: Utbildning på grundnivå och avancerad nivå",
+   "ap": "ap.1.1",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "10 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:4 Uppsala universitet: Forskning och utbildning på forskarnivå",
+   "ap": "ap.6",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Allt",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.1",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.2",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.3",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.44",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.49",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.65",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.99",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.124",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.147",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.148",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:66 Ersättningar för klinisk utbildning och forskning",
+   "ap": "ap.1",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:66 Ersättningar för klinisk utbildning och forskning",
+   "ap": "ap.15",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 700000,
+  "Räntekontokredit": 232000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 437087
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 437087
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 437087
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 437087
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 437087
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 437087
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 438203
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 438203
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 438203
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 438203
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 438203
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 438192
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "2:3 Uppsala universitet: Utbildning på grundnivå och avancerad nivå",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1.1",
+     "0",
+     "10 %",
+     "0"
+    ],
+    [
+     "2:4 Uppsala universitet: Forskning och utbildning på forskarnivå",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.6",
+     "0",
+     "Allt",
+     "0"
+    ],
+    [
+     "2:65 Särskilda medel till universitet och högskolor",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "0",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.2",
+     "0",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.3",
+     "0",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.44",
+     "0",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.49",
+     "0",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.65",
+     "0",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.99",
+     "0",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.124",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.147",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.148",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "2:66 Ersättningar för klinisk utbildning och forskning",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "0",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.15",
+     "0",
+     "3 %",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Omfördelning av anslagssparande",
+   "rows": [
+    [
+     "Omfördelning från anslag/ap1",
+     "Omfördelning till anslag/ap2",
+     "Belopp (tkr)",
+     "Belopp andel (%)"
+    ],
+    [
+     "2:3 Uppsala universitet: Utbildning på grundnivå och avancerad nivå",
+     "",
+     "",
+     ""
+    ],
+    [
+     "2:3 ap.1.2",
+     "2:3 ap.1.1",
+     "100 %"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Avslutade anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagstyp"
+    ],
+    [
+     "2:3 Uppsala universitet: Utbildning på grundnivå och avancerad nivå",
+     ""
+    ],
+    [
+     "ap.1.2",
+     "ram"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "700 000"
+    ],
+    [
+     "Räntekontokredit",
+     "232 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "437 087"
+    ],
+    [
+     "2026-02-25",
+     "437 087"
+    ],
+    [
+     "2026-03-25",
+     "437 087"
+    ],
+    [
+     "2026-04-25",
+     "437 087"
+    ],
+    [
+     "2026-05-25",
+     "437 087"
+    ],
+    [
+     "2026-06-25",
+     "437 087"
+    ],
+    [
+     "2026-07-25",
+     "438 203"
+    ],
+    [
+     "2026-08-25",
+     "438 203"
+    ],
+    [
+     "2026-09-25",
+     "438 203"
+    ],
+    [
+     "2026-10-25",
+     "438 203"
+    ],
+    [
+     "2026-11-25",
+     "438 203"
+    ],
+    [
+     "2026-12-25",
+     "438 192"
+    ],
+    [
+     "Summa",
+     "5 251 729"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "2:3 ap.1.1",
+     "Takbelopp"
+    ],
+    [
+     "2:4 ap.6",
+     "Basresurs"
+    ],
+    [
+     "2:65 ap.1",
+     "Nationellt resurscentrum i biologi och bioteknik"
+    ],
+    [
+     "2:65 ap.2",
+     "Internationell lärarfortbildning"
+    ],
+    [
+     "2:65 ap.3",
+     "Sekretariat för Östersjöuniversitetet"
+    ],
+    [
+     "2:65 ap.44",
+     "Holdingbolag"
+    ],
+    [
+     "2:65 ap.49",
+     "Nationellt centrum för kvinnofrid"
+    ],
+    [
+     "2:65 ap.65",
+     "Korta kurser"
+    ],
+    [
+     "2:65 ap.99",
+     "Medel för studenthälsa"
+    ],
+    [
+     "2:65 ap.124",
+     "Kognitionsvetenskap"
+    ],
+    [
+     "2:65 ap.147",
+     "Genomströmning civilingenjörsutbildningen"
+    ],
+    [
+     "2:65 ap.148",
+     "Praktiknära forskarskola vård"
+    ],
+    [
+     "2:66 ap.1",
+     "Uppsala universitet"
+    ],
+    [
+     "2:66 ap.15",
+     "Utvecklingsmedel"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [],
+ "has_fee_section": false,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 4,
+  "n_org": 1,
+  "n_assignments": 1,
+  "n_deadlines": 1,
+  "deadlines": [
+   "2027-03-02"
+  ],
+  "partners": [],
+  "n_appropriations": 4,
+  "appropriations_total_tkr": 5251729,
+  "payment_plan_total_tkr": 5251729,
+  "md_chars": 19065
+ },
+ "layout": "standard",
+ "warnings": []
+}

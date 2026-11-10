@@ -1,0 +1,870 @@
+{
+ "schema_version": 1,
+ "id": 27528,
+ "original_rbid": 25888,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-08-27",
+ "year": "2026",
+ "name": "Riksgäldskontoret",
+ "slug": "riksgaldskontoret",
+ "department": "Finansdepartementet",
+ "expenditure_areas": [
+  2,
+  26
+ ],
+ "registry_numbers": [
+  "Fi2026/01784"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1",
+   "2025/26:99"
+  ],
+  "bet": [
+   "2025/26:FiU2",
+   "2025/26:FiU21",
+   "2025/26:FiU4",
+   "2025/26:KrU1",
+   "2025/26:NU1",
+   "2025/26:NU3",
+   "2025/26:TU1"
+  ],
+  "rskr": [
+   "2025/26:117",
+   "2025/26:127",
+   "2025/26:129",
+   "2025/26:133",
+   "2025/26:135",
+   "2025/26:351",
+   "2025/26:83"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "Riksgäldskontorets uppgifter framgår av flera författningar, bland annat förordningen (2023:909) med instruktion för Riksgäldskontoret, och av riktlinjer för statsskuldens förvaltning för 2026.",
+ "goals": [
+  {
+   "title": "Övrig återrapportering",
+   "group": [],
+   "text": "",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27528:goals:0"
+  },
+  {
+   "title": "Statliga gröna obligationer",
+   "group": [],
+   "text": "Myndigheten ska för statliga gröna obligationer redovisa och följa upp emissionslikviden och berättigade gröna utgifter i enlighet med ramverket för statliga gröna obligationer.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27528:goals:1"
+  }
+ ],
+ "org": [],
+ "assignments": [
+  {
+   "title": "Prognoser",
+   "group": [],
+   "text": "Myndigheten ska redovisa prognoser för anslagsbelastningen och för de avgiftsintäkter som disponeras av myndigheten för åren 2026–2029 vid nedanstående tillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Av kommentarerna ska det framgå vilka antaganden som använts i prognosen och eventuella osäkerhetsfaktorer. Vid väsentliga prognosavvikelser ska myndigheten även ange orsakerna till utvecklingen, samt vilka åtgärder som vidtagits eller planeras för att verksamheten ska bedrivas inom ramen för tilldelade medel. Prognoserna lämnas i informationssystemet Hermes och till Regeringskansliet (Finansdepartementet) senast den\n\n– 2 februari\n\n– 22 april\n\n– 24 juli\n\n– 9 november\n\nVid prognostillfället i november ska även beräknad budget för avgiftsbelagd verksamhet redovisas.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [
+    "Regeringskansliet (Finansdepartementet)"
+   ],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27528:assignments:0"
+  },
+  {
+   "title": "Kärnavfallsfonden",
+   "group": [],
+   "text": "Myndigheten ska till Regeringskansliet (Klimat- och näringslivsdepartementet) i samband med utgiftsprognoserna senast den 2 februari och den 9 november 2026 även lämna en prognos för myndighetens användning av medel ur kärnavfallsfonden för 2026 enligt 4 § lagen (2006:647) om finansiering av kärntekniska restprodukter. I februari ska underlaget även innehålla en redovisning av hur medlen har använts 2025. I november ska underlaget även omfatta beräknat behov av ersättning för 2027 för sådana kostnader som avses i 4 § lagen om finansiering av kärntekniska restprodukter och vilka kostnader som avses, samt prognos för 2028 och 2029. Beräknade kostnader ska beskrivas och motiveras.",
+   "dates": [
+    "2026-11-09"
+   ],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02"
+   ],
+   "recipients": [
+    "Regeringskansliet (Klimat- och näringslivsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2006:647"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27528:assignments:1"
+  },
+  {
+   "title": "Förberedande åtgärder för att kunna bli resolutionsmyndighet för försäkringsföretag",
+   "group": [],
+   "text": "Myndigheten ska vidta förberedande åtgärder för att kunna bli resolutionsmyndighet enligt det nya regelverket om krishantering för försäkringsföretag. I uppdraget ingår att delta i det internationella arbetet inom Europeiska försäkrings- och tjänstepensionsmyndigheten. Myndigheten ska samarbeta med Finansinspektionen i frågor som berör båda myndigheterna. Myndigheten ska redovisa löpande till Regeringskansliet (Finansdepartementet) hur arbetet fortlöper.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [
+    "Regeringskansliet (Finansdepartementet)"
+   ],
+   "partners": [
+    "Finansinspektionen"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla",
+    "tillsyn_kontroll",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27528:assignments:2"
+  },
+  {
+   "title": "Låneram AB Svensk Exportkredit",
+   "group": [],
+   "text": "Myndigheten ska, bl.a. baserat på uppgifter från AB Svensk Exportkredit (SEK), lämna ett underlag med redovisning av hur låneramen har eller kan komma att utnyttjats och tillhörande risker förenade med låneramen. Uppdraget ska redovisas till Regeringskansliet (Utrikesdepartementet) senast den 18 september 2026.",
+   "dates": [
+    "2026-09-18"
+   ],
+   "deadlines": [
+    "2026-09-18"
+   ],
+   "recipients": [
+    "Regeringskansliet (Utrikesdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27528:assignments:3"
+  },
+  {
+   "title": "Avtal om företagens åtgärder för försörjningsberedskapen",
+   "group": [],
+   "text": "Riksgäldskontoret ska analysera behovet av och identifiera åtgärder för att företagen ska ha förmåga att upprätthålla sin verksamhet i höjd beredskap och kris i den utsträckning som krävs för att Riksgäldskontoret ska kunna utföra sina uppgifter som beredskapsmyndighet enligt förordningen (2022:524) om statliga myndigheters beredskap. Utifrån den analysen ska Riksgäldskontoret, under förutsättning att det bedöms vara det mest ändamålsenliga alternativet, teckna avtal som syftar till att upprätthålla försörjningen av varor och tjänster som är nödvändiga för myndighetens prioriterade uppgifter vid fredstida kriser och höjd beredskap. I de fall Riksgäldskontoret nyttjar särskilda avtalsformer i form av sådana försörjningsberedskapsavtal (F-avtal) som beskrivs i Nya samverkansformer, modern byggnads- och reparationsberedskap – för ökad försörjningsberedskap (SOU 2025:68) ska dessa avtal löpande rapporteras till Myndigheten för civilt försvar. Riksgäldskontoret ska genomföra uppdraget i dialog med Finansinspektionen. Uppdraget ska redovisas till Regeringskansliet (Finansdepartementet och Försvarsdepartementet) senast den 22 februari 2027, och ingå i den särskilda redovisningen för civilt försvar. Som stöd för arbetet kan myndigheten använda rapporten Utgångspunkter för totalförsvaret 2025–2030 (Försvarsmakten och Myndigheten för samhällsskydd och beredskap, 2025).",
+   "dates": [
+    "2027-02-22"
+   ],
+   "deadlines": [
+    "2027-02-22"
+   ],
+   "recipients": [
+    "Myndigheten för civilt försvar",
+    "Regeringskansliet (Finansdepartementet och Försvarsdepartementet)"
+   ],
+   "partners": [
+    "Finansinspektionen",
+    "Försvarsmakten",
+    "Myndigheten för civilt försvar",
+    "Myndigheten för samhällsskydd och beredskap"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna",
+    "utveckla",
+    "tillsyn_kontroll",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2022:524"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27528:assignments:4"
+  },
+  {
+   "title": "Återföring av medel till Trafikverket",
+   "group": [],
+   "text": "Riksgäldskontoret ska till Trafikverkets räntekonto återföra medel motsvarande Trafikverkets ackumulerade anslagssparande per den 31 december 2024.",
+   "dates": [
+    "2024-12-31"
+   ],
+   "deadlines": [],
+   "recipients": [
+    "Trafikverket"
+   ],
+   "partners": [
+    "Trafikverket"
+   ],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27528:assignments:5"
+  },
+  {
+   "title": "Pågående uppdrag",
+   "group": [],
+   "text": "| | | |\n| --- | --- | --- |\n| Sammanfattning av uppdraget | Beslut om uppdraget | Rapporteringstidpunkt |\n| Medel från EU inom ramen för RRF | Fi2022/03469 (delvis) m.fl. Se bilaga 1 | |\n| Inriktning för civilt försvar 2025–2030 | Fö2024/02054 | 22 februari 2026, 22 februari 2027, 22 februari 2028, 22 februari 2029, 22 februari 2030 |\n| Uppdrag till beredskapsmyndigheterna om personallån mellan myndigheter | Fö2025/00670 | 22 februari 2026 |\n| Uppdrag till Riksgäldskontoret att ställa ut kreditgarantier till Öresundsbrokonsortiet | LI2025/01378 | |\n| Uppdrag till Riksgäldskontoret om statligt stöd till ny kärnkraft | Fi2025/01935 | |\n| Tidigare låneram SAS-konsortiet | Fi2025/02162 | |\n\n*För regeringsuppdrag som lämnats i ett särskilt regeringsbeslut utgör tabellen endast en upplysning om vilka uppdrag som vid årets början var riktade till myndigheten och vilka tider som då gällde för återrapportering eller liknande.*",
+   "dates": [
+    "2026-02-22",
+    "2027-02-22",
+    "2028-02-22",
+    "2029-02-22",
+    "2030-02-22"
+   ],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "beredskap_säkerhet",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "27528:assignments:6"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "1:11",
+   "name": "Riksgäldskontoret",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 2,
+    "name": "Samhällsekonomi och finansförvaltning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Riksgäldskontoret",
+     "amount_tkr": 400432,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Förvaltningskostnader (ram)",
+       "amount_tkr": 400432
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Förvaltningskostnader",
+     "text": "Anslagsposten får användas för Riksgäldskontorets förvaltningsutgifter inklusive Riksgäldskontorets administrativa kostnader för att förvalta garantierna till Europeiska investeringsbankens garantifond och till Europeiska unionen för lån till medlemsstater.\nMyndigheten ska kunna använda och samverka med det gemensamma radiokommunikationssystemet Rakel. Myndigheten ska betala totalt 114 000 kronor till Myndigheten för civilt försvar som abonnemangsavgift för detta system. Beloppet ska betalas efter fakturering från Myndigheten för civilt försvar."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "1:1",
+   "name": "Räntor på statsskulden",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 26,
+    "name": "Statsskuldsräntor m.m."
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Riksgäldskontoret",
+     "amount_tkr": 26800000,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Räntor på statsskulden (ram)",
+       "amount_tkr": 26800000
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Räntor på statsskulden",
+     "text": "För att fullgöra statens betalningsåtaganden har Riksgäldskontoret rätt att överskrida anslagsposten."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "1:3",
+   "name": "Riksgäldskontorets provisionsutgifter",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 26,
+    "name": "Statsskuldsräntor m.m."
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Riksgäldskontoret",
+     "amount_tkr": 145200,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Riksgäldskontorets provisionsutgifter i samband med upplåning och skuldförvaltning (ram)",
+       "amount_tkr": 145200
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Riksgäldskontorets provisionsutgifter i samband med upplåning och skuldförvaltning",
+     "text": "För att fullgöra statens betalningsåtaganden har Riksgäldskontoret rätt att överskrida anslagsposten."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "1:11 Riksgäldskontoret",
+   "ap": "ap.1",
+   "Anslagskredit": 12012,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:1 Räntor på statsskulden",
+   "ap": "ap.1",
+   "Anslagskredit": 2680000,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:3 Riksgäldskontorets provisionsutgifter",
+   "ap": "ap.1",
+   "Anslagskredit": 14520,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 50000,
+  "Räntekontokredit": 30000,
+  "- Resolutionsreserven": 100000000,
+  "- Stabilitetsfonden": 50000000,
+  "- Stabilitetsfonden garantiram": 750000000,
+  "- Resolutionsreserven garantiram": 200000000,
+  "- Låneram för ny kärnkraft": 220000000,
+  "- Låneram för riskreserv för ny kärnkraft": 220000000,
+  "- AB Svensk Exportkredit": 175000000,
+  "- Svensk-Danska Broförbindelsen Svedab AB": 6400000,
+  "- Kungliga Operan AB": 130000,
+  "- Stiftelsen Tekniska museet": 110000,
+  "- Stiftelsen Nordiska museet": 100000,
+  "- Stiftelsen Skansen": 80000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 33369
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 33369
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 33369
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 33369
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 33369
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 33369
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 33369
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 33369
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 33369
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 33369
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 33369
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 33373
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:11 Riksgäldskontoret",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "12 012",
+     "3 %",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:1 Räntor på statsskulden",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "2 680 000",
+     "Inget",
+     "0"
+    ],
+    [
+     "1:3 Riksgäldskontorets provisionsutgifter",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "14 520",
+     "Inget",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar, krediter, garantier och utlåning",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "50 000"
+    ],
+    [
+     "Räntekontokredit",
+     "30 000"
+    ],
+    [
+     "Övriga kontokrediter"
+    ],
+    [
+     "- Resolutionsreserven",
+     "100 000 000"
+    ],
+    [
+     "- Stabilitetsfonden",
+     "50 000 000"
+    ],
+    [
+     "- Garanti",
+     "Obegränsad"
+    ],
+    [
+     "- Internationella finansiella institut",
+     "Obegränsad"
+    ],
+    [
+     "- Utlåning",
+     "Obegränsad"
+    ],
+    [
+     "- Insättningsgarantin",
+     "Obegränsad"
+    ],
+    [
+     "- Investerarskyddet",
+     "Obegränsad"
+    ],
+    [
+     "Garantier"
+    ],
+    [
+     "- Stabilitetsfonden garantiram",
+     "750 000 000"
+    ],
+    [
+     "- Resolutionsreserven garantiram",
+     "200 000 000"
+    ],
+    [
+     "- Insättningsgarantin",
+     "Obegränsad"
+    ],
+    [
+     "- Garanti till insättare i utländska instituts filialer i Sverige",
+     "Obegränsad"
+    ],
+    [
+     "- Investerarskyddet",
+     "Obegränsad"
+    ],
+    [
+     "Utlåning"
+    ],
+    [
+     "- Låneram för ny kärnkraft",
+     "220 000 000"
+    ],
+    [
+     "- Låneram för riskreserv för ny kärnkraft",
+     "220 000 000"
+    ],
+    [
+     "- AB Svensk Exportkredit",
+     "175 000 000"
+    ],
+    [
+     "- Svensk-Danska Broförbindelsen Svedab AB",
+     "6 400 000"
+    ],
+    [
+     "- Kungliga Operan AB",
+     "130 000"
+    ],
+    [
+     "- Stiftelsen Tekniska museet",
+     "110 000"
+    ],
+    [
+     "- Stiftelsen Nordiska museet",
+     "100 000"
+    ],
+    [
+     "- Stiftelsen Skansen",
+     "80 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "33 369"
+    ],
+    [
+     "2026-02-25",
+     "33 369"
+    ],
+    [
+     "2026-03-25",
+     "33 369"
+    ],
+    [
+     "2026-04-25",
+     "33 369"
+    ],
+    [
+     "2026-05-25",
+     "33 369"
+    ],
+    [
+     "2026-06-25",
+     "33 369"
+    ],
+    [
+     "2026-07-25",
+     "33 369"
+    ],
+    [
+     "2026-08-25",
+     "33 369"
+    ],
+    [
+     "2026-09-25",
+     "33 369"
+    ],
+    [
+     "2026-10-25",
+     "33 369"
+    ],
+    [
+     "2026-11-25",
+     "33 369"
+    ],
+    [
+     "2026-12-25",
+     "33 373"
+    ],
+    [
+     "Summa",
+     "400 432"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "1:11 ap.1",
+     "Förvaltningskostnader"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Garantier",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Garanti- och utlåningsverksamhet, administration1",
+     "20 485",
+     "-1 900",
+     "12 000",
+     "25 600",
+     "-13 600",
+     "4 985"
+    ],
+    [
+     "Avgiftsbelagd verksamhet där intäkterna disponeras",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Prövning av ansökningar om tillstånd att reducera kvalificerade skuldinstrument1",
+     "0",
+     "0",
+     "500",
+     "500",
+     "0",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna ej disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "Ink. tit.",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Avgiftsbelagd verksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Insättningsgaranti och investerarskydd1",
+     "2552",
+     "-21 053",
+     "-2 069",
+     "23 122",
+     "23 600",
+     "-478",
+     "-23 600"
+    ],
+    [
+     "Garanti- och kreditverksamhet3",
+     "2124",
+     "483 600"
+    ],
+    [
+     "Summa",
+     "-21 053",
+     "-2 069",
+     "506 722",
+     "23 600",
+     "-478",
+     "-23 600"
+    ],
+    [
+     "Avgiftsfinansierad verksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Prövning och tillsyn över ansvar och ersättning vid radiologiska olyckor1",
+     "2552",
+     "1 289",
+     "-452",
+     "5 610",
+     "6 500",
+     "-890",
+     "-53"
+    ]
+   ]
+  }
+ ],
+ "has_fee_section": true,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 2,
+  "n_org": 0,
+  "n_assignments": 7,
+  "n_deadlines": 2,
+  "deadlines": [
+   "2026-09-18",
+   "2027-02-22"
+  ],
+  "partners": [
+   "Finansinspektionen",
+   "Försvarsmakten",
+   "Myndigheten för civilt försvar",
+   "Myndigheten för samhällsskydd och beredskap",
+   "Trafikverket"
+  ],
+  "n_appropriations": 3,
+  "appropriations_total_tkr": 27345632,
+  "payment_plan_total_tkr": 400432,
+  "md_chars": 18891
+ },
+ "layout": "standard",
+ "warnings": []
+}

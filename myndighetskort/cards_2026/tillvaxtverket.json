@@ -1,0 +1,762 @@
+{
+ "schema_version": 1,
+ "id": 27513,
+ "original_rbid": 25780,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-08-27",
+ "year": "2026",
+ "name": "Tillväxtverket",
+ "slug": "tillvaxtverket",
+ "department": "Klimat- och näringslivsdepartementet",
+ "expenditure_areas": [
+  24
+ ],
+ "registry_numbers": [
+  "KN2026/01706"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1",
+   "2025/26:99"
+  ],
+  "bet": [
+   "2025/26:FiU21",
+   "2025/26:NU1"
+  ],
+  "rskr": [
+   "2025/26:131",
+   "2025/26:350"
+  ]
+ },
+ "n_attachments_stated": 4,
+ "mission": "",
+ "goals": [
+  {
+   "title": "Redovisning avseende Regelrådet och Förenklingsrådet",
+   "group": [],
+   "text": "Tillväxtverket ska redovisa hur mycket medel som har använts för Regelrådets respektive Förenklingsrådets verksamhet.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27513:goals:0"
+  },
+  {
+   "title": "Främjande av företag",
+   "group": [],
+   "text": "Tillväxtverket ska redogöra för myndighetens arbete för att främja fler och växande sociala företag, bland annat vad gäller att underlätta för mer personalägande.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27513:goals:1"
+  },
+  {
+   "title": "Kunskapsspridning om landsbygdskommuners utvecklingskapacitet",
+   "group": [],
+   "text": "Tillväxtverket ska redovisa vilken verksamhet myndigheten har bedrivit för att sprida kunskap och goda exempel om landsbygdskommuners utvecklingskapacitet och förutsättningar att arbeta med lokala utvecklingsfrågor. Tillväxtverket ska redovisa hur erfarenheter från myndighetens pågående och avslutade uppdrag om statsbidrag till kommuner har tillvaratagits i arbetet.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "fördela_medel",
+    "informera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27513:goals:2"
+  },
+  {
+   "title": "Färdval och resepolicy vid tjänsteresor",
+   "group": [],
+   "text": "Alla trafikslag ska kunna nyttjas (väg, järnväg, luft- och sjöfart) för att säkerställa effektiva och ändamålsenliga transporter. Tillväxtverket ska därför redovisa hur myndigheten har säkerställt att val av färdsätt vid tjänsteresor sker färdmedelsneutralt och utifrån behov. Vidare ska Tillväxtverket redovisa huruvida myndigheten köpt in hållbart flygbränsle till organisationens flygresor. När kostnader jämförs för olika färdval ska hela resans kostnad beaktas, exempelvis kostnader för nödvändig övernattning samt total arbetstid för hela resan.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27513:goals:3"
+  },
+  {
+   "title": "Brottsförebyggande arbete och felaktiga utbetalningar",
+   "group": [],
+   "text": "Tillväxtverket ska redovisa vilka åtgärder som har vidtagits för att motverka felaktiga utbetalningar av stöd och bidrag till företag och civilsamhälle.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "fördela_medel"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27513:goals:4"
+  },
+  {
+   "title": "Riksintresse för anläggningar för industriell produktion",
+   "group": [],
+   "text": "Tillväxtverket ska, mot bakgrund av det geopolitiska läget och behovet av en stark industriell bas av beredskapsskäl, återrapportera vilket arbete som myndigheten har utfört inom ramen för sitt ansvar avseende riksintresse för anläggningar för industriell produktion med stöd av 2 § förordningen (1998:896) om hushållning med mark- och vattenområden, särskilt vad gäller arbetet med att utse, uppdatera, hantera och bevaka områden som myndigheten bedömer vara av riksintresse för anläggningar för industriell produktion.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "1998:896"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27513:goals:5"
+  },
+  {
+   "title": "Det friluftspolitiska målet hållbar regional tillväxt och landsbygdsutveckling",
+   "group": [],
+   "text": "Tillväxtverket ska redogöra för de insatser som myndigheten har genomfört som bidrar till att det friluftspolitiska målet om hållbar regional tillväxt och landsbygdsutveckling nås.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27513:goals:6"
+  }
+ ],
+ "org": [
+  {
+   "title": "Säkerställa proaktivitet och handlingskraft vid fredstida krissituationer eller vid krig och krigsfara",
+   "group": [],
+   "text": "Tillväxtverket ska säkerställa att myndigheten har förmåga att agera proaktivt och handlingskraftigt i hanteringen av såväl fredstida krissituationer som vid krig och krigsfara. Utöver de krav som ställs i förordningen (2022:524) om statliga myndigheters beredskap ska myndigheten i detta syfte utbilda och öva sin personal samt se till att myndigheten stärker en kultur och arbetssätt som utgår från de krav som ett krig ställer.\n\nUppdraget ska redovisas till Regeringskansliet (Försvarsdepartementet och Klimat- och näringslivsdepartementet) senast den 22 februari 2027. Detta ska ingå i den särskilda redovisningen för civilt försvar.",
+   "dates": [
+    "2027-02-22"
+   ],
+   "deadlines": [
+    "2027-02-22"
+   ],
+   "recipients": [
+    "Regeringskansliet (Försvarsdepartementet och Klimat- och näringslivsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2022:524"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "org",
+   "item_id": "27513:org:0"
+  }
+ ],
+ "assignments": [
+  {
+   "title": "Näringslivets konkurrenskraft",
+   "group": [],
+   "text": "*1.1 Tillgång till information online enligt förordningen om nettonollindustrin och förordningen om kritiska råmaterial samt övervakning enligt förordningen om nettonollindustrin*\n\nTillväxtverket ska samla in och på en webbplats samlat tillhandahålla information om finansieringsmöjligheter, tjänster för affärsstöd, tillståndsprocesser och kontaktpunkter i enlighet med det som anges i artikel 6.2 och artikel 7 i Europaparlamentets och rådets förordning (EU) 2024/1735 av den 13 juni 2024 om inrättande av en åtgärdsram för att stärka Europas ekosystem för tillverkning av nettonollteknik och om ändring av förordning (EU) 2018/1724 (EU-förordningen om nettonollindustrin) samt artikel 9.2 och artikel 18 i Europaparlamentets och rådets förordning (EU) 2024/1252 av den 11 april 2024 om inrättande av en ram för säkerställande av trygg och hållbar försörjning av kritiska råmaterial och om ändring av förordningarna (EU) nr 168/2013, (EU) 2018/858, (EU) 2018/1724 och (EU) 2019/1020 (EU-förordningen om kritiska råmaterial). Tillväxtverket ska på samma webbplats tillgängliggöra den information som Boverket tillhandahåller i enlighet med artikel 11.1 i förordningen om nettonollindustrin.\n\nTillväxtverket ska även förbereda och säkerställa rapportering enligt artikel 42 i förordningen om nettonollindustrin.\n\nTillväxtverket ska slutredovisa uppdraget senast den 30 december 2026 till Regeringskansliet (Klimat- och näringslivsdepartementet).\n\n*1.2 Stora företag som använder kritiska råmaterial*\n\nTillväxtverket ska utföra de uppgifter som åligger Sverige enligt artikel 24 i EU-förordningen om kritiska råmaterial.\n\n*1.3\\*\\*Identifiera projekt och centrala marknadsaktörer inom förädlingsledet av värdekedjan för kritiska råmaterial*\n\nTillväxtverket ska utföra de uppgifter som åligger Sverige enligt artikel 21.2 i EU-förordningen om kritiska råmaterial vad gäller att identifiera och övervaka centrala marknadsaktörer inom förädlingsledet i värdekedjan för kritiska råmaterial samt underrätta Europeiska kommissionen om större händelser som kan påverka sådana aktörers verksamhet.\n\nTillväxtverket ska även bistå Sveriges geologiska undersökning (SGU) med uppgifter om nya eller befintliga projekt för kritiska råmaterial som är relevanta med avseende på produktion och produktionskapacitet i förädlingsledet för råmaterial enligt artikel 21.1 för att SGU ska kunna rapportera till EU-kommissionen enligt artikel 45 i samma förordning.\n\n*1.4 Produktionshöjande insatser*\n\nTillväxtverket ska under 2026–2028 stödja produktionshöjande insatser hos små och medelstora företag. Kostnaden för uppdraget ska belasta det under utgiftsområde 24 Näringsliv för budgetåret 2026 uppförda anslaget 1:5 Näringslivsutveckling anslagsposten 8 Näringslivsutveckling - del till Tillväxtverket.\n\nTillväxtverket ska delredovisa uppdraget senast den 12 mars 2027 och slutredovisa uppdraget den 15 mars 2029.",
+   "dates": [
+    "2024-04-11",
+    "2024-06-13",
+    "2026-12-30",
+    "2027-03-12",
+    "2029-03-15"
+   ],
+   "deadlines": [
+    "2026-12-30",
+    "2027-03-12"
+   ],
+   "recipients": [
+    "Regeringskansliet (Klimat- och näringslivsdepartementet)"
+   ],
+   "partners": [
+    "Boverket",
+    "Sveriges geologiska undersökning"
+   ],
+   "channels": [
+    "delredovisning",
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "utveckla",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [
+    "1:5"
+   ],
+   "expenditure_area_refs": [
+    24
+   ],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27513:assignments:0"
+  },
+  {
+   "title": "Näringslivets konkurrenskraft genom förenkling",
+   "group": [],
+   "text": "*2.1 Kostnader och intäktskällor för verksamt.se*\n\nTillväxtverket ska i dialog med Bolagsverket sammanställa och redovisa de totala kostnaderna och intäktskällorna för verksamt.se för 2025 samt lämna en preliminär budget för 2027–2029 där de beräknade totala kostnaderna och intäktskällorna för verksamt.se framgår. Om kostnaderna beräknas överstiga intäkterna ska också förslag till finansiering lämnas.\n\nTillväxtverket ska senast den 27 februari 2026 redovisa uppdraget till Regeringskansliet (Klimat- och näringslivsdepartementet).\n\n*2.2 Förväntade handläggningstider på verksamt.se*\n\nTillväxtverket ska analysera förutsättningarna för myndigheter att för företag tillgängliggöra förväntade handläggningstider för vissa ärendetyper på företagsportalen verksamt.se.\n\nTillväxtverket ska senast den 18 december 2026 redovisa uppdraget till Regeringskansliet (Klimat- och näringslivsdepartementet).\n\n*2.3 Regelförenklingsarbete för företag i dagligvaruhandeln*\n\nTillväxtverket ska genomföra ett regelförenklingsarbete för företag som är verksamma inom dagligvaruhandeln. Uppdraget ska omfatta dagligvaruhandel i såväl tätorter som i serviceglesa områden samt fristående butiker och butikskedjor. Myndigheten ska inom ramen för uppdraget inhämta kunskap från branschen. Myndigheten ska även samla berörda myndigheter för dialog och för att bidra till ökad kunskap om förenkling.\n\nTillväxtverket ska senast den 18 december 2026 redovisa uppdraget till Regeringskansliet (Klimat- och näringslivsdepartementet). Redovisningen ska innehålla förslag på förenklingsåtgärder kopplade till dagligvarubranschen.\n\n*2.4 Branschanpassad guidning till tillstånd*\n\nTillväxtverket ska vidareutveckla den branschanpassade guidningen på verksamt.se i syfte att nå fler branscher. Den branschanpassade guidningen ska utgå från SNI-koder. Myndigheten ska löpande informera Regeringskansliet (Klimat- och näringslivsdepartementet) om uppdragets genomförande.\n\nTillväxtverket ska delredovisa uppdraget senast den 15 december 2026 och senast den 15 december 2027. Tillväxtverket ska senast den 15 december 2028 slutredovisa uppdraget till Regeringskansliet (Klimat- och näringslivsdepartementet).\n\n*2.5 Kontaktpunkten för tjänster på verksamt.se*\n\nTillväxtverket ska, vad gäller kontaktpunkten för tjänster, bidra till Kommerskollegiums analys av hur Sverige efterlever tjänstedirektivet.",
+   "dates": [
+    "2026-02-27",
+    "2026-12-15",
+    "2026-12-18",
+    "2027-12-15",
+    "2028-12-15"
+   ],
+   "deadlines": [
+    "2026-02-27",
+    "2026-12-15",
+    "2026-12-18",
+    "2027-12-15",
+    "2028-12-15"
+   ],
+   "recipients": [
+    "Kommerskollegium",
+    "Regeringskansliet (Klimat- och näringslivsdepartementet)"
+   ],
+   "partners": [
+    "Bolagsverket",
+    "Kommerskollegium"
+   ],
+   "channels": [
+    "delredovisning",
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna",
+    "utveckla",
+    "informera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27513:assignments:1"
+  },
+  {
+   "title": "Den europeiska sammanhållningspolitiken",
+   "group": [],
+   "text": "*3.1 Redovisning av regionalfondsprogrammen och programmet för Fonden för en rättvis omställning*\n\nTillväxtverket ska redovisa regionalfondsprogrammen inklusive interregprogrammen och programmet för Fonden för en rättvis omställning (FRO) för programperioden 2014–2020 och 2021–2027 enligt bilaga 1.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27513:assignments:2"
+  },
+  {
+   "title": "Övrigt",
+   "group": [],
+   "text": "*4.1 Förberedelser inför EU:s nästa fleråriga budgetram*\n\nTillväxtverket ska bistå Regeringskansliet i förberedelserna inför och förhandlingar om den europeiska sammanhållningspolitiken och konkurrenskraftspolitiken efter 2027. Bland annat ska Tillväxtverket bidra med evidensbaserade underlag och analyser. Tillväxtverket ska även bistå i en översyn av relevanta nationella förordningar beträffande regionala företagsstöd och projektverksamhet samt den s.k. regionalstödskartan.\n\n*4.2 Uppdrag att beskriva åtgärder för uppbyggnad av beredskapssektorn Industri, byggande och handel*\n\nTillväxtverket ska beskriva vilka åtgärder som har vidtagits för att bygga upp beredskapssektorn Industri, byggande och handel. Myndigheten ska redovisa hur sektorns uppdrag definieras ex. vilka uppgifter och roller som bör finnas i sektorn, en bedömning av vilka aktörer som bör delta i sektorns arbete och en plan för hur arbetet ska bedrivas. Redogörelsen ska innefatta kopplingarna till samhällsviktig verksamhet och strukturer för samverkan inom sektorn. Myndigheten ska även redovisa vilka åtgärder som vidtagits i den egna myndigheten samt åtgärder i sektorn för att stärka förmågan att bedriva en effektiv verksamhet i höjd beredskap och krig. Myndigheten ska redovisa vidtagna åtgärder och resultatet av dessa.\n\nUppdraget ska redovisas till Regeringskansliet (Klimat- och näringslivsdepartementet med kopia till Försvarsdepartementet) senast den 25 september 2026.\n\n*4.3 Stärkt motståndskraft mot hybridhot*\n\nI syfte att stärka Sveriges samlade motståndskraft mot hybridhot behöver respektive sektor stärka sin förmåga att upptäcka och hantera incidenter som skulle kunna utgöra aktörsdrivna hot. Mot den bakgrunden ska Tillväxtverket:\n\n- säkerställa en kontinuerlig lägesuppfattning av incidenter inom den egna verksamheten och inom sitt sektorsansvar i syfte att upprätthålla en normalbild,\n- sammanställa öppen information om den hotbild som finns mot sektorn och tillgängliggöra den för aktörer som tillhandahåller samhällsviktig verksamhet inom sektorn samt\n- samverka med Säkerhetspolisen, Myndigheten för civilt försvar och andra berörda myndigheter i syfte att vid behov klargöra eller utveckla rapporteringsvägar för avvikelser eller säkerhetsincidenter.\n\nUppdraget ska redovisas till Regeringskansliet (Klimat- och näringslivsdepartementet med kopia till Försvarsdepartementet) senast den 22 februari 2027. Detta ska redovisas i en separat bilaga i den särskilda redovisningen för civilt försvar.",
+   "dates": [
+    "2026-09-25",
+    "2027-02-22"
+   ],
+   "deadlines": [
+    "2026-09-25",
+    "2027-02-22"
+   ],
+   "recipients": [
+    "Regeringskansliet (Klimat- och näringslivsdepartementet med kopia till Försvarsdepartementet)"
+   ],
+   "partners": [
+    "Myndigheten för civilt försvar",
+    "Säkerhetspolisen"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna",
+    "utveckla",
+    "beredskap_säkerhet",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "säkerställa en kontinuerlig lägesuppfattning av incidenter inom den egna verksamheten och inom sitt sektorsansvar i syfte att upprätthålla en normalbild,",
+    "sammanställa öppen information om den hotbild som finns mot sektorn och tillgängliggöra den för aktörer som tillhandahåller samhällsviktig verksamhet inom sektorn samt",
+    "samverka med Säkerhetspolisen, Myndigheten för civilt försvar och andra berörda myndigheter i syfte att vid behov klargöra eller utveckla rapporteringsvägar för avvikelser eller säkerhetsincidenter."
+   ],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27513:assignments:3"
+  },
+  {
+   "title": "Redovisning av åtaganden med stöd av bemyndigande",
+   "group": [],
+   "text": "Tillväxtverket ska lämna tre redovisningar av de åtaganden som gjorts med stöd av beställningsbemyndigande från regeringen. Uppdraget ska redovisas till Regeringskansliet (Klimat- och näringslivsdepartementet samt för utgiftsområde 19 Regional utveckling även till Landsbygds- och infrastrukturdepartementet och för utgiftsområde 17 Kultur, medier, trossamfund och fritid även till Kulturdepartementet) senast den\n\n- 24 april 2026 avseende åtaganden per den 31 mars 2026,\n- 23 oktober 2026 avseende åtaganden per den 30 september 2026, och\n- 19 februari 2027 avseende åtaganden per den 31 december 2026.\n\nRedovisningen ska omfatta utestående åtaganden som gjorts med stöd av bemyndigande, en prognos över hur utbetalningen av dessa åtaganden kommer att fördela sig på åren 2027–2032 samt en prognos över totalt åtagande 2026. För redovisningarna som lämnas den 24 april och den 23 oktober ska även en prognos göras för nya åtaganden för åren 2026–2027.\n\nRedovisningen avser anslaget 1:5 Näringslivsutveckling inom utgiftsområde 24 Näringsliv, anslagen 1:1 Regionala utvecklingsåtgärder och 1:3 Europeiska regionala utvecklingsfonden och Fonden för en rättvis omställning perioden 2021–2027 inom utgiftsområde 19 Regional utveckling samt anslag 1:2 Bidrag till allmän kulturverksamhet, utveckling samt internationellt kulturarbete och samarbete inom utgiftsområde 17 Kultur, medier, trossamfund och fritid.\n\nRedovisningen avseende anslaget 1:1 Regionala utvecklingsåtgärder inom utgiftsområde 19 Regional utveckling ska omfatta uppgifter från Tillväxtverket, regionerna och Gotlands kommun.\n\nTillväxtverket ska även redovisa en prognos för de förslag om beställningsbemyndiganden som lämnats i budgetunderlaget och för de åtaganden som ingåtts med stöd av äldre beställningsbemyndiganden. Prognosen ska lämnas senast den 24 juli 2026 via Statsredovisningssystemet i Hermes och utformas enligt närmare information från Statskontoret.",
+   "dates": [
+    "2026-03-31",
+    "2026-04-24",
+    "2026-07-24",
+    "2026-09-30",
+    "2026-10-23",
+    "2026-12-31",
+    "2027-02-19"
+   ],
+   "deadlines": [
+    "2026-07-24"
+   ],
+   "forecast_dates": [
+    "2026-04-24",
+    "2026-10-23"
+   ],
+   "recipients": [
+    "Regeringskansliet"
+   ],
+   "partners": [
+    "Statskontoret"
+   ],
+   "channels": [
+    "hermes",
+    "budgetunderlag"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos",
+    "fördela_medel",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [
+    "1:1",
+    "1:2",
+    "1:5"
+   ],
+   "expenditure_area_refs": [
+    17,
+    19,
+    24
+   ],
+   "sfs_refs": [],
+   "sub_questions": [
+    "24 april 2026 avseende åtaganden per den 31 mars 2026,",
+    "23 oktober 2026 avseende åtaganden per den 30 september 2026, och",
+    "19 februari 2027 avseende åtaganden per den 31 december 2026."
+   ],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27513:assignments:4"
+  },
+  {
+   "title": "Redovisning av utbetalningar",
+   "group": [],
+   "text": "Tillväxtverket ska redovisa beslut och utbetalningar avseende förordningen (2022:1468) om statligt stöd för att regionalt främja företag, förordningen (2022:1467) om statligt stöd till regionala investeringar, förordningen (2022:1469) om statlig medfinansiering för åtgärder inom det nationella programmet för Fonden för en rättvis omställning och förordningen (2022:1379) om förvaltning av program för vissa EU-fonder. Redovisningen avseende förordningen (2022:1379) om förvaltning av program för vissa EU-fonder ska ske med undantag för Europeiska socialfonden+. Tillväxtverket ska dessutom redovisa utbetalningar avseende de numera upphävda förordningarna (2015:210) om statligt stöd för att regionalt främja små och medelstora företag, (2015:211) om statligt stöd till regionala investeringar och (2015:212) om statligt stöd inom Europeiska regionala utvecklingsfonden. Redovisningen ska omfatta beslut och utbetalningar från Tillväxtverket, regionerna och Gotlands kommun.\n\nUppdraget ska redovisas till Regeringskansliet (Landsbygds- och infrastrukturdepartementet) senast den 26 oktober 2026.\n\nTillväxtverket ska även sammanställa de utbetalningar som redovisas i ärendehanteringssystemet Nyps om statligt stöd och som under året lämnats enligt förordningarna och från aktörerna enligt första stycket samt enligt förordningen (2000:281) om regionalt transportbidrag, för årlig rapportering av statligt stöd till Europeiska kommissionen enligt lagen (2013:388) om tillämpning av Europeiska unionens statsstödsregler och förordningen (2016:605) om tillämpning av Europeiska unionens statsstödsregler samt enligt riktlinjer och tidplan från Myndigheten för tillväxtpolitiska utvärderingar och analyser.",
+   "dates": [
+    "2026-10-26"
+   ],
+   "deadlines": [
+    "2026-10-26"
+   ],
+   "recipients": [
+    "Regeringskansliet (Landsbygds- och infrastrukturdepartementet)"
+   ],
+   "partners": [
+    "Myndigheten för tillväxtpolitiska utvärderingar och analyser"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2000:281",
+    "2013:388",
+    "2015:210",
+    "2015:211",
+    "2015:212",
+    "2016:605",
+    "2022:1379",
+    "2022:1467",
+    "2022:1468",
+    "2022:1469"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27513:assignments:5"
+  },
+  {
+   "title": "Prognoser",
+   "group": [],
+   "text": "Tillväxtverket ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Av kommentarerna ska framgå vilka antaganden som använts i prognosen, vilka osäkerhetsfaktorer som finns och vad som orsakat eventuella förändringar. Prognoserna lämnas i informationssystemet Hermes senast den\n\n- 2 februari,\n- 22 april,\n- 24 juli och\n- 9 november.\n\nTillväxtverket ska vid samtliga prognostillfällen redovisa en prognos för hur mycket som beräknas utbetalas under respektive år under prognosperioden per anslag och anslagspost under anslag som disponeras av Tillväxtverket.\n\nTillväxtverket ska då även redovisa prognoser för åren 2026–2031 för utbetalningar avseende de regionala strukturfondsprogrammen, det nationella regionalfondsprogrammet och programmet för Fonden för en rättvis omställning programperioden 2021–2027.\n\nTillväxtverket ska även, med undantag för prognostillfället den 22 april 2026, redovisa prognoser avseende inbetalning av medel från Europeiska kommissionen. Prognoserna för inbetalningarna ska sträcka sig till och med 2031 och vara fördelade på budgetår och programperiod. Av redovisningen ska framgå hur prognoserna för utbetalningar och inbetalningar är framtagna, eventuella antaganden samt grad av osäkerhet.",
+   "dates": [
+    "2026-04-22"
+   ],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos",
+    "fördela_medel",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27513:assignments:6"
+  },
+  {
+   "title": "Pågående uppdrag",
+   "group": [],
+   "text": "Pågående uppdrag anges i bilaga 2.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "27513:assignments:7"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "1:4",
+   "name": "Tillväxtverket",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 24,
+    "name": "Näringsliv"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Tillväxtverket",
+     "amount_tkr": 488578,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Tillväxtverket - del till Tillväxtverket (ram)",
+       "amount_tkr": 488578
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Tillväxtverket - del till Tillväxtverket",
+     "text": "Anslagsposten får användas för Tillväxtverkets förvaltningsutgifter.\nAnslagsposten ska också täcka Tillväxtverkets övriga utgifter i samarbetet inom Europeiska unionen och visst annat internationellt samarbete, bland annat inom ramen för OECD."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "1:4 Tillväxtverket",
+   "ap": "ap.1",
+   "Anslagskredit": 14678,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 150000,
+  "Räntekontokredit": 25000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 40773
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 40773
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 40773
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 40773
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 40773
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 40673
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 40673
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 40673
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 40673
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 40673
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 40673
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 40675
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:4 Tillväxtverket",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "14 678",
+     "3 %",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "150 000"
+    ],
+    [
+     "Räntekontokredit",
+     "25 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "40 773"
+    ],
+    [
+     "2026-02-25",
+     "40 773"
+    ],
+    [
+     "2026-03-25",
+     "40 773"
+    ],
+    [
+     "2026-04-25",
+     "40 773"
+    ],
+    [
+     "2026-05-25",
+     "40 773"
+    ],
+    [
+     "2026-06-25",
+     "40 673"
+    ],
+    [
+     "2026-07-25",
+     "40 673"
+    ],
+    [
+     "2026-08-25",
+     "40 673"
+    ],
+    [
+     "2026-09-25",
+     "40 673"
+    ],
+    [
+     "2026-10-25",
+     "40 673"
+    ],
+    [
+     "2026-11-25",
+     "40 673"
+    ],
+    [
+     "2026-12-25",
+     "40 675"
+    ],
+    [
+     "Summa",
+     "488 578"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "1:4 ap.1",
+     "Tillväxtverket - del till Tillväxtverket"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [],
+ "has_fee_section": false,
+ "exceptions_text": "Tillväxtverket får använda den förenklade räntekontorutin som regeringen tidigare medgivit för Tillväxtverket.\n\nPå regeringens vägnar\n\nEbba Busch\n\nSofia Hercules Bendix\n\n**Kopia till**\n\nStatsrådsberedningen, EU CRP1 och internrevisionen\\\nJustitiedepartementet, NM\\\nUtrikesdepartementet, FH och HI\\\nFörsvarsdepartementet, ECH, EM och ETU\\\nSocialdepartementet, HC\\\nFinansdepartementet, BA, DIS, DOF, K och SFÖ\\\nKlimat- och näringslivsdepartementet, BK, KL och Nm\\\nKulturdepartementet, KKM\\\nArbetsmarknadsdepartementet, A och JÄM\\\nLandsbygds- och infrastrukturdepartementet, JL, RUL, SPN och US\\\nFörvaltningsavdelningen, RK Ekonomi och affärer\\\nRiksdagen, näringsutskottet\\\nBolagsverket\\\nKommerskollegium\\\nRiksgäldskontoret\\\nRådet för Europeiska socialfonden i Sverige\\\nSveriges geologiska undersökning\\\nGotlands kommun\\\nregionerna",
+ "summary": {
+  "n_goals": 7,
+  "n_org": 1,
+  "n_assignments": 8,
+  "n_deadlines": 11,
+  "deadlines": [
+   "2026-02-27",
+   "2026-07-24",
+   "2026-09-25",
+   "2026-10-26",
+   "2026-12-15",
+   "2026-12-18",
+   "2026-12-30",
+   "2027-02-22",
+   "2027-03-12",
+   "2027-12-15",
+   "2028-12-15"
+  ],
+  "partners": [
+   "Bolagsverket",
+   "Boverket",
+   "Kommerskollegium",
+   "Myndigheten för civilt försvar",
+   "Myndigheten för tillväxtpolitiska utvärderingar och analyser",
+   "Statskontoret",
+   "Sveriges geologiska undersökning",
+   "Säkerhetspolisen"
+  ],
+  "n_appropriations": 1,
+  "appropriations_total_tkr": 488578,
+  "payment_plan_total_tkr": 488578,
+  "md_chars": 20421
+ },
+ "layout": "standard",
+ "warnings": []
+}

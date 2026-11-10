@@ -1,0 +1,933 @@
+{
+ "schema_version": 1,
+ "id": 25926,
+ "original_rbid": 25926,
+ "type": "Regleringsbrev",
+ "category": "Myndighet",
+ "date": "2025-12-18",
+ "year": "2026",
+ "name": "Statistiska centralbyrån",
+ "slug": "statistiska-centralbyran",
+ "department": "Finansdepartementet",
+ "expenditure_areas": [
+  2
+ ],
+ "registry_numbers": [
+  "Fi2025/02364 (delvis)"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1"
+  ],
+  "bet": [
+   "2025/26:FiU2"
+  ],
+  "rskr": [
+   "2025/26:133"
+  ]
+ },
+ "n_attachments_stated": 1,
+ "mission": "",
+ "goals": [
+  {
+   "title": "Statistikproduktion",
+   "group": [],
+   "text": "Målet för den anslagsfinansierade verksamheten är att producera officiell statistik av god kvalitet, som är lättillgänglig för användarna.\n\nMålet för den avgiftsfinansierade verksamheten är att, genom att utföra uppdrag utifrån olika användares behov, öka möjligheterna att utnyttja det statistiska material och den statistiska kompetens som finns inom myndigheten.\n\nProduktiviteten i den anslagsfinansierade verksamheten ska öka med i genomsnitt minst 3 procent per år.\n\nDen statistiska informationen ska göras mer tillgänglig och användbar.\n\nFörståelsen för och tolkningen av statistiska resultat och samband ska underlättas.\n\nKostnaderna för uppgiftslämnandet för framtagande av statistik ska minska.\n\nMyndigheten ska se till att de regelverk och rutiner som den beslutar är samordnade, kostnadseffektiva och enkla för allmänheten, företagare och andra berörda.\n\nMyndigheten ska redovisa\n\n– vidtagna åtgärder för att öka tillgängligheten till och användbarheten av statistiken samt åtgärder för att öka förståelsen för statistiska resultat och samband,\\\n– vidtagna åtgärder för att öka tillgängligheten till statistiskt material för forskningsändamål,\\\n– företags och andra uppgiftspliktiga organisationers kostnader för uppgiftslämnandet,\\\n– produktivitetsutvecklingen,\\\n– allmänhetens förtroende för myndigheten,\\\n– kundnöjdheten i den avgiftsfinansierade verksamheten, och\\\n– mottagna bidrag från EU.\n\nVid myndighetens återrapportering av resultat och resultatindikatorer i årsredovisningen ska, i den utsträckning som det är möjligt, upp till tioåriga tidsserier tillämpas.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "årsredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "statistik_data",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "vidtagna åtgärder för att öka tillgängligheten till och användbarheten av statistiken samt åtgärder för att öka förståelsen för statistiska resultat och samband,\\",
+    "vidtagna åtgärder för att öka tillgängligheten till statistiskt material för forskningsändamål,\\",
+    "företags och andra uppgiftspliktiga organisationers kostnader för uppgiftslämnandet,\\",
+    "produktivitetsutvecklingen,\\",
+    "allmänhetens förtroende för myndigheten,\\",
+    "kundnöjdheten i den avgiftsfinansierade verksamheten, och\\",
+    "mottagna bidrag från EU."
+   ],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25926:goals:0"
+  },
+  {
+   "title": "Samordning av statistik",
+   "group": [],
+   "text": "Myndighetens samordning av den officiella statistiken ska stärka systemet för denna statistik, och därmed bidra till god kvalitet i och ökad användbarhet av den officiella statistiken. Myndighetens samordning av utveckling, framställning och spridning av europeisk statistik ska genomföras så att den bidrar till att upprätthålla förtroendet för statistiken.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "utveckla",
+    "statistik_data",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25926:goals:1"
+  },
+  {
+   "title": "Samråd med statistikanvändare",
+   "group": [],
+   "text": "Myndigheten ska informera större användare av statistik samt ge dem möjlighet att lämna synpunkter innan väsentliga förändringar av statistikens innehåll och omfattning genomförs.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "informera",
+    "statistik_data"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25926:goals:2"
+  },
+  {
+   "title": "Informationssäkerhet",
+   "group": [],
+   "text": "Myndigheten ska på en övergripande nivå redogöra för hur den har arbetat för att förvalta och utveckla sin informationssäkerhet, samt för hur den planerar att möta framtida behov på området.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "utveckla",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25926:goals:3"
+  },
+  {
+   "title": "Färdval och resepolicy vid tjänstresor",
+   "group": [],
+   "text": "Alla trafikslag ska kunna nyttjas (väg, järnväg, luft- och sjöfart) för att säkerställa effektiva och ändamålsenliga transporter. Myndigheten ska därför redovisa hur myndigheten har säkerställt att val av färdsätt vid tjänsteresor sker färdmedelsneutralt och utifrån behov. Vidare ska myndigheten redovisa huruvida myndigheten köpt in hållbart flygbränsle till organisationens flygresor. När kostnader jämförs för olika färdval ska hela resans kostnad beaktas, exempelvis kostnader för nödvändig övernattning samt total arbetstid för hela resan.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25926:goals:4"
+  }
+ ],
+ "org": [],
+ "assignments": [
+  {
+   "title": "Pågående uppdrag",
+   "group": [],
+   "text": "Pågående uppdrag till myndigheten framgår av*bilagan*.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "25926:assignments:0"
+  },
+  {
+   "title": "Utgiftsprognoser",
+   "group": [],
+   "text": "Myndigheten ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras i förhållande till föregående prognostillfälle, tillgängliga och beräknade medel och i förhållande till budgeten. Av kommentarerna ska vidare framgå vilka antaganden som använts i prognosen, vilka osäkerhetsfaktorer som finns och eventuella förändringar av förutsättningarna för myndigheten att bedriva sin verksamhet. Vid väsentliga prognosavvikelser bör myndigheten även ange orsaker till dessa, samt vilka åtgärder som vidtagits eller planeras att vidtas, för att verksamheten ska bedrivas enligt plan inom ramen för tilldelade medel. Prognoserna lämnas i informationssystemet Hermes senast den\n\n– 2 februari\\\n– 22 april\\\n– 24 juli\\\n– 9 november.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "25926:assignments:1"
+  },
+  {
+   "title": "Arbetsplan för den anslagsfinansierade verksamheten",
+   "group": [],
+   "text": "Myndigheten ska senast den 30 januari 2026 redovisa en arbetsplan för den anslagsfinansierade verksamheten för 2026 till Regeringskansliet (Finansdepartementet). Arbetsplanen ska omfatta planerad produktion och planerade större förändringar i statistiken under året samt eventuella förändringar i verksamheten mot bakgrund av anvisade medel för 2026. Planen ska även redovisa förändrade krav från EU och hur de hanteras.",
+   "dates": [
+    "2026-01-30"
+   ],
+   "deadlines": [
+    "2026-01-30"
+   ],
+   "recipients": [
+    "Regeringskansliet (Finansdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "statistik_data",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "25926:assignments:2"
+  },
+  {
+   "title": "Mikromaterial",
+   "group": [],
+   "text": "Myndigheten ska leverera mikromaterial till Regeringskansliet enligt särskild överenskommelse.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [
+    "Regeringskansliet"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "25926:assignments:3"
+  },
+  {
+   "title": "Nationalräkenskaperna och arbetskraftsundersökningarna",
+   "group": [],
+   "text": "Myndigheten ska leverera statistik från nationalräkenskaperna och arbetskraftsundersökningarna till Konjunkturinstitutet på den överenskomna detaljnivå och i det format som är anpassat till Regeringskansliets (Finansdepartementet) behov. Samråd ska ske med Konjunkturinstitutet om formerna för leveranserna.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [
+    "Konjunkturinstitutet",
+    "Regeringskansliet"
+   ],
+   "partners": [
+    "Konjunkturinstitutet"
+   ],
+   "channels": [],
+   "task_types": [
+    "statistik_data"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "25926:assignments:4"
+  },
+  {
+   "title": "Arbetskostnadsindex",
+   "group": [],
+   "text": "Myndigheten ska senast den 30 januari 2026 redovisa arbetskostnadsindex (RAM) till Regeringskansliet (Finansdepartementet).",
+   "dates": [
+    "2026-01-30"
+   ],
+   "deadlines": [
+    "2026-01-30"
+   ],
+   "recipients": [
+    "Regeringskansliet (Finansdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "25926:assignments:5"
+  },
+  {
+   "title": "Kvantitativ uppföljning av arbetet för jämställdhetsintegrering i Regeringskansliet",
+   "group": [],
+   "text": "Myndigheten ska genomföra en kvantitativ uppföljning av arbetet för jämställdhetsintegrering i Regeringskansliet. Uppföljningen ska göras i enlighet med regerings- och regeringskanslibesluten om jämställdhetintegrering i Regeringskansliet 2025–2029 (A2025/00105 respektive FA2025/00190). Uppdraget ska redovisas årligen senast den 22 april under perioden 2026–2030 till Regeringskansliet (Arbetsmarknadsdepartementet). För uppdraget får myndigheten under 2026 använda 750 000 kronor som ska redovisas mot det under utgiftsområde 13 Integration och jämställdhet för budgetåret 2026 uppförda anslaget 3:1 Särskilda jämställdhetsåtgärder, anslagspost 12 Jämställdhetsinsatser efter regeringsbeslut. Medlen utbetalas engångsvis efter rekvisition ställd till Kammarkollegiet. Rekvisition av medel ska ske senast den 1 december 2026. Medel som inte har förbrukats ska återbetalas till Kammarkollegiet senast den 31 mars 2027. En ekonomisk redovisning ska lämnas till Kammarkollegiet senast den 31 mars 2027.",
+   "dates": [
+    "2026-12-01",
+    "2027-03-31"
+   ],
+   "deadlines": [
+    "2026-12-01",
+    "2027-03-31"
+   ],
+   "recipients": [
+    "Kammarkollegiet",
+    "Regeringskansliet (Arbetsmarknadsdepartementet)"
+   ],
+   "partners": [
+    "Kammarkollegiet"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "fördela_medel",
+    "utveckla"
+   ],
+   "anslag_refs": [
+    "3:1"
+   ],
+   "expenditure_area_refs": [
+    13
+   ],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "25926:assignments:6"
+  },
+  {
+   "title": "Situationen på arbetsmarknaden för personer med funktionsnedsättning",
+   "group": [],
+   "text": "Myndigheten ska under 2026 ta fram och publicera könsuppdelad statistik om situationen på arbetsmarknaden för personer med funktionsnedsättning. Myndigheten ska inför genomförandet av uppdraget inhämta synpunkter från Arbetsförmedlingen, Diskrimineringsombudsmannen och Myndigheten för delaktighet. Uppdraget ska senast den 26 april 2027 redovisas till Regeringskansliet (Arbetsmarknadsdepartementet).",
+   "dates": [
+    "2027-04-26"
+   ],
+   "deadlines": [
+    "2027-04-26"
+   ],
+   "recipients": [
+    "Regeringskansliet (Arbetsmarknadsdepartementet)"
+   ],
+   "partners": [
+    "Arbetsförmedlingen",
+    "Diskrimineringsombudsmannen",
+    "Myndigheten för delaktighet"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "utveckla",
+    "statistik_data"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "25926:assignments:7"
+  },
+  {
+   "title": "Medlemskap i arbetslöshetskassa",
+   "group": [],
+   "text": "Myndigheten ska inhämta uppgifter om medlemskap från arbetslöshetskassorna och framställa statistik över medlemskap i kassorna 2025. Uppdraget ska senast den 1 juni 2026 redovisas till Regeringskansliet (Arbetsmarknadsdepartementet, med kopia till Finansdepartementet). Redovisningen ska utformas i dialog med Regeringskansliet (Arbetsmarknadsdepartementet).",
+   "dates": [
+    "2026-06-01"
+   ],
+   "deadlines": [
+    "2026-06-01"
+   ],
+   "recipients": [
+    "Regeringskansliet (Arbetsmarknadsdepartementet, med kopia till Finansdepartementet)"
+   ],
+   "partners": [
+    "arbetslöshetskassorna"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "statistik_data"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "25926:assignments:8"
+  },
+  {
+   "title": "Statistik om det civila samhället",
+   "group": [],
+   "text": "Myndigheten ska sammanställa och redovisa statistik om det civila samhället utifrån FN:s statistiksystem för satelliträkenskaper om icke vinstdrivande organisationer. Samordning och utveckling av berörda statistikdatabaser bör ske i lämplig utsträckning för att förbättra underlaget för statistiken. Vidare ska statistik som beskriver den ekonomiska relationen mellan den offentliga sektorn och det civila samhällets organisationer, samt statistik som beskriver befolkningens deltagande i det civila samhället, redovisas. Myndigheten ska senast den 28 maj 2026 lämna en delredovisning av uppdraget till Regeringskansliet (Socialdepartementet). Myndigheten ska vidare senast den 22 oktober 2026 publicera en rapport med den senaste statistiken om det civila samhället. Uppdraget ska senast den 3 mars 2027 slutredovisas till Regeringskansliet.",
+   "dates": [
+    "2026-05-28",
+    "2026-10-22",
+    "2027-03-03"
+   ],
+   "deadlines": [
+    "2026-05-28",
+    "2026-10-22",
+    "2027-03-03"
+   ],
+   "recipients": [
+    "Regeringskansliet",
+    "Regeringskansliet (Socialdepartementet)"
+   ],
+   "partners": [],
+   "channels": [
+    "delredovisning",
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "statistik_data"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "25926:assignments:9"
+  },
+  {
+   "title": "Uppdatera måtten om självförsörjning",
+   "group": [],
+   "text": "Myndigheten ska uppdatera den statistik om självförsörjning som myndigheten publicerade i april 2025. Uppdateringen ska avse inkomster 2024 och publiceras på myndighetens webbplats.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "statistik_data"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "25926:assignments:10"
+  },
+  {
+   "title": "Beräkna jämförelsetal för fastställande av riksnormen",
+   "group": [],
+   "text": "Myndigheten ska beräkna och publicera ett jämförelsetal som ska användas som grund för att fastställa riksnormen inom försörjningsstödet för nästkommande år. Jämförelsetalet motsvarar förändringen av konsumentprisindex exklusiva boendekostnader mellan juni året före det år som riksnormen avser och juni 2024. Uppdraget ska senast den 31 juli 2026 redovisas till Regeringskansliet (Socialdepartementet).",
+   "dates": [
+    "2026-07-31"
+   ],
+   "deadlines": [
+    "2026-07-31"
+   ],
+   "recipients": [
+    "Regeringskansliet (Socialdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "25926:assignments:11"
+  },
+  {
+   "title": "Studie om valdeltagande",
+   "group": [],
+   "text": "Myndigheten ska genomföra en studie om valdeltagandet i de allmänna valen 2026. Myndigheten ska undersöka hur valdeltagandet ser ut i olika grupper av den röstberättigade befolkningen. Myndigheten ska göra jämförelser utifrån socioekonomiska faktorer och studera skillnader avseende kön, ålder och utbildning samt mellan inrikes och utrikes födda. Myndigheten ska också undersöka valdeltagandet bland förstagångsväljare och bland personer med funktionsnedsättning samt bland utländska medborgare. Myndigheten ska även analysera skillnader i valdeltagande mellan olika kommuner och valdistrikt. Jämförelser med tidigare valtillfällen ska göras, inklusive jämförelser med myndighetens tidigare studier om valdeltagandets utveckling (Ju2012/08054, Ku2015/01337, Ku2015/01690, Ku2019/01327 och Ku2023/00679). Myndigheten får för uppdragets genomförande använda 800 000 kronor från anslaget 6:1 Allmänna val och demokrati, anslagspost 11 Demokrati – del till Kammarkollegiet, inom utgiftsområde 1 Rikets styrelse. Medlen utbetalas engångsvis efter rekvisition till Kammarkollegiet senast den 2 oktober 2026. Redovisningen ska innehålla en redogörelse för myndighetens analys och statistiska uppgifter med tillhörande kommentarer. Myndigheten ska även i studien belysa utvecklingen i områden där utanförskapet är stort. Myndigheten får för denna del av uppdraget använda högst 100 000 kronor från anslaget 4:1 Åtgärder mot utanförskap, anslagspost 2 Åtgärder mot utanförskap – del till Kammarkollegiet, inom utgiftsområde 13 Integration och jämställdhet. Medlen utbetalas engångsvis efter rekvisition till Kammarkollegiet senast den 2 oktober 2026. Uppdraget ska senast den 31 maj 2027 redovisas till Regeringskansliet (Kulturdepartementet och Arbetsmarknadsdepartementet).",
+   "dates": [
+    "2026-10-02",
+    "2027-05-31"
+   ],
+   "deadlines": [
+    "2026-10-02",
+    "2027-05-31"
+   ],
+   "recipients": [
+    "Kammarkollegiet",
+    "Regeringskansliet (Kulturdepartementet och Arbetsmarknadsdepartementet)"
+   ],
+   "partners": [
+    "Kammarkollegiet"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "fördela_medel",
+    "utveckla"
+   ],
+   "anslag_refs": [
+    "4:1",
+    "6:1"
+   ],
+   "expenditure_area_refs": [
+    1,
+    13
+   ],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "25926:assignments:12"
+  },
+  {
+   "title": "Uppdrag om arbetet med hushållens skulder",
+   "group": [],
+   "text": "Myndigheten ska redovisa hur arbetet med att utveckla en statistikinsamling av hushållens bostads- och konsumtionskrediter fortskrider. Redovisningen ska omfatta arbetet med att utöka en befintlig stickprovsundersökning i mikrosimuleringsmodellen Fasit med den insamlade informationen. Myndigheten ska redovisa en tidsplan för införandet av uppgifter om hushållens bostads- och konsumtionskrediter i modellen. Uppdraget ska senast den 1 juni 2026 delredovisas och senast den 1 juli 2027 slutredovisas till Regeringskansliet (Finansdepartementet).",
+   "dates": [
+    "2026-06-01",
+    "2027-07-01"
+   ],
+   "deadlines": [
+    "2026-06-01",
+    "2027-07-01"
+   ],
+   "recipients": [
+    "Regeringskansliet (Finansdepartementet)"
+   ],
+   "partners": [],
+   "channels": [
+    "delredovisning",
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "utveckla",
+    "statistik_data"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "25926:assignments:13"
+  },
+  {
+   "title": "Öka förmågan att använda AI och ny teknik genom datadrivet arbete",
+   "group": [],
+   "text": "Myndigheten ska redovisa i vilken utsträckning den arbetar datadrivet, vilka åtgärder den vidtagit för att förbättra sin förmåga att arbeta datadrivet, samt en bedömning av vilket resultat åtgärderna har lett till. Myndigheten ska även redovisa på vilket sätt arbetet med data och AI har bidragit till att utveckla verksamheten och höja kvaliteten i utförandet av myndighetens uppgifter. Av redovisningen ska framgå hur myndigheten beaktar risker och arbetar för att användning av data och AI sker på ett etiskt, säkert och icke-diskriminerande sätt. Eventuella hinder eller framgångsfaktorer för datadrivet arbete och användande av AI-teknik ska även redovisas. Uppdraget ska senast den 15 maj 2026 redovisas till Regeringskansliet (Finansdepartementet).",
+   "dates": [
+    "2026-05-15"
+   ],
+   "deadlines": [
+    "2026-05-15"
+   ],
+   "recipients": [
+    "Regeringskansliet (Finansdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla",
+    "statistik_data",
+    "digitalisering_ai"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "25926:assignments:14"
+  },
+  {
+   "title": "Fördjupad analys av skillnader i statistiken om sysselsättningsgrad",
+   "group": [],
+   "text": "Myndigheten ska redovisa en fördjupad analys av skillnader i statistiken om sysselsättningsgrad mellan statistikmodellerna Arbetskraftsundersökningarna och Befolkningens arbetsmarknadsstatus. Analysen ska beakta anknytningsgrad till arbetsmarknaden och skillnader mellan inrikes och utrikes födda samt mellan kvinnor och män. Uppdraget ska senast den 29 maj 2026 redovisas till Regeringskansliet (Arbetsmarknadsdepartementet).",
+   "dates": [
+    "2026-05-29"
+   ],
+   "deadlines": [
+    "2026-05-29"
+   ],
+   "recipients": [
+    "Regeringskansliet (Arbetsmarknadsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "statistik_data"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "25926:assignments:15"
+  },
+  {
+   "title": "Förvalta innehåll på webbplatsen verksamt.se",
+   "group": [],
+   "text": "Myndigheten ska förvalta myndighetens innehåll på den myndighetsgemensamma webbplatsen verksamt.se.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "25926:assignments:16"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "1:8",
+   "name": "Statistiska centralbyrån",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 2,
+    "name": "Samhällsekonomi och finansförvaltning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Statistiska centralbyrån",
+     "amount_tkr": 711961,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Statistiska centralbyrån (ram)",
+       "amount_tkr": 711961
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Statistiska centralbyrån",
+     "text": "Anslagsposten får användas för att finansiera Statistiska centralbyråns förvaltningsutgifter.\nKostnaderna för EU-anpassningen av statistiken ska finansieras med medel från anslagsposten."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "1:8 Statistiska centralbyrån",
+   "ap": "ap.1",
+   "Anslagskredit": 21358,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 130000,
+  "Räntekontokredit": 65000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 59330
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 59330
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 59330
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 59330
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 59330
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 59330
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 59330
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 59330
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 59330
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 59330
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 59330
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 59331
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:8 Statistiska centralbyrån",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "21 358",
+     "3 %",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "130 000"
+    ],
+    [
+     "Räntekontokredit",
+     "65 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "59 330"
+    ],
+    [
+     "2026-02-25",
+     "59 330"
+    ],
+    [
+     "2026-03-25",
+     "59 330"
+    ],
+    [
+     "2026-04-25",
+     "59 330"
+    ],
+    [
+     "2026-05-25",
+     "59 330"
+    ],
+    [
+     "2026-06-25",
+     "59 330"
+    ],
+    [
+     "2026-07-25",
+     "59 330"
+    ],
+    [
+     "2026-08-25",
+     "59 330"
+    ],
+    [
+     "2026-09-25",
+     "59 330"
+    ],
+    [
+     "2026-10-25",
+     "59 330"
+    ],
+    [
+     "2026-11-25",
+     "59 330"
+    ],
+    [
+     "2026-12-25",
+     "59 331"
+    ],
+    [
+     "Summa",
+     "711 961"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "1:8 ap.1",
+     "Statistiska centralbyrån"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Avgiftsbelagd verksamhet där intäkterna disponeras",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Tjänsteexport1",
+     "3 737",
+     "1 000",
+     "65 000",
+     "65 000",
+     "0",
+     "4 737"
+    ],
+    [
+     "Statistikverksamhet1",
+     "15 694",
+     "0",
+     "444 140",
+     "449 140",
+     "-5 000",
+     "10 694"
+    ],
+    [
+     "Summa",
+     "19 431",
+     "1 000",
+     "509 140",
+     "514 140",
+     "-5 000",
+     "15 431"
+    ]
+   ]
+  }
+ ],
+ "has_fee_section": true,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 5,
+  "n_org": 0,
+  "n_assignments": 17,
+  "n_deadlines": 14,
+  "deadlines": [
+   "2026-01-30",
+   "2026-05-15",
+   "2026-05-28",
+   "2026-05-29",
+   "2026-06-01",
+   "2026-07-31",
+   "2026-10-02",
+   "2026-10-22",
+   "2026-12-01",
+   "2027-03-03",
+   "2027-03-31",
+   "2027-04-26",
+   "2027-05-31",
+   "2027-07-01"
+  ],
+  "partners": [
+   "Arbetsförmedlingen",
+   "Diskrimineringsombudsmannen",
+   "Kammarkollegiet",
+   "Konjunkturinstitutet",
+   "Myndigheten för delaktighet",
+   "arbetslöshetskassorna"
+  ],
+  "n_appropriations": 1,
+  "appropriations_total_tkr": 711961,
+  "payment_plan_total_tkr": 711961,
+  "md_chars": 16562
+ },
+ "layout": "standard",
+ "warnings": []
+}

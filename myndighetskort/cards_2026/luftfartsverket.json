@@ -1,0 +1,650 @@
+{
+ "schema_version": 1,
+ "id": 27463,
+ "original_rbid": 25778,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-06-18",
+ "year": "2026",
+ "name": "Luftfartsverket",
+ "slug": "luftfartsverket",
+ "department": "Landsbygds- och infrastrukturdepartementet",
+ "expenditure_areas": [
+  22
+ ],
+ "registry_numbers": [
+  "LI2025/01722 (delvis)",
+  "LI2026/01128 (delvis)",
+  "LI2026/01230"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1",
+   "2025/26:99"
+  ],
+  "bet": [
+   "2025/26:FiU21",
+   "2025/26:TU1"
+  ],
+  "rskr": [
+   "2025/26:127",
+   "2025/26:353"
+  ]
+ },
+ "n_attachments_stated": 1,
+ "mission": "",
+ "goals": [
+  {
+   "title": "Resultatredovisning",
+   "group": [],
+   "text": "Luftfartsverkets resultatredovisning ska delas in i verksamhetsområden. Av redovisningen ska det framgå i vilken utsträckning myndigheten bidragit till att uppfylla de transportpolitiska målen.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27463:goals:0"
+  },
+  {
+   "title": "Redovisning av investeringsobjekt",
+   "group": [],
+   "text": "I treårsplanen för perioden 2027–2029 ska Luftfartsverket, utöver vad som framgår av förordningen (2000:605) om årsredovisning och budgetunderlag, särskilt redovisa större investeringsobjekt under treårsperioden på över 50 000 000 kronor med kostnad och tidsplan.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "årsredovisning",
+    "budgetunderlag"
+   ],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2000:605"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27463:goals:1"
+  },
+  {
+   "title": "Färdval och resepolicy vid tjänsteresor",
+   "group": [],
+   "text": "Alla trafikslag ska kunna nyttjas (väg, järnväg, luft- och sjöfart) för att säkerställa effektiva och ändamålsenliga transporter. Luftfartsverket ska därför redovisa hur myndigheten har säkerställt att val av färdsätt vid tjänsteresor sker färdmedelsneutralt och utifrån behov. Vidare ska Luftfartsverket redovisa huruvida myndigheten köpt in hållbart flygbränsle till organisationens flygresor. När kostnader jämförs för olika färdval ska hela resans kostnad beaktas, exempelvis kostnader för nödvändig övernattning samt total arbetstid för hela resan.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27463:goals:2"
+  }
+ ],
+ "org": [],
+ "assignments": [
+  {
+   "title": "Pågående uppdrag",
+   "group": [],
+   "text": "Nedan redovisas Luftfartsverkets pågående uppdrag. För regeringsuppdrag som lämnats i ett särskilt regeringsbeslut utgör tabellen endast en upplysning om vilka uppdrag som vid årets början var riktade till myndigheten och vilka tider som då gällde för återrapportering eller liknande.\n\n| | | |\n| --- | --- | --- |\n| **Uppdrag** | **Beslut om uppdraget** | **Redovisningstidpunkt** |\n| Inriktning för civilt försvar 2025–2030 | Fö2024/02054 | Redovisas årligen i samband med årsredovisningen. Den första redovisningen ska lämnas i samband med årsredovisningen för 2025 års verksamhet. |\n| Proaktivitet och handlingskraft vid kris eller krig | LI2024/02398 | Redovisas senast den 1 mars 2026. |\n| Åtgärder för att utveckla och stärka det civila försvaret | LI2024/02398 | Redovisas senast den 22 februari 2026. |\n| Uppdrag till beredskapsmyndigheterna om personallån mellan myndigheter | Fö2025/00670 | Redovisas i årsredovisningen för 2025 års verksamhet. Om myndigheten av säkerhets- eller andra skäl bedömer att en redovisning i årsredovisningen inte är ändamålsenlig kan redovisning göras i särskild ordning till Regeringskansliet (Landsbygds- och infrastrukturdepartementet) senast den 23 februari 2026. |",
+   "dates": [
+    "2026-02-22",
+    "2026-02-23",
+    "2026-03-01"
+   ],
+   "deadlines": [
+    "2026-02-22",
+    "2026-02-23",
+    "2026-03-01"
+   ],
+   "recipients": [
+    "Regeringskansliet (Landsbygds- och infrastrukturdepartementet)"
+   ],
+   "partners": [],
+   "channels": [
+    "årsredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "27463:assignments:0"
+  },
+  {
+   "title": "Åtgärder för ett stärkt civilt försvar",
+   "group": [],
+   "text": "Luftfartsverket ska vidta särskilda åtgärder i syfte att stärka det civila försvaret och därmed bidra till en högre samlad förmåga inom totalförsvaret. Åtgärderna ska inkludera åtgärder för att säkerställa en uthållig reparationsberedskap.\n\nUppdraget ska redovisas senast den 22 februari 2027 till Regeringskansliet (Landsbygds- och infrastrukturdepartementet). Redovisningen ska ingå i en separat redovisning för civilt försvar.",
+   "dates": [
+    "2027-02-22"
+   ],
+   "deadlines": [
+    "2027-02-22"
+   ],
+   "recipients": [
+    "Regeringskansliet (Landsbygds- och infrastrukturdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27463:assignments:1"
+  },
+  {
+   "title": "Avtal för stärkt försörjningsberedskap",
+   "group": [],
+   "text": "Luftfartsverket ska fortsätta arbetet med att identifiera behov av och, i de fall myndigheten bedömer det lämpligt, teckna avtal som syftar till att upprätthålla försörjningen av varor och tjänster som är nödvändiga för myndighetens prioriterade uppgifter vid fredstida kriser och höjd beredskap. I de fall Luftfartsverket nyttjar särskilda avtalsformer i form av sådana försörjningsberedskapsavtal (F-avtal) som beskrivs i betänkandet Nya samverkansformer, modern byggnads- och reparationsberedskap – för ökad försörjningsberedskap (SOU 2025:68) ska dessa avtal löpande rapporteras till Myndigheten för civilt försvar. Uppdraget ska redovisas till Regeringskansliet (Landsbygds- och infrastrukturdepartementet med kopia till Försvarsdepartementet) senast den 22 februari 2027, och ingå i den särskilda redovisningen för civilt försvar. Som stöd för arbetet kan myndigheten använda bland annat rapporten Utgångspunkter för totalförsvaret 2025–2030 (FM2025-19772:2, MSB 2025-08877).",
+   "dates": [
+    "2027-02-22"
+   ],
+   "deadlines": [
+    "2027-02-22"
+   ],
+   "recipients": [
+    "Myndigheten för civilt försvar",
+    "Regeringskansliet (Landsbygds- och infrastrukturdepartementet med kopia till Försvarsdepartementet)"
+   ],
+   "partners": [
+    "Myndigheten för civilt försvar",
+    "Myndigheten för samhällsskydd och beredskap"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27463:assignments:2"
+  },
+  {
+   "title": "Prognoser",
+   "group": [],
+   "text": "Luftfartsverket ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Prognoserna ska lämnas i informationssystemet Hermes senast den\n\n2 februari,\n\n22 april,\n\n24 juli, och\n\n9 november.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27463:assignments:3"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "1:1",
+   "name": "Utveckling av statens transportinfrastruktur",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 22,
+    "name": "Kommunikationer"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Luftfartsverket",
+     "amount_tkr": 174837,
+     "items": [
+      {
+       "ap": "2",
+       "name": "Civilt försvar - till Luftfartsverket (ram)",
+       "amount_tkr": 159837
+      },
+      {
+       "ap": "16",
+       "name": "Navigeringsutrustning (ram)",
+       "amount_tkr": 15000
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "2",
+     "name": "Civilt försvar - till Luftfartsverket",
+     "text": "Luftfartsverket disponerar medel till utgifter för förvaltningskostnader och andra åtgärder för beredskap och civilt försvar inom transportområdet. Medel får användas för uppdraget att förbereda för upphandling av ramavtal avseende navigeringsutrustning."
+    },
+    {
+     "ap": "16",
+     "name": "Navigeringsutrustning",
+     "text": "Medlen får användas för anskaffning av navigeringsutrustning för luftfart."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "1:6",
+   "name": "Ersättning avseende flygplatser",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 22,
+    "name": "Kommunikationer"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Luftfartsverket",
+     "amount_tkr": 16000,
+     "items": [
+      {
+       "ap": "5",
+       "name": "Flygtrafiktjänst (ram)",
+       "amount_tkr": 16000
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "5",
+     "name": "Flygtrafiktjänst",
+     "text": "Medel får användas till utgifter för att täcka kostnader för sådana flygningar som är undantagna från avgift för flygtrafiktjänster inom ramen för tillämpningen av kommissionens genomförandeförordning (EU) 2019/317 av den 11 februari 2019 om inrättande av ett prestations- och avgiftssystem i det gemensamma europeiska luftrummet och om upphävande av genomförandeförordningarna (EU) nr 390/2013 och (EU) nr 391/2013."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "1:17",
+   "name": "Infrastruktur för flygtrafiktjänst",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 22,
+    "name": "Kommunikationer"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Luftfartsverket",
+     "amount_tkr": 387000,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Infrastruktur för flygtrafiktjänst (ram)",
+       "amount_tkr": 387000
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Infrastruktur för flygtrafiktjänst",
+     "text": "Anslaget får användas för kapitalkostnader avseende investeringar samt övriga utgifter, drift och underhåll avseende statliga åtaganden för flygtrafiktjänst."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "1:19",
+   "name": "Obemannad luftfart",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 22,
+    "name": "Kommunikationer"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Luftfartsverket",
+     "amount_tkr": 30000,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Obemannad luftfart (ram)",
+       "amount_tkr": 30000
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Obemannad luftfart",
+     "text": "Anslaget får användas för utgifter för Luftfartsverkets arbete med obemannad luftfart."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "1:1 Utveckling av statens transportinfrastruktur",
+   "ap": "ap.2",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:1 Utveckling av statens transportinfrastruktur",
+   "ap": "ap.16",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:6 Ersättning avseende flygplatser",
+   "ap": "ap.5",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:17 Infrastruktur för flygtrafiktjänst",
+   "ap": "ap.1",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:19 Obemannad luftfart",
+   "ap": "ap.1",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "- Låneram": 1500000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 42153
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 42153
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 42153
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 42153
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 42153
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 50153
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 50153
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 50153
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 50153
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 50153
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 50153
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 50154
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:1 Utveckling av statens transportinfrastruktur",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.2",
+     "0",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.16",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "1:6 Ersättning avseende flygplatser",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.5",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "1:17 Infrastruktur för flygtrafiktjänst",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "1:19 Obemannad luftfart",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "0",
+     "Inget",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     ""
+    ],
+    [
+     "Låneram för samhällsinvesteringar"
+    ],
+    [
+     "- Låneram",
+     "1 500 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "42 153"
+    ],
+    [
+     "2026-02-25",
+     "42 153"
+    ],
+    [
+     "2026-03-25",
+     "42 153"
+    ],
+    [
+     "2026-04-25",
+     "42 153"
+    ],
+    [
+     "2026-05-25",
+     "42 153"
+    ],
+    [
+     "2026-06-25",
+     "50 153"
+    ],
+    [
+     "2026-07-25",
+     "50 153"
+    ],
+    [
+     "2026-08-25",
+     "50 153"
+    ],
+    [
+     "2026-09-25",
+     "50 153"
+    ],
+    [
+     "2026-10-25",
+     "50 153"
+    ],
+    [
+     "2026-11-25",
+     "50 153"
+    ],
+    [
+     "2026-12-25",
+     "50 154"
+    ],
+    [
+     "Summa",
+     "561 837"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "1:1 ap.2",
+     "Civilt försvar - till Luftfartsverket"
+    ],
+    [
+     "1:1 ap.16",
+     "Navigeringsutrustning"
+    ],
+    [
+     "1:17 ap.1",
+     "Infrastruktur för flygtrafiktjänst"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [],
+ "has_fee_section": true,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 3,
+  "n_org": 0,
+  "n_assignments": 4,
+  "n_deadlines": 4,
+  "deadlines": [
+   "2026-02-22",
+   "2026-02-23",
+   "2026-03-01",
+   "2027-02-22"
+  ],
+  "partners": [
+   "Myndigheten för civilt försvar",
+   "Myndigheten för samhällsskydd och beredskap"
+  ],
+  "n_appropriations": 4,
+  "appropriations_total_tkr": 607837,
+  "payment_plan_total_tkr": 561837,
+  "md_chars": 12505
+ },
+ "layout": "standard",
+ "warnings": []
+}

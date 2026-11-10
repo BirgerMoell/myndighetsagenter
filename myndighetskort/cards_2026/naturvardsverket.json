@@ -1,0 +1,2656 @@
+{
+ "schema_version": 1,
+ "id": 26332,
+ "original_rbid": 25998,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-06-18",
+ "year": "2026",
+ "name": "Naturvårdsverket",
+ "slug": "naturvardsverket",
+ "department": "Klimat- och näringslivsdepartementet",
+ "expenditure_areas": [
+  20
+ ],
+ "registry_numbers": [
+  "KN2026/01307 (delvis)",
+  "KN2026/01376",
+  "KN2026/01387"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1",
+   "2025/26:275",
+   "2025/26:99"
+  ],
+  "bet": [
+   "2025/25:MJU1",
+   "2025/26:FiU21",
+   "2025/26:FiU47"
+  ],
+  "rskr": [
+   "2025/26:128",
+   "2025/26:427"
+  ]
+ },
+ "n_attachments_stated": 2,
+ "mission": "",
+ "goals": [
+  {
+   "title": "Handläggningstider för Ladda bilen",
+   "group": [],
+   "text": "Naturvårdsverket ska redovisa hur myndigheten har arbetat för att korta handläggningstiderna för bidraget Ladda bilen, samt redovisa hur handläggningstiderna för såväl beslut om stöd samt beslut om utbetalning har utvecklats.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26332:goals:0"
+  },
+  {
+   "title": "Minska spridning av PFAS",
+   "group": [],
+   "text": "Naturvårdsverket ska redovisa hur myndigheten har arbetat för att minska spridningen av per- och polyfluorerade alkylsubstanser (PFAS) i miljön. Av redovisningen ska de genomförda åtgärderna framgå samt vilka effekter dessa åtgärder bedöms få.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26332:goals:1"
+  },
+  {
+   "title": "Myndighetssamarbete med att genomföra EU:s ekodesignförordning",
+   "group": [],
+   "text": "Naturvårdsverket ska redovisa hur myndigheten, tillsammans med Statens energimyndighet, Kemikalieinspektionen, Styrelsen för ackreditering och teknisk kontroll och Upphandlingsmyndigheten, har utarbetat synpunkter och förslag samt varit pådrivande i ekodesignforumet och dess expertgrupp för medlemsstater och i andra relevanta processer för genomförandet av Europaparlamentets och rådets förordning (EU) 2024/1781 av den 13 juni 2024 om upprättande av en ram för att fastställa ekodesignkrav för hållbara produkter, om ändring av direktiv (EU) 2020/1828 och förordning (EU) 2023/1542 och om upphävande av direktiv 2009/125/EG. Naturvårdsverket ska som sammankallande myndighet redovisa sitt arbete för att samordna myndigheternas arbete.",
+   "dates": [
+    "2024-06-13"
+   ],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Kemikalieinspektionen",
+    "Statens energimyndighet",
+    "Styrelsen för ackreditering och teknisk kontroll",
+    "Upphandlingsmyndigheten"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "utveckla",
+    "tillsyn_kontroll",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26332:goals:2"
+  },
+  {
+   "title": "Återföring av näringsämnen",
+   "group": [],
+   "text": "Naturvårdsverket ska redovisa vilka insatser myndigheten har gjort inom den regionala strategin för återvinning av näringsämnen i Östersjöområdet och aktionsplanen för Östersjön med syfte att öka återföringen av näringsämnen och minska övergödningen.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26332:goals:3"
+  },
+  {
+   "title": "Information och dialog om viltforskning och projekt finansierade av viltvårdsfonden",
+   "group": [],
+   "text": "Naturvårdsverket ska redovisa hur myndigheten arbetar med och bidrar till att kunskap och erfarenheter från forskning och projekt som finansieras genom viltvårdsfonden, för att utveckla jakten och viltvården i Sverige når berörda aktörer.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26332:goals:4"
+  },
+  {
+   "title": "Förvaltningsverktyg för toleransnivåer för skador inom rennäringen",
+   "group": [],
+   "text": "Naturvårdsverket ska redovisa hur myndigheten har bidragit till arbetet att tillsammans med Sametinget fortsätta utveckla ett förvaltningsverktyg utifrån fastställda toleransnivåer för skador orsakade av stora rovdjur inom rennäringen. Naturvårdsverket ska redovisa sitt arbete med att vägleda om toleransnivåns betydelse vid en eventuell prövning av förutsättningarna för jakt på stora rovdjur.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Sametinget"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla",
+    "informera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26332:goals:5"
+  },
+  {
+   "title": "Återvätning av jordbruksmark",
+   "group": [],
+   "text": "Naturvårdsverket ska redovisa hur myndigheten har samarbetat med Statens jordbruksverk i genomförande av projekt som berör återvätning av jordbruksmark. Av redovisning ska det framgå hur projekt med Statens jordbruksverks medverkan har genomförts vad gäller relevans, kvalitet och kostnadseffektivitet samt hur enskilda jordbrukare har informerats om eventuella konsekvenser av sitt deltagande för att få möjlighet till stöd inom den gemensamma jordbrukspolitiken.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Statens jordbruksverk"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla",
+    "informera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26332:goals:6"
+  },
+  {
+   "title": "Uppföljning av överklaganden",
+   "group": [],
+   "text": "Naturvårdsverket ska redovisa de ärenden där myndigheten har överklagat ett beslut eller en dom som en statlig förvaltningsmyndighet eller en domstol har meddelat, samt skälen till överklagandet och status för eller utfallet av överklagandet.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26332:goals:7"
+  }
+ ],
+ "org": [
+  {
+   "title": "Säkerställa proaktivitet och handlingskraft vid fredstida krissituationer eller vid krig och krigsfara",
+   "group": [],
+   "text": "Naturvårdsverket ska säkerställa att myndigheten har förmåga att agera proaktivt och handlingskraftigt i hanteringen av såväl fredstida krissituationer som vid krig och krigsfara. Utöver de krav som ställs i förordningen (2022:524) om statliga myndigheters beredskap ska Naturvårdsverket i detta syfte utbilda och öva sin personal samt se till att myndigheten stärker en kultur och arbetssätt som utgår från de krav som ett krig ställer. Uppdraget ska redovisas till Regeringskansliet (Klimat- och näringslivsdepartementet och Försvarsdepartementet) senast den 22 februari 2027. Detta ska ingå i den särskilda redovisningen för civilt försvar.",
+   "dates": [
+    "2027-02-22"
+   ],
+   "deadlines": [
+    "2027-02-22"
+   ],
+   "recipients": [
+    "Regeringskansliet (Klimat- och näringslivsdepartementet och Försvarsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2022:524"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "org",
+   "item_id": "26332:org:0"
+  }
+ ],
+ "assignments": [
+  {
+   "title": "Redovisa utgiftsprognoser",
+   "group": [],
+   "text": "Naturvårdsverket ska redovisa utgiftsprognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Prognoserna lämnas via informationssystemet Hermes senast den\n\n- 2 februari,\n\n- 22 april,\n\n- 24 juli och\n\n- 9 november.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26332:assignments:0"
+  },
+  {
+   "title": "Redovisa prognos för beställningsbemyndiganden",
+   "group": [],
+   "text": "Naturvårdsverket ska redovisa en prognos för de förslag om beställningsbemyndiganden som lämnats i budgetunderlaget och för de åtaganden som ingåtts med stöd av äldre beställningsbemyndiganden. Prognosen ska lämnas senast den 24 juli 2026 via informationssystemet Hermes och utformas enligt närmare information från Statskontoret.",
+   "dates": [
+    "2026-07-24"
+   ],
+   "deadlines": [
+    "2026-07-24"
+   ],
+   "forecast_dates": [],
+   "recipients": [],
+   "partners": [
+    "Statskontoret"
+   ],
+   "channels": [
+    "hermes",
+    "budgetunderlag"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26332:assignments:1"
+  },
+  {
+   "title": "Utveckla utsläppsscenarier",
+   "group": [],
+   "text": "Naturvårdsverket ska analysera hur transparensen, tydligheten och träffsäkerheten i utsläppsscenarierna på klimatområdet kan förbättras. Myndigheten ska även genomföra förbättringar, tex. vad gäller att redovisa antaganden och osäkerheter i underlaget, senast till 2027 års klimatredovisning. Naturvårdsverket kan vid behov lämna förslag för att bidra till ytterligare förbättringar. Naturvårdsverket ska vid behov inhämta synpunkter från de myndigheter. som anges i 32-38 §§ Klimatrapporteringsförordningen. Uppdraget ska redovisas till Regeringskansliet (Klimat- och näringslivsdepartementet) senast den 31 mars 2027 i samband med underlaget till regeringens klimatredovisning.",
+   "dates": [
+    "2027-03-31"
+   ],
+   "deadlines": [
+    "2027-03-31"
+   ],
+   "recipients": [
+    "Regeringskansliet (Klimat- och näringslivsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "föreslå",
+    "samordna",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26332:assignments:2"
+  },
+  {
+   "title": "Analysera EU:s klimatramverk till 2040",
+   "group": [],
+   "text": "Naturvårdsverket ska analysera förslag från Europeiska kommissionen på åtgärder som kan införas på EU-nivå samt andra relevanta förslag som kopplar till EU:s klimatmål, med särskilt fokus på EU:s utsläppshandelssystem, CBAM, LULUCF, Artikel 6 i Parisavtalet och eventuella medlemsländers klimatåtaganden. I analyserna ska Naturvårdsverket beakta förslagens samhällsekonomiska effektivitet, effekter för Sverige, påverkan på konkurrenskraft, risker för koldioxidläckage utanför EU och förenlighet med EU-fördragets principer. Delredovisningar ska ske löpande efter avstämning med Regeringskansliet (Klimat- och näringslivsdepartementet). Uppdraget ska slutredovisas senast den 31 december 2027.",
+   "dates": [
+    "2027-12-31"
+   ],
+   "deadlines": [
+    "2027-12-31"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "delredovisning",
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26332:assignments:3"
+  },
+  {
+   "title": "Verktyg för att bedöma effekter på nettoupptaget av växthusgaser vid exploatering",
+   "group": [],
+   "text": "Naturvårdsverket ska utveckla ett verktyg med standardiserade metoder för att bedöma effekten på nettoupptaget av växthusgaser vid förändrad markanvändning vid exploatering för bebyggelse eller infrastruktur. Uppdraget ska genomföras i dialog med Sveriges lantbruksuniversitet, Boverket och Trafikverket. Uppdraget ska redovisas till Regeringskansliet (Klimat- och näringslivsdepartementet) senast den 1 mars 2027.",
+   "dates": [
+    "2027-03-01"
+   ],
+   "deadlines": [
+    "2027-03-01"
+   ],
+   "recipients": [
+    "Regeringskansliet (Klimat- och näringslivsdepartementet)"
+   ],
+   "partners": [
+    "Boverket",
+    "Sveriges lantbruksuniversitet",
+    "Trafikverket"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26332:assignments:4"
+  },
+  {
+   "title": "Redovisa stöd till lokala klimatinvesteringar - Klimatklivet",
+   "group": [],
+   "text": "Naturvårdsverket ska samlat redovisa hur medlen inom anslag 1:16*Klimatinvesteringar*har använts sedan anslagets start 2015. Redovisningen ska innehålla uppgifter om beslutade investeringar, om faktiska såväl som förväntade resultat och om samhällsekonomiska effekter. Myndigheten ska även redogöra för hur stor del av utsläppsminskningarna som har uppstått inom respektive utanför Sveriges gränser. Myndigheten ska också föreslå förändringar som kan öka stödens samhällsekonomiska effektivitet.\n\nRedovisningen ska göras med hjälp av underlag från länsstyrelserna via Länsstyrelsen i Dalarnas län och Statens energimyndighet. Uppdraget ska redovisas till Regeringskansliet (Klimat- och näringslivsdepartementet) senast den 15 april. Naturvårdsverket ska också ansvara för att Sverige uppfyller kraven i EU-kommissionens antagna utvärderingsplan för Klimatklivet.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [
+    "Regeringskansliet (Klimat- och näringslivsdepartementet)"
+   ],
+   "partners": [
+    "Statens energimyndighet",
+    "länsstyrelserna"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "föreslå",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [
+    "1:16"
+   ],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26332:assignments:5"
+  },
+  {
+   "title": "Identifiera projekt och centrala marknadsaktörer inom återvinningsledet av värdekedjan för kritiska råmaterial",
+   "group": [],
+   "text": "Naturvårdsverket ska utföra de uppgifter som åligger Sverige enligt artikel 21.2 i EU-förordningen om kritiska råmaterial vad gäller identifiering av relevanta projekt och centrala marknadsaktörer inom återvinningsledet i värdekedjan för kritiska råmaterial. Naturvårdsverket ska även bistå Sveriges geologiska undersökning (SGU) med den information som behövs för att SGU ska kunna rapportera till EU-kommissionen enligt samma förordning. Naturvårdsverket ska redovisa till SGU som genomför rapporteringen enligt EU-förordningen om kritiska råmaterial.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Sveriges geologiska undersökning"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26332:assignments:6"
+  },
+  {
+   "title": "Uppdatera den svenska genomförandeplanen för Stockholmskonventionen",
+   "group": [],
+   "text": "Naturvårdsverket ska, med stöd av Kemikalieinspektionen, uppdatera den svenska genomförandeplanen för Stockholmskonventionen om långlivade organiska föroreningar. Uppdateringen ska omfatta de sju ämnen eller ämnesgrupper, inklusive två grupper PFAS-ämnen, som parterna har beslutat lägga till konventionen sedan den senaste genomförandeplanen från 2020 samt ny, relevant information om tidigare ämnen exempelvis polyklorerade bifenyler (PCB). Den uppdaterade genomförandeplanen ska överlämnas till Regeringskansliet senast den 31 mars 2027.",
+   "dates": [
+    "2027-03-31"
+   ],
+   "deadlines": [
+    "2027-03-31"
+   ],
+   "recipients": [
+    "Regeringskansliet"
+   ],
+   "partners": [
+    "Kemikalieinspektionen"
+   ],
+   "channels": [],
+   "task_types": [
+    "utveckla",
+    "tillsyn_kontroll"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26332:assignments:7"
+  },
+  {
+   "title": "Förebygga förluster av plastpellets för att minska mikroplastföroreningar",
+   "group": [],
+   "text": "Naturvårdsverket ska analysera och lämna förslag på behöriga myndigheter samt de åtgärder och nödvändiga författningsändringar som krävs för att Europaparlamentets och rådets förordning (EU) nr 2365/2025 av den 12 november 2025 om förebyggande av förluster av plastpellets för att minska mikroplastförorening, ska kunna tillämpas. I uppdraget ingår att identifiera vilka överträdelser av förordningen som lämpligen bör omfattas av sanktioner och vilka överträdelser som bedöms som allvarliga. Myndigheten behöver däremot inte lämna förslag på utformning av sanktionsbestämmelser. Konsekvenserna av de förslag som lämnas ska redovisas i enlighet med förordningen (2024:183) om konsekvensutredningar. Naturvårdsverket ska inhämta synpunkter på förslagen från Transportstyrelsen, i synnerhet vad gäller delar som relaterar till land- och sjötransporter, och vid behov från andra berörda myndigheter. Naturvårdsverket ska löpande informera Regeringskansliet (Klimat- och näringslivsdepartementet) om hur arbetet med uppdraget fortskrider. Uppdraget ska redovisas till Regeringskansliet (Klimat- och näringslivsdepartementet) senast den 30 augusti 2026.",
+   "dates": [
+    "2025-11-12",
+    "2026-08-30"
+   ],
+   "deadlines": [
+    "2026-08-30"
+   ],
+   "recipients": [
+    "Regeringskansliet (Klimat- och näringslivsdepartementet)"
+   ],
+   "partners": [
+    "Transportstyrelsen"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "föreslå",
+    "samordna",
+    "informera",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2024:183"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26332:assignments:8"
+  },
+  {
+   "title": "Genomföra EU:s reviderade avloppsvattendirektiv",
+   "group": [],
+   "text": "Naturvårdsverket ska i det fortsatta genomförandet av EU:s reviderade avloppsvattendirektiv (EU) 2024/3019 av den 27 november 2024 om rening av avloppsvatten från tätbebyggelse göra de riskbedömningar som ska ligga till grund för förteckningar över särskilda områden enligt artiklarna 7.2 och 8.2, utbyggnadsplaner för tertiär och kvartär rening samt utveckla en ersättningsmodell för producentansvar för kostnader för kvartär rening. Myndigheten ska löpande föra dialog med Regeringskansliet (Klimat- och näringslivsdepartementet) och vid behov redovisa förslag till författningsändringar samt skäl och konsekvensbeskrivning för dessa samt eventuella övriga nya behov som har identifierats. Uppdraget ska genomföras i samarbete med Havs- och vattenmyndigheten, Läkemedelsverket, Tandvårds- och läkemedelsförmånsverket samt länsstyrelserna. Uppdraget ska redovisas till regeringen (Klimat- och näringslivsdepartementet) senast den 30 april 2029.",
+   "dates": [
+    "2024-11-27",
+    "2029-04-30"
+   ],
+   "deadlines": [
+    "2029-04-30"
+   ],
+   "recipients": [
+    "regeringen"
+   ],
+   "partners": [
+    "Havs- och vattenmyndigheten",
+    "Läkemedelsverket",
+    "Tandvårds- och läkemedelsförmånsverket",
+    "länsstyrelserna"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26332:assignments:9"
+  },
+  {
+   "title": "Nationell samordning för avloppsfrågor",
+   "group": [],
+   "text": "Naturvårdsverket ska vidta åtgärder för att förbättra samordningen kring avloppsfrågor. I uppdraget ingår att, i samråd med berörda myndigheter, ta fram förslag för hur samordningen för avloppsfrågor på nationell nivå ska förbättras. Det övergripande syftet med uppdraget är att förbättra samordningen av arbetet kring avloppsfrågor, inklusive dagvatten, klimatanpassning och beredskap, för en trygg och säker avloppshantering. Förslaget bör omfatta former för samordning, syfte och avgränsning samt vilka andra myndigheter och aktörer som bör ingå samt en beskrivning av eventuella hinder för samordning. Möjligheter att samordna arbetet med den nationella samordningsgruppen för dricksvatten ska beaktas. Arbetet ska också utgöra en del för att stärka det civila försvaret inom beredskapssektorn för livsmedelsförsörjning och dricksvatten. Uppdraget ska redovisas till Regeringskansliet (Klimat- och näringslivsdepartementet) senast den 30 september 2026.",
+   "dates": [
+    "2026-09-30"
+   ],
+   "deadlines": [
+    "2026-09-30"
+   ],
+   "recipients": [
+    "Regeringskansliet (Klimat- och näringslivsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26332:assignments:10"
+  },
+  {
+   "title": "Vägledning om kommunala vattentjänstplaner",
+   "group": [],
+   "text": "Naturvårdsverket ska tillsammans med Havs- och vattenmyndigheten, Livsmedelsverket och Boverket ta fram en vägledning för kommunala vattentjänstplaner enligt 6 a och b §§ lagen (2006:412) om allmänna vattentjänster. Uppdraget ska samordnas av Havs- och vattenmyndigheten. Synpunkter ska inhämtas från andra berörda myndigheter och aktörer. Uppdraget omfattar att se över hur befintlig vägledning behöver kompletteras och anpassas för att beakta klimatförändringars effekter, både avseende nederbörd och torka, samt behovet av beredskapsåtgärder. Uppdraget omfattar inte att ta fram vägledning inom plan- och byggområdet. Havs- och vattenmyndigheten ska också överväga om det finns behov av en tillsynsmyndighet för kommunala vattentjänstplaner. Om det behövs ska Havs- och vattenmyndigheten, med stöd av berörda myndigheter, lämna förslag på författningsändringar samt redovisa skäl och en konsekvensbeskrivning i enlighet med förordningen (2024:183) om konsekvensutredningar. Uppdraget ska redovisas till Regeringskansliet (Klimat- och näringslivsdepartementet) senast den 31 december 2026.",
+   "dates": [
+    "2026-12-31"
+   ],
+   "deadlines": [
+    "2026-12-31"
+   ],
+   "recipients": [
+    "Regeringskansliet (Klimat- och näringslivsdepartementet)"
+   ],
+   "partners": [
+    "Boverket",
+    "Havs- och vattenmyndigheten",
+    "Livsmedelsverket"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "föreslå",
+    "samordna",
+    "tillsyn_kontroll",
+    "informera",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2006:412",
+    "2024:183"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26332:assignments:11"
+  },
+  {
+   "title": "Uppbyggnad av livsmedelsberedskapen och dricksvattenförsörjningen",
+   "group": [],
+   "text": "Naturvårdsverkets arbete med civilt försvar ska syfta till att utveckla och stärka det civila försvaret och därmed bidra till en högre samlad förmåga inom totalförsvaret.\n\nInvesteringsprogram\\\nNaturvårdsverket ska bidra till att utveckla investeringsprogram för förmågeutveckling inom beredskapssektorn livsmedelsförsörjning och dricksvatten. Naturvårdsverket ska utveckla och förvalta investeringsprogram gällande avfalls- och avloppshantering. Investeringsprogrammet finansieras via utgiftsområde 23 anslag Areella näringar, landsbygd och livsmedel och anslaget 1:26 Åtgärder för beredskap inom livsmedels- och dricksvattenområdet. Arbetet ska redovisas i beredskapssektorns gemensamma redovisning som Livsmedelsverket ska lämna till Regeringskansliet (Landsbygds- och infrastrukturdepartementet) senast den 22 februari 2027.",
+   "dates": [
+    "2027-02-22"
+   ],
+   "deadlines": [
+    "2027-02-22"
+   ],
+   "recipients": [
+    "Regeringskansliet (Landsbygds- och infrastrukturdepartementet)"
+   ],
+   "partners": [
+    "Livsmedelsverket"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [
+    "1:26"
+   ],
+   "expenditure_area_refs": [
+    23
+   ],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26332:assignments:12"
+  },
+  {
+   "title": "Näringslivets arbete med biologisk mångfald",
+   "group": [],
+   "text": "Naturvårdsverket ska, i dialog med relevanta myndigheter och aktörer verka för samverkan, erfarenhetsutbyte och kunskapsspridning om näringslivets beroende och påverkan på biologisk mångfald. Arbetet ska uppmärksamma konkreta och effektiva möjligheter för företag att arbeta genom sin värdekedja för minskad direkt och indirekt påverkan som stärker företagens konkurrenskraft och beredskap, både lokalt, regionalt och inom EU samt globalt. Arbetet ska bidra till genomförandet av Kunming-Montreal-ramverket för biologisk mångfald. Framtagande av förslag till fortsatt arbete ska ske i samverkan med näringslivet och andra berörda aktörer. Uppdraget ska redovisas till Regeringskansliet (Klimat- och näringslivsdepartementet) senast den 31 september 2028. Redovisningen ska innehålla en analys av näringslivets arbete med biologisk mångfald och innehålla förslag till fortsatt arbete.",
+   "dates": [
+    "2028-09-31"
+   ],
+   "deadlines": [
+    "2028-09-31"
+   ],
+   "recipients": [
+    "Regeringskansliet (Klimat- och näringslivsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "utveckla",
+    "beredskap_säkerhet",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26332:assignments:13"
+  },
+  {
+   "title": "Uppföljning av våtmarksarbete",
+   "group": [],
+   "text": "Naturvårdsverket ska i samarbete med övriga berörda myndigheter redovisa resultat av den restaurering, anläggning och skötsel av våtmarker som har genomförts med stöd av anslag 1:3*Åtgärder för värdefull natur*och andra statliga medel från Skogsstyrelsen, länsstyrelserna, Statens fastighetsverk, Fortifikationsverket och Statens jordbruksverk. Resultaten ska sammanställas på ett enhetligt sätt och redovisas i den årliga uppföljningen av miljömålen.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Fortifikationsverket",
+    "Skogsstyrelsen",
+    "Statens fastighetsverk",
+    "Statens jordbruksverk",
+    "länsstyrelserna"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera"
+   ],
+   "anslag_refs": [
+    "1:3"
+   ],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26332:assignments:14"
+  },
+  {
+   "title": "Sammanställa medel för biologisk mångfald",
+   "group": [],
+   "text": "Naturvårdsverket ska sammanställa och redovisa de finansiella medel för biologisk mångfald som har använts av myndigheter under 2025. Redovisningen ska utgöra underlag till Sveriges rapportering om resursmobilisering och utformas i enlighet med relevanta beslut om nationell rapportering som fattats inom FN:s konvention om biologisk mångfald (CBD). Naturvårdsverket ska genomföra arbetet med stöd av Havs- och vattenmyndigheten, Statens jordbruksverk och Skogsstyrelsen. Uppdraget ska redovisas till Regeringskansliet (Klimat- och näringslivsdepartementet) senast den 30 juni 2026.",
+   "dates": [
+    "2026-06-30"
+   ],
+   "deadlines": [
+    "2026-06-30"
+   ],
+   "recipients": [
+    "Regeringskansliet (Klimat- och näringslivsdepartementet)"
+   ],
+   "partners": [
+    "Havs- och vattenmyndigheten",
+    "Skogsstyrelsen",
+    "Statens jordbruksverk"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26332:assignments:15"
+  },
+  {
+   "title": "Uppföljning av strandskydd",
+   "group": [],
+   "text": "Naturvårdsverket ska redovisa statistik över de beslut som kommuner och länsstyrelser har fattat i ärenden om upphävande av och dispens från strandskyddet, samt i ärenden om tillsyn över strandskyddet. Av redovisningen ska det framgå hur många upphävanden och dispenser samt nekade upphävanden och dispenser som respektive länsstyrelse och kommun har beslutat om under 2025, fördelat på kommuner och olika typer av kommuner. Av redovisningen ska det även framgå hur många tillsynsbeslut som har fattats under 2025, fördelat på kommuner och olika typer av kommuner. Statistiken ska visa vilket ändamål upphävandet haft, för vilken åtgärd dispensen har getts och vilket särskilt skäl som ligger till grund för dispensbeslutet samt om beslutet avser en nyetablering. I fråga om tillsynsbeslut ska ändamålet med beslutet anges. Naturvårdsverket ska även redovisa antal kommunala beslut om dispens från eller upphävande av strandskyddet som har överklagats eller som en länsstyrelse har beslutat att överpröva enligt 19 kap. 3 b § miljöbalken, samt kommuners och länsstyrelsers tillsynsbeslut som har överklagats. Uppdraget ska redovisas till Regeringskansliet (Klimat- och näringslivsdepartementet) senast den 30 april 2026.",
+   "dates": [
+    "2026-04-30"
+   ],
+   "deadlines": [
+    "2026-04-30"
+   ],
+   "recipients": [
+    "Regeringskansliet (Klimat- och näringslivsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "fördela_medel",
+    "tillsyn_kontroll",
+    "statistik_data"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26332:assignments:16"
+  },
+  {
+   "title": "Förenkla för företag genom verksamt.se",
+   "group": [],
+   "text": "Naturvårdsverket ska förvalta myndighetens innehåll på den myndighetsgemensamma webbplatsen verksamt.se.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26332:assignments:17"
+  },
+  {
+   "title": "Marknadskontroll för ökad regelefterlevnad",
+   "group": [],
+   "text": "Naturvårdsverket ska arbeta aktivt och riskbaserat inom marknadskontroll med särskilt fokus på produkter som inte lever upp till EU:s marknadskontrollförordning (EU) 2019/1020), inklusive produkter för privat användning. Myndigheten ska även beskriva hur myndigheten har samarbetat med övriga relevanta marknadskontrollmyndigheter och Tullverket, inklusive bidragit till marknadskontrollinsatser och marknadskontrollaktiviteter på EU-nivå, och vad samarbetet resulterat i gällande operativa insatser avseende e-handel från tredje land. Uppdraget ska redovisas till Regeringskansliet (Utrikesdepartementet med kopia till Klimat- och näringslivsdepartementet) senast den 15 mars 2027.",
+   "dates": [
+    "2027-03-15"
+   ],
+   "deadlines": [
+    "2027-03-15"
+   ],
+   "recipients": [
+    "Regeringskansliet (Utrikesdepartementet med kopia till Klimat- och näringslivsdepartementet)"
+   ],
+   "partners": [
+    "Tullverket"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "tillsyn_kontroll",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26332:assignments:18"
+  },
+  {
+   "title": "Fördela bidrag och redovisa kommunala förstudier för effektiv etablering av ny kärnkraft",
+   "group": [],
+   "text": "Naturvårdsverket ska betala ut bidrag till kommuner som avser bedriva förstudier för ny kärnkraft (KN2025/02400). Ansökningar om bidrag ska prövas efter utlysning, minst en gång per år. Bidrag får ges till sådana förstudier som bidrar till att utveckla arbetssätt för en koordinerad process som möjliggör effektiva plan- och tillståndsprocesser för etablering av kärntekniska anläggningar. Förstudierna kan t.ex. ha inriktning på kompetensförsörjning för att underlätta dialogen med bolag som planerar etablera en kärnteknisk anläggning i kommunen eller utredningar relaterade till lokal fysisk planering. Som villkor för bidrag ska kommunerna redovisa till Naturvårdsverket hur bidraget har skapat förutsättningar för effektiva processer och därmed bidragit till att föra kommunen närmare beslut om nyetablering av en kärnteknisk anläggning i kommunen. Med syfte att öka kompetensen bland kommuner om effektiva processer för etablering av ny kärnkraft ska Naturvårdsverket tillgängliggöra resultat från förstudierna samt arrangera ett årligt återkommande evenemang för att sprida kunskap om t.ex. metoder för effektiv kommunikation och framdrift samt samordning mellan olika processer.\n\nNaturvårdsverket ska redovisa hur kommunerna har arbetat för att utveckla planeringsförutsättningar och arbetssätt med tillståndsprocesser för att bidra till målsättningarna enligt energipolitikens långsiktiga inriktning (prop. 2023/24:105) för planerbar elproduktion och klimatneutralitet 2045. Naturvårdsverkets redovisning ska innehålla en sammanställning av kommunernas genomförda åtgärder samt vilka effekter dessa åtgärder bedöms få för etablering av nya kärntekniska anläggningar och hur erfarenheter som genereras inom förstudierna kan utvecklas vidare. Naturvårdsverket ska också lämna förslag som kan öka bidragets samhällsekonomiska effektivitet. Uppdraget ska redovisas årligen till Regeringskansliet senast den 15 februari fram till 2030.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [
+    "Regeringskansliet"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "föreslå",
+    "fördela_medel",
+    "utveckla",
+    "informera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26332:assignments:19"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "1:1",
+   "name": "Naturvårdsverket",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 20,
+    "name": "Klimat, miljö och natur"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Naturvårdsverket",
+     "amount_tkr": 787432,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Naturvårdsverket (ram)",
+       "amount_tkr": 787432
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Naturvårdsverket",
+     "text": "1. Anslagsposten får användas för Naturvårdsverkets förvaltningskostnader.\n2. Anslagsposten får användas till kostnader för kanslistöd m.m. till Miljömålsrådet.\n3. Anslagsposten får användas för bidrag till utvecklingsarbete som andra än Naturvårdsverket organiserat och som främjar de verksamheter som Naturvårdsverket ansvarar för.\n4. Anslagsposten får användas till kostnader för deltagande i sekretariatsfunktionen i nätverket European Network of the Heads of Environment Protection Agencies.\n5. 20 000 000 kronor ska användas som bidrag till kommuner som bedriver förstudier för ny kärnkraft. Naturvårdsverket beslutar om fördelningen av medlen. Som villkor för bidrag ska kommunerna redovisa till Naturvårdsverket hur bidraget har skapat förutsättningar för effektivare processer med att etablera ny kärnkraft.\n6. 10 000 000 kronor får användas för marknadskontroll av batterier. Dessa medel får användas först efter beslut av regeringen."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "1:2",
+   "name": "Miljöövervakning m.m.",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 20,
+    "name": "Klimat, miljö och natur"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Naturvårdsverket",
+     "amount_tkr": 250200,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Miljöövervakning (ram)",
+       "amount_tkr": 235200
+      },
+      {
+       "ap": "6",
+       "name": "Bidrag till ideella miljöorganisationer (ram)",
+       "amount_tkr": 10000
+      },
+      {
+       "ap": "9",
+       "name": "Delegationen för cirkulär ekonomi (ram)",
+       "amount_tkr": 5000
+      }
+     ],
+     "sum_ok": true
+    },
+    {
+     "by": "Havs- och vattenmyndigheten",
+     "amount_tkr": 137514,
+     "items": [
+      {
+       "ap": "3",
+       "name": "Miljöövervakning m m - del till Havs- och vattenmyndigheten (ram)",
+       "amount_tkr": 134514
+      },
+      {
+       "ap": "5",
+       "name": "Bidrag till Swedish Water House (ram)",
+       "amount_tkr": 3000
+      }
+     ],
+     "sum_ok": true
+    },
+    {
+     "by": "Länsstyrelsen i Örebro län",
+     "amount_tkr": 20000,
+     "items": [
+      {
+       "ap": "8",
+       "name": "Miljöövervakning m m - del till Länsstyrelsen i Örebro län (ram)",
+       "amount_tkr": 20000
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Miljöövervakning",
+     "text": "1. Anslagsposten får användas för övervakning av miljötillstånd och miljöpåverkan i den yttre miljön, samt dessa faktorers påverkan på människors hälsa, för miljömålsuppföljning, utvecklingsarbete och internationell rapportering.\n2. Anslagsposten får även användas för miljöövervakningsinsatser inom ramen för partnerskapsprogrammet ”Partnership for the Assessment of Risk from Chemicals” (PARC) inom EU:s ramprogram för forskning och innovation Horisont Europa.\n3. Högst 2 000 000 kronor får användas för delfinansiering av Klimatpolitiska rådets verktyg Panorama.\n4. 6 500 000 kronor får användas för miljöövervakning vid implementering av naturrestaureringsförordningen.\n5. 4 000 000 kronor får användas för att stärka och utveckla arbete med avfallsstatistik för att kunna leva upp till EU-krav samt förbättra statistik relaterat till Sveriges EU-avgift."
+    },
+    {
+     "ap": "3",
+     "name": "Miljöövervakning m m - del till Havs- och vattenmyndigheten",
+     "text": "1. Anslagsposten får användas för att övervaka miljötillstånd i den yttre miljön och därtill hörande arbete med data- och informationshantering och utformning av övervakningsprogram samt för viss EU och internationell rapportering och till miljömålsuppföljning.\n2. Minst 7 500 000 kronor får användas för övervakning av vattenmiljöer vid implementeringen av naturrestaureringsförordningen.\n3. Minst 20 000 000 kronor får användas för förbättrad övervakning av storskaliga och långsiktiga förändringar av tillståndet i vattenmiljöer - vattenförvaltning samt miljöövervakning i kust och avrinningsområden i Östersjön."
+    },
+    {
+     "ap": "5",
+     "name": "Bidrag till Swedish Water House",
+     "text": "Anslagsposten ska användas för bidrag till verksamheten vid Swedish Water House (SWH). Havs- och vattenmyndigheten ska betala ut bidraget till stiftelsen Stockholm International Water Institute (SIWI). Bidraget ska användas till att generera och förmedla kunskap och erfarenheter om internationella vattenfrågor, framför allt inom området integrerad vattenförvaltning."
+    },
+    {
+     "ap": "6",
+     "name": "Bidrag till ideella miljöorganisationer",
+     "text": "1. Anslagsposten får användas för bidrag till ideella miljöorganisationers arbete som bidrar till att uppfylla de nationella miljökvalitetsmål som riksdagen har beslutat om. Naturvårdsverket beslutar om fördelningen av medlen. Bidrag ges som organisationsbidrag. Som villkor för bidrag ska de ideella miljöorganisationerna redovisa till Naturvårdsverket vilket resultat bidraget haft på kvalitet och effektivitet i verksamheten samt för att bidra till att uppfylla de nationella miljömålen.\n2. 4 000 000 kronor ska betalas ut som bidrag till organisationen Håll Sverige Rent för att förmedla kunskap och erfarenheter som bidrar till minskad nedskräpning. Som villkor för bidraget ska Håll Sverige Rent till Naturvårdsverket redovisa vilket resultat bidraget lett till och hur organisationens arbete bidrar till minskad nedskräpning."
+    },
+    {
+     "ap": "8",
+     "name": "Miljöövervakning m m - del till Länsstyrelsen i Örebro län",
+     "text": "Anslagsposten får användas för att övervaka miljötillstånd och miljöpåverkan i den yttre miljön, samt dessa faktorers påverkan på människors hälsa. Anslagsposten får också användas för miljömålsuppföljning, utvecklingsarbete och internationell rapportering."
+    },
+    {
+     "ap": "9",
+     "name": "Delegationen för cirkulär ekonomi",
+     "text": "Anslagsposten får användas till kostnader för Delegationen för cirkulär ekonomi."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "1",
+     "max": 2000000,
+     "unit": "kronor"
+    }
+   ]
+  },
+  {
+   "code": "1:3",
+   "name": "Åtgärder för värdefull natur",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 20,
+    "name": "Klimat, miljö och natur"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Naturvårdsverket",
+     "amount_tkr": 1750335,
+     "items": [
+      {
+       "ap": "2",
+       "name": "Skötsel av skyddade områden, artbevarande, friluftsliv m.m. (ram)",
+       "amount_tkr": 1700335
+      },
+      {
+       "ap": "3",
+       "name": "Återvätning av nedlagd jordbruksmark (ram)",
+       "amount_tkr": 50000
+      }
+     ],
+     "sum_ok": true
+    },
+    {
+     "by": "Länsstyrelsen i Örebro län",
+     "amount_tkr": 103000,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Åtgärder för värdefull natur - del till Länsstyrelsen i Örebro län (ram)",
+       "amount_tkr": 103000
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Åtgärder för värdefull natur - del till Länsstyrelsen i Örebro län",
+     "text": "1. Anslagsposten får användas för utgifter för insatser som avser invasiva främmande arter, friluftsliv, våtmarker, stora rovdjur och för arbete med implementeringen av naturrestaureringsförordningen samt för vissa utgifter för arbete vid länsstyrelserna. Medel som fördelas enligt detta villkor ska fördelas till samtliga länsstyrelser.\n2. Länsstyrelserna i Jämtlands län, Dalarnas län, Västerbottens län och Norrbottens län får använda sammanlagt 25 000 000 kronor för uppdraget \"*Ökad ambition för vandringsleder i Jämtland och övriga fjällän*\". Av dessa medel får Länsstyrelsen i Jämtlands län använda högst 10 000 000 kronor. Länsstyrelserna i Dalarnas län, Västerbottens län och Norrbottens län får tillsammans nyttja resterande medel upp till högst 25 000 000 kronor. Satsningen ska genom ökad samverkan, konfliktlösning, besöksförvaltning och uppbyggnad av infrastruktur möjliggöra för fler att vandra på ett säkert sätt."
+    },
+    {
+     "ap": "2",
+     "name": "Skötsel av skyddade områden, artbevarande, friluftsliv m.m.",
+     "text": "01. Anslagsposten får användas för utgifter för insatser samt för vissa utgifter för arbete vid länsstyrelserna som avser skötsel, fastighetsförvaltning, byggnadsinvesteringar samt uppföljning och övervakning av nationalparker, naturreservat, områden som ingår i eller föreslås ingå i nätverket Natura 2000, andra områden med områdesskydd, Kungliga nationalstadsparken, världsarv och Ramsarområden. En särskild satsning får göras på skötsel av naturreservat och nationalparker med högst 180 000 000 kronor. Anslagsposten får även användas för utgifter för arbete med biosfärområden inklusive bidrag till kommuner och Stockholms universitet.\n02. Anslagsposten får användas för utgifter för insatser samt vissa utgifter för arbete med artbevarande, artskydd, grön infrastruktur, pollinatörer, viltförvaltning, åtgärder inom ramen för strategin för svensk viltförvaltning, information om viltforskning och projekt finansierade genom viltvårdsfonden samt inventering och kunskapsstöd vad gäller arter och naturtyper samt annan övervakning. Anslagsposten får användas för utgifter för insatser samt för utgifter för arbete i en särskild satsning på utökade förvaltningsåtgärder för varg med högst 81 000 000 kronor. Anslagsposten får även användas för visst arbete vid länsstyrelserna och för visst arbete vid Sveriges lantbruksuniversitet, bl.a. Artdatabanken inklusive Artportalen, samt för visst arbete med rovdjursinventeringar hos berörda samebyar. Högst 1 000 000 kronor får användas för länsstyrelsernas arbete med att ta fram en gemensam skarvförvaltningsplan för Mälaren och Hjälmaren. Anslagsposten får även användas för bidrag till de länsstyrelser, kommuner och stiftelser som är huvudmän för naturum och för verksamhet i naturum.\n03. Anslagsposten får användas för utgifter för insatser samt vissa utgifter för arbete med att förebygga och förhindra introduktion och spridning av invasiva främmande arter, där en särskild satsning får göras på högst 75 000 000 kronor. Högst 10 000 000 kronor får betalas ut till Havs- och vattenmyndigheten för insatser avseende invasiva främmande arter i akvatisk miljö. Medlen betalas ut mot rekvisition.\n04. Anslagsposten får användas för utgifter för insatser och vissa utgifter vid länsstyrelserna som avser friluftsliv, inklusive att samordna och leda arbetet med att förverkliga regeringens friluftslivspolitik, samt för kommunikation och utbildning inom naturvårdsområdet. Anslagsposten får användas för bidrag till ideella organisationer som arbetar med att sprida information om rättigheter och skyldigheter som följer av allemansrätten.\n05. Anslagsposten får användas för utgifter för utveckling och upprustning av vandringsleder inklusive därtill hörande anordningar i det statliga ledsystemet i fjällen samt för andra vandringsleder som staten är huvudman för, där en särskild satsning får göras på högst 100 000 000 kronor. Därutöver kan medlen även användas för bidrag till organisationer som förvaltar och utvecklar vandringsleder för vilka staten inte är huvudman. En särskild satsning på högst 5 000 000 kronor får gå till att utveckla vandringsleder med avseende på klimatanpassning. Satsningen ska leda till att Naturvårdsverket tar fram en plan för klimatanpassning av de statliga lederna samt till att identifiera och genomföra klimatanpassningsåtgärder.\n06. Anslagsposten får användas för att utveckla lavinprognostjänsten och lavinutbildningar, verksamhet inom ramen för Fjällsäkerhetsrådet och Nationella snöskoterrådet samt för samebyarnas arbete med att ta fram och genomföra terrängkörningsplaner. Anslagsposten får även användas för visst arbete vid länsstyrelserna avseende samma ändamål. Anslagsposten får även användas för bidrag till lokala fjällsäkerhetskommittéer för fjällsäkerhetsarbete.\n07. Anslagsposten får användas för statsbidrag till naturvårdsprojekt enligt 1 § 1–6 förordningen (2003:598) om statliga bidrag till lokala naturvårdsprojekt. Anslagsposten får även användas för vissa utgifter för arbete vid länsstyrelserna och Naturvårdsverket avseende samma ändamål.\n08. Högst 575 000 000 kronor får användas för statsbidrag eller avtalslösningar till naturvårdsprojekt för att restaurera och anlägga våtmarker, inklusive förberedelsearbete, enligt 1 § 7 och 8 förordningen (2003:598) om statliga bidrag till lokala naturvårdsprojekt och som bidrag till länsstyrelserna, Skogsstyrelsen, Statens fastighetsverk och Fortifikationsverket. Åtgärderna kan avse till exempel återvätning av torvmarker såväl inom som utanför skyddade områden i syfte att bl.a. minska utsläppen av växthusgaser eller för att restaurera och anlägga våtmarker i syfte att gynna biologisk mångfald.\\\nAnslagsposten får användas för en kompetenssatsning som inkluderar kunskapshöjande åtgärder och informationsspridning till markägare och andra aktörer om restaurering och anläggande av våtmarker. Anslagsposten får användas för nödvändiga skötselåtgärder i restaurerade eller anlagda våtmarker. Anslagsposten får även användas för utgifter för visst arbete vid länsstyrelserna, Naturvårdsverket, Sveriges geologiska undersökning, Statens jordbruksverk, Sveriges lantbruksuniversitet, Riksantikvarieämbetet samt Sveriges meteorologiska och hydrologiska institut för arbete med våtmarker. Naturvårdsverket får ge bidrag till Skogsstyrelsen, Statens fastighetsverk och Fortifikationsverket för att återväta utdikade våtmarker i skog.\n09. Anslagsposten får användas för bidrag till Statens veterinärmedicinska anstalt för eventuella akuta åtgärder – utförda efter samråd med Naturvårdsverket – i arbetet med att följa och analysera utvecklingen av sjukdomstillstånd hos vilda djurpopulationer.\n10. Anslagsposten får användas för bidrag till Centrum för biologisk mångfald för arbete som avser lokal och traditionell kunskap. Till Sametinget får 1 000 000 kronor utbetalas för uppdraget som fokalpunkt för traditionell kunskap enligt konventionen för biologisk mångfald (CBD).\n11. Anslagsposten får användas för bidrag till föreningen Laponiatjuottjudus för förvaltningen av världsarvet Laponia enligt Laponiaförordningen (2011:840) och för bidrag till Stiftelsen Tyrestaskogen för förvaltning av Tyresta nationalpark enligt nationalparksförordningen (1987:938).\n12. Anslagsposten får användas för utgifter för insatser samt vissa utgifter för arbete med åtgärdsprogram för hotade arter, särskilt insatser för att genomföra programmen. Anslagsposten får även användas för visst arbete vid länsstyrelserna avseende samma ändamål. Anslagsposten får även användas för bidrag till de organisationer som bidrar till att genomföra programmen.\n13. Intäkter från fastighetsuthyrning, arrenden, naturvårdsskötsel m.m. får användas i verksamheten inom ramen för anslagets ändamål.\n14. Anslagsposten får användas för utgifter för medlemsavgifter och stöd till internationella organisationer som främjar arbetet med biologisk mångfald. Anslagsposten får även användas för bidrag till utländska myndigheter eller organisationer som genomför arbete som gagnar det svenska arbetet med biologisk mångfald, viltförvaltning eller fjällsäkerhet.\n15. Anslagsposten får användas för bidrag till att restaurera sådan areal ängs- och betesmarker som inte ingår i det nationella genomförandet av den gemensamma jordbrukspolitiken (GJP), samt för ersättning för hamling av träd med natur- och kulturvärden, naturvårdsbränning i ängs- och betesmarker och vidare för slåtter på myrmark i Norrbottens, Västerbottens, Jämtlands eller Västernorrlands län. Anslagsposten får även användas för vissa utgifter för arbete vid länsstyrelserna och Naturvårdsverket.\n16. Högst 40 000 000 kronor får användas för en extra satsning på åtgärder för att restaurera och sköta ängs- och betesmarker.\n17. Högst 65 000 000 kronor får användas för utgifter för insatser samt för vissa utgifter för arbete med implementeringen av naturrestaureringsförordningen."
+    },
+    {
+     "ap": "3",
+     "name": "Återvätning av nedlagd jordbruksmark",
+     "text": "1. Naturvårdsverket får använda högst 2 000 000 kronor för att förbereda ett stöd för återvätning av nedlagd jordbruksmark.\n2. Naturvårdsverket får betala ut högst 4 500 000 kronor till Länsstyrelsen, 2 000 000 kronor till Statens jordbruksverk och 1 500 000 kronor till Skogsstyrelsen för arbetet med förberedelserna för återvätningsstödet. Medlen betalas ut mot rekvisition.\n3. Resterande medel på anslagsposten får användas efter beslut av regeringen."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "1",
+     "max": 10000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "1",
+     "max": 25000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "2",
+     "max": 180000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "2",
+     "max": 81000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "2",
+     "max": 1000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "2",
+     "max": 75000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "2",
+     "max": 10000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "2",
+     "max": 100000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "2",
+     "max": 5000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "2",
+     "max": 575000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "2",
+     "max": 40000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "2",
+     "max": 65000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "3",
+     "max": 2000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "3",
+     "max": 4500000,
+     "unit": "kronor"
+    }
+   ]
+  },
+  {
+   "code": "1:4",
+   "name": "Sanering och återställning av förorenade områden",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 20,
+    "name": "Klimat, miljö och natur"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Naturvårdsverket",
+     "amount_tkr": 583818,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Sanering och efterbehandling av förorenade områden (ram)",
+       "amount_tkr": 533818
+      },
+      {
+       "ap": "5",
+       "name": "Hantering av visst farligt avfall (ram)",
+       "amount_tkr": 50000
+      }
+     ],
+     "sum_ok": true
+    },
+    {
+     "by": "Sveriges geologiska undersökning",
+     "amount_tkr": 75000,
+     "items": [
+      {
+       "ap": "3",
+       "name": "Sanering och återställning - del till Sveriges geologiska undersökning (ram)",
+       "amount_tkr": 75000
+      }
+     ],
+     "sum_ok": true
+    },
+    {
+     "by": "Länsstyrelsen i Örebro län",
+     "amount_tkr": 112000,
+     "items": [
+      {
+       "ap": "6",
+       "name": "Sanering och återställning - del till Länsstyrelsen i Örebro län (ram)",
+       "amount_tkr": 112000
+      }
+     ],
+     "sum_ok": true
+    },
+    {
+     "by": "Strålsäkerhetsmyndigheten",
+     "amount_tkr": 3000,
+     "items": [
+      {
+       "ap": "2",
+       "name": "Sanering och återställning - del till Strålsäkerhetsmyndigheten (ram)",
+       "amount_tkr": 3000
+      }
+     ],
+     "sum_ok": true
+    },
+    {
+     "by": "Havs- och vattenmyndigheten",
+     "amount_tkr": 27000,
+     "items": [
+      {
+       "ap": "7",
+       "name": "Sanering och återställning - Sanering vrak - del till Havs- och vattenmyndigheten (ram)",
+       "amount_tkr": 27000
+      }
+     ],
+     "sum_ok": true
+    },
+    {
+     "by": "Statens geotekniska institut",
+     "amount_tkr": 23000,
+     "items": [
+      {
+       "ap": "4",
+       "name": "Sanering och återställning - Sanering forskningdel till Statens geotekniska institut (ram)",
+       "amount_tkr": 23000
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Sanering och efterbehandling av förorenade områden",
+     "text": "1. Anslagsposten får användas för bidrag enligt förordningen (2004:100) om statsbidrag för avhjälpande av föroreningsskador och statsstöd enligt förordningen (2022:98) om statligt stöd till åtgärder för efterbehandling av föroreningsskador. Naturvårdsverket ska bevaka och informera om det antal ärenden som uppstår där förordningarna inte kan tillämpas vad gäller de områden som är högst prioriterade.\n2. Anslagsposten får användas för bidrag till att åtgärda föroreningsskador enligt 10 kap. miljöbalken som är särskilt angelägna från risksynpunkt i de fallen när de förordningar som nämns i punkten 1 inte är tillämpliga.\n3. Anslagsposten får användas för att finansiera inventeringar, undersökningar och juridiska bedömningar eller andra utredningar som krävs som underlag för att genomföra åtgärder, för kunskapsuppbyggnad och kunskapsöverföring för framtagande av underlag för prioriteringar av framtida avhjälpande- och återställningsinsatser i landet.\n4. Anslagsposten får också användas för stärkt arbete med kapacitetshöjning av teknikutvecklingen samt stärkt arbete med kunskapshöjande insatser inom efterbehandling av förorenade områden inkl. sediment. Högst 5 000 000 kronor får användas som bidrag till andra berörda myndigheter för att stärka arbetet med förorenade sediment.\n5. Anslagsposten får användas för arbete med utrednings- och åtgärdskostnader som återkrävs av ansvariga enligt miljöbalken eller äldre lagstiftning samt för kostnader hos kommun eller myndighet för att i samband med undersökning, utredning eller åtgärd av förorenade områden driva sådana mål som avses i 21 kap. 1 § första stycket 4, 6, 7 och 9 miljöbalken.\n6. Naturvårdsverket får, efter att ha gett berörd myndighet möjlighet att yttra sig, omfördela upp till 10 000 000 kronor av anslagsposten till annan efterbehandlingsinsats inom anslag 1:4.\n7. Anslagsposten får också användas för kostnader för att förebygga och förhindra stora saneringskostnader och risker med PFAS samt för bidrag till andra organisationer avseende samma ändamål. Minst 95 000 000 kronor ska användas för detta arbete. Dessa medel ska användas för:\n- bidrag till inventering av PFAS-förorenade områden.\n- bidrag till ansvarsutredningar för PFAS-förorenade områden för komplicerade ärenden eller där det annars riskerar att stanna upp arbetet.\n- bidrag till pilotprojekt för att öka kunskap om PFAS och hitta nya effektiva åtgärdsmetoder med målsättning att minska spridning av PFAS i miljön.\n- Högst 15 000 000 kronor användas för att genomföra åtgärder av Sveriges geologiska undersökning på statligt förorenade områden som förorenats av PFAS, som en del i uppdraget till Statens geotekniska institut om Kunskap och teknikutveckling PFAS (M2021/02281, KN2023/02439).\n- Högst 8 000 000 kronor användas för myndighetens arbete inklusive som bidrag till andra berörda myndigheters och aktörers deltagande för att genomföra uppdraget om PFAS-förorenade områden.\n- Högst 2 000 000 kronor användas som bidrag till Myndigheten för civilt försvar för stärkta vägledningsinsatser för hantering av PFAS-förorenade områden samt insatser för hantering av släckvatten och skumvätskor.\n- Högst 7 000 000 kronor användas som bidrag till Sveriges geologiska undersökning för att undersöka förekomst och bakgrundshalter av PFAS i mark och vatten.\n- 10 000 000 kronor får användas för arbete och uppdrag som genomförs enligt regeringens handlingsplan för minskad spridning av PFAS."
+    },
+    {
+     "ap": "2",
+     "name": "Sanering och återställning - del till Strålsäkerhetsmyndigheten",
+     "text": "1. Anslagsposten får användas för att ta hand om herrelösa strålkällor och visst historiskt radioaktivt avfall från icke kärnteknisk verksamhet.\n2. Anslagsposten får användas av Strålsäkerhetsmyndigheten för myndighetens arbete med anledning av ansökningar om stöd för hantering av historiskt icke kärntekniskt radioaktivt avfall och annat däri farligt avfall, enligt de riktlinjer som regeringen beslutar."
+    },
+    {
+     "ap": "3",
+     "name": "Sanering och återställning - del till Sveriges geologiska undersökning",
+     "text": "1. Anslagsposten får användas för att inventera samt, i enlighet med den gällande prioritetsordningen, genomföra ansvarsutredningar, nödvändiga undersökningar, åtgärder och efterföljande miljökontroll på områden där staten har ett visst ansvar för avhjälpande och där ingen annan myndighet kan svara för avhjälpande.\n2. Anslagsposten får användas till att ge stöd till kommuner för att öka andelen kommunala huvudmän i saneringsprojekt.\n3. Avsättningar för att sanera och återställa förorenade områden ska redovisas mot anslag det budgetår som utgifterna hänför sig till.\n4. Sveriges geologiska undersökning får efter dialog med Naturvårdsverket omfördela upp till 10 000 000 kronor av anslagsposten till annan efterbehandlingsinsats inom anslag 1:4."
+    },
+    {
+     "ap": "4",
+     "name": "Sanering och återställning - Sanering forskningdel till Statens geotekniska institut",
+     "text": "1. Högst 10 000 000 kronor får användas för teknikutvecklingsprogrammet Tuffo (Teknikutveckling och forskning inom förorenade områden). Av dessa medel får högst 1 500 000 kronor användas för visst arbete vid Statens geotekniska institut.\n2. Anslagsposten ska användas av Statens geotekniska institut för tillämpad forskning och en effektiv spridning av kunskapsresultat med särskilt fokus på forsknings- och utvecklingsprojekt som rör undersökning, utredning och åtgärder som avser PFAS-förorenade områden samt förorenade sediment och fibersediment. Högst 5 000 000 kronor får användas för genomförande av uppdrag om kunskap och teknikutveckling avseende PFAS (M2021/02281, KN2023/02439).\n3. Anslagsposten ska särskilt användas för att arbeta med att göra hållbara åtgärdstekniker tillgängliga för PFAS-förorenade områden för både statliga och privata aktörer för att minska spridning av PFAS."
+    },
+    {
+     "ap": "5",
+     "name": "Hantering av visst farligt avfall",
+     "text": "1. Anslagsposten får användas av Naturvårdsverket för utbetalning av bidrag för hantering av historiskt icke kärntekniskt radioaktivt avfall och annat däri farligt avfall, enligt förordningen (2024:1316) om bidrag för hantering av visst radioaktivt avfall.\n2. Anslagsposten får användas av Naturvårdsverket för myndighetens arbete för att administrera ansökningar enligt ovan förordning angiven under villkor 1."
+    },
+    {
+     "ap": "6",
+     "name": "Sanering och återställning - del till Länsstyrelsen i Örebro län",
+     "text": "1. Anslagsposten får användas för arbete vid länsstyrelserna med tillsyn och tillsynsvägledning över förorenade områden.\n2. Anslagsposten får användas för att stärka arbetet med övervakning, inventering, prioritering och utredning av ansvar av områden som förorenats av PFAS samt förorenade sediment.\n3. Högst 22 000 000 kronor får användas för visst arbete vid länsstyrelserna med bidragshantering.\n4. Anslagsposten disponeras av Länsstyrelsen i Örebro län för fördelning till samtliga länsstyrelser."
+    },
+    {
+     "ap": "7",
+     "name": "Sanering och återställning - Sanering vrak - del till Havs- och vattenmyndigheten",
+     "text": "1. Anslagsposten får användas för att finansiera de undersökningar och utredningar som krävs för att genomföra saneringsåtgärder, sanering av enskilda vrak som är särskilt angelägna från risksynpunkt och myndighetens eget arbete med detta.\n2. Anslagsposten får även användas till kostnader för avhjälpande som uppkommit med anledning av att en tillsynsmyndighet har begärt verkställighet enligt 26 kap. 17 § miljöbalken eller beslutat om rättelse enligt 26 kap. 18 § miljöbalken."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "1",
+     "max": 5000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "1",
+     "max": 15000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "1",
+     "max": 8000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "1",
+     "max": 2000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "1",
+     "max": 7000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "4",
+     "max": 10000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "4",
+     "max": 1500000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "4",
+     "max": 5000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "6",
+     "max": 22000000,
+     "unit": "kronor"
+    }
+   ]
+  },
+  {
+   "code": "1:5",
+   "name": "Miljöforskning",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 20,
+    "name": "Klimat, miljö och natur"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Naturvårdsverket",
+     "amount_tkr": 93825,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Miljöforskning (ram)",
+       "amount_tkr": 93825
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Miljöforskning",
+     "text": "1. Anslagsposten får användas för att finansiera forskning till stöd för Naturvårdsverkets och Havs- och vattenmyndighetens arbete med miljökvalitetsmålen, genomförande av det klimatpolitiska ramverket, miljöbalken och underlag för internationellt förhandlingsarbete.\n2. Naturvårdsverket ska besluta hur medlen till miljöforskning ska fördelas. Medlen ska fördelas så att jämställdhet mellan kvinnor och män beaktas.\n3. Verksamheten får omfatta forskningsbidrag, uppdragsforskning, beredningsarbete, kunskapsöverföring från forskning, kunskapssammanställningar och utredningar med anknytning till forskningen. Medlen får även omfatta finansiering av forskare i de internationella samarbeten Naturvårdsverket är involverat samt medfinansiering av forskningsinsatser under EU:s ramprogram för forskning Horisont Europa.\n4. 17 000 000 kronor får användas för bidrag till Stiftelsen Institutet för vatten- och luftvårdsforskning (SIVL). Medlen till stiftelsen ska användas till utgifter för statens andel av den forskning som bedrivs samfinansierat med näringslivet samt får även användas för nationell finansiering av EU-projekt. Beslut om finansiering fattas av SIVL när en överenskommelse har träffats med näringslivet om samfinansierad forskning och utvecklingsverksamhet vid IVL Svenska Miljöinstitutet AB. SIVL ska lämna en redovisning till Naturvårdsverket om hur medlen har använts.\n5. Anslagsposten får användas för svenska forskares deltagande i den mellanstatliga plattformen för biologisk mångfald och ekosystemtjänster (IPBES). Naturvårdsverket får även betala ut 1 500 000 kronor till IPBES avseende Sveriges bidrag till dess verksamhet.\n6. Anslagsposten får användas för it-baserad administration av forskningsansökningar.\n7. Högst 1 500 000 kronor får användas för särskilda insatser inom ramen för Horisont Europa partnerskapsprogram ”Partnership for the Assessment of Risk from Chemicals” (PARC)."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "1",
+     "max": 1500000,
+     "unit": "kronor"
+    }
+   ]
+  },
+  {
+   "code": "1:13",
+   "name": "Internationellt miljösamarbete",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 20,
+    "name": "Klimat, miljö och natur"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Naturvårdsverket",
+     "amount_tkr": 44400,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Bilateralt miljösamarbete (ram)",
+       "amount_tkr": 29400
+      },
+      {
+       "ap": "2",
+       "name": "Utveckling av den internationella klimatpolitiken (ram)",
+       "amount_tkr": 15000
+      }
+     ],
+     "sum_ok": true
+    },
+    {
+     "by": "Strålsäkerhetsmyndigheten",
+     "amount_tkr": 13000,
+     "items": [
+      {
+       "ap": "3",
+       "name": "Miljösamarbete Strålsäkerhetsmyndigheten (ram)",
+       "amount_tkr": 13000
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Bilateralt miljösamarbete",
+     "text": "1. Anslagsposten får användas för kostnader för myndigheters bilaterala miljö- och klimatsamarbete med länder som har stor påverkan på den globala miljön eller som är av strategisk betydelse i det globala miljö- och klimatsamarbetet.\n2. Anslagsposten får även användas för att genomföra aktiviteter inom ramen för multilateralt arbete inom exempelvis initiativ och koalitioner under Parisavtalet, Nordiska ministerrådet, Östersjöstaternas råd (CBSS) och Arktiska rådet, inklusive för bidrag till dessa initiativ och koalitioner. Naturvårdsverket beslutar om fördelningen av medel efter samråd med berörda myndigheter. Anslagsposten får användas för bidrag till aktörer som bedriver verksamhet inom ramen för de miljö- och klimatsamarbeten som myndigheterna ansvarar för. Medlen utbetalas i svenska kronor.\n3. Högst 2 500 000 kronor får användas som bidrag till Stockholm Environment Institute för att genomföra arbetsprogrammet för den ledarskapsgrupp för industriomställning som Sverige lanserade vid FN:s klimattoppmöte i New York i september 2019.\n4. Högst 1 000 000 kronor får användas för att stötta insatser och arbete inom China Council for International Cooperation on Environment and Development (CCICED)."
+    },
+    {
+     "ap": "2",
+     "name": "Utveckling av den internationella klimatpolitiken",
+     "text": "1. Anslagsposten får användas för att stödja initiativ, samarbeten och enskilda aktiviteter som bedöms vara av strategisk betydelse för det globala miljö- och klimatsamarbetet med syfte att understödja ambitionshöjning i genomförandet av Parisavtalet.\n2. Anslagsposten får användas för kostnader förknippade med att utveckla den internationella klimatpolitiken.\n3. Anslagsposten får användas först efter beslut av regeringen.\n4. 5 000 000 kronor får betalas ut som bidrag till sekretariatet för Ledarskapsgruppen för industriomställning, LeadIT, hos Stockholm Environment Institute.\n5. 2 000 000 kronor får betalas ut som bidrag till sekretariatet för finansministerkoalitionen för klimatåtgärder (Coalition of Finance Ministers for Climate Action) via World Bank Climate Support Facility (CSF) Trust Fund.\n6. 1 000 000 kronor får betalas ut som bidrag till International Institute for Development (IISD) / Global Subsidies Initiative (GSI) för arbete med reformering av klimatskadliga subventioner.\n7. 1 000 000 kronor får betalas ut som bidrag till Powering Past Coal Alliance för arbete med att få länder att fasa ut kolkraft.\n8. 2 000 000 kronor får betalas ut som bidrag till sekretariatet för FN:s klimatkonvention (UNFCCC), via organisationens Trust Fund for Supplementary Activities, för insatser som utformas i närmare dialog mellan UNFCCC och Regeringskansliet.\n9. 1 500 000 kronor får betalas ut som bidrag till Adelphi Global för arbete med Global Carbon Pricing Challenge."
+    },
+    {
+     "ap": "3",
+     "name": "Miljösamarbete Strålsäkerhetsmyndigheten",
+     "text": "Anslagsposten får användas för samarbete och stöd till Ukraina som strategiskt viktigt land för miljösamarbetet genom att bidra till god strålsäkerhet. Anslagsposten får användas till administration och samordning."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "1",
+     "max": 2500000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "1",
+     "max": 1000000,
+     "unit": "kronor"
+    }
+   ]
+  },
+  {
+   "code": "1:14",
+   "name": "Skydd av värdefull natur",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 20,
+    "name": "Klimat, miljö och natur"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Naturvårdsverket",
+     "amount_tkr": 1165500,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Skydd av värdefull natur - del till Naturvårdsverket (ram)",
+       "amount_tkr": 1165500
+      }
+     ],
+     "sum_ok": true
+    },
+    {
+     "by": "Länsstyrelsen i Örebro län",
+     "amount_tkr": 20000,
+     "items": [
+      {
+       "ap": "2",
+       "name": "Skydd av värdefull natur – del till Länsstyrelsen Örebro län (ram)",
+       "amount_tkr": 20000
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Skydd av värdefull natur - del till Naturvårdsverket",
+     "text": "1. Anslagsposten får användas för ersättningar enligt 31 kap. miljöbalken inom Naturvårdsverkets ansvarsområde.\n2. Anslagsposten får användas för kostnader som avser förvärv och avtalslösningar för statens räkning av värdefulla naturområden, särskilt skogar och marina områden. Högst 500 000 000 kronor får användas för en särskild satsning för skydd av värdefull natur.\n3. Anslagsposten får användas för statsbidrag till kommuner för skydd av värdefulla naturområden.\n4. Anslagsposten får användas för kostnader som avser värdering, förhandling och lantmäteriförrättning efter prövning i varje enskilt fall i samband med skydd av värdefulla naturområden enligt miljöbalken, kostnader för arbete, utredningar och inventeringar som ger underlag för detta skydd, arbete med bevarandeplaner för Natura 2000, översyn och revidering av riksintresse för naturvård, samt sådana övriga kostnader och kostnader för visst arbete vid länsstyrelserna som hör samman med skydd av värdefulla naturområden.\n5. Intäkter från försäljning av fastigheter ska tillföras anslaget."
+    },
+    {
+     "ap": "2",
+     "name": "Skydd av värdefull natur – del till Länsstyrelsen Örebro län",
+     "text": "Anslagsposten får användas för att skydda värdefull natur genom att fatta beslut i ärenden om naturreservat där ersättning till fastighetsägare är betald."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "1",
+     "max": 500000000,
+     "unit": "kronor"
+    }
+   ]
+  },
+  {
+   "code": "1:16",
+   "name": "Klimatinvesteringar",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 20,
+    "name": "Klimat, miljö och natur"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Naturvårdsverket",
+     "amount_tkr": 4215000,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Stöd till klimatinvesteringar (ram)",
+       "amount_tkr": 4090000
+      },
+      {
+       "ap": "6",
+       "name": "Administration - del till Naturvårdsverket (ram)",
+       "amount_tkr": 125000
+      }
+     ],
+     "sum_ok": true
+    },
+    {
+     "by": "Länsstyrelsen i Örebro län",
+     "amount_tkr": 75000,
+     "items": [
+      {
+       "ap": "7",
+       "name": "Klimatinvesteringar - del till Länsstyrelsen i Örebro län (ram)",
+       "amount_tkr": 75000
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Stöd till klimatinvesteringar",
+     "text": "1. Anslagsposten får användas för att betala ut stöd till klimatinvesteringar enligt förordningar som regeringen har beslutat.\n2. Högst 150 000 000 kronor ska användas för en särskild satsning på gårdsproduktion av biogas för el och värme."
+    },
+    {
+     "ap": "6",
+     "name": "Administration - del till Naturvårdsverket",
+     "text": "1. Anslagsposten får användas för utgifter i samband med administration av klimatinvesteringsstödet och stöden för installation av laddningspunkter till elfordon.\n2. Anslagsposten får användas för arbete med information om och, uppföljning och utvärdering av stöd till klimatinvesteringar samt stöden för installation av laddningspunkter till elfordon. Anslagsposten får användas av Naturvårdsverket och andra myndigheter som bidrar till arbetet."
+    },
+    {
+     "ap": "7",
+     "name": "Klimatinvesteringar - del till Länsstyrelsen i Örebro län",
+     "text": "1. Anslagsposten får användas för samordning av och stöd till länsstyrelsernas arbete med klimatinvesteringar i länen och dess kommuner. Anslagsposten disponeras av Länsstyrelsen i Örebro län för fördelning till samtliga länsstyrelser.\n2. Anslagsposten får användas för utgifter för arbete med klimatinvesteringsstödet och yttranden om ansökningar samt dialog med aktörer i länet för att stimulera till effektiva åtgärder och synergieffekter mellan olika projekt. Anslagsposten får också användas till information om och uppföljning av stödet samt till regional samordning av arbetet, och till information om stöden för installation av laddningspunkter till elfordon."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "1",
+     "max": 150000000,
+     "unit": "kronor"
+    }
+   ]
+  },
+  {
+   "code": "1:21",
+   "name": "Åtgärder inom ramen för den sociala klimatfonden",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 20,
+    "name": "Klimat, miljö och natur"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Naturvårdsverket",
+     "amount_tkr": 500000,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Åtgärder inom ramen för den sociala klimatfonden (ram)",
+       "amount_tkr": 500000
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Åtgärder inom ramen för den sociala klimatfonden",
+     "text": "1. Anslagsposten får användas för förberedelser och genomförande av sociala klimatfonden.\n2. Villkoren för anslagsposten regleras i förordningen (2025:1574) om elbilspremie.\n3. Av anslagsposten får högst 470 000 000 kronor användas för elbilspremier.\n4. Högst 26 800 000 kronor får användas av Naturvårdsverket för utgifter i samband med administration av sociala klimatfonden.\n5. Naturvårdsverket får betala ut högst 1 000 000 kronor till Statens energimyndighet för analyser och utredningar kopplade till genomförandet av sociala klimatfonden. Naturvårdsverket får betala ut högst 2 200 000 kronor till Statskontoret för revision av det svenska genomförandet av sociala klimatfonden. Medlen betalas ut mot rekvisition.\n6. Resterande medel på anslagsposten får användas efter beslut av regeringen."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "1",
+     "max": 470000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "1",
+     "max": 26800000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "1",
+     "max": 1000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "1",
+     "max": 2200000,
+     "unit": "kronor"
+    }
+   ]
+  },
+  {
+   "code": "1:23",
+   "name": "Stöd för sänkta priser i kollektivtrafik",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 20,
+    "name": "Klimat, miljö och natur"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Naturvårdsverket",
+     "amount_tkr": 6500000,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Stöd för sänkta priser i kollektivtrafik (ram)",
+       "amount_tkr": 6500000
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Stöd för sänkta priser i kollektivtrafik",
+     "text": "1. Anslagsposten får användas för statsbidrag till kollektivtrafik som organiseras av regionala kollektivtrafikmyndigheter.\n2. Villkoren för anslagsposten regleras i den kommande förordningen om tillfälligt statsbidrag för sänkta priser i kollektivtrafiken."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "1:1 Naturvårdsverket",
+   "ap": "ap.1",
+   "Anslagskredit": 23622,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:2 Miljöövervakning m.m.",
+   "ap": "ap.1",
+   "Anslagskredit": 7605,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:2 Miljöövervakning m.m.",
+   "ap": "ap.3",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:2 Miljöövervakning m.m.",
+   "ap": "ap.5",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:2 Miljöövervakning m.m.",
+   "ap": "ap.6",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:2 Miljöövervakning m.m.",
+   "ap": "ap.8",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:2 Miljöövervakning m.m.",
+   "ap": "ap.9",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:3 Åtgärder för värdefull natur",
+   "ap": "ap.1",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:3 Åtgärder för värdefull natur",
+   "ap": "ap.2",
+   "Anslagskredit": 6000,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:3 Åtgärder för värdefull natur",
+   "ap": "ap.3",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:4 Sanering och återställning av förorenade områden",
+   "ap": "ap.1",
+   "Anslagskredit": 5000,
+   "Anslagsbehållning som disponeras 2026": 45000,
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:4 Sanering och återställning av förorenade områden",
+   "ap": "ap.2",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:4 Sanering och återställning av förorenade områden",
+   "ap": "ap.3",
+   "Anslagskredit": 3000,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:4 Sanering och återställning av förorenade områden",
+   "ap": "ap.4",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:4 Sanering och återställning av förorenade områden",
+   "ap": "ap.5",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:4 Sanering och återställning av förorenade områden",
+   "ap": "ap.6",
+   "Anslagskredit": 2000,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:4 Sanering och återställning av förorenade områden",
+   "ap": "ap.7",
+   "Anslagskredit": 2000,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:5 Miljöforskning",
+   "ap": "ap.1",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:13 Internationellt miljösamarbete",
+   "ap": "ap.1",
+   "Anslagskredit": 1332,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:13 Internationellt miljösamarbete",
+   "ap": "ap.2",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:13 Internationellt miljösamarbete",
+   "ap": "ap.3",
+   "Anslagskredit": 390,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:14 Skydd av värdefull natur",
+   "ap": "ap.1",
+   "Anslagskredit": 10000,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:14 Skydd av värdefull natur",
+   "ap": "ap.2",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:16 Klimatinvesteringar",
+   "ap": "ap.1",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:16 Klimatinvesteringar",
+   "ap": "ap.6",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:16 Klimatinvesteringar",
+   "ap": "ap.7",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:21 Åtgärder inom ramen för den sociala klimatfonden",
+   "ap": "ap.1",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:23 Stöd för sänkta priser i kollektivtrafik",
+   "ap": "ap.1",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 170000,
+  "Räntekontokredit": 18000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 65619
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 65619
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 65619
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 65619
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 65619
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 65619
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 65619
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 65619
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 65619
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 65619
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 65619
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 65623
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:1 Naturvårdsverket",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "23 622",
+     "3 %",
+     "0"
+    ],
+    [
+     "1:2 Miljöövervakning m.m.",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "7 605",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.3",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.5",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.6",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.8",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.9",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "1:3 Åtgärder för värdefull natur",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.2",
+     "6 000",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.3",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "1:4 Sanering och återställning av förorenade områden",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "5 000",
+     "45 000",
+     "0"
+    ],
+    [
+     "ap.2",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.3",
+     "3 000",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.4",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.5",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.6",
+     "2 000",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.7",
+     "2 000",
+     "Inget",
+     "0"
+    ],
+    [
+     "1:5 Miljöforskning",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "1:13 Internationellt miljösamarbete",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "1 332",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.2",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.3",
+     "390",
+     "Inget",
+     "0"
+    ],
+    [
+     "1:14 Skydd av värdefull natur",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "10 000",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.2",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "1:16 Klimatinvesteringar",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.6",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.7",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "1:21 Åtgärder inom ramen för den sociala klimatfonden",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "1:23 Stöd för sänkta priser i kollektivtrafik",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "0",
+     "Inget",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Avslutade anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagstyp"
+    ],
+    [
+     "1:2 Miljöövervakning m.m.",
+     ""
+    ],
+    [
+     "ap.4",
+     "ram"
+    ],
+    [
+     "1:16 Klimatinvesteringar",
+     ""
+    ],
+    [
+     "ap.2",
+     "ram"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Beställningsbemyndiganden",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Bemyndigande",
+     "Utgifter mot anslag till följd av ekonomiska åtaganden",
+     "",
+     "",
+     ""
+    ],
+    [
+     "2026",
+     "2027",
+     "2028",
+     "2029 -",
+     "Slutår"
+    ],
+    [
+     "1:2 Miljöövervakning m.m.",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "60 000",
+     "40 000",
+     "15 000",
+     "5 000",
+     "2029"
+    ],
+    [
+     "ap.3",
+     "60 000",
+     "40 000",
+     "15 000",
+     "5 000",
+     "2029"
+    ],
+    [
+     "1:3 Åtgärder för värdefull natur",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.2",
+     "900 000",
+     "400 000",
+     "300 000",
+     "200 000",
+     "2036"
+    ],
+    [
+     "ap.3",
+     "400 000",
+     "140 000",
+     "140 000",
+     "120 000",
+     "2036"
+    ],
+    [
+     "1:4 Sanering och återställning av förorenade områden",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "1 868 000",
+     "403 000",
+     "400 000",
+     "1 065 000",
+     "2055"
+    ],
+    [
+     "ap.5",
+     "1 500 000",
+     "48 000",
+     "48 000",
+     "1 404 000",
+     "2055"
+    ],
+    [
+     "ap.3",
+     "60 000",
+     "45 000",
+     "15 000",
+     "",
+     "2029"
+    ],
+    [
+     "ap.7",
+     "25 000",
+     "25 000",
+     "",
+     "",
+     "2027"
+    ],
+    [
+     "ap.4",
+     "12 000",
+     "4 911",
+     "4 214",
+     "2 875",
+     "2030"
+    ],
+    [
+     "1:5 Miljöforskning",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "102 000",
+     "50 000",
+     "30 000",
+     "22 000",
+     "2030"
+    ],
+    [
+     "1:13 Internationellt miljösamarbete",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "6 400",
+     "3 200",
+     "3 200",
+     "",
+     "2029"
+    ],
+    [
+     "ap.3",
+     "5 000",
+     "3 000",
+     "1 500",
+     "500",
+     "2029"
+    ],
+    [
+     "1:14 Skydd av värdefull natur",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "35 000",
+     "22 000",
+     "8 000",
+     "5 000",
+     "2068"
+    ],
+    [
+     "1:16 Klimatinvesteringar",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "8 000 000",
+     "3 375 000",
+     "2 375 000",
+     "2 250 000",
+     "2030"
+    ],
+    [
+     "1:21 Åtgärder inom ramen för den sociala klimatfonden",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "1 100 000",
+     "400 000",
+     "400 000",
+     "300 000",
+     "2032"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "170 000"
+    ],
+    [
+     "Räntekontokredit",
+     "18 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "65 619"
+    ],
+    [
+     "2026-02-25",
+     "65 619"
+    ],
+    [
+     "2026-03-25",
+     "65 619"
+    ],
+    [
+     "2026-04-25",
+     "65 619"
+    ],
+    [
+     "2026-05-25",
+     "65 619"
+    ],
+    [
+     "2026-06-25",
+     "65 619"
+    ],
+    [
+     "2026-07-25",
+     "65 619"
+    ],
+    [
+     "2026-08-25",
+     "65 619"
+    ],
+    [
+     "2026-09-25",
+     "65 619"
+    ],
+    [
+     "2026-10-25",
+     "65 619"
+    ],
+    [
+     "2026-11-25",
+     "65 619"
+    ],
+    [
+     "2026-12-25",
+     "65 623"
+    ],
+    [
+     "Summa",
+     "787 432"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "1:1 ap.1",
+     "Naturvårdsverket"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Offentligrättslig verksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Kväveoxidavgiften (NOx)1",
+     "0",
+     "0",
+     "12 810",
+     "12 810",
+     "0",
+     "0"
+    ],
+    [
+     "Jaktkort1",
+     "0",
+     "0",
+     "7 600",
+     "7 600",
+     "0",
+     "0"
+    ],
+    [
+     "Jägarexamen1",
+     "-585",
+     "-1 015",
+     "8 400",
+     "8 400",
+     "0",
+     "-1 600"
+    ],
+    [
+     "Tillsynsavgifter retursystem1",
+     "1 225",
+     "-794",
+     "3 846",
+     "4 754",
+     "-908",
+     "-477"
+    ],
+    [
+     "Nedskräpningsavgift1",
+     "-8 283",
+     "-5 493",
+     "6 270",
+     "4 914",
+     "1 356",
+     "-12 420"
+    ],
+    [
+     "Insamling förpackningar1",
+     "-987",
+     "-2 395",
+     "2 500",
+     "5 003",
+     "-2 503",
+     "-5 885"
+    ],
+    [
+     "Summa",
+     "-8 630",
+     "-9 697",
+     "41 426",
+     "43 481",
+     "-2 055",
+     "-20 382"
+    ],
+    [
+     "Uppdragsverksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "EU:s miljölednings- och miljörevisionsordning (EMAS)1",
+     "89",
+     "-15",
+     "50",
+     "78",
+     "-28",
+     "46"
+    ],
+    [
+     "Tjänsteexport",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Utvecklingssamarbete m.m.1",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna ej disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "Ink. tit.",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Offentligrättslig verksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Avgifter för prövning och tillsyn enligt miljöbalken1",
+     "2537",
+     "-3 774",
+     "-15 703",
+     "16 020",
+     "33 297",
+     "-17 277",
+     "-36 754"
+    ],
+    [
+     "Ansökningsavgifter1",
+     "2511",
+     "-27",
+     "0",
+     "6",
+     "6",
+     "0",
+     "-27"
+    ],
+    [
+     "Övrig offentligrättslig verksamhet1",
+     "2552",
+     "4 308",
+     "0",
+     "13 000",
+     "13 000",
+     "0",
+     "4 308"
+    ],
+    [
+     "Summa",
+     "507",
+     "-15 703",
+     "29 026",
+     "46 303",
+     "-17 277",
+     "-32 473"
+    ]
+   ]
+  }
+ ],
+ "has_fee_section": true,
+ "exceptions_text": "Med undantag för vad som anges i 10 § förordningen (1993:527) om förvaltning av statliga fastigheter, m.m., får Naturvårdsverket, inom ramen för sitt förvaltningsuppdrag och inom ramen för de ekonomiska resurser som myndigheten förfogar över, besluta om investeringar och förvärv när den beräknade utgiften för anskaffningen inte överstiger 20 000 000 kronor per projekt och detta är redovisat i investeringsplanen. Om den beräknade utgiften överstiger 20 000 000 kronor ska myndigheten lämna över frågan till regeringen för prövning.\n\nMed projekt vid förvärv menas ett köpe- eller bytesavtal som kan omfatta en eller flera fastigheter med en markägare eller vid samägande av fastighet, flera parter. Avtalet i projektet ska avse fastigheter inom ett och samma presumtiva skyddade område. Med projekt vid investeringar i byggnader och/eller markanläggningar menas objekt i Naturvårdsverkets investeringsplan som ska uppföras inom ett och samma skyddade eller presumtivt skyddade område.\n\n**ÖVRIGA BESTÄMMELSER**\n\n1. Naturvårdsverket får, enligt 16 § förordningen (1993:527) om förvaltning av statliga fastigheter m.m., besluta om överföring av förvaltningsansvaret mellan Naturvårdsverket och andra fastighetsförvaltande myndigheter i sådana fall där berörda myndigheter är överens om överföringen och om villkoren för överföringen när marknadsvärdet inte överstiger 20 000 000 kronor.\n2. Investeringar i mark, markanläggningar, byggnader och pågående projekt ska inte finansieras genom lån i Riksgäldskontoret.\n3. Av 2 kap. 6 § kapitalförsörjningsförordningen (2011:210) följer att naturmiljötillgångar ska finansieras med anslag. Dessa regler gäller för samtliga investeringar i materiella anläggningstillgångar som finansieras från anslag 1:3 Åtgärder för värdefull natur, oavsett om det är Naturvårdsverket eller en annan myndighet som anskaffar tillgångarna. Investeringar i immateriella anläggningstillgångar som görs med medel från anslag 1:3 ska finansieras med lån i Riksgäldskontoret.\n\nPå regeringens vägnar\n\nRomina Pourmokhtari\n\nKerstin Konitzer\n\n**Kopia till**\n\nStatsrådsberedningen, internrevisionen\\\nFinansdepartementet, BA, OFA SFÖ\\\nLandsbygds- och infrastrukturdepartementet, SMF, US\\\nFörvaltningsavdelningen, RK Ekonomi och affärer\\\nRiksdagen, miljö- och jordbruksutskottet\\\nHavs- och vattenmyndigheten\\\nKammarkollegiet",
+ "summary": {
+  "n_goals": 8,
+  "n_org": 1,
+  "n_assignments": 20,
+  "n_deadlines": 13,
+  "deadlines": [
+   "2026-04-30",
+   "2026-06-30",
+   "2026-07-24",
+   "2026-08-30",
+   "2026-09-30",
+   "2026-12-31",
+   "2027-02-22",
+   "2027-03-01",
+   "2027-03-15",
+   "2027-03-31",
+   "2027-12-31",
+   "2028-09-31",
+   "2029-04-30"
+  ],
+  "partners": [
+   "Boverket",
+   "Fortifikationsverket",
+   "Havs- och vattenmyndigheten",
+   "Kemikalieinspektionen",
+   "Livsmedelsverket",
+   "Läkemedelsverket",
+   "Sametinget",
+   "Skogsstyrelsen",
+   "Statens energimyndighet",
+   "Statens fastighetsverk",
+   "Statens jordbruksverk",
+   "Statskontoret",
+   "Styrelsen för ackreditering och teknisk kontroll",
+   "Sveriges geologiska undersökning",
+   "Sveriges lantbruksuniversitet",
+   "Tandvårds- och läkemedelsförmånsverket",
+   "Trafikverket",
+   "Transportstyrelsen",
+   "Tullverket",
+   "Upphandlingsmyndigheten",
+   "länsstyrelserna"
+  ],
+  "n_appropriations": 10,
+  "appropriations_total_tkr": 16499024,
+  "payment_plan_total_tkr": 787432,
+  "md_chars": 65077
+ },
+ "layout": "standard",
+ "warnings": []
+}

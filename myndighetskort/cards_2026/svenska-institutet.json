@@ -1,0 +1,861 @@
+{
+ "schema_version": 1,
+ "id": 27496,
+ "original_rbid": 25876,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-06-25",
+ "year": "2026",
+ "name": "Svenska institutet",
+ "slug": "svenska-institutet",
+ "department": "Utrikesdepartementet",
+ "expenditure_areas": [
+  5,
+  7,
+  24
+ ],
+ "registry_numbers": [
+  "UD2026/09377 (delvis)",
+  "UD2026/10181"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1",
+   "2025/26:99"
+  ],
+  "bet": [
+   "2025/26:FiU21",
+   "2025/26:UU1",
+   "2025/26:UU2"
+  ],
+  "rskr": [
+   "2025/26:120",
+   "2025/26:129",
+   "2025/26:346",
+   "2025/26:99"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "",
+ "goals": [
+  {
+   "title": "Utvecklad resultatredovisning",
+   "group": [],
+   "text": "Svenska institutet ska utveckla resultatredovisningen av myndighetens verksamhet med analytiska resonemang som utgår från en tydlig verksamhetslogik, där konkreta och mätbara resultat ges ett sammanhang i relation till Svenska institutets bidrag till t.ex. utlandsmyndigheternas verksamhet. Redovisningen ska utgå från regeringens prioriteringar. Jämförbarhet av resultat ska eftersträvas. Resonemang om lärdomar, både positiva och negativa, ska också ingå.\n\nFör att främja lärande och synliggöra komplementaritet ska Svenska institutet i arbetet med att utveckla resultatredovisningen av myndighetens biståndsverksamhet föra dialog med Styrelsen för internationellt utvecklingssamarbete (Sida).",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Styrelsen för internationellt utvecklingssamarbete"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "fördela_medel",
+    "utveckla",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27496:goals:0"
+  },
+  {
+   "title": "Evidensbaserad styrning av biståndet",
+   "group": [],
+   "text": "Svenska institutet ska redovisa hur myndigheten arbetar för att säkra den evidensbaserade styrningen av vägval och prioriteringar i biståndets genomförande. Redovisningen ska även ge exempel på verksamhet som Svenska institutet valt bort, fasat ut eller nedprioriterat på grund av bristande effektivitet.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27496:goals:1"
+  },
+  {
+   "title": "Stärkta kontrollmekanismer",
+   "group": [],
+   "text": "Svenska institutet ska ha kontrollsystem för att säkerställa att mottagare av bistånd inte stödjer våldsbejakande extremism eller strider mot demokratiska värderingar och mänskliga rättigheter. Myndigheten ska ha kapacitet att göra egna bedömningar av risker och lämplighet i val av partners och i känsliga kontexter inhämta synpunkter från utlandsmyndigheter.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "analysera",
+    "samordna",
+    "tillsyn_kontroll"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27496:goals:2"
+  },
+  {
+   "title": "Artificiell intellligens (AI)",
+   "group": [],
+   "text": "Svenska institutet ska redovisa hur myndigheten använt AI för att utveckla verksamheten och öka organisationens effektivitet, inklusive i stödet till utlandsmyndigheterna.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla",
+    "digitalisering_ai"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27496:goals:3"
+  }
+ ],
+ "org": [],
+ "assignments": [
+  {
+   "title": "Stärkt arbete mot falsk och vilseledande information",
+   "group": [],
+   "text": "Svenska institutet ska redogöra för sin förmåga och sitt arbete med att följa och analysera bilden av Sverige i andra länder med särskilt fokus på arbetet att förebygga, identifiera och bemöta falsk och vilseledande information som rör Sverige och svenska intressen i utlandet. Myndigheten ska även redogöra för hur samverkan med berörda aktörer bidrar till att stärka myndighetens beredskap och förmåga att förebygga, identifiera och bemöta falsk och vilseledande information om Sverige som kan påverka Sverigebilden negativt. Redogörelsen ska även omfatta det stöd myndigheten tillhandahåller berörda aktörer, däribland Regeringskansliet och utlandsmyndigheterna.Uppdraget ska redovisas till Regeringskansliet (Utrikesdepartement) senast den 31 mars 2027.",
+   "dates": [
+    "2027-03-31"
+   ],
+   "deadlines": [
+    "2027-03-31"
+   ],
+   "recipients": [
+    "Regeringskansliet (Utrikesdepartement)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27496:assignments:0"
+  },
+  {
+   "title": "Utrikeshandelsstrategin",
+   "group": [],
+   "text": "Myndigheten ska fortsätta att utveckla sitt stöd till utlandsmyndigheter och andra Team Sweden aktörers affärsnära främjande. Svenska institutet ska bidra till Statskontorets utvärdering av Utrikeshandelsstrategin.\\\nUppdraget ska redovisas till Regeringskansliet (Utrikesdepartementet) senast den 31 mars 2027.",
+   "dates": [
+    "2027-03-31"
+   ],
+   "deadlines": [
+    "2027-03-31"
+   ],
+   "recipients": [
+    "Regeringskansliet (Utrikesdepartementet)",
+    "Statskontoret"
+   ],
+   "partners": [
+    "Statskontoret"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27496:assignments:1"
+  },
+  {
+   "title": "Made with Sweden",
+   "group": [],
+   "text": "Svenska institutet ska bidra till genomförandet av konceptet Made with Sweden. Uppdraget ska redovisas till Regeringskansliet (Utrikesdepartementet) senast den 31 mars 2027.",
+   "dates": [
+    "2027-03-31"
+   ],
+   "deadlines": [
+    "2027-03-31"
+   ],
+   "recipients": [
+    "Regeringskansliet (Utrikesdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27496:assignments:2"
+  },
+  {
+   "title": "Kiruna - Europeisk kulturhuvudstad 2029",
+   "group": [],
+   "text": "Svenska institutet ska i dialog med Kiruna kommun se över möjligheter att medverka inför och under evenemanget Europeisk kulturhuvudstad 2029.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "samordna",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27496:assignments:3"
+  },
+  {
+   "title": "Kulturella och kreativa branscher",
+   "group": [],
+   "text": "Svenska institutet ska redovisa hur myndigheten bidrar till genomförandet av regeringens Strategi för företag i kulturella och kreativa branscher (skr. 2023/24:111).\n\nSvenska institutet ska ansvara för juryhantering, kommunikation och prisplakett i samband med regeringens exportpris för insatser inom de kulturella och kreativa branscherna. Priset ska uppmärksamma personer eller företag som i första hand bidragit till svensk export men också en stärkt Sverigebild i utlandet. Uppdraget ska redovisas till Regeringskansliet (Utrikesdepartementet) senast den 31 mars 2027.",
+   "dates": [
+    "2027-03-31"
+   ],
+   "deadlines": [
+    "2027-03-31"
+   ],
+   "recipients": [
+    "Regeringskansliet (Utrikesdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27496:assignments:4"
+  },
+  {
+   "title": "Expo 2025 i Osaka",
+   "group": [],
+   "text": "Svenska institutet ska bidra till uppföljningen av det svenska deltagandet i världsutställningen i Osaka (Expo 2025). Business Sweden har i uppdrag att följa upp det svenska deltagandet i den nordiska paviljongen. Uppdraget ska redovisas till Regeringskansliet (Utrikesdepartementet) senast den 31 mars 2026.",
+   "dates": [
+    "2026-03-31"
+   ],
+   "deadlines": [
+    "2026-03-31"
+   ],
+   "recipients": [
+    "Regeringskansliet (Utrikesdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27496:assignments:5"
+  },
+  {
+   "title": "Redovisning av prognoser",
+   "group": [],
+   "text": "Myndigheten ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Prognoserna lämnas i informationssystemet Hermes senast den\n\n- 2 februari\n- 22 april\n- 24 juli och\n- 9 november",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27496:assignments:6"
+  },
+  {
+   "title": "Prognos för beställningsbemyndiganden",
+   "group": [],
+   "text": "Myndigheten ska redovisa en prognos för de förslag om beställningsbemyndiganden som lämnats i budgetunderlaget och för de åtaganden som ingåtts med stöd av äldre beställningsbemyndiganden. Prognosen ska lämnas senast 24 juli 2026 via Statsredovisningssystemet i Hermes och utformas enligt närmare information från Ekonomistyrningsverket.",
+   "dates": [
+    "2026-07-24"
+   ],
+   "deadlines": [
+    "2026-07-24"
+   ],
+   "forecast_dates": [],
+   "recipients": [],
+   "partners": [
+    "Ekonomistyrningsverket"
+   ],
+   "channels": [
+    "hermes",
+    "budgetunderlag"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27496:assignments:7"
+  },
+  {
+   "title": "Strategier",
+   "group": [],
+   "text": "Svenska institutet ska genomföra verksamhet inom ramen för följande strategier:\\\nStrategi för Sveriges stöd till demokrati, mänskliga rättigheter och miljö i Ryssland 2025-2027 (UD2025/12291).\n\nStrategi för Svenska institutets verksamhet gällande samarbetet inom Östersjöregionen 2016-2020. Strategin förlängs att gälla t.o.m. den 31 december 2026.\n\nStrategi för innovation, partnerskap och kapacitetsutveckling 2024-2028 (UD2024/07981).\\\nStrategi för Sveriges uppbyggnads- och reformsamarbete med Ukraina 2023-2027 (UD2025/01057).\n\nStrategi för Sveriges reformsamarbete med Östeuropa, västra Balkan och Turkiet 2026–2030 (UD2026/02649).\n\nStrategi för Sveriges regionala utvecklingssamarbete med Mellanöstern och Nordafrika 2024-2027 (UD2024/04332).\n\nStrategi för Sveriges utrikeshandel, investeringar och globala konkurrenskraft (UD2023/01758).\n\nFör varje strategi ska myndigheten senast den 15 mars 2027 lämna en redovisning till Regeringskansliet (Utrikesdepartementet).",
+   "dates": [
+    "2026-12-31",
+    "2027-03-15"
+   ],
+   "deadlines": [
+    "2027-03-15"
+   ],
+   "recipients": [
+    "Regeringskansliet (Utrikesdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27496:assignments:8"
+  },
+  {
+   "title": "Pågående uppdrag",
+   "group": [],
+   "text": "| | | |\n| --- | --- | --- |\n| **Uppdrag** | **Beslut om uppdrag** | **Redovisningstidpunkt** |\n| Uppdrag om att bistå regeringen i upprättandet och administrationen av en årlig utmärkelse för frivilliga insatser till stöd för Ukraina | Regleringsbrev för 2025 | Uppdraget ska redovisas till Regeringskansliet (Utrikesdepartementet) senast den 31 mars 2027 |\n| Uppdrag om att stärka samordning kopplat till Sveriges möjligheter att attrahera och behålla högkvalificerad internationell kompetens och annan utländsk arbetskraft som är viktig för Sveriges konkurrenskraft | KN2024/00521 | Delredovisning 31 mars 2026 och slutredovisning senast 31 mars 2027 till Regeringskansliet (Klimat- och näringslivsdepartementet) |\n| Uppdrag om att stärka arbetet med att marknadsföra Sverige som talangdestination, inklusive för tekniktalanger bosatta utomlands | Regleringsbrev för 2025 | Uppdraget ska redovisas till Regeringskansliet (Utrikesdepartementet) senast den 31 mars 2027 |\n| Uppdrag om att bidra till ökade synergier mellan utvecklingssamarbete, främjande och handelspolitiken | Regleringsbrev för 2025 | Uppdraget ska redovisas till Regeringskansliet (Utrikesdepartementet) senast den 31 mars 2027 |",
+   "dates": [
+    "2026-03-31",
+    "2027-03-31"
+   ],
+   "deadlines": [
+    "2027-03-31"
+   ],
+   "recipients": [
+    "Regeringskansliet (Klimat- och näringslivsdepartementet)",
+    "Regeringskansliet (Utrikesdepartementet)"
+   ],
+   "partners": [],
+   "channels": [
+    "delredovisning",
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "27496:assignments:9"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "1:4",
+   "name": "Svenska institutet",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 5,
+    "name": "Internationell samverkan"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Svenska institutet",
+     "amount_tkr": 148984,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Svenska institutet (ram)",
+       "amount_tkr": 148984
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Svenska institutet",
+     "text": "Anslagsposten får användas för Svenska institutets förvaltningskostnader. Av anslagsposten ska högst 8 000 000 kronor användas för en tillfällig satsning på talangattraktion."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "1",
+     "max": 8000000,
+     "unit": "kronor"
+    }
+   ]
+  },
+  {
+   "code": "1:5",
+   "name": "Utrikes- och säkerhetspolitiskt strategiska insatser",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 5,
+    "name": "Internationell samverkan"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Svenska institutet",
+     "amount_tkr": 78515,
+     "items": [
+      {
+       "ap": "7",
+       "name": "Strategiska insatser - till Svenska institutet (ram)",
+       "amount_tkr": 78515
+      },
+      {
+       "ap": "7.1",
+       "name": "Insatser för demokrati och mänskliga rättigheter med fokus på Ryssland (ram)",
+       "amount_tkr": 13000
+      },
+      {
+       "ap": "7.2",
+       "name": "Östersjösamarbete (ram)",
+       "amount_tkr": 65515
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "7.1",
+     "name": "Insatser för demokrati och mänskliga rättigheter med fokus på Ryssland",
+     "text": "Medlen ska användas i enlighet med strategi för Sveriges stöd till demokrati, mänskliga rättigheter och miljö i Ryssland 2025-2027."
+    },
+    {
+     "ap": "7.2",
+     "name": "Östersjösamarbete",
+     "text": "Medlen ska användas i enlighet med strategi för Svenska institutets verksamhet gällande för samarbete inom Östersjöregionen 2016–2020. Strategin förlängs att gälla t.o.m. den 31 december 2026."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "1:1",
+   "name": "Biståndsverksamhet",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 7,
+    "name": "Internationellt bistånd"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Svenska institutet",
+     "amount_tkr": 317000,
+     "items": [
+      {
+       "ap": "11",
+       "name": "Utbyte och samarbete med ODA-länder (ram)",
+       "amount_tkr": 202700
+      },
+      {
+       "ap": "21",
+       "name": "Ukraina, Östeuropa samt västra Balkan och Turkiet (ram)",
+       "amount_tkr": 114300
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "11",
+     "name": "Utbyte och samarbete med ODA-länder",
+     "text": "Medlen ska användas i enlighet med gällande Strategi för innovation, partnerskap och kapacitetsutveckling samt Strategi för Sveriges regionala utvecklingssamarbete med Mellanöstern och Nordafrika."
+    },
+    {
+     "ap": "21",
+     "name": "Ukraina, Östeuropa samt västra Balkan och Turkiet",
+     "text": "Medlen ska användas i enlighet med gällande strategier för Ukraina, Östeuropa samt västra Balkan och Turkiet. Högst 2 000 000 kronor ska enligt närmare anvisningar användas till medel för utmärkelser för frivilliga insatser till stöd för Ukraina. SI ska tills vidare inte fatta beslut om stöd till bilaterala myndighetssamarbeten som innefattar georgiska statliga aktörer.\n**Generella villkor under anslag 1:1 Biståndsverksamhet**\nMedlen får endast användas i enlighet med OECD:s biståndskommitté DAC:s riktlinjer för vad som kan klassificeras som bistånd.\nHögst 37 785 000 kronor får användas för verksamhetens andel av förvaltningskostnader."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "21",
+     "max": 2000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "21",
+     "max": 37785000,
+     "unit": "kronor"
+    }
+   ]
+  },
+  {
+   "code": "2:3",
+   "name": "Exportfrämjande verksamhet",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 24,
+    "name": "Näringsliv"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Svenska institutet",
+     "amount_tkr": 10000,
+     "items": [
+      {
+       "ap": "4",
+       "name": "Handels- och investeringsfrämjande (ram)",
+       "amount_tkr": 10000
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "4",
+     "name": "Handels- och investeringsfrämjande",
+     "text": "Medlen ska användas för handels- och investeringsfrämjande."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "1:4 Svenska institutet",
+   "ap": "ap.1",
+   "Anslagskredit": 4469,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:5 Utrikes- och säkerhetspolitiskt strategiska insatser",
+   "ap": "ap.7.1",
+   "Anslagskredit": 396,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:5 Utrikes- och säkerhetspolitiskt strategiska insatser",
+   "ap": "ap.7.2",
+   "Anslagskredit": 2244,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:1 Biståndsverksamhet",
+   "ap": "ap.11",
+   "Anslagskredit": 6559,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:1 Biståndsverksamhet",
+   "ap": "ap.21",
+   "Anslagskredit": 2951,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:3 Exportfrämjande verksamhet",
+   "ap": "ap.4",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 12000
+ },
+ "payment_plan": [],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:4 Svenska institutet",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "4 469",
+     "3 %",
+     "0"
+    ],
+    [
+     "1:5 Utrikes- och säkerhetspolitiskt strategiska insatser",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.7.1",
+     "396",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.7.2",
+     "2 244",
+     "Inget",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:1 Biståndsverksamhet",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.11",
+     "6 559",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.21",
+     "2 951",
+     "Inget",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "2:3 Exportfrämjande verksamhet",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.4",
+     "0",
+     "Inget",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Beställningsbemyndiganden",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Bemyndigande",
+     "Utgifter mot anslag till följd av ekonomiska åtaganden",
+     "",
+     "",
+     ""
+    ],
+    [
+     "2026",
+     "2027",
+     "2028",
+     "2029 -",
+     "Slutår"
+    ],
+    [
+     "1:5 Utrikes- och säkerhetspolitiskt strategiska insatser",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.7.1",
+     "6 000",
+     "3 589",
+     "1 791",
+     "620",
+     "2032"
+    ],
+    [
+     "ap.7.2",
+     "45 000",
+     "25 411",
+     "18 209",
+     "1 380",
+     "2032"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Beställningsbemyndiganden",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Bemyndigande",
+     "Utgifter mot anslag till följd av ekonomiska åtaganden",
+     "",
+     "",
+     ""
+    ],
+    [
+     "2026",
+     "2027",
+     "2028",
+     "2029 -",
+     "Slutår"
+    ],
+    [
+     "1:1 Biståndsverksamhet",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.11",
+     "138 000",
+     "108 970",
+     "26 088",
+     "2 942",
+     "2029"
+    ],
+    [
+     "ap.21",
+     "100 000",
+     "56 300",
+     "42 351",
+     "1 349",
+     "2029"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "12 000"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [],
+ "has_fee_section": false,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 4,
+  "n_org": 0,
+  "n_assignments": 10,
+  "n_deadlines": 4,
+  "deadlines": [
+   "2026-03-31",
+   "2026-07-24",
+   "2027-03-15",
+   "2027-03-31"
+  ],
+  "partners": [
+   "Ekonomistyrningsverket",
+   "Statskontoret",
+   "Styrelsen för internationellt utvecklingssamarbete"
+  ],
+  "n_appropriations": 4,
+  "appropriations_total_tkr": 554499,
+  "payment_plan_total_tkr": 0,
+  "md_chars": 14680
+ },
+ "layout": "standard",
+ "warnings": []
+}

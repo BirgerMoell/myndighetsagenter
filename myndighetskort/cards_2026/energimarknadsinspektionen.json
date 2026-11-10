@@ -1,0 +1,786 @@
+{
+ "schema_version": 1,
+ "id": 25963,
+ "original_rbid": 25963,
+ "type": "Regleringsbrev",
+ "category": "Myndighet",
+ "date": "2025-12-18",
+ "year": "2026",
+ "name": "Energimarknadsinspektionen",
+ "slug": "energimarknadsinspektionen",
+ "department": "Klimat- och näringslivsdepartementet",
+ "expenditure_areas": [
+  21
+ ],
+ "registry_numbers": [
+  "KN2025/02354 (delvis)",
+  "KN2025/02401"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1"
+  ],
+  "bet": [
+   "2025/26:NU3"
+  ],
+  "rskr": [
+   "2025/26:118"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "",
+ "goals": [
+  {
+   "title": "Tillståndsprocesser",
+   "group": [],
+   "text": "Energimarknadsinspektionen ska redovisa hur myndigheten har arbetat för att minska den ingående ärendebalansen 2027 för olika kategorier av ärenden jämfört med den ingående ärendebalansen 2026.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "tillsyn_kontroll"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25963:goals:0"
+  },
+  {
+   "title": "Sanktioner",
+   "group": [],
+   "text": "Energimarknadsinspektionen ska redovisa hur myndigheten har arbetat med genomförande av EU:s restriktiva åtgärder.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla",
+    "tillsyn_kontroll",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25963:goals:1"
+  },
+  {
+   "title": "Färdval och resepolicy vid tjänsteresor",
+   "group": [],
+   "text": "Alla trafikslag ska kunna nyttjas (väg, järnväg, luft- och sjöfart) för att säkerställa effektiva och ändamålsenliga transporter. Energimarknadsinspektionen ska därför redovisa hur myndigheten har säkerställt att val av färdsätt vid tjänsteresor sker färdmedelsneutralt och utifrån behov. Vidare ska Energimarknadsinspektionen redovisa huruvida myndigheten köpt in hållbart flygbränsle till organisationens flygresor. När kostnader jämförs för olika färdval ska hela resans kostnad beaktas, exempelvis kostnader för nödvändig övernattning samt total arbetstid för hela resan.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "tillsyn_kontroll"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25963:goals:2"
+  }
+ ],
+ "org": [
+  {
+   "title": "Proaktivitet och handlingskraft vid kris eller krig",
+   "group": [],
+   "text": "Energimarknadsinspektionen ska säkerställa att myndigheten har förmåga att agera proaktivt och handlingskraftigt i hanteringen av såväl fredstida krissituationer som vid krig och krigsfara. Utöver de krav som ställs i förordningen (2022:524) om statliga myndigheters beredskap ska Energimarknadsinspektionen i detta syfte utbilda och öva sin personal samt se till att myndigheten stärker en kultur och ett arbetssätt som utgår från de krav som ett krig ställer. Uppdraget ska redovisas till Regeringskansliet (Klimat- och näringslivsdepartementet och Försvarsdepartementet) senast den 22 februari 2027. Detta ska ingå i den särskilda redovisningen för civilt försvar.",
+   "dates": [
+    "2027-02-22"
+   ],
+   "deadlines": [
+    "2027-02-22"
+   ],
+   "recipients": [
+    "Regeringskansliet (Klimat- och näringslivsdepartementet och Försvarsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "tillsyn_kontroll",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2022:524"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "org",
+   "item_id": "25963:org:0"
+  }
+ ],
+ "assignments": [
+  {
+   "title": "Uppdrag om myndighetsgemensamt arbete för kortare ledtider vid prövning av nätkoncession",
+   "group": [],
+   "text": "Energimarknadsinspektionen ska fortsätta att utveckla och genomföra sådana metoder och arbetssätt för tillståndsprocesser i syfte att ytterligare korta ledtiderna, som har identifierats bland annat i rapporten Kortare ledtider för elnätsutbyggnad (Ei R2023:09). Arbetet ska ske tillsammans med Lantmäteriet och berörda länsstyrelser. Arbetet bör bedrivas inom ramen för faktiska ansökningar. Energimarknadsinspektionen ska tillsammans med berörda länsstyrelser och Lantmäteriet prioritera projekt vilka syftar till att förbättra överföringen i nord-sydlig riktning, mellan elområden och till tillväxtområden samt projekt till slutkund vilka bedöms medföra stor samhällsnytta och/eller klimatnytta. Uppdraget ska redovisas till Regeringskansliet (Klimat- och näringslivsdepartementet) senast den 1 februari 2027. Vid redovisningen av uppdraget ska Energimarknadsinspektionen särskilt redogöra för förutsättningarna att implementera arbetssätten och metoderna i den ordinarie verksamheten.",
+   "dates": [
+    "2027-02-01"
+   ],
+   "deadlines": [
+    "2027-02-01"
+   ],
+   "recipients": [
+    "Regeringskansliet (Klimat- och näringslivsdepartementet)"
+   ],
+   "partners": [
+    "Lantmäteriet"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla",
+    "tillsyn_kontroll"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "25963:assignments:0"
+  },
+  {
+   "title": "Dialog om elmarknadens regelverk",
+   "group": [],
+   "text": "Energimarknadsinspektionen ska föra dialog om de delar av elmarknadens regelverk som avser anslutning, abonnemangsökning och flexibilitet. Arbetet ska bygga vidare på uppdraget Pilotprojekt Norra Sverige (KN2023/04607). Dialogen ska genomföras med berörda aktörer som är verksamma i Norrbotten, Västerbotten, Västra Götaland, Skåne och Gotlands län. Därigenom ska Energimarknadsinspektionen främja att flexibilitet kan integreras i relevanta projekt, utifrån den gröna industriella omställningen i länen så att anslutning till elnätet eller abonnemangsökning sker mer effektivt och underlättar investeringar för elektrifieringen och den gröna omställningen. Uppdraget ska redovisas till Regeringskansliet (Klimat- och näringslivsdepartementet) senast den 1 februari 2027.",
+   "dates": [
+    "2027-02-01"
+   ],
+   "deadlines": [
+    "2027-02-01"
+   ],
+   "recipients": [
+    "Regeringskansliet (Klimat- och näringslivsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla",
+    "tillsyn_kontroll"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "25963:assignments:1"
+  },
+  {
+   "title": "Uppdrag om att redovisa elnätsutbyggnad",
+   "group": [],
+   "text": "Energimarknadsinspektionen ska inkomma med nödvändiga författningsförslag för att myndigheten årligen ska kunna sammanställa och redovisa uppgifter om elnätsutbyggnaden i Sverige och kostnaden för den. Inom ramen för uppdraget ska Energimarknadsinspektionen även utveckla en karttjänst för att presentera den årliga elnätsutbyggnaden och dess kostnader. Uppdraget ska redovisas till Regeringskansliet (Klimat- och näringslivsdepartementet) senast den 15 december 2026.",
+   "dates": [
+    "2026-12-15"
+   ],
+   "deadlines": [
+    "2026-12-15"
+   ],
+   "recipients": [
+    "Regeringskansliet (Klimat- och näringslivsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "föreslå",
+    "utveckla",
+    "tillsyn_kontroll"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "25963:assignments:2"
+  },
+  {
+   "title": "Uppdrag om flaskhalsinkomster",
+   "group": [],
+   "text": "Energimarknadsinspektionen ska redogöra för hur flaskhalsinkomsterna får användas enligt nuvarande regelverk. I uppdraget ingår att analysera om det finns andra samhällsekonomiskt effektiva sätt att använda flaskhalsinkomsterna på än vad dagens regelverk medger. Uppdraget ska redovisas till Regeringskansliet (Klimat- och näringslivsdepartementet) senast den 30 oktober 2026.",
+   "dates": [
+    "2026-10-30"
+   ],
+   "deadlines": [
+    "2026-10-30"
+   ],
+   "recipients": [
+    "Regeringskansliet (Klimat- och näringslivsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "tillsyn_kontroll"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "25963:assignments:3"
+  },
+  {
+   "title": "Uppdrag om vägledande nationellt mål",
+   "group": [],
+   "text": "Av artikel 19 f i Europaparlamentets och rådets förordning (EU) 2024/1747 av den 13 juni 2024 om ändring av förordningarna (EU) 2019/942 och (EU) 2019/943 vad gäller förbättring av utformningen av unionens elmarknad (elmarknadsförordningen) följer att varje medlemsstat ska fastställa ett vägledande nationellt mål för icke-fossil flexibilitet. Energimarknadsinspektionen får därför i uppdrag att föreslå ett sådant mål, inbegripet förslag på specifika bidrag från efterfrågeflexibilitet, energilagring och elproduktion till målet. Uppdraget ska redovisas till Regeringskansliet (Klimat- och näringslivsdepartementet) senast den 15 september 2026.",
+   "dates": [
+    "2024-06-13",
+    "2026-09-15"
+   ],
+   "deadlines": [
+    "2026-09-15"
+   ],
+   "recipients": [
+    "Regeringskansliet (Klimat- och näringslivsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "föreslå",
+    "tillsyn_kontroll",
+    "informera",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "25963:assignments:4"
+  },
+  {
+   "title": "Kostnader för tillsyn och andra uppgifter motsvarande nätövervakningsavgift",
+   "group": [],
+   "text": "Energimarknadsinspektionen ska rapportera kostnader (motsvarande nätövervakningsavgift) för 2025 samt prognos för nästkommande tre år för verksamhet som avser uppgifter enligt 5 kap. ellagen (1997:857) och tillsyn enligt 12 kap. 1 § samma lag över att nätkoncessionshavare följer sina skyldigheter. Uppdraget ska redovisas till Regeringskansliet (Klimat- och näringslivsdepartementet) senast den 1 mars 2026.",
+   "dates": [
+    "2026-03-01"
+   ],
+   "deadlines": [
+    "2026-03-01"
+   ],
+   "forecast_dates": [],
+   "recipients": [
+    "Regeringskansliet (Klimat- och näringslivsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "prognos",
+    "tillsyn_kontroll"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "1997:857"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "25963:assignments:5"
+  },
+  {
+   "title": "Arbete med statligt stöd till ny kärnkraft",
+   "group": [],
+   "text": "Energimarknadsinspektionen ska under 2026 och 2027 inom sitt ansvarsområde och efter dialog med Klimat- och näringslivsdepartementet bistå Regeringskansliet i arbetet med statligt stöd till företag för investeringar i ny kärnkraft. Myndigheten får för genomförandet av uppdraget under 2026 använda högst 1 500 000 kronor som ska redovisas mot det under utgiftsområde 21 Energi för budgetåret 2026 uppförda anslaget 1:5*Energiplanering*, anslagsposten 7 Insatser för ny kärnkraft. Medel betalas ut engångsvis efter rekvisition senast den 31 mars 2026 till Statens energimyndighet. Medel som under året inte har använts för avsett ändamål ska återbetalas till Statens energimyndighet senast den 1 mars 2027. Regeringen beräknar att 1 500 000 kronor kommer att avsättas för uppdraget för 2027 under förutsättning att riksdagen anvisat medel för det aktuella anslaget.",
+   "dates": [
+    "2026-03-31",
+    "2027-03-01"
+   ],
+   "deadlines": [
+    "2026-03-31",
+    "2027-03-01"
+   ],
+   "recipients": [
+    "Statens energimyndighet"
+   ],
+   "partners": [
+    "Statens energimyndighet"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "utveckla",
+    "tillsyn_kontroll"
+   ],
+   "anslag_refs": [
+    "1:5"
+   ],
+   "expenditure_area_refs": [
+    21
+   ],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "25963:assignments:6"
+  },
+  {
+   "title": "Förenkla för företag genom verksamt.se",
+   "group": [],
+   "text": "Energimarknadsinspektionen ska förvalta myndighetens innehåll på den myndighetsgemensamma webbplatsen verksamt.se.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "tillsyn_kontroll"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "25963:assignments:7"
+  },
+  {
+   "title": "Identifiera regelverk för regulatoriska sandlådor vid utvecklingen av nettonollteknik i Sverige",
+   "group": [],
+   "text": "Energimarknadsinspektionen ska utreda vilka nettonolltekniker enligt artikel 4 i Europaparlamentets och rådets förordning (EU) 2024/1735 av den 13 juni 2024 om inrättande av en åtgärdsram för att stärka Europas ekosystem för tillverkning av nettonollteknik och om ändring av förordning (EU) 2018/1724 som har hemvist inom Energimarknadsinspektionens ansvarsområden. Energimarknadsinspektionen ska identifiera policyområden och regelverk inom sitt ansvarsområde som kan vara lämpliga för en regulatorisk sandlåda. Energimarknadsinspektionen ska vidare uppmärksamma avsaknad av regelverk och eventuella behov av undantag från nuvarande regelverk samt analysera möjliga försöksklausuler. Energimarknadsinspektionen ska även ge förslag på hur rollen som behörig myndighet för regulatoriska sandlådor bör utformas. Uppdraget ska redovisas till Regeringskansliet (Klimat- och näringslivsdepartementet) senast den 20 maj 2026. Vid genomförandet av uppdraget ska Energimarknadsinspektionen inhämta synpunkter från berörda aktörer.",
+   "dates": [
+    "2024-06-13",
+    "2026-05-20"
+   ],
+   "deadlines": [
+    "2026-05-20"
+   ],
+   "recipients": [
+    "Regeringskansliet (Klimat- och näringslivsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna",
+    "utveckla",
+    "tillsyn_kontroll",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "25963:assignments:8"
+  },
+  {
+   "title": "Prognoser",
+   "group": [],
+   "text": "Energimarknadsinspektionen ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Prognoserna lämnas i informationssystemet Hermes senast den\n\n- 2 februari\n- 22 april\n- 24 juli\n- 9 november",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos",
+    "tillsyn_kontroll"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "25963:assignments:9"
+  },
+  {
+   "title": "Pågående uppdrag per den 1 januari 2026",
+   "group": [],
+   "text": "| | | |\n| --- | --- | --- |\n| **Sammanfattning av uppdraget** | **Beslut om uppdraget** | **Rapporteringstidpunkt** |\n| Uppdrag att följa upp mål om handläggningstider samt om bemötande och service hos vissa myndigheter. | Den 1 september 2022 (N2022/01751). | Årligen t.o.m. 2029-02-15 |\n| Uppdrag att ta fram förslag till ett centralt datahanteringsverktyg för elmarknaden. | Den 18 september 2025 (KN2025/01781). | 2026-09-30 |\n| Uppdrag om att utföra vissa uppgifter som behörig myndighet enligt vissa rådsförordningar om internationella sanktioner. | Den 9 januari 2025 (UD2025/00310). | Tills vidare |\n| Uppdrag om proaktivitet och handlingskraft vid kris eller krig. | Den 19 december 2024 (KN2024/02543). | 2026-03-02 |\n\n*För regeringsuppdrag som lämnats i ett särskilt regeringsbeslut utgör tabellen endast en upplysning om vilka uppdrag som vid årets början var riktade till myndigheten och vilka tider som då gällde för återrapportering eller liknande.*",
+   "dates": [
+    "2022-09-01",
+    "2024-12-19",
+    "2025-01-09",
+    "2025-09-18",
+    "2026-03-02",
+    "2026-09-30",
+    "2029-02-15"
+   ],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "25963:assignments:10"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "1:4",
+   "name": "Energimarknadsinspektionen",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 21,
+    "name": "Energi"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Energimarknadsinspektionen",
+     "amount_tkr": 234451,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Energimarknadsinspektionen: Förvaltningskostnader (ram)",
+       "amount_tkr": 234451
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Energimarknadsinspektionen: Förvaltningskostnader",
+     "text": "Av anslaget ska Energimarknadsinspektionen använda minst motsvarande det totala beloppet för nätövervakningsavgiften enligt förordningen (2017:1040) om elberedskapsavgift, nätövervakningsavgift och elsäkerhetsavgift, för att hantera kostnader för verksamhet som avser uppgifter enligt 5 kap. ellagen (1997:857) och tillsyn enligt 12 kap. 1 § samma lag över att nätkoncessionshavare följer sina skyldigheter.\nEnergimarknadsinspektionen ska kunna använda och samverka med det gemensamma radiokommunikationssystemet Rakel. Energimarknadsinspektionen ska betala totalt 38 000 kronor till Myndigheten för civilt försvar som abonnemangsavgift för detta system. Beloppet ska betalas efter fakturering från Myndigheten för civilt försvar."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "1:4 Energimarknadsinspektionen",
+   "ap": "ap.1",
+   "Anslagskredit": 7033,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 27000,
+  "Räntekontokredit": 11000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 19538
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 19538
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 19538
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 19538
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 19538
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 19538
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 19538
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 19538
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 19538
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 19538
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 19538
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 19533
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:4 Energimarknadsinspektionen",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "7 033",
+     "3 %",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "27 000"
+    ],
+    [
+     "Räntekontokredit",
+     "11 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "19 538"
+    ],
+    [
+     "2026-02-25",
+     "19 538"
+    ],
+    [
+     "2026-03-25",
+     "19 538"
+    ],
+    [
+     "2026-04-25",
+     "19 538"
+    ],
+    [
+     "2026-05-25",
+     "19 538"
+    ],
+    [
+     "2026-06-25",
+     "19 538"
+    ],
+    [
+     "2026-07-25",
+     "19 538"
+    ],
+    [
+     "2026-08-25",
+     "19 538"
+    ],
+    [
+     "2026-09-25",
+     "19 538"
+    ],
+    [
+     "2026-10-25",
+     "19 538"
+    ],
+    [
+     "2026-11-25",
+     "19 538"
+    ],
+    [
+     "2026-12-25",
+     "19 533"
+    ],
+    [
+     "Summa",
+     "234 451"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "1:4 ap.1",
+     "Energimarknadsinspektionen: Förvaltningskostnader"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Offentligrättslig verksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Avgifter enligt förordningen (2014:1059)1",
+     "0",
+     "0",
+     "11 300",
+     "11 300",
+     "0",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna ej disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "Ink. tit.",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Offentligrättslig verksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Förseningsavgifter enligt ellagen (1997:857) respektive fjärrvärmelagen (2008:263)3",
+     "2714",
+     "200"
+    ],
+    [
+     "Avgifter enligt förordningen (2008:1330) om vissa avgifter på naturgasområdet1",
+     "2552",
+     "1 165",
+     "-250",
+     "4 250",
+     "4 750",
+     "-500",
+     "415"
+    ],
+    [
+     "Summa",
+     "1 165",
+     "-250",
+     "4 450",
+     "4 750",
+     "-500",
+     "415"
+    ]
+   ]
+  }
+ ],
+ "has_fee_section": true,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 3,
+  "n_org": 1,
+  "n_assignments": 11,
+  "n_deadlines": 9,
+  "deadlines": [
+   "2026-03-01",
+   "2026-03-31",
+   "2026-05-20",
+   "2026-09-15",
+   "2026-10-30",
+   "2026-12-15",
+   "2027-02-01",
+   "2027-02-22",
+   "2027-03-01"
+  ],
+  "partners": [
+   "Lantmäteriet",
+   "Statens energimyndighet"
+  ],
+  "n_appropriations": 1,
+  "appropriations_total_tkr": 234451,
+  "payment_plan_total_tkr": 234451,
+  "md_chars": 14478
+ },
+ "layout": "standard",
+ "warnings": []
+}

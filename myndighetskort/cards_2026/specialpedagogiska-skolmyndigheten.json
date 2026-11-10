@@ -1,0 +1,646 @@
+{
+ "schema_version": 1,
+ "id": 25951,
+ "original_rbid": 25951,
+ "type": "Regleringsbrev",
+ "category": "Myndighet",
+ "date": "2025-12-18",
+ "year": "2026",
+ "name": "Specialpedagogiska skolmyndigheten",
+ "slug": "specialpedagogiska-skolmyndigheten",
+ "department": "Utbildningsdepartementet",
+ "expenditure_areas": [
+  16
+ ],
+ "registry_numbers": [
+  "U2025/02412 (delvis)"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1"
+  ],
+  "bet": [
+   "2025/26:UbU1"
+  ],
+  "rskr": [
+   "2025/26:124"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "",
+ "goals": [
+  {
+   "title": "Informations- och cybersäkerhet",
+   "group": [],
+   "text": "Specialpedagogiska skolmyndigheten ska övergripande redogöra för hur myndigheten har förvaltat och utvecklat sitt arbete med informations- och cybersäkerhet, inklusive den egna organisationens beredskap och möjlighet att hantera incidenter. Myndigheten ska även lämna en redogörelse över vidtagna åtgärder för att utveckla den interna styrningen och uppföljningen av arbetet.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "analysera",
+    "utveckla",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25951:goals:0"
+  },
+  {
+   "title": "Information om effektivisering och erfarenheter av uppdrag",
+   "group": [],
+   "text": "Specialpedagogiska skolmyndigheten ska redovisa hur effektiviseringsarbetet inom myndigheten har bedrivits och kommer att bedrivas, inklusive uppskatta vilka kostnadsminskningar som har gjorts, mot bakgrund av bl.a. minskningen av förvaltningsanslaget (prop. 2025/26:1 utg.omr. 16 avsnitt 3.6.3). Specialpedagogiska skolmyndigheten ska även redovisa vilka konsekvenser som myndighetens nyligen genomförda omorganisation har resulterat i. Vidare ska myndigheten redovisa hur myndigheten har omhändertagit de erfarenheter och det arbete som har gjorts, bl.a. vad gäller samverkan mellan skolmyndigheterna, inom ramen för uppdraget om en översyn av stöd och information via webbplatser samt om utveckling och samordning av forskningsspridning (U2023/02135).",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25951:goals:1"
+  }
+ ],
+ "org": [],
+ "assignments": [
+  {
+   "title": "Prognoser",
+   "group": [],
+   "text": "Myndigheten ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Prognoserna lämnas i informationssystemet Hermes senast den\n\n– 2 februari\n\n– 22 april\n\n– 24 juli\n\n– 9 november.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "25951:assignments:0"
+  },
+  {
+   "title": "Prognos för beställningsbemyndiganden",
+   "group": [],
+   "text": "Myndigheten ska redovisa en prognos för de förslag om beställningsbemyndiganden som lämnats i budgetunderlaget och för de åtaganden som ingåtts med stöd av äldre beställningsbemyndiganden. Prognosen ska lämnas senast den 24 juli 2026 via Statsredovisningssystemet i Hermes och utformas enligt närmare information från Statskontoret.",
+   "dates": [
+    "2026-07-24"
+   ],
+   "deadlines": [
+    "2026-07-24"
+   ],
+   "forecast_dates": [],
+   "recipients": [],
+   "partners": [
+    "Statskontoret"
+   ],
+   "channels": [
+    "hermes",
+    "budgetunderlag"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "25951:assignments:1"
+  },
+  {
+   "title": "Tidigare givna uppdrag i regleringsbrev eller särskilda regeringsbeslut",
+   "group": [],
+   "text": "| | | |\n| --- | --- | --- |\n| Uppdrag | Beslut om uppdraget | Redovisningstidpunkt |\n| Uppdrag att ta fram ett nationellt hälsoprogram för barn och unga | S2023/02379 (delvis) | Den 31 januari 2027 (av Socialstyrelsen) |\n| Stärkt stöd när det gäller elever med neuropsykiatriska funktionsnedsättningar och omfattande frånvaro | U2024/01394 | Den 26 maj 2027 |\n| Uppdrag om systematisk uppföljning av funktionshinderspolitiken under 2021–2031 | S2021/06595 S2025/01367 | Årligen den 1 februari i en särskild redovisning till Myndigheten för delaktighet |\n| Uppdrag att samordna, stödja och följa upp genomförandet av den nationella strategin inom området psykisk hälsa och suicidprevention | S2025/00016 | Ingen redovisning krävs |\n\n*För regeringsuppdrag som lämnats i ett särskilt regeringsbeslut utgör tabellen endast en upplysning om vilka uppdrag som vid årets början var riktade till myndigheten och vilka tider som då gällde för återrapportering eller liknande.*",
+   "dates": [
+    "2027-01-31",
+    "2027-05-26"
+   ],
+   "deadlines": [],
+   "recipients": [
+    "Myndigheten för delaktighet"
+   ],
+   "partners": [
+    "Myndigheten för delaktighet",
+    "Socialstyrelsen"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "25951:assignments:2"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "1:3",
+   "name": "Specialpedagogiska skolmyndigheten",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 16,
+    "name": "Utbildning och universitetsforskning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Specialpedagogiska skolmyndigheten",
+     "amount_tkr": 894052,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Specialpedagogiska skolmyndigheten (ram)",
+       "amount_tkr": 894052
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Specialpedagogiska skolmyndigheten",
+     "text": "Anslaget får användas för Specialpedagogiska skolmyndighetens förvaltningsutgifter. Anslaget får även användas för utgifter för myndighetens verksamhet, produktionsstöd för läromedelsframställning och visst internationellt samarbete.\nÅterbetalda medel när det gäller bidrag med återbetalningsskyldighet ska tillföras anslaget."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "1:6",
+   "name": "Statligt stöd till särskild utbildning i gymnasieskolan",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 16,
+    "name": "Utbildning och universitetsforskning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Specialpedagogiska skolmyndigheten",
+     "amount_tkr": 71066,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Omvårdnadsinsatser (ram)",
+       "amount_tkr": 71066
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Omvårdnadsinsatser",
+     "text": "Anslagsposten får belastas med utgifter för omvårdnadsinsatser vid gymnasieskolor med utbildning som är speciellt anpassad för svårt rörelsehindrade ungdomar (Rh-anpassad utbildning)."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "1:14",
+   "name": "Särskilda insatser inom skolområdet",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 16,
+    "name": "Utbildning och universitetsforskning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Specialpedagogiska skolmyndigheten",
+     "amount_tkr": 173418,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Särskilda insatser inom skolområdet (ram)",
+       "amount_tkr": 173418
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Särskilda insatser inom skolområdet",
+     "text": "Anslagsposten får belastas med utgifter för statsbidrag enligt förordningen (1991:931) om statsbidrag till särskilda insatser på skolområdet, varav minst 10 000 000 kronor ska avse utgifter i enlighet med 1 § 3 nämnda förordning.\nAnslagsposten får belastas med utgifter för utvecklingsprojekt och analyser som syftar till att öka måluppfyllelsen eller öka kunskapen när det gäller olika pedagogiska arbetssätt vad avser barn och elever med funktionsnedsättning.\nHögst 2 300 000 kronor får användas till stöd för särskilt anordnad utbildning för ungdomar med svår synnedsättning som efter grundskolan behöver ett s.k. mellanår före avslutad gymnasial utbildning."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "1",
+     "max": 2300000,
+     "unit": "kronor"
+    }
+   ]
+  },
+  {
+   "code": "1:16",
+   "name": "Bidrag till vissa studier",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 16,
+    "name": "Utbildning och universitetsforskning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Specialpedagogiska skolmyndigheten",
+     "amount_tkr": 17525,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Bidrag till vissa studier (ram)",
+       "amount_tkr": 17525
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Bidrag till vissa studier",
+     "text": "Anslagsposten får belastas med utgifter för bidrag enligt förordningen (2007:1345) om statsbidrag vid vissa studier för personer med funktionsnedsättning."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "1:3 Specialpedagogiska skolmyndigheten",
+   "ap": "ap.1",
+   "Anslagskredit": 26821,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:6 Statligt stöd till särskild utbildning i gymnasieskolan",
+   "ap": "ap.1",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:14 Särskilda insatser inom skolområdet",
+   "ap": "ap.1",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:16 Bidrag till vissa studier",
+   "ap": "ap.1",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 51500,
+  "Räntekontokredit": 94300
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 74504
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 74504
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 74504
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 74504
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 74504
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 74504
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 74504
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 74504
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 74504
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 74504
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 74504
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 74508
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:3 Specialpedagogiska skolmyndigheten",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "26 821",
+     "3 %",
+     "0"
+    ],
+    [
+     "1:6 Statligt stöd till särskild utbildning i gymnasieskolan",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "1:14 Särskilda insatser inom skolområdet",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "1:16 Bidrag till vissa studier",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "0",
+     "Inget",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Avslutade anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagstyp"
+    ],
+    [
+     "1:5 Utveckling av skolväsendet och annan pedagogisk verksamhet",
+     ""
+    ],
+    [
+     "ap.1",
+     "ram"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Beställningsbemyndiganden",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Bemyndigande",
+     "Utgifter mot anslag till följd av ekonomiska åtaganden",
+     "",
+     "",
+     ""
+    ],
+    [
+     "2026",
+     "2027",
+     "2028",
+     "2029 -",
+     "Slutår"
+    ],
+    [
+     "1:6 Statligt stöd till särskild utbildning i gymnasieskolan",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "35 000",
+     "35 000",
+     "",
+     "",
+     "2027"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "51 500"
+    ],
+    [
+     "Räntekontokredit",
+     "94 300"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "74 504"
+    ],
+    [
+     "2026-02-25",
+     "74 504"
+    ],
+    [
+     "2026-03-25",
+     "74 504"
+    ],
+    [
+     "2026-04-25",
+     "74 504"
+    ],
+    [
+     "2026-05-25",
+     "74 504"
+    ],
+    [
+     "2026-06-25",
+     "74 504"
+    ],
+    [
+     "2026-07-25",
+     "74 504"
+    ],
+    [
+     "2026-08-25",
+     "74 504"
+    ],
+    [
+     "2026-09-25",
+     "74 504"
+    ],
+    [
+     "2026-10-25",
+     "74 504"
+    ],
+    [
+     "2026-11-25",
+     "74 504"
+    ],
+    [
+     "2026-12-25",
+     "74 508"
+    ],
+    [
+     "Summa",
+     "894 052"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "1:3 ap.1",
+     "Specialpedagogiska skolmyndigheten"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Offentligrättslig verksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Specialskola m.m.3",
+     "511 000"
+    ]
+   ]
+  }
+ ],
+ "has_fee_section": true,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 2,
+  "n_org": 0,
+  "n_assignments": 3,
+  "n_deadlines": 1,
+  "deadlines": [
+   "2026-07-24"
+  ],
+  "partners": [
+   "Myndigheten för delaktighet",
+   "Socialstyrelsen",
+   "Statskontoret"
+  ],
+  "n_appropriations": 4,
+  "appropriations_total_tkr": 1156061,
+  "payment_plan_total_tkr": 894052,
+  "md_chars": 10683
+ },
+ "layout": "standard",
+ "warnings": []
+}

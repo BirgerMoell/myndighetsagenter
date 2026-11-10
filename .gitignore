@@ -1,0 +1,10 @@
+__pycache__/
+.pytest_cache/
+.DS_Store
+# source downloads and unredacted decisions stay local
+myndighetskort/data/
+myndighetskort/out/
+myndighetsbeslut/data/
+myndighetsbeslut/results/
+myndighetsbeslut/hf_dataset/
+*.log

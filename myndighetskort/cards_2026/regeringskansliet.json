@@ -1,0 +1,328 @@
+{
+ "schema_version": 1,
+ "id": 25844,
+ "original_rbid": 25844,
+ "type": "Regleringsbrev",
+ "category": "Myndighet",
+ "date": "2025-12-11",
+ "year": "2026",
+ "name": "Regeringskansliet",
+ "slug": "regeringskansliet",
+ "department": "Statsrådsberedningen",
+ "expenditure_areas": [
+  1
+ ],
+ "registry_numbers": [
+  "SB2025/01306 (delvis)"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1"
+  ],
+  "bet": [
+   "2025/26:KU1"
+  ],
+  "rskr": [
+   "2025/26:84"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "Regeringskansliet har till uppgift att bereda regeringsärenden och att i övrigt biträda regeringen och statsråden i deras verksamhet.\n\nRegeringskansliet ska vara ett effektivt och kompetent instrument för regeringen i dess uppgift att styra riket och förverkliga sin politik.",
+ "goals": [],
+ "org": [],
+ "assignments": [],
+ "appropriations": [
+  {
+   "code": "4:1",
+   "name": "Regeringskansliet m.m.",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 1,
+    "name": "Rikets styrelse"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Regeringskansliet",
+     "amount_tkr": 10722886,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Till Regeringskansliets disposition (ram)",
+       "amount_tkr": 10722886
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Till Regeringskansliets disposition",
+     "text": "Anslagsposten får användas för Regeringskansliets förvaltningsutgifter.\nAnslagsposten får även användas för utgifter för utrikesrepresentationen, kommittéväsendet och gemensamma ändamål (hyror, kapitalkostnader m.m.)."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "4:1 Regeringskansliet m.m.",
+   "ap": "ap.1",
+   "Anslagskredit": 321686,
+   "Anslagsbehållning som disponeras 2026": 700000,
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 2900000,
+  "Räntekontokredit": 1068007
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 893574
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 893574
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 893574
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 893574
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 893574
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 893574
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 893574
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 893574
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 893574
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 893574
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 893574
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 893572
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "4:1 Regeringskansliet m.m.",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "321 686",
+     "700 000",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "2 900 000"
+    ],
+    [
+     "Räntekontokredit",
+     "1 068 007"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "893 574"
+    ],
+    [
+     "2026-02-25",
+     "893 574"
+    ],
+    [
+     "2026-03-25",
+     "893 574"
+    ],
+    [
+     "2026-04-25",
+     "893 574"
+    ],
+    [
+     "2026-05-25",
+     "893 574"
+    ],
+    [
+     "2026-06-25",
+     "893 574"
+    ],
+    [
+     "2026-07-25",
+     "893 574"
+    ],
+    [
+     "2026-08-25",
+     "893 574"
+    ],
+    [
+     "2026-09-25",
+     "893 574"
+    ],
+    [
+     "2026-10-25",
+     "893 574"
+    ],
+    [
+     "2026-11-25",
+     "893 574"
+    ],
+    [
+     "2026-12-25",
+     "893 572"
+    ],
+    [
+     "Summa",
+     "10 722 886"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "4:1 ap.1",
+     "Till Regeringskansliets disposition"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Uppdragsverksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Näringslivsfrämjande tjänster3",
+     "3 200"
+    ]
+   ]
+  },
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna ej disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "Ink. tit.",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Offentligrättslig verksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Expeditions- och ansökningsavgifter m.m.1",
+     "2511",
+     "0",
+     "0",
+     "255 000",
+     "255 000",
+     "0",
+     "0"
+    ]
+   ]
+  }
+ ],
+ "has_fee_section": true,
+ "exceptions_text": "Regeringskansliet undantas från kravet i Ekonomistyrningsverkets föreskrifter till 6 kap. 1 § förordningen (2000:605) om årsredovisning och budgetunderlag om att i not till anslagsredovisningen kommentera väsentliga avvikelser från tilldelade belopp.\n\nKravet i 21 f § förordningen (2000:606) om myndigheters bokföring att hantera inkommande och utgående fakturor elektroniskt ska inte tillämpas på myndigheter inom utrikesrepresentationen.\n\nRegeringskansliet undantas från begränsningen i 4 § andra stycket avgiftsförordningen (1992:191) när det gäller ersättning för sådana varor och tjänster som avses i första stycket samma paragraf.\n\nRegeringskansliet undantas från kravet i 7 § avgiftsförordningen (1992:191) om samrådsskyldighet.\n\n**ÖVRIGA BESTÄMMELSER**\n\nRegeringskansliet verkar för att öka förmågan att använda AI och arbeta datadrivet genom digitalisering och ny teknik.\n\nUtdrag till\n\nSamtliga departement\\\nStatsrådsberedningen/REV\\\nFinansdepartementet/BA\\\nRegeringskansliets förvaltningsavdelning/EKA\\\nKonstitutionsutskottet\\\nUtrikesutskottet\\\nRiksgäldskontoret",
+ "summary": {
+  "n_goals": 0,
+  "n_org": 0,
+  "n_assignments": 0,
+  "n_deadlines": 0,
+  "deadlines": [],
+  "partners": [],
+  "n_appropriations": 1,
+  "appropriations_total_tkr": 10722886,
+  "payment_plan_total_tkr": 10722886,
+  "md_chars": 5055
+ },
+ "layout": "standard",
+ "warnings": []
+}

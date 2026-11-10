@@ -1,0 +1,735 @@
+{
+ "schema_version": 1,
+ "id": 26399,
+ "original_rbid": 25790,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-06-18",
+ "year": "2026",
+ "name": "Sametinget",
+ "slug": "sametinget",
+ "department": "Kulturdepartementet",
+ "expenditure_areas": [
+  1,
+  17
+ ],
+ "registry_numbers": [
+  "Ku2026/00598"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1"
+  ],
+  "bet": [
+   "2025/26:KU1",
+   "2025/26:KrU1"
+  ],
+  "rskr": [
+   "2025/26:83",
+   "2025/26:87"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "",
+ "goals": [
+  {
+   "title": "Kostnader för den politiska delen och kansliet",
+   "group": [],
+   "text": "Sametinget ska redovisa hur förvaltningsanslaget fördelats mellan den politiska delen och kansliet. Kostnader för löner, arvoden och samtliga pensionskostnader ska redovisas enligt samma fördelning liksom de totala kostnaderna för plenum, styrelse respektive nämnder.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "fördela_medel"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26399:goals:0"
+  },
+  {
+   "title": "Konsultationsordningen",
+   "group": [],
+   "text": "Sametinget ska redovisa myndighetens arbete med lagen (2022:66) om konsultation i frågor som rör det samiska folket. I redovisningen ska ingå uppgifter om antal inkomna konsultationsförfrågningar samt varifrån de kommer. Vidare ska Sametinget redovisa information om huruvida inkomna förfrågningar har lett till att konsultation med Sametinget genomförts. Därutöver ska information om antal årsarbetskrafter som tagits i anspråk för arbetet redovisas.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2022:66"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26399:goals:1"
+  },
+  {
+   "title": "Förvaltningsverktyg för toleransnivåer avseende skador inom rennäringen",
+   "group": [],
+   "text": "Sametinget ska tillsammans med Naturvårdsverket samordna och bidra till utvecklingen av ett förvaltningsverktyg utifrån fastställd toleransnivå för skador orsakade av stora djur inom rennäringen, i syfte att upprätthålla en hållbar rennäring och gynnsam bevarandestatus för stora rovdjur. Sametinget ska inhämta kunskap och erfarenhet från länsstyrelserna i Dalarnas, Jämtlands, Norrbottens, Västerbottens och Västernorrlands län. Sametinget ska redovisa hur arbetet genomförts, sammanställa förlustsiffror för rennäringen och redovisa inriktningen för det fortsatta arbetet.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Naturvårdsverket",
+    "länsstyrelserna"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26399:goals:2"
+  },
+  {
+   "title": "Härjedalsförhandlingarna",
+   "group": [],
+   "text": "Sametinget ska redovisa hur myndigheten har bistått i arbetet avseende Härjedalsförhandlingarna gällande renbetesavtal på vinterbetesmarker och åretruntmarker.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26399:goals:3"
+  },
+  {
+   "title": "De nationella miljömålen",
+   "group": [],
+   "text": "",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26399:goals:4"
+  }
+ ],
+ "org": [
+  {
+   "title": "Förvaltningskultur",
+   "group": [],
+   "text": "Sametinget ska säkerställa att alla som verkar inom myndigheten, såväl inom den politiska delen som kansliet, efterlever den statliga värdegrunden. Myndigheten ska senast den 1 september 2026 redovisa vidtagna åtgärder, t.ex. införda rutiner och genomförda kunskapshöjande insatser, inklusive målgrupp samt uppnådda resultat till Regeringskansliet (Kulturdepartementet). I redovisningen ska ingå en plan för hur arbetet fortsatt ska bedrivas.",
+   "dates": [
+    "2026-09-01"
+   ],
+   "deadlines": [
+    "2026-09-01"
+   ],
+   "recipients": [
+    "Regeringskansliet (Kulturdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "informera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "org",
+   "item_id": "26399:org:0"
+  },
+  {
+   "title": "Åtgärder med anledning av Statskontorets rapport",
+   "group": [],
+   "text": "Sametinget ska redovisa vilka åtgärder som vidtagits med anledning av de förslag som lämnats i Statskontorets rapport*Självbestämmande på pappret men inte i praktiken?*(Ku2023/01233). Sametinget ska särskilt redovisa vidtagna och planerade åtgärder för att utveckla myndighetens styrdokument och för att säkerställa att de efterlevs. Sametinget ska också redovisa en riskanalys inklusive vidtagna och planerade åtgärder. Redovisningen ska inkludera en tidsplan för planerade åtgärder. Uppdraget ska redovisas till Regeringskansliet (Kulturdepartementet) senast den 1 september 2026.",
+   "dates": [
+    "2026-09-01"
+   ],
+   "deadlines": [
+    "2026-09-01"
+   ],
+   "recipients": [
+    "Regeringskansliet (Kulturdepartementet)"
+   ],
+   "partners": [
+    "Statskontoret"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "org",
+   "item_id": "26399:org:1"
+  }
+ ],
+ "assignments": [
+  {
+   "title": "Stöd enligt marknadsordningen",
+   "group": [],
+   "text": "Sametinget ska senast den 1 augusti 2026 lämna en rapport till Regeringskansliet (Landsbygds- och infrastrukturdepartementet) om de uppgifter som ska lämnas till Europeiska kommissionen senast den 31 augusti 2026 enligt artikel 2 i kommissionens beslut av den 16 december 2025 om tillstånd till utbetalning av statligt stöd till produktion och saluföring av renar och renprodukter i Sverige (C[2025] 8578 final).",
+   "dates": [
+    "2025-12-16",
+    "2026-08-01",
+    "2026-08-31"
+   ],
+   "deadlines": [
+    "2026-08-01",
+    "2026-08-31"
+   ],
+   "recipients": [
+    "Regeringskansliet (Landsbygds- och infrastrukturdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26399:assignments:0"
+  },
+  {
+   "title": "Nationella minoriteter",
+   "group": [],
+   "text": "",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26399:assignments:1"
+  },
+  {
+   "title": "Förlängning av uppdraget avseende jämställdhet och mäns våld mot samiska kvinnor och flickor",
+   "group": [],
+   "text": "Uppdraget till Sametinget i regeringsbeslut den 28 oktober 2021 (Ku 2021/02210) avseende jämställdhet samt mäns våld mot samiska kvinnor och flickor förlängs till 2027. En delredovisning ska lämnas till Regeringskansliet (Kulturdepartementet med kopia till Arbetsmarknadsdepartementet) senast den 31 mars 2026. En slutredovisning i form av en rapport av genomförda insatser ska lämnas till Regeringskansliet (Kulturdepartementet med kopia till Arbetsmarknadsdepartementet) senast den 31 mars 2027. Slutredovisningen ska innehålla en beskrivning av genomförande samt en analys och bedömning av utfall och effekter. Rapporten ska även innehålla en framåtsyftande behovsanalys. För uppdraget får Sametinget under 2026 använda högst 1 500 000 kronor som ska redovisas mot det under utgiftsområde 13 Integration och jämställdhet för budgetåret 2026 uppförda anslaget 3:1 Särskilda jämställdhetsåtgärder, anslagsposten 12 Jämställdhetsinsatser efter regeringsbeslut. Medlen betalas ut engångsvis efter rekvisition till Kammarkollegiet senast den 1 december 2026. Medel som inte har använts för avsett ändamål ska återbetalas senast den 31 mars 2027 till Kammarkollegiet. Vid samma tidpunkt ska en ekonomisk redovisning av använda medel lämnas till Kammarkollegiet.",
+   "dates": [
+    "2021-10-28",
+    "2026-03-31",
+    "2026-12-01",
+    "2027-03-31"
+   ],
+   "deadlines": [
+    "2026-03-31",
+    "2026-12-01",
+    "2027-03-31"
+   ],
+   "recipients": [
+    "Kammarkollegiet",
+    "Regeringskansliet (Kulturdepartementet med kopia till Arbetsmarknadsdepartementet)"
+   ],
+   "partners": [
+    "Kammarkollegiet"
+   ],
+   "channels": [
+    "delredovisning",
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla"
+   ],
+   "anslag_refs": [
+    "3:1"
+   ],
+   "expenditure_area_refs": [
+    13
+   ],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26399:assignments:2"
+  },
+  {
+   "title": "Återlämnande av samiska mänskliga kvarlevor och föremål",
+   "group": [],
+   "text": "Sametinget får i uppdrag att under 2026–2028 stärka sitt arbete med frågor som rör återlämnande av samiska mänskliga kvarlevor och föremål. Uppdraget ska genomföras i samverkan med Riksantikvarieämbetet. Uppdraget ska delredovisas senast den 22 februari 2027 och slutredovisas senast den 22 februari 2029.",
+   "dates": [
+    "2027-02-22",
+    "2029-02-22"
+   ],
+   "deadlines": [
+    "2027-02-22",
+    "2029-02-22"
+   ],
+   "recipients": [],
+   "partners": [
+    "Riksantikvarieämbetet"
+   ],
+   "channels": [
+    "delredovisning",
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26399:assignments:3"
+  },
+  {
+   "title": "Prognoser",
+   "group": [],
+   "text": "Sametinget ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Prognoserna lämnas i informationssystemet Hermes senast den\n\n- 2 februari\n- 22 april\n- 24 juli\n- 9 november.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26399:assignments:4"
+  },
+  {
+   "title": "Tidigare givna uppdrag i regleringsbrev eller särskilda regeringsbeslut",
+   "group": [],
+   "text": "| | | |\n| --- | --- | --- |\n| Sammanfattning av uppdraget | Beslut om uppdraget | Rapporteringstidpunkt |\n| Uppdrag att redovisa resultat inom ramen för regeringens utvecklingsprogram för jämställdhetsintegrering i statliga myndigheter | A2024/01457 | Redovisning till Regeringskansliet (Arbetsmarknadsdepartementet med kopia till Kulturdepartementet och Jämställdhetsmyndigheten) senast den 20 januari 2026 |\n| Uppdrag att bistå Miljömålsrådet i dess arbete | M2022/00273 | Redovisning till Regeringskansliet (Klimat- och näringslivsdepartementet) senast den 6 maj 2026 |\n| Uppdrag att under perioden 2024–2026 samordna Sveriges genomförande av artiklarna 8(j) och 10(c) i konventionen om biologisk mångfald och i dessa frågor ansvara för kontakterna med konventionens sekretariat genom att vara fokalpunkt | Ku2023/01348 | Redovisning till Regeringskansliet (Klimat- och näringslivsdepartementet) senast den 15 september 2026 |\n| Medverkan i uppdraget att samordna, stödja och följa upp genomförandet av den nationella strategin inom området psykisk hälsa och suicidprevention | S2025/00016 | Slutredovisning till Regeringskansliet (Socialdepartementet) senast den 19 december 2028 |\n\n*För regeringsuppdrag som lämnats i ett särskilt regeringsbeslut utgör tabellen endast en upplysning om vilka uppdrag som vid årets början var riktade till myndigheten och vilka tider som då gällde för återrapportering eller liknande.*",
+   "dates": [
+    "2026-01-20",
+    "2026-05-06",
+    "2026-09-15",
+    "2028-12-19"
+   ],
+   "deadlines": [
+    "2026-01-20",
+    "2026-05-06",
+    "2026-09-15",
+    "2028-12-19"
+   ],
+   "recipients": [
+    "Regeringskansliet (Arbetsmarknadsdepartementet med kopia till Kulturdepartementet och Jämställdhetsmyndigheten)",
+    "Regeringskansliet (Klimat- och näringslivsdepartementet)",
+    "Regeringskansliet (Socialdepartementet)"
+   ],
+   "partners": [
+    "Jämställdhetsmyndigheten"
+   ],
+   "channels": [
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "26399:assignments:5"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "3:1",
+   "name": "Sametinget",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 1,
+    "name": "Rikets styrelse"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Sametinget",
+     "amount_tkr": 66987,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Sametinget (ram)",
+       "amount_tkr": 65487
+      },
+      {
+       "ap": "3",
+       "name": "Samefonden (ram)",
+       "amount_tkr": 1500
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Sametinget",
+     "text": "Anslagsposten får användas för Sametingets förvaltningsutgifter."
+    },
+    {
+     "ap": "3",
+     "name": "Samefonden",
+     "text": "Sametinget ska utbetala medlen till Kammarkollegiet för överföring till Samefonden."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "1:2",
+   "name": "Bidrag till allmän kulturverksamhet, utveckling samt internationellt kulturutbyte och samarbete",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 17,
+    "name": "Kultur, medier, trossamfund och fritid"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Sametinget",
+     "amount_tkr": 22878,
+     "items": [
+      {
+       "ap": "5",
+       "name": "Bidrag till samisk kultur (ram)",
+       "amount_tkr": 22878
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "5",
+     "name": "Bidrag till samisk kultur",
+     "text": "Anslagsposten får användas för bidrag till samisk kultur. Anslagsposten får också användas för bidrag till Sámi Giellagáldu."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "3:1 Sametinget",
+   "ap": "ap.1",
+   "Anslagskredit": 2009,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "3:1 Sametinget",
+   "ap": "ap.3",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:2 Bidrag till allmän kulturverksamhet, utveckling samt internationellt kulturutbyte och samarbete",
+   "ap": "ap.5",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 4500,
+  "Räntekontokredit": 5000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 5582
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 5582
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 5582
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 5582
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 5582
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 5582
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 5582
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 5582
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 5582
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 5582
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 5582
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 5585
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "3:1 Sametinget",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "2 009",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.3",
+     "0",
+     "Inget",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:2 Bidrag till allmän kulturverksamhet, utveckling samt internationellt kulturutbyte och samarbete",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.5",
+     "0",
+     "Inget",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "4 500"
+    ],
+    [
+     "Räntekontokredit",
+     "5 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "5 582"
+    ],
+    [
+     "2026-02-25",
+     "5 582"
+    ],
+    [
+     "2026-03-25",
+     "5 582"
+    ],
+    [
+     "2026-04-25",
+     "5 582"
+    ],
+    [
+     "2026-05-25",
+     "5 582"
+    ],
+    [
+     "2026-06-25",
+     "5 582"
+    ],
+    [
+     "2026-07-25",
+     "5 582"
+    ],
+    [
+     "2026-08-25",
+     "5 582"
+    ],
+    [
+     "2026-09-25",
+     "5 582"
+    ],
+    [
+     "2026-10-25",
+     "5 582"
+    ],
+    [
+     "2026-11-25",
+     "5 582"
+    ],
+    [
+     "2026-12-25",
+     "5 585"
+    ],
+    [
+     "Summa",
+     "66 987"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "3:1 ap.1",
+     "Sametinget"
+    ],
+    [
+     "3:1 ap.3",
+     "Samefonden"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [],
+ "has_fee_section": false,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 5,
+  "n_org": 2,
+  "n_assignments": 6,
+  "n_deadlines": 12,
+  "deadlines": [
+   "2026-01-20",
+   "2026-03-31",
+   "2026-05-06",
+   "2026-08-01",
+   "2026-08-31",
+   "2026-09-01",
+   "2026-09-15",
+   "2026-12-01",
+   "2027-02-22",
+   "2027-03-31",
+   "2028-12-19",
+   "2029-02-22"
+  ],
+  "partners": [
+   "Jämställdhetsmyndigheten",
+   "Kammarkollegiet",
+   "Naturvårdsverket",
+   "Riksantikvarieämbetet",
+   "Statskontoret",
+   "länsstyrelserna"
+  ],
+  "n_appropriations": 2,
+  "appropriations_total_tkr": 89865,
+  "payment_plan_total_tkr": 66987,
+  "md_chars": 11344
+ },
+ "layout": "standard",
+ "warnings": []
+}

@@ -1,0 +1,603 @@
+{
+ "schema_version": 1,
+ "id": 27472,
+ "original_rbid": 25884,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-06-18",
+ "year": "2026",
+ "name": "Brottsoffermyndigheten",
+ "slug": "brottsoffermyndigheten",
+ "department": "Justitiedepartementet",
+ "expenditure_areas": [
+  4
+ ],
+ "registry_numbers": [
+  "Ju2026/01446 (delvis)"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1",
+   "2025/26:99"
+  ],
+  "bet": [
+   "2025/26:FiU21",
+   "2025/26:JuU1"
+  ],
+  "rskr": [
+   "2025/26:101",
+   "2025/26:345"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "Brottsoffermyndighetens huvudsakliga uppgifter framgår av förordningen (2007:1171) med instruktion för Brottsoffermyndigheten.",
+ "goals": [
+  {
+   "title": "Brottsofferfonden",
+   "group": [],
+   "text": "Brottsoffermyndigheten ska:\n\n- Sprida information om möjligheten att söka medel ur Brottsofferfonden, och redovisa vilka åtgärder som vidtagits för detta.\n- Vid fördelning av medel särskilt beakta organisationer inom det civila samhället som bedriver brottsofferstödjande verksamhet samt projekt som förbättrar stödet för brottsoffer utsatta för brott med koppling till organiserad verksamhet.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "Sprida information om möjligheten att söka medel ur Brottsofferfonden, och redovisa vilka åtgärder som vidtagits för detta.",
+    "Vid fördelning av medel särskilt beakta organisationer inom det civila samhället som bedriver brottsofferstödjande verksamhet samt projekt som förbättrar stödet för brottsoffer utsatta för brott med koppling till organiserad verksamhet."
+   ],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27472:goals:0"
+  },
+  {
+   "title": "Vittnesstödsverksamhet",
+   "group": [],
+   "text": "Brottsoffermyndigheten ska redogöra för hur myndigheten, tillsammans med Domstolsverket, verkar för att vittnesstödsverksamheter bedrivs vid samtliga tingsrätter och hovrätter, samt hur de arbetar för att stärka dessa.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Domstolsverket"
+   ],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27472:goals:1"
+  },
+  {
+   "title": "Informations- och kommunikationsverksamhet",
+   "group": [],
+   "text": "Myndigheten ska redovisa kostnaderna för sin informations- och kommunikationsverksamhet och hur verksamheten har bidragit till myndighetens förmåga att uppfylla sina kärnuppgifter. Av redovisningen ska bl.a. framgå vilken uppgift eller vilka uppdrag som ligger till grund för respektive verksamhet/insats och vad som motiverar de val av kommunikationsmedel som gjorts, t.ex. framtagandet av profilprodukter, annonskampanjer eller utgivning av tidningar.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27472:goals:2"
+  },
+  {
+   "title": "Öka förmågan att använda AI och ny teknik genom datadrivet arbete",
+   "group": [],
+   "text": "Brottsoffermyndigheten ska redovisa i vilken utsträckning de arbetar datadrivet, vilka åtgärder de vidtagit för att förbättra sin förmåga att arbeta datadrivet, samt en bedömning av vilket resultat åtgärderna har lett till. Myndigheten ska även redovisa på vilket sätt arbetet med data och AI har bidragit till att utveckla verksamheten och höja kvaliteten i utförandet av myndighetens uppgifter. Av redovisningen ska framgå hur myndigheten beaktar risker och arbetar för att användning av data och AI sker på ett etiskt, säkert och icke-diskriminerande sätt. Eventuella hinder eller framgångsfaktorer för datadrivet arbete och användande av AI-teknik ska även redovisas.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla",
+    "statistik_data",
+    "digitalisering_ai"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27472:goals:3"
+  }
+ ],
+ "org": [],
+ "assignments": [
+  {
+   "title": "Utveckling av intern styrning och kontroll samt handläggningen av brottsskadeärenden",
+   "group": [],
+   "text": "Brottsoffermyndigheten ska genomföra en översyn av organisation och arbetssätt vad gäller intern styrning och kontroll. Myndigheten ska redovisa vilka utvecklingsområden som identifierats samt vilka åtgärder som vidtagits och planeras i syfte att utveckla och förbättra myndighetens interna styrning och kontroll.\n\nMyndigheten ska även göra en översyn av arbetet med handläggningen av brottsskadeersättning och redogöra för vilka åtgärder som myndigheten kommer att vidta för ökad kostnadseffektivitet.\n\nUppdraget ska redovisas senast den 30 september 2026. En delredovisning av planen för effektivisering av arbetet med brottsskadeersättning ska lämnas i samband med budgetunderlag.",
+   "dates": [
+    "2026-09-30"
+   ],
+   "deadlines": [
+    "2026-09-30"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "delredovisning",
+    "budgetunderlag"
+   ],
+   "task_types": [
+    "rapportera",
+    "utveckla",
+    "tillsyn_kontroll"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27472:assignments:0"
+  },
+  {
+   "title": "Utveckling av webbutbildning för rättsväsendet avseende barnets rättigheter och barns våldsutsatthet",
+   "group": [],
+   "text": "Brottsoffermyndigheten får i uppdrag att ta fram och sprida ett särskilt riktat och praktiknära utbildnings- och informationsmaterial samt erbjuda utbildningsinsatser till biträdande jurister och advokater som är särskilda företrädare för barn samt målsägandebiträden och kriminalvårdspersonal. Syftet med uppdraget är att öka kunskapen om barnets rättigheter enligt FN:s konvention om barnets rättigheter (barnkonventionen) och barns våldsutsatthet, inklusive fokus på hedersrelaterat våld och förtryck. Kunskap och erfarenheter ska inhämtas från Sveriges advokatsamfund, Myndigheten för delaktighet och Linköpings universitet (Barnafrid - Nationellt centrum för kunskap om våld mot barn) som bl.a. tagit fram en checklista för särskild företrädare vid barnförhör på barnahus samt från Uppsala universitet (Nationellt centrum för kvinnofrid) inom ramen för arbetet med att utveckla webbstöd till rättsväsendet med fokus på hedersrelaterat våld och förtryck (regleringsbrevet för budgetåret 2026 avseende UO13 anslag 3:1 Särskilda jämställdhetsåtgärder). Uppdraget ska redovisas senast den 10 december 2027.\n\nFör uppdraget får Brottsoffermyndigheten under 2026 använda 500 000 kronor som ska belasta det under utgiftsområde 13 Integration och jämställdhet uppförda anslaget 3:1 Särskilda jämställdhetsåtgärder, anslagsposten 12 Jämställdhetsinsatser efter regeringsbeslut. För uppdraget får Brottsoffermyndigheten under 2026 använda 1 000 000 kronor som ska belasta det under utgiftsområde 9 Hälsovård, sjukvård och social omsorg för budgetåret 2026 uppförda anslaget 4:7 Bidrag till utveckling av socialt arbete m.m., anslagsposten 5 Övriga utvecklingsmedel. Medlen betalas ut engångsvis efter rekvisition till Kammarkollegiet senast den 1 december 2026. Medel som inte har använts för avsett ändamål ska återbetalas senast den 31 mars 2027 till Kammarkollegiet. Vid samma tidpunkt ska en slutrapport lämnas till Kammarkollegiet. Rekvisition, återbetalning, slutrapport och redovisningar ska hänvisa till detta beslut.\n\nFör 2027 beräknas 500 000 kronor från anslag 3:1 Särskilda jämställdhetsåtgärder inom UO13 avsättas för uppdragets genomförande respektive 1 000 000 kronor från anslag 4:7 Bidrag till utveckling av socialt arbete m.m. inom UO9, under förutsättning att riksdagen anvisar medel för de aktuella anslagen.",
+   "dates": [
+    "2026-12-01",
+    "2027-03-31",
+    "2027-12-10"
+   ],
+   "deadlines": [
+    "2026-12-01",
+    "2027-03-31",
+    "2027-12-10"
+   ],
+   "recipients": [
+    "Kammarkollegiet"
+   ],
+   "partners": [
+    "Kammarkollegiet",
+    "Linköpings universitet",
+    "Myndigheten för delaktighet",
+    "Uppsala universitet"
+   ],
+   "channels": [
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "fördela_medel",
+    "utveckla"
+   ],
+   "anslag_refs": [
+    "3:1",
+    "4:7"
+   ],
+   "expenditure_area_refs": [
+    9,
+    13
+   ],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27472:assignments:1"
+  },
+  {
+   "title": "Stöd med att söka brottsskadeersättning",
+   "group": [],
+   "text": "Brottsoffermyndigheten ska analysera vad som behövs för att utsatta för människohandel och människoexploatering ska kunna få tillräckligt bra stöd med att söka brottsskadeersättning för att de i praktiken ska kunna använda sig av den rättigheten. Uppdraget omfattar att ta fram förslag på åtgärder, både när det gäller den egna myndighetens verksamhet och vad andra aktörer kan göra. Uppdraget ska redovisas senast den 11 december 2026.\n\nFör uppdraget får Brottsoffermyndigheten under 2026 använda 500 000 kronor som ska redovisas mot det under utgiftsområde 13 uppförda anslaget 3:1 Särskilda jämställdhetsåtgärder, anslagsposten 12 Jämställdhetsinsatser efter regeringsbeslut. Medlen betalas ut efter rekvisition till Kammarkollegiet senast den 1 december 2026. Medel som inte har använts för avsett ändamål ska återbetalas senast den 31 mars 2027 till Kammarkollegiet. Vid samma tidpunkt ska en ekonomisk redovisning av använda medel lämnas till Kammarkollegiet. Redovisning, rekvisition och återbetalning ska hänvisa till diarienumret för detta beslut.",
+   "dates": [
+    "2026-12-01",
+    "2026-12-11",
+    "2027-03-31"
+   ],
+   "deadlines": [
+    "2026-12-01",
+    "2026-12-11",
+    "2027-03-31"
+   ],
+   "recipients": [
+    "Kammarkollegiet"
+   ],
+   "partners": [
+    "Kammarkollegiet"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera"
+   ],
+   "anslag_refs": [
+    "3:1"
+   ],
+   "expenditure_area_refs": [
+    13
+   ],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27472:assignments:2"
+  },
+  {
+   "title": "Prognoser",
+   "group": [],
+   "text": "Brottsoffermyndigheten ska redovisa prognoser för åren 2026–2029 vid nedanstående prognostillfällen. Prognoserna lämnas i informationssystemet Hermes.\n\n2 februari\n\n22 april\n\n24 juli\n\n9 november\n\nPrognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27472:assignments:3"
+  },
+  {
+   "title": "Pågående uppdrag",
+   "group": [],
+   "text": "*För regeringsuppdrag som lämnats i ett särskilt regeringsbeslut utgör tabellen endast en upplysning om vilka uppdrag som vid årets början var riktade till myndigheten och vilka tider som då gällde för återrapportering eller liknande.*\n\n| | | |\n| --- | --- | --- |\n| **Uppdrag** | **Beslut om uppdraget** | **Redovisning ska lämnas** |\n| Redovisa resultat inom ramen för regeringens utvecklingsprogram för jämställdhetsintegrering i statliga myndigheter | A2024/01457 | 20 januari 2026 |\n| Vara nationell strategisk samordningsansvarig myndighet för brottsofferfrågor | Ju2021/03715 | Årligen i årsredovisningen |\n| Information till de som riskerar att utsättas eller har utsatts för hatbrott | Regleringsbrev 2024 | 1 mars 2026 |\n| Ta fram en nationell plan för barnahus samt ge stöd till och följa utvecklingen av samverkan avseende våldsutsatta barn | S2025/01366 | 28 april 2026 och 28 januari 2028 |\n| Utveckla och sprida information om brottsofferguiden | Regleringsbrev 2025 | 25 maj 2026 |\n| Informationsinsatser om näthat m.m. | Regleringsbrev 2024 | 5 juni 2026 |\n| Förstudie om hur en verksamhet som hjälper vuxna att ta bort kränkande material från plattformar på internet kan organiseras | Regleringsbrev 2025 | 11 juni 2026 |\n| Myndighetsgemensamt uppdrag att stärka och främja sexuell och reproduktiv hälsa och rättigheter | A2024/01236 | 31 mars 2026 och 2027 samt 31 mars 2028 (av Folkhälsomyndigheten) |\n| Strategi för systematisk uppföljning av funktionshinderspolitiken under 2021-2031 | S2021/06595 S2025/01367 | Årligen den 1 februari till Myndigheten för delaktighet samt i årsredovisningen för 2025 |\n| Inrätta en särskild samordningsfunktion | Ju2025/01954 | 31 mars 2027 |",
+   "dates": [
+    "2026-01-20",
+    "2026-03-01",
+    "2026-03-31",
+    "2026-04-28",
+    "2026-05-25",
+    "2026-06-05",
+    "2026-06-11",
+    "2027-03-31",
+    "2028-01-28",
+    "2028-03-31"
+   ],
+   "deadlines": [],
+   "recipients": [
+    "Myndigheten för delaktighet"
+   ],
+   "partners": [
+    "Folkhälsomyndigheten",
+    "Myndigheten för delaktighet"
+   ],
+   "channels": [
+    "årsredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna",
+    "utveckla",
+    "informera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "27472:assignments:4"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "1:9",
+   "name": "Brottsoffermyndigheten",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 4,
+    "name": "Rättsväsendet"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Brottsoffermyndigheten",
+     "amount_tkr": 80859,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Brottsoffermyndigheten (ram)",
+       "amount_tkr": 80859
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Brottsoffermyndigheten",
+     "text": "Anslaget används för Brottsoffermyndighetens förvaltningskostnader."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "1:10",
+   "name": "Ersättning för skador på grund av brott",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 4,
+    "name": "Rättsväsendet"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Brottsoffermyndigheten",
+     "amount_tkr": 351953,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Ersättning för skador på grund av brott (ram)",
+       "amount_tkr": 351953
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Ersättning för skador på grund av brott",
+     "text": "Från anslaget får betalas ersättningar i enlighet med bestämmelserna i brottsskadelagen (2014:322) och brottsskadeförordningen (2014:327)."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "1:9 Brottsoffermyndigheten",
+   "ap": "ap.1",
+   "Anslagskredit": 2425,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:10 Ersättning för skador på grund av brott",
+   "ap": "ap.1",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 6000,
+  "Räntekontokredit": 3500
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 6738
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 6738
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 6738
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 6738
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 6738
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 6738
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 6738
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 6738
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 6738
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 6738
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 6738
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 6741
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:9 Brottsoffermyndigheten",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "2 425",
+     "3 %",
+     "0"
+    ],
+    [
+     "1:10 Ersättning för skador på grund av brott",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "0",
+     "Inget",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "6 000"
+    ],
+    [
+     "Räntekontokredit",
+     "3 500"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "6 738"
+    ],
+    [
+     "2026-02-25",
+     "6 738"
+    ],
+    [
+     "2026-03-25",
+     "6 738"
+    ],
+    [
+     "2026-04-25",
+     "6 738"
+    ],
+    [
+     "2026-05-25",
+     "6 738"
+    ],
+    [
+     "2026-06-25",
+     "6 738"
+    ],
+    [
+     "2026-07-25",
+     "6 738"
+    ],
+    [
+     "2026-08-25",
+     "6 738"
+    ],
+    [
+     "2026-09-25",
+     "6 738"
+    ],
+    [
+     "2026-10-25",
+     "6 738"
+    ],
+    [
+     "2026-11-25",
+     "6 738"
+    ],
+    [
+     "2026-12-25",
+     "6 741"
+    ],
+    [
+     "Summa",
+     "80 859"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "1:9 ap.1",
+     "Brottsoffermyndigheten"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [],
+ "has_fee_section": true,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 4,
+  "n_org": 0,
+  "n_assignments": 5,
+  "n_deadlines": 5,
+  "deadlines": [
+   "2026-09-30",
+   "2026-12-01",
+   "2026-12-11",
+   "2027-03-31",
+   "2027-12-10"
+  ],
+  "partners": [
+   "Domstolsverket",
+   "Folkhälsomyndigheten",
+   "Kammarkollegiet",
+   "Linköpings universitet",
+   "Myndigheten för delaktighet",
+   "Uppsala universitet"
+  ],
+  "n_appropriations": 2,
+  "appropriations_total_tkr": 432812,
+  "payment_plan_total_tkr": 80859,
+  "md_chars": 13113
+ },
+ "layout": "standard",
+ "warnings": []
+}

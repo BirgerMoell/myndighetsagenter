@@ -1,0 +1,753 @@
+{
+ "schema_version": 1,
+ "id": 25696,
+ "original_rbid": 25696,
+ "type": "Regleringsbrev",
+ "category": "Myndighet",
+ "date": "2025-12-18",
+ "year": "2026",
+ "name": "Åklagarmyndigheten",
+ "slug": "aklagarmyndigheten",
+ "department": "Justitiedepartementet",
+ "expenditure_areas": [
+  4
+ ],
+ "registry_numbers": [
+  "Ju2025/00268",
+  "Ju2025/02060",
+  "Ju2025/02693 (delvis)"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1"
+  ],
+  "bet": [
+   "2025/26:JuU1"
+  ],
+  "rskr": [
+   "2025/26:101"
+  ]
+ },
+ "n_attachments_stated": 1,
+ "mission": "Brottsligheten ska minska och människors trygghet ska öka. Genom att fullgöra sina uppgifter ska Åklagarmyndigheten bidra till en sådan utveckling. Åklagarmyndighetens huvudsakliga uppgifter framgår av förordningen (2015:743) med instruktion för Åklagarmyndigheten.",
+ "goals": [
+  {
+   "title": "Ökad förmåga att bekämpa brottslighet med koppling till kriminella nätverk",
+   "group": [],
+   "text": "Åklagarmyndigheten ska redovisa hur myndigheten har säkerställt en ökad operativ förmåga att bekämpa grova brott med koppling till kriminella nätverk och kriminell ekonomi. I det ingår att redovisa myndighetens arbete med att stärka det internationella rättsliga samarbetet. Samverkan med Polismyndigheten, Ekobrottsmyndigheten och övriga berörda myndigheter ska särskilt belysas. Hur myndigheten arbetar med att lagföra unga lagöverträdare för brott med koppling till kriminella nätverk, samt de som involverar barn och unga i sådan brottslighet, ska också belysas särskilt.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Ekobrottsmyndigheten",
+    "Polismyndigheten"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25696:goals:0"
+  },
+  {
+   "title": "Utredningar mot barn som misstänks för brott eller med barn som målsägande",
+   "group": [],
+   "text": "Åklagarmyndigheten ska redovisa hur myndigheten har arbetat med att hantera det ökade antalet utredningar som avser barn under 18 år som misstänks för brott och mål med barn som åtalas för brott eller blir föremål för bevistalan, samt utredningar och mål med barn som är målsägande.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25696:goals:1"
+  },
+  {
+   "title": "Statistik över barn och unga lagöverträdare",
+   "group": [],
+   "text": "Åklagarmyndigheten ska redovisa statistik över antal unika personer i åldern under 13 år, 13–14 år, 15–17 år samt 18–20 år som har åtalats eller varit föremål för bevistalan misstänkta för grov brottslighet 2022–2026 uppdelat på år, brottstyp och kön. Åklagarmyndigheten och Polismyndigheten ska tillsammans välja ut vilka brottstyper som ska ingå i redovisningen.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Polismyndigheten"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "statistik_data"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25696:goals:2"
+  },
+  {
+   "title": "Ökad förmåga att bekämpa brott mot särskilt utsatta brottsoffer",
+   "group": [],
+   "text": "Åklagarmyndigheten ska redovisa hur myndigheten har säkerställt en ökad operativ förmåga i arbetet med att bekämpa mäns våld mot kvinnor, våld i nära relationer, hedersrelaterat våld och förtryck, brott mot barn samt bekämpandet av köp av sexuell handling. Vidtagna och planerade åtgärder inom befintliga ekonomiska ramar för att öka lagföringen ska särskilt redovisas samt hur samverkan bedrivs med Polismyndigheten rörande dessa ärenden.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Polismyndigheten"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25696:goals:3"
+  },
+  {
+   "title": "Enhetlig och effektiv tillämpning av kontaktförbud",
+   "group": [],
+   "text": "Åklagarmyndigheten ska redovisa vilka åtgärder som vidtagits för att säkerställa en enhetlig och effektiv tillämpning av den ändrade kontaktförbudsregleringen.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25696:goals:4"
+  },
+  {
+   "title": "Kunskap om strypvåld",
+   "group": [],
+   "text": "Åklagarmyndigheten ska redogöra för hur den kunskap som togs fram av Rättsmedicinalverket inom ramen för uppdraget att förstärka kunskapen om strypvåld (Ju2024/00606) har spridits och implementerats inom myndigheten.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Rättsmedicinalverket"
+   ],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25696:goals:5"
+  },
+  {
+   "title": "Enhetlig och effektiv tillämpning av utvisning på grund av brott",
+   "group": [],
+   "text": "Åklagarmyndigheten ska redovisa vilka åtgärder som myndigheten har vidtagit för att säkerställa en enhetlig och effektiv tillämpning av regelverket om utvisning på grund av brott. Därutöver ska Åklagarmyndigheten redovisa antalet utvisningsyrkanden.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25696:goals:6"
+  },
+  {
+   "title": "En mer proaktiv brottsbekämpning",
+   "group": [],
+   "text": "Åklagarmyndigheten ska redogöra för utvecklingen av arbetet med en mer proaktiv brottsbekämpning för att förebygga att fler brott begås.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25696:goals:7"
+  },
+  {
+   "title": "Åtgärder för en effektiv tillämpning av kronvittnesregleringen",
+   "group": [],
+   "text": "Åklagarmyndigheten ska redovisa vilka åtgärder som myndigheten har vidtagit för att säkerställa en effektiv tillämpning av reglerna om strafflindring vid medverkan i utredning av annans brott. Redovisningen ska innefatta de åtgärder i form av utbildningsinsatser, och andra åtgärder, exempelvis vilken metodutveckling, som har vidtagits eller planeras att vidtas för att underlätta för åklagare att tillämpa lagstiftningen och därigenom ge den ett ökat genomslag. Därutöver ska myndigheten redogöra för vilken nytta myndigheten bedömer att lagstiftningen har haft för brottsbekämpningen.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25696:goals:8"
+  },
+  {
+   "title": "Effektivt genomförande av EU:s sanktionsförordningar",
+   "group": [],
+   "text": "Sedan den 10 juni 2025 finns en ny sanktionslagstiftning. Åklagarmyndigheten ska redovisa antalet inkomna brottsmisstankar samt hur myndigheten arbetar med sanktionsbrottslighet enligt\\\nlagen (2025:327) om internationella sanktioner.",
+   "dates": [
+    "2025-06-10"
+   ],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2025:327"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25696:goals:9"
+  }
+ ],
+ "org": [
+  {
+   "title": "Åtgärder för förstärkt säkerhetsarbete",
+   "group": [],
+   "text": "Åklagarmyndigheten ska redogöra för hur de inom befintliga ekonomiska ramar planerade åtgärderna i arbetet med att förbättra säkerheten för de anställda och öka myndighetens motståndskraft mot infiltration och annan otillbörlig eller otillåten påverkan har genomförts.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "org",
+   "item_id": "25696:org:0"
+  },
+  {
+   "title": "Säkerställa proaktivitet och handlingskraft vid fredstida krissituationer eller vid krig och krigsfara",
+   "group": [],
+   "text": "Åklagarmyndigheten ska säkerställa att myndigheten har förmåga att agera proaktivt och handlingskraftigt i hanteringen av såväl fredstida krissituationer som vid krig och krigsfara. Utöver de krav som ställs i förordningen (2022:524) om statliga myndigheters beredskap ska myndigheten i detta syfte utbilda och öva sin personal samt se till att myndigheten stärker en kultur och arbetssätt som utgår från de krav som ett krig ställer. Uppdraget ska redovisas till Regeringskansliet (Justitiedepartementet och Försvarsdepartementet) senast den\\\n22 februari 2027. Detta ska ingå i den särskilda redovisningen för civilt försvar.",
+   "dates": [
+    "2027-02-22"
+   ],
+   "deadlines": [],
+   "recipients": [
+    "Regeringskansliet (Justitiedepartementet och Försvarsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2022:524"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "org",
+   "item_id": "25696:org:1"
+  }
+ ],
+ "assignments": [
+  {
+   "title": "Ökad användning av och kvalitet i rättsintyg",
+   "group": [],
+   "text": "Åklagarmyndigheten ska, tillsammans med Polismyndigheten och Rättsmedicinalverket, vidta åtgärder för att öka användningen av rättsintyg och höja kvaliteten i dessa, t.ex. genom informationsinsatser och metodutveckling. Rättsmedicinalverket ska samordna arbetet och redovisningen. Uppdraget ska redovisas till Regeringskansliet (Justitiedepartementet) senast den 2 april 2027.",
+   "dates": [
+    "2027-04-02"
+   ],
+   "deadlines": [
+    "2027-04-02"
+   ],
+   "recipients": [
+    "Regeringskansliet (Justitiedepartementet)"
+   ],
+   "partners": [
+    "Polismyndigheten",
+    "Rättsmedicinalverket"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "informera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "25696:assignments:0"
+  },
+  {
+   "title": "Kartläggning av hedersrelaterade brott",
+   "group": [],
+   "text": "Åklagarmyndigheten ska genomföra en kartläggning för att identifiera hinder som kan försvåra lagföring av hedersrelaterade brott. I uppdraget ingår att identifiera utmaningar kring varför så få åtal väcks i hedersrelaterade ärenden och varför de sällan leder till fällande domar samt, när så är relevant, ge förslag på åtgärder för att förbättra rättsväsendets arbete mot hedersrelaterat våld och förtryck. Uppdraget ska redovisas till Regeringskansliet (Arbetsmarknadsdepartementet med kopia till Justitiedepartementet) senast den 18 augusti 2027. För uppdraget får Åklagarmyndigheten under 2026 använda 1 500 000 kronor som ska belasta det under utgiftsområde 13 Integration och jämställdhet uppförda anslaget 3:1 Särskilda jämställdhetsåtgärder, anslagsposten 12 – Jämställdhetsinsatser efter regeringsbeslut. Medlen betalas ut engångsvis efter rekvisition till Kammarkollegiet senast den\\\n1 december 2026. Medel som inte har använts för avsett ändamål ska återbetalas senast den 31 mars 2027 till Kammarkollegiet. Vid samma tidpunkt ska en slutrapport lämnas till Kammarkollegiet. Rekvisition, återbetalning, slutrapport och redovisningar ska hänvisa till detta beslut. Regeringen beräknar att 750 000 kronor kommer att avsättas för uppdraget för 2027, under förutsättning att riksdagen anvisat medel till det aktuella anslaget.",
+   "dates": [
+    "2026-12-01",
+    "2027-03-31",
+    "2027-08-18"
+   ],
+   "deadlines": [
+    "2027-03-31",
+    "2027-08-18"
+   ],
+   "recipients": [
+    "Kammarkollegiet",
+    "Regeringskansliet (Arbetsmarknadsdepartementet med kopia till Justitiedepartementet)"
+   ],
+   "partners": [
+    "Kammarkollegiet"
+   ],
+   "channels": [
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla"
+   ],
+   "anslag_refs": [
+    "3:1"
+   ],
+   "expenditure_area_refs": [
+    13
+   ],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "25696:assignments:1"
+  },
+  {
+   "title": "Tillämpning av ny lagstiftning för en effektiv brottsbekämpning",
+   "group": [],
+   "text": "Åklagarmyndigheten ska redovisa arbetet med att tillämpa den nya lagstiftningen om\n\n- bevistalan (i kraft den 1 juli 2023)\n- preventiva vistelseförbud (i kraft den 1 februari 2024)\n- förverkande (i kraft den 8 november 2024)\n- hemliga och preventiva tvångsmedel när barn under 15 år begår brott (i kraft den 1 oktober 2025)\n- utvidgade möjligheter att meddela näringsförbud (i kraft den 1 januari 2026).\n\nRedovisningen ska göra det möjligt att följa upp reformerna över tid. Myndigheten ska bedöma vilken nytta som den nya lagstiftningen har haft för brottsbekämpningen. Om det är möjligt och lämpligt ska även statistiska uppgifter redovisas. Nyttan av användningen av hemliga och preventiva tvångsmedel mot barn under 15 år ska redovisas på samma sätt som anges i uppdraget till Åklagarmyndigheten att i samverkan med Ekobrottsmyndigheten, Polismyndigheten, Säkerhetspolisen och Tullverket årligen redovisa användningen av hemliga tvångsmedel (Ju2015/09908/Å).\n\nVidare ska Åklagarmyndigheten redovisa statistik över tillämpningen av reformen anonyma vittnen. I redovisningen ska ingå uppgifter om antal beviljanden och avslag på ansökningar om att få höra ett vittne anonymt samt uppgifter om antal brottmål i domstol där vittnen fått lämna sina uppgifter anonymt.\n\nUppdraget ska redovisas till Regeringskansliet (Justitiedepartementet) senast den 15 maj 2027.",
+   "dates": [
+    "2023-07-01",
+    "2024-02-01",
+    "2024-11-08",
+    "2025-10-01",
+    "2026-01-01",
+    "2027-05-15"
+   ],
+   "deadlines": [
+    "2027-05-15"
+   ],
+   "recipients": [
+    "Regeringskansliet (Justitiedepartementet)"
+   ],
+   "partners": [
+    "Ekobrottsmyndigheten",
+    "Polismyndigheten",
+    "Säkerhetspolisen",
+    "Tullverket"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna",
+    "statistik_data"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "bevistalan (i kraft den 1 juli 2023)",
+    "preventiva vistelseförbud (i kraft den 1 februari 2024)",
+    "förverkande (i kraft den 8 november 2024)",
+    "hemliga och preventiva tvångsmedel när barn under 15 år begår brott (i kraft den 1 oktober 2025)",
+    "utvidgade möjligheter att meddela näringsförbud (i kraft den 1 januari 2026)."
+   ],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "25696:assignments:2"
+  },
+  {
+   "title": "Bedömningar av verksamhetsvolymer i brottmålsprocessen",
+   "group": [],
+   "text": "Åklagarmyndigheten ska tillsammans med Polismyndigheten, Ekobrottsmyndigheten, Brottsförebyggande rådet, Domstolsverket och Kriminalvården fortsätta arbetet med att bedöma framtida verksamhetsvolymer i brottmålsprocessen. Arbetet ska bedrivas med utgångspunkt i det uppdrag som gavs till myndigheterna den 3 oktober 2019 (Ju2019/01057). Uppdraget innefattar att fortsätta utveckla arbetet för att bedömningarna ska öka förståelsen för resursbehov och brottmålsprocessen som en helhet. Myndigheterna ska gemensamt redovisa sina resultat till Regeringskansliet (Justitiedepartementet) senast den 1 mars 2027.",
+   "dates": [
+    "2019-10-03",
+    "2027-03-01"
+   ],
+   "deadlines": [
+    "2027-03-01"
+   ],
+   "recipients": [
+    "Regeringskansliet (Justitiedepartementet)"
+   ],
+   "partners": [
+    "Brottsförebyggande rådet",
+    "Domstolsverket",
+    "Ekobrottsmyndigheten",
+    "Kriminalvården",
+    "Polismyndigheten"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "25696:assignments:3"
+  },
+  {
+   "title": "Prognoser",
+   "group": [],
+   "text": "Åklagarmyndigheten ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Av kommentarerna ska framgå vilka antaganden som använts i prognosen, vilka osäkerhetsfaktorer som finns och vad som har orsakat eventuella förändringar. Om prognosen visar på underskott ska myndigheten redovisa vilka åtgärder som har vidtagits eller planeras vidtas för att verksamheten ska kunna bedrivas inom ramen för tilldelade medel samt vilka konsekvenserna blir för verksamheten till följd av dessa åtgärder. Prognoserna lämnas i informationssystemet Hermes senast den\n\n2 februari\n\n22 april\n\n24 juli\n\n9 november.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "25696:assignments:4"
+  },
+  {
+   "title": "Pågående regeringsuppdrag redovisas i bilaga.",
+   "group": [],
+   "text": "",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "25696:assignments:5"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "1:3",
+   "name": "Åklagarmyndigheten",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 4,
+    "name": "Rättsväsendet"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Åklagarmyndigheten",
+     "amount_tkr": 2891903,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Åklagarmyndigheten (ram)",
+       "amount_tkr": 2891903
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Åklagarmyndigheten",
+     "text": "Anslagsposten får användas för Åklagarmyndighetens förvaltningsutgifter. Åklagarmyndigheten ska kunna använda och samverka med det gemensamma radiokommunikationssystemet Rakel. Från anslagsposten får högst 1 757 500 kronor användas för abonnemangsavgift för Rakel. Beloppet ska betalas efter fakturering från Myndigheten för civilt försvar."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "1",
+     "max": 1757500,
+     "unit": "kronor"
+    }
+   ]
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "1:3 Åklagarmyndigheten",
+   "ap": "ap.1",
+   "Anslagskredit": 86757,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 230000,
+  "Räntekontokredit": 145000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 240992
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 240992
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 240992
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 240992
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 240992
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 240992
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 240992
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 240992
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 240992
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 240992
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 240992
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 240991
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:3 Åklagarmyndigheten",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "86 757",
+     "3 %",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "230 000"
+    ],
+    [
+     "Räntekontokredit",
+     "145 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "240 992"
+    ],
+    [
+     "2026-02-25",
+     "240 992"
+    ],
+    [
+     "2026-03-25",
+     "240 992"
+    ],
+    [
+     "2026-04-25",
+     "240 992"
+    ],
+    [
+     "2026-05-25",
+     "240 992"
+    ],
+    [
+     "2026-06-25",
+     "240 992"
+    ],
+    [
+     "2026-07-25",
+     "240 992"
+    ],
+    [
+     "2026-08-25",
+     "240 992"
+    ],
+    [
+     "2026-09-25",
+     "240 992"
+    ],
+    [
+     "2026-10-25",
+     "240 992"
+    ],
+    [
+     "2026-11-25",
+     "240 992"
+    ],
+    [
+     "2026-12-25",
+     "240 991"
+    ],
+    [
+     "Summa",
+     "2 891 903"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "1:3 ap.1",
+     "Åklagarmyndigheten"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [],
+ "has_fee_section": false,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 10,
+  "n_org": 2,
+  "n_assignments": 6,
+  "n_deadlines": 5,
+  "deadlines": [
+   "2027-03-01",
+   "2027-03-31",
+   "2027-04-02",
+   "2027-05-15",
+   "2027-08-18"
+  ],
+  "partners": [
+   "Brottsförebyggande rådet",
+   "Domstolsverket",
+   "Ekobrottsmyndigheten",
+   "Kammarkollegiet",
+   "Kriminalvården",
+   "Polismyndigheten",
+   "Rättsmedicinalverket",
+   "Säkerhetspolisen",
+   "Tullverket"
+  ],
+  "n_appropriations": 1,
+  "appropriations_total_tkr": 2891903,
+  "payment_plan_total_tkr": 2891903,
+  "md_chars": 13310
+ },
+ "layout": "standard",
+ "warnings": []
+}

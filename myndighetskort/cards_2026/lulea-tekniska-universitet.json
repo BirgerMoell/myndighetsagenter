@@ -1,0 +1,599 @@
+{
+ "schema_version": 1,
+ "id": 25823,
+ "original_rbid": 25823,
+ "type": "Regleringsbrev",
+ "category": "Myndighet",
+ "date": "2025-12-18",
+ "year": "2026",
+ "name": "Luleå tekniska universitet",
+ "slug": "lulea-tekniska-universitet",
+ "department": "Utbildningsdepartementet",
+ "expenditure_areas": [
+  16
+ ],
+ "registry_numbers": [
+  "U2025/02412 (delvis)"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1"
+  ],
+  "bet": [
+   "2025/26:UbU1"
+  ],
+  "rskr": [
+   "2025/26:124"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "Gemensamma bestämmelser för universitet och högskolor finns i regleringsbrev för budgetåret 2026 avseende universitet och högskolor.",
+ "goals": [
+  {
+   "title": "Särskilda åtaganden",
+   "group": [],
+   "text": "Luleå tekniska universitet ska erbjuda utbildning i rymdvetenskap i Kiruna. I årsredovisningen ska en kort redovisning lämnas om verksamheten och antalet helårsstudenter som har deltagit i de utbildningar som erbjudits. Av redovisningen ska även kostnaden för verksamheten framgå.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "årsredovisning"
+   ],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25823:goals:0"
+  },
+  {
+   "title": "Rekryteringsmål för professorer",
+   "group": [
+    "Mål"
+   ],
+   "text": "Under 2025–2028 har lärosätet ett mål för könsfördelningen bland nyrekryterade professorer om 37 procent kvinnor.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25823:goals:1"
+  },
+  {
+   "title": "Mål för antal examina",
+   "group": [
+    "Mål"
+   ],
+   "text": "Under 2025–2028 har lärosätet mål om antal utfärdade examina från vissa utbildningar inom nedan angivna områden. Målen och de examina som omfattas av dessa anges i tabellen nedan. Lärosätet ska i årsredovisningen redovisa antalet utfärdade examina inom respektive område de senaste tre åren för de yrkesexamina som anges i tabellen samt vilka åtgärder som har vidtagits för att uppnå målen.\n\n| | |\n| --- | --- |\n| **Område (examina som omfattas av målet inom parentes)** | **Mål för antal utfärdade examina under 2025–2028** |\n| Lärar- och förskollärarutbildningar (förskollärarexamina, grundlärarexamina, specialpedagogexamina och ämneslärarexamina) | 1 225 |\n| Hälso- och sjukvårdsutbildningar (fysioterapeutexamina, sjuksköterskeexamina och specialistsjuksköterskeexamina) | 1 195 |",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "årsredovisning"
+   ],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25823:goals:2"
+  },
+  {
+   "title": "Mål för andel biträdande lektorer",
+   "group": [
+    "Mål"
+   ],
+   "text": "Under 2025–2028 har Luleå tekniska universitet ett mål att 7 procent av samtlig forskande och undervisande personal (heltidsekvivalenter) ska vara biträdande lektorer.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25823:goals:3"
+  }
+ ],
+ "org": [],
+ "assignments": [],
+ "appropriations": [
+  {
+   "code": "2:19",
+   "name": "Luleå tekniska universitet: Utbildning på grundnivå och avancerad nivå",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 16,
+    "name": "Utbildning och universitetsforskning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Luleå tekniska universitet",
+     "amount_tkr": 832619,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Takbelopp (ram)",
+       "amount_tkr": 832619
+      },
+      {
+       "ap": "1.1",
+       "name": "Takbelopp (ram)",
+       "amount_tkr": 832619
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1.1",
+     "name": "Takbelopp",
+     "text": "Anslagsposten får användas för högskoleutbildning på grundnivå och avancerad nivå samt behörighetsgivande och högskoleintroducerande utbildning.\nAnvisningar för avräkning av helårsstudenter och helårsprestationer finns i bilaga till regleringsbrev avseende universitet och högskolor.\nAv anslagsposten avser 2 077 000 kronor medel för försöksverksamhet med kompletterande pedagogisk utbildning. Universitetet ska i årsredovisningen för 2026 redovisa antal helårsstudenter inom försöksverksamheten som antagits i samarbete med Insamlingsstiftelsen Teach for Sweden."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "2:20",
+   "name": "Luleå tekniska universitet: Forskning och utbildning på forskarnivå",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 16,
+    "name": "Utbildning och universitetsforskning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Luleå tekniska universitet",
+     "amount_tkr": 530237,
+     "items": [
+      {
+       "ap": "4",
+       "name": "Basresurs (ram)",
+       "amount_tkr": 530237
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "4",
+     "name": "Basresurs",
+     "text": "Anslagsposten får användas för forskning och utbildning på forskarnivå.\nI anslagsposten ingår 26 530 000 kronor för det strategiska forskningsområdet Hållbart nyttjande av naturresurser.\nI anslagsposten ingår 30 553 000 kronor för forskning inom området kritiska och strategiska metaller och mineral.\nI anslagsposten ingår 12 221 000 kronor för en strategisk satsning inom elektrifiering och batteriteknik.\n**Bemyndigande**\nLuleå tekniska universitet bemyndigas med anledning av medlemskapet i en kunskaps- och innovationsplattform inom råvaror under Europeiska institutet för innovation och teknik (EIT Raw Materials) att besluta om en årlig medlemsavgift på högst 380 000 kronor under 2026–2028 (i enlighet med beslut om budgetpropositionen för 2026)."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "4",
+     "max": 380000,
+     "unit": "kronor"
+    }
+   ]
+  },
+  {
+   "code": "2:65",
+   "name": "Särskilda medel till universitet och högskolor",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 16,
+    "name": "Utbildning och universitetsforskning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Luleå tekniska universitet",
+     "amount_tkr": 18670,
+     "items": [
+      {
+       "ap": "19",
+       "name": "Utbildning i rymdvetenskap förlagd till Kiruna (ram)",
+       "amount_tkr": 8352
+      },
+      {
+       "ap": "39",
+       "name": "Holdingbolag (ram)",
+       "amount_tkr": 2230
+      },
+      {
+       "ap": "69",
+       "name": "Korta kurser (ram)",
+       "amount_tkr": 6767
+      },
+      {
+       "ap": "90",
+       "name": "Medel för studenthälsa (ram)",
+       "amount_tkr": 1321
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "19",
+     "name": "Utbildning i rymdvetenskap förlagd till Kiruna",
+     "text": "Anslagsposten får användas för utbildning i rymdvetenskap förlagd till Kiruna."
+    },
+    {
+     "ap": "39",
+     "name": "Holdingbolag",
+     "text": "Anslagsposten får användas för idébanksmedel samt kapitaltillskott till holdingbolag vid lärosätet för finansiering av verksamhet som syftar till att främja kommersialisering av forskningsresultat och innovationer.\nLuleå tekniska universitet bemyndigas att under 2026 utbetala ett kapitaltillskott på högst 1 000 000 kronor till holdingbolaget som är knutet till lärosätet. Kapitaltillskottet ska finansiera kostnader för verksamhet som bedrivs i form av en idébank och får lämnas i enlighet med förordningen (2022:1390) om statligt stöd för idébanker inom holdingbolag vid universitet och högskolor.\nLuleå tekniska universitet bemyndigas att under 2026 utbetala ett kapitaltillskott på högst 1 230 000 kronor till holdingbolaget som är knutet till lärosätet. Kapitaltillskottet ska finansiera kostnader för verksamhet som syftar till att främja kommersialisering av forskningsresultat och innovationer och får lämnas i enlighet med förordningen (2025:727) om statligt stöd för innovationsverksamhet inom holdingbolag vid universitet och högskolor."
+    },
+    {
+     "ap": "69",
+     "name": "Korta kurser",
+     "text": "Av anslagsposten får 3 503 000 kronor användas för att utveckla korta kurser för yrkesverksamma med inriktning på grön omställning, batterier, teknik och produktionsteknik. Arbetet ska redovisas i årsredovisningen.\nAv anslagsposten får 3 264 000 kronor användas för att utveckla korta kurser för yrkesverksamma med inriktning på Artificiell intelligens (AI) i yrkesutbildningar inom t.ex. skola, vård och omsorg, socialtjänst, juridik och administration, ingenjörsutbildningar m.m. Universitetet ska samverka med övriga lärosäten som ingår i satsningen för att möjliggöra att ett allsidigt och samordnat utbildningsutbud tas fram. Universitetet ska även sträva efter att samverka med lärosäten som inte tar del av dessa särskilda medel i syfte att möjliggöra att kurserna ska kunna bidra till att utveckla utbildningsutbudet i högskolan som helhet. Arbetet ska redovisas i årsredovisningen."
+    },
+    {
+     "ap": "90",
+     "name": "Medel för studenthälsa",
+     "text": "Anslagsposten får användas för att stärka studenthälsan och bl.a. möjliggöra mer preventivt arbete för att minska studenternas psykiska och fysiska ohälsa samt stärka stödet för studieovana studenter. Av medlen avser 500 000 kronor arbete med att särskilt främja psykisk hälsa bland studenter."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "39",
+     "max": 1000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "39",
+     "max": 1230000,
+     "unit": "kronor"
+    }
+   ]
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "2:19 Luleå tekniska universitet: Utbildning på grundnivå och avancerad nivå",
+   "ap": "ap.1.1",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "10 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:20 Luleå tekniska universitet: Forskning och utbildning på forskarnivå",
+   "ap": "ap.4",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Allt",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.19",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.39",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.69",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.90",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 165000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 115127
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 115127
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 115127
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 115127
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 115127
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 115127
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 115127
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 115127
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 115127
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 115127
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 115127
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 115129
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "2:19 Luleå tekniska universitet: Utbildning på grundnivå och avancerad nivå",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1.1",
+     "0",
+     "10 %",
+     "0"
+    ],
+    [
+     "2:20 Luleå tekniska universitet: Forskning och utbildning på forskarnivå",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.4",
+     "0",
+     "Allt",
+     "0"
+    ],
+    [
+     "2:65 Särskilda medel till universitet och högskolor",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.19",
+     "0",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.39",
+     "0",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.69",
+     "0",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.90",
+     "0",
+     "3 %",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Omfördelning av anslagssparande",
+   "rows": [
+    [
+     "Omfördelning från anslag/ap1",
+     "Omfördelning till anslag/ap2",
+     "Belopp (tkr)",
+     "Belopp andel (%)"
+    ],
+    [
+     "2:19 Luleå tekniska universitet: Utbildning på grundnivå och avancerad nivå",
+     "",
+     "",
+     ""
+    ],
+    [
+     "2:19 ap.1.2",
+     "2:19 ap.1.1",
+     "100 %"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Avslutade anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagstyp"
+    ],
+    [
+     "2:19 Luleå tekniska universitet: Utbildning på grundnivå och avancerad nivå",
+     ""
+    ],
+    [
+     "ap.1.2",
+     "ram"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "165 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "115 127"
+    ],
+    [
+     "2026-02-25",
+     "115 127"
+    ],
+    [
+     "2026-03-25",
+     "115 127"
+    ],
+    [
+     "2026-04-25",
+     "115 127"
+    ],
+    [
+     "2026-05-25",
+     "115 127"
+    ],
+    [
+     "2026-06-25",
+     "115 127"
+    ],
+    [
+     "2026-07-25",
+     "115 127"
+    ],
+    [
+     "2026-08-25",
+     "115 127"
+    ],
+    [
+     "2026-09-25",
+     "115 127"
+    ],
+    [
+     "2026-10-25",
+     "115 127"
+    ],
+    [
+     "2026-11-25",
+     "115 127"
+    ],
+    [
+     "2026-12-25",
+     "115 129"
+    ],
+    [
+     "Summa",
+     "1 381 526"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "2:19 ap.1.1",
+     "Takbelopp"
+    ],
+    [
+     "2:20 ap.4",
+     "Basresurs"
+    ],
+    [
+     "2:65 ap.19",
+     "Utbildning i rymdvetenskap förlagd till Kiruna"
+    ],
+    [
+     "2:65 ap.39",
+     "Holdingbolag"
+    ],
+    [
+     "2:65 ap.69",
+     "Korta kurser"
+    ],
+    [
+     "2:65 ap.90",
+     "Medel för studenthälsa"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [],
+ "has_fee_section": false,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 4,
+  "n_org": 0,
+  "n_assignments": 0,
+  "n_deadlines": 0,
+  "deadlines": [],
+  "partners": [],
+  "n_appropriations": 3,
+  "appropriations_total_tkr": 1381526,
+  "payment_plan_total_tkr": 1381526,
+  "md_chars": 10100
+ },
+ "layout": "standard",
+ "warnings": []
+}

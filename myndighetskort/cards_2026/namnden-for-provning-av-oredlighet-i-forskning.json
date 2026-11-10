@@ -1,0 +1,319 @@
+{
+ "schema_version": 1,
+ "id": 27558,
+ "original_rbid": 25725,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-10-01",
+ "year": "2026",
+ "name": "Nämnden för prövning av oredlighet i forskning",
+ "slug": "namnden-for-provning-av-oredlighet-i-forskning",
+ "department": "Utbildningsdepartementet",
+ "expenditure_areas": [
+  16
+ ],
+ "registry_numbers": [
+  "U2026/01704"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1"
+  ],
+  "bet": [
+   "2025/26:UbU1"
+  ],
+  "rskr": [
+   "2025/26:124"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "",
+ "goals": [
+  {
+   "title": "Informations- och cybersäkerhet",
+   "group": [],
+   "text": "Nämnden för prövning av oredlighet i forskning ska övergripande redogöra för hur nämnden arbetar för att stärka den egna informations- och cybersäkerheten och hur nämnden planerar för att möta framtida behov. Redovisningen ska innehålla en beskrivning av åtgärder för att utveckla den interna styrningen och uppföljningen av informations- och cybersäkerhetsarbetet.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27558:goals:0"
+  }
+ ],
+ "org": [],
+ "assignments": [
+  {
+   "title": "Prognoser",
+   "group": [],
+   "text": "Nämnden för prövning av oredlighet i forskning ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Prognoserna lämnas i informationssystemet Hermes senast den\n\n– 2 februari,\n\n– 22 april,\n\n– 24 juli, och\n\n– 9 november.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27558:assignments:0"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "3:12",
+   "name": "Nämnden för prövning av oredlighet i forskning",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 16,
+    "name": "Utbildning och universitetsforskning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Nämnden för prövning av oredlighet i forskning",
+     "amount_tkr": 16091,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Nämnden för prövning av oredlighet i forskning (ram)",
+       "amount_tkr": 16091
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Nämnden för prövning av oredlighet i forskning",
+     "text": "Anslagsposten får användas för förvaltningsutgifter för Nämnden för prövning av oredlighet i forskning."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "3:12 Nämnden för prövning av oredlighet i forskning",
+   "ap": "ap.1",
+   "Anslagskredit": 482,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 2300,
+  "Räntekontokredit": 400
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 1341
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 1341
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 1341
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 1341
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 1341
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 1341
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 1341
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 1341
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 1341
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 1341
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 1341
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 1340
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "3:12 Nämnden för prövning av oredlighet i forskning",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "482",
+     "3 %",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "2 300"
+    ],
+    [
+     "Räntekontokredit",
+     "400"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "1 341"
+    ],
+    [
+     "2026-02-25",
+     "1 341"
+    ],
+    [
+     "2026-03-25",
+     "1 341"
+    ],
+    [
+     "2026-04-25",
+     "1 341"
+    ],
+    [
+     "2026-05-25",
+     "1 341"
+    ],
+    [
+     "2026-06-25",
+     "1 341"
+    ],
+    [
+     "2026-07-25",
+     "1 341"
+    ],
+    [
+     "2026-08-25",
+     "1 341"
+    ],
+    [
+     "2026-09-25",
+     "1 341"
+    ],
+    [
+     "2026-10-25",
+     "1 341"
+    ],
+    [
+     "2026-11-25",
+     "1 341"
+    ],
+    [
+     "2026-12-25",
+     "1 340"
+    ],
+    [
+     "Summa",
+     "16 091"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "3:12 ap.1",
+     "Nämnden för prövning av oredlighet i forskning"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [],
+ "has_fee_section": false,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 1,
+  "n_org": 0,
+  "n_assignments": 1,
+  "n_deadlines": 0,
+  "deadlines": [],
+  "partners": [],
+  "n_appropriations": 1,
+  "appropriations_total_tkr": 16091,
+  "payment_plan_total_tkr": 16091,
+  "md_chars": 4051
+ },
+ "layout": "standard",
+ "warnings": []
+}

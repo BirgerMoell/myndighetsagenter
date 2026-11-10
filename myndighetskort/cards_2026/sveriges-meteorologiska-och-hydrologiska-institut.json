@@ -1,0 +1,792 @@
+{
+ "schema_version": 1,
+ "id": 25996,
+ "original_rbid": 25996,
+ "type": "Regleringsbrev",
+ "category": "Myndighet",
+ "date": "2025-12-18",
+ "year": "2026",
+ "name": "Sveriges meteorologiska och hydrologiska institut",
+ "slug": "sveriges-meteorologiska-och-hydrologiska-institut",
+ "department": "Klimat- och näringslivsdepartementet",
+ "expenditure_areas": [
+  20
+ ],
+ "registry_numbers": [
+  "KN2025/00180",
+  "KN2025/02353 (delvis)",
+  "KN2025/02419"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1"
+  ],
+  "bet": [
+   "2025/26:MJU1"
+  ],
+  "rskr": [
+   "2025/26:128"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "SMHI:s huvudsakliga uppgifter framgår av förordningen (2009:974) med instruktion för Sveriges meteorologiska och hydrologiska institut.",
+ "goals": [
+  {
+   "title": "Arbete enligt vattenförvaltningsförordningen",
+   "group": [],
+   "text": "SMHI ska redovisa myndighetens arbete enligt vattenförvaltningsförordningen (2004:660). Redovisningen ska beskriva vilka resultat som myndighetens arbete har lett till och vilka resultat myndighetens arbete förväntas leda till.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2004:660"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25996:goals:0"
+  },
+  {
+   "title": "EU-förordning om restaurering av natur",
+   "group": [],
+   "text": "SMHI ska redovisa hur myndigheten, inom ramen för befintlig verksamhet, bidrar i arbetet med genomförandet av Europaparlamentets och rådets förordning (EU) 2024/1991 av den 24 juni 2024 om restaurering av natur.",
+   "dates": [
+    "2024-06-24"
+   ],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25996:goals:1"
+  }
+ ],
+ "org": [
+  {
+   "title": "Säkerställa proaktivitet och handlingskraft vid fredstida krissituationer eller vid krig och krigsfara",
+   "group": [],
+   "text": "SMHI ska säkerställa att myndigheten har förmåga att agera proaktivt och handlingskraftigt i hanteringen av såväl fredstida krissituationer som vid krig och krigsfara. Utöver de krav som ställs i förordningen (2022:524) om statliga myndigheters beredskap ska myndigheten i detta syfte utbilda och öva sin personal samt se till att myndigheten stärker arbetssätt och en kultur som utgår från de krav som ett krig ställer. Uppdraget ska redovisas till Regeringskansliet (Klimat- och näringslivsdepartementet och Försvarsdepartementet) senast den 22 februari 2027. Detta ska ingå i den särskilda redovisningen för civilt försvar.",
+   "dates": [
+    "2027-02-22"
+   ],
+   "deadlines": [
+    "2027-02-22"
+   ],
+   "recipients": [
+    "Regeringskansliet (Klimat- och näringslivsdepartementet och Försvarsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2022:524"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "org",
+   "item_id": "25996:org:0"
+  }
+ ],
+ "assignments": [
+  {
+   "title": "Prognoser",
+   "group": [],
+   "text": "SMHI ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Prognoserna lämnas i informationssystemet Hermes senast den\n\n–2 februari\n\n–22 april\n\n–24 juli\n\n–9 november.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "25996:assignments:0"
+  },
+  {
+   "title": "Prognos för beställningsbemyndiganden",
+   "group": [],
+   "text": "SMHI ska redovisa en prognos för de förslag om beställningsbemyndiganden som lämnats i budgetunderlaget och för de åtaganden som ingåtts med stöd av äldre beställningsbemyndiganden. Prognosen ska lämnas senast den 24 juli 2026 via Statsredovisningssystemet i Hermes och utformas enligt närmare information från Statskontoret.",
+   "dates": [
+    "2026-07-24"
+   ],
+   "deadlines": [
+    "2026-07-24"
+   ],
+   "forecast_dates": [],
+   "recipients": [],
+   "partners": [
+    "Statskontoret"
+   ],
+   "channels": [
+    "hermes",
+    "budgetunderlag"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "25996:assignments:1"
+  },
+  {
+   "title": "Uppdrag att se över förordningen (2018:1428) om myndigheters klimatanpassningsarbete",
+   "group": [],
+   "text": "SMHI ska göra en översyn av delar av förordningen (2018:1428) om myndigheters klimatanpassningsarbete. Översynen ska innehålla en analys och bedömning av om fler myndigheter bör omfattas av förordningen. Om ytterligare myndigheter föreslås ska konsekvenserna analyseras.\n\nÖversynen ska även innehålla en analys av om det ansvar som följer av förordningen bör justeras för att bidra till en samhällsekonomiskt effektiv, strategisk och åtgärdsinriktad klimatanpassning inom respektive myndighets ansvarsområde. SMHI ska analysera hur skrivningarna om regelbunden uppföljning och redovisning av myndigheternas arbete bör revideras för att bättre stödja utvecklingen av det nationella klimatanpassningsarbetet. I uppdraget ingår även att analysera om det finns behov av att justera förordningen för att på ett bättre sätt samordna kraven på myndigheters klimatanpassningsarbete med den risk- och sårbarhetsbedömning som ska göras i enlighet med förordningen (2022:524) om statliga myndigheters beredskap. I denna del av uppdraget ska myndigheten samarbeta med Myndigheten för civilt försvar. Inom ramen för uppdraget ska SMHI hämta in synpunkter och information från berörda myndigheter och andra berörda aktörer.\n\nRedovisningen ska innehålla förslag på nödvändiga författningsändringar. Naturvårdsverket ska bistå SMHI, särskilt i de delar som rör författningsförslag och konsekvensanalys. Uppdraget ska redovisas till Regeringskansliet (Klimat- och näringslivsdepartementet) senast den 30 juni 2026.",
+   "dates": [
+    "2026-06-30"
+   ],
+   "deadlines": [
+    "2026-06-30"
+   ],
+   "recipients": [
+    "Regeringskansliet (Klimat- och näringslivsdepartementet)"
+   ],
+   "partners": [
+    "Myndigheten för civilt försvar",
+    "Naturvårdsverket"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "föreslå",
+    "samordna",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2018:1428",
+    "2022:524"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "25996:assignments:2"
+  },
+  {
+   "title": "Pågående uppdrag",
+   "group": [],
+   "text": "| | | |\n| --- | --- | --- |\n| **Sammanfattning av uppdraget** | **Beslut om uppdraget** | **Rapporteringstidpunkt** |\n| Informations- och cybersäkerhetsarbete | 19 december 2024 KN2024/02589 | 1 mars 2026 |\n| Säkerställa proaktivitet och handlingskraft vid fredstida krissituationer eller vid krig och krigsfara | 19 december 2024 KN2024/02589 | 1 mars 2026 |\n| Inriktning för civilt försvar | 19 december 2024 Fö2024/02054 | Årliga redovisningar i samband med årsredovisningen |\n| Uppdrag till beredskapsmyndigheterna om personallån mellan myndigheter | 10 april 2025 Fö2025/00670 | I årsredovisningen för 2025 alternativt senast den 23 februari 2026 |\n| Ändring av uppdraget SB2021/01583 att medverka i genomförandet av Europeiska unionens strategi för Östersjöregionen | 23 oktober 2025 SB2025/01094 | 31 januari 2027 |\n\n*För regeringsuppdrag som lämnats i ett särskilt regeringsbeslut utgör uppräkningen endast en upplysning om vilka uppdrag som vid årets början var riktade till myndigheten och vilka tider som då gällde för återrapportering eller liknande.*",
+   "dates": [
+    "2024-12-19",
+    "2025-04-10",
+    "2025-10-23",
+    "2026-02-23",
+    "2026-03-01",
+    "2027-01-31"
+   ],
+   "deadlines": [
+    "2026-02-23"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "årsredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "utveckla",
+    "beredskap_säkerhet",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "25996:assignments:3"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "1:9",
+   "name": "Sveriges meteorologiska och hydrologiska institut",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 20,
+    "name": "Klimat, miljö och natur"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Sveriges meteorologiska och hydrologiska institut",
+     "amount_tkr": 336986,
+     "items": [
+      {
+       "ap": "1",
+       "name": "SMHI (ram)",
+       "amount_tkr": 336986
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "SMHI",
+     "text": "Anslaget får användas för SMHI:s förvaltningsutgifter.\nHögst 10 000 000 kronor får användas för verksamhet vid Nationellt kunskapscentrum för klimatanpassning.\nHögst 5 000 000 kronor får användas för verksamhet vid Nationella expertrådet för klimatanpassning.\nSMHI ska kunna använda och samverka med det gemensamma radiokommunikationssystemet Rakel. SMHI ska betala totalt 152 000 kronor till Myndigheten för civilt försvar som abonnemangsavgift för detta system. Beloppet ska betalas efter fakturering från Myndigheten för civilt försvar."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "1",
+     "max": 10000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "1",
+     "max": 5000000,
+     "unit": "kronor"
+    }
+   ]
+  },
+  {
+   "code": "1:10",
+   "name": "Klimatanpassning",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 20,
+    "name": "Klimat, miljö och natur"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Statens geotekniska institut",
+     "amount_tkr": 31000,
+     "items": [
+      {
+       "ap": "2",
+       "name": "Klimatanpassning - del till Statens geotekniska institut (ram)",
+       "amount_tkr": 31000
+      }
+     ],
+     "sum_ok": true
+    },
+    {
+     "by": "Sveriges meteorologiska och hydrologiska institut",
+     "amount_tkr": 58500,
+     "items": [
+      {
+       "ap": "5",
+       "name": "Klimatanpassning - del till Sveriges meteorologiska och hydrologiska institut (ram)",
+       "amount_tkr": 58500
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "2",
+     "name": "Klimatanpassning - del till Statens geotekniska institut",
+     "text": "Anslagsposten får användas för klimatanpassningsinsatser inom myndighetens ansvarsområde genom utredning, kartläggning och metodutveckling som minskar riskerna för ras, skred och erosion samt bidrar till en hållbar bebyggelse i ett föränderligt klimat.\nAnslagsposten får användas för att finansiera uppdraget om historiska kostnader för ras och skred."
+    },
+    {
+     "ap": "5",
+     "name": "Klimatanpassning - del till Sveriges meteorologiska och hydrologiska institut",
+     "text": "Anslagsposten får användas för att finansiera verksamhet vid Nationellt kunskapscentrum för klimatanpassning. I detta ingår att samla, sprida och tillgängliggöra kunskap om klimatanpassning, ta fram beslutsunderlag, information och publikationer.\nAnslagsposten får användas för deltagande i utåtriktade aktiviteter, såsom internationella möten inklusive FN:s klimatförhandlingar.\nSMHI får betala ut högst 5 000 000 kronor till myndigheter samt kommuner dels för arbete initierat inom Myndighetsnätverket för klimatanpassning, inklusive arbete med indikatorer, dels för att stödja framtagandet av kommunala handlingsplaner enligt stegen i SMHI:s Lathund för klimatanpassning. Medlen betalas ut mot rekvisition.\nHögst 2 500 000 kronor får användas för finansiering av analys- och utvärderingsarbete vid Nationella expertrådet för klimatanpassning.\nSMHI får betala ut högst 2 500 000 kronor till Havs- och vattenmyndigheten för att i samarbete med SMHI och andra berörda myndigheter identifiera känsliga avrinningsområden för vattenuttag och ta fram underlag för vattenbalanser. Medlen betalas ut mot rekvisition. Oförbrukade medel återbetalas till SMHI. Dessa medel betalas sedan in mot inkomsttitel 2811*Övriga inkomster av statens verksamhet.*\nHögst 40 500 000 kronor får användas för finansiering av SMHI:s arbete med förebyggande och kunskapshöjande insatser för klimatanpassning inklusive slutförande av redan initierade projekt. Insatserna ska syfta till att öka tillgången till klimatinformation och beslutsunderlag om klimatanpassning för att därmed stödja länsstyrelser, kommuner och regioner med anpassning till ett förändrat klimat."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "5",
+     "max": 5000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "5",
+     "max": 2500000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "5",
+     "max": 2500000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "5",
+     "max": 40500000,
+     "unit": "kronor"
+    }
+   ]
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "1:9 Sveriges meteorologiska och hydrologiska institut",
+   "ap": "ap.1",
+   "Anslagskredit": 10109,
+   "Anslagsbehållning som disponeras 2026": "Allt",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:10 Klimatanpassning",
+   "ap": "ap.2",
+   "Anslagskredit": 930,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:10 Klimatanpassning",
+   "ap": "ap.5",
+   "Anslagskredit": 1750,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 140000,
+  "Räntekontokredit": 55000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 28082
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 28082
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 28082
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 28082
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 28082
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 28082
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 28082
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 28082
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 28082
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 28082
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 28082
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 28084
+  },
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 2583
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 2583
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 2583
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 2583
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 2583
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 2583
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 2583
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 2583
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 2583
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 2583
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 2583
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 2587
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:9 Sveriges meteorologiska och hydrologiska institut",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "10 109",
+     "Allt",
+     "0"
+    ],
+    [
+     "1:10 Klimatanpassning",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.2",
+     "930",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.5",
+     "1 750",
+     "Inget",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "140 000"
+    ],
+    [
+     "Räntekontokredit",
+     "55 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "28 082"
+    ],
+    [
+     "2026-02-25",
+     "28 082"
+    ],
+    [
+     "2026-03-25",
+     "28 082"
+    ],
+    [
+     "2026-04-25",
+     "28 082"
+    ],
+    [
+     "2026-05-25",
+     "28 082"
+    ],
+    [
+     "2026-06-25",
+     "28 082"
+    ],
+    [
+     "2026-07-25",
+     "28 082"
+    ],
+    [
+     "2026-08-25",
+     "28 082"
+    ],
+    [
+     "2026-09-25",
+     "28 082"
+    ],
+    [
+     "2026-10-25",
+     "28 082"
+    ],
+    [
+     "2026-11-25",
+     "28 082"
+    ],
+    [
+     "2026-12-25",
+     "28 084"
+    ],
+    [
+     "Summa",
+     "336 986"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "1:9 ap.1",
+     "SMHI"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "2 583"
+    ],
+    [
+     "2026-02-25",
+     "2 583"
+    ],
+    [
+     "2026-03-25",
+     "2 583"
+    ],
+    [
+     "2026-04-25",
+     "2 583"
+    ],
+    [
+     "2026-05-25",
+     "2 583"
+    ],
+    [
+     "2026-06-25",
+     "2 583"
+    ],
+    [
+     "2026-07-25",
+     "2 583"
+    ],
+    [
+     "2026-08-25",
+     "2 583"
+    ],
+    [
+     "2026-09-25",
+     "2 583"
+    ],
+    [
+     "2026-10-25",
+     "2 583"
+    ],
+    [
+     "2026-11-25",
+     "2 583"
+    ],
+    [
+     "2026-12-25",
+     "2 587"
+    ],
+    [
+     "Summa",
+     "31 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "1:10 ap.2",
+     "Klimatanpassning - del till Statens geotekniska institut"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Avgiftsbelagd verksamhet där intäkterna disponeras",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Affärsverksamhet1",
+     "6 040",
+     "1 460",
+     "80 500",
+     "82 000",
+     "-1 500",
+     "6 000"
+    ],
+    [
+     "Offentlig resurssamverkan3",
+     "49 000"
+    ],
+    [
+     "Leverans av flygvädertjänst1",
+     "-1 187",
+     "1 187",
+     "78 100",
+     "78 100",
+     "0",
+     "0"
+    ],
+    [
+     "Tjänsteexport1",
+     "6 755",
+     "-5 755",
+     "70 000",
+     "68 000",
+     "2 000",
+     "3 000"
+    ],
+    [
+     "Uppdragsverksamhet1",
+     "2 829",
+     "2 200",
+     "63 000",
+     "65 000",
+     "-2 000",
+     "3 029"
+    ],
+    [
+     "Summa",
+     "14 437",
+     "-908",
+     "340 600",
+     "293 100",
+     "-1 500",
+     "12 029"
+    ]
+   ]
+  }
+ ],
+ "has_fee_section": true,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 2,
+  "n_org": 1,
+  "n_assignments": 4,
+  "n_deadlines": 4,
+  "deadlines": [
+   "2026-02-23",
+   "2026-06-30",
+   "2026-07-24",
+   "2027-02-22"
+  ],
+  "partners": [
+   "Myndigheten för civilt försvar",
+   "Naturvårdsverket",
+   "Statskontoret"
+  ],
+  "n_appropriations": 2,
+  "appropriations_total_tkr": 426486,
+  "payment_plan_total_tkr": 367986,
+  "md_chars": 12969
+ },
+ "layout": "standard",
+ "warnings": []
+}

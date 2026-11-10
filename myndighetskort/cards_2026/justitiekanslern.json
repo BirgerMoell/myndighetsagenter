@@ -1,0 +1,295 @@
+{
+ "schema_version": 1,
+ "id": 26368,
+ "original_rbid": 25880,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-06-18",
+ "year": "2026",
+ "name": "Justitiekanslern",
+ "slug": "justitiekanslern",
+ "department": "Justitiedepartementet",
+ "expenditure_areas": [
+  1,
+  4
+ ],
+ "registry_numbers": [
+  "Ju2026/01446 (delvis)"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1",
+   "2025/26:99"
+  ],
+  "bet": [
+   "2025/26:FiU21",
+   "2025/26:JuU1",
+   "2025/26:KU1"
+  ],
+  "rskr": [
+   "2025/26:101",
+   "2025/26:345",
+   "2025/26:85"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "",
+ "goals": [
+  {
+   "title": "Förstärkt säkerhetsarbete",
+   "group": [],
+   "text": "Justitiekanslern ska redogöra för vidtagna och planerade åtgärder inom befintliga ekonomiska ramar i arbetet med att förstärka säkerhetsarbetet och öka myndighetens motståndskraft mot infiltration och annan otillbörlig eller otillåten påverkan.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26368:goals:0"
+  },
+  {
+   "title": "Redovisning för anslag 1:12",
+   "group": [],
+   "text": "Justitiekanslern ska redovisa och analysera utgifterna från anslaget 1:12 Kostnader för vissa skaderegleringar m.m. Analysen ska omfatta utgifternas förändring över tid samt vad som har påverkat utvecklingen.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera"
+   ],
+   "anslag_refs": [
+    "1:12"
+   ],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26368:goals:1"
+  }
+ ],
+ "org": [],
+ "assignments": [
+  {
+   "title": "Prognoser",
+   "group": [],
+   "text": "Justitiekanslern ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Av kommentarerna ska framgå vilka antaganden som använts i prognosen, vilka osäkerhetsfaktorer som finns och vad som orsakat eventuella förändringar. Om prognosen visar på underskott ska myndigheten redovisa vilka åtgärder som har vidtagits eller planeras att vidtas för att verksamheten ska kunna bedrivas inom ramen för tilldelade medel samt vilka konsekvenserna blir för verksamheten till följd av dessa åtgärder. Prognoserna lämnas i informationssystemet Hermes senast den\n\n2 februari\n\n22 april\n\n24 juli\n\n9 november.\n\n| | | |\n| --- | --- | --- |\n| **Pågående uppdrag** | **Beslut om uppdrag** | **Datum för redovisning** |\n| Uppdrag att bevaka statens rätt i tvist om investeringsskyddsavtal | I2021/00036 | Löpande |\n\n*Regeringsuppdraget har lämnats i ett särskilt regeringsbeslut och tabellen utgör endast en upplysning om att uppdraget vid årets början var riktat till myndigheten och vilken tid som då gällde för redovisning.*",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26368:assignments:0"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "6:2",
+   "name": "Justitiekanslern",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 1,
+    "name": "Rikets styrelse"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Justitiekanslern",
+     "amount_tkr": 101298,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Justitiekanslern (ram)",
+       "amount_tkr": 78298
+      },
+      {
+       "ap": "2",
+       "name": "Uppdrag att bevaka statens rätt i ingångna investeringsskyddsavtal (ram)",
+       "amount_tkr": 23000
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Justitiekanslern",
+     "text": "Anslagsposten får användas för Justitiekanslerns förvaltningsutgifter."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "1:12",
+   "name": "Kostnader för vissa skaderegleringar m.m.",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 4,
+    "name": "Rättsväsendet"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Justitiekanslern",
+     "amount_tkr": 99487,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Kostnader för vissa skaderegleringar m.m. (ram)",
+       "amount_tkr": 99487
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Kostnader för vissa skaderegleringar m.m.",
+     "text": "Anslaget får användas till utgifter för:\n*Ersättning till frihetsberövade m.m.*\n- Ersättning i mål eller ärenden i mål enligt lagen (1974:515) om ersättning vid frihetsinskränkning och lagen (1998:714) om ersättning vid frihetsberövanden och andra tvångsåtgärder.\n- Ersättning enligt 14 § förordningen (1995:1301) om handläggning av skadeståndsanspråk mot staten i sådana ärenden.\n- Ersättning för motpartens rättegångskostnader samt utgifter för statens kostnader i mål rörande lagen (1974:515) om ersättning vid frihetsinskränkning och lagen (1998:714) om ersättning vid frihetsberövanden och andra tvångsåtgärder.\n*Skadestånd m.m. i andra fall*\n- Skadestånd eller annan ersättning till motpart i mål eller ärenden inom eller utom rättegång.\n- Ersättning enligt 14 § förordningen (1995:1301) om handläggning av skadeståndsanspråk mot staten i sådana ärenden.\n- Ersättning för motpartens rättegångskostnader samt utgifter för statens kostnader i rättegångar.\n- Kostnad i samband med rättegång inför internationell domstol eller i liknande organ.\n- Kostnad för förundersökning i brottmål.\nAnslaget får efter rekvisition från Polismyndigheten, Tullverket, Kronofogdemyndigheten och Kustbevakningen även användas för att finansiera sådan ersättning som avses i 8 § lagen (1998:714) om ersättning vid frihetsberövanden och andra tvångsåtgärder."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "6:2 Justitiekanslern",
+   "ap": "ap.1",
+   "Anslagskredit": 2348,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "6:2 Justitiekanslern",
+   "ap": "ap.2",
+   "Anslagskredit": 690,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:12 Kostnader för vissa skaderegleringar m.m.",
+   "ap": "ap.1",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 2000
+ },
+ "payment_plan": [],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "6:2 Justitiekanslern",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "2 348",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.2",
+     "690",
+     "3 %",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:12 Kostnader för vissa skaderegleringar m.m.",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "0",
+     "Inget",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "2 000"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [],
+ "has_fee_section": false,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 2,
+  "n_org": 0,
+  "n_assignments": 1,
+  "n_deadlines": 0,
+  "deadlines": [],
+  "partners": [],
+  "n_appropriations": 2,
+  "appropriations_total_tkr": 200785,
+  "payment_plan_total_tkr": 0,
+  "md_chars": 6092
+ },
+ "layout": "standard",
+ "warnings": []
+}

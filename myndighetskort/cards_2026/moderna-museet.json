@@ -1,0 +1,834 @@
+{
+ "schema_version": 1,
+ "id": 25733,
+ "original_rbid": 25733,
+ "type": "Regleringsbrev",
+ "category": "Myndighet",
+ "date": "2025-12-16",
+ "year": "2026",
+ "name": "Moderna museet",
+ "slug": "moderna-museet",
+ "department": "Kulturdepartementet",
+ "expenditure_areas": [
+  17
+ ],
+ "registry_numbers": [
+  "Ku2025/01141 (delvis)",
+  "Ku2025/01239"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1"
+  ],
+  "bet": [
+   "2025/26:KrU1"
+  ],
+  "rskr": [
+   "2025/26:83"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "",
+ "goals": [
+  {
+   "title": "Bevara och tillgängliggöra kulturarvet genom digitisering och digitalisering",
+   "group": [],
+   "text": "Moderna museet ska redovisa resultatet av arbetet med digitisering och digitalisering av myndighetens samlingar. Av redovisningen ska följande framgå\n\n- samlingarnas storlek, inklusive årets tillväxt\n- hur stort antal i och andel av samlingarna som är digital\n- hur stor andel av samlingarna som är digitalt tillgänglig\n- vilka delar av resultatet som härrör från den medelsförstärkning som myndigheten har tilldelats\n- vilka kostnader som myndigheten har haft för arbetet med digitisering och digitalisering.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "digitalisering_ai"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "samlingarnas storlek, inklusive årets tillväxt",
+    "hur stort antal i och andel av samlingarna som är digital",
+    "hur stor andel av samlingarna som är digitalt tillgänglig",
+    "vilka delar av resultatet som härrör från den medelsförstärkning som myndigheten har tilldelats",
+    "vilka kostnader som myndigheten har haft för arbetet med digitisering och digitalisering."
+   ],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25733:goals:0"
+  },
+  {
+   "title": "Breddad finansiering",
+   "group": [],
+   "text": "Moderna museet ska redovisa hur myndigheten arbetar för att bredda finansieringen av verksamheten.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25733:goals:1"
+  },
+  {
+   "title": "Forsknings- och utvecklingsinsatser inom kulturområdet",
+   "group": [],
+   "text": "Moderna museet ska redovisa hur myndigheten har använt eller fördelat medlen från anslag 1:4 Forsknings- och utvecklingsinsatser inom kulturområdet. Redovisningen ska omfatta\n\n- vilka strategiska prioriteringar som legat till grund för användningen eller fördelningen av medel\n- vilka insatser som finansierats eller delfinansierats av anslaget under året\n- på vilket sätt insatserna förväntas bidra till kulturområdets utveckling\n- en resultatbedömning av genomförda insatser.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "fördela_medel"
+   ],
+   "anslag_refs": [
+    "1:4"
+   ],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "vilka strategiska prioriteringar som legat till grund för användningen eller fördelningen av medel",
+    "vilka insatser som finansierats eller delfinansierats av anslaget under året",
+    "på vilket sätt insatserna förväntas bidra till kulturområdets utveckling",
+    "en resultatbedömning av genomförda insatser."
+   ],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25733:goals:2"
+  },
+  {
+   "title": "Publik och tillgänglighet",
+   "group": [],
+   "text": "Moderna museet ska redovisa\n\n- den verksamhet som svarar mot den unga publikens behov samt insatser för att öka den unga publiken\n- de åtgärder som vidtagits för att öka tillgängligheten för personer med funktionsnedsättning\n- förändringar i besöksutvecklingen i förhållande till tidigare år.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "den verksamhet som svarar mot den unga publikens behov samt insatser för att öka den unga publiken",
+    "de åtgärder som vidtagits för att öka tillgängligheten för personer med funktionsnedsättning",
+    "förändringar i besöksutvecklingen i förhållande till tidigare år."
+   ],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25733:goals:3"
+  },
+  {
+   "title": "Lokalkostnader",
+   "group": [],
+   "text": "Moderna museet ska specificera museets totala lokalkostnader för 2026 enligt följande\n\n- hyra\n- el och uppvärmning\n- reparationer och underhåll\n- övriga driftskostnader.\n\nOm myndigheten har fler än en hyresvärd ska kostnaderna fördelas per hyresvärd.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "fördela_medel"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "el och uppvärmning",
+    "reparationer och underhåll",
+    "övriga driftskostnader."
+   ],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25733:goals:4"
+  },
+  {
+   "title": "Sponsring",
+   "group": [],
+   "text": "Moderna museet ska särredovisa eventuella sponsringsintäkter i not till resultaträkningen.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25733:goals:5"
+  },
+  {
+   "title": "Bidragsintäkter",
+   "group": [],
+   "text": "Moderna museet ska redovisa fördelningen av eventuella bidragsintäkter mellan statliga bidrag, icke-statliga bidrag respektive bidrag från mellanstatliga organ i not till resultaträkningen.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25733:goals:6"
+  }
+ ],
+ "org": [
+  {
+   "title": "Inordnande av uppgifter",
+   "group": [],
+   "text": "Moderna museet ska den 1 januari 2026 inordna de uppgifter från Statens centrum för arkitektur och design och Statens konstråd som framgår av regeringens beslut den 28 maj 2025 (Ku2025/00624).\n\nÖvertagande av Statens centrum för arkitektur och designs och Statens konstråds tillgångar och skulder av Moderna museet ska ske till bokfört värde enligt 5 kap. 5 och 8 §§ förordningen (2000:605) om årsredovisning och budgetunderlag. Statens centrum för arkitektur och design och Statens konstråd har ansvaret för sina tillgångar och skulder till och med den 31 december 2025, och Moderna museet övertar ansvaret fr.o.m. den 1 januari 2026.\n\nÖvertagna avsättningar för omstruktureringskostnader som inte har redovisats mot anslag hos den avvecklade myndigheten ska redovisas mot anslag i samband med övertagandet.",
+   "dates": [
+    "2025-05-28",
+    "2025-12-31",
+    "2026-01-01"
+   ],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Statens centrum för arkitektur och design",
+    "Statens konstråd"
+   ],
+   "channels": [
+    "årsredovisning",
+    "budgetunderlag"
+   ],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2000:605"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "org",
+   "item_id": "25733:org:0"
+  },
+  {
+   "title": "Samverkansrådet inom ramen för kultursamverkansmodellen",
+   "group": [],
+   "text": "Moderna museet ska delta i det samverkansråd vid Statens kulturråd som ska samordna de nationella kulturpolitiska intressena inom ramen för kultursamverkansmodellen.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Statens kulturråd"
+   ],
+   "channels": [],
+   "task_types": [
+    "samordna"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "org",
+   "item_id": "25733:org:1"
+  }
+ ],
+ "assignments": [
+  {
+   "title": "AI och datadrivet arbete",
+   "group": [],
+   "text": "Moderna museet ska redovisa i vilken utsträckning myndigheten arbetar datadrivet och hur AI används i verksamheten. Myndigheten ska även redogöra för på vilket sätt arbetet med data och AI har bidragit till att utveckla verksamheten och höja kvaliteten i utförandet av myndighetens uppgifter och uppdrag. Av redovisningen ska framgå hur myndigheten beaktar risker och arbetar för att användning av data och AI sker på ett etiskt, säkert och icke-diskriminerande sätt. Eventuella hinder eller framgångsfaktorer för datadrivet arbete och användande av AI ska även redovisas. Uppdraget ska redovisas till Regeringskansliet (Kulturdepartementet) senast den 4 maj 2026.",
+   "dates": [
+    "2026-05-04"
+   ],
+   "deadlines": [
+    "2026-05-04"
+   ],
+   "recipients": [
+    "Regeringskansliet (Kulturdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla",
+    "statistik_data",
+    "digitalisering_ai"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "25733:assignments:0"
+  },
+  {
+   "title": "Kiruna - Europeisk kulturhuvudstad 2029",
+   "group": [],
+   "text": "Moderna museet ska i dialog med Kiruna kommun se över möjligheterna att medverka inför och under evenemanget Europeisk kulturhuvudstad 2029.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "samordna",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "25733:assignments:1"
+  },
+  {
+   "title": "Prognoser 2026-2029",
+   "group": [],
+   "text": "Myndigheten ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Av kommentarerna ska det framgå vilka antaganden som använts i prognosen samt eventuella osäkerhetsfaktorer och hur detta påverkat prognosen. Vid väsentliga prognosavvikelser ska myndigheten även ange vilka åtgärder som vidtagits eller planeras att vidtas för att verksamheten ska bedrivas inom ramen för tilldelade medel. Prognoserna lämnas i informationssystemet Hermes senast den\n\n- 2 februari\n- 24 juli\n- 9 november.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "25733:assignments:2"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "1:4",
+   "name": "Forsknings- och utvecklingsinsatser inom kulturområdet",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 17,
+    "name": "Kultur, medier, trossamfund och fritid"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Moderna museet",
+     "amount_tkr": 4750,
+     "items": [
+      {
+       "ap": "2",
+       "name": "Forsknings- och utvecklingsinsatser inom kulturområdet (ram)",
+       "amount_tkr": 4750
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "2",
+     "name": "Forsknings- och utvecklingsinsatser inom kulturområdet",
+     "text": "Anslagsposten får användas för utgifter för forsknings- och utvecklingsinsatser avseende arkitektur, form, design och offentlig konst. Anslagsposten får även användas för utgifter för administration och genomförande av verksamheten."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "7:1",
+   "name": "Centrala museer: Myndigheter",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 17,
+    "name": "Kultur, medier, trossamfund och fritid"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Moderna museet",
+     "amount_tkr": 270526,
+     "items": [
+      {
+       "ap": "10",
+       "name": "Moderna museet (ram)",
+       "amount_tkr": 270526
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "10",
+     "name": "Moderna museet",
+     "text": "Anslagsposten får användas för Moderna museets förvaltningsutgifter samt för utgifter för avveckling av Statens centrum för arkitektur och design och Statens konstråd."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "7:6",
+   "name": "Konstnärlig gestaltning av den gemensamma miljön",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 17,
+    "name": "Kultur, medier, trossamfund och fritid"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Moderna museet",
+     "amount_tkr": 42518,
+     "items": [
+      {
+       "ap": "2",
+       "name": "Konstnärlig gestaltning av den gemensamma miljön (ram)",
+       "amount_tkr": 42518
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "2",
+     "name": "Konstnärlig gestaltning av den gemensamma miljön",
+     "text": "Anslagsposten får användas för Moderna museets utgifter för gestaltning av den gemensamma miljön.\nAnslagsposten får belastas med högst 12 400 000 kronor för administration och genomförande av verksamheten."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "2",
+     "max": 12400000,
+     "unit": "kronor"
+    }
+   ]
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "1:4 Forsknings- och utvecklingsinsatser inom kulturområdet",
+   "ap": "ap.2",
+   "Anslagskredit": 142,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "7:1 Centrala museer: Myndigheter",
+   "ap": "ap.10",
+   "Anslagskredit": 8115,
+   "Anslagsbehållning som disponeras 2026": 7672,
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "7:6 Konstnärlig gestaltning av den gemensamma miljön",
+   "ap": "ap.2",
+   "Anslagskredit": 1275,
+   "Anslagsbehållning som disponeras 2026": 1276,
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 47200,
+  "Räntekontokredit": 31097
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 22940
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 22940
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 22940
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 22940
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 22940
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 22940
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 22940
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 22940
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 22940
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 22940
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 22940
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 22936
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:4 Forsknings- och utvecklingsinsatser inom kulturområdet",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.2",
+     "142",
+     "Inget",
+     "0"
+    ],
+    [
+     "7:1 Centrala museer: Myndigheter",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.10",
+     "8 115",
+     "7 672",
+     "0"
+    ],
+    [
+     "7:6 Konstnärlig gestaltning av den gemensamma miljön",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.2",
+     "1 275",
+     "1 276",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Omfördelning av anslagssparande",
+   "rows": [
+    [
+     "Omfördelning från anslag/ap1",
+     "Omfördelning till anslag/ap2",
+     "Belopp (tkr)",
+     "Belopp andel (%)"
+    ],
+    [
+     "7:1 Centrala museer: Myndigheter",
+     "",
+     "",
+     ""
+    ],
+    [
+     "8:1 ap.7",
+     "7:1 ap.10",
+     "100 %"
+    ],
+    [
+     "7:6 Konstnärlig gestaltning av den gemensamma miljön",
+     "",
+     "",
+     ""
+    ],
+    [
+     "4:2 ap.1",
+     "7:6 ap.2",
+     "100 %"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Avslutade anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagstyp"
+    ],
+    [
+     "1:4 Forsknings- och utvecklingsinsatser inom kulturområdet",
+     ""
+    ],
+    [
+     "ap.1",
+     "ram"
+    ],
+    [
+     "7:1 Centrala museer: Myndigheter",
+     ""
+    ],
+    [
+     "ap.7",
+     "ram"
+    ],
+    [
+     "7:6 Konstnärlig gestaltning av den gemensamma miljön",
+     ""
+    ],
+    [
+     "ap.1",
+     "ram"
+    ],
+    [
+     "7:8 (2025) Statens konstråd",
+     ""
+    ],
+    [
+     "ap.1 (2025)",
+     "ram"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "47 200"
+    ],
+    [
+     "Räntekontokredit",
+     "31 097"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "22 940"
+    ],
+    [
+     "2026-02-25",
+     "22 940"
+    ],
+    [
+     "2026-03-25",
+     "22 940"
+    ],
+    [
+     "2026-04-25",
+     "22 940"
+    ],
+    [
+     "2026-05-25",
+     "22 940"
+    ],
+    [
+     "2026-06-25",
+     "22 940"
+    ],
+    [
+     "2026-07-25",
+     "22 940"
+    ],
+    [
+     "2026-08-25",
+     "22 940"
+    ],
+    [
+     "2026-09-25",
+     "22 940"
+    ],
+    [
+     "2026-10-25",
+     "22 940"
+    ],
+    [
+     "2026-11-25",
+     "22 940"
+    ],
+    [
+     "2026-12-25",
+     "22 936"
+    ],
+    [
+     "Summa",
+     "275 276"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "1:4 ap.2",
+     "Forsknings- och utvecklingsinsatser inom kulturområdet"
+    ],
+    [
+     "7:1 ap.10",
+     "Moderna museet"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Verksamhet med full kostnadstäckning",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Försäljning av varor1",
+     "-4 127",
+     "-500",
+     "15 000",
+     "15 000",
+     "0",
+     "-4 627"
+    ],
+    [
+     "Undersökningar, utredningar och andra tjänster1",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0"
+    ],
+    [
+     "Summa",
+     "-4 127",
+     "-500",
+     "15 000",
+     "15 000",
+     "0",
+     "-4 627"
+    ],
+    [
+     "Övrig avgiftsbelagd verksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Entréer och visningar3",
+     "25 000"
+    ],
+    [
+     "Övrigt3",
+     "22 000"
+    ],
+    [
+     "Summa",
+     "0",
+     "0",
+     "47 000",
+     "0",
+     "0",
+     "0"
+    ]
+   ]
+  }
+ ],
+ "has_fee_section": true,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 7,
+  "n_org": 2,
+  "n_assignments": 3,
+  "n_deadlines": 1,
+  "deadlines": [
+   "2026-05-04"
+  ],
+  "partners": [
+   "Statens centrum för arkitektur och design",
+   "Statens konstråd",
+   "Statens kulturråd"
+  ],
+  "n_appropriations": 3,
+  "appropriations_total_tkr": 317794,
+  "payment_plan_total_tkr": 275276,
+  "md_chars": 11034
+ },
+ "layout": "standard",
+ "warnings": []
+}

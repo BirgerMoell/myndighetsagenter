@@ -1,0 +1,462 @@
+{
+ "schema_version": 1,
+ "id": 25703,
+ "original_rbid": 25703,
+ "type": "Regleringsbrev",
+ "category": "Myndighet",
+ "date": "2025-12-18",
+ "year": "2026",
+ "name": "Inspektionen för arbetslöshetsförsäkringen",
+ "slug": "inspektionen-for-arbetsloshetsforsakringen",
+ "department": "Arbetsmarknadsdepartementet",
+ "expenditure_areas": [
+  14
+ ],
+ "registry_numbers": [
+  "A2025/01061",
+  "A2025/01246 (delvis)",
+  "A2025/01271"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1"
+  ],
+  "bet": [
+   "2025/26:AU2"
+  ],
+  "rskr": [
+   "2025/26:119"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "",
+ "goals": [
+  {
+   "title": "Uppföljning av nya regelverket för arbetslöshetsförsäkringen",
+   "group": [],
+   "text": "Den 1 oktober 2025 trädde ett nytt regelverk för arbetslöshetsförsäkringen i kraft. Reformen av arbetslöshetsförsäkringen har inneburit vissa anpassningar och förändringar av de arbetsmarknadspolitiska regelverken och reglerna för de arbetsmarknadspolitiska individersättningarna. IAF ska inom ramen för sitt uppdrag följa upp arbetet med och implementeringen av de nya och reformerade regelverken hos berörda aktörer och löpande hålla Arbetsmarknadsdepartementet informerade om arbetet.",
+   "dates": [
+    "2025-10-01"
+   ],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "analysera",
+    "informera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25703:goals:0"
+  },
+  {
+   "title": "Öka förmågan att arbeta datadrivet samt att använda AI och ny teknik",
+   "group": [],
+   "text": "IAF ska redovisa i vilken utsträckning de arbetar datadrivet, vilka åtgärder de vidtagit för att förbättra sin förmåga att arbeta datadrivet, samt en bedömning av vilket resultat åtgärderna har lett till. IAF ska även redovisa på vilket sätt arbetet med data och AI har bidragit till att utveckla verksamheten och höja kvaliteten i utförandet av myndighetens uppgifter. Av redovisningen ska framgå hur myndigheten beaktar risker och arbetar för att användning av data och AI sker på ett etiskt, säkert och icke-diskriminerande sätt. Eventuella hinder eller framgångsfaktorer för datadrivet arbete och användande av AI-teknik ska även redovisas.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla",
+    "statistik_data",
+    "digitalisering_ai"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25703:goals:1"
+  }
+ ],
+ "org": [],
+ "assignments": [
+  {
+   "title": "Analys av felaktiga utbetalningar",
+   "group": [],
+   "text": "IAF ska undersöka och analysera felaktiga utbetalningar från arbetslöshetskassorna i syfte att bidra till målet om minskade felaktiga utbetalningar från välfärdssystemen och den brottslighet som riktas mot dessa system och dess uppföljning. Redovisningen ska omfatta följande uppgifter gällande år 2025:\n\n- Upptäckta felaktiga utbetalningar (antal utbetalningar och totalt belopp).\n- De upptäckta felaktiga utbetalningarnas andel av det totalt utbetalda beloppet.\n- Andelen upptäckta felaktiga utbetalningar av de uppskattade totala felaktiga utbetalningarna.\n- Upptäckta felaktiga utbetalningar i kontrollarbetet per krona i kostnader för kontrollarbetet.\n- Återbetalda medel samt andelen återbetalda medel av upptäckta felaktiga utbetalningar.\n- Återkrav (antal och belopp).\n- Antal polisanmälningar.\n\nMed kostnader för kontrollarbetet avses en uppskattning av de kostnader som är direkt relaterade till åtgärder utanför den ordinarie handläggningen av ärenden, där syftet är att upptäcka felaktiga utbetalningar.\n\nEn analys ska göras av hur utfallet av indikatorerna förändrats över tid samt orsaker till förändringen.\n\nRedovisningen ska också innefatta en analys av åtgärder och resultat av de åtgärder som arbetslöshetskassorna vidtagit för att motverka felaktiga utbetalningar under 2025.\n\nIAF ska i arbetet inhämta uppgifter från arbetslöshetskassorna. Uppdraget ska redovisas till Regeringskansliet (Arbetsmarknadsdepartementet) senast den 1 april 2026.",
+   "dates": [
+    "2026-04-01"
+   ],
+   "deadlines": [
+    "2026-04-01"
+   ],
+   "recipients": [
+    "Regeringskansliet (Arbetsmarknadsdepartementet)"
+   ],
+   "partners": [
+    "arbetslöshetskassorna"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "tillsyn_kontroll",
+    "statistik_data"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "Upptäckta felaktiga utbetalningar (antal utbetalningar och totalt belopp).",
+    "De upptäckta felaktiga utbetalningarnas andel av det totalt utbetalda beloppet.",
+    "Andelen upptäckta felaktiga utbetalningar av de uppskattade totala felaktiga utbetalningarna.",
+    "Upptäckta felaktiga utbetalningar i kontrollarbetet per krona i kostnader för kontrollarbetet.",
+    "Återbetalda medel samt andelen återbetalda medel av upptäckta felaktiga utbetalningar.",
+    "Återkrav (antal och belopp).",
+    "Antal polisanmälningar."
+   ],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "25703:assignments:0"
+  },
+  {
+   "title": "Utgiftsprognoser",
+   "group": [],
+   "text": "Myndigheten ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Prognoserna lämnas i informationssystemet Hermes senast den\n\n- 2 februari,\n\n- 22 april,\n\n- 24 juli och\n\n- 9 november.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "25703:assignments:1"
+  },
+  {
+   "title": "Tidigare givna uppdrag i regleringsbrev eller särskilda regeringsbeslut",
+   "group": [],
+   "text": "| | | |\n| --- | --- | --- |\n| Uppdrag att studera felaktiga utbetalningar av vissa ersättningar | Fi2024/02405 | Den 31 mars 2025 och den 5 oktober 2026. |\n\nFör regeringsuppdrag som lämnats i ett särskilt regeringsbeslut utgör tabellen ovan endast en upplysning om vilka uppdrag som vid årets början var riktade till myndigheten och vilka tider som då gällde för återrapportering eller liknande.",
+   "dates": [
+    "2025-03-31",
+    "2026-10-05"
+   ],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "25703:assignments:2"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "1:9",
+   "name": "Inspektionen för arbetslöshetsförsäkringen",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 14,
+    "name": "Arbetsmarknad och arbetsliv"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Inspektionen för arbetslöshetsförsäkringen",
+     "amount_tkr": 86510,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Förvaltningskostnader (ram)",
+       "amount_tkr": 86510
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Förvaltningskostnader",
+     "text": "Anslagsposten får användas för Inspektionen för arbetslöshetsförsäkringens förvaltningsutgifter."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "1:10",
+   "name": "Bidrag till administration av arbetslöshetsförsäkringen",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 14,
+    "name": "Arbetsmarknad och arbetsliv"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Inspektionen för arbetslöshetsförsäkringen",
+     "amount_tkr": 66560,
+     "items": [
+      {
+       "ap": "3",
+       "name": "Bidrag till utbetalning av grundbeloppet (ram)",
+       "amount_tkr": 66560
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "3",
+     "name": "Bidrag till utbetalning av grundbeloppet",
+     "text": "**1. Anslagsbeloppet får användas till delfinansiering av nödvändiga administrationskostnader som Alfa-kassan har för handläggningen av arbetslöshetsersättning enligt lagen (2024:506) om arbetslöshetsförsäkring, lagen (1997:238) om arbetslöshetsförsäkring och lagen (1997:239) om arbetslöshetskassor för dem som inte är medlemmar eller anslutna till någon arbetslöshetskassa.**\n**2. IAF ska med en tolftedel per månad betala ut anslagsbeloppet till Alfa-kassan.**"
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "1:9 Inspektionen för arbetslöshetsförsäkringen",
+   "ap": "ap.1",
+   "Anslagskredit": 2595,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:10 Bidrag till administration av arbetslöshetsförsäkringen",
+   "ap": "ap.3",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 7000,
+  "Räntekontokredit": 4500
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 7209
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 7209
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 7209
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 7209
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 7209
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 7209
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 7209
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 7209
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 7209
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 7209
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 7209
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 7211
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:9 Inspektionen för arbetslöshetsförsäkringen",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "2 595",
+     "3 %",
+     "0"
+    ],
+    [
+     "1:10 Bidrag till administration av arbetslöshetsförsäkringen",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.3",
+     "0",
+     "Inget",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "7 000"
+    ],
+    [
+     "Räntekontokredit",
+     "4 500"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "7 209"
+    ],
+    [
+     "2026-02-25",
+     "7 209"
+    ],
+    [
+     "2026-03-25",
+     "7 209"
+    ],
+    [
+     "2026-04-25",
+     "7 209"
+    ],
+    [
+     "2026-05-25",
+     "7 209"
+    ],
+    [
+     "2026-06-25",
+     "7 209"
+    ],
+    [
+     "2026-07-25",
+     "7 209"
+    ],
+    [
+     "2026-08-25",
+     "7 209"
+    ],
+    [
+     "2026-09-25",
+     "7 209"
+    ],
+    [
+     "2026-10-25",
+     "7 209"
+    ],
+    [
+     "2026-11-25",
+     "7 209"
+    ],
+    [
+     "2026-12-25",
+     "7 211"
+    ],
+    [
+     "Summa",
+     "86 510"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "1:9 ap.1",
+     "Förvaltningskostnader"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [],
+ "has_fee_section": false,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 2,
+  "n_org": 0,
+  "n_assignments": 3,
+  "n_deadlines": 1,
+  "deadlines": [
+   "2026-04-01"
+  ],
+  "partners": [
+   "arbetslöshetskassorna"
+  ],
+  "n_appropriations": 2,
+  "appropriations_total_tkr": 153070,
+  "payment_plan_total_tkr": 86510,
+  "md_chars": 7846
+ },
+ "layout": "standard",
+ "warnings": []
+}

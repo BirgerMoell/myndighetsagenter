@@ -1,0 +1,621 @@
+{
+ "schema_version": 1,
+ "id": 27447,
+ "original_rbid": 26052,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-08-27",
+ "year": "2026",
+ "name": "Statens museer för maritim-, transport- och försvarshistoria",
+ "slug": "statens-museer-for-maritim-transport-och-forsvarshistoria",
+ "department": "Kulturdepartementet",
+ "expenditure_areas": [
+  17
+ ],
+ "registry_numbers": [
+  "Ku2026/00681"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1"
+  ],
+  "bet": [
+   "2025/26:KrU1"
+  ],
+  "rskr": [
+   "2025/26:83"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "",
+ "goals": [
+  {
+   "title": "Publik och tillgänglighet",
+   "group": [],
+   "text": "Statens museer för maritim-, transport- och försvarshistoria ska redovisa\n\n- den verksamhet som svarar mot den unga publikens behov samt insatser för att öka den unga publiken\n- de åtgärder som vidtagits för att öka tillgängligheten för personer med funktionsnedsättning\n- förändringar i besöksutvecklingen i förhållande till tidigare år.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "den verksamhet som svarar mot den unga publikens behov samt insatser för att öka den unga publiken",
+    "de åtgärder som vidtagits för att öka tillgängligheten för personer med funktionsnedsättning",
+    "förändringar i besöksutvecklingen i förhållande till tidigare år."
+   ],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27447:goals:0"
+  },
+  {
+   "title": "Statsbidrag till försvarshistoriska museiverksamheter",
+   "group": [],
+   "text": "Statens museer för maritim-, transport- och försvarshistoria ska redovisa hur bidrag enligt förordningen (2013:1007) om statsbidrag till försvarshistoriska museiverksamheter har använts. Av redovisningen ska framgå hur bidragen har fördelats mellan olika museiverksamheter och ändamål.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "fördela_medel"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2013:1007"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27447:goals:1"
+  },
+  {
+   "title": "Bevara och tillgängliggöra kulturarvet genom digitisering och digitalisering",
+   "group": [],
+   "text": "Statens museer för maritim-, transport- och försvarshistoria ska redovisa resultatet av arbetet med digitisering och digitalisering av myndighetens samlingar. Av redovisningen ska följande framgå\n\n- samlingarnas storlek, inklusive årets tillväxt\n- hur stort antal i och andel av samlingarna som är digital\n- hur stor andel av samlingarna som är digitalt tillgänglig\n- vilka delar av resultatet som härrör från den medelsförstärkning som myndigheten har tilldelats\n- vilka kostnader som myndigheten har haft för arbetet med digitisering och digitalisering.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "digitalisering_ai"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "samlingarnas storlek, inklusive årets tillväxt",
+    "hur stort antal i och andel av samlingarna som är digital",
+    "hur stor andel av samlingarna som är digitalt tillgänglig",
+    "vilka delar av resultatet som härrör från den medelsförstärkning som myndigheten har tilldelats",
+    "vilka kostnader som myndigheten har haft för arbetet med digitisering och digitalisering."
+   ],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27447:goals:2"
+  },
+  {
+   "title": "Avgiftsbelagd verksamhet",
+   "group": [],
+   "text": "Statens museer för maritim-, transport- och försvarshistoria ska redovisa hur arbetet med att åstadkomma ekonomisk balans i de avgiftsbelagda verksamheterna fortskrider.\n\nMyndigheten ska redovisa hur ett eventuellt ackumulerat överskott för avgiftsbelagda verksamheter med full kostnadstäckning har använts enligt villkoret i avsnitt 6.4.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27447:goals:3"
+  },
+  {
+   "title": "Breddad finansiering",
+   "group": [],
+   "text": "Statens museer för maritim-, transport- och försvarshistoria ska redovisa hur myndigheten arbetar för att bredda finansieringen av verksamheten.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27447:goals:4"
+  },
+  {
+   "title": "Lokalkostnader",
+   "group": [],
+   "text": "",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27447:goals:5"
+  },
+  {
+   "title": "Bidragsintäkter",
+   "group": [],
+   "text": "",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27447:goals:6"
+  },
+  {
+   "title": "Sponsringsintäkter",
+   "group": [],
+   "text": "",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27447:goals:7"
+  }
+ ],
+ "org": [
+  {
+   "title": "Inordnande av uppgifter",
+   "group": [],
+   "text": "Statens museer för maritim-, transport- och försvarshistoria ska den 1 januari 2026 inordna de uppgifter från Statens försvarshistoriska museer som framgår av regeringens beslut den 3 juli 2025 (Ku2025/00762).\n\nÖvertagande av Statens försvarshistoriska museers tillgångar och skulder av Statens museer för maritim-, transport- och försvarshistoria ska ske till bokfört värde enligt 5 kap. 5 och 8 §§ förordningen (2000:605) om årsredovisning och budgetunderlag. Statens försvarshistoriska museer har ansvaret för sina tillgångar och skulder t.o.m. den 31 december 2025, och Statens museer för maritim-, transport- och försvarshistoria övertar ansvaret fr.o.m. den 1 januari 2026.\n\nÖvertagna avsättningar för omstruktureringskostnader som inte har redovisats mot anslag hos den avvecklade myndigheten ska redovisas mot anslag i samband med övertagandet.",
+   "dates": [
+    "2025-07-03",
+    "2025-12-31",
+    "2026-01-01"
+   ],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Statens försvarshistoriska museer"
+   ],
+   "channels": [
+    "årsredovisning",
+    "budgetunderlag"
+   ],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2000:605"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "org",
+   "item_id": "27447:org:0"
+  }
+ ],
+ "assignments": [
+  {
+   "title": "AI och datadrivet arbete",
+   "group": [],
+   "text": "Statens museer för maritim-, transport- och försvarshistoria ska redovisa i vilken utsträckning myndigheten arbetar datadrivet och hur AI används i verksamheten. Myndigheten ska även redogöra för på vilket sätt arbetet med data och AI har bidragit till att utveckla verksamheten och höja kvaliteten i utförandet av myndighetens uppgifter och uppdrag. Av redovisningen ska framgå hur myndigheten beaktar risker och arbetar för att användning av data och AI sker på ett etiskt, säkert och icke-diskriminerande sätt. Eventuella hinder eller framgångsfaktorer för datadrivet arbete och användande av AI ska även redovisas. Uppdraget ska redovisas till Regeringskansliet (Kulturdepartementet) senast den 4 maj 2026.",
+   "dates": [
+    "2026-05-04"
+   ],
+   "deadlines": [
+    "2026-05-04"
+   ],
+   "recipients": [
+    "Regeringskansliet (Kulturdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla",
+    "statistik_data",
+    "digitalisering_ai"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27447:assignments:0"
+  },
+  {
+   "title": "Kiruna - Europeisk kulturhuvudstad 2029",
+   "group": [],
+   "text": "Statens museer för maritim-, transport- och försvarshistoria ska i dialog med Kiruna kommun se över möjligheterna att medverka inför och under evenemanget Europeisk kulturhuvudstad 2029.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "samordna",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27447:assignments:1"
+  },
+  {
+   "title": "Prognoser 2026–2029",
+   "group": [],
+   "text": "Statens museer för maritim-, transport- och försvarshistoria ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Av kommentarerna ska det framgå vilka antaganden som använts i prognosen samt eventuella osäkerhetsfaktorer och hur detta påverkat prognosen. Vid väsentliga prognosavvikelser ska myndigheten även ange vilka åtgärder som vidtagits eller planeras att vidtas för att verksamheten ska bedrivas inom ramen för tilldelade medel. Prognoserna lämnas i informationssystemet Hermes senast den\n\n- 2 februari\n- 24 juli\n- 9 november.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27447:assignments:2"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "7:1",
+   "name": "Centrala museer: Myndigheter",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 17,
+    "name": "Kultur, medier, trossamfund och fritid"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Statens museer för maritim-, transport- och försvarshistoria",
+     "amount_tkr": 376137,
+     "items": [
+      {
+       "ap": "6",
+       "name": "Statens museer för maritim-, transport- och försvarshistoria (ram)",
+       "amount_tkr": 376137
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "6",
+     "name": "Statens museer för maritim-, transport- och försvarshistoria",
+     "text": "Anslagsposten får användas för förvaltningsutgifter för Statens museer för maritim-, transport- och försvarshistoria samt för utgifter för avveckling av Statens försvarshistoriska museer.\nAnslagsposten får användas för Vasamuseets lokalkostnader.\nAv anslagsposten ska minst 35 000 000 kronor användas för bidragsgivning enligt förordningen (2013:1007) om statsbidrag till försvarshistoriska museiverksamheter samt till kostnader vid Statens museer för maritim-, transport- och försvarshistoria som är förenade med upprätthållande av dessa verksamheter. Av dessa medel ska högst 5 000 000 kronor användas till magasinslokaler för den nationella fordonssamling som visas och handhas av försvarsfordonsmuseet Arsenalen i Strängnäs.\nAv anslagsposten får högst 2 000 000 kronor användas för bidrag till vård av kulturhistoriskt värdefulla fartyg i enlighet med förordningen (2011:1565) om statsbidrag till kostnader för vård av kulturhistoriskt värdefulla fartyg."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "6",
+     "max": 5000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "6",
+     "max": 2000000,
+     "unit": "kronor"
+    }
+   ]
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "7:1 Centrala museer: Myndigheter",
+   "ap": "ap.6",
+   "Anslagskredit": 11284,
+   "Anslagsbehållning som disponeras 2026": 11008,
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 300000,
+  "Räntekontokredit": 96800
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-18",
+   "amount_tkr": 94062
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 94025
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 94025
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 94025
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "7:1 Centrala museer: Myndigheter",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.6",
+     "11 284",
+     "11 008",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Omfördelning av anslagssparande",
+   "rows": [
+    [
+     "Omfördelning från anslag/ap1",
+     "Omfördelning till anslag/ap2",
+     "Belopp (tkr)",
+     "Belopp andel (%)"
+    ],
+    [
+     "7:1 Centrala museer: Myndigheter",
+     "",
+     "",
+     ""
+    ],
+    [
+     "8:1 ap.9",
+     "7:1 ap.6",
+     "100 %"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Avslutade anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagstyp"
+    ],
+    [
+     "7:1 Centrala museer: Myndigheter",
+     ""
+    ],
+    [
+     "ap.9",
+     "ram"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "300 000"
+    ],
+    [
+     "Räntekontokredit",
+     "96 800"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-18",
+     "94 062"
+    ],
+    [
+     "2026-04-25",
+     "94 025"
+    ],
+    [
+     "2026-07-25",
+     "94 025"
+    ],
+    [
+     "2026-10-25",
+     "94 025"
+    ],
+    [
+     "Summa",
+     "376 137"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "7:1 ap.6",
+     "Statens museer för maritim-, transport- och försvarshistoria"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Verksamhet med full kostnadstäckning",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Försäljning av varor1",
+     "-492",
+     "-18",
+     "30 766",
+     "29 210",
+     "1 556",
+     "1 046"
+    ],
+    [
+     "Undersökningar, utredningar och andra tjänster1",
+     "1 382",
+     "-51",
+     "5 031",
+     "5 031",
+     "0",
+     "1 331"
+    ],
+    [
+     "Vasamuseet1",
+     "-6 341",
+     "741",
+     "254 746",
+     "250 889",
+     "3 857",
+     "-1 743"
+    ],
+    [
+     "Summa",
+     "-5 451",
+     "672",
+     "290 543",
+     "285 130",
+     "5 413",
+     "634"
+    ],
+    [
+     "Övrig avgiftsbelagd verksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Entréer och visningar3",
+     "41 320"
+    ],
+    [
+     "Övrigt3",
+     "12 790"
+    ],
+    [
+     "Summa",
+     "0",
+     "0",
+     "54 110",
+     "0",
+     "0",
+     "0"
+    ]
+   ]
+  }
+ ],
+ "has_fee_section": true,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 8,
+  "n_org": 1,
+  "n_assignments": 3,
+  "n_deadlines": 1,
+  "deadlines": [
+   "2026-05-04"
+  ],
+  "partners": [
+   "Statens försvarshistoriska museer"
+  ],
+  "n_appropriations": 1,
+  "appropriations_total_tkr": 376137,
+  "payment_plan_total_tkr": 376137,
+  "md_chars": 10212
+ },
+ "layout": "standard",
+ "warnings": []
+}

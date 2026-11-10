@@ -1,0 +1,1134 @@
+{
+ "schema_version": 1,
+ "id": 26433,
+ "original_rbid": 25727,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-06-11",
+ "year": "2026",
+ "name": "Centrala studiestödsnämnden",
+ "slug": "centrala-studiestodsnamnden",
+ "department": "Utbildningsdepartementet",
+ "expenditure_areas": [
+  15
+ ],
+ "registry_numbers": [
+  "U2026/01202 (delvis)"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1",
+   "2025/26:99"
+  ],
+  "bet": [
+   "2025/26:FiU21",
+   "2025/26:UbU2"
+  ],
+  "rskr": [
+   "2025/26:115",
+   "2025/26:349"
+  ]
+ },
+ "n_attachments_stated": 1,
+ "mission": "",
+ "goals": [
+  {
+   "title": "Omställningsstudiestödet",
+   "group": [],
+   "text": "Myndigheten ska vidta nödvändiga åtgärder för att säkerställa en effektiv handläggning av omställningsstudiestödet. Arbetet ska ske i fortsatt samverkan med andra berörda myndigheter.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "samordna"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26433:goals:0"
+  },
+  {
+   "title": "Myndighetens arbete med artificiell intelligens",
+   "group": [],
+   "text": "Myndigheten ska redovisa de insatser som har genomförts eller som avses genomföras i syfte att utveckla myndighetens användning av artificiell intelligens (AI). I redovisningen ska det även ingå en beskrivning av vilka kompetenshöjande insatser som myndigheten har genomfört samt hur man använt sig av egen eller andras data för att lösa behov med AI-tillämpningar. Myndigheten ska även redovisa vilken samverkan som finns med andra myndigheter vid utvecklingen och användningen av AI.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "utveckla",
+    "digitalisering_ai"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26433:goals:1"
+  },
+  {
+   "title": "Informations- och cybersäkerhet",
+   "group": [],
+   "text": "Myndigheten ska övergripande redogöra för hur myndigheten har förvaltat och utvecklat sitt arbete med informations- och cybersäkerhet inbegripet den egna organisationens beredskap och möjlighet att hantera incidenter samt hur myndigheten planerar att möta framtida behov inom informations- och cybersäkerhetsområdet.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "utveckla",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26433:goals:2"
+  },
+  {
+   "title": "Mål för minskade felaktiga utbetalningar",
+   "group": [],
+   "text": "Myndigheten ska bidra till målet att de felaktiga utbetalningarna från välfärdssystemen och den brottslighet som riktas mot dessa system ska minska. Omfattningen av felaktiga utbetalningar från de ersättningar som myndigheten hanterar och den brottslighet som riktas mot dessa ersättningar ska därför minska.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26433:goals:3"
+  },
+  {
+   "title": "Återrapporteringskrav för minskade felaktiga utbetalningar",
+   "group": [],
+   "text": "Myndigheten ska redovisa måluppfyllelsen, genomförda åtgärder för att minska de felaktiga utbetalningarna och den brottslighet som riktas mot välfärdssystemen, samt en bedömning av åtgärdernas effekter. Redovisningen ska därutöver omfatta följande:\n\n- Upptäckta felaktiga utbetalningar (antal utbetalningar och totalt belopp).\n- De upptäckta felaktiga utbetalningarnas andel av det totalt utbetalda beloppet.\n- Andelen upptäckta felaktiga utbetalningar av de uppskattade totala felaktiga utbetalningarna.\n- Upptäckta felaktiga utbetalningar (totalt belopp) i kontrollarbetet per krona i kostnader för kontrollarbetet.\n- Återbetalda medel samt andelen återbetalda medel av upptäckta felaktiga utbetalningar.\n- Återkrav (antal och belopp).\n- Antal polisanmälningar.\n\nMed kostnaden för kontrollarbetet avses en uppskattning av de kostnader som är direkt relaterade till åtgärder utanför den ordinarie handläggningen av ärenden, där syftet är att upptäcka och åtgärda felaktiga utbetalningar.\n\nRedovisningen ska ske för studiehjälp, studiemedel och studiestartsstöd, per stöd och totalt. Därtill ska en analys göras av hur utfallet av indikatorerna förändrats över tid samt orsaker till förändringen.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "tillsyn_kontroll",
+    "statistik_data"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "Upptäckta felaktiga utbetalningar (antal utbetalningar och totalt belopp).",
+    "De upptäckta felaktiga utbetalningarnas andel av det totalt utbetalda beloppet.",
+    "Andelen upptäckta felaktiga utbetalningar av de uppskattade totala felaktiga utbetalningarna.",
+    "Upptäckta felaktiga utbetalningar (totalt belopp) i kontrollarbetet per krona i kostnader för kontrollarbetet.",
+    "Återbetalda medel samt andelen återbetalda medel av upptäckta felaktiga utbetalningar.",
+    "Återkrav (antal och belopp).",
+    "Antal polisanmälningar."
+   ],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26433:goals:4"
+  }
+ ],
+ "org": [],
+ "assignments": [
+  {
+   "title": "Effektivisera processen om fastställande av årlig inkomst gällande omställningsstudiestöd",
+   "group": [],
+   "text": "CSN och Försäkringskassan ska gemensamt redovisa hur processen om fastställande av årlig inkomst som ligger till grund för handläggning av omställningsstudiestödet ser ut. Myndigheterna ska också vidta nödvändiga åtgärder för att effektivisera processen. Uppdraget ska redovisas till Regeringskansliet (Utbildningsdepartementet och Socialdepartementet) senast den 1 september 2026.",
+   "dates": [
+    "2026-09-01"
+   ],
+   "deadlines": [
+    "2026-09-01"
+   ],
+   "recipients": [
+    "Regeringskansliet (Utbildningsdepartementet och Socialdepartementet)"
+   ],
+   "partners": [
+    "Försäkringskassan"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26433:assignments:0"
+  },
+  {
+   "title": "Infrastruktur för säker digital kommunikation",
+   "group": [],
+   "text": "Myndigheten ska analysera förutsättningarna för en framtida anslutning av relevanta informationsflöden till den infrastruktur för säker digital kommunikation som Myndigheten för digital förvaltning (Digg) tillhandahåller. Uppdraget ska redovisas till Regeringskansliet (Utbildningsdepartementet) senast den 1 april 2026.",
+   "dates": [
+    "2026-04-01"
+   ],
+   "deadlines": [
+    "2026-04-01"
+   ],
+   "recipients": [
+    "Regeringskansliet (Utbildningsdepartementet)"
+   ],
+   "partners": [
+    "Myndigheten för digital förvaltning"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26433:assignments:1"
+  },
+  {
+   "title": "Prognoser",
+   "group": [],
+   "text": "Myndigheten ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Myndigheten ska vid nedanstående tillfällen även lämna prognoser över kreditreserven. Prognoserna lämnas i informationssystemet Hermes senast den\n\n– 2 februari,\\\n– 22 april,\\\n– 24 juli, och\\\n– 9 november.\n\nRedovisningen ska i förekommande fall omfatta antalet studiestödstagare, nyttjandegrader, genomsnittliga belopp och andra variabler, däribland makroekonomiska antaganden och regeländringar som påverkar prognosen. Myndigheten ska kommentera och analysera de faktorer för respektive anslag som har bidragit till avvikelserna på samma sätt som i prognosarbetet under 2025. Redovisningen ska även omfatta prognoser för avgiftsinkomster uppdelade på de olika avgiftstyperna.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos",
+    "analysera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26433:assignments:2"
+  },
+  {
+   "title": "Prognos över ärenden till Försäkringskassan",
+   "group": [],
+   "text": "Myndigheten ska redovisa prognoser över antalet ärenden gällande fastställande av inkomst vad avser omställningsstudiestöd som skickas till Försäkringskassan för ansökningsomgångarna under 2026. Uppdraget ska redovisas till Regeringskansliet (Socialdepartementet med kopia till Utbildningsdepartementet) senast den 15 april 2026 vad avser studier som påbörjas under det andra kalenderhalvåret 2026 och senast den 15 oktober 2026 vad avser studier som påbörjas under det första kalenderhalvåret 2027.",
+   "dates": [
+    "2026-04-15",
+    "2026-10-15"
+   ],
+   "deadlines": [
+    "2026-04-15",
+    "2026-10-15"
+   ],
+   "forecast_dates": [],
+   "recipients": [
+    "Försäkringskassan",
+    "Regeringskansliet (Socialdepartementet med kopia till Utbildningsdepartementet)"
+   ],
+   "partners": [
+    "Försäkringskassan"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26433:assignments:3"
+  },
+  {
+   "title": "Tidigare givna uppdrag i regleringsbrev eller särskilda regeringsbeslut",
+   "group": [],
+   "text": "| | | |\n| --- | --- | --- |\n| **Uppdrag** | **Beslut om uppdraget** | **Redovisningstidpunkt** |\n| Redovisning av indikatorer inom ramen för Sveriges återhämtningsplan | Regleringsbrev för 2023 | Den 30 januari och den 31 juli varje år t.o.m. januari 2027 |",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "statistik_data"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "26433:assignments:4"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "1:1",
+   "name": "Studiehjälp",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 15,
+    "name": "Studiestöd"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Centrala studiestödsnämnden",
+     "amount_tkr": 4571331,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Studiehjälp m.m. (ram)",
+       "amount_tkr": 4336331
+      },
+      {
+       "ap": "2",
+       "name": "Kostnadsersättning till elever i gymnasial lärlingsutbildning och lärlingsliknande utbildning inom introduktionsprogram (ram)",
+       "amount_tkr": 235000
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Studiehjälp m.m.",
+     "text": "Anslagsposten får belastas med utgifter för studiehjälp i form av studiebidrag, extra tillägg och inackorderingstillägg enligt studiestödslagen (1999:1395). Vidare får anslagsposten belastas med utgifter för ersättning till svenska elever utomlands för vissa resor enligt förordningen (CSNFS 1983:17) om bidrag till utlandsstuderande för dagliga resor."
+    },
+    {
+     "ap": "2",
+     "name": "Kostnadsersättning till elever i gymnasial lärlingsutbildning och lärlingsliknande utbildning inom introduktionsprogram",
+     "text": "Anslagsposten får belastas med utgifter för kostnadsersättning till elever i gymnasial lärlingsutbildning och lärlingsliknande utbildning inom introduktionsprogram enligt förordningen (2013:1121) om kostnadsersättning till elever i gymnasial lärlingsutbildning och lärlingsliknande utbildning inom introduktionsprogram."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "1:2",
+   "name": "Studiemedel",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 15,
+    "name": "Studiestöd"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Centrala studiestödsnämnden",
+     "amount_tkr": 19788041,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Studiebidrag, generellt (ram)",
+       "amount_tkr": 14007680
+      },
+      {
+       "ap": "2",
+       "name": "Studiebidrag, prioriterat (ram)",
+       "amount_tkr": 1412786
+      },
+      {
+       "ap": "2.2",
+       "name": "Studiebidrag, saknar slutbetyg från grundskola eller 3-årig gymnasieutbildning (ram)",
+       "amount_tkr": 1071786
+      },
+      {
+       "ap": "2.3",
+       "name": "Studiebidrag, repetition eller komplettering (ram)",
+       "amount_tkr": 213000
+      },
+      {
+       "ap": "2.5",
+       "name": "Studiebidrag, komplettering grundskole- eller gymnasienivå 20–24 år (ram)",
+       "amount_tkr": 40000
+      },
+      {
+       "ap": "2.7",
+       "name": "Studiebidrag, vissa lärarstuderande (ram)",
+       "amount_tkr": 85000
+      },
+      {
+       "ap": "2.8",
+       "name": "Studiebidrag, komplettering grundskole- eller gymnasienivå introduktionsprogram 20–24 år (ram)",
+       "amount_tkr": 3000
+      },
+      {
+       "ap": "3",
+       "name": "Statlig ÅP-avgift för studiebidrag (ram)",
+       "amount_tkr": 3662575
+      },
+      {
+       "ap": "4",
+       "name": "Tilläggsbidrag (ram)",
+       "amount_tkr": 705000
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Studiebidrag, generellt",
+     "text": "Anslagsposten får belastas med utgifter för studiebidrag enligt studiestödslagen.\nAnslagsposten får även användas för utgifter för retroaktiva utbetalningar av vissa former av studiestöd som har upphört."
+    },
+    {
+     "ap": "2.2",
+     "name": "Studiebidrag, saknar slutbetyg från grundskola eller 3-årig gymnasieutbildning",
+     "text": "Anslagsposten får belastas med utgifter för studiebidrag enligt studiestödslagen till studerande som\n– vid grundskolestudier saknar slutbetyg eller motsvarande från grundskola eller motsvarande utbildning, eller\n– vid gymnasieutbildning saknar slutbetyg eller motsvarande från treårig gymnasieutbildning eller motsvarande utbildning."
+    },
+    {
+     "ap": "2.3",
+     "name": "Studiebidrag, repetition eller komplettering",
+     "text": "Anslagsposten får belastas med utgifter för studiebidrag enligt studiestödslagen till studerande som repeterar eller kompletterar ämnen på grundskolenivå."
+    },
+    {
+     "ap": "2.5",
+     "name": "Studiebidrag, komplettering grundskole- eller gymnasienivå 20–24 år",
+     "text": "Anslagsposten får belastas med utgifter för studiebidrag enligt studiestödslagen till vissa arbetslösa studerande i åldrarna 20–24 år, dock inte till dem som omfattas av ett utbildningskontrakt."
+    },
+    {
+     "ap": "2.7",
+     "name": "Studiebidrag, vissa lärarstuderande",
+     "text": "Anslagsposten får belastas med utgifter för studiebidrag enligt studiestödslagen till studerande på kompletterande pedagogisk utbildning som leder till ämneslärarexamen."
+    },
+    {
+     "ap": "2.8",
+     "name": "Studiebidrag, komplettering grundskole- eller gymnasienivå introduktionsprogram 20–24 år",
+     "text": "Anslagsposten får belastas med utgifter för studiebidrag enligt studiestödslagen till vissa studerande i åldrarna 20–24 år som läser vidare efter introduktionsprogram i gymnasieskolan."
+    },
+    {
+     "ap": "3",
+     "name": "Statlig ÅP-avgift för studiebidrag",
+     "text": "Tilldelade medel ska enligt förordningen (1998:1512) om statliga ålderspensionsavgifter m.m. betalas in till Pensionsmyndigheten.\nAvser preliminär statlig ålderspensionsavgift för 2026 om 4 078 560 000 kronor och ett regleringsbelopp för 2023 om -415 985 000 kronor."
+    },
+    {
+     "ap": "4",
+     "name": "Tilläggsbidrag",
+     "text": "Anslagsposten får belastas med utgifter för tilläggsbidrag enligt studiestödslagen."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "1:3",
+   "name": "Omställningsstudiestöd",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 15,
+    "name": "Studiestöd"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Centrala studiestödsnämnden",
+     "amount_tkr": 7339000,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Omställningsstudiebidrag offentliganställda (ram)",
+       "amount_tkr": 2200110
+      },
+      {
+       "ap": "2",
+       "name": "Omställningsstudiebidrag privatanställda (ram)",
+       "amount_tkr": 4466890
+      },
+      {
+       "ap": "3",
+       "name": "Statlig ÅP-avgift för omställningsstudiebidrag (ram)",
+       "amount_tkr": 672000
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Omställningsstudiebidrag offentliganställda",
+     "text": "Anslagsposten får belastas med utgifter för omställningsstudiebidrag enligt lagen (2022:856) om omställningsstudiestöd till studerande som förvärvsarbetar eller senast har förvärvsarbetat huvudsakligen i offentlig sektor.\nAv anslagsposten får högst 50 procent användas för studier som påbörjas under det första kalenderhalvåret 2026."
+    },
+    {
+     "ap": "2",
+     "name": "Omställningsstudiebidrag privatanställda",
+     "text": "Anslagsposten får belastas med utgifter för omställningsstudiebidrag enligt lagen om omställningsstudiestöd till studerande som förvärvsarbetar eller senast har förvärvsarbetat huvudsakligen i privat sektor.\nAv anslagsposten får högst 50 procent användas för studier som påbörjas under det första kalenderhalvåret 2026."
+    },
+    {
+     "ap": "3",
+     "name": "Statlig ÅP-avgift för omställningsstudiebidrag",
+     "text": "Tilldelade medel ska enligt förordningen om statliga ålderspensionsavgifter m.m. betalas in till Pensionsmyndigheten.\nAvser preliminär statlig ålderspensionsavgift för 2026 om 672 000 000 kronor och ett regleringsbelopp för 2023 om 0 kronor."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "1:4",
+   "name": "Statens utgifter för räntor på studielån",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 15,
+    "name": "Studiestöd"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Centrala studiestödsnämnden",
+     "amount_tkr": 2816050,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Statens utgifter för räntor på studielån (ram)",
+       "amount_tkr": 2805050
+      },
+      {
+       "ap": "2",
+       "name": "Statens utgifter för räntor på återkrav (ram)",
+       "amount_tkr": 11000
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Statens utgifter för räntor på studielån",
+     "text": "Anslagsposten får belastas med statens utgifter när det gäller nedsättning av räntor på studielån upplånade efter 1988 enligt studiestödslagen (1973:349), studiestödslagen (1999:1395) och lagen (1983:1030) om särskilt vuxenstudiestöd för arbetslösa samt för avgifter till Riksgäldskontoret."
+    },
+    {
+     "ap": "2",
+     "name": "Statens utgifter för räntor på återkrav",
+     "text": "Anslagsposten får belastas med statens ränteutgifter på lån för återkrav av studiemedel."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "1:5",
+   "name": "Bidrag till kostnader vid viss gymnasieutbildning och vid viss föräldrautbildning i teckenspråk",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 15,
+    "name": "Studiestöd"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Centrala studiestödsnämnden",
+     "amount_tkr": 47146,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Särskilda insatser för döva och hörselskadade elever och elever vid Rh-anpassad utbildning (ram)",
+       "amount_tkr": 47146
+      }
+     ],
+     "sum_ok": true
+    },
+    {
+     "by": "Specialpedagogiska skolmyndigheten",
+     "amount_tkr": 16004,
+     "items": [
+      {
+       "ap": "4",
+       "name": "Bidrag till kostnader vid viss föräldrautbildning i teckenspråk (ram)",
+       "amount_tkr": 15916
+      },
+      {
+       "ap": "4.1",
+       "name": "Statsbidrag till utbildning (ram)",
+       "amount_tkr": 14916
+      },
+      {
+       "ap": "4.2",
+       "name": "Bidrag till kursdeltagare (ram)",
+       "amount_tkr": 1000
+      },
+      {
+       "ap": "5",
+       "name": "Statlig ÅP-avgift för bidrag till kursdeltagare (ram)",
+       "amount_tkr": 88
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Särskilda insatser för döva och hörselskadade elever och elever vid Rh-anpassad utbildning",
+     "text": "Anslagsposten får belastas med utgifter enligt förordningen (1995:667) om bidrag till vissa funktionshindrade elever i gymnasieskolan."
+    },
+    {
+     "ap": "4.1",
+     "name": "Statsbidrag till utbildning",
+     "text": "Anslagsposten får belastas med utgifter för statsbidrag till anordnare av teckenspråksutbildning för föräldrar till barn som för kommunikation är beroende av teckenspråk enligt förordningen (1997:1158) om statsbidrag för teckenspråksutbildning för vissa föräldrar."
+    },
+    {
+     "ap": "4.2",
+     "name": "Bidrag till kursdeltagare",
+     "text": "Anslagsposten får belastas med utgifter för bidrag till kursdeltagare\\\ni teckenspråksutbildning för föräldrar till barn som för kommunikation är beroende av teckenspråk enligt förordningen om statsbidrag för teckenspråksutbildning för vissa föräldrar."
+    },
+    {
+     "ap": "5",
+     "name": "Statlig ÅP-avgift för bidrag till kursdeltagare",
+     "text": "Tilldelade medel ska enligt förordningen om statliga ålderspensionsavgifter m.m. inbetalas till Pensionsmyndigheten.\nAvser preliminär statlig ålderspensionsavgift för 2026 om 88 000 kronor och ett regleringsbelopp för 2023 om 0 kronor."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "1:7",
+   "name": "Centrala studiestödsnämnden",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 15,
+    "name": "Studiestöd"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Centrala studiestödsnämnden",
+     "amount_tkr": 1163526,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Centrala studiestödsnämnden förvaltningskostnader m.m. (ram)",
+       "amount_tkr": 1163526
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Centrala studiestödsnämnden förvaltningskostnader m.m.",
+     "text": "Anslagsposten får belastas med utgifter för verksamhet enligt förordningen (2017:1114) med instruktion för Centrala studiestödsnämnden."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "1:1 Studiehjälp",
+   "ap": "ap.1",
+   "Anslagskredit": 217138,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:1 Studiehjälp",
+   "ap": "ap.2",
+   "Anslagskredit": 11428,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:2 Studiemedel",
+   "ap": "ap.1",
+   "Anslagskredit": 699784,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:2 Studiemedel",
+   "ap": "ap.2.2",
+   "Anslagskredit": 53589,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:2 Studiemedel",
+   "ap": "ap.2.3",
+   "Anslagskredit": 10650,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:2 Studiemedel",
+   "ap": "ap.2.5",
+   "Anslagskredit": 2600,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:2 Studiemedel",
+   "ap": "ap.2.7",
+   "Anslagskredit": 4250,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:2 Studiemedel",
+   "ap": "ap.2.8",
+   "Anslagskredit": 150,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:2 Studiemedel",
+   "ap": "ap.3",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:2 Studiemedel",
+   "ap": "ap.4",
+   "Anslagskredit": 35250,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:3 Omställningsstudiestöd",
+   "ap": "ap.1",
+   "Anslagskredit": 110005,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:3 Omställningsstudiestöd",
+   "ap": "ap.2",
+   "Anslagskredit": 223344,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:3 Omställningsstudiestöd",
+   "ap": "ap.3",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:4 Statens utgifter för räntor på studielån",
+   "ap": "ap.1",
+   "Anslagskredit": 140252,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:4 Statens utgifter för räntor på studielån",
+   "ap": "ap.2",
+   "Anslagskredit": 550,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:5 Bidrag till kostnader vid viss gymnasieutbildning och vid viss föräldrautbildning i teckenspråk",
+   "ap": "ap.1",
+   "Anslagskredit": 2357,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:5 Bidrag till kostnader vid viss gymnasieutbildning och vid viss föräldrautbildning i teckenspråk",
+   "ap": "ap.4.1",
+   "Anslagskredit": 745,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:5 Bidrag till kostnader vid viss gymnasieutbildning och vid viss föräldrautbildning i teckenspråk",
+   "ap": "ap.4.2",
+   "Anslagskredit": 50,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:5 Bidrag till kostnader vid viss gymnasieutbildning och vid viss föräldrautbildning i teckenspråk",
+   "ap": "ap.5",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:7 Centrala studiestödsnämnden",
+   "ap": "ap.1",
+   "Anslagskredit": 34905,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 600000,
+  "Räntekontokredit": 75000,
+  "- Studielån": 325500000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 96961
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 96961
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 96961
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 96961
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 96961
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 96961
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 96961
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 96961
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 96961
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 96961
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 96961
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 96955
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:1 Studiehjälp",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "217 138",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.2",
+     "11 428",
+     "Inget",
+     "0"
+    ],
+    [
+     "1:2 Studiemedel",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "699 784",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.2.2",
+     "53 589",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.2.3",
+     "10 650",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.2.5",
+     "2 600",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.2.7",
+     "4 250",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.2.8",
+     "150",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.3",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.4",
+     "35 250",
+     "Inget",
+     "0"
+    ],
+    [
+     "1:3 Omställningsstudiestöd",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "110 005",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.2",
+     "223 344",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.3",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "1:4 Statens utgifter för räntor på studielån",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "140 252",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.2",
+     "550",
+     "Inget",
+     "0"
+    ],
+    [
+     "1:5 Bidrag till kostnader vid viss gymnasieutbildning och vid viss föräldrautbildning i teckenspråk",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "2 357",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.4.1",
+     "745",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.4.2",
+     "50",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.5",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "1:7 Centrala studiestödsnämnden",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "34 905",
+     "3 %",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar, krediter och utlåning",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "600 000"
+    ],
+    [
+     "Räntekontokredit",
+     "75 000"
+    ],
+    [
+     "Utlåning"
+    ],
+    [
+     "- Studielån",
+     "325 500 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "96 961"
+    ],
+    [
+     "2026-02-25",
+     "96 961"
+    ],
+    [
+     "2026-03-25",
+     "96 961"
+    ],
+    [
+     "2026-04-25",
+     "96 961"
+    ],
+    [
+     "2026-05-25",
+     "96 961"
+    ],
+    [
+     "2026-06-25",
+     "96 961"
+    ],
+    [
+     "2026-07-25",
+     "96 961"
+    ],
+    [
+     "2026-08-25",
+     "96 961"
+    ],
+    [
+     "2026-09-25",
+     "96 961"
+    ],
+    [
+     "2026-10-25",
+     "96 961"
+    ],
+    [
+     "2026-11-25",
+     "96 961"
+    ],
+    [
+     "2026-12-25",
+     "96 955"
+    ],
+    [
+     "Summa",
+     "1 163 526"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "1:7 ap.1",
+     "Centrala studiestödsnämnden förvaltningskostnader m.m."
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [],
+ "has_fee_section": true,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 5,
+  "n_org": 0,
+  "n_assignments": 5,
+  "n_deadlines": 4,
+  "deadlines": [
+   "2026-04-01",
+   "2026-04-15",
+   "2026-09-01",
+   "2026-10-15"
+  ],
+  "partners": [
+   "Försäkringskassan",
+   "Myndigheten för digital förvaltning"
+  ],
+  "n_appropriations": 6,
+  "appropriations_total_tkr": 35741098,
+  "payment_plan_total_tkr": 1163526,
+  "md_chars": 18112
+ },
+ "layout": "standard",
+ "warnings": []
+}

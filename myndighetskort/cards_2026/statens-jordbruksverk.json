@@ -1,0 +1,2692 @@
+{
+ "schema_version": 1,
+ "id": 27571,
+ "original_rbid": 25774,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-10-22",
+ "year": "2026",
+ "name": "Statens jordbruksverk",
+ "slug": "statens-jordbruksverk",
+ "department": "Landsbygds- och infrastrukturdepartementet",
+ "expenditure_areas": [
+  23
+ ],
+ "registry_numbers": [
+  "LI2026/01693 (delvis)",
+  "LI2026/01833"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1",
+   "2025/26:275",
+   "2025/26:99"
+  ],
+  "bet": [
+   "2025/26:FiU21",
+   "2025/26:FiU47",
+   "2025/26:MJU2"
+  ],
+  "rskr": [
+   "2025/26:116",
+   "2025/26:353",
+   "2025/26:428"
+  ]
+ },
+ "n_attachments_stated": 1,
+ "mission": "",
+ "goals": [
+  {
+   "title": "Tekniskt stöd",
+   "group": [],
+   "text": "Jordbruksverket ska lämna en redovisning av användningen av TA-medel (Tekniskt stöd) från Europeiska jordbruksfonden för landsbygdsutveckling och Europeiska havs-, fiskeri- och vattenbruksfonden.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27571:goals:0"
+  },
+  {
+   "title": "Kompetensutveckling inom miljöområdet",
+   "group": [],
+   "text": "Jordbruksverket ska redovisa vilken verksamhet som har bedrivits och hur medel har fördelats inom myndighetens arbete med att stödja rådgivare och lantbrukare inom Greppa Näringen, Växtskyddscentralerna, Ett rikt odlingslandskap, ekologisk produktion, vattenhushållning, energi och klimat och grundvillkor, och där arbetet tidigare har finansierats från EU:s gemensamma jordbrukspolitik (GJP).",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "fördela_medel",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27571:goals:1"
+  },
+  {
+   "title": "Främjande av vattenbruk",
+   "group": [],
+   "text": "Jordbruksverket ska redovisa myndighetens arbete med främjandet av vattenbruk. Av redovisningen ska det framgå vilka åtgärder som myndigheten har genomfört eller planerar att genomföra i syfte att utveckla en digital kontaktpunkt för vägledning och information om vattenbruk samt utbildning för kommuner och myndigheter.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla",
+    "informera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27571:goals:2"
+  },
+  {
+   "title": "Den nationella läkemedelsstrategin",
+   "group": [],
+   "text": "Jordbruksverket ska redogöra för hur myndigheten har arbetat för att bidra till för myndigheten relevanta fokusområden i den nationella läkemedelsstrategin (S2024/00190).",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27571:goals:3"
+  },
+  {
+   "title": "Färdval och resepolicy vid tjänsteresor",
+   "group": [],
+   "text": "Alla trafikslag ska kunna nyttjas (väg, järnväg, luft- och sjöfart) för att säkerställa effektiva och ändamålsenliga transporter. Jordbruksverket ska därför redovisa hur myndigheten har säkerställt att val av färdsätt vid tjänsteresor sker färdmedelsneutralt och utifrån behov. Vidare ska Jordbruksverket redovisa huruvida myndigheten köpt in hållbart flygbränsle till organisationens flygresor. När kostnader jämförs för olika färdval ska hela resans kostnad beaktas, exempelvis kostnader för nödvändig övernattning samt total arbetstid för hela resan.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27571:goals:4"
+  },
+  {
+   "title": "Arbete med EU:s kvalitetssystem för skyddade beteckningar",
+   "group": [],
+   "text": "Jordbruksverket ska redovisa hur och med vilka resultat myndigheten under 2026 har arbetat med att stärka utvecklingen av EU:s kvalitetssystem för skyddade beteckningar i Sverige, genom till exempel användning, kompetensutveckling eller marknadsföring. Redovisningen ska även beskriva hur samverkan med Livsmedelsverket och andra relevanta aktörer skett.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Livsmedelsverket"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27571:goals:5"
+  },
+  {
+   "title": "Kompetenscentrum för 3R-frågor",
+   "group": [],
+   "text": "Jordbruksverket ska redovisa hur myndigheten främjar och samordnar arbetet med att ersätta, begränsa och förfina djurförsök inom ramen för 3R-centrets verksamhet.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27571:goals:6"
+  },
+  {
+   "title": "Återanvändning av näringsämnen för minskad övergödning",
+   "group": [],
+   "text": "Jordbruksverket ska redovisa vilka insatser myndigheten har gjort inom den regionala strategin för återvinning av näringsämnen i Östersjöområdet och aktionsplanen för Östersjön med syfte att öka återföringen av näringsämnen och minska övergödningen.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27571:goals:7"
+  }
+ ],
+ "org": [
+  {
+   "title": "Säkerställa proaktivitet och handlingskraft vid fredstida krissituationer eller vid krig och krigsfara",
+   "group": [],
+   "text": "Jordbruksverket ska säkerställa att myndigheten har förmåga att agera proaktivt och handlingskraftigt i hanteringen av såväl fredstida krissituationer som vid krig och krigsfara. Utöver de krav som ställs i förordningen (2022:524) om statliga myndigheters beredskap ska Jordbruksverket i detta syfte utbilda och öva sin personal samt se till att myndigheten stärker en kultur och arbetssätt som utgår från de krav som ett krig ställer.\n\nJordbruksverket ska senast den 22 februari 2027 redovisa vidtagna åtgärder och resultatet av dessa till Regeringskansliet (Landsbygds- och infrastrukturdepartementet och Försvarsdepartementet). Denna redovisning ska ingå i den särskilda redovisningen för civilt försvar.",
+   "dates": [
+    "2027-02-22"
+   ],
+   "deadlines": [
+    "2027-02-22"
+   ],
+   "recipients": [
+    "Regeringskansliet (Landsbygds- och infrastrukturdepartementet och Försvarsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2022:524"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "org",
+   "item_id": "27571:org:0"
+  }
+ ],
+ "assignments": [
+  {
+   "title": "Pågående uppdrag",
+   "group": [],
+   "text": "I*bilaga 2*redovisas Jordbruksverkets pågående uppdrag. För regeringsuppdrag som lämnats i ett särskilt regeringsbeslut utgör uppräkningen i bilagan endast en upplysning om vilka uppdrag som vid årets början var riktade till myndigheten och vilka tider som då gällde för återrapportering eller liknande.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "27571:assignments:0"
+  },
+  {
+   "title": "Prognoser",
+   "group": [],
+   "text": "Jordbruksverket ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten.\n\nDärutöver ska prognoser lämnas på anslagspostnivå. Prognoskommentarerna och tillhörande tabeller ska vara stegvisa och innehålla en beskrivning av vilka faktorer som påverkat prognosrevideringen. Jordbruksverket ska även redovisa vilken metod som använts för framtagande av prognos. Vid eventuella förändringar av metoden ska detta redovisas vid kommande prognostillfällen. Vid framtagande av prognos för anslag 1:10\\*Gårdsstöd m.m.\\*ska Jordbruksverket använda den valutakurs som Regeringskansliet tillhandahåller. Prognoserna ska lämnas i informationssystemet Hermes senast den\n\n– 2 februari,\n\n– 22 april,\n\n– 24 juli, och\n\n– 9 november.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [
+    "1:10"
+   ],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27571:assignments:1"
+  },
+  {
+   "title": "Prognos för beställningsbemyndiganden",
+   "group": [],
+   "text": "Myndigheten ska redovisa en prognos för de förslag om beställningsbemyndiganden som lämnats i budgetunderlaget och för de åtaganden som ingåtts med stöd av äldre beställningsbemyndiganden. Prognosen ska lämnas senast 24 juli 2026 i informationssystemet Hermes och utformas enligt närmare information från Statskontoret.",
+   "dates": [
+    "2026-07-24"
+   ],
+   "deadlines": [
+    "2026-07-24"
+   ],
+   "forecast_dates": [],
+   "recipients": [],
+   "partners": [
+    "Statskontoret"
+   ],
+   "channels": [
+    "hermes",
+    "budgetunderlag"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27571:assignments:2"
+  },
+  {
+   "title": "EU:s gemensamma jordbruks- och fiskeripolitik",
+   "group": [],
+   "text": "Jordbruksverket ska löpande och vid behov bistå regeringen i arbetet med EU:s gemensamma jordbruks- och fiskeripolitik. Jordbruksverket ska bland annat lämna förslag till utveckling av både EU:s gemensamma jordbrukspolitik (GJP) och, havs-, fiskeri- och vattenbruksprogrammet under innevarande planperiod samt, med utgångspunkt i Sveriges preliminära svenska ståndpunkter inför GJP i respektive den europeiska havs-, fiskeri- och vattenbruksfonden (EHFVF) efter 2027, i förberedelserna inför nästa budgetperiod med sikte på startåret 2028.\n\nJordbruksverket ska när uppdraget utförs ha högre måluppfyllelse, effektivare administration, laglighet och korrekthet i förvaltningen samt förenkling för stödmottagare samt långsiktig planering som ytterligare utgångspunkter för arbetet.\n\nI det nationella genomförandet av GJP ska Jordbruksverket prioritera att underlätta för stödmottagarna genom kortare handläggningstider, förbättrad kommunicering, att fortsätta utveckla möjligheter till förifylld ansökan och tillämpa fler ändringsmöjligheter dels vid avvikelser.\n\nJordbruksverket ska löpande informera Regeringskansliet (Landsbygds- och infrastrukturdepartementet) om hur arbetet med uppdraget fortskrider.\n\nInom ramen för det löpande uppdraget ska Jordbruksverket, med sikte på införande 2027, ta fram ett förslag till djurvälfärdsersättning för dikoproduktion, tillsammans med förslag till budgetomfördelning inom den strategiska planen för att finansiera den nya ersättningen.\n\nJordbruksverket ska senast den 1 mars 2026 lämna en redovisning av förslagen avseende djurvälfärdsersättning för dikoproduktion och budgetomfördelning till Regeringskansliet (Landsbygds- och infrastrukturdepartementet).",
+   "dates": [
+    "2026-03-01"
+   ],
+   "deadlines": [
+    "2026-03-01"
+   ],
+   "recipients": [
+    "Regeringskansliet (Landsbygds- och infrastrukturdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "föreslå",
+    "samordna",
+    "utveckla",
+    "informera",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27571:assignments:3"
+  },
+  {
+   "title": "Hantering av EU-stöd",
+   "group": [],
+   "text": "Jordbruksverket ska inom arbetet med den strategiska planen för den gemensamma jordbrukspolitiken för ett relevant urval av åtgärder redovisa:\n\n- beräknad eller faktisk måluppfyllelse ,\n- uppföljning av ansöknings- och utbetalningsläget på Jordbruksverket och samtliga delegerade organ,\n- aktuella och genomsnittliga handläggningstider för Jordbruksverket och samtliga delegerade organ,\n- riskanalyser som görs enligt ackrediteringskriterium 1 C i bilaga I till kommissionens delegerade förordning (EU) 2022/127 av den\\\n  7 december 2021 om komplettering av Europaparlamentets och rådets förordning (EU) 2021/2116 med bestämmelser om utbetalande organ och andra organ, ekonomisk förvaltning, avslutande av räkenskaper, säkerheter och användning av euron, och\n- en sammanställning och analys av nyheter om rekommendationer och/eller finansiella korrigeringar till följd av aktuella revisioner från EU-kommissionen, Europeiska revisionsrätten, Statskontoret och Jordbruksverkets internrevision, inklusive planerade åtgärder för att åtgärda och omhänderta rekommendationerna och minska de finansiella korrigeringarna.\n\nJordbruksverket ska i samband med avstämningar den 4 mars, den 12 juni och den 4 december lämna en redovisning av punkterna ovan, till Regeringskansliet (Landsbygd- och infrastrukturdepartementet). De riskariskanalyser som görs enligt ackrediteringskriterium 1 C i bilaga I till kommissionens delegerade förordning (EU) 2022/127 ska Jordbruksverket dock redovisa tertialvis till Regeringskansliet (Landsbygd- och infrastrukturdepartementet.\n\nJordbruksverket ska senast den 30 september 2026 lämna en redovisning om stöden för kompetensutveckling och samarbete till Regeringskansliet (Landsbygds- och infrastrukturdepartementet). Redovisningen ska omfatta planerade, pågående och avslutade projekt med tillhörande budget uppdelade på utlysning, upphandling och projekt i egen regi hos Jordbruksverket och nationella delegerade organ. I den redovisningen ska det även ingå en bedömning av hur mycket medel som myndigheterna använder för administration av respektive ärende samt hur stor andel av dessa medel som är projektmedel. I syfte att sätta dessa siffror i perspektiv ska Jordbruksverket också ge en bild av hur motsvarande kostnader ser ut för privata rådgivningsföretag.\n\nJordbruksverket ska inom arbetet med havs-, fiskeri- och vattenbruksprogrammet redovisa följande:\n\n- Aktuella och genomsnittliga handläggningstider för Jordbruksverket och samtliga delegerade organ.\n- Länsstyrelsernas kostnader för föregående års hantering av EU-stöden för havs-, fiskeri – och vattenbruksprogrammet och antalet årsarbetskrafter som är sysselsatta med hanteringen av stöden.\n\nRedovisningen av punkten om handläggningstider ska ske i samband med Jordbruksverkets redovisningar enligt ovan samt i samband med avstämningar den 4 mars, den 12 juni och den 4 december till Regeringskansliet (Landsbygds- och infrastrukturdepartementet).\n\nRedovisningen av punkten om länsstyrelsernas kostnader ska innehålla en analys av eventuella kostnadsförändringar och ska lämnas senast den 31 mars till Regeringskansliet (Landsbygds- och infrastrukturdepartementet).",
+   "dates": [
+    "2021-12-07",
+    "2026-09-30"
+   ],
+   "deadlines": [
+    "2026-09-30"
+   ],
+   "recipients": [
+    "Regeringskansliet",
+    "Regeringskansliet (Landsbygd- och infrastrukturdepartementet)",
+    "Regeringskansliet (Landsbygds- och infrastrukturdepartementet)"
+   ],
+   "partners": [
+    "Länsstyrelserna",
+    "Statskontoret",
+    "länsstyrelserna"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "fördela_medel",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "beräknad eller faktisk måluppfyllelse ,",
+    "uppföljning av ansöknings- och utbetalningsläget på Jordbruksverket och samtliga delegerade organ,",
+    "aktuella och genomsnittliga handläggningstider för Jordbruksverket och samtliga delegerade organ,",
+    "riskanalyser som görs enligt ackrediteringskriterium 1 C i bilaga I till kommissionens delegerade förordning (EU) 2022/127 av den\\",
+    "en sammanställning och analys av nyheter om rekommendationer och/eller finansiella korrigeringar till följd av aktuella revisioner från EU-kommissionen, Europeiska revisionsrätten, Statskontoret och Jordbruksverkets internrevision, inklusive planerade åtgärder för att åtgärda och omhänderta rekommendationerna och minska de finansiella korrigeringarna.",
+    "Aktuella och genomsnittliga handläggningstider för Jordbruksverket och samtliga delegerade organ.",
+    "Länsstyrelsernas kostnader för föregående års hantering av EU-stöden för havs-, fiskeri – och vattenbruksprogrammet och antalet årsarbetskrafter som är sysselsatta med hanteringen av stöden."
+   ],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27571:assignments:4"
+  },
+  {
+   "title": "Förbättrad övervakning av jordbruksmark",
+   "group": [],
+   "text": "Jordbruksverket ska utveckla övervakningsprogrammet av åkermarkens biologiska mångfald (LI2025/01675) för att säkerställa att det föreslagna programmet ”Biologisk mångfald i åkermark” i största möjliga utsträckning kan bidra till Sveriges implementering av relevanta delar av Europaparlamentets och rådets direktiv (EU) 2025/2360 av den\\\n12 november 2025 om markövervakning och markresiliens (lag om markövervakning) på en miniminivå. Vidare ska myndigheten förbereda för provtagning och analyser i enlighet med fastställd tidplan i Europaparlamentets och rådets direktiv (EU) 2025/2360 samt utveckla datavärdskap för övervakningsprogrammet.\n\nJordbruksverket ska senast den 30 april 2026 lämna en delredovisning med beskrivning av hur direktivet (EU) 2025/2360 kommer beaktas i övervakningsprogrammet och den 9 oktober 2026 lämna en slutredovisning av uppdraget till Regeringskansliet (Landsbygds- och infrastrukturdepartementet).",
+   "dates": [
+    "2025-11-12",
+    "2026-04-30",
+    "2026-10-09"
+   ],
+   "deadlines": [
+    "2026-04-30"
+   ],
+   "recipients": [
+    "Regeringskansliet (Landsbygds- och infrastrukturdepartementet)"
+   ],
+   "partners": [],
+   "channels": [
+    "delredovisning",
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27571:assignments:5"
+  },
+  {
+   "title": "Dokumentationskrav för användning av växtskyddsmedel",
+   "group": [],
+   "text": "Jordbruksverket ska implementera kraven på registerhållning enligt artikel 67.1 i Europaparlamentets och rådets förordning (EG) nr 1107/2009 av den 21 oktober 2009 om utsläppande av växtskyddsmedel på marknaden och om upphävande av rådets direktiv 79/117/EEG och 91/414/EEG och kommissionens genomförandeförordning (EU) 2023/564 av den 10 mars 2023 vad gäller innehållet i och formatet för de register över växtskyddsmedel som yrkesmässiga användare ska föra i enlighet med Europaparlamentets och rådets förordning (EG) nr 1107/2009. Jordbruksverket ska när uppdraget utförs prioritera att det blir enkelt för användare att uppfylla kraven. Jordbruksverket ska vidare när uppdraget utförs prioritera kostnadseffektiva lösningar. Jordbruksverket ska utföra uppdraget i nära samarbete med Kemikalieinspektionen och andra berörda myndigheter. Resultatet av uppdraget ska kunna användas i Kemikalieinspektionens genomförande av EU:s nya krav på nationell statistikinsamling från och med 2028 i enlighet med Europaparlamentets och rådets förordning (EU) 2022/2379 av den 23 november 2022 om statistik över insatsvaror och produktion i jordbruket, om ändring av kommissionens förordning (EG) nr 617/2008 och om upphävande av Europaparlamentets och rådets förordningar (EG) nr 1165/2008, (EG) nr 543/2009 och (EG) nr 1185/2009 samt rådets direktiv 96/16/EG.\n\nJordbruksverket ska när uppdraget utförs inhämta synpunkter från berörda intressenter. Jordbruksverket ska senast den 1 mars 2027 lämna en redovisning av uppdraget till Regeringskansliet (Landsbygds- och infrastrukturdepartementet).",
+   "dates": [
+    "2009-10-21",
+    "2022-11-23",
+    "2023-03-10",
+    "2027-03-01"
+   ],
+   "deadlines": [
+    "2027-03-01"
+   ],
+   "recipients": [
+    "Regeringskansliet (Landsbygds- och infrastrukturdepartementet)"
+   ],
+   "partners": [
+    "Kemikalieinspektionen"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "utveckla",
+    "tillsyn_kontroll",
+    "statistik_data",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27571:assignments:6"
+  },
+  {
+   "title": "Uppbyggnad av livsmedelsberedskapen och dricksvattenförsörjningen",
+   "group": [],
+   "text": "Jordbruksverkets arbete med civilt försvar ska syfta till att utveckla och stärka det civila försvaret och därmed bidra till en högre samlad förmåga inom totalförsvaret.\n\n*Investeringsprogram*\\\nJordbruksverket ska bidra till Livsmedelsverkets arbete med att utveckla investeringsprogram för förmågeutveckling inom beredskapssektorn livsmedelsförsörjning och dricksvatten. Jordbruksverket ska i arbetet med investeringsprogram bl.a. förvalta och utveckla det rådgivningskoncept och investeringsstöd som tagits fram för att stärka beredskapen för primärproduktion av livsmedel, inom både lantbruks- och fiskenäringarna. Jordbruksverket ska även analysera behov av nya insatser, bl.a. när det gäller främjande av inhemsk produktion av insatsvaror till primärproduktionen.\n\n*Beredskapslagring*\\\nJordbruksverket ska tillsammans med Livsmedelsverket och Statens veterinärmedicinska anstalt etablera beredskapslager av varor i livsmedelskedjan. Myndigheterna ska vid behov föra en dialog med Läkemedelsverket, den blivande Myndigheten för civilt försvar och Försvarsmakten. Jordbruksverket ska särskilt ansvara för etablering av beredskapslager för spannmål och insatsvaror i primärproduktionen. När Jordbruksverket för statens räkning upphandlar spannmål och lagerhållning av spannmål ska Jordbruksverket, för att skydda statens rätt, bl.a. säkerställa att de lagerhållna varorna ägs av staten, att lagerhållaren kontinuerligt lämnar nödvändiga uppgifter om lagerhållningen till Jordbruksverket, att lagerhållna varor så långt som det är möjligt skyddas mot lagerhållarens borgenärer, och att uppgifter om lagerhållningen och därmed förknippade verksamheter inte obehörigen röjs.\n\nLivsmedelsverket ska senast den 22 februari 2027 lämna sin, Jordbruksverkets och Statens veterinärmedicinska anstalts gemensamma redovisning av arbetet till Regeringskansliet (Landsbygds- och infrastrukturdepartementet).",
+   "dates": [
+    "2027-02-22"
+   ],
+   "deadlines": [
+    "2027-02-22"
+   ],
+   "recipients": [
+    "Livsmedelsverket",
+    "Regeringskansliet (Landsbygds- och infrastrukturdepartementet)"
+   ],
+   "partners": [
+    "Försvarsmakten",
+    "Livsmedelsverket",
+    "Läkemedelsverket",
+    "Myndigheten för civilt försvar",
+    "Statens veterinärmedicinska anstalt"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27571:assignments:7"
+  },
+  {
+   "title": "Avtal för stärkt försörjningsberedskap",
+   "group": [],
+   "text": "Jordbruksverket ska identifiera eventuella behov av avtal som syftar till att upprätthålla försörjningen av varor och tjänster som är nödvändiga för beredskapssektorn livsmedelsförsörjning och dricksvatten vid fredstida kriser och höjd beredskap. Detta ska inkludera eventuella behov av särskilda avtalsformer i form av sådana försörjningsberedskapsavtal (F-avtal) som beskrivs i betänkandet Nya samverkansformer, modern byggnads- och reparationsberedskap – för ökad försörjningsberedskap (SOU 2025:68). Jordbruksverket ska senast den 22 februari 2027 lämna en redovisning av uppdraget till Regeringskansliet (Landsbygds- och infrastrukturdepartementet och Försvarsdepartementet). Denna redovisning ska ingå i den särskilda redovisningen för civilt försvar. Som stöd för arbetet kan myndigheten använda bland annat rapporten Utgångspunkter för totalförsvaret 2025–2030 (FM2025-19772:2, MSB 2025-08877).",
+   "dates": [
+    "2027-02-22"
+   ],
+   "deadlines": [
+    "2027-02-22"
+   ],
+   "recipients": [
+    "Regeringskansliet (Landsbygds- och infrastrukturdepartementet och Försvarsdepartementet)"
+   ],
+   "partners": [
+    "Myndigheten för samhällsskydd och beredskap"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27571:assignments:8"
+  },
+  {
+   "title": "Öka förmågan att använda AI och ny teknik genom datadrivet arbete",
+   "group": [],
+   "text": "Jordbruksverket ska redovisa i vilken utsträckning myndigheten arbetar datadrivet, vilka åtgärder de vidtagit för att förbättra sin förmåga att arbeta datadrivet, samt en bedömning av vilka resultat åtgärderna har lett till. Jordbruksverket ska även redovisa på vilket sätt arbetet med data och artificiell intelligens, AI, har bidragit till att utveckla verksamheten och höja kvaliteten i utförandet av myndighetens uppgifter. Av redovisningen ska framgå hur Jordbruksverket beaktar risker och arbetar för att användning av data och AI sker på ett etiskt och säkert och sätt. Eventuella hinder och framgångsfaktorer för datadrivet arbete och användande av AI ska redovisas.\n\nJordbruksverket ska senast den 15 maj 2026 lämna en redovisning av uppdraget till Regeringskansliet (Landsbygds- och infrastrukturdepartementet med kopia till Finansdepartementet).",
+   "dates": [
+    "2026-05-15"
+   ],
+   "deadlines": [
+    "2026-05-15"
+   ],
+   "recipients": [
+    "Regeringskansliet (Landsbygds- och infrastrukturdepartementet med kopia till Finansdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla",
+    "statistik_data",
+    "digitalisering_ai"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27571:assignments:9"
+  },
+  {
+   "title": "Förenkling av regelverk vad avser villkorad läkemedelsanvändning",
+   "group": [],
+   "text": "Jordbruksverket ska utreda förutsättningarna för att förenkla regelverket vad gäller villkorad läkemedelsanvändning. Redovisningen ska innehålla en konsekvensbeskrivning som beskriver effekten på djurhälsa, djurvälfärd och förutsättningarna för jordbruksföretagen.\n\nJordbruksverket ska inom ramen för uppdraget föra dialog med Läkemedelsverket.\n\nJordbruksverket ska senast den 1 oktober 2026 lämna en redovisning av uppdraget till Regeringskansliet (Landsbygds- och infrastrukturdepartementet).",
+   "dates": [
+    "2026-10-01"
+   ],
+   "deadlines": [
+    "2026-10-01"
+   ],
+   "recipients": [
+    "Regeringskansliet (Landsbygds- och infrastrukturdepartementet)"
+   ],
+   "partners": [
+    "Läkemedelsverket"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27571:assignments:10"
+  },
+  {
+   "title": "Effekter av viltskador",
+   "group": [],
+   "text": "Jordbruksverket ska utreda vilka effekter viltskadorna och viltstammarnas storlek har för jordbruksföretagens verksamhet och för lönsamheten i primärproduktionen. Jordbruksverket ska när uppdraget utförs inhämta synpunkter från Naturvårdsverket och berörda lantbruks- och markägarorganisationer.\n\nJordbruksverket ska senast den 30 november 2026 lämna en redovisning av uppdraget till Regeringskansliet (Landsbygds- och infrastrukturdepartementet).",
+   "dates": [
+    "2026-11-30"
+   ],
+   "deadlines": [
+    "2026-11-30"
+   ],
+   "recipients": [
+    "Regeringskansliet (Landsbygds- och infrastrukturdepartementet)"
+   ],
+   "partners": [
+    "Naturvårdsverket"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27571:assignments:11"
+  },
+  {
+   "title": "Avgiftsbemyndiganden inom området djurhälsa",
+   "group": [],
+   "text": "Jordbruksverket ska analysera myndighetens nuvarande avgiftsbemyndiganden inom området djurhälsa och hur dessa kopplar till resultatområde Djur i myndighetens regleringsbrev. Jordbruksverket ska också bedöma vilka uppgifter inom offentlig kontroll och annan offentlig verksamhet på djurhälsoområdet som bör finansieras med avgifter respektive anslag och vilka avgiftsbemyndiganden som behövs för att ta ut avgift för de uppgifter som bör avgiftsfinansieras. Analysen ska även innefatta förslagen i betänkandet En samlad djurhälsoreglering (SOU 2020:62) och hur dessa förhåller sig till Jordbruksverkets nuvarande avgiftsbemyndiganden. Jordbruksverket ska också redovisa vilka perspektiv som ligger till grund för bedömningarna och vilka konsekvenser förslagen har för statens budget. Jordbruksverket ska lämna förslag på nödvändiga författningsändringar och ändringar i myndighetens regleringsbrev. Analysen ska även omfatta en beskrivning och, om möjligt, en beräkning av förslagens ekonomiska konsekvenser för myndigheten. Jordbruksverket ska senast den 30 juni 2027 lämna en redovisning av uppdraget till Regeringskansliet (Landsbygds- och infrastrukturdepartementet).",
+   "dates": [
+    "2027-06-30"
+   ],
+   "deadlines": [
+    "2027-06-30"
+   ],
+   "recipients": [
+    "Regeringskansliet (Landsbygds- och infrastrukturdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "föreslå",
+    "tillsyn_kontroll"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27571:assignments:12"
+  },
+  {
+   "title": "Verksamt.se",
+   "group": [],
+   "text": "Jordbruksverket ska förvalta myndighetens innehåll på den myndighetsgemensamma webbplatsen verksamt.se.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27571:assignments:13"
+  },
+  {
+   "title": "Växtskyddsmedel och sanktioner",
+   "group": [],
+   "text": "Jordbruksverket ska se över regleringen av växtskyddsmedel i 8 kap. förordningen (2012:259) om miljösanktionsavgifter exempelvis vad gäller användningstillstånd, spridningsutrustning och dokumentation vid spridning av växtskyddsmedel, inklusive de nya krav på registerhållning som följer av artikel 67 i Europaparlamentets och rådets förordning (EG) nr 1107/2009 av den 21 oktober 2009 om utsläppande av växtskyddsmedel på marknaden och om upphävande av rådets direktiv 79/117/EEG och 91/414/EEG, och föreslå nödvändiga författningsändringar. I uppdraget ingår att utföra en konsekvensutredning av de förslag som lämnas i enlighet med förordningen (2024:183) om konsekvensutredningar.\n\nJordbruksverket ska vid behov inhämta synpunkter på förslag till författningsändringar från berörda myndigheter och andra aktörer. Jordbruksverket ska senast den 1 mars 2027 lämna en redovisning av uppdraget till Regeringskansliet (Klimat- och näringslivsdepartementet).",
+   "dates": [
+    "2009-10-21",
+    "2027-03-01"
+   ],
+   "deadlines": [
+    "2027-03-01"
+   ],
+   "recipients": [
+    "Regeringskansliet (Klimat- och näringslivsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "föreslå",
+    "samordna",
+    "statistik_data"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2012:259",
+    "2024:183"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27571:assignments:14"
+  },
+  {
+   "title": "Ändringar av växtskyddslagstiftningen",
+   "group": [],
+   "text": "Jordbruksverket ska analysera vilka ändringar av växtskyddslagstiftningen och annan tillämplig lagstiftning som behövs till följd av att en krisgrupp för växtskydd inom unionen har inrättats i enlighet med artikel 19 a i Europaparlamentets och rådets förordning (EU) 2016/2031 av den 26 oktober 2016 om skyddsåtgärder mot växtskadegörare, ändring av Europaparlamentets och rådets förordningar (EU) nr 228/2013, (EU) nr 652/2014 och (EU) nr 1143/2014 samt om upphävande av rådets direktiv 69/464/EEG, 74/647/EEG, 93/85/EEG, 98/57/EG, 2000/29/EG, 2006/91/EG och 2007/33/EG. Redovisningen ska innehålla en bedömning av vilka åtgärder och på vilket sätt krisgruppens stöd kan behövas samt förslag på nödvändiga författningsändringar med hänsyn till detta.\n\nRedovisningen kan även innehålla förslag till andra ändringar av växtskyddslagen och växtskyddsförordningen som Jordbruksverket bedömer behöver genomföras.\n\nJordbruksverket ska senast den 2 oktober 2026 lämna en redovisning av uppdraget till Regeringskansliet (Landsbygds- och infrastrukturdepartementet).",
+   "dates": [
+    "2016-10-26",
+    "2026-10-02"
+   ],
+   "deadlines": [
+    "2026-10-02"
+   ],
+   "recipients": [
+    "Regeringskansliet (Landsbygds- och infrastrukturdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27571:assignments:15"
+  },
+  {
+   "title": "Analysera förutsättningarna för lönsamheten och konkurrenskraften för livsmedelsproducerande företag på Gotland",
+   "group": [],
+   "text": "Jordbruksverket ska göra en analys av förutsättningarna för lönsamhet och konkurrenskraften inom jordbruket och livsmedelsindustrin på Gotland och hur produktionen av livsmedel på Gotland därigenom kan öka.\n\nJordbruksverket ska analysera utvecklingen av livsmedelsproduktionen på Gotland samt hur den skiljer sig från utvecklingen i övriga Sverige avseende hinder och möjligheter mot bakgrund av bland annat de geografiska förutsättningarna.\n\nAnalysen ska omfatta befintliga stödinsatser för primärproduktionen och berörda företag i livsmedelskedjan.\n\nAnalysen ska dessutom innehålla en bedömning av betydelsen av Gotlands livsmedelsproduktion för regional och nationell försörjningsberedskap.\n\nJordbruksverket ska mot bakgrund av genomförd analys föreslå eventuella åtgärder för att stärka lönsamhet, konkurrenskraft och produktion inom jordbruket och livsmedelsindustrin på Gotland. Syftet med de åtgärder som verket föreslår ska vara att säkerställa en robust livsmedelsproduktion i hela landet. Jordbruksverket ska när uppdraget utförs, där det är relevant, belysa eventuella klimat- och miljöperspektiv.\n\nJordbruksverket ska när uppdraget utförs föra en dialog med Livsmedelsverket, Myndigheten för civilt försvar, Tillväxtverket, Trafikverket och Gotlands kommun (Region Gotland).\n\nJordbruksverket ska senast den 30 april 2027 lämna en redovisning av uppdraget till Regeringskansliet (Landsbygds- och infrastrukturdepartementet).",
+   "dates": [
+    "2027-04-30"
+   ],
+   "deadlines": [
+    "2027-04-30"
+   ],
+   "recipients": [
+    "Regeringskansliet (Landsbygds- och infrastrukturdepartementet)"
+   ],
+   "partners": [
+    "Livsmedelsverket",
+    "Myndigheten för civilt försvar",
+    "Tillväxtverket",
+    "Trafikverket"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "föreslå",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27571:assignments:16"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "1:4",
+   "name": "Bidrag till veterinär fältverksamhet",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 23,
+    "name": "Areella näringar, landsbygd och livsmedel"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Statens jordbruksverk",
+     "amount_tkr": 158824,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Bidrag till veterinär fältverksamhet (ram)",
+       "amount_tkr": 158824
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Bidrag till veterinär fältverksamhet",
+     "text": "1. Anslagsposten får belastas för utgifter i enlighet med förordningen (2009:1397) om veterinär service av allmänt ekonomiskt intresse.\n2. Högst 11 000 000 kronor ska användas för utgifter i enlighet med förordningen (2009:1396) om stöd till företag med avlägset belägen djurhållning för vissa veterinärkostnader."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "1",
+     "max": 11000000,
+     "unit": "kronor"
+    }
+   ]
+  },
+  {
+   "code": "1:5",
+   "name": "Djurhälsovård och djurskyddsfrämjande åtgärder",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 23,
+    "name": "Areella näringar, landsbygd och livsmedel"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Statens jordbruksverk",
+     "amount_tkr": 9933,
+     "items": [
+      {
+       "ap": "2",
+       "name": "Djurhälsovård (ram)",
+       "amount_tkr": 9933
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "2",
+     "name": "Djurhälsovård",
+     "text": "Anslagsposten får användas för bidrag till djurhälsovård.\n1. Medel får utbetalas till berörda organisationer efter samråd med näringen inom området.\n2. Beträffande stöd till företag får medel disponeras i enlighet med villkoren i kapitel 1 och artikel 21 och 26 i kommissionens förordning (EU) 2022/2472 av den 14 december 2022 genom vilken vissa kategorier av stöd inom jordbruks- och skogsbrukssektorn och i landsbygdsområden förklaras förenliga med den inre marknaden enligt artiklarna 107 och 108 i fördraget om Europeiska unionens funktionssätt. Medel får inte betalas ut till ett företag som är föremål för ett oreglerat återbetalningskrav till följd av ett tidigare kommissionsbeslut som förklarar ett stöd olagligt och oförenligt med den inre marknaden."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "1:6",
+   "name": "Bekämpning av smittsamma djursjukdomar",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 23,
+    "name": "Areella näringar, landsbygd och livsmedel"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Statens jordbruksverk",
+     "amount_tkr": 299349,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Bekämpning av smittsamma djursjukdomar (ram)",
+       "amount_tkr": 219000
+      },
+      {
+       "ap": "2",
+       "name": "Bidrag till bekämpning av djursjukdomar (ram)",
+       "amount_tkr": 33349
+      },
+      {
+       "ap": "4",
+       "name": "Bidrag till utveckling och genomförande av sjukdomskontroller (ram)",
+       "amount_tkr": 47000
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Bekämpning av smittsamma djursjukdomar",
+     "text": "1. Anslagsposten får belastas med utgifter i enlighet med bestämmelser som regeringen meddelar i varje enskilt fall samt för ersättning enligt epizootilagen (1999:657), zoonoslagen (1999:658) och lagen (2006:806) om provtagning på djur, m.m. eller enligt föreskrifter som har meddelats med stöd av lagarna.\n2. Anslagsposten får användas för smittskyddsberedskapsuppgifter med anledning av epizootilagen och zoonoslagen och lagen om provtagning på djur.\n3. Anslagsposten får användas för erforderliga undersökningar vid sjukdomsutredningar, handläggning av ersättningsansökningar i samband med bekämpande av smittsamma djursjukdomar och bisjukdomar\\*.\\*\n4. Anslagsposten får användas för särskilda undersökningar avseende främst zoonoser, serologiska undersökningar, undersökningar avseende salmonella samt bidrag för särskilda undersökningar vid obduktioner.\n5. Högst 2 500 000 kronor får användas för att ersätta producenter för vissa kostnader vid upptäckt av ehec-smitta i samband med besättningsstudier eller åtgärder som har till syfte att ge kunskaper om möjlighet till bekämpning av ehec-bakterien.\n6. Anslagsposten får användas för att lämna ersättning enligt bisjukdomsförordningen (1974:212) för bisamhällen som förintas enligt myndighetsförordnande. Medlen får också användas för utbildning av bitillsynsmän.\n7. Beträffande stöd till företag får medel disponeras för utgifter i enlighet med villkoren i kapitel 1 och artikel 26 i kommissionens förordning (EU) 2022/2472. För stöd till företag får medel också disponeras för utgifter i enlighet med villkoren i kapitel I och artikel 42 i kommissionens förordning (EU) nr 2022/2473 av den\\\n14 december 2022 genom vilken vissa kategorier av stöd till företag som är verksamma inom produktion, beredning och saluföring av fiskeri- och vattenbruksprodukter förklaras förenliga med den inre marknaden enligt artiklarna 107 och 108 i fördraget om Europeiska unionens funktionssätt. Stöd får inte betalas ut till ett företag som är föremål för ett oreglerat återbetalningskrav till följd av ett tidigare kommissionsbeslut som förklarar ett stöd olagligt och oförenligt med den inre marknaden. För stöd till företag får medel även disponeras för utgifter i enlighet med villkoren i kommissionens förordning (EU) 2023/2831 av den 13 december 2023 om tillämpningen av artiklarna 107 och 108 i fördraget om Europeiska unionens funktionssätt på stöd av mindre betydelse."
+    },
+    {
+     "ap": "2",
+     "name": "Bidrag till bekämpning av djursjukdomar",
+     "text": "1. Anslagsposten får användas för bidrag till bekämpning av vissa djursjukdomar.\n2. Medel får utbetalas till berörda organisationer efter samråd med näringen inom området. Beträffande stöd till företag får medel disponeras i enlighet med villkoren i kapitel 1 och artiklarna 21 och 22 i kommissionens förordning (EU) 2022/2472. Stöd får inte betalas ut till ett företag som är föremål för ett oreglerat återbetalningskrav till följd av ett tidigare kommissionsbeslut som förklarar ett stöd olagligt och oförenligt med den inre marknaden."
+    },
+    {
+     "ap": "4",
+     "name": "Bidrag till utveckling och genomförande av sjukdomskontroller",
+     "text": "1. Medlen får användas för att kartlägga och dokumentera sjukdomsläget för de sjukdomar där Sverige beviljats tilläggsgarantier samt för att även i övrigt kunna utföra de sjukdomskontroller som EU ställer krav på. Medlen får även användas för att kontinuerligt läsa av sjukdomsläget för de sjukdomar där EU:s regler för handel med djur innebär att sjukdomsberedskapen måste höjas samt för att utbilda de veterinärer som ska utföra övervakande kontroller.\n2. Medlen får även användas för nationell medfinansiering av TSE-kontroller (Transmissible spongiform encephalopathies) för riskdjur.\n3. Medlen får användas för obduktionsverksamhet. Medlen får även användas för att utbetala till berörd organisation. Medlen får utbetalas med en fjärdedel per kvartal.\n4. Beträffande stöd till företag får medel disponeras i enlighet med villkoren i kapitel 1 och artikel 26 i kommissionens förordning (EU) 2022/2472. Stöd får inte betalas ut till ett företag som är föremål för ett oreglerat återbetalningskrav till följd av ett tidigare kommissionsbeslut som förklarar ett stöd olagligt och oförenligt med den inre marknaden."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "1",
+     "max": 2500000,
+     "unit": "kronor"
+    }
+   ]
+  },
+  {
+   "code": "1:8",
+   "name": "Statens jordbruksverk",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 23,
+    "name": "Areella näringar, landsbygd och livsmedel"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Statens jordbruksverk",
+     "amount_tkr": 937527,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Förvaltningskostnader (ram)",
+       "amount_tkr": 937527
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Förvaltningskostnader",
+     "text": "01. Anslaget får användas för Jordbruksverkets förvaltningsutgifter.\n02. Av anslagsposten får högst 4 000 000 kronor finansiera verksamheten i Centrala djurförsöksetiska nämnden. Jordbruksverket ska särredovisa dessa kostnader. En jämförelse ska göras med föregående år.\n03. Av anslagsposten får högst 4 300 000 kronor finansiera verksamheten i Ansvarsnämnden för djurens hälso- och sjukvård. Jordbruksverket ska särredovisa dessa kostnader. En jämförelse ska göras med föregående år.\n04. Av anslagsposten får 24 000 000 kronor för kunskapsnav för animalieproduktion betalas ut som bidrag till RISE Research Institutes of Sweden AB (RISE) i enlighet med regeringens beslut den 19 januari 2023 i ärende LI2023/01508. Medlen till RISE avser kunskapsutbytes- och informationsåtgärder samt forskning och utveckling inom jordbrukssektorn och regleras i förordningen (2018:1500) om stöd för åtgärder inom ramen för livsmedelsstrategin.\n05. Av anslagsposten får 1 000 000 kronor användas för utvärdering av kunskapsnav för animalieproduktion för perioden 2023–2025 i enlighet med regeringens beslut den 19 januari 2023 i ärende LI2023/01508.\n06. Av anslagsposten får högst 96 000 000 kronor användas för kompetensutveckling inom miljöområdet. Beträffande stöd till företag får medel disponeras för utgifter i enlighet med villkoren i kapitel 1 och artiklarna 21 och 22 i kommissionens förordning (EU) 2022/2472. Stöd får inte betalas ut till ett företag som är föremål för ett oreglerat återbetalningskrav till följd av ett tidigare kommissionsbeslut som förklarar ett stöd olagligt och oförenligt med den inre marknaden.\n07. Av anslagsposten får högst 97 000 000 kronor användas för att förstärka arbetet med civilt försvar.\n08. Anslagsposten får användas för statistik inom jordbruks- och livsmedelsområdet och för EU-medfinansierad statistik inom jordbruks- och livsmedelsområdet. EU-medlen ska redovisas mot inkomsttitel 691103 Jordbruks- och livsmedelsstatistik.\n09. Från anslagsposten får Jordbruksverket disponera medel för att kunna använda och samverka med det gemensamma radiokommunikationssystemet Rakel. Jordbruksverket ska betala totalt 731 500 kronor till den blivande Myndigheten för civilt försvar som abonnemangsavgift för detta system. Beloppet ska betalas efter fakturering från den blivande Myndigheten för civilt försvar.\n10. Av anslagsposten får 10 000 000 kronor användas för planering och genomförande av stärkt kontroll av fusk i livsmedelskedjan.\n11. Av anslagsposten får 7 000 000 kronor användas för en mer effektiv och likvärdig kontroll i livsmedelskedjan."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "1",
+     "max": 4000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "1",
+     "max": 4300000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "1",
+     "max": 96000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "1",
+     "max": 97000000,
+     "unit": "kronor"
+    }
+   ]
+  },
+  {
+   "code": "1:9",
+   "name": "Bekämpning av växtskadegörare",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 23,
+    "name": "Areella näringar, landsbygd och livsmedel"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Statens jordbruksverk",
+     "amount_tkr": 18000,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Bekämpning av växtskadegörare (ram)",
+       "amount_tkr": 18000
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Bekämpning av växtskadegörare",
+     "text": "1. Anslagsposten får användas för utgifter för åtgärder mot växtskadegörare samt för att ersätta enskilda för kostnader eller förluster till följd av sådana åtgärder enligt växtskyddslagen (2022:725). Utgifter för beredskapsåtgärder, akuta skyddsåtgärder, kontroller, inventeringar m.m. mot karantänskadegörare finansieras också med detta anslag liksom undersökningar av organismer och växtprover som av Jordbruksverket överlämnas för laboratoriemässig diagnostisering. Vidare får anslaget användas till internationellt engagemang inom området bekämpning av växtskadegörare. Anslaget får även användas för utgifter för verifiering av de svenska skyddade zonerna."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "1:10",
+   "name": "Gårdsstöd m.m.",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 23,
+    "name": "Areella näringar, landsbygd och livsmedel"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Statens jordbruksverk",
+     "amount_tkr": 7681572,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Gårdsstöd m.m. (ram)",
+       "amount_tkr": 7677572
+      },
+      {
+       "ap": "4",
+       "name": "EU-medfinansiering av bekämpande av djursjukdomar och växtskadegörare (ram)",
+       "amount_tkr": 4000
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Gårdsstöd m.m.",
+     "text": "1. Stöd får lämnas enligt förordningen (2022:1826) om EU:s gemensamma jordbrukspolitik.\n2. Direktstöd ska redovisas mot inkomsttitel 6111 Gårdsstöd. Kursdifferenser på återflöden från EU:s garantifond för jordbruket redovisas dock mot inkomsttitel 6119002 Kursdifferenser från EU:s jordbruksfonder.\n3. Återbetalda felaktigt utbetalda belopp enligt Europaparlamentets och rådets förordning (EU) nr 2021/2116 av den 2 december 2021 om finansiering, förvaltning och övervakning av den gemensamma jordbrukspolitiken och om upphävande av förordningen (EU) nr 1306/2013 (20 procent) och tvärvillkor enligt samma förordning (25 procent) ska redovisas mot inkomsttitel 2714 Sanktionsavgifter m.m."
+    },
+    {
+     "ap": "4",
+     "name": "EU-medfinansiering av bekämpande av djursjukdomar och växtskadegörare",
+     "text": "1. Stöd får lämnas för att förebygga, upptäcka och bekämpa djursjukdomar och växtskadegörare enligt Europaparlamentets och rådets förordning (EU) 2021/690 av den 28 april 2021 om inrättande av ett program för den inre marknaden, konkurrenskraft för företag, inklusive små och medelstora företag, området för växter, djur, livsmedel och foder och europeisk statistik (programmet för den inre marknaden) samt om upphävande av förordningarna (EU) nr 99/2013, (EU) nr 1287/2013, (EU) nr 254/2014 och (EU) nr 652/2014.\n2. EU-medlen ska redovisas mot inkomsttitel 6119001 Övriga bidrag från Europeiska garantifonden för jordbruket. Kursdifferenser på återflöden från EU:s garantifond för jordbruket redovisas dock mot inkomsttitel 6119002 Kursdifferenser från EU:s jordbruksfonder."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "1:11",
+   "name": "Intervention för jordbruksprodukter m.m.",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 23,
+    "name": "Areella näringar, landsbygd och livsmedel"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Statens jordbruksverk",
+     "amount_tkr": 194333,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Intervention för jordbruksprodukter m.m. (ram)",
+       "amount_tkr": 194333
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Intervention för jordbruksprodukter m.m.",
+     "text": "1. Anslagsposten får användas för stöd som lämnas enligt förordningen (2011:926) om EU:s förordningar om pris- och marknadsreglering av jordbruksprodukter.\n2. EU-medlen avseende offentlig lagring ska redovisas mot inkomsttitel 6116 Offentlig lagring. EU-medlen avseende övrig intervention ska redovisas mot inkomsttitel 6113 Övriga interventioner. EU-medlen avseende exportbidrag ska redovisas mot inkomsttitel 6114 Exportbidrag. Kursdifferenser på återflöden från EU:s garantifond för jordbruket redovisas dock mot inkomsttitel 6119002 Kursdifferenser från EU:s jordbruksfonder.\n3. Försäljningsinkomster av offentligt lagrad vara redovisas mot inkomsttitel 2627 Offentlig lagring, försäljningsintäkter.\n4. Förverkade säkerheter tillfallande Sverige och återbetalda belopp enligt förordning (EU) nr 1306/2013 2013 av den 17 december 2013 om finansiering, förvaltning och övervakning av den gemensamma jordbrukspolitiken och om upphävande av rådets förordningar (EEG) nr 352/78, (EG) nr 165/94, (EG) nr 2799/98, (EG) nr 814/2000, (EG) nr 1290/2005 och (EG) nr 485/2008\\\n\\*(\\*20 procent) redovisas mot inkomsttitel 2714 Sanktionsavgifter m.m."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "1:12",
+   "name": "Nationell medfinansiering till den gemensamma jordbrukspolitiken 2023–2027",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 23,
+    "name": "Areella näringar, landsbygd och livsmedel"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Statens jordbruksverk",
+     "amount_tkr": 3257312,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Nationell medfinansiering till den gemensamma jordbrukspolitiken 2023–2027 (ram)",
+       "amount_tkr": 3257312
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Nationell medfinansiering till den gemensamma jordbrukspolitiken 2023–2027",
+     "text": "**1. Ersättningar får lämnas i enlighet med Europaparlamentets och rådets förordning (EU) nr 2021/2115 av den 2 december 2021 om fastställande av regler om stöd för de strategiska planer som medlemsstaterna ska upprätta inom ramen för den gemensamma jordbrukspolitiken (strategiska GJP-planer) och som finansieras av Europeiska garantifonden för jordbruket (EGFJ) och Europeiska jordbruksfonden för landsbygdsutveckling (Ejflu) samt om upphävande av förordningarna (EU) nr 1305/2013 och (EU) nr 1307/2013.**\n**2. Anslagsposten får användas för s.k. tekniskt stöd för programmets genomförande i enlighet med artikel 125 i förordning (EU) 2021/2115. Utbetalningar får ske längst t.o.m. 2029. Under programperioden 2023–2027 har myndigheterna nedanstående ramar för s.k. tekniskt stöd för programperiodens genomförande:**\n- För Jordbruksverkets kostnader högst 340 126 851 kronor. Av den totala budgeten för tekniskt stöd får högst 4,35 procent avsättas till GJP-nätverket.\n- För länsstyrelsernas kostnader högst 240 369 205 kronor. Fördelning av medel mellan länsstyrelserna ska ske i samråd med länsstyrelserna i syfte att få till stånd ett effektivt genomförande av programmet.\n- För Sametingets kostnader högst 6 626 720 kronor."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "1",
+     "max": 340126851,
+     "unit": "kronor"
+    },
+    {
+     "ap": "1",
+     "max": 240369205,
+     "unit": "kronor"
+    },
+    {
+     "ap": "1",
+     "max": 6626720,
+     "unit": "kronor"
+    }
+   ]
+  },
+  {
+   "code": "1:13",
+   "name": "Finansiering från EU-budgeten till den gemensamma jordbrukspolitikens andra pelare 2023–2027",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 23,
+    "name": "Areella näringar, landsbygd och livsmedel"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Statens jordbruksverk",
+     "amount_tkr": 2204200,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Finansiering EU:s gemensamma jordbrukspolitik – Biodling (ram)",
+       "amount_tkr": 8400
+      },
+      {
+       "ap": "2",
+       "name": "Finansiering EU:s gemensamma jordbrukspolitik – Strategisk plan pelare 2 (ram)",
+       "amount_tkr": 2195800
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Finansiering EU:s gemensamma jordbrukspolitik – Biodling",
+     "text": "**1. Anslagsposten får användas för utgifter för stöd för biodling i enlighet med Europaparlamentets och rådets förordning (EU) nr 2021/2115. EU-medlen ska redovisas mot inkomsttitel 6119001 Övriga bidrag från Europeiska garantifonden för jordbruket. Kursdifferenser på återflöden från EU:s garantifond för jordbruket redovisas dock mot inkomsttitel 6119002 Kursdifferenser från EU:s jordbruksfonder.**"
+    },
+    {
+     "ap": "2",
+     "name": "Finansiering EU:s gemensamma jordbrukspolitik – Strategisk plan pelare 2",
+     "text": "**1. Ersättningar får lämnas i enlighet med Europaparlamentets och rådets förordning (EU) nr 2021/2115.**\n**2. EU-medel ska redovisas mot inkomsttitel 6126 Bidrag från Europeiska jordbruksfonden för landsbygdsutveckling 2021–2027. Kursdifferenser på återflöden från EU:s jordbruksfond för landsbygdsutveckling redovisas dock på inkomsttiteln 6119002 Kursdifferenser från EU:s jordbruksfonder.**\n**3. Anslagsposten får användas för s.k. tekniskt stöd för programmets genomförande i enlighet med artikel 125 i förordning (EU) 2021/2115. Utbetalningar får ske längst t.o.m. 2029. Under programperioden 2023–2027 har myndigheterna nedanstående ramar för s.k. tekniskt stöd för programperiodens genomförande:**\n- För Jordbruksverkets kostnader högst 262 873 149 kronor. Av den totala budgeten för tekniskt stöd får högst 4,35 procent avsättas till GJP-nätverket.\n- För länsstyrelsernas kostnader högst 158 630 795 kronor. Fördelning av medel mellan länsstyrelserna ska ske i samråd med länsstyrelserna i syfte att få till stånd ett effektivt genomförande av programmet.\n- För Sametingets kostnader högst 4 373 280 kronor."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "2",
+     "max": 262873149,
+     "unit": "kronor"
+    },
+    {
+     "ap": "2",
+     "max": 158630795,
+     "unit": "kronor"
+    },
+    {
+     "ap": "2",
+     "max": 4373280,
+     "unit": "kronor"
+    }
+   ]
+  },
+  {
+   "code": "1:15",
+   "name": "Konkurrenskraftig livsmedelssektor",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 23,
+    "name": "Areella näringar, landsbygd och livsmedel"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Statens jordbruksverk",
+     "amount_tkr": 34500,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Konkurrenskraftig livsmedelssektor - del till Statens jordbruksverk (ram)",
+       "amount_tkr": 34500
+      }
+     ],
+     "sum_ok": true
+    },
+    {
+     "by": "Livsmedelsverket",
+     "amount_tkr": 33500,
+     "items": [
+      {
+       "ap": "2",
+       "name": "Konkurrenskraftig livsmedelssektor - del till Livsmedelsverket (ram)",
+       "amount_tkr": 33500
+      }
+     ],
+     "sum_ok": true
+    },
+    {
+     "by": "Kammarkollegiet",
+     "amount_tkr": 29160,
+     "items": [
+      {
+       "ap": "6",
+       "name": "Övriga åtgärder inom konkurrenskraftig livsmedelssektor (ram)",
+       "amount_tkr": 29160
+      }
+     ],
+     "sum_ok": true
+    },
+    {
+     "by": "Tillväxtverket",
+     "amount_tkr": 20000,
+     "items": [
+      {
+       "ap": "5",
+       "name": "Konkurrenskraftig livsmedelssektor - del till Tillväxtverket (ram)",
+       "amount_tkr": 20000
+      }
+     ],
+     "sum_ok": true
+    },
+    {
+     "by": "Sveriges lantbruksuniversitet",
+     "amount_tkr": 4000,
+     "items": [
+      {
+       "ap": "4",
+       "name": "Konkurrenskraftig livsmedelssektor - del till Sveriges lantbruksuniversitet (ram)",
+       "amount_tkr": 4000
+      }
+     ],
+     "sum_ok": true
+    },
+    {
+     "by": "Länsstyrelsen i Jämtlands län",
+     "amount_tkr": 10000,
+     "items": [
+      {
+       "ap": "9",
+       "name": "Konkurrenskraftig livsmedelssektor - del till Länsstyrelsen i Jämtlands län (ram)",
+       "amount_tkr": 10000
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Konkurrenskraftig livsmedelssektor - del till Statens jordbruksverk",
+     "text": "1. Jordbruksverket får använda högst 34 500 000 kronor för uppdraget att genomföra åtgärder under perioden 2025–2030 inom ramen för Livsmedelsstrategin 2.0 (LI2025/00642). Beträffande stöd till företag får medel disponeras i enlighet med förordningen om stöd för åtgärder inom ramen för livsmedelsstrategin."
+    },
+    {
+     "ap": "2",
+     "name": "Konkurrenskraftig livsmedelssektor - del till Livsmedelsverket",
+     "text": "1. Livsmedelsverket får använda högst 1 500 000 kronor för handläggning av ärenden som rör skyddade beteckningar.\n2. Livsmedelsverket får använda högst 32 000 000 kronor för genomförande av uppdraget att genomföra åtgärder under perioden 2025–2030 inom ramen för Livsmedelsstrategin 2.0 och om ändring av uppdraget om att öka likvärdigheten i livsmedelskontrollen i hela landet (LI2025/00645). För åtgärden 6. Subventioner för trikin- och cesiumanalyser får högst 2 000 000 kronor användas för Livsmedelsverkets administrationskostnader."
+    },
+    {
+     "ap": "4",
+     "name": "Konkurrenskraftig livsmedelssektor - del till Sveriges lantbruksuniversitet",
+     "text": "1. Sveriges lantbruksuniversitet får använda högst 4 000 000 kronor för genomförandet av uppdraget att genomföra åtgärder under perioden 2025–2030 inom ramen för Livsmedelsstrategin 2.0 (LI2025/00643)."
+    },
+    {
+     "ap": "5",
+     "name": "Konkurrenskraftig livsmedelssektor - del till Tillväxtverket",
+     "text": "1. Tillväxtverket får använda högst 20 000 000 kronor för genomförande av uppdraget att genomföra åtgärder under perioden 2025–2030 inom ramen för Livsmedelsstrategin 2.0 och ändring av uppdraget att genomföra åtgärder under 2020–2025 inom ramen för livsmedelsstrategin (LI2025/00650)."
+    },
+    {
+     "ap": "6",
+     "name": "Övriga åtgärder inom konkurrenskraftig livsmedelssektor",
+     "text": "1. Högst 27 000 000 kronor får användas för uppdraget till Sveriges export- och investeringsråd att genomföra åtgärder under perioden 2025–2030 inom ramen för Livsmedelsstrategin 2.0 och ändring av uppdraget att genomföra åtgärder under 2020–2025 inom ramen för livsmedelsstrategin (LI2025/00651).\n2. Högst 2 000 000 kronor får användas för uppdraget till Sveriges export- och investeringsråd att genomföra investeringsfrämjande åtgärder inom ramen för Livsmedelsstrategin 2.0 (LI2025/01365).\n3. Ytterligare 160 000 kronor får användas efter beslut av regeringen."
+    },
+    {
+     "ap": "9",
+     "name": "Konkurrenskraftig livsmedelssektor - del till Länsstyrelsen i Jämtlands län",
+     "text": "1. Högst 10 000 000 kronor får användas\ni enlighet med uppdraget till länsstyrelsen i Jämtlands län att under perioden 2026–2030 driva ett nationellt center för mathantverk inom småskalig livsmedelsproduktion inom ramen för Livsmedelsstrategin 2.0 (LI2025/00648)."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "1",
+     "max": 34500000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "2",
+     "max": 1500000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "2",
+     "max": 32000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "2",
+     "max": 2000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "4",
+     "max": 4000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "5",
+     "max": 20000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "6",
+     "max": 27000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "6",
+     "max": 2000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "9",
+     "max": 10000000,
+     "unit": "kronor"
+    }
+   ]
+  },
+  {
+   "code": "1:17",
+   "name": "Åtgärder för landsbygdens miljö och struktur",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 23,
+    "name": "Areella näringar, landsbygd och livsmedel"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Statens jordbruksverk",
+     "amount_tkr": 2175000,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Åtgärder för landsbygdens miljö och struktur - EJFLU 2014–2022 (ram)",
+       "amount_tkr": 0
+      },
+      {
+       "ap": "3",
+       "name": "Landsbygdsstöd - Stöd till lantbrukare (ram)",
+       "amount_tkr": 1615000
+      },
+      {
+       "ap": "4",
+       "name": "Nationellt stöd, stödområde 1–5 (ram)",
+       "amount_tkr": 531000
+      },
+      {
+       "ap": "7",
+       "name": "Finansiella korrigeringar m.m. (ram)",
+       "amount_tkr": 0
+      },
+      {
+       "ap": "5",
+       "name": "Landsbygdsstöd - Stöd till yrkesfisket och vattenbruket (ram)",
+       "amount_tkr": 29000
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Åtgärder för landsbygdens miljö och struktur - EJFLU 2014–2022",
+     "text": "1. Ersättning får lämnas i enlighet med Europaparlamentets och rådets förordning (EU) nr 1305/2013 av den 17 december 2013 om stöd för landsbygdsutveckling från Europeiska jordbruksfonden för landsbygdsutveckling (Ejflu) och om upphävande av rådets förordning (EG) nr 1698/2005 samt i enlighet med därtill hörande genomförandeförordningar och i enlighet med Europaparlamentets och rådets förordning (EU 2020/2220) av den 23 december 2020 om fastställande av vissa övergångsbestämmelser för stöd från Europeiska jordbruksfonden för landsbygdsutveckling (Ejflu) och Europeiska garantifonden för jordbruket (EGFJ) under åren 2021 och 2022 och om ändring av förordningarna (EU) nr 1305/2013, (EU) nr 1306/2013 och (EU) nr 1307/2013 vad gäller resurser och tillämpning under åren 2021 och 2022 och förordning (EU) nr 1308/2013 vad gäller resurser och fördelningen av sådant stöd under åren 2021 och 2022. Ersättning ska lämnas i enlighet med landsbygdsprogrammet och tillämplig nationell lagstiftning."
+    },
+    {
+     "ap": "3",
+     "name": "Landsbygdsstöd - Stöd till lantbrukare",
+     "text": "Anslagsposten får användas till ersättning i enlighet med Europeiska kommissionens meddelande Tillfällig ram för statligt stöd med anledning av krisen i Mellanöstern (C/2026/2593) samt för utgifter för ekonomiskt stöd till lantbrukare som har fått ökade kostnader till följd av höjda priser på insatsvaror under 2026."
+    },
+    {
+     "ap": "4",
+     "name": "Nationellt stöd, stödområde 1–5",
+     "text": "1. Nationellt stöd får utbetalas enligt förordningen (1996:93) om nationellt stöd till jordbruket i norra Sverige och kommissionens beslut (EU) 2022/2460 av den 13 december 2022 om systemet för långsiktigt stöd på nationell nivå till jordbruket i de nordliga områdena i Sverige. Från anslagsposten får utbetalas\\\nhögst 2 960 000 kronor för ersättning för merkostnader för transport av självdöda eller nödslaktade tamdjur från jordbruk i norra Sverige norr om 62:a breddgraden. Ersättningen utgår för kostnader för bortskaffande av självdöda eller nödslaktade djur enligt kapitel 1 och artikel 27 i kommissionens förordning (EU) 2022/2472. Jordbruksverket ska genom revision kunna kontrollera att beräkning av merkostnaden för norra Sverige, områdesavgränsningen och andra villkor för stödberättigande och ekonomisk redovisning av stödet uppfylls. Medel som inte har använts i enlighet med de av Jordbruksverket fastställda villkoren ska återbetalas. Utbetalningar av ersättning för merkostnader för insamling av kadaver redovisas särskilt. Stöd får inte betalas ut till ett företag som är föremål för ett oreglerat återbetalningskrav till följd av ett tidigare kommissionsbeslut som förklarar ett stöd olagligt och oförenligt med den inre marknaden."
+    },
+    {
+     "ap": "5",
+     "name": "Landsbygdsstöd - Stöd till yrkesfisket och vattenbruket",
+     "text": "Anslagsposten får användas till ersättning i enlighet med Europeiska kommissionens meddelande Tillfällig ram för statligt stöd med anledning av krisen i Mellanöstern (C/2026/2593) samt för utgifter för ekonomiskt stöd till yrkesfisket och vattenbruket som har fått ökade kostnader till följd av höjda priser på insatsvaror under 2026."
+    },
+    {
+     "ap": "7",
+     "name": "Finansiella korrigeringar m.m.",
+     "text": "1. Anslagsposten får användas för eventuella finansiella korrigeringar och straffavgifter som följer av den gemensamma jordbruks- och fiskeripolitiken samt för rättegångskostnader med anledning av att sådana finansiella korrigeringar och straffavgifter aktualiseras. Endast de av kommissionen formellt fastställda finansiella korrigeringarna får belasta anslaget.\nUtgifter under följande anslag får täckas:\n– 1:8*Statens jordbruksverk*, villkor 1.\n– 1:10*Gårdsstöd m.m*.\n– 1:11*Intervention för jordbruksprodukter m.m.*\n– 1:28*Från EU-budgeten finansierade stödåtgärder för fiske och vattenbruk 2021–2027.*\n– 1:13*Finansiering från EU-budgeten till den gemensamma jordbrukspolitikens andra pelare 2023–2027.*\n**2. Anslaget får användas för skadestånd.**"
+    }
+   ],
+   "caps": [
+    {
+     "ap": "4",
+     "max": 2960000,
+     "unit": "kronor"
+    }
+   ]
+  },
+  {
+   "code": "1:18",
+   "name": "Miljöförbättrande åtgärder i jordbruket",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 23,
+    "name": "Areella näringar, landsbygd och livsmedel"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Statens jordbruksverk",
+     "amount_tkr": 34830,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Försöks- och utvecklingsverksamhet (ram)",
+       "amount_tkr": 17330
+      },
+      {
+       "ap": "2",
+       "name": "Hållbar användning av bekämpningsmedel (ram)",
+       "amount_tkr": 2500
+      },
+      {
+       "ap": "3",
+       "name": "Metodutveckling och försöksverksamhet inom jordbruket (ram)",
+       "amount_tkr": 15000
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Försöks- och utvecklingsverksamhet",
+     "text": "1. Anslagsposten får användas för försöks- och utvecklingsverksamhet i syfte att bidra till uppfyllelse av för jordbruket relevanta miljökvalitetsmål, särskilt Ett rikt odlingslandskap, Ingen övergödning, Giftfri miljö och Begränsad klimatpåverkan. Av anslaget får medel användas för en strategi för växtskydd med beaktande av relevanta miljökvalitetsmål. Försöks- och utvecklingsverksamhet relaterad till ekologisk produktion kan ingå.\n2. Medel får användas för utvärdering av den gemensamma jordbrukspolitikens effekter på hållbarhet där de integrerade och balanserade perspektiven i Agenda 2030 ska vara en viktig utgångspunkt samt för internationellt standardiseringsarbete.\n3. Från anslaget ska utbetalas 2 500 000 kronor till Fritidsodlingens Riksorganisation för informations- och rådgivningsverksamhet samt minst 750 000 kronor till Stiftelsen Trädgårdsodlingens elitplantstation. Outnyttjade medel ska återbetalas till Jordbruksverket.\n4. Beträffande stöd till företag får medlen disponeras i enlighet med villkoren i kapitel 1 och artikel 38 i kommissionens förordning (EU) nr 2022/2472. Stöd får inte betalas ut till ett företag som är föremål för ett oreglerat återbetalningskrav till följd av ett tidigare kommissionsbeslut som förklarar ett stöd olagligt och oförenligt med den inre marknaden."
+    },
+    {
+     "ap": "2",
+     "name": "Hållbar användning av bekämpningsmedel",
+     "text": "1. Anslagsposten får användas för genomförande av Europaparlamentets och rådets direktiv 2009/128/EG av den\\\n21 oktober 2009 om upprättande av en ram för gemenskapens åtgärder för att uppnå en hållbar användning av bekämpningsmedel. Medel får användas för verksamhet rörande funktionstester av spridningsutrustning för växtskyddsmedel. Bidrag för köp av testutrustning får betalas ut i enlighet med förordningen (2024:439) om statligt stöd för köp av testutrustning för funktionstest av lantbrukssprutor. Medel får användas för internationellt standardiseringsarbete."
+    },
+    {
+     "ap": "3",
+     "name": "Metodutveckling och försöksverksamhet inom jordbruket",
+     "text": "Jordbruksverket får använda högst 15 000 000 kronor för uppdraget om metodutveckling för att öka klimateffektiviteten i jordbruksproduktion (uppdrag 5 i regleringsbrevet för budgetåret 2024 avseende Statens jordbruksverk)."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "3",
+     "max": 15000000,
+     "unit": "kronor"
+    }
+   ]
+  },
+  {
+   "code": "1:19",
+   "name": "Stöd till jordbrukets rationalisering m.m.",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 23,
+    "name": "Areella näringar, landsbygd och livsmedel"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Länsstyrelsen i Dalarnas län",
+     "amount_tkr": 24116,
+     "items": [
+      {
+       "ap": "2",
+       "name": "Stöd till omarrondering av mark (ram)",
+       "amount_tkr": 24116
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "2",
+     "name": "Stöd till omarrondering av mark",
+     "text": "1. Anslaget disponeras av Länsstyrelsen i Dalarnas län och ska fördelas ut efter behov till länsstyrelserna i Västra Götalands och Värmlands län. Länsstyrelsen i Dalarnas län ska redovisa anslagspostens användning till Jordbruksverket. Länsstyrelsernas kostnader, avseende de för anslaget avsedda ändamålen, ska belasta anslaget.\n2. Anslaget disponeras för bidrag till yttre rationalisering enligt förordningen (1978:250) om statligt stöd till jordbrukets rationalisering.\n3. Bidrag får beviljas till genomgripande omarrondering (genomgripande strukturrationalisering) men även till successiv omarrondering. Anslaget ska i första hand disponeras för projekt i Dalarnas län.\n4. Beträffande stöd till företag får medlen disponeras i enlighet med villkoren i kapitel 1 och artiklarna 15 och 53 i kommissionens förordning (EU) 2022/2472. Stöd får inte betalas ut till ett företag som är föremål för ett oreglerat återbetalningskrav till följd av ett tidigare kommissionsbeslut som förklarar ett stöd olagligt och oförenligt med den inre marknaden.\n5. Jordfonden förvaltas av Jordbruksverket enligt förordningen (1989:281) om Jordfonden. Jordfonden får användas för inlösen av fastigheter enligt jordförvärvslagen (1979:230) och förvärv av fastigheter i enlighet med förordningen om Jordfonden. Försäljningsinkomster från jordfondsfastigheter efter reduktion av kostnader som är hänförbara till inkomstens förvärvande ska återinvesteras i Jordfonden. Övriga inkomster från jordfondsfastigheter efter reduktion av kostnader som är direkt hänförbara till inkomstens förvärvande ska redovisas mot inkomsttitel 2811 Övriga inkomster av statlig verksamhet."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "1:26",
+   "name": "Åtgärder för beredskap inom livsmedels- och dricksvattenområdet",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 23,
+    "name": "Areella näringar, landsbygd och livsmedel"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Statens jordbruksverk",
+     "amount_tkr": 690000,
+     "items": [
+      {
+       "ap": "3",
+       "name": "del till Statens jordbruksverk (ram)",
+       "amount_tkr": 690000
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "3",
+     "name": "del till Statens jordbruksverk",
+     "text": "1. Av anslagsposten får högst 220 000 000 kronor användas för rådgivnings- och investeringsstöd för att öka robustheten inom primärproduktionen av livsmedel från lantbruk och fiskenäringarna.\n2. Av anslagsposten får högst 391 000 000 kronor användas för etablering av beredskapslager för spannmål och insatsvaror samt\\\n2 000 000 kronor för främjande av inhemsk produktion av insatsvaror utöver de som anges i punkt 3.\n3. Av anslagsposten får högst 15 000 000 kronor användas för etablering av beredskapslager för sjukvårdsprodukter och läkemedel till djurhälsovården.\n4. Av anslagsposten får 62 000 000 kronor användas för administrationskostnader."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "3",
+     "max": 220000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "3",
+     "max": 391000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "3",
+     "max": 15000000,
+     "unit": "kronor"
+    }
+   ]
+  },
+  {
+   "code": "1:27",
+   "name": "Stödåtgärder för fiske och vattenbruk 2021–2027",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 23,
+    "name": "Areella näringar, landsbygd och livsmedel"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Statens jordbruksverk",
+     "amount_tkr": 104000,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Stödåtgärder för fiske och vattenbruk 2021–2027 (ram)",
+       "amount_tkr": 104000
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Stödåtgärder för fiske och vattenbruk 2021–2027",
+     "text": "1. Anslagsposten får användas för finansiering av den statliga medfinansieringen av havs-, fiskeri- och vattenbruksprogrammet 2021–2027 med finansiering av Europeiska havs-, fiskeri- och vattenbruksfonden (EHFVF) under anslaget 1:28 Från EU-budgeten finansierade stödåtgärder för fiske och vattenbruk och i enlighet med Europaparlamentets och rådets förordning (EU) 2021/1139 av den 7 juli 2021 om Europeiska havs-, fiskeri- och vattenbruksfonden och om ändring av förordning (EU) 2017/1004.\n2. Anslagsposten får användas för s.k. tekniskt stöd för programmets genomförande i enlighet med artikel 36.1 i Europaparlamentets och rådets förordning (EU) 2021/1060 av den 24 juni 2021 om fastställande av gemensamma bestämmelser för Europeiska regionala utvecklingsfonden, Europeiska socialfonden+, Sammanhållningsfonden, Fonden för en rättvis omställning och Europeiska havs-, fiskeri- och vattenbruksfonden samt finansiella regler för dessa och för Asyl-, migrations- och integrationsfonden, Fonden för inre säkerhet samt instrumentet för ekonomiskt stöd för gränsförvaltning och viseringspolitik. Under programperioden 2021–2027 har myndigheterna nedanstående ramar för s.k. tekniskt stöd för programmets genomförande. Utbetalningar får ske längst t.o.m. räkenskapsåret 2029. Högst 9 534 000 kronor får användas för att ersätta Statskontorets revisionskostnader av havs-, fiskeri- och vattenbruksprogrammet 2021–2027. Även Statskontorets revisionskostnader för havs- och fiskeriprogrammet 2014–2020 får ersättas. Högst 1 907 000 kronor får användas för att ersätta Havs- och vattenmyndighetens kostnader för genomförandet av uppgifter i egenskap av förmedlande organ för havs-, fiskeri- och vattenbruksprogrammet 2021–2027. Högst 6 992 000 kronor får användas för att ersätta länsstyrelsernas kostnader för genomförandet av uppgifter i egenskap av förmedlande organ för havs-, fiskeri- och vattenbruksprogrammet 2021–2027. Högst\\\n32 302 000 kronor får användas för övriga uppgifter i enlighet med tillämplig EU-lagstiftning såsom uppföljning och utvärdering inklusive utvärderingssekretariat, finansiering av den delen av det nationella landsbygdsnätverket som arbetar med genomförandet av havs-, fiskeri- och vattenbruksprogrammet, genomförandet av sammanträden med programmets övervakningskommitté, förvaltning av programrelaterade it-system och informationsinsatser.\n3. Anslagsposten får disponeras enligt förordningen (1994:1716) om fisket, vattenbruket och fiskerinäringen för åtgärder som inte omfattas av gemenskapens medfinansiering."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "1",
+     "max": 9534000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "1",
+     "max": 1907000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "1",
+     "max": 6992000,
+     "unit": "kronor"
+    }
+   ]
+  },
+  {
+   "code": "1:28",
+   "name": "Från EU-budgeten finansierade stödåtgärder för fiske och vattenbruk 2021–2027",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 23,
+    "name": "Areella näringar, landsbygd och livsmedel"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Statens jordbruksverk",
+     "amount_tkr": 200000,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Från EU-budgeten finansierade stödåtgärder för fiske och vattenbruk 2021–2027 (ram)",
+       "amount_tkr": 200000
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Från EU-budgeten finansierade stödåtgärder för fiske och vattenbruk 2021–2027",
+     "text": "1. Anslagsposten får användas för finansiering av EU:s medfinansiering av havs-, fiskeri- och vattenbruksprogrammet 2021–2027 motsvarande de medel som har tilldelats Sverige enligt bilaga V i Europaparlamentets och rådets förordning (EU) 2021/1139.\n2. Jordbruksverket ska redovisa betalningar från EU-budgeten mot inkomsttitel 6215001 Bidrag från Europeiska havs-, fiskeri- och vattenbruksfonden 2021-2027. Kursdifferenser på återflöden från Europeiska havs-, fiskeri- och vattenbruksfond redovisas dock mot inkomsttitel 6215002 Kursdifferenser från EU:s havs-, fiskeri- och vattenbruksfond.\n3. Anslagsposten får användas för s.k. tekniskt stöd för programmets genomförande i enlighet med artikel 36.1 i Europaparlamentets och rådets förordning (EU) 2021/1060. Under programperioden 2021–2027 har myndigheterna nedanstående ramar för s.k. tekniskt stöd för programmets genomförande. Utbetalningar får ske längst t.o.m. räkenskapsåret 2029. Högst 11 466 000 kronor får användas för att ersätta Statskontorets revisionskostnader av havs-, fiskeri- och vattenbruksprogrammet 2021–2027. Även Statskontorets revisionskostnader för havs- och fiskeriprogrammet 2014–2020 får ersättas. Högst 2 293 000 kronor får användas för att ersätta Havs- och vattenmyndighetens kostnader för genomförandet av uppgifter i egenskap av förmedlande organ för havs-, fiskeri- och vattenbruksprogrammet 2021–2027. Högst 8 408 000 kronor får användas för att ersätta länsstyrelsernas kostnader för genomförandet av uppgifter i egenskap av förmedlande organ för havs-, fiskeri- och vattenbruksprogrammet 2021–2027. Högst\\\n38 848 000 kronor får användas för övriga uppgifter i enlighet med tillämplig EU-lagstiftning såsom uppföljning och utvärdering inklusive utvärderingssekretariat, finansiering av den delen av det nationella landsbygdsnätverket som arbetar med genomförandet av havs-, fiskeri- och vattenbruksprogrammet, genomförandet av sammanträden med programmets övervakningskommitté, förvaltning av programrelaterade it-system och informationsinsatser."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "1",
+     "max": 11466000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "1",
+     "max": 2293000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "1",
+     "max": 8408000,
+     "unit": "kronor"
+    }
+   ]
+  },
+  {
+   "code": "1:18",
+   "name": "Från EU-budgeten finansierade åtgärder för landsbygdens miljö och struktur",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 23,
+    "name": "Areella näringar, landsbygd och livsmedel"
+   },
+   "older_budget_year": 2025,
+   "disposals": [
+    {
+     "by": "Statens jordbruksverk",
+     "amount_tkr": 0,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Fr EU-b landsbygd - Pelare 2 i Strategisk plan 2023-2027 (ram)",
+       "amount_tkr": 0
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "1:4 Bidrag till veterinär fältverksamhet",
+   "ap": "ap.1",
+   "Anslagskredit": 4764,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:5 Djurhälsovård och djurskyddsfrämjande åtgärder",
+   "ap": "ap.2",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:6 Bekämpning av smittsamma djursjukdomar",
+   "ap": "ap.1",
+   "Anslagskredit": 4000,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:6 Bekämpning av smittsamma djursjukdomar",
+   "ap": "ap.2",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:6 Bekämpning av smittsamma djursjukdomar",
+   "ap": "ap.4",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:8 Statens jordbruksverk",
+   "ap": "ap.1",
+   "Anslagskredit": 30000,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:9 Bekämpning av växtskadegörare",
+   "ap": "ap.1",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:10 Gårdsstöd m.m.",
+   "ap": "ap.1",
+   "Anslagskredit": 768157,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:10 Gårdsstöd m.m.",
+   "ap": "ap.4",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:11 Intervention för jordbruksprodukter m.m.",
+   "ap": "ap.1",
+   "Anslagskredit": 19433,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:12 Nationell medfinansiering till den gemensamma jordbrukspolitiken 2023–2027",
+   "ap": "ap.1",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:13 Finansiering från EU-budgeten till den gemensamma jordbrukspolitikens andra pelare 2023–2027",
+   "ap": "ap.1",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": 1100,
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:13 Finansiering från EU-budgeten till den gemensamma jordbrukspolitikens andra pelare 2023–2027",
+   "ap": "ap.2",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": 20000,
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:15 Konkurrenskraftig livsmedelssektor",
+   "ap": "ap.1",
+   "Anslagskredit": 1035,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:15 Konkurrenskraftig livsmedelssektor",
+   "ap": "ap.2",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:15 Konkurrenskraftig livsmedelssektor",
+   "ap": "ap.4",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:15 Konkurrenskraftig livsmedelssektor",
+   "ap": "ap.5",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:15 Konkurrenskraftig livsmedelssektor",
+   "ap": "ap.6",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:15 Konkurrenskraftig livsmedelssektor",
+   "ap": "ap.9",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:17 Åtgärder för landsbygdens miljö och struktur",
+   "ap": "ap.1",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": 62000,
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:17 Åtgärder för landsbygdens miljö och struktur",
+   "ap": "ap.3",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:17 Åtgärder för landsbygdens miljö och struktur",
+   "ap": "ap.4",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:17 Åtgärder för landsbygdens miljö och struktur",
+   "ap": "ap.5",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:17 Åtgärder för landsbygdens miljö och struktur",
+   "ap": "ap.7",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Allt",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:18 Miljöförbättrande åtgärder i jordbruket",
+   "ap": "ap.1",
+   "Anslagskredit": 1044,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:18 Miljöförbättrande åtgärder i jordbruket",
+   "ap": "ap.2",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:18 Miljöförbättrande åtgärder i jordbruket",
+   "ap": "ap.3",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:18 (2025) Från EU-budgeten finansierade åtgärder för landsbygdens miljö och struktur",
+   "ap": "ap.1 (2025)",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:19 Stöd till jordbrukets rationalisering m.m.",
+   "ap": "ap.2",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:26 Åtgärder för beredskap inom livsmedels- och dricksvattenområdet",
+   "ap": "ap.3",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Allt",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:27 Stödåtgärder för fiske och vattenbruk 2021–2027",
+   "ap": "ap.1",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": 16000,
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:28 Från EU-budgeten finansierade stödåtgärder för fiske och vattenbruk 2021–2027",
+   "ap": "ap.1",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": 67000,
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 515000,
+  "Räntekontokredit": 100000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 78127
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 78127
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 78127
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 78127
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 78127
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 78127
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 78127
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 78127
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 78127
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 78127
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 78127
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 78130
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:4 Bidrag till veterinär fältverksamhet",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "4 764",
+     "3 %",
+     "0"
+    ],
+    [
+     "1:5 Djurhälsovård och djurskyddsfrämjande åtgärder",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.2",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "1:6 Bekämpning av smittsamma djursjukdomar",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "4 000",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.2",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.4",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "1:8 Statens jordbruksverk",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "30 000",
+     "3 %",
+     "0"
+    ],
+    [
+     "1:9 Bekämpning av växtskadegörare",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "1:10 Gårdsstöd m.m.",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "768 157",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.4",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "1:11 Intervention för jordbruksprodukter m.m.",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "19 433",
+     "Inget",
+     "0"
+    ],
+    [
+     "1:12 Nationell medfinansiering till den gemensamma jordbrukspolitiken 2023–2027",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "1:13 Finansiering från EU-budgeten till den gemensamma jordbrukspolitikens andra pelare 2023–2027",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "0",
+     "1 100",
+     "0"
+    ],
+    [
+     "ap.2",
+     "0",
+     "20 000",
+     "0"
+    ],
+    [
+     "1:15 Konkurrenskraftig livsmedelssektor",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "1 035",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.2",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.4",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.5",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.6",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.9",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "1:17 Åtgärder för landsbygdens miljö och struktur",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "0",
+     "62 000",
+     "0"
+    ],
+    [
+     "ap.3",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.4",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.5",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.7",
+     "0",
+     "Allt",
+     "0"
+    ],
+    [
+     "1:18 Miljöförbättrande åtgärder i jordbruket",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "1 044",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.2",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.3",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "1:18 (2025) Från EU-budgeten finansierade åtgärder för landsbygdens miljö och struktur",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1 (2025)",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "1:19 Stöd till jordbrukets rationalisering m.m.",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.2",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "1:26 Åtgärder för beredskap inom livsmedels- och dricksvattenområdet",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.3",
+     "0",
+     "Allt",
+     "0"
+    ],
+    [
+     "1:27 Stödåtgärder för fiske och vattenbruk 2021–2027",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "0",
+     "16 000",
+     "0"
+    ],
+    [
+     "1:28 Från EU-budgeten finansierade stödåtgärder för fiske och vattenbruk 2021–2027",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "0",
+     "67 000",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Avslutade anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagstyp"
+    ],
+    [
+     "1:18 Miljöförbättrande åtgärder i jordbruket",
+     ""
+    ],
+    [
+     "ap.4",
+     "ram"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Medgivet överskridande",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Medgivet överskridande"
+    ],
+    [
+     "1:6 Bekämpning av smittsamma djursjukdomar",
+     ""
+    ],
+    [
+     "ap.1",
+     "92 000"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Beställningsbemyndiganden",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Bemyndigande",
+     "Utgifter mot anslag till följd av ekonomiska åtaganden",
+     "",
+     "",
+     ""
+    ],
+    [
+     "2026",
+     "2027",
+     "2028",
+     "2029 -",
+     "Slutår"
+    ],
+    [
+     "1:11 Intervention för jordbruksprodukter m.m.",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "180 400",
+     "92 600",
+     "85 400",
+     "2 400",
+     "2029"
+    ],
+    [
+     "1:12 Nationell medfinansiering till den gemensamma jordbrukspolitiken 2023–2027",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "4 000 000",
+     "2 300 000",
+     "1 200 000",
+     "500 000",
+     "2029"
+    ],
+    [
+     "1:13 Finansiering från EU-budgeten till den gemensamma jordbrukspolitikens andra pelare 2023–2027",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.2",
+     "3 386 000",
+     "1 894 000",
+     "985 000",
+     "507 000",
+     "2029"
+    ],
+    [
+     "ap.1",
+     "13 000",
+     "6 950",
+     "6 050",
+     "",
+     "2028"
+    ],
+    [
+     "1:15 Konkurrenskraftig livsmedelssektor",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.5",
+     "12 000",
+     "6 000",
+     "6 000",
+     "",
+     "2028"
+    ],
+    [
+     "1:26 Åtgärder för beredskap inom livsmedels- och dricksvattenområdet",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.3",
+     "1 140 000",
+     "761 600",
+     "166 600",
+     "211 800",
+     "2030"
+    ],
+    [
+     "1:27 Stödåtgärder för fiske och vattenbruk 2021–2027",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "206 000",
+     "111 000",
+     "78 000",
+     "17 000",
+     "2029"
+    ],
+    [
+     "1:28 Från EU-budgeten finansierade stödåtgärder för fiske och vattenbruk 2021–2027",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "440 000",
+     "205 300",
+     "175 500",
+     "59 200",
+     "2029"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "515 000"
+    ],
+    [
+     "Räntekontokredit",
+     "100 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "78 127"
+    ],
+    [
+     "2026-02-25",
+     "78 127"
+    ],
+    [
+     "2026-03-25",
+     "78 127"
+    ],
+    [
+     "2026-04-25",
+     "78 127"
+    ],
+    [
+     "2026-05-25",
+     "78 127"
+    ],
+    [
+     "2026-06-25",
+     "78 127"
+    ],
+    [
+     "2026-07-25",
+     "78 127"
+    ],
+    [
+     "2026-08-25",
+     "78 127"
+    ],
+    [
+     "2026-09-25",
+     "78 127"
+    ],
+    [
+     "2026-10-25",
+     "78 127"
+    ],
+    [
+     "2026-11-25",
+     "78 127"
+    ],
+    [
+     "2026-12-25",
+     "78 130"
+    ],
+    [
+     "Summa",
+     "937 527"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "1:8 ap.1",
+     "Förvaltningskostnader"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Offentligrättslig verksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Djur1",
+     "-15 399",
+     "-7 490",
+     "67 950",
+     "61 612",
+     "6 338",
+     "-16 551"
+    ],
+    [
+     "Växt1",
+     "-232",
+     "272",
+     "9 410",
+     "9 181",
+     "229",
+     "269"
+    ],
+    [
+     "Utsäde1",
+     "8 548",
+     "716",
+     "40 485",
+     "39 239",
+     "1 246",
+     "10 510"
+    ],
+    [
+     "Tillsyn1",
+     "-2 946",
+     "-2 682",
+     "38 335",
+     "37 596",
+     "739",
+     "-4 889"
+    ],
+    [
+     "Distriktsveterinärerna1",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0"
+    ],
+    [
+     "Djurregister1",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0"
+    ],
+    [
+     "Summa",
+     "-10 029",
+     "-9 184",
+     "156 180",
+     "147 628",
+     "8 552",
+     "-10 661"
+    ],
+    [
+     "Uppdragsverksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Utsäde1",
+     "-1 826",
+     "256",
+     "4 501",
+     "4 360",
+     "141",
+     "-1 429"
+    ],
+    [
+     "Tillsyn1",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0"
+    ],
+    [
+     "Distriktsveterinärerna2",
+     "-51 489",
+     "-560",
+     "897 216",
+     "882 170",
+     "15 046",
+     "-37 003"
+    ],
+    [
+     "Tjänsteexport1",
+     "1 517",
+     "0",
+     "800",
+     "1 050",
+     "-250",
+     "1 267"
+    ],
+    [
+     "Summa",
+     "-51 798",
+     "-304",
+     "902 517",
+     "887 580",
+     "14 937",
+     "-37 165"
+    ]
+   ]
+  }
+ ],
+ "has_fee_section": true,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 8,
+  "n_org": 1,
+  "n_assignments": 17,
+  "n_deadlines": 12,
+  "deadlines": [
+   "2026-03-01",
+   "2026-04-30",
+   "2026-05-15",
+   "2026-07-24",
+   "2026-09-30",
+   "2026-10-01",
+   "2026-10-02",
+   "2026-11-30",
+   "2027-02-22",
+   "2027-03-01",
+   "2027-04-30",
+   "2027-06-30"
+  ],
+  "partners": [
+   "Försvarsmakten",
+   "Kemikalieinspektionen",
+   "Livsmedelsverket",
+   "Läkemedelsverket",
+   "Länsstyrelserna",
+   "Myndigheten för civilt försvar",
+   "Myndigheten för samhällsskydd och beredskap",
+   "Naturvårdsverket",
+   "Statens veterinärmedicinska anstalt",
+   "Statskontoret",
+   "Tillväxtverket",
+   "Trafikverket",
+   "länsstyrelserna"
+  ],
+  "n_appropriations": 17,
+  "appropriations_total_tkr": 18120156,
+  "payment_plan_total_tkr": 937527,
+  "md_chars": 71385
+ },
+ "layout": "standard",
+ "warnings": []
+}

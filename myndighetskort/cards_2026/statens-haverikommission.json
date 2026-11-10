@@ -1,0 +1,297 @@
+{
+ "schema_version": 1,
+ "id": 25958,
+ "original_rbid": 25958,
+ "type": "Regleringsbrev",
+ "category": "Myndighet",
+ "date": "2025-12-16",
+ "year": "2026",
+ "name": "Statens haverikommission",
+ "slug": "statens-haverikommission",
+ "department": "Försvarsdepartementet",
+ "expenditure_areas": [
+  6
+ ],
+ "registry_numbers": [
+  "Fö2025/01610",
+  "Fö2025/01825 (delvis)",
+  "Fö2025/01870"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1"
+  ],
+  "bet": [
+   "2025/26:FöU1"
+  ],
+  "rskr": [
+   "2025/2026:111"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "Statens haverikommission har till uppgift att undersöka olyckor och tillbud till olyckor i syfte att förbättra säkerheten och så långt som möjligt klarlägga händelseförlopp, orsaker till händelser samt skador och andra effekter. Statens haverikommissions uppgifter att undersöka olyckor och tillbud till olyckor framgår av lagen (1990:712) om undersökning av olyckor.",
+ "goals": [],
+ "org": [],
+ "assignments": [
+  {
+   "title": "Prognoser",
+   "group": [],
+   "text": "Statens haverikommission ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Av kommentarerna ska framgå vilka antaganden som använts i prognosen, vilka osäkerhetsfaktorer som finns och vad som orsakat eventuella förändringar. Prognoserna lämnas i informationssystemet Hermes senast den\n\n- 2 februari\n- 22 april\n- 24 juli\n- 9 november",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "25958:assignments:0"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "2:7",
+   "name": "Statens haverikommission",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 6,
+    "name": "Försvar och samhällets krisberedskap"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Statens haverikommission",
+     "amount_tkr": 67141,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Statens haverikommission - del till SHK (ram)",
+       "amount_tkr": 67141
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Statens haverikommission - del till SHK",
+     "text": "Anslaget får användas för att finansiera Statens haverikommissions förvaltningsutgifter. Anslaget får även användas för myndighetens verksamhet med undersökningar enligt lagen (1990:712) om undersökning av olyckor och samverkan med berörda myndigheter i deras olycksförebyggande verksamhet."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "2:7 Statens haverikommission",
+   "ap": "ap.1",
+   "Anslagskredit": 2014,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 2000,
+  "Räntekontokredit": 10000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 5595
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 5595
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 5595
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 5595
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 5595
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 5595
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 5595
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 5595
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 5595
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 5595
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 5595
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 5596
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "2:7 Statens haverikommission",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "2 014",
+     "3 %",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "2 000"
+    ],
+    [
+     "Räntekontokredit",
+     "10 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "5 595"
+    ],
+    [
+     "2026-02-25",
+     "5 595"
+    ],
+    [
+     "2026-03-25",
+     "5 595"
+    ],
+    [
+     "2026-04-25",
+     "5 595"
+    ],
+    [
+     "2026-05-25",
+     "5 595"
+    ],
+    [
+     "2026-06-25",
+     "5 595"
+    ],
+    [
+     "2026-07-25",
+     "5 595"
+    ],
+    [
+     "2026-08-25",
+     "5 595"
+    ],
+    [
+     "2026-09-25",
+     "5 595"
+    ],
+    [
+     "2026-10-25",
+     "5 595"
+    ],
+    [
+     "2026-11-25",
+     "5 595"
+    ],
+    [
+     "2026-12-25",
+     "5 596"
+    ],
+    [
+     "Summa",
+     "67 141"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "2:7 ap.1",
+     "Statens haverikommission - del till SHK"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [],
+ "has_fee_section": false,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 0,
+  "n_org": 0,
+  "n_assignments": 1,
+  "n_deadlines": 0,
+  "deadlines": [],
+  "partners": [],
+  "n_appropriations": 1,
+  "appropriations_total_tkr": 67141,
+  "payment_plan_total_tkr": 67141,
+  "md_chars": 4172
+ },
+ "layout": "standard",
+ "warnings": []
+}

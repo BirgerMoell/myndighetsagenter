@@ -1,0 +1,742 @@
+{
+ "schema_version": 1,
+ "id": 26303,
+ "original_rbid": 25901,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-06-18",
+ "year": "2026",
+ "name": "Statens fastighetsverk",
+ "slug": "statens-fastighetsverk",
+ "department": "Finansdepartementet",
+ "expenditure_areas": [
+  2
+ ],
+ "registry_numbers": [
+  "Fi2025/01617",
+  "Fi2026/00478",
+  "Fi2026/01073"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1",
+   "2025/26:99"
+  ],
+  "bet": [
+   "2025/26:FiU2",
+   "2025/26:FiU21"
+  ],
+  "rskr": [
+   "2025/26:133",
+   "2025/26:344"
+  ]
+ },
+ "n_attachments_stated": 2,
+ "mission": "",
+ "goals": [
+  {
+   "title": "Mål",
+   "group": [],
+   "text": "Fastigheternas värden ska bevaras på en för ägaren och brukaren långsiktigt lämplig nivå.\n\nMyndigheten ska tillhandahålla ändamålsenliga och konkurrenskraftiga lokaler, mark och anläggningar åt sina hyresgäster och uppfattas som en serviceinriktad hyresvärd.\n\nMyndigheten ska vidare förvalta fastigheterna så att en god resurshushållning och en hög ekonomisk effektivitet uppnås samt verka för att de nationella miljökvalitetsmålen uppnås.\n\nMyndigheten ska i sin verksamhet uppnå ett resultat efter finansiella poster motsvarande en avkastning om 5 procent på 30 procent av myndighetens genomsnittliga lån för investeringar i fastigheter och anläggningar i Riksgäldskontoret. Bidragsfastigheter samt mark och skog utan avkastningsförmåga är inte belånade och är därför undantagna från avkastningskravet. Även fastigheter med kostnadshyra är undantagna från avkastningskravet.\n\nFör huvudbyggnaderna för Kungliga Dramatiska teatern AB, Nationalmuseum, Naturhistoriska riksmuseet och Historiska museet ska myndigheten övergå till en intäktsjusterad hyressättning, dvs. att hyran sätts på en marknadsmässig nivå vid inträdet i hyresmodellen och sedan justeras under avtalsperioden. För huvudbyggnaden för Kungliga Operan AB (den byggnad som har en kostnadshyra) ska myndigheten över tid uppnå full täckning för kostnaderna för ränta, avskrivningar, drift, underhåll och administration avseende den berörda byggnaden. Räntesatsen ska motsvara den genomsnittliga räntan för myndighetens upplåning i Riksgäldskontoret 2025.\n\nÅterrapportering:\nMyndighetens redovisning ska basera sig på verksamhetsgrenarna marknadshyresfastigheter, kostnadshyresfastigheter, bidragsfastigheter och mark.\n\nMyndighetens resultaträkning och finansieringsanalys ska utformas på ett sätt som möjliggör jämförelser med andra fastighetsförvaltande myndigheter och statliga fastighetsförvaltande aktiebolag.\n\nMyndigheten ska redovisa:\n\n– det ingående respektive utgående bokförda värdet på fastigheterna inom respektive verksamhetsgren\\\n– förändringar av värdet på tillgångarna (fastigheternas bokförda värde och pågående byggprojekt) för de olika verksamhetsgrenarna jämfört med tidigare år\\\n– de totala kostnaderna för drift, underhåll och administration för marknadshyresfastigheter, kostnadshyresfastigheter och bidragsfastigheter\\\n– de totala overheadkostnaderna\\\n– driftkostnad i kronor per kvadratmeter för marknadshyresfastigheter, kostnadshyresfastigheter och bidragsfastigheter\\\n– underhållskostnad i kronor per kvadratmeter för marknadshyresfastigheter, kostnadshyresfastigheter och bidragsfastigheter\\\n– administrationskostnad i kronor per kvadratmeter för marknadshyresfastigheter, kostnadshyresfastigheter och bidragsfastigheter\\\n– avkastning i procent\\\n– direktavkastning per verksamhetsgren\\\n– driftsnetto i kronor per kvadratmeter per verksamhetsgren\\\n– uthyrd area i procent för marknadshyresfastigheter, kostnadshyresfastigheter och bidragsfastigheter\\\n– ytmässig vakansgrad i procent för marknadshyresfastigheter, kostnadshyresfastigheter och bidragsfastigheter\\\n– ekonomisk vakansgrad för marknadshyresfastigheter, kostnadshyresfastigheter och bidragsfastigheter\\\n– hyresintäkt i kronor per kvadratmeter per verksamhetsgren\\\n– soliditet.\n\nRedovisningen ska innehålla motsvarande uppgifter för de två föregående budgetåren. Väsentliga avvikelser ska kommenteras. I redovisningen ska anges vilken typ av kostnader som ingår i drift, underhåll respektive administration. Overheadkostnader ska ingå i redovisningen för varje verksamhetsgren.\n\nKategorierna anskaffning och utveckling av nya investeringar samt vidmakthållande av befintliga investeringar ska redovisas separat med totalbelopp per kategori.\n\nMyndigheten ska redovisa de försäljningar av fast egendom som överstigit 20 000 000 kronor. Av denna rapportering ska antalet fastigheter och resultatet av de enskilda försäljningarna framgå.\n\nÅrets resultat, avkastningskrav och inleveranser ska redovisas i en separat tabell.\n\nMyndigheten ska redovisa hur den har verkat för att öka intäkterna och minska kostnaderna, i syfte att på sikt minska underskottet avseende bidragsfastigheterna. Av redovisningen ska framgå vilka effekter de vidtagna åtgärderna har fått på inäkterna och kostnaderna.\n\nMyndigheten ska redovisa hur mycket medel från anslaget 1:9 Bidragsfastigheter som använts för underhåll på Stockholms slotts fasader och för säkerhetsåtgärder vid slottet.\n\nMyndigheten ska redovisa hur de utökade medlen inom anslaget 1:9 Bidragsfastigheter har använts, framför allt hur ambitionsnivån för underhåll av fastigheter med särskilda kulturhistoriska värden har höjts.\n\nMyndigheten ska redogöra för hur den i sin verksamhet har bidragit till genomförandet av för myndigheten aktuella delar av det riksdagsbundna målet för Agenda 2030, och hur myndigheten har bidragit till att uppfylla för myndigheten aktuella delar av de nationella miljökvalitetsmålen.\n\nMyndigheten ska redogöra för hur den i sin verksamhet har bidragit till genomförandet av det nationella målet för stadsutveckling (skr. 2024/25:96).\n\nMyndigheten ska redovisa vidtagna och planerade åtgärder för att öka möjligheterna att planera för underhållet av fastigheter där statliga kulturinstitutioner med publik verksamhet är hyresgäster.\n\nMyndigheten ska redogöra för hur den i sin verksamhet har bidragit till att främja goda villkor för entreprenörskap, tillväxt och företagande.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Nationalmuseum",
+    "Naturhistoriska riksmuseet",
+    "Riksgäldskontoret"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla"
+   ],
+   "anslag_refs": [
+    "1:9"
+   ],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "det ingående respektive utgående bokförda värdet på fastigheterna inom respektive verksamhetsgren\\",
+    "förändringar av värdet på tillgångarna (fastigheternas bokförda värde och pågående byggprojekt) för de olika verksamhetsgrenarna jämfört med tidigare år\\",
+    "de totala kostnaderna för drift, underhåll och administration för marknadshyresfastigheter, kostnadshyresfastigheter och bidragsfastigheter\\",
+    "de totala overheadkostnaderna\\",
+    "driftkostnad i kronor per kvadratmeter för marknadshyresfastigheter, kostnadshyresfastigheter och bidragsfastigheter\\",
+    "underhållskostnad i kronor per kvadratmeter för marknadshyresfastigheter, kostnadshyresfastigheter och bidragsfastigheter\\",
+    "administrationskostnad i kronor per kvadratmeter för marknadshyresfastigheter, kostnadshyresfastigheter och bidragsfastigheter\\",
+    "avkastning i procent\\",
+    "direktavkastning per verksamhetsgren\\",
+    "driftsnetto i kronor per kvadratmeter per verksamhetsgren\\",
+    "uthyrd area i procent för marknadshyresfastigheter, kostnadshyresfastigheter och bidragsfastigheter\\",
+    "ytmässig vakansgrad i procent för marknadshyresfastigheter, kostnadshyresfastigheter och bidragsfastigheter\\",
+    "ekonomisk vakansgrad för marknadshyresfastigheter, kostnadshyresfastigheter och bidragsfastigheter\\",
+    "hyresintäkt i kronor per kvadratmeter per verksamhetsgren\\"
+   ],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26303:goals:0"
+  }
+ ],
+ "org": [],
+ "assignments": [
+  {
+   "title": "Prognoser",
+   "group": [],
+   "text": "Myndigheten ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Prognoserna lämnas via Statsredovisningssystemet i Hermes senast den\n\n– 2 februari\\\n– 22 april\\\n– 24 juli\\\n– 9 november.\n\nMyndigheten ska redovisa en prognos för de förslag till beställningsbemyndiganden som lämnats i budgetunderlaget och för de åtaganden som ingåtts med stöd av äldre beställningsbemyndiganden. Prognosen ska lämnas senast den 24 juli 2026 via Statsredovisningssystemet i Hermes och utformas enligt närmare information från Statskontoret.",
+   "dates": [
+    "2026-07-24"
+   ],
+   "deadlines": [
+    "2026-07-24"
+   ],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [
+    "Statskontoret"
+   ],
+   "channels": [
+    "hermes",
+    "budgetunderlag"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26303:assignments:0"
+  },
+  {
+   "title": "Investeringar",
+   "group": [],
+   "text": "Myndigheten ska dels i budgetunderlaget, dels senast den 12 juni och den 9 oktober, 2026 redovisa en investeringsplan för 2026–2029 avseende påbörjade och planerade byggnadsprojekt. Planen ska indelas i kategorierna marknadshyresfastigheter, kostnadshyresfastigheter, bidragsfastigheter och mark. Objekt för vilka investeringskostnaden överstiger 20 000 000 kronor ska redovisas separat i underlaget, medan mindre objekt får behandlas samlat. Myndigheten ska också vid samma tillfällen redovisa investeringsutfallet jämfört med den fastställda investeringsplanen för 2026–2028. Avvikelser i fråga om utgifter eller tidsförhållanden ska kommenteras för investeringar som överstiger 20 000 000 kronor. Myndigheten ska också vid dessa tillfällen redovisa sin plan för användningen av låneramen för samhällsinvesteringar.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "budgetunderlag"
+   ],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26303:assignments:1"
+  },
+  {
+   "title": "Uppföljning av investeringsbeslut",
+   "group": [],
+   "text": "Myndigheten ska i budgetunderlaget redovisa investeringar som regeringen beviljat och som avser projekt som pågår eller har avslutats under det närmast föregående året. Av redovisningen ska framgå:\n\n– det objekt som investeringen avser\\\n– datum för det senaste regeringsbeslutet\\\n– av regeringen beviljad investeringsram\\\n– utfall närmast föregående år\\\n– ackumulerat utfall\\\n– om det är fråga om ett pågående projekt, prognos för totalt utfall\\\n– beräknat eller slutligt datum för färdigställande av projektet.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "budgetunderlag"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos",
+    "analysera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "det objekt som investeringen avser\\",
+    "datum för det senaste regeringsbeslutet\\",
+    "av regeringen beviljad investeringsram\\",
+    "utfall närmast föregående år\\",
+    "ackumulerat utfall\\",
+    "om det är fråga om ett pågående projekt, prognos för totalt utfall\\",
+    "beräknat eller slutligt datum för färdigställande av projektet."
+   ],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26303:assignments:2"
+  },
+  {
+   "title": "Våtmarker",
+   "group": [],
+   "text": "Myndigheten ska, i den utsträckning som det är förenligt med dess grunduppdrag, anlägga och restaurera våtmarker i syfte att bidra till minskade växthusgasutsläpp, biologisk mångfald, minskad övergödning och förbättrad vattenbalansering. Uppdraget finansieras av medel från anslaget 1:3 Åtgärder för värdefull natur inom utgiftsområdet 20 Allmän miljö- och naturvård, anslagspost 2 Kostnader för skötsel av skyddade områden, artbevarande, friluftsliv m.m. Bidraget betalas ut efter rekvisition ställd till Naturvårdsverket. Uppdraget ska i samband med årsredovisningen för 2026 redovisas till Regeringskansliet (Finansdepartementet, med kopia till Klimat- och näringslivsdepartementet).",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [
+    "Naturvårdsverket",
+    "Regeringskansliet (Finansdepartementet, med kopia till Klimat- och näringslivsdepartementet)"
+   ],
+   "partners": [
+    "Naturvårdsverket"
+   ],
+   "channels": [
+    "årsredovisning"
+   ],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [
+    "1:3"
+   ],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26303:assignments:3"
+  },
+  {
+   "title": "Förändringar av beståndet",
+   "group": [],
+   "text": "Myndigheten ska redovisa vilka åtgärder som vidtagits under 2026 i syfte att löpande pröva och anpassa sitt innehav av bidragsfastigheter samt med anledning av myndighetens avyttringsplan. Uppdraget ska senast den 29 januari 2027 redovisas till Regeringskansliet (Finansdepartementet).",
+   "dates": [
+    "2027-01-29"
+   ],
+   "deadlines": [
+    "2027-01-29"
+   ],
+   "recipients": [
+    "Regeringskansliet (Finansdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26303:assignments:4"
+  },
+  {
+   "title": "Pågående uppdrag",
+   "group": [],
+   "text": "Myndigheten har i uppdrag att vidta åtgärder för att minska energianvändningen i de byggnader som myndigheten förvaltar (I2019/03309). Myndigheten ska årligen, i samband med inlämnandet av årsredovisningen, till Regeringskansliet (Landsbygds- och infrastrukturdepartementet) redovisa vilka åtgärder som har vidtagits.\n\nMyndigheten har också i uppdrag att redovisa vilka åtgärder som vidtagits, och vilka åtgärder den avser att vidta under 2025, i syfte att löpande pröva och anpassa sitt innehav av bidragsfastigheter samt med anledning av myndighetens avyttringsplan. Uppdraget ska senast den 30 januari 2026 slutredovisas till Regeringskansliet (Finansdepartementet).\n\nMyndigheten har även i uppdrag att undersöka om det finns förutsättningar för staten att förvärva en fastighet som kan användas för att förvara vissa skyddsvärda handlingar och, om det bedöms lämpligt, vidta förberedande åtgärder för ett sådant förvärv. Uppdraget ska genomföras i dialog med Regeringskansliet (Finansdepartementet) och senast den 1 mars 2026 redovisas till Regeringskansliet.",
+   "dates": [
+    "2026-01-30",
+    "2026-03-01"
+   ],
+   "deadlines": [
+    "2026-01-30",
+    "2026-03-01"
+   ],
+   "recipients": [
+    "Regeringskansliet",
+    "Regeringskansliet (Finansdepartementet)",
+    "Regeringskansliet (Landsbygds- och infrastrukturdepartementet)"
+   ],
+   "partners": [],
+   "channels": [
+    "årsredovisning",
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "26303:assignments:5"
+  },
+  {
+   "title": "Täckning av ackumulerat underskott samt analys och förslag till nya nyckeltal och resultatindikatorer",
+   "group": [],
+   "text": "Myndigheten ska föreslå hur det ackumulerade underskottet för verksamhetsgrenen kostnadshyresfastigheter ska täckas. Myndigheten ska vidare analysera om det till följd av införandet av intäktsjusterad hyressättning för huvudbyggnaderna för vissa kulturinstitutioner finns behov av nya nyckeltal och resultatindikatorer för att följa upp den aktuella verksamheten, och i så fall lämna förslag på sådana. Myndigheten ska vid utförandet av uppdraget vid behov inhämta synpunkter från Statskontoret. Uppdraget ska senast den 1 oktober 2026 redovisas till Regeringskansliet (Finansdepartementet).",
+   "dates": [
+    "2026-10-01"
+   ],
+   "deadlines": [
+    "2026-10-01"
+   ],
+   "recipients": [
+    "Regeringskansliet (Finansdepartementet)"
+   ],
+   "partners": [
+    "Statskontoret"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "föreslå",
+    "samordna",
+    "utveckla",
+    "statistik_data"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26303:assignments:6"
+  },
+  {
+   "title": "Förvärv av ambassadlokaler i Ukraina",
+   "group": [],
+   "text": "Myndigheten ska vidta förberedande åtgärder för att kunna förvärva en eller flera fastigheter eller byggnader i Ukraina som ska användas som ambassadlokaler. Uppdraget ska genomföras i dialog med Regeringskansliet (Utrikesdepartementet) och senast den 31 augusti 2026 redovisas till Regeringskansliet (Finansdepartementet, med kopia till Utrikesdepartementet). Av redovisningen ska framgå vilka alternativ som övervägts.",
+   "dates": [
+    "2026-08-31"
+   ],
+   "deadlines": [
+    "2026-08-31"
+   ],
+   "recipients": [
+    "Regeringskansliet (Finansdepartementet, med kopia till Utrikesdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26303:assignments:7"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "1:9",
+   "name": "Bidragsfastigheter",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 2,
+    "name": "Samhällsekonomi och finansförvaltning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Statens fastighetsverk",
+     "amount_tkr": 515000,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Bidragsfastigheter (ram)",
+       "amount_tkr": 515000
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Bidragsfastigheter",
+     "text": "Anslaget får användas för utgifter för underhåll av och löpande driftsunderskott för de bidragsfastigheter som myndigheten förvaltar. Anslaget får även användas för att utveckla dessa fastigheter."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "1:18",
+   "name": "Renovering av operabyggnaden i Stockholm",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 2,
+    "name": "Samhällsekonomi och finansförvaltning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Statens fastighetsverk",
+     "amount_tkr": 1000,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Renovering av operabyggnaden i Stockholm (ram)",
+       "amount_tkr": 1000
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Renovering av operabyggnaden i Stockholm",
+     "text": "Anslagsposten får användas för utgifter för renovering och ombyggnation av operabyggnaden i Stockholm. Medel får dock användas först efter beslut av regeringen."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "1:9 Bidragsfastigheter",
+   "ap": "ap.1",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:18 Renovering av operabyggnaden i Stockholm",
+   "ap": "ap.1",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 250000,
+  "Räntekontokredit": 150000,
+  "- Låneram": 15200000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 42917
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 42917
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 42917
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 42917
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 42917
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 42917
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 42917
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 42917
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 42917
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 42917
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 42917
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 42913
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:9 Bidragsfastigheter",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "1:18 Renovering av operabyggnaden i Stockholm",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "0",
+     "Inget",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Beställningsbemyndiganden",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Bemyndigande",
+     "Utgifter mot anslag till följd av ekonomiska åtaganden",
+     "",
+     "",
+     ""
+    ],
+    [
+     "2026",
+     "2027",
+     "2028",
+     "2029 -",
+     "Slutår"
+    ],
+    [
+     "1:9 Bidragsfastigheter",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "100 000",
+     "100 000",
+     "",
+     "",
+     "2027"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "250 000"
+    ],
+    [
+     "Räntekontokredit",
+     "150 000"
+    ],
+    [
+     "Låneram för samhällsinvesteringar"
+    ],
+    [
+     "- Låneram",
+     "15 200 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "42 917"
+    ],
+    [
+     "2026-02-25",
+     "42 917"
+    ],
+    [
+     "2026-03-25",
+     "42 917"
+    ],
+    [
+     "2026-04-25",
+     "42 917"
+    ],
+    [
+     "2026-05-25",
+     "42 917"
+    ],
+    [
+     "2026-06-25",
+     "42 917"
+    ],
+    [
+     "2026-07-25",
+     "42 917"
+    ],
+    [
+     "2026-08-25",
+     "42 917"
+    ],
+    [
+     "2026-09-25",
+     "42 917"
+    ],
+    [
+     "2026-10-25",
+     "42 917"
+    ],
+    [
+     "2026-11-25",
+     "42 917"
+    ],
+    [
+     "2026-12-25",
+     "42 913"
+    ],
+    [
+     "Summa",
+     "515 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "1:9 ap.1",
+     "Bidragsfastigheter"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Uppdragsverksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Marknadshyresfastigheter1",
+     "6 626 622",
+     "713 040",
+     "2 976 880",
+     "2 378 363",
+     "598 517",
+     "7 938 179"
+    ],
+    [
+     "Kostnadshyresfastigheter1",
+     "-168 702",
+     "-2 347",
+     "190 658",
+     "226 014",
+     "-35 356",
+     "-206 405"
+    ],
+    [
+     "Bidragsfastigheter2",
+     "-1 937",
+     "1 121",
+     "91 613",
+     "91 613",
+     "0",
+     "-816"
+    ],
+    [
+     "Mark1",
+     "782 507",
+     "81 271",
+     "247 832",
+     "175 995",
+     "71 837",
+     "935 615"
+    ],
+    [
+     "Uppdrag1",
+     "-4 822",
+     "0",
+     "0",
+     "5",
+     "-5",
+     "-4 827"
+    ],
+    [
+     "Summa",
+     "7 233 668",
+     "793 085",
+     "3 506 983",
+     "2 871 990",
+     "634 993",
+     "8 661 746"
+    ]
+   ]
+  }
+ ],
+ "has_fee_section": true,
+ "exceptions_text": "**1. Myndigheten ska inte tillämpa regleringen i 2 kap. 1 § första stycket kapitalförsörjningsförordningen (2011:210) om lånefinansiering av anläggningstillgångar hos Riksgäldskontoret för bidragsfastigheter. Sådana fastigheter och förbättringskostnader hänförliga till dessa ska inte lånefinansieras. För bidragsfastigheterna ska inte heller bestämmelserna i 5 kap. 3 § förordningen (2000:605) om årsredovisning och budgetunderlag om anskaffningsvärdet för anläggningstillgångar tillämpas.**\n\n**2. Inom ramen för sitt förvaltningsuppdrag och de ekonomiska resurser som myndigheten förfogar över får myndigheten, utan hinder av beloppsbegränsningen i 10 § förordningen (1993:527) om förvaltning av statliga fastigheter m.m., besluta om investeringar och förvärv i de fall den beräknade investeringskostnaden inte överstiger 40 000 000 kronor per projekt. Om den beräknade kostnaden överstiger detta belopp ska myndigheten lämna över frågan till regeringen för prövning.**\n\n**3. Myndigheten ska inte tillämpa 6 § förordningen (1993:1138) om hantering av statliga fordringar när myndigheten ger hyresgäster anstånd med betalning av hyra.**\n\n**ÖVRIGA BESTÄMMELSER**\n\n**1. Myndigheten får besluta om att förvaltningsansvaret enligt 16 § förordningen (1993:527) om förvaltning av statliga fastigheter m.m., ska föras över till andra fastighetsförvaltande myndigheter i sådana fall då de berörda myndigheterna är överens om villkoren för överföringen och det uppskattade värdet på fastigheten inte överstiger 20 000 000 kronor. Myndigheten ska i årsredovisningen ange de fastigheter för vilka förvaltningsansvaret har förts över till en annan myndighet, deras värde och skälen för varje överföring.**\n\n**2. Myndigheten ska redovisa 1 323 000 kronor mot inkomsttitel 2811 Övriga inkomster av statens verksamhet för finansiering av den förvaltningsgemensamma digitala infrastrukturen.**\n\n**3. Myndigheten ska redovisa 49 385 000 kronor mot inkomsttitel 2215 Inlevererat överskott av statens fastighetsförvaltning.**\n\n**Bilaga 1 till Regeringsbeslut II:14, 2026-06-18**\n\n**Diarienummerförteckning**\n\nFi2025/01617\\\nFi2026/00478\\\nFi2026/01073\\\nFi2026/01437 (delvis)\\\nFi2026/01546\n\nPå regeringens vägnar\n\nNiklas Wykman\n\nEva Hoffmann Holm\n\n**Kopia till**\n\nFinansdepartementet/BA, DOF, IEA och SFÖ\\\nStatsrådsberedningen/FCK och REV\\\nUtrikesdepartementet/FAST och PLAN\\\nJustitiedepartementet/SSK\\\nKlimat- och näringslivsdepartementet/E och NM\\\nKulturdepartementet/KKM\\\nArbetsmarknadsdepartementet/AA och JÄM\\\nLandsbygds- och infrastrukturdepartementet/BB och LB FJR\\\nFörvaltningsavdelningen/EKA\\\nriksdagen, finansutskottet\\\nRiksgäldskontoret\\\nRiksantikvarieämbetet\\\nStatskontoret\\\nKungliga Operan AB\\\nKungliga Dramatiska Teatern AB\\\nNationalmuseum\\\nNaturhistoriska riksmuseet\\\nStatens historiska museer",
+ "summary": {
+  "n_goals": 1,
+  "n_org": 0,
+  "n_assignments": 8,
+  "n_deadlines": 6,
+  "deadlines": [
+   "2026-01-30",
+   "2026-03-01",
+   "2026-07-24",
+   "2026-08-31",
+   "2026-10-01",
+   "2027-01-29"
+  ],
+  "partners": [
+   "Nationalmuseum",
+   "Naturhistoriska riksmuseet",
+   "Naturvårdsverket",
+   "Riksgäldskontoret",
+   "Statskontoret"
+  ],
+  "n_appropriations": 2,
+  "appropriations_total_tkr": 516000,
+  "payment_plan_total_tkr": 515000,
+  "md_chars": 19748
+ },
+ "layout": "standard",
+ "warnings": []
+}

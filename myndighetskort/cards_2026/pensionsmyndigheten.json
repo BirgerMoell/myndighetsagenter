@@ -1,0 +1,1265 @@
+{
+ "schema_version": 1,
+ "id": 26063,
+ "original_rbid": 26063,
+ "type": "Regleringsbrev",
+ "category": "Myndighet",
+ "date": "2025-12-18",
+ "year": "2026",
+ "name": "Pensionsmyndigheten",
+ "slug": "pensionsmyndigheten",
+ "department": "Socialdepartementet",
+ "expenditure_areas": [
+  11,
+  12
+ ],
+ "registry_numbers": [
+  "S2025/02092",
+  "S2025/02093 (delvis)",
+  "S2025/01669"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1"
+  ],
+  "bet": [
+   "2025/26:SfU2",
+   "2025/26:SfU3"
+  ],
+  "rskr": [
+   "2025/26:102",
+   "2025/26:108"
+  ]
+ },
+ "n_attachments_stated": 1,
+ "mission": "",
+ "goals": [
+  {
+   "title": "Mål för tillgänglighet och handläggning",
+   "group": [],
+   "text": "Tillgängligheten i telefonin ska vara god och stabil. Handläggningstider och ärendebalanser för ärenden avseende bostadstillägg och allmän pension ska fortsatt minska till långsiktigt låga och stabila nivåer.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26063:goals:0"
+  },
+  {
+   "title": "Mål för en återbetalningsverksamhet i balans",
+   "group": [],
+   "text": "Färre ska bli återbetalningsskyldiga. Handläggningen av återkrav ska ske skyndsamt, balansen av återkravsärenden ska minska, återbetalningen ska öka och besluten ska hålla hög rättslig kvalitet.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26063:goals:1"
+  },
+  {
+   "title": "Mål för minskade felaktiga utbetalningar",
+   "group": [],
+   "text": "Pensionsmyndigheten ska bidra till målet att de felaktiga utbetalningarna från välfärdssystemen och den brottslighet som riktas mot dessa system ska minska. Omfattningen av felaktiga utbetalningar från de ersättningar som Pensionsmyndigheten hanterar och den brottslighet som riktas mot dessa ersättningar ska därför minska.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26063:goals:2"
+  },
+  {
+   "title": "Återrapporteringskrav för minskade felaktiga utbetalningar",
+   "group": [],
+   "text": "Pensionsmyndigheten ska redovisa måluppfyllelsen, genomförda åtgärder för att minska de felaktiga utbetalningarna och den brottslighet som riktas mot välfärdssystemen samt en bedömning av åtgärdernas effekter.\n\nRedovisningen ska därutöver omfatta följande:\n\n- Upptäckta felaktiga utbetalningar (antal utbetalningar och totalt belopp) samt andel felaktiga utbetalningar som har orsakats av Pensionsmyndigheten.\n- De upptäckta felaktiga utbetalningarnas andel av det totalt utbetalda beloppet.\n- Andelen upptäckta felaktiga utbetalningar av de uppskattade totala felaktiga utbetalningarna.\n- Konstaterade felaktiga utbetalningar i kontrollutredningsverksamheten per krona i kostnader för kontrollarbetet.\n- Återbetalda medel samt andelen återbetalda medel av upptäckta felaktiga utbetalningar.\n- Återkrav (antal och belopp) och total fordran.\n- Antal polisanmälningar.\n\nMed kostnaden för kontrollarbetet avses en uppskattning av kostnaderna som är direkt relaterade till kostnader för kontrollåtgärder som vidtas inom kontrollutredningsverksamheten.\n\nRedovisningen ska göras per ersättning för de ersättningar för vilka de sammanlagda utbetalningarna uppgick till 1 miljard kronor eller mer under 2026 och totalt. Därtill ska en analys göras av hur utfallet av indikatorerna förändrats över tid samt orsaker till förändringen.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "tillsyn_kontroll",
+    "statistik_data"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "Upptäckta felaktiga utbetalningar (antal utbetalningar och totalt belopp) samt andel felaktiga utbetalningar som har orsakats av Pensionsmyndigheten.",
+    "De upptäckta felaktiga utbetalningarnas andel av det totalt utbetalda beloppet.",
+    "Andelen upptäckta felaktiga utbetalningar av de uppskattade totala felaktiga utbetalningarna.",
+    "Konstaterade felaktiga utbetalningar i kontrollutredningsverksamheten per krona i kostnader för kontrollarbetet.",
+    "Återbetalda medel samt andelen återbetalda medel av upptäckta felaktiga utbetalningar.",
+    "Återkrav (antal och belopp) och total fordran.",
+    "Antal polisanmälningar."
+   ],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26063:goals:3"
+  },
+  {
+   "title": "It-utveckling",
+   "group": [],
+   "text": "Pensionsmyndigheten ska redovisa de viktigaste it-utvecklingsinsatserna som har genomförts under 2026. Redovisningen ska göras utifrån förväntad nytta, påverkan på myndighetens sätt att utföra sina uppgifter och när resultat av it-utvecklingsinsatserna förväntas uppstå. Vidare ska Pensionsmyndigheten redovisa vilka större framtida utmaningar som har identifierats, men där något it-utvecklingsarbete ännu inte har inletts. Myndigheten ska även redovisa de resultat som har uppkommit under året och som härrör från it-utveckling, samt hur tilldelade medel för it-utveckling i budgetpropositionen för 2026 har disponerats.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "digitalisering_ai"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26063:goals:4"
+  },
+  {
+   "title": "Återrapporteringskrav om informations- och kommunikationsverksamhet",
+   "group": [],
+   "text": "Pensionsmyndigheten ska redovisa kostnaderna för sin informations- och kommunikationsverksamhet och hur verksamheten har bidragit till myndighetens förmåga att uppfylla sina kärnuppgifter. Av redovisningen ska bl.a. framgå vilken uppgift eller vilka uppdrag som ligger till grund för respektive verksamhet/ insats som motiverar de val av kommunikationsmedel (kanalval) som har gjorts.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26063:goals:5"
+  },
+  {
+   "title": "Efterlevnad av internationella sanktioner",
+   "group": [],
+   "text": "Pensionsmyndigheten ska redovisa vilka förebyggande åtgärder som har vidtagits, enskilt och i samverkan med andra myndigheter, för att främja efterlevnaden av EU:s sanktionsförordningar och den svenska sanktionslagstiftningen.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26063:goals:6"
+  }
+ ],
+ "org": [],
+ "assignments": [
+  {
+   "title": null,
+   "group": [],
+   "text": "Redovisningen av respektive uppdrag nedan ska hänvisa till regleringsbrevet för 2026 avseende Pensionsmyndigheten.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26063:assignments:0"
+  },
+  {
+   "title": "Uppföljning av målet för tillgänglighet och handläggning",
+   "group": [],
+   "text": "Pensionsmyndigheten ska, för relevanta indikatorer avseende produktivitet, handläggningstider, ärendebalanser och tillgänglighet, redovisa månadsutfall, ny prognos samt jämförelse med föregående prognos. Redovisningen ska innehålla uppgifter på månadsbasis om antalet inkomna och avslutade ärenden, handläggningstider, ärendebalanser, produktivitet per årsarbetare, antalet årsarbetare, antalet inkomna samtal, andelen samtal som har besvarats och väntetid, samt övriga indikatorer som myndigheten bedömer som relevanta för att följa utvecklingen. Redovisningen ska omfatta nyansökningar, ändringsärenden och omprövningar. Resultaten och utvecklingen ska analyseras och kommenteras i redovisningen. Redovisningar av uppdraget ska lämnas till Regeringskansliet (Socialdepartementet) senast den 22 april och den 21 oktober 2026.",
+   "dates": [
+    "2026-10-21"
+   ],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-04-22"
+   ],
+   "recipients": [
+    "Regeringskansliet (Socialdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "prognos",
+    "analysera",
+    "statistik_data"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26063:assignments:1"
+  },
+  {
+   "title": "Rätt från början och en återbetalningsverksamhet i balans",
+   "group": [],
+   "text": "Fler beslut ska bli rätt från början. Pensionsmyndigheten ska vidta åtgärder i syfte att motverka att enskilda blir återbetalningsskyldiga. Myndigheten ska öka förmågan att omhänderta anmälningar av ändrade förhållanden. Myndigheten ska vidare, med hög rättslig kvalitet i besluten om återkrav, stärka förmågan att återkräva felaktiga utbetalningar och öka återbetalningen av felaktigt utbetalade ersättningar.\n\nPensionsmyndigheten ska arbeta tillsammans med Försäkringskassan för att stärka förmågan att återkräva felaktiga utbetalningar och öka återbetalningen av felaktigt utbetalade ersättningar om det som rör felaktigt utbetalade ersättningar från Pensionsmyndigheten.\n\nPensionsmyndigheten ska redovisa åtgärder som vidtas för att motverka att enskilda blir återbetalningsskyldiga samt utvecklingen av resultaten i handläggningen av återkrav och återbetalning.\n\nRedovisningen ska omfatta månadsvisa och ackumulerade resultat för indikatorer som sedan tidigare har tagits fram i dialog med Regeringskansliet (Socialdepartementet) och där det är möjligt redovisa per förmån. Redovisningen avseende återbetalning av skulder ska ske fördelat på skulder som uppstått före och skulder som uppstått efter den 1 september 2022, då ändringen i utsökningsbalken om snabbare och enklare verkställighet av myndighetsbeslut trädde i kraft (prop. 2021/22:206, bet. 2021/22:CU30, rskr. 2021/22:447). Pensionsmyndigheten ska lämna redovisningar av uppdraget till Regeringskansliet (Socialdepartementet) den 16 mars, 15 juni, 15 september och 16 november 2026. Redovisningen i mars 2026 ska avse helårsutfall för 2025.",
+   "dates": [
+    "2022-09-01",
+    "2026-11-16"
+   ],
+   "deadlines": [],
+   "recipients": [
+    "Regeringskansliet (Socialdepartementet)"
+   ],
+   "partners": [
+    "Försäkringskassan"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "fördela_medel",
+    "statistik_data"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26063:assignments:2"
+  },
+  {
+   "title": "Uppföljning för mer korrekta utbetalningar",
+   "group": [],
+   "text": "Pensionsmyndigheten ska planera, och därefter vidta åtgärder, för att i större utsträckning följa upp och kontrollera de uppgifter som ligger till grund för löpande utbetalningar av bostadstillägg till pensionärer och äldreförsörjningsstöd, i syfte att säkerställa att uppgifter som ligger till grund för rätten till ersättning och utbetalningens storlek är korrekta, uppdaterade och anmälda till myndigheten.\n\nI uppdraget ingår det att först ta fram en handlingsplan för hur myndigheten avser säkerställa att inaktuella eller felaktiga uppgifter inte ligger till grund för beräkning av förmån samt hur myndigheten avser identifiera, följa upp och hantera ärenden där myndigheten bedömer att det kan finnas risk för att sådana uppgifter ligger till grund för beräkning av förmån. Handlingsplanen ska även kommentera vad ett ändrat arbetssätt skulle innebära dels för handläggningen, dels för förutsättningarna att upptäcka och förhindra felaktiga utbetalningar. Handlingsplanen ska lämnas till Regeringskansliet (Socialdepartementet) senast den 2 november 2026.\n\nI den andra delen av uppdraget ingår att, utifrån handlingsplanen, vidta åtgärder för att förhindra eller förebygga att inaktuella eller felaktiga uppgifter ligger till grund för beräkning av förmån. I slutredovisningen av uppdraget ska myndigheten redovisa vidtagna åtgärder med anledning av uppdraget samt, om möjligt, redovisa resultat av åtgärderna med avseende på antalet kontrollerade ärenden, förekomsten av inaktuella eller felaktiga uppgifter, åtgärdsfrekvens, upptäckta eller förhindrade felaktiga utbetalningar och antal beslut om återkrav. En redovisning av uppdraget ska lämnas till Regeringskansliet (Socialdepartementet) senast den 29 februari 2028.",
+   "dates": [
+    "2026-11-02",
+    "2028-02-29"
+   ],
+   "deadlines": [
+    "2026-11-02",
+    "2028-02-29"
+   ],
+   "recipients": [
+    "Regeringskansliet (Socialdepartementet)"
+   ],
+   "partners": [],
+   "channels": [
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "tillsyn_kontroll"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26063:assignments:3"
+  },
+  {
+   "title": "Uppdrag att analysera pensionärers marginaleffekter",
+   "group": [],
+   "text": "Pensionsmyndigheten ska analysera hur marginaleffekterna i pensionssystemet, dvs. hur den disponibla inkomsten förändras till följd av en extra krona allmän inkomstgrundad pension (med antagandet att premiepensionen och inkomstpensionen har samma utveckling), har förändrats sedan 2019. Analysen ska visa utvecklingen till följd av såväl de olika reformer som har gjorts på pensionsområdet som de olika utvecklingarna av inkomstindex och prisbasbelopp. Redovisningen ska göras både samlat och uppdelat på respektive förmån samt på skatt. Av redovisningen ska även framgå utvecklingen av antalet kvinnor och män som möter de olika marginaleffekterna. Analysen ska göras för personer som enbart har pension och som har uppnått åldern när de har rätt till det förhöjda grundavdraget. En redovisning av uppdraget ska lämnas till Regeringskansliet (Socialdepartementet) senast den 30 november 2026.",
+   "dates": [
+    "2026-11-30"
+   ],
+   "deadlines": [
+    "2026-11-30"
+   ],
+   "recipients": [
+    "Regeringskansliet (Socialdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26063:assignments:4"
+  },
+  {
+   "title": "Uppdrag att redovisa hur nya verktyg för kontroll har kommit till användning",
+   "group": [],
+   "text": "Pensionsmyndigheten ska redovisa hur möjligheter som följer av författningsändringar har implementerats i myndighetens verksamhet och vad dessa har gett för resultat i förhållande till respektive reforms syfte. Författningsändringarna som avses är de som framgår av följande:\n\n- En ny dataskyddsreglering på socialförsäkringsområdet (prop. 2023/24:29, bet. 2023/24:SfU7, rskr. 2023/24:119).\n- En ny lag om uppgiftsskyldighet för att motverka felaktiga utbetalningar från välfärdssystemen samt fusk, regelöverträdelser och brottslighet i arbetslivet (prop. 2023/24:85, bet. 2023/24:KU27, rskr. 2023/24:195).\n- Ökat informationsutbyte mellan myndigheter – en ny sekretessbrytande bestämmelse (prop. 2024/25:180, bet. 2025/26:KU6, rskr. 2025/26:24).\n- Bättre verktyg för kontroll – uppgiftsinhämtning inom socialförsäkringen och ekonomiskt bistånd (prop. 2024/25:179, bet. 2025/26:SfU6, rskr. 2025/26:16).\n- Bättre verktyg för att bekämpa den kriminella ekonomin – betalningssäkring inom socialförsäkringen (prop. 2024/25:39, bet. 2024/25:SfU10, rskr. 2024/25:135).\n- Förordning (2024:409) om ändring i förordningen (2001:588) om behandling av uppgifter i Skatteverkets beskattningsverksamhet.\n\nUppdraget ska redovisas till Regeringskansliet (Socialdepartementet) senast den 23 oktober 2026.",
+   "dates": [
+    "2026-10-23"
+   ],
+   "deadlines": [
+    "2026-10-23"
+   ],
+   "recipients": [
+    "Regeringskansliet (Socialdepartementet)"
+   ],
+   "partners": [
+    "Skatteverket"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "tillsyn_kontroll"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2001:588",
+    "2024:409"
+   ],
+   "sub_questions": [
+    "En ny dataskyddsreglering på socialförsäkringsområdet (prop. 2023/24:29, bet. 2023/24:SfU7, rskr. 2023/24:119).",
+    "En ny lag om uppgiftsskyldighet för att motverka felaktiga utbetalningar från välfärdssystemen samt fusk, regelöverträdelser och brottslighet i arbetslivet (prop. 2023/24:85, bet. 2023/24:KU27, rskr. 2023/24:195).",
+    "Ökat informationsutbyte mellan myndigheter – en ny sekretessbrytande bestämmelse (prop. 2024/25:180, bet. 2025/26:KU6, rskr. 2025/26:24).",
+    "Bättre verktyg för kontroll – uppgiftsinhämtning inom socialförsäkringen och ekonomiskt bistånd (prop. 2024/25:179, bet. 2025/26:SfU6, rskr. 2025/26:16).",
+    "Bättre verktyg för att bekämpa den kriminella ekonomin – betalningssäkring inom socialförsäkringen (prop. 2024/25:39, bet. 2024/25:SfU10, rskr. 2024/25:135).",
+    "Förordning (2024:409) om ändring i förordningen (2001:588) om behandling av uppgifter i Skatteverkets beskattningsverksamhet."
+   ],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26063:assignments:5"
+  },
+  {
+   "title": "Öka förmågan att använda AI och ny teknik genom datadrivet arbete",
+   "group": [],
+   "text": "Pensionsmyndigheten ska redovisa i vilken utsträckning myndigheten arbetar datadrivet, vilka åtgärder som har vidtagits för att förbättra förmågan att arbeta datadrivet, och en bedömning av vilket resultat åtgärderna har lett till. Myndigheten ska även redovisa på vilket sätt arbetet med data och AI har bidragit till att utveckla verksamheten. Av redovisningen ska framgå hur myndigheten beaktar risker och arbetar för att användningen av AI sker på ett etiskt, säkert och icke-diskriminerande sätt.\n\nUppdraget ska redovisas till Regeringskansliet (Socialdepartementet och Finansdepartementet) senast den 15 maj 2026.",
+   "dates": [
+    "2026-05-15"
+   ],
+   "deadlines": [
+    "2026-05-15"
+   ],
+   "recipients": [
+    "Regeringskansliet (Socialdepartementet och Finansdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla",
+    "statistik_data",
+    "digitalisering_ai"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26063:assignments:6"
+  },
+  {
+   "title": "Teckna avtal med företag för stärkt försörjningsberedskap",
+   "group": [],
+   "text": "Pensionsmyndigheten ska identifiera behov av och, i de fall myndigheten bedömer det lämpligt, teckna avtal som syftar till att upprätthålla försörjningen av varor och tjänster som är nödvändiga för myndighetens prioriterade uppgifter vid fredstida kriser och höjd beredskap. I de fall Pensionsmyndigheten nyttjar särskilda avtalsformer i form av sådana försörjningsberedskapsavtal (F-avtal) som beskrivs i SOU 2025:68 ska dessa löpande rapporteras till Myndigheten för civilt försvar. Uppdraget ska redovisas till Regeringskansliet (Socialdepartementet och Försvarsdepartementet) senast den 22 februari 2027, och ska ingå i den särskilda redovisningen för civilt försvar. Som stöd för arbetet kan myndigheten använda bland annat Utgångspunkter för totalförsvaret 2025–2030.",
+   "dates": [
+    "2027-02-22"
+   ],
+   "deadlines": [
+    "2027-02-22"
+   ],
+   "recipients": [
+    "Myndigheten för civilt försvar",
+    "Regeringskansliet (Socialdepartementet och Försvarsdepartementet)"
+   ],
+   "partners": [
+    "Myndigheten för civilt försvar"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26063:assignments:7"
+  },
+  {
+   "title": "Prognoser",
+   "group": [],
+   "text": "Pensionsmyndigheten ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till statens budget. De antaganden som ligger till grund för prognosen ska redovisas. Prognoserna lämnas i löpande priser. Prognoser lämnas i informationssystemet Hermes senast den\n\n- 2 februari,\n\n- 22 april,\n\n- 24 juli och\n\n- 9 november.\n\nVid prognostillfällena ska följande redovisas om inte annat anges:\n\n- preliminärt utfall för 2025 för samtliga anslag och anslagsposter samt för ålderspensionssystemet vid sidan av statens budget (endast den 2februari),\n\n- belastning på samtliga anslag och anslagsposter redovisat totalt samt fördelat per månad (redovisas inte den 2februari),\n\n- prognoser för 2026 för samtliga anslag och anslagsposter samt för ålderspensionssystemet vid sidan av statens budget, redovisat totalt samt fördelat per månad,\n\n- beräkningar av samtliga anslagsnivåer och anslagsposter samt utgifter för ålderspensionssystemet vid sidan av statens budget för 2027–2029,\n\n- prognoser för balanstalet för 2027–2029,\n\n- prognoser för inkomstindex för 2027–2029,\n\n- förklaring till och analys av utfall i samband med förändringar i prognoser,\n\n- beskrivningar av eventuella förändringar av prognosmodeller,\n\n- prognosen för ackumulerad skuld till Riksgäldskontoret avseende räntekontokredit enligt 7 kap. 4 § budgetlagen (2011:203) och hur skulden belastar anslag, respektive AP-fonderna och premiepensionssystemet,\n\n- användningen av den särskilda krediten enligt 7 kap. 6 § budgetlagen (2011:203).\n\nUtöver ovanstående ska Pensionsmyndigheten avseende förvaltningsanslaget redovisa vilka antaganden som har använts i prognosen, vilka osäkerhetsfaktorer som finns samt vad som har orsakat eventuella förändringar som rör finansiering, kostnader och verksamhet. Vid väsentliga prognosavvikelser eller om prognosen visar på underskott ska myndigheten redovisa vilka åtgärder som har vidtagits eller planeras att vidtas för att verksamheten ska kunna bedrivas inom ramen för tilldelade medel samt vilka konsekvenserna blir för verksamheten till följd av dessa åtgärder.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [
+    "Riksgäldskontoret"
+   ],
+   "partners": [
+    "Riksgäldskontoret"
+   ],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos",
+    "fördela_medel"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2011:203"
+   ],
+   "sub_questions": [
+    "preliminärt utfall för 2025 för samtliga anslag och anslagsposter samt för ålderspensionssystemet vid sidan av statens budget (endast den 2februari),",
+    "belastning på samtliga anslag och anslagsposter redovisat totalt samt fördelat per månad (redovisas inte den 2februari),",
+    "prognoser för 2026 för samtliga anslag och anslagsposter samt för ålderspensionssystemet vid sidan av statens budget, redovisat totalt samt fördelat per månad,",
+    "beräkningar av samtliga anslagsnivåer och anslagsposter samt utgifter för ålderspensionssystemet vid sidan av statens budget för 2027–2029,",
+    "prognoser för balanstalet för 2027–2029,",
+    "prognoser för inkomstindex för 2027–2029,",
+    "förklaring till och analys av utfall i samband med förändringar i prognoser,",
+    "beskrivningar av eventuella förändringar av prognosmodeller,",
+    "prognosen för ackumulerad skuld till Riksgäldskontoret avseende räntekontokredit enligt 7 kap. 4 § budgetlagen (2011:203) och hur skulden belastar anslag, respektive AP-fonderna och premiepensionssystemet,",
+    "användningen av den särskilda krediten enligt 7 kap. 6 § budgetlagen (2011:203)."
+   ],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26063:assignments:8"
+  },
+  {
+   "title": "Tidigare givna uppdrag i regeringsbrev eller särskilda regeringsbeslut",
+   "group": [],
+   "text": "För regeringsuppdrag som har lämnats i ett särskilt regeringsbeslut utgör tabellen endast en upplysning om vilka uppdrag som vid årets början var riktade till myndigheten och vilka tider som då gällde för redovisningen.\n\n| | | |\n| --- | --- | --- |\n| **Uppdragets namn** | **Diarienummer** | **Redovisningsdatum** |\n| Uppdrag att redovisa resultat inom ramen för regeringens utvecklingsprogram för jämställdhetsintegrering i statliga myndigheter | A2024/01457 | Den 20 januari 2026 |\n| Uppdrag till beredskapsmyndigheterna om personallån mellan myndigheter | Fö2025/00670 | I samband med årsredovisningen för 2025, alternativt den 23 februari 2026 |\n| Inriktning för civilt försvar 2025-2030 | Fö2024/02054 | Den 22 februari 2026 |\n| Uppdrag att stärka kontrollen av äldreförsörjningsstöd och andra bosättningsbaserade förmåner | S2024/02242 | Den 24 februari 2026 |\n| Faktiska kompensationsgrader i enlighet med redovisningen föregående år | Regleringsbrev för 2024 | Den 25 mars 2026 |\n| Genomsnittlig inträdes- och utträdesålder på arbetsmarknaden samt genomsnittligt antal år i arbete med pensionsrätt | Regleringsbrev för 2023 | Den 10 april 2026 |\n| Genomsnittsålder för uttag av pension | Regleringsbrev för 2023 | Den 10 april 2026 |\n| Uppföljning av höjning av åldersgränserna i pensionssystemet i enlighet med redovisningen föregående år | Regleringsbrev för 2024 | Den 10 april 2026 |\n| Uppgifter om typfallsmått i enlighet med redovisningen föregående år. Redovisningen ska göras i löpande priser samt i 2024 års priser | Regleringsbrev för 2023 | Den 25 april 2026 |\n| Uppdrag att samordna utvecklingen av effektiv informationsdelning i arbetet mot brott | Fi2025/01460 | Den 31 augusti 2026 |\n| Uppdrag att förbereda införandet av administrativa sanktioner i socialförsäkringen | S2025/00457 S2025/00464 S2025/01368 | Den 30 september 2026 |\n| Uppdrag att studera felaktiga utbetalningar av vissa ersättningar | Fi2024/01861 Fi2024/02405 | Den 5 oktober 2026 |\n| Uppdrag till Pensionsmyndigheten att förbereda införandet av en automatisk utdelning av överskott i inkomstpensionssystemet | S2025/01791 | Den 31 december 2026 |\n| Uppdrag att kraftsamla mot organiserad brottslighet i välfärden | S2025/01085 | Den 30 april 2026 Den 30 september 2027 |\n| Uppdrag att sammanställa och sprida information om ekonomiska aspekter av våld i nära relationer | A2024/00777 A2025/00884 | Den 28 maj 2026 Den 15 december 2027 |",
+   "dates": [
+    "2026-01-20",
+    "2026-02-22",
+    "2026-02-23",
+    "2026-02-24",
+    "2026-03-25",
+    "2026-04-10",
+    "2026-04-25",
+    "2026-04-30",
+    "2026-05-28",
+    "2026-08-31",
+    "2026-09-30",
+    "2026-10-05",
+    "2026-12-31",
+    "2027-09-30",
+    "2027-12-15"
+   ],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "årsredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna",
+    "utveckla",
+    "tillsyn_kontroll",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "26063:assignments:9"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "1:1",
+   "name": "Garantipension till ålderspension",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 11,
+    "name": "Ekonomisk trygghet vid ålderdom"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Pensionsmyndigheten",
+     "amount_tkr": 29757600,
+     "items": [
+      {
+       "ap": "2",
+       "name": "Garantipension till ålderspension (ram)",
+       "amount_tkr": 29757600
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "2",
+     "name": "Garantipension till ålderspension",
+     "text": "Anslaget får användas för utgifter för garantipension till ålderspension samt särskilt pensionstillägg enligt socialförsäkringsbalken och lagen (2010:111) om införande av socialförsäkringsbalken."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "1:2",
+   "name": "Efterlevandepensioner till vuxna",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 11,
+    "name": "Ekonomisk trygghet vid ålderdom"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Pensionsmyndigheten",
+     "amount_tkr": 7446600,
+     "items": [
+      {
+       "ap": "2",
+       "name": "Efterlevandepension till vuxna (ram)",
+       "amount_tkr": 7446600
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "2",
+     "name": "Efterlevandepension till vuxna",
+     "text": "Anslaget får användas för utgifter för omställningspension, förlängd omställningspension, särskild efterlevandepension och änkepension samt för utgifter för garantipension till dessa förmåner enligt socialförsäkringsbalken och lagen (2010:111) om införande av socialförsäkringsbalken."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "1:3",
+   "name": "Bostadstillägg till pensionärer",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 11,
+    "name": "Ekonomisk trygghet vid ålderdom"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Pensionsmyndigheten",
+     "amount_tkr": 13855700,
+     "items": [
+      {
+       "ap": "2",
+       "name": "Bostadstillägg till pensionärer (ram)",
+       "amount_tkr": 13855700
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "2",
+     "name": "Bostadstillägg till pensionärer",
+     "text": "Anslaget får användas för utgifter för bostadstillägg till pensionärer och särskilt bostadstillägg till pensionärer enligt socialförsäkringsbalken och lagen (2010:111) om införande av socialförsäkringsbalken."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "1:4",
+   "name": "Äldreförsörjningsstöd",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 11,
+    "name": "Ekonomisk trygghet vid ålderdom"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Pensionsmyndigheten",
+     "amount_tkr": 1625800,
+     "items": [
+      {
+       "ap": "2",
+       "name": "Äldreförsörjningsstöd (ram)",
+       "amount_tkr": 1625800
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "2",
+     "name": "Äldreförsörjningsstöd",
+     "text": "Anslaget får användas för utgifter för äldreförsörjningsstöd enligt socialförsäkringsbalken."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "1:5",
+   "name": "Inkomstpensionstillägg",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 11,
+    "name": "Ekonomisk trygghet vid ålderdom"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Pensionsmyndigheten",
+     "amount_tkr": 5795000,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Inkomstpensionstillägg (ram)",
+       "amount_tkr": 5795000
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Inkomstpensionstillägg",
+     "text": "Anslaget får användas för utgifter för inkomstpensionstillägg enligt socialförsäkringsbalken."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "2:1",
+   "name": "Pensionsmyndigheten",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 11,
+    "name": "Ekonomisk trygghet vid ålderdom"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Pensionsmyndigheten",
+     "amount_tkr": 841091,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Pensionsmyndigheten - förvaltningsanslag (ram)",
+       "amount_tkr": 841091
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Pensionsmyndigheten - förvaltningsanslag",
+     "text": "Anslaget får användas för Pensionsmyndighetens förvaltningsutgifter. Anslaget får även användas för utgifter för den verksamhet som bedrivs av Min Pension i Sverige AB.\nPensionsmyndigheten ska kunna använda och samverka med det gemensamma radiokommunikationssystemet Rakel. Pensionsmyndigheten ska betala totalt 114 000 kronor till Myndigheten för civilt försvar som abonnemangsavgift för detta system. Beloppet ska betalas efter fakturering från Myndigheten för civilt försvar."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "1:5",
+   "name": "Barnpension och efterlevandestöd",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 12,
+    "name": "Ekonomisk trygghet för familjer och barn"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Pensionsmyndigheten",
+     "amount_tkr": 1148200,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Barnpension och efterlevandestöd (ram)",
+       "amount_tkr": 1148200
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Barnpension och efterlevandestöd",
+     "text": "Anslaget får användas för utgifter för barnpension och efterlevandestöd enligt socialförsäkringsbalken och lagen (2010:111) om införande av socialförsäkringsbalken."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "1:7",
+   "name": "Pensionsrätt för barnår",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 12,
+    "name": "Ekonomisk trygghet för familjer och barn"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Pensionsmyndigheten",
+     "amount_tkr": 7671200,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Pensionsrätt för barnår (ram)",
+       "amount_tkr": 7671200
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Pensionsrätt för barnår",
+     "text": "Anslaget får användas för utgifter för statlig ålderspensionsavgift för pensionsrätt för barnår enligt lagen (1998:676) om statlig ålderspensionsavgift.\nAnslaget avser preliminär statlig ålderspensionsavgift för 2026 om 8 252 703 392 kronor och ett regleringsbelopp för 2023 om -581 503 392 kronor."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "1:1 Garantipension till ålderspension",
+   "ap": "ap.2",
+   "Anslagskredit": 1487880,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:2 Efterlevandepensioner till vuxna",
+   "ap": "ap.2",
+   "Anslagskredit": 372330,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:3 Bostadstillägg till pensionärer",
+   "ap": "ap.2",
+   "Anslagskredit": 692785,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:4 Äldreförsörjningsstöd",
+   "ap": "ap.2",
+   "Anslagskredit": 81290,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:5 Inkomstpensionstillägg",
+   "ap": "ap.1",
+   "Anslagskredit": 289750,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:1 Pensionsmyndigheten",
+   "ap": "ap.1",
+   "Anslagskredit": 25232,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:5 Barnpension och efterlevandestöd",
+   "ap": "ap.1",
+   "Anslagskredit": 57410,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:7 Pensionsrätt för barnår",
+   "ap": "ap.1",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 800000,
+  "Räntekontokredit": 540000,
+  "- Pensionsmyndighetens behov av likviditet vid handel med fondandelar": 20000000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 70091
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 70091
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 70091
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 70091
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 70091
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 70091
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 70091
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 70091
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 70091
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 70091
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 70091
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 70090
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:1 Garantipension till ålderspension",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.2",
+     "1 487 880",
+     "Inget",
+     "0"
+    ],
+    [
+     "1:2 Efterlevandepensioner till vuxna",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.2",
+     "372 330",
+     "Inget",
+     "0"
+    ],
+    [
+     "1:3 Bostadstillägg till pensionärer",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.2",
+     "692 785",
+     "Inget",
+     "0"
+    ],
+    [
+     "1:4 Äldreförsörjningsstöd",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.2",
+     "81 290",
+     "Inget",
+     "0"
+    ],
+    [
+     "1:5 Inkomstpensionstillägg",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "289 750",
+     "Inget",
+     "0"
+    ],
+    [
+     "2:1 Pensionsmyndigheten",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "25 232",
+     "3 %",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:5 Barnpension och efterlevandestöd",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "57 410",
+     "Inget",
+     "0"
+    ],
+    [
+     "1:7 Pensionsrätt för barnår",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "0",
+     "Inget",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "800 000"
+    ],
+    [
+     "Räntekontokredit",
+     "540 000"
+    ],
+    [
+     "Övriga kontokrediter"
+    ],
+    [
+     "- Pensionsmyndighetens behov av likviditet vid handel med fondandelar",
+     "20 000 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "70 091"
+    ],
+    [
+     "2026-02-25",
+     "70 091"
+    ],
+    [
+     "2026-03-25",
+     "70 091"
+    ],
+    [
+     "2026-04-25",
+     "70 091"
+    ],
+    [
+     "2026-05-25",
+     "70 091"
+    ],
+    [
+     "2026-06-25",
+     "70 091"
+    ],
+    [
+     "2026-07-25",
+     "70 091"
+    ],
+    [
+     "2026-08-25",
+     "70 091"
+    ],
+    [
+     "2026-09-25",
+     "70 091"
+    ],
+    [
+     "2026-10-25",
+     "70 091"
+    ],
+    [
+     "2026-11-25",
+     "70 091"
+    ],
+    [
+     "2026-12-25",
+     "70 090"
+    ],
+    [
+     "Summa",
+     "841 091"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "2:1 ap.1",
+     "Pensionsmyndigheten - förvaltningsanslag"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Offentligrättslig verksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Avgiftsuttag AP-fonderna1",
+     "-12 989",
+     "16 425",
+     "739 895",
+     "743 331",
+     "-3 436",
+     "0"
+    ],
+    [
+     "Avgiftsuttag premiepensionsfonder Pensionsmyndigheten1",
+     "46 108",
+     "-80",
+     "527 911",
+     "573 939",
+     "-46 028",
+     "0"
+    ],
+    [
+     "Avgiftsuttag premiepensionsfonder Fondtorgsnämnden1",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0"
+    ],
+    [
+     "Anbudsavgift1",
+     "-4 860",
+     "-3 900",
+     "3 500",
+     "3 500",
+     "0",
+     "-8 760"
+    ],
+    [
+     "Årlig avgift1",
+     "-158 958",
+     "-57 506",
+     "44 914",
+     "81 540",
+     "-36 626",
+     "-253 090"
+    ],
+    [
+     "Administration av ansökan/granskning Fondtorgsnämnden1",
+     "9 049",
+     "-2 000",
+     "4 900",
+     "7 200",
+     "-2 300",
+     "4 749"
+    ],
+    [
+     "Administration för fondinformation/fondförvaltare1",
+     "0",
+     "0",
+     "800",
+     "800",
+     "0",
+     "0"
+    ],
+    [
+     "Administration av statlig fordran3",
+     "250"
+    ],
+    [
+     "Administration av Frivillig pension1",
+     "0",
+     "0",
+     "2 500",
+     "2 500",
+     "0",
+     "0"
+    ],
+    [
+     "Summa",
+     "-121 650",
+     "-47 061",
+     "1 324 670",
+     "1 412 810",
+     "-88 390",
+     "-257 101"
+    ],
+    [
+     "Uppdragsverksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Administrativ service1",
+     "0",
+     "0",
+     "1 600",
+     "1 600",
+     "0",
+     "0"
+    ]
+   ]
+  }
+ ],
+ "has_fee_section": true,
+ "exceptions_text": "*Årsredovisning*\n\nPensionsmyndigheten ska upprätta årsredovisning enligt förordningen (2000:605) om årsredovisning och budgetunderlag. Värdering av placeringstillgångar (och motsvarande skulder) ska dock göras i enlighet med lagen (1995:1560) om årsredovisning i försäkringsföretag.\n\nPremiepensionsverksamheten ska redovisas i ett särskilt avsnitt i resultaträkningen, vilken ska utgöra ett sammandrag av resultaträkningen i enlighet med lagen om årsredovisning i försäkringsföretag samt Finansinspektionens föreskrifter och allmänna råd (FFFS).\n\nInkomstpensionens finansiella ställning och utveckling ska redovisas i ett särskilt avsnitt i årsredovisningen. Denna del av redovisningen baseras på uppgifter från berörda aktörer som var och en ansvarar för sina respektive delar av redovisningen. Då uppgifter från Andra-Fjärde AP-fonderna är preliminära, ska reglering till slutligt utfall framgå i nästföljande års sammanställda redovisning.\n\n**ÖVRIGA BESTÄMMELSER**\n\nPensionsmyndigheten ska redovisa 166 000 kronor mot inkomsttitel 2811 Övriga inkomster av statens verksamhet för finansiering av den förvaltningsgemensamma digitala infrastrukturen.\n\nFör anslagen 1:1 Garantipension till ålderspension, 1:2 Efterlevandepensioner till vuxna, 1:3 Bostadstillägg till pensionärer, 1:4 Äldreförsörjningsstöd och 1:5 Inkomstpensionstillägg inom utgiftsområde 11 samt anslaget 1:5 Barnpension och efterlevandestöd inom utgiftsområde 12 gäller följande villkor:\n\nAv 7 § förordningen (2002:782) om ansökan och utbetalning av pension m.fl. förmåner framgår att pension och annan förmån betalas ut genom Försäkringskassan. Pensionsmyndigheten ska månadsvis till Försäkringskassan överföra de medel som behövs för att täcka de utbetalningar som Försäkringskassan gjort för Pensionsmyndighetens räkning. Redovisning mot anslag ska ske den månad då utbetalningarna till förmånstagarna görs.\n\nPensionsmyndigheten ska samarbeta med och kan bidra till finansieringen av drifts- och investeringskostnader för den verksamhet som bedrivs av Min Pension i Sverige AB. Kostnadsfördelningen ska ske i enlighet med Pensionsmyndighetens gällande finansieringsmodell.\n\nStatlig ålderspensionsavgift för*rehabiliteringspenning*under utgiftsområde 10 och*vårdbidrag*under utgiftsområde 12, ska 2026 tillgodogöras inkomsttitel 2811 Övriga inkomster av statens verksamhet.\n\n**Bilaga 1 till Regeringsbeslut IV:4, 2025-12-18**\n\n**Diarienummerförteckning**\n\nS2025/02092\\\nS2025/02093 (delvis)\\\nS2025/01669\\\nS2025/01100\\\nS2025/00862\\\nS2025/01801\\\nS2025/00375\\\nS2025/00339\n\nPå regeringens vägnar\n\nAnna Tenje\n\nJohannes Wannong\n\n**Kopia till**\n\nStatsrådsberedningen, internrevisionen\\\nFinansdepartementets budgetavdelning\\\nJustitiedepartementet\\\nFörsvarsdepartementet\\\nArbetsmarknadsdepartementet\\\nFörvaltningsavdelningen, RK Ekonomi och lön\\\nAndra AP-fonden\\\nArbetsgivarverket\\\nEkonomistyrningsverket\\\nFinansinspektionen\\\nFjärde AP-fonden\\\nFondtorgsnämnden\\\nFörsäkringskassan\\\nInspektionen för socialförsäkringen\\\nMyndigheten för samhällsskydd och beredskap\\\nKammarkollegiet\\\nSjunde AP-fonden\\\nSkatteverket\\\nStatens tjänstepensionsverk\\\nStatskontoret\\\nTredje AP-fonden\\\nRiksgäldskontoret\\\nriksdagens finansutskott\\\nriksdagens justitieutskott\\\nriksdagens försvarsutskott\\\nriksdagens socialförsäkringsutskott\\\nriksdagens arbetsmarknadsutskott\\\nLandsorganisationen i Sverige\\\nSvenskt Näringsliv\\\nSveriges Akademikers Centralorganisation\\\nSveriges Kommuner och Regioner\\\nTjänstemännens Centralorganisation",
+ "summary": {
+  "n_goals": 7,
+  "n_org": 0,
+  "n_assignments": 10,
+  "n_deadlines": 6,
+  "deadlines": [
+   "2026-05-15",
+   "2026-10-23",
+   "2026-11-02",
+   "2026-11-30",
+   "2027-02-22",
+   "2028-02-29"
+  ],
+  "partners": [
+   "Försäkringskassan",
+   "Myndigheten för civilt försvar",
+   "Riksgäldskontoret",
+   "Skatteverket"
+  ],
+  "n_appropriations": 8,
+  "appropriations_total_tkr": 68141191,
+  "payment_plan_total_tkr": 841091,
+  "md_chars": 31862
+ },
+ "layout": "standard",
+ "warnings": []
+}

@@ -1,0 +1,831 @@
+{
+ "schema_version": 1,
+ "id": 27489,
+ "original_rbid": 25956,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-06-25",
+ "year": "2026",
+ "name": "Lantmäteriet",
+ "slug": "lantmateriet",
+ "department": "Landsbygds- och infrastrukturdepartementet",
+ "expenditure_areas": [
+  18
+ ],
+ "registry_numbers": [
+  "LI2026/00823 (delvis)",
+  "LI2026/01271"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1"
+  ],
+  "bet": [
+   "2025/26:CU1"
+  ],
+  "rskr": [
+   "2025/26:106"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "Myndighetens uppgifter framgår bl.a. av förordningen (2009:946) med instruktion för Lantmäteriet.",
+ "goals": [
+  {
+   "title": "Färdval och resepolicy vid tjänsteresor",
+   "group": [],
+   "text": "Alla trafikslag ska kunna nyttjas (väg, järnväg, luft- och sjöfart) för att säkerställa effektiva och ändamålsenliga transporter. Lantmäteriet ska därför redovisa hur myndigheten har säkerställt att val av färdsätt vid tjänsteresor sker färdmedelsneutralt och utifrån behov. Vidare ska Lantmäteriet redovisa huruvida myndigheten köpt in hållbart flygbränsle till organisationens flygresor. När kostnader jämförs för olika färdval ska hela resans kostnad beaktas, exempelvis kostnader för nödvändig övernattning samt total arbetstid för hela resan.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27489:goals:0"
+  },
+  {
+   "title": "Nyckeltal inom fastighetsbildningsverksamheten",
+   "group": [],
+   "text": "Enligt Lantmäteriets återrapporteringskrav Gemensam målsättning för nyckeltal (N2018/04688) ska myndigheten årligen i årsredovisningen redovisa, analysera och utvärdera nyckeltal. Lantmäteriet ska i redovisningen av kundbehoven inom fastighetsbildningsverksamheten i myndighetens årsredovisning även inkludera uppgifter om mediantid i veckor för samtliga kundbehov.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "årsredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27489:goals:1"
+  }
+ ],
+ "org": [
+  {
+   "title": "Proaktivitet och handlingskraft vid kris eller krig",
+   "group": [],
+   "text": "Lantmäteriet ska säkerställa att myndigheten har förmåga att agera proaktivt och handlingskraftigt i hanteringen av såväl fredstida krissituationer som vid krig och krigsfara. Utöver de krav som ställs i förordningen (2022:524) om statliga myndigheters beredskap ska myndigheten i detta syfte utbilda och öva sin personal samt se till att myndigheten stärker en kultur och arbetssätt som utgår från de krav som ett krig ställer. Lantmäteriet ska redovisa vidtagna åtgärder och resultatet av dessa senast den 22 februari 2027 till Regeringskansliet (Landsbygds- och infrastrukturdepartementet och Försvarsdepartementet). Detta ska ingå i den särskilda redovisningen för civilt försvar.",
+   "dates": [
+    "2027-02-22"
+   ],
+   "deadlines": [
+    "2027-02-22"
+   ],
+   "recipients": [
+    "Regeringskansliet (Landsbygds- och infrastrukturdepartementet och Försvarsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2022:524"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "org",
+   "item_id": "27489:org:0"
+  }
+ ],
+ "assignments": [
+  {
+   "title": "Pågående uppdrag",
+   "group": [],
+   "text": "Myndighetens pågående uppdrag redovisas i*bilaga 1*. För regeringsuppdrag som har lämnats i ett särskilt regeringsbeslut utgör tabellen endast en upplysning om vilka uppdrag som vid årets början var riktade till myndigheten och vilka tider som då gällde för återrapportering eller liknande.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "27489:assignments:0"
+  },
+  {
+   "title": "Prognoser",
+   "group": [],
+   "text": "Myndigheten ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Prognoserna lämnas i informationssystemet Hermes senast den\\\n– 2 februari\\\n– 22 april\\\n– 24 juli\\\n– 9 november.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27489:assignments:1"
+  },
+  {
+   "title": "Myndighetsgemensamt arbete för kortare ledtider vid prövning av nätkoncessioner",
+   "group": [],
+   "text": "Lantmäteriet ska tillsammans med Energimarknadsinspektionen och berörda länsstyrelser fortsätta att utveckla och genomföra sådana metoder och arbetssätt för tillståndsprocesser i syfte att ytterligare korta ledtiderna i enlighet med vad som anges i regleringsbrevet för budgetåret 2026 avseende Energimarknadsinspektionen (KN2025/02401). Lantmäteriet ska bistå Energimarknadsinspektionen vid redovisningen av uppdraget.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Energimarknadsinspektionen"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "utveckla",
+    "tillsyn_kontroll"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27489:assignments:2"
+  },
+  {
+   "title": "Avtal för stärkt försörjningsberedskap",
+   "group": [],
+   "text": "Lantmäteriet ska identifiera behov av och, i de fall myndigheten bedömer det lämpligt, teckna avtal som syftar till att upprätthålla försörjningen av varor och tjänster som är nödvändiga för myndighetens prioriterade uppgifter vid fredstida kriser och höjd beredskap. I de fall myndigheten nyttjar särskilda avtalsformer i form av sådana försörjningsberedskapsavtal (F-avtal) som beskrivs i betänkandet Nya samverkansformer, modern byggnads- och reparationsberedskap - för ökad försörjningsberedskap (SOU 2025:68) ska dessa avtal löpande rapporteras till den blivande Myndigheten för civilt försvar. Lantmäteriet ska senast den 22 februari 2027 redovisa uppdraget till Regeringskansliet (Landsbygds- och infrastrukturdepartementet och Försvarsdepartementet) uppdraget ska ingå i den särskilda redovisningen för civilt försvar. Som stöd för arbetet kan myndigheten använda bland annat rapporten Utgångspunkter för totalförsvaret 2025–2030 (FM2025-19772:2, MSB 2025-08877).",
+   "dates": [
+    "2027-02-22"
+   ],
+   "deadlines": [
+    "2027-02-22"
+   ],
+   "recipients": [
+    "Regeringskansliet (Landsbygds- och infrastrukturdepartementet och Försvarsdepartementet)"
+   ],
+   "partners": [
+    "Myndigheten för civilt försvar",
+    "Myndigheten för samhällsskydd och beredskap"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27489:assignments:3"
+  },
+  {
+   "title": "Förenkla för företag genom verksamt.se",
+   "group": [],
+   "text": "Lantmäteriet ska förvalta myndighetens innehåll på den myndighetsgemensamma webbplatsen verksamt.se.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27489:assignments:4"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "1:5",
+   "name": "Lantmäteriet",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 18,
+    "name": "Samhällsplanering, bostadsförsörjning och byggande samt konsumentpolitik"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Lantmäteriet",
+     "amount_tkr": 960198,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Lantmäteriet (ram)",
+       "amount_tkr": 948198
+      },
+      {
+       "ap": "2",
+       "name": "För Lantmäteriets arbete inom ramen för digitalisering av samhällsbyggnadsprocessen (ram)",
+       "amount_tkr": 12000
+      }
+     ],
+     "sum_ok": true
+    },
+    {
+     "by": "Boverket",
+     "amount_tkr": 1000,
+     "items": [
+      {
+       "ap": "3",
+       "name": "Lantmäteriet - För Boverkets arbete inom ramen för digitalisering av samhällsbyggnadsprocessen (ram)",
+       "amount_tkr": 1000
+      }
+     ],
+     "sum_ok": true
+    },
+    {
+     "by": "Trafikverket",
+     "amount_tkr": 250,
+     "items": [
+      {
+       "ap": "7",
+       "name": "Lantmäteriet - För Trafikverkets arbete inom ramen för digitalisering av samhällsbyggnadsprocessen (ram)",
+       "amount_tkr": 250
+      }
+     ],
+     "sum_ok": true
+    },
+    {
+     "by": "Länsstyrelsen i Örebro län",
+     "amount_tkr": 1000,
+     "items": [
+      {
+       "ap": "4",
+       "name": "Lantmäteriet - För länsstyrelsernas arbete inom ramen för digitalisering av samhällsbyggnadsprocessen (ram)",
+       "amount_tkr": 1000
+      }
+     ],
+     "sum_ok": true
+    },
+    {
+     "by": "Naturvårdsverket",
+     "amount_tkr": 250,
+     "items": [
+      {
+       "ap": "5",
+       "name": "Lantmäteriet - För Naturvårdsverkets arbete inom ramen för digitalisering av samhällsbyggnadsprocessen (ram)",
+       "amount_tkr": 250
+      }
+     ],
+     "sum_ok": true
+    },
+    {
+     "by": "Riksarkivet",
+     "amount_tkr": 500,
+     "items": [
+      {
+       "ap": "6",
+       "name": "Lantmäteriet - För Riksarkivets arbete inom ramen för digitalisering av samhällsbyggnadsprocessen (ram)",
+       "amount_tkr": 500
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Lantmäteriet",
+     "text": "Anslagsposten får användas för myndighetens förvaltningsutgifter.\nAnslagsposten får till ett belopp om högst 6 000 000 kronor användas för utgifter för de s.k. nedsättningsbeloppen enligt 7 § 1–4 förordningen (1995:1459) om avgifter vid lantmäteriförrättningar.\nMedel får användas för utgifter för att kunna använda och samverka med stöd av det gemensamma radiokommunikationssystemet Rakel. Av anslagsposten får 38 000 kronor användas för abonnemangsavgiften för Rakel. Beloppet ska betalas till den blivande Myndigheten för civilt försvar efter fakturering.\nAv anslagsposten får 13 000 000 kronor användas för utgifter för bidrag till Onsala rymdobservatorium.\nAv anslagsposten får 30 000 000 kronor användas för kostnader och utgifter för investeringar i uppbyggnaden av ett bostadsrättsregister.\nAv anslagsposten får 12 250 000 kronor användas för kostnader och utgifter för investeringar i att etablera en samordnad och säker statlig it-drift."
+    },
+    {
+     "ap": "2",
+     "name": "För Lantmäteriets arbete inom ramen för digitalisering av samhällsbyggnadsprocessen",
+     "text": "Anslagsposten får användas för Lantmäteriets arbete med digitalisering av samhällsbyggnadsprocessen, i enlighet med Lantmäteriets rapport Fortsätta att etablera en obruten digital samhällsbyggnadsprocess (LI2026/00823 och LM2026/018793)."
+    },
+    {
+     "ap": "3",
+     "name": "Lantmäteriet - För Boverkets arbete inom ramen för digitalisering av samhällsbyggnadsprocessen",
+     "text": "Anslagsposten får användas för Boverkets arbete med digitalisering av samhällsbyggnadsprocessen, i enlighet med Lantmäteriets rapport Fortsätta att etablera en obruten digital samhällsbyggnadsprocess (LI2026/00823 och LM2026/018793)."
+    },
+    {
+     "ap": "4",
+     "name": "Lantmäteriet - För länsstyrelsernas arbete inom ramen för digitalisering av samhällsbyggnadsprocessen",
+     "text": "Länsstyrelsen i Örebro län får använda anslagsposten för att fördela medlen till länsstyrelsernas arbete med digitalisering av samhällsbyggnadsprocessen, i enlighet med Lantmäteriets rapport Fortsätta att etablera en obruten digital samhällsbyggnadsprocess (LI2026/00823 och LM2026/018793)."
+    },
+    {
+     "ap": "5",
+     "name": "Lantmäteriet - För Naturvårdsverkets arbete inom ramen för digitalisering av samhällsbyggnadsprocessen",
+     "text": "Anslagsposten får användas för Naturvårdsverkets arbete med digitalisering av samhällsbyggnadsprocessen, i enlighet med Lantmäteriets rapport Fortsätta att etablera en obruten digital samhällsbyggnadsprocess (LI2026/00823 och LM2026/018793)."
+    },
+    {
+     "ap": "6",
+     "name": "Lantmäteriet - För Riksarkivets arbete inom ramen för digitalisering av samhällsbyggnadsprocessen",
+     "text": "Anslagsposten får användas för Riksarkivets arbete med digitalisering av samhällsbyggnadsprocessen, i enlighet med Lantmäteriets rapport Fortsätta att etablera en obruten digital samhällsbyggnadsprocess (LI2026/00823 och LM2026/018793)."
+    },
+    {
+     "ap": "7",
+     "name": "Lantmäteriet - För Trafikverkets arbete inom ramen för digitalisering av samhällsbyggnadsprocessen",
+     "text": "Anslagsposten får användas för Trafikverkets arbete med digitalisering av samhällsbyggnadsprocessen, i enlighet med Lantmäteriets rapport Fortsätta att etablera en obruten digital samhällsbyggnadsprocess (LI2026/00823 och LM2026/018793)."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "1",
+     "max": 6000000,
+     "unit": "kronor"
+    }
+   ]
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "1:5 Lantmäteriet",
+   "ap": "ap.1",
+   "Anslagskredit": 28895,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:5 Lantmäteriet",
+   "ap": "ap.2",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:5 Lantmäteriet",
+   "ap": "ap.3",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:5 Lantmäteriet",
+   "ap": "ap.4",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:5 Lantmäteriet",
+   "ap": "ap.5",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:5 Lantmäteriet",
+   "ap": "ap.6",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:5 Lantmäteriet",
+   "ap": "ap.7",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 380000,
+  "Räntekontokredit": 230000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 80267
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 80267
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 80267
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 80267
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 80267
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 80267
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 79767
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 79767
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 79767
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 79767
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 79767
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 79761
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:5 Lantmäteriet",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "28 895",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.2",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.3",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.4",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.5",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.6",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.7",
+     "0",
+     "Inget",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "380 000"
+    ],
+    [
+     "Räntekontokredit",
+     "230 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "80 267"
+    ],
+    [
+     "2026-02-25",
+     "80 267"
+    ],
+    [
+     "2026-03-25",
+     "80 267"
+    ],
+    [
+     "2026-04-25",
+     "80 267"
+    ],
+    [
+     "2026-05-25",
+     "80 267"
+    ],
+    [
+     "2026-06-25",
+     "80 267"
+    ],
+    [
+     "2026-07-25",
+     "79 767"
+    ],
+    [
+     "2026-08-25",
+     "79 767"
+    ],
+    [
+     "2026-09-25",
+     "79 767"
+    ],
+    [
+     "2026-10-25",
+     "79 767"
+    ],
+    [
+     "2026-11-25",
+     "79 767"
+    ],
+    [
+     "2026-12-25",
+     "79 761"
+    ],
+    [
+     "Summa",
+     "960 198"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "1:5 ap.1",
+     "Lantmäteriet"
+    ],
+    [
+     "1:5 ap.2",
+     "För Lantmäteriets arbete inom ramen för digitalisering av samhällsbyggnadsprocessen"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Offentligrättslig verksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Förrättningsverksamhet1",
+     "51 200",
+     "-28 400",
+     "911 400",
+     "994 100",
+     "-82 700",
+     "-59 900"
+    ],
+    [
+     "Uppdragsverksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Tjänsteexport1",
+     "6 000",
+     "-3 100",
+     "50 500",
+     "51 400",
+     "-900",
+     "2 000"
+    ],
+    [
+     "Pantbrevsregistrering2",
+     "-17 500",
+     "13 700",
+     "36 000",
+     "24 800",
+     "11 200",
+     "7 400"
+    ],
+    [
+     "Uppdrag till Försvarsmakten1",
+     "400",
+     "1 000",
+     "67 900",
+     "67 900",
+     "0",
+     "1 400"
+    ],
+    [
+     "Uppdrag i anslutning till fastighetsbildning och fastighetsinskrivning1",
+     "-2 900",
+     "1 900",
+     "46 800",
+     "50 300",
+     "-3 500",
+     "-4 500"
+    ],
+    [
+     "Nätverks RTK2",
+     "0",
+     "1 700",
+     "56 400",
+     "55 500",
+     "900",
+     "2 600"
+    ],
+    [
+     "Fastighetsinformation2",
+     "0",
+     "22 200",
+     "216 100",
+     "216 700",
+     "-600",
+     "21 600"
+    ],
+    [
+     "Samordnad och säker statlig it-drift1",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0"
+    ],
+    [
+     "Grundläggande geografisk information2",
+     "0",
+     "0",
+     "13 700",
+     "13 400",
+     "300",
+     "300"
+    ],
+    [
+     "Summa",
+     "-14 000",
+     "37 400",
+     "487 400",
+     "480 000",
+     "7 400",
+     "30 800"
+    ]
+   ]
+  },
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna ej disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "Ink. tit.",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Offentligrättslig verksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Expeditionsavgifter1",
+     "2511",
+     "0",
+     "0",
+     "250 000",
+     "250 000",
+     "0",
+     "0"
+    ],
+    [
+     "Samfällighetsföreningsregister1",
+     "2531",
+     "0",
+     "0",
+     "3 000",
+     "3 000",
+     "0",
+     "0"
+    ],
+    [
+     "Summa",
+     "0",
+     "0",
+     "253 000",
+     "253 000",
+     "0",
+     "0"
+    ]
+   ]
+  }
+ ],
+ "has_fee_section": true,
+ "exceptions_text": "Myndigheten medges undantag från kraven enligt 3 kap. 1 § andra stycket förordningen (2000:605) om årsredovisning och budgetunderlag i fråga om myndighetens fastighetsbildningsverksamhet.\n\nPå regeringens vägnar\n\nElisabet Lann\n\nSara Benjamin\n\n**Kopia till**\n\nStatsrådsberedningen, internrevisionen\\\nFörsvarsdepartementet/ECH, ETU och MF\\\nFinansdepartementet/BA, DOF och SFÖ\\\nKlimat- och näringslivsdepartementet/E, NIM och ME\\\nKulturdepartementet/SNA\\\nLandsbygds- och infrastrukturdepartementet/SMF, US och BB\\\nRegeringskansliets förvaltningsavdelning, RK Ekonomi och affärer\\\nRiksdagen, civilutskottet\\\nBoverket\\\nEnergimarknadsinspektionen\\\nLänsstyrelserna\\\nNaturvårdsverket\\\nRiksarkivet\\\nRiksgäldskontoret\\\nTrafikverket",
+ "summary": {
+  "n_goals": 2,
+  "n_org": 1,
+  "n_assignments": 5,
+  "n_deadlines": 1,
+  "deadlines": [
+   "2027-02-22"
+  ],
+  "partners": [
+   "Energimarknadsinspektionen",
+   "Myndigheten för civilt försvar",
+   "Myndigheten för samhällsskydd och beredskap"
+  ],
+  "n_appropriations": 1,
+  "appropriations_total_tkr": 963198,
+  "payment_plan_total_tkr": 960198,
+  "md_chars": 14141
+ },
+ "layout": "standard",
+ "warnings": []
+}

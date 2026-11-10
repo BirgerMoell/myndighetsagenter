@@ -1,0 +1,571 @@
+{
+ "schema_version": 1,
+ "id": 25853,
+ "original_rbid": 25853,
+ "type": "Regleringsbrev",
+ "category": "Myndighet",
+ "date": "2025-12-18",
+ "year": "2026",
+ "name": "Södertörns högskola",
+ "slug": "sodertorns-hogskola",
+ "department": "Utbildningsdepartementet",
+ "expenditure_areas": [
+  16
+ ],
+ "registry_numbers": [
+  "U2025/01961",
+  "U2025/02412 (delvis)"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1"
+  ],
+  "bet": [
+   "2025/26:UbU1"
+  ],
+  "rskr": [
+   "2025/26:124"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "Gemensamma bestämmelser för universitet och högskolor finns i regleringsbrev för budgetåret 2026 avseende universitet och högskolor.",
+ "goals": [
+  {
+   "title": "Särskilt åtagande",
+   "group": [],
+   "text": "Högskolan ska, mot bakgrund av Sveriges åtaganden enligt Europarådets ramkonvention om skydd för nationella minoriteter (SÖ 2000:2) och Europeiska stadgan om landsdels- eller minoritetsspråk (SÖ 2000:3), som Sverige har ratificerat, bedriva utvecklingsarbete och utbildning på vetenskaplig grund, däribland med sikte på lärarutbildningar.\n\nArbetet ska främja undervisning i och på det nationella minoritetsspråket romani chib i förskolan, grundskolan, gymnasieskolan och högskolan. I arbetet ska lärosätet ta hänsyn till de särskilda behov och förutsättningar som språket har och föra en dialog med företrädare för den nationella minoriteten. Lärosätet ska samverka med berörda aktörer, bl.a. övriga lärosäten som har uppdrag när det gäller nationella minoritetsspråk, i Sverige och, när det är relevant, i andra länder som har erfarenhet av arbete med det aktuella språket. Lärosätet har rätt att avräkna helårsstudenter och helårsprestationer inom utbildningsområde Övrigt för detta ämne.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "samordna",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25853:goals:0"
+  },
+  {
+   "title": "Rekryteringsmål för professorer",
+   "group": [
+    "Mål"
+   ],
+   "text": "Under 2025–2028 har lärosätet ett mål för könsfördelningen bland nyrekryterade professorer om 54 procent kvinnor.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25853:goals:1"
+  },
+  {
+   "title": "Mål för antal examina",
+   "group": [
+    "Mål"
+   ],
+   "text": "Under 2025–2028 har lärosätet mål om antal utfärdade examina från vissa utbildningar inom nedan angivet område. Målet och de examina som omfattas av detta anges i tabellen nedan. Lärosätet ska i årsredovisningen redovisa antalet utfärdade examina inom området de senaste tre åren för de yrkesexamina som anges i tabellen samt vilka åtgärder som har vidtagits för att uppnå målet.\n\n| | |\n| --- | --- |\n| **Område (examina som omfattas av målet inom parentes)** | **Mål för antal utfärdade examina under 2025–2028** |\n| Lärar- och förskollärarutbildningar (förskollärarexamina, grundlärarexamina och ämneslärarexamina) | 1 960 |",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "årsredovisning"
+   ],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25853:goals:2"
+  }
+ ],
+ "org": [],
+ "assignments": [
+  {
+   "title": "Pågående uppdrag",
+   "group": [],
+   "text": "Uppdrag om att utarbeta en metod för uppföljning av arbetslivskriminalitetens utveckling i samhället (A2024/00857). Uppdraget ska redovisas till Regeringskansliet (Arbetsmarknadsdepartementet med kopia till Utbildningsdepartementet) senast den 1 juni 2026.",
+   "dates": [
+    "2026-06-01"
+   ],
+   "deadlines": [
+    "2026-06-01"
+   ],
+   "recipients": [
+    "Regeringskansliet (Arbetsmarknadsdepartementet med kopia till Utbildningsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "25853:assignments:0"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "2:59",
+   "name": "Södertörns högskola: Utbildning på grundnivå och avancerad nivå",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 16,
+    "name": "Utbildning och universitetsforskning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Södertörns högskola",
+     "amount_tkr": 509279,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Takbelopp (ram)",
+       "amount_tkr": 509279
+      },
+      {
+       "ap": "1.1",
+       "name": "Takbelopp (ram)",
+       "amount_tkr": 509279
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1.1",
+     "name": "Takbelopp",
+     "text": "Anslagsposten får användas för högskoleutbildning på grundnivå och avancerad nivå samt behörighetsgivande och högskoleintroducerande utbildning.\nAnvisningar för avräkning av helårsstudenter och helårsprestationer finns i bilaga till regleringsbrev avseende universitet och högskolor."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "2:60",
+   "name": "Södertörns högskola: Forskning och utbildning på forskarnivå",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 16,
+    "name": "Utbildning och universitetsforskning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Södertörns högskola",
+     "amount_tkr": 140575,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Basresurs (ram)",
+       "amount_tkr": 140575
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Basresurs",
+     "text": "Anslagsposten får användas för forskning och utbildning på forskarnivå.\nAv anslaget får högst 450 000 kronor användas för verksamhetsbidrag till Stiftelsen Flemingsberg Science."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "1",
+     "max": 450000,
+     "unit": "kronor"
+    }
+   ]
+  },
+  {
+   "code": "2:65",
+   "name": "Särskilda medel till universitet och högskolor",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 16,
+    "name": "Utbildning och universitetsforskning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Södertörns högskola",
+     "amount_tkr": 4831,
+     "items": [
+      {
+       "ap": "58",
+       "name": "Forskningsanknytning av polisutbildningen (ram)",
+       "amount_tkr": 1071
+      },
+      {
+       "ap": "59",
+       "name": "Lärarutbildning i nationella minoritetsspråk (ram)",
+       "amount_tkr": 2480
+      },
+      {
+       "ap": "97",
+       "name": "Medel för studenthälsa (ram)",
+       "amount_tkr": 1280
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "58",
+     "name": "Forskningsanknytning av polisutbildningen",
+     "text": "Anslagsposten får användas för att stärka forskningsanknytningen av polisutbildningen."
+    },
+    {
+     "ap": "59",
+     "name": "Lärarutbildning i nationella minoritetsspråk",
+     "text": "Anslagsposten får användas för lärarutbildning i nationella minoritetsspråk."
+    },
+    {
+     "ap": "97",
+     "name": "Medel för studenthälsa",
+     "text": "Anslagsposten får användas för att stärka studenthälsan och bl.a. möjliggöra mer preventivt arbete för att minska studenternas psykiska och fysiska ohälsa samt stärka stödet för studieovana studenter. Av\\\nmedlen avser 510 000 kronor arbete med att särskilt främja psykisk hälsa bland studenter."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "2:59 Södertörns högskola: Utbildning på grundnivå och avancerad nivå",
+   "ap": "ap.1.1",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "10 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:60 Södertörns högskola: Forskning och utbildning på forskarnivå",
+   "ap": "ap.1",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Allt",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.58",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.59",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.97",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 69000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 54558
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 54558
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 54558
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 54558
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 54558
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 54558
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 54558
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 54558
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 54558
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 54558
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 54558
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 54547
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "2:59 Södertörns högskola: Utbildning på grundnivå och avancerad nivå",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1.1",
+     "0",
+     "10 %",
+     "0"
+    ],
+    [
+     "2:60 Södertörns högskola: Forskning och utbildning på forskarnivå",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "0",
+     "Allt",
+     "0"
+    ],
+    [
+     "2:65 Särskilda medel till universitet och högskolor",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.58",
+     "0",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.59",
+     "0",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.97",
+     "0",
+     "3 %",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Omfördelning av anslagssparande",
+   "rows": [
+    [
+     "Omfördelning från anslag/ap1",
+     "Omfördelning till anslag/ap2",
+     "Belopp (tkr)",
+     "Belopp andel (%)"
+    ],
+    [
+     "2:59 Södertörns högskola: Utbildning på grundnivå och avancerad nivå",
+     "",
+     "",
+     ""
+    ],
+    [
+     "2:59 ap.1.2",
+     "2:59 ap.1.1",
+     "100 %"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Avslutade anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagstyp"
+    ],
+    [
+     "2:59 Södertörns högskola: Utbildning på grundnivå och avancerad nivå",
+     ""
+    ],
+    [
+     "ap.1.2",
+     "ram"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "69 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "54 558"
+    ],
+    [
+     "2026-02-25",
+     "54 558"
+    ],
+    [
+     "2026-03-25",
+     "54 558"
+    ],
+    [
+     "2026-04-25",
+     "54 558"
+    ],
+    [
+     "2026-05-25",
+     "54 558"
+    ],
+    [
+     "2026-06-25",
+     "54 558"
+    ],
+    [
+     "2026-07-25",
+     "54 558"
+    ],
+    [
+     "2026-08-25",
+     "54 558"
+    ],
+    [
+     "2026-09-25",
+     "54 558"
+    ],
+    [
+     "2026-10-25",
+     "54 558"
+    ],
+    [
+     "2026-11-25",
+     "54 558"
+    ],
+    [
+     "2026-12-25",
+     "54 547"
+    ],
+    [
+     "Summa",
+     "654 685"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "2:59 ap.1.1",
+     "Takbelopp"
+    ],
+    [
+     "2:60 ap.1",
+     "Basresurs"
+    ],
+    [
+     "2:65 ap.58",
+     "Forskningsanknytning av polisutbildningen"
+    ],
+    [
+     "2:65 ap.59",
+     "Lärarutbildning i nationella minoritetsspråk"
+    ],
+    [
+     "2:65 ap.97",
+     "Medel för studenthälsa"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [],
+ "has_fee_section": false,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 3,
+  "n_org": 0,
+  "n_assignments": 1,
+  "n_deadlines": 1,
+  "deadlines": [
+   "2026-06-01"
+  ],
+  "partners": [],
+  "n_appropriations": 3,
+  "appropriations_total_tkr": 654685,
+  "payment_plan_total_tkr": 654685,
+  "md_chars": 7887
+ },
+ "layout": "standard",
+ "warnings": []
+}

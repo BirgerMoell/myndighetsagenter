@@ -1,0 +1,90 @@
+{
+ "csn_studiemedel": {
+  "n": 1200,
+  "splits": {
+   "test": 120,
+   "val": 120,
+   "train": 960
+  },
+  "labels": {
+   "avslag": 619,
+   "bifall": 327,
+   "delvis_bifall": 194,
+   "komplettering": 60
+  },
+  "oracle_mean_reward": 1.0,
+  "constant_answer_baseline": {
+   "mean_reward": 0.346,
+   "answer": "avslag",
+   "n_test": 120
+  }
+ },
+ "forvaltning_nasta_steg": {
+  "n": 600,
+  "splits": {
+   "test": 60,
+   "val": 60,
+   "train": 480
+  },
+  "labels": {
+   "overlamna": 158,
+   "anmal_jav": 100,
+   "fortsatt_handlaggning": 79,
+   "fatta_beslut": 79,
+   "avvisa": 74,
+   "kommunicera": 73,
+   "andra_beslutet_och_overlamna": 37
+  },
+  "oracle_mean_reward": 1.0,
+  "constant_answer_baseline": {
+   "mean_reward": 0.19,
+   "answer": "overlamna",
+   "n_test": 60
+  }
+ },
+ "oks_overklagande": {
+  "n": 481,
+  "splits": {
+   "train": 361,
+   "val": 48,
+   "test": 72
+  },
+  "labels": {
+   "avslag": 302,
+   "bifall": 158,
+   "aterforvisning": 11,
+   "delvis_bifall": 9,
+   "avvisning": 1
+  },
+  "oracle_mean_reward": 1.0,
+  "constant_answer_baseline": {
+   "mean_reward": 0.593,
+   "answer": "avslag",
+   "n_test": 72
+  }
+ },
+ "skolinspektionen_tillsyn": {
+  "n": 113,
+  "splits": {
+   "train": 85,
+   "val": 12,
+   "test": 16
+  },
+  "labels": {
+   "inget_ingripande": 71,
+   "forelaggande": 33,
+   "anmarkning": 7,
+   "avstaende_fran_ingripande": 2
+  },
+  "oracle_mean_reward": 1.0,
+  "constant_answer_baseline": {
+   "mean_reward": 0.262,
+   "answer": "forelaggande",
+   "n_test": 16
+  },
+  "source": {
+   "collected": 200,
+   "usable": 113
+  }
+ }
+}

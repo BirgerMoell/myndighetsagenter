@@ -1,0 +1,431 @@
+{
+ "schema_version": 1,
+ "id": 25689,
+ "original_rbid": 25689,
+ "type": "Regleringsbrev",
+ "category": "Myndighet",
+ "date": "2025-12-18",
+ "year": "2026",
+ "name": "Barnombudsmannen",
+ "slug": "barnombudsmannen",
+ "department": "Socialdepartementet",
+ "expenditure_areas": [
+  9
+ ],
+ "registry_numbers": [
+  "S2025/02147 (delvis)"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1"
+  ],
+  "bet": [
+   "2025/26:SoU1"
+  ],
+  "rskr": [
+   "2025/26:114"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "Barnombudsmannens huvudsakliga uppgifter framgår av lagen (1993:335) om Barnombudsman och förordningen (2007:1021) med instruktion för Barnombudsmannen.",
+ "goals": [
+  {
+   "title": "Öka förmågan att använda AI och ny teknik genom datadrivet arbete",
+   "group": [],
+   "text": "Barnombudsmannen ska redovisa i vilken utsträckning de arbetar datadrivet samt vilka åtgärder de vidtagit för att förbättra sin förmåga att arbeta datadrivet.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "statistik_data",
+    "digitalisering_ai"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25689:goals:0"
+  }
+ ],
+ "org": [],
+ "assignments": [
+  {
+   "title": null,
+   "group": [],
+   "text": "Barnombudsmannen ska göra följande.\n\n— Bistå Jämställdhetsmyndigheten genom att delta i en nationell informationssatsning 2026—2028 om hedersrelaterat våld och förtryck riktad till yrkesverksamma och allmänheten. Uppdraget omfattar att informera om gällande lagstiftning och stödprocesser för våldsutsatta barn. Barnombudsmannen ska även bidra i arbetet med att inventera, uppdatera och genomföra utbildningar till yrkesverksamma för att motverka hedersrelaterat våld och förtryck inklusive bortföranden i hederskontexter för att säkerställa att det finns utbildningar riktade till samtliga relevanta verksamheter och målgrupper som möter barn, med fokus på skola och socialtjänst. Barnombudsmannen ska bidra med kunskap och erfarenheter om hedersrelaterat våld och förtryck mot barn. Uppdraget ska ha ett särskilt fokus på barn i sårbara situationer. Jämställdhetsmyndigheten samordnar arbetet (regleringsbrev för budgetåret 2026 avseende Jämställdhetsmyndigheten). Jämställdhetsmyndigheten ska lämna en muntlig delredovisning den 18 augusti 2026 och den 30 mars 2027 och en samlad slutredovisning den 16 februari 2029 till Regeringskansliet (Arbetsmarknadsdepartementet). För uppdraget har Barnombudsmannen tilldelats medel för 2026 som ska redovisas mot det under utgiftsområde 13 Integration och jämställdhet för budgetåret 2026 uppförda anslaget 3:1 Särskilda jämställdhetsåtgärder, anslagspost 9 Särskilda jämställdhetsåtgärder - del till Barnombudsmannen.",
+   "dates": [
+    "2026-08-18",
+    "2027-03-30",
+    "2029-02-16"
+   ],
+   "deadlines": [],
+   "recipients": [
+    "Regeringskansliet (Arbetsmarknadsdepartementet)"
+   ],
+   "partners": [
+    "Jämställdhetsmyndigheten"
+   ],
+   "channels": [
+    "muntlig",
+    "delredovisning",
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "utveckla",
+    "informera"
+   ],
+   "anslag_refs": [
+    "3:1"
+   ],
+   "expenditure_area_refs": [
+    13
+   ],
+   "sfs_refs": [],
+   "sub_questions": [
+    "Bistå Jämställdhetsmyndigheten genom att delta i en nationell informationssatsning 2026—2028 om hedersrelaterat våld och förtryck riktad till yrkesverksamma och allmänheten. Uppdraget omfattar att informera om gällande lagstiftning och stödprocesser för våldsutsatta barn. Barnombudsmannen ska även bidra i arbetet med att inventera, uppdatera och genomföra utbildningar till yrkesverksamma för att motverka hedersrelaterat våld och förtryck inklusive bortföranden i hederskontexter för att säkerställa att det finns utbildningar riktade till samtliga relevanta verksamheter och målgrupper som möter barn, med fokus på skola och socialtjänst. Barnombudsmannen ska bidra med kunskap och erfarenheter om hedersrelaterat våld och förtryck mot barn. Uppdraget ska ha ett särskilt fokus på barn i sårbara situationer. Jämställdhetsmyndigheten samordnar arbetet (regleringsbrev för budgetåret 2026 avseende Jämställdhetsmyndigheten). Jämställdhetsmyndigheten ska lämna en muntlig delredovisning den 18 augusti 2026 och den 30 mars 2027 och en samlad slutredovisning den 16 februari 2029 till Regeringskansliet (Arbetsmarknadsdepartementet). För uppdraget har Barnombudsmannen tilldelats medel för 2026 som ska redovisas mot det under utgiftsområde 13 Integration och jämställdhet för budgetåret 2026 uppförda anslaget 3:1 Särskilda jämställdhetsåtgärder, anslagspost 9 Särskilda jämställdhetsåtgärder - del till Barnombudsmannen."
+   ],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "25689:assignments:0"
+  },
+  {
+   "title": "Prognoser",
+   "group": [],
+   "text": "Barnombudsmannen ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Prognoserna lämnas i informationssystemet Hermes senast den\n\n– 2 februari,\n\n– 22 april,\n\n– 24 juli och\n\n– 9 november.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "25689:assignments:1"
+  },
+  {
+   "title": "Pågående uppdrag",
+   "group": [
+    "Prognoser"
+   ],
+   "text": "",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "25689:assignments:2"
+  },
+  {
+   "title": "Pågående uppdrag",
+   "group": [],
+   "text": "| | | |\n| --- | --- | --- |\n| Uppdrag | Beslut om uppdraget | Redovisningstidpunkt |\n| Uppdrag att ta fram ett metodstöd för kommuners och regioners arbete med lokala funktioner som kan informera, svara på frågor och vägleda barn och vuxna om barns rättigheter. | Regleringsbrev för Barnombudsmannen 2024 samt 2025 avseende anslag 5:2 Barnets rättigheter. | Till Regeringskansliet (Socialdepartementet) senast den 2 mars 2026. |\n| Uppdrag att ta fram ett metodstöd för statliga myndigheters, kommuners och regioners arbete med att göra den egna myndighetens verksamhet känd för barn samt vid behov bistå DO, IVO och SiS. | Regleringsbrev för Barnombudsmannen 2023 och 2024 samt 2025 avseende anslag 5:2 Barnets rättigheter. | Till Regeringskansliet (Socialdepartementet) senast den 2 mars 2026. |\n| Uppdrag att bistå länsstyrelserna att sprida kunskap till kommuner och regioner om tillämpningen av barnets rättigheter. | Regleringsbrev för Barnombudsmannen 2024 samt 2025 avseende anslag 5:2 Barnets rättigheter. | Till Regeringskansliet (Socialdepartementet) senast den 2 mars 2026. |\n| Uppdrag att samverka med Uppsala universitet att genomföra utbildningsinsatser. | Regleringsbrev för Barnombudsmannen 2024, Ku2017/00254, Ku2017/00961 samt regleringsbrev 2025 avseende anslag 5:2 Barnets rättigheter. | Till Regeringskansliet (Socialdepartementet) senast den 2 mars 2026. |\n| Uppdrag att kartlägga och beskriva barn och ungas erfarenheter av våld under uppväxten och belysa sambandet med kriminalitet. I uppdraget ingår att fortsatt föra en kontinuerlig dialog med berörda myndigheter om hur barn kan skyddas från att utnyttjas i kriminella aktiviteter. | Regleringsbrev för Barnombudsmannen 2024 samt 2026 avseende anslag 3:1 Särskilda jämställdhetsåtgärder. | Till Regeringskansliet (Socialdepartementet med kopia till Arbetsmarknadsdepartementet) senast den 2 mars 2026 och den 31 mars 2027. |\n| Uppdrag att fortsatt samla in, analysera och sprida rättspraxis avseende barnkonventionen till offentliga aktörer samt utvärdera uppdraget och föreslå en ändamålsenlig, hållbar och långsiktig struktur för genomförandet. | Regleringsbrev för Barnombudsmannen 2025 samt 2025 avseende anslag 5:2 Barnets rättigheter. | Till Regeringskansliet (Socialdepartementet) senast den 2 mars 2026. |\n| Uppdrag att utvärdera framtagna metoder, arbetsformer och material om hur barnets rättigheter kan tillämpas i praktiken, sprida lärande exempel samt kartlägga och analysera behoven av ytterligare vägledning för offentliga aktörers arbete med tolkning och tillämpning av barnkonventionen. | Regleringsbrev för Barnombudsmannen 2025 samt 2025 avseende anslag 5:2 Barnets rättigheter. | Till Regeringskansliet (Socialdepartementet) senast den 2 mars 2026. |\n| Uppdrag att redogöra för hur myndigheten, på kort och lång sikt, planerar att fullgöra sin lagenliga uppgift att sammanställa statistik om barns och ungas levnadsvillkor. | Regleringsbrev för Barnombudsmannen 2025 samt 2025 avseende anslag 5:2 Barnets rättigheter. | Till Regeringskansliet (Socialdepartementet) senast den 2 mars 2026. |\n| Uppdrag att vara Sveriges representant i Kommittén av parterna till Europarådets konvention om skydd av barn mot sexuell exploatering och sexuella övergrepp (Lanzarotekommittén). | Regleringsbrev för Barnombudsmannen 2025 samt 2026 avseende anslag 5:2 Barnets rättigheter. | Till Regeringskansliet (Socialdepartementet) senast den 2 mars 2026 och den 1 mars 2027. |\n| Uppdrag att undersöka om det finns brister i samhällets skyddsnät för barn, analysera vad bristerna beror på och lämna förslag på lämpliga och konkreta åtgärder. | Regleringsbrev för Barnombudsmannen 2025 samt 2025 avseende anslag 5:2 Barnets rättigheter. | Till Regeringskansliet (Socialdepartementet) senast den 2 mars 2026. |\n| Uppdrag att analysera kopplingarna mellan hedersrelaterat våld och förtryck och risk för att minderåriga rekryteras till och utnyttjas i gängkriminalitet. | Regleringsbrev för Barnombudsmannen 2025 samt 2026 avseende anslag 3:1 Särskilda jämställdhetsåtgärder. | Till Regeringskansliet (Socialdepartementet med kopia till Arbetsmarknadsdepartementet) senast den 2 mars 2026 och den 31 mars 2027. |\n| Uppdrag att identifiera kontaktvägar för barn och unga som har utsatts för våld i partnerrelation, sexuellt våld och sexuell exploatering. | A2025/00608 samt regleringsbrev för 2026 avseende anslag 3:1 Särskilda jämställdhetsåtgärder. | Till Regeringskansliet (Arbetsmarknadsdepartementet med kopia till Socialdepartementet) senast den 13 mars 2026 och den 1 juni 2027. |\n\n*För regeringsuppdrag som lämnats i ett särskilt regeringsbeslut utgör tabellen endast en upplysning om vilka uppdrag som vid årets början var riktade till myndigheten och vilka tider som då gällde för återrapportering eller liknande.*",
+   "dates": [
+    "2026-03-02",
+    "2026-03-13",
+    "2027-03-01",
+    "2027-03-31",
+    "2027-06-01"
+   ],
+   "deadlines": [
+    "2026-03-02",
+    "2026-03-13"
+   ],
+   "recipients": [],
+   "partners": [
+    "Inspektionen för vård och omsorg",
+    "Statens institutionsstyrelse",
+    "Uppsala universitet",
+    "länsstyrelserna"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "föreslå",
+    "samordna",
+    "utveckla",
+    "informera",
+    "statistik_data"
+   ],
+   "anslag_refs": [
+    "3:1",
+    "5:2"
+   ],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "25689:assignments:3"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "5:1",
+   "name": "Barnombudsmannen",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 9,
+    "name": "Hälsovård, sjukvård och social omsorg"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Barnombudsmannen",
+     "amount_tkr": 40973,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Barnombudsmannen (ram)",
+       "amount_tkr": 40973
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Barnombudsmannen",
+     "text": "Anslagsposten får användas för Barnombudsmannens förvaltningsutgifter."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "5:1 Barnombudsmannen",
+   "ap": "ap.1",
+   "Anslagskredit": 1229,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 2200,
+  "Räntekontokredit": 2500
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 3414
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 3414
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 3414
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 3414
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 3414
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 3414
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 3414
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 3414
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 3414
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 3414
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 3414
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 3419
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "5:1 Barnombudsmannen",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "1 229",
+     "3 %",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "2 200"
+    ],
+    [
+     "Räntekontokredit",
+     "2 500"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "3 414"
+    ],
+    [
+     "2026-02-25",
+     "3 414"
+    ],
+    [
+     "2026-03-25",
+     "3 414"
+    ],
+    [
+     "2026-04-25",
+     "3 414"
+    ],
+    [
+     "2026-05-25",
+     "3 414"
+    ],
+    [
+     "2026-06-25",
+     "3 414"
+    ],
+    [
+     "2026-07-25",
+     "3 414"
+    ],
+    [
+     "2026-08-25",
+     "3 414"
+    ],
+    [
+     "2026-09-25",
+     "3 414"
+    ],
+    [
+     "2026-10-25",
+     "3 414"
+    ],
+    [
+     "2026-11-25",
+     "3 414"
+    ],
+    [
+     "2026-12-25",
+     "3 419"
+    ],
+    [
+     "Summa",
+     "40 973"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "5:1 ap.1",
+     "Barnombudsmannen"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [],
+ "has_fee_section": false,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 1,
+  "n_org": 0,
+  "n_assignments": 4,
+  "n_deadlines": 2,
+  "deadlines": [
+   "2026-03-02",
+   "2026-03-13"
+  ],
+  "partners": [
+   "Inspektionen för vård och omsorg",
+   "Jämställdhetsmyndigheten",
+   "Statens institutionsstyrelse",
+   "Uppsala universitet",
+   "länsstyrelserna"
+  ],
+  "n_appropriations": 1,
+  "appropriations_total_tkr": 40973,
+  "payment_plan_total_tkr": 40973,
+  "md_chars": 10062
+ },
+ "layout": "standard",
+ "warnings": []
+}

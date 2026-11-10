@@ -1,0 +1,471 @@
+{
+ "schema_version": 1,
+ "id": 26359,
+ "original_rbid": 25808,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-06-11",
+ "year": "2026",
+ "name": "Kungl. Konsthögskolan",
+ "slug": "kungl-konsthogskolan",
+ "department": "Utbildningsdepartementet",
+ "expenditure_areas": [
+  16
+ ],
+ "registry_numbers": [
+  "U2026/01202 (delvis)"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1",
+   "2025/26:99"
+  ],
+  "bet": [
+   "2025/26:FiU21",
+   "2025/26:UbU1"
+  ],
+  "rskr": [
+   "2025/26:124",
+   "2025/26:349"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "Gemensamma bestämmelser för universitet och högskolor finns i regleringsbrev för budgetåret 2026 avseende universitet och högskolor.",
+ "goals": [
+  {
+   "title": "Särskilt åtagande",
+   "group": [],
+   "text": "Högskolan ska dela ut tre stipendier till studenter vid arkitekturskolan.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26359:goals:0"
+  },
+  {
+   "title": "Rekryteringsmål för professorer",
+   "group": [
+    "Mål"
+   ],
+   "text": "Under 2025–2028 har lärosätet ett mål för könsfördelningen bland nyrekryterade professorer om 40–60 procent kvinnor.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26359:goals:1"
+  }
+ ],
+ "org": [],
+ "assignments": [],
+ "appropriations": [
+  {
+   "code": "2:55",
+   "name": "Kungl. Konsthögskolan: Utbildning på grundnivå och avancerad nivå",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 16,
+    "name": "Utbildning och universitetsforskning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Kungl. Konsthögskolan",
+     "amount_tkr": 76756,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Takbelopp (ram)",
+       "amount_tkr": 76756
+      },
+      {
+       "ap": "1.1",
+       "name": "Takbelopp (ram)",
+       "amount_tkr": 76756
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1.1",
+     "name": "Takbelopp",
+     "text": "Anslagsposten får användas för högskoleutbildning på grundnivå och avancerad nivå samt behörighetsgivande och högskoleintroducerande utbildning.\nAnvisningar för avräkning av helårsstudenter och helårsprestationer finns i bilaga till regleringsbrev avseende universitet och högskolor."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "2:56",
+   "name": "Kungl. Konsthögskolan: Forskning och utbildning på forskarnivå",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 16,
+    "name": "Utbildning och universitetsforskning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Kungl. Konsthögskolan",
+     "amount_tkr": 15839,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Basresurs (ram)",
+       "amount_tkr": 15839
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Basresurs",
+     "text": "Anslagsposten får användas för forskning och utbildning på forskarnivå."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "2:65",
+   "name": "Särskilda medel till universitet och högskolor",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 16,
+    "name": "Utbildning och universitetsforskning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Kungl. Konsthögskolan",
+     "amount_tkr": 4649,
+     "items": [
+      {
+       "ap": "32",
+       "name": "Lokalkostnader (ram)",
+       "amount_tkr": 4540
+      },
+      {
+       "ap": "33",
+       "name": "Stipendier (ram)",
+       "amount_tkr": 52
+      },
+      {
+       "ap": "85",
+       "name": "Medel för studenthälsa (ram)",
+       "amount_tkr": 57
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "32",
+     "name": "Lokalkostnader",
+     "text": "Anslagsposten får användas för lokalkostnader."
+    },
+    {
+     "ap": "33",
+     "name": "Stipendier",
+     "text": "Anslagsposten får användas för stipendier."
+    },
+    {
+     "ap": "85",
+     "name": "Medel för studenthälsa",
+     "text": "Anslagsposten får användas för att stärka studenthälsan och bl.a. möjliggöra mer preventivt arbete för att minska studenternas psykiska och fysiska ohälsa samt stärka stödet för studieovana studenter. Av\\\nmedlen avser 10 000 kronor arbete med att särskilt främja psykisk hälsa bland studenter."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "2:55 Kungl. Konsthögskolan: Utbildning på grundnivå och avancerad nivå",
+   "ap": "ap.1.1",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "10 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:56 Kungl. Konsthögskolan: Forskning och utbildning på forskarnivå",
+   "ap": "ap.1",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Allt",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.32",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.33",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.85",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 59000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 7853
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 7853
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 7853
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 7853
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 7853
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 7853
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 8353
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 8353
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 8353
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 8353
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 8353
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 8361
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "2:55 Kungl. Konsthögskolan: Utbildning på grundnivå och avancerad nivå",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1.1",
+     "0",
+     "10 %",
+     "0"
+    ],
+    [
+     "2:56 Kungl. Konsthögskolan: Forskning och utbildning på forskarnivå",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "0",
+     "Allt",
+     "0"
+    ],
+    [
+     "2:65 Särskilda medel till universitet och högskolor",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.32",
+     "0",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.33",
+     "0",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.85",
+     "0",
+     "3 %",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "59 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "7 853"
+    ],
+    [
+     "2026-02-25",
+     "7 853"
+    ],
+    [
+     "2026-03-25",
+     "7 853"
+    ],
+    [
+     "2026-04-25",
+     "7 853"
+    ],
+    [
+     "2026-05-25",
+     "7 853"
+    ],
+    [
+     "2026-06-25",
+     "7 853"
+    ],
+    [
+     "2026-07-25",
+     "8 353"
+    ],
+    [
+     "2026-08-25",
+     "8 353"
+    ],
+    [
+     "2026-09-25",
+     "8 353"
+    ],
+    [
+     "2026-10-25",
+     "8 353"
+    ],
+    [
+     "2026-11-25",
+     "8 353"
+    ],
+    [
+     "2026-12-25",
+     "8 361"
+    ],
+    [
+     "Summa",
+     "97 244"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "2:55 ap.1.1",
+     "Takbelopp"
+    ],
+    [
+     "2:56 ap.1",
+     "Basresurs"
+    ],
+    [
+     "2:65 ap.32",
+     "Lokalkostnader"
+    ],
+    [
+     "2:65 ap.33",
+     "Stipendier"
+    ],
+    [
+     "2:65 ap.85",
+     "Medel för studenthälsa"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [],
+ "has_fee_section": false,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 2,
+  "n_org": 0,
+  "n_assignments": 0,
+  "n_deadlines": 0,
+  "deadlines": [],
+  "partners": [],
+  "n_appropriations": 3,
+  "appropriations_total_tkr": 97244,
+  "payment_plan_total_tkr": 97244,
+  "md_chars": 5013
+ },
+ "layout": "standard",
+ "warnings": []
+}

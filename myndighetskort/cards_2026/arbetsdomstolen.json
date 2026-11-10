@@ -1,0 +1,327 @@
+{
+ "schema_version": 1,
+ "id": 26338,
+ "original_rbid": 25911,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-06-18",
+ "year": "2026",
+ "name": "Arbetsdomstolen",
+ "slug": "arbetsdomstolen",
+ "department": "Arbetsmarknadsdepartementet",
+ "expenditure_areas": [
+  14
+ ],
+ "registry_numbers": [
+  "A2026/00038",
+  "A2026/00627",
+  "A2026/00674"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1",
+   "2025/26:99"
+  ],
+  "bet": [
+   "2025/2026:AU2",
+   "2025/26:FiU21"
+  ],
+  "rskr": [
+   "2025/26:119",
+   "2025/26:352"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "",
+ "goals": [
+  {
+   "title": "Prövning av arbetstvister",
+   "group": [],
+   "text": "Myndigheten ska redovisa:\n\n- Det totala antalet mål som kommit in och antal mål som har avgjorts (uppdelat på A- och B-mål), samt om målet har avgjorts efter dom eller särskilt uppsatt beslut.\n- Det totala antalet balanserade mål, antal balanserade mål äldre än sex månader men yngre än 12 månader, samt antal balanserade mål som är 12 månader eller äldre (uppdelat på A- och B-mål).\n- Medianålder för avgjorda mål och medianålder för avgjorda mål efter dom eller särskilt uppsatt beslut (uppdelat på A- och B-mål).\n- Hur inkomna mål fördelar sig på de mer vanligt förekommande typerna av tvister.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "fördela_medel"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "Det totala antalet mål som kommit in och antal mål som har avgjorts (uppdelat på A- och B-mål), samt om målet har avgjorts efter dom eller särskilt uppsatt beslut.",
+    "Det totala antalet balanserade mål, antal balanserade mål äldre än sex månader men yngre än 12 månader, samt antal balanserade mål som är 12 månader eller äldre (uppdelat på A- och B-mål).",
+    "Medianålder för avgjorda mål och medianålder för avgjorda mål efter dom eller särskilt uppsatt beslut (uppdelat på A- och B-mål).",
+    "Hur inkomna mål fördelar sig på de mer vanligt förekommande typerna av tvister."
+   ],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26338:goals:0"
+  }
+ ],
+ "org": [],
+ "assignments": [
+  {
+   "title": "Utgiftsprognoser",
+   "group": [],
+   "text": "Arbetsdomstolen ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Prognoserna lämnas i informationssystemet Hermes senast den\n\n- 2 februari\n- 22 april\n- 24 juli och\n- 9 november.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26338:assignments:0"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "2:2",
+   "name": "Arbetsdomstolen",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 14,
+    "name": "Arbetsmarknad och arbetsliv"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Arbetsdomstolen",
+     "amount_tkr": 41613,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Förvaltningskostnader (ram)",
+       "amount_tkr": 41613
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Förvaltningskostnader",
+     "text": "Anslagsposten får användas för Arbetsdomstolens förvaltningsutgifter."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "2:2 Arbetsdomstolen",
+   "ap": "ap.1",
+   "Anslagskredit": 1158,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 6500,
+  "Räntekontokredit": 10600
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 3218
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 3218
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 3218
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 3218
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 3218
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 3647
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 3647
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 3647
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 3647
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 3647
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 3647
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 3641
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "2:2 Arbetsdomstolen",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "1 158",
+     "3 %",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "6 500"
+    ],
+    [
+     "Räntekontokredit",
+     "10 600"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "3 218"
+    ],
+    [
+     "2026-02-25",
+     "3 218"
+    ],
+    [
+     "2026-03-25",
+     "3 218"
+    ],
+    [
+     "2026-04-25",
+     "3 218"
+    ],
+    [
+     "2026-05-25",
+     "3 218"
+    ],
+    [
+     "2026-06-25",
+     "3 647"
+    ],
+    [
+     "2026-07-25",
+     "3 647"
+    ],
+    [
+     "2026-08-25",
+     "3 647"
+    ],
+    [
+     "2026-09-25",
+     "3 647"
+    ],
+    [
+     "2026-10-25",
+     "3 647"
+    ],
+    [
+     "2026-11-25",
+     "3 647"
+    ],
+    [
+     "2026-12-25",
+     "3 641"
+    ],
+    [
+     "Summa",
+     "41 613"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "2:2 ap.1",
+     "Förvaltningskostnader"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [],
+ "has_fee_section": false,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 1,
+  "n_org": 0,
+  "n_assignments": 1,
+  "n_deadlines": 0,
+  "deadlines": [],
+  "partners": [],
+  "n_appropriations": 1,
+  "appropriations_total_tkr": 41613,
+  "payment_plan_total_tkr": 41613,
+  "md_chars": 3978
+ },
+ "layout": "standard",
+ "warnings": []
+}

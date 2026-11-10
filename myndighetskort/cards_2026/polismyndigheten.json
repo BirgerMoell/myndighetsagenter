@@ -1,0 +1,1178 @@
+{
+ "schema_version": 1,
+ "id": 27474,
+ "original_rbid": 25873,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-06-25",
+ "year": "2026",
+ "name": "Polismyndigheten",
+ "slug": "polismyndigheten",
+ "department": "Justitiedepartementet",
+ "expenditure_areas": [
+  4
+ ],
+ "registry_numbers": [
+  "Ju2025/02803",
+  "Ju2026/01446"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1",
+   "2025/26:99"
+  ],
+  "bet": [
+   "2025/26:FiU21",
+   "2025/26:JuU1"
+  ],
+  "rskr": [
+   "2025/26:101",
+   "2025/26:345"
+  ]
+ },
+ "n_attachments_stated": 1,
+ "mission": "Polismyndighetens uppgifter framgår av ett flertal författningar, bl.a. polislagen (1984:387) och förordningen (2022:1718) med instruktion för Polismyndigheten.\n\nBrottsligheten ska minska och människors trygghet ska öka. Genom att fullgöra sina uppgifter ska Polismyndigheten bidra till en sådan utveckling i hela landet.",
+ "goals": [
+  {
+   "title": "Övergripande utvecklingsarbete",
+   "group": [],
+   "text": "Polismyndigheten ska redovisa hur myndigheten har arbetat med och vilka resultat som har uppnåtts i fråga om att\n\n- växa mot målet att polistätheten minst ska motsvara genomsnittet i EU,\n- förstärka arbetet med en lokalt synlig och trygghetsskapande polis och en god service till medborgarna,\n- förbättra resultaten i utredningsverksamheten så att fler brott kan klaras upp,\n- säkerställa en effektiv styrning och ledning samt användning och uppföljning av polisens växande resurser.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "växa mot målet att polistätheten minst ska motsvara genomsnittet i EU,",
+    "förstärka arbetet med en lokalt synlig och trygghetsskapande polis och en god service till medborgarna,",
+    "förbättra resultaten i utredningsverksamheten så att fler brott kan klaras upp,",
+    "säkerställa en effektiv styrning och ledning samt användning och uppföljning av polisens växande resurser."
+   ],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27474:goals:0"
+  },
+  {
+   "title": "Brottsbekämpning inklusive brottsförebyggande",
+   "group": [],
+   "text": "I återrapporteringen av resultatet av arbetet med brottsbekämpningen ska Polismyndigheten särskilt redovisa följande:\n\n1. Hur förmågan att förebygga, förhindra, utreda och lagföra brott har utvecklats avseende:\n   - dödligt våld,\n   - mäns våld mot kvinnor, inklusive köp av sexuell handling,\n   - hedersrelaterad brottslighet,\n   - brott mot barn,\n   - ungdomsbrott,\n   - bedrägerier, bidragsbrott och penningtvätt.\\\n     Redovisningen ska innehålla resultatindikatorer och annan relevant resultatinformation om respektive område.\n2. Hur det fortsatta arbetet med att öka den operativa förmågan att\\\n   bekämpa grova brott med koppling till kriminella nätverk och kriminell ekonomi har bedrivits, inklusive en bedömning av vilka åtgärder som har haft störst effekt.\n3. Vilka åtgärder myndigheten har vidtagit och utvecklar för att motverka rekrytering i onlinemiljö av barn och unga till kriminalitet, samt samarbete med tjänsteleverantörer kopplat till detta.\n4. Hur de nya möjligheterna till informationsdelning, som genom lagändringar som trädde i kraft den 1 april respektive den 1 december 2025, har nyttjats i praktiken och vilken effekt de har bidragit till, särskilt avseende samverkan mellan polis, socialtjänst och skola kring barn och unga.\n5. Hur de nya möjligheterna till användning av hemliga och preventiva tvångsmedel när barn under 15 år begår brott, som trädde i kraft den 1 oktober 2025, har påverkat myndighetens arbete och vilken effekt de bidragit till.\n6. Statistik över antal unika personer i åldern under 13 år, 13–14 år, 15–17 år samt 18–20 år som har varit misstänkta för grov brottslighet 2022–2026 uppdelat på år, brottstyp och kön. Polismyndigheten och Åklagarmyndigheten ska tillsammans välja ut vilka brottstyper som ska ingå i redovisningen.\n7. Hur myndigheten har säkerställt en kontinuerlig ökning av antalet bevakningskameror till minst 5 000 vid utgången av 2027.\n8. Hur myndigheten har samverkat med näringsidkare i lokalsamhället för att förebygga ordningsstörningar och brottslighet riktat mot näringsidkare.",
+   "dates": [
+    "2025-10-01",
+    "2025-12-01"
+   ],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Åklagarmyndigheten"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna",
+    "utveckla",
+    "statistik_data"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "Hur förmågan att förebygga, förhindra, utreda och lagföra brott har utvecklats avseende:",
+    "mäns våld mot kvinnor, inklusive köp av sexuell handling,",
+    "hedersrelaterad brottslighet,",
+    "bedrägerier, bidragsbrott och penningtvätt.\\",
+    "Hur det fortsatta arbetet med att öka den operativa förmågan att\\",
+    "Vilka åtgärder myndigheten har vidtagit och utvecklar för att motverka rekrytering i onlinemiljö av barn och unga till kriminalitet, samt samarbete med tjänsteleverantörer kopplat till detta.",
+    "Hur de nya möjligheterna till informationsdelning, som genom lagändringar som trädde i kraft den 1 april respektive den 1 december 2025, har nyttjats i praktiken och vilken effekt de har bidragit till, särskilt avseende samverkan mellan polis, socialtjänst och skola kring barn och unga.",
+    "Hur de nya möjligheterna till användning av hemliga och preventiva tvångsmedel när barn under 15 år begår brott, som trädde i kraft den 1 oktober 2025, har påverkat myndighetens arbete och vilken effekt de bidragit till.",
+    "Statistik över antal unika personer i åldern under 13 år, 13–14 år, 15–17 år samt 18–20 år som har varit misstänkta för grov brottslighet 2022–2026 uppdelat på år, brottstyp och kön. Polismyndigheten och Åklagarmyndigheten ska tillsammans välja ut vilka brottstyper som ska ingå i redovisningen.",
+    "Hur myndigheten har säkerställt en kontinuerlig ökning av antalet bevakningskameror till minst 5 000 vid utgången av 2027.",
+    "Hur myndigheten har samverkat med näringsidkare i lokalsamhället för att förebygga ordningsstörningar och brottslighet riktat mot näringsidkare."
+   ],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27474:goals:1"
+  },
+  {
+   "title": "Allmän ordning och säkerhet",
+   "group": [],
+   "text": "I återrapporteringen av resultatet av arbetet med allmän ordning och säkerhet ska Polismyndigheten särskilt redovisa följande:\n\n1. Hur myndigheten har utvecklat och säkerställt bedrivandet av polisiära kontroller i gränsnära områden.\n2. Hur myndigheten har genomfört arbetet med återinförd gränskontroll vid inre gräns för att möta det identifierade allvarliga hotet mot allmän ordning och inre säkerhet, samt hur den fria rörligheten inom Schengenområdet och Öresundsregionen beaktats, exempelvis vad gäller situationen för pendlare.\n3. Vilka åtgärder myndigheten har vidtagit för att effektivisera återvändandearbetet i syfte att öka antalet och andelen verkställda avvisnings- och utvisningsbeslut i förhållande till Polismyndighetens samlade ärendebalans inom verksamhetsområdet och där verkställighet av beslut om utvisning på grund av brott ska ges särskild prioritet.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla",
+    "tillsyn_kontroll"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "Hur myndigheten har utvecklat och säkerställt bedrivandet av polisiära kontroller i gränsnära områden.",
+    "Hur myndigheten har genomfört arbetet med återinförd gränskontroll vid inre gräns för att möta det identifierade allvarliga hotet mot allmän ordning och inre säkerhet, samt hur den fria rörligheten inom Schengenområdet och Öresundsregionen beaktats, exempelvis vad gäller situationen för pendlare.",
+    "Vilka åtgärder myndigheten har vidtagit för att effektivisera återvändandearbetet i syfte att öka antalet och andelen verkställda avvisnings- och utvisningsbeslut i förhållande till Polismyndighetens samlade ärendebalans inom verksamhetsområdet och där verkställighet av beslut om utvisning på grund av brott ska ges särskild prioritet."
+   ],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27474:goals:2"
+  },
+  {
+   "title": "Övrig återrapportering",
+   "group": [],
+   "text": "",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27474:goals:3"
+  },
+  {
+   "title": "Lägesbild över den organiserade brottslighetens påverkan på idrotten",
+   "group": [],
+   "text": "Polismyndigheten ska redovisa en lägesbild över den organiserade brottslighetens påverkan på idrotten, särskilt fotbollen, och myndighetens arbete för att motverka sådan påverkan. Redovisningen ska utgå från den problembild som presenterades i Polismyndighetens fenomenrapport Idrottskorruption 2023 och bl.a. omfatta situationen med och arbetet för att motverka matchfixning, kriminalitet inom agentverksamhet och att organiserad brottslighet utnyttjar ideella idrottsföreningar för kriminell verksamhet. Myndigheten ska också redovisa hur man samverkar med idrottsrörelsen för att bekämpa den här brottsligheten.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27474:goals:4"
+  },
+  {
+   "title": "Verksamhets- och it-utveckling",
+   "group": [],
+   "text": "Polismyndigheten ska redovisa de viktigaste verksamhets- och it-utvecklingsinsatserna, inklusive digitalisering och AI, som genomförts under året. Redovisningen ska ske utifrån förväntad nytta, påverkan på myndighetens sätt att utföra sina uppgifter och när effekten kan förväntas uppstå. Myndigheten ska även redovisa effekter som uppkommit från tidigare verksamhetsutveckling samt större framtida utmaningar. Vidare ska myndigheten redovisa sitt arbete för att säkerställa skyddet för den personliga integriteten i myndighetens användning av AI.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "digitalisering_ai"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27474:goals:5"
+  },
+  {
+   "title": "Medelstillskott för fler anställda och fortsatt polistillväxt",
+   "group": [],
+   "text": "Polismyndigheten ska redovisa hur resursförstärkningarna fr.o.m. budgetpropositionen för 2023 för fler anställda och fortsatt polistillväxt har använts och vilka resultat som har uppnåtts. I den mån det är möjligt ska redovisningen också innehålla en fördelning av kostnaderna för olika områden i verksamheten, t.ex. personal, lokaler och verksamhetsinvesteringar. Av redovisningen ska vidare framgå hur resursförstärkningarna fortsatt avses användas och vilka resultat som framledes kan förväntas.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27474:goals:6"
+  }
+ ],
+ "org": [],
+ "assignments": [
+  {
+   "title": "Stärkt motståndskraft mot hybridhot",
+   "group": [],
+   "text": "I syfte att stärka Sveriges samlade motståndskraft mot hybridhot behöver respektive sektor stärka sin förmåga att upptäcka och hantera incidenter som skulle kunna utgöra aktörsdrivna hot. Mot den bakgrunden ska Polismyndigheten\n\n- säkerställa en kontinuerlig lägesuppfattning av incidenter inom den egna verksamheten och inom sitt sektorsansvar i syfte att upprätthålla en normalbild,\n- sammanställa öppen information om den hotbild som finns mot sektorn och tillgängliggöra den för aktörer som tillhandahåller samhällsviktig verksamhet inom sektorn, samt\n- samverka med Säkerhetspolisen, Myndigheten för civilt försvar och andra berörda myndigheter i syfte att vid behov klargöra eller utveckla rapporteringsvägar för avvikelser eller säkerhetsincidenter.\n\nUppdraget ska redovisas till Regeringskansliet (Justitiedepartementet) senast den 28 februari 2027.",
+   "dates": [
+    "2027-02-28"
+   ],
+   "deadlines": [
+    "2027-02-28"
+   ],
+   "recipients": [
+    "Regeringskansliet (Justitiedepartementet)"
+   ],
+   "partners": [
+    "Myndigheten för civilt försvar",
+    "Säkerhetspolisen"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "utveckla",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "säkerställa en kontinuerlig lägesuppfattning av incidenter inom den egna verksamheten och inom sitt sektorsansvar i syfte att upprätthålla en normalbild,",
+    "sammanställa öppen information om den hotbild som finns mot sektorn och tillgängliggöra den för aktörer som tillhandahåller samhällsviktig verksamhet inom sektorn, samt",
+    "samverka med Säkerhetspolisen, Myndigheten för civilt försvar och andra berörda myndigheter i syfte att vid behov klargöra eller utveckla rapporteringsvägar för avvikelser eller säkerhetsincidenter."
+   ],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27474:assignments:0"
+  },
+  {
+   "title": "Avtal med företag för stärkt försörjningsberedskap",
+   "group": [],
+   "text": "Polismyndigheten ska identifiera behov av och, i de fall myndigheten bedömer det lämpligt, teckna avtal som syftar till att upprätthålla försörjningen av varor och tjänster som är nödvändiga för myndighetens prioriterade uppgifter vid fredstida kriser och höjd beredskap. I de fall Polismyndigheten nyttjar särskilda avtalsformer i form av sådana försörjningsberedskapsavtal (F-avtal) som beskrivs i SOU 2025:68 ska dessa avtal löpande rapporteras till Myndigheten för civilt försvar. Uppdraget ska redovisas till Regeringskansliet (Justitiedepartementet och Försvarsdepartementet) senast den 22 februari 2027, och ingå i den särskilda redovisningen för civilt försvar. Som stöd för arbetet kan myndigheten använda bland annat Utgångspunkter för totalförsvaret 2025–2030.",
+   "dates": [
+    "2027-02-22"
+   ],
+   "deadlines": [
+    "2027-02-22"
+   ],
+   "recipients": [
+    "Myndigheten för civilt försvar",
+    "Regeringskansliet (Justitiedepartementet och Försvarsdepartementet)"
+   ],
+   "partners": [
+    "Myndigheten för civilt försvar"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27474:assignments:1"
+  },
+  {
+   "title": "Informationsinsatser för att uppmuntra frivillig återvandring",
+   "group": [],
+   "text": "Polismyndigheten ska bistå Migrationsverket i arbetet med att informera om möjligheten till stöd för frivillig återvandring. I arbetet ska myndigheten ta stöd av Migrationsverket och den nationella samordnaren för frivillig återvandring (Ju2025:14). Polismyndigheten ska rapportera till Regeringskansliet (Justitiedepartementet) vilka informationsinsatser som har genomförts senast den 30 september 2026.",
+   "dates": [
+    "2026-09-30"
+   ],
+   "deadlines": [
+    "2026-09-30"
+   ],
+   "recipients": [
+    "Regeringskansliet (Justitiedepartementet)"
+   ],
+   "partners": [
+    "Migrationsverket"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "informera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27474:assignments:2"
+  },
+  {
+   "title": "Åtgärder för att utveckla arbetet med inre utlänningskontroller",
+   "group": [],
+   "text": "Polismyndigheten ska fortsatt utveckla och effektivisera sitt arbete med inre utlänningskontroller för att göra det till en integrerad del av myndighetens löpande verksamhet. Myndigheten ska inom ramen för detta arbete bl.a. omgående intensifiera sina riktade insatser för att identifiera fler personer som saknar rätt att vistas i Sverige. Polismyndigheten och Migrationsverket ska fortsätta samverka för att uppnå en effektiv och ändamålsenlig användning av förvarsplatser, samt ta fram en gemensam prioriteringsordning för hur förvarsplatser ska användas. Polismyndigheten, Migrationsverket och Kriminalvården ska vidare samverka för att säkerställa nödvändiga transporter. En delredovisning rörande prioritering av förvarsplatser ska lämnas senast den 22 maj 2026 och uppdraget ska slutredovisas senast den 6 mars 2027 till Regeringskansliet (Justitiedepartementet).",
+   "dates": [
+    "2026-05-22",
+    "2027-03-06"
+   ],
+   "deadlines": [
+    "2026-05-22",
+    "2027-03-06"
+   ],
+   "recipients": [
+    "Regeringskansliet (Justitiedepartementet)"
+   ],
+   "partners": [
+    "Kriminalvården",
+    "Migrationsverket"
+   ],
+   "channels": [
+    "delredovisning",
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "utveckla",
+    "tillsyn_kontroll"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27474:assignments:3"
+  },
+  {
+   "title": "Samarbete mot kriminella sammanslutningar",
+   "group": [],
+   "text": "Inom Regeringskansliet bereds lagstiftningsförslag som rör återkallelse av medborgarskap i vissa fall samt återkallelse av uppehållstillstånd på grund av bristande levnadssätt (SOU 2025:33). Polismyndigheten och Migrationsverket ges i uppdrag att följa det pågående lagstiftningsarbetet för att gemensamt förbereda processer och arbetsmetoder som kan användas för att vid ett ikraftträdande snabbt kunna använda den nya lagstiftningen, särskilt när den kan tillämpas på personer med samröre med kriminella sammanslutningar och gängmiljö.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Migrationsverket"
+   ],
+   "channels": [],
+   "task_types": [
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27474:assignments:4"
+  },
+  {
+   "title": "Ökad användning av och kvalitet i rättsintyg",
+   "group": [],
+   "text": "Polismyndigheten ska, tillsammans med Rättsmedicinalverket och Åklagarmyndigheten, vidta åtgärder för att öka användningen av rättsintyg och höja kvaliteten i dessa, till exempel genom informationsinsatser och metodutveckling. Rättsmedicinalverket ska samordna arbetet och redovisningen. Uppdraget ska redovisas till Regeringskansliet (Justitiedepartementet) senast den 2 april 2027.",
+   "dates": [
+    "2027-04-02"
+   ],
+   "deadlines": [
+    "2027-04-02"
+   ],
+   "recipients": [
+    "Regeringskansliet (Justitiedepartementet)"
+   ],
+   "partners": [
+    "Rättsmedicinalverket",
+    "Åklagarmyndigheten"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "informera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27474:assignments:5"
+  },
+  {
+   "title": "Användningen av brottskoder vid registrering av anmälan om brott",
+   "group": [],
+   "text": "Polismyndigheten ska utreda vilka åtgärder som behöver vidtas, samt påbörja genomförande av sådana åtgärder, för att säkerställa att korrekt brottskod och annan juridisk information används vid registrering av anmälan om brott. Syftet är att höja kvaliteten i statistiken över anmälda brott. Uppdraget ska utföras i nära samverkan med Brottsförebyggande rådet. I uppdraget ska särskild vikt läggas på de brottskoder som anger relation mellan gärningsperson och offer. Uppdraget ska redovisas till Regeringskansliet (Justitiedepartementet) senast den 18 december 2026.",
+   "dates": [
+    "2026-12-18"
+   ],
+   "deadlines": [
+    "2026-12-18"
+   ],
+   "recipients": [
+    "Regeringskansliet (Justitiedepartementet)"
+   ],
+   "partners": [
+    "Brottsförebyggande rådet"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "utveckla",
+    "statistik_data"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27474:assignments:6"
+  },
+  {
+   "title": "Verksamhetsuppföljning",
+   "group": [],
+   "text": "Polismyndigheten ska månatligen redovisa\n\n- en uppföljning av ekonomi, verksamhet och personal inklusive personaltillväxten,\n- statistik avseende utredningsverksamheten, skjutningar och sprängningar,\n- antalet personer som kontrollerats inom ramen för den tillfälligt återinförda gränskontrollen vid inre gräns (nationalitet, antalet nekade inresor och hur många som är minderåriga) och hur stor andel dessa utgör av det totala passagerarflödet samt utfallet av kontrollerna så länge beslut om dessa kontroller föreligger.\n\nDärutöver ska Polismyndigheten per tertial redovisa en uppdatering avseende antalet fasta och mobila bevakningskameror och kroppsburna kameror. Tertialredovisningen ska även omfatta beslag av vapen, uppdelat efter kategori.\n\nSamtliga redovisningar ska vara uppdelade per kön så långt det är möjligt och lämnas till Regeringskansliet (Justitiedepartementet).",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [
+    "Regeringskansliet (Justitiedepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "tillsyn_kontroll",
+    "statistik_data"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "en uppföljning av ekonomi, verksamhet och personal inklusive personaltillväxten,",
+    "statistik avseende utredningsverksamheten, skjutningar och sprängningar,",
+    "antalet personer som kontrollerats inom ramen för den tillfälligt återinförda gränskontrollen vid inre gräns (nationalitet, antalet nekade inresor och hur många som är minderåriga) och hur stor andel dessa utgör av det totala passagerarflödet samt utfallet av kontrollerna så länge beslut om dessa kontroller föreligger."
+   ],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27474:assignments:7"
+  },
+  {
+   "title": "Bedömningar av verksamhetsvolymer i brottmålsprocessen",
+   "group": [],
+   "text": "Polismyndigheten ska tillsammans med Åklagarmyndigheten, Ekobrottsmyndigheten, Domstolsverket, Kriminalvården och Brottsförebyggande rådet fortsätta arbetet med att bedöma framtida verksamhetsvolymer i brottmålsprocessen. Arbetet ska bedrivas med utgångspunkt i det uppdrag som gavs till myndigheterna i oktober 2019 (Ju2019/01057). Uppdraget innefattar att fortsätta utveckla arbetet för att bedömningarna ska öka förståelsen för resursbehov och brottmålsprocessen som en helhet. Myndigheterna ska gemensamt redovisa sina resultat till Regeringskansliet (Justitiedepartementet) senast den 1 mars 2027.",
+   "dates": [
+    "2027-03-01"
+   ],
+   "deadlines": [
+    "2027-03-01"
+   ],
+   "recipients": [
+    "Regeringskansliet (Justitiedepartementet)"
+   ],
+   "partners": [
+    "Brottsförebyggande rådet",
+    "Domstolsverket",
+    "Ekobrottsmyndigheten",
+    "Kriminalvården",
+    "Åklagarmyndigheten"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27474:assignments:8"
+  },
+  {
+   "title": "Prognoser",
+   "group": [],
+   "text": "Polismyndigheten ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen under 2026. Prognoserna ska kommenteras i förhållande till föregående prognostillfälle samt i förhållande till tillgängliga och beräknade medel enligt budgeten. Av kommentarerna ska framgå vilka antaganden som använts i prognosen, vilka osäkerhetsfaktorer som finns och vad som orsakat eventuella förändringar. Om prognosen visar på underskott ska myndigheten redovisa vilka åtgärder som har vidtagits eller planeras att vidtas för att verksamheten ska kunna bedrivas inom ramen för tilldelade medel samt vilka konsekvenserna blir för verksamheten till följd av dessa åtgärder. Prognoserna lämnas i informationssystemet Hermes senast den\n\n2 februari\\\n22 april\\\n24 juli\\\n9 november\n\nI nära anslutning till prognoserna den 24 juli och den 9 november ska Polismyndigheten, i särskild ordning och efter dialog med Regeringskansliet (Justitiedepartementet), lämna prognoser för den avgiftsbelagda verksamheten.\n\nPolismyndigheten ska även redovisa en prognos för de förslag om beställningsbemyndiganden som lämnats i budgetunderlaget och för de åtaganden som ingåtts med stöd av äldre beställningsbemyndiganden. Prognosen ska lämnas senast den 24 juli 2026 via Statsredovisningssystemet i Hermes och utformas enligt närmare information från Statskontoret.",
+   "dates": [
+    "2026-07-24"
+   ],
+   "deadlines": [
+    "2026-07-24"
+   ],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [
+    "Statskontoret"
+   ],
+   "channels": [
+    "hermes",
+    "budgetunderlag"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27474:assignments:9"
+  },
+  {
+   "title": "Pågående uppdrag",
+   "group": [],
+   "text": "Pågående regeringsuppdrag till Polismyndigheten redovisas i bilaga 2.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "27474:assignments:10"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "1:1",
+   "name": "Polismyndigheten",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 4,
+    "name": "Rättsväsendet"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Polismyndigheten",
+     "amount_tkr": 48539473,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Polismyndigheten (ram)",
+       "amount_tkr": 48337913
+      },
+      {
+       "ap": "5",
+       "name": "del till Avdelningen för särskilda utredningar (ram)",
+       "amount_tkr": 91560
+      },
+      {
+       "ap": "2",
+       "name": "Polismyndigheten - Inlösen av vissa halvautomatiska vapen (ram)",
+       "amount_tkr": 110000
+      }
+     ],
+     "sum_ok": true
+    },
+    {
+     "by": "Kammarkollegiet",
+     "amount_tkr": 1060,
+     "items": [
+      {
+       "ap": "4",
+       "name": "Till Kammarkollegiets disposition (ram)",
+       "amount_tkr": 1060
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Polismyndigheten",
+     "text": "Anslaget får användas för utgifter avseende Polismyndighetens verksamhet. Medel får tas i anspråk för bidrag till forensisk forskning, Svenska polisidrottsförbundet och andra föreningar som bedriver tjänstenära verksamhet. Medel får också användas för forskningssamarbeten och praktiknära utvecklingsarbeten med vetenskaplig grund som motiveras av myndighetens uppdrag och behov.\nPolismyndigheten ska kunna använda och samverka med det gemensamma radiokommunikationssystemet Rakel. Polismyndigheten ska betala totalt 309 124 000 kronor till Myndigheten för civilt försvar som abonnemangsavgift för Rakel. Medlen ska betalas efter fakturering från Myndigheten för civilt försvar.\nUnder 2026 ska Polismyndigheten betala 95 000 000 kronor till Totalförsvarets plikt- och prövningsverk som ersättning för den prövningskapacitet om upp till 8 800 prövningar som Totalförsvarets plikt- och prövningsverk tillhandahåller i antagningsprocessen för polisutbildningen och för prövningar till Polismyndighetens funktionsinriktade respektive verksamhetsintegrerade polisutbildningar. Medlen ska betalas efter fakturering från Totalförsvarets plikt- och prövningsverk.\nHögst 72 500 000 kronor får användas för bidrag till kommuner och andra organisationer som hjälper personer att lämna ett liv i kriminalitet (avhopparverksamhet) och för kostnader för att förstärka och utveckla arbetet med stöd till avhoppare. För det senare får Polismyndigheten använda högst 10 000 000 kronor.\nPolismyndigheten ska använda anslaget för att reducera det ackumulerade underskottet per den 31 december 2019 i verksamheten stämningsmannadelgivning med 1/10. Vidare ska Polismyndigheten använda anslaget för att reducera det samlade ackumulerade underskottet per den 31 december 2023 i verksamheten utbildning av ordningsvakter med 1/10."
+    },
+    {
+     "ap": "2",
+     "name": "Polismyndigheten - Inlösen av vissa halvautomatiska vapen",
+     "text": "Medlen ska användas för inlösen av vissa halvautomatiska vapen och vissa tillbehör till dessa vapen."
+    },
+    {
+     "ap": "4",
+     "name": "Till Kammarkollegiets disposition",
+     "text": "Medel får efter beslut av regeringen användas för att finansiera verksamhet som rör Polismyndigheten."
+    },
+    {
+     "ap": "5",
+     "name": "del till Avdelningen för särskilda utredningar",
+     "text": "Medlen ska finansiera verksamheten vid avdelningen för särskilda utredningar i Polismyndigheten, undantaget de myndighetsgemensamma kostnader som finansieras via ap. 1 Polismyndigheten."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "1",
+     "max": 72500000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "1",
+     "max": 10000000,
+     "unit": "kronor"
+    }
+   ]
+  },
+  {
+   "code": "1:17",
+   "name": "Från EU-budgeten finansierade insatser avseende EU:s inre säkerhet, gränsförvaltning och visering",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 4,
+    "name": "Rättsväsendet"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Polismyndigheten",
+     "amount_tkr": 432000,
+     "items": [
+      {
+       "ap": "2",
+       "name": "Fonden för integrerad gränsförvaltning - Instrument för gränsförvaltning och visering 2021-2027 (ram)",
+       "amount_tkr": 240000
+      },
+      {
+       "ap": "3",
+       "name": "Inre Säkerhetsfonden - Inre säkerhetsfonden 2021-2027 (ram)",
+       "amount_tkr": 192000
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "2",
+     "name": "Fonden för integrerad gränsförvaltning - Instrument för gränsförvaltning och visering 2021-2027",
+     "text": "Medlen får användas för utgifter avseende verksamhet som bedrivs inom ramen för fonden för integrerad gränsförvaltning, instrumentet för gränsförvaltning och visering, samt för administration av fonden.\nBidrag från EU ska redovisas mot inkomsttitel 6911 Övriga bidrag från EU, undertitel 006 Bidrag från fonden för integrerad gränsförvaltning 2021-2027."
+    },
+    {
+     "ap": "3",
+     "name": "Inre Säkerhetsfonden - Inre säkerhetsfonden 2021-2027",
+     "text": "Medlen får användas för utgifter avseende verksamhet som bedrivs inom ramen för fonden för inre säkerhet och för administration av fonden.\nBidrag från EU ska redovisas mot inkomsttitel 6911 Övriga bidrag från EU, undertitel 013 Bidrag från fonden för inre säkerhet 2021-2027."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "1:1 Polismyndigheten",
+   "ap": "ap.1",
+   "Anslagskredit": 1450137,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:1 Polismyndigheten",
+   "ap": "ap.2",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:1 Polismyndigheten",
+   "ap": "ap.4",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:1 Polismyndigheten",
+   "ap": "ap.5",
+   "Anslagskredit": 2746,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:17 Från EU-budgeten finansierade insatser avseende EU:s inre säkerhet, gränsförvaltning och visering",
+   "ap": "ap.2",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:17 Från EU-budgeten finansierade insatser avseende EU:s inre säkerhet, gränsförvaltning och visering",
+   "ap": "ap.3",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 12500000,
+  "Räntekontokredit": 2200000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 4022039
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 4022039
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 4022039
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 4022039
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 4022039
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 4022039
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 4049539
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 4049539
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 4049539
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 4049539
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 4049539
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 4049544
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:1 Polismyndigheten",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "1 450 137",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.2",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.4",
+     "0",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.5",
+     "2 746",
+     "3 %",
+     "0"
+    ],
+    [
+     "1:17 Från EU-budgeten finansierade insatser avseende EU:s inre säkerhet, gränsförvaltning och visering",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.2",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.3",
+     "0",
+     "Inget",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Beställningsbemyndiganden",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Bemyndigande",
+     "Utgifter mot anslag till följd av ekonomiska åtaganden",
+     "",
+     "",
+     ""
+    ],
+    [
+     "2026",
+     "2027",
+     "2028",
+     "2029 -",
+     "Slutår"
+    ],
+    [
+     "1:17 Från EU-budgeten finansierade insatser avseende EU:s inre säkerhet, gränsförvaltning och visering",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.3",
+     "230 000",
+     "126 329",
+     "93 671",
+     "10 000",
+     "2029"
+    ],
+    [
+     "ap.2",
+     "521 000",
+     "251 755",
+     "199 220",
+     "70 025",
+     "2029"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "12 500 000"
+    ],
+    [
+     "Räntekontokredit",
+     "2 200 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "4 022 039"
+    ],
+    [
+     "2026-02-25",
+     "4 022 039"
+    ],
+    [
+     "2026-03-25",
+     "4 022 039"
+    ],
+    [
+     "2026-04-25",
+     "4 022 039"
+    ],
+    [
+     "2026-05-25",
+     "4 022 039"
+    ],
+    [
+     "2026-06-25",
+     "4 022 039"
+    ],
+    [
+     "2026-07-25",
+     "4 049 539"
+    ],
+    [
+     "2026-08-25",
+     "4 049 539"
+    ],
+    [
+     "2026-09-25",
+     "4 049 539"
+    ],
+    [
+     "2026-10-25",
+     "4 049 539"
+    ],
+    [
+     "2026-11-25",
+     "4 049 539"
+    ],
+    [
+     "2026-12-25",
+     "4 049 544"
+    ],
+    [
+     "Summa",
+     "48 429 473"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "1:1 ap.1",
+     "Polismyndigheten"
+    ],
+    [
+     "1:1 ap.5",
+     "del till Avdelningen för särskilda utredningar"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Offentligrättslig verksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Passhantering1",
+     "-412 696",
+     "40 600",
+     "989 100",
+     "859 100",
+     "130 000",
+     "-242 096"
+    ],
+    [
+     "Nationella ID-kort1",
+     "-49 878",
+     "-20 600",
+     "232 400",
+     "235 700",
+     "-3 300",
+     "-73 778"
+    ],
+    [
+     "Stämningsmannadelgivning3",
+     "36 800"
+    ],
+    [
+     "Summa",
+     "-462 574",
+     "20 000",
+     "1 258 300",
+     "1 094 800",
+     "126 700",
+     "-315 874"
+    ],
+    [
+     "Uppdragsverksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Forensisk undersökning1",
+     "4 247",
+     "1 000",
+     "4 500",
+     "4 500",
+     "0",
+     "5 247"
+    ],
+    [
+     "Tjänsteexport1",
+     "0",
+     "0",
+     "800",
+     "800",
+     "0",
+     "0"
+    ],
+    [
+     "Utbildning av ordningsvakter3",
+     "5 976"
+    ],
+    [
+     "Utbildning av sjöfarts- och hamnskyddskontrollanter1",
+     "323",
+     "0",
+     "636",
+     "636",
+     "0",
+     "323"
+    ],
+    [
+     "Kontroll av väktarhundar1",
+     "-930",
+     "0",
+     "300",
+     "300",
+     "0",
+     "-930"
+    ],
+    [
+     "Summa",
+     "3 640",
+     "1 000",
+     "12 212",
+     "6 236",
+     "0",
+     "4 640"
+    ]
+   ]
+  },
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna ej disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "Ink. tit.",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Offentligrättslig verksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Tillståndsgivning1",
+     "2511",
+     "0",
+     "0",
+     "94 000",
+     "0",
+     "94 000",
+     "94 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga inkomster",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Beräknade övriga inkomster som disponeras",
+     "1 100 000"
+    ],
+    [
+     "Beräknade övriga inkomster som inte disponeras",
+     "1 640 000"
+    ]
+   ]
+  }
+ ],
+ "has_fee_section": true,
+ "exceptions_text": "Polismyndigheten medges undantag från bestämmelserna i 2 kap. 1 § kapitalförsörjningsförordningen (2011:210) för anläggningstillgångar som helt eller till väsentlig del finansieras från anslaget 1:17*Från EU-budgeten finansierade insatser avseende EU:s inre säkerhet, gränsförvaltning och visering*. Undantaget omfattar hela finansieringen av berörda anläggningstillgångar, även eventuell del som belastar annat än angivet anslag.\n\n**ÖVRIGA BESTÄMMELSER**\n\nPolismyndigheten har rätt att göra utbetalningar till målsäganden ur det som staten fått in till följd av ett förverkandebeslut enligt förordningen (2004:1319) om förfarande med förverkad egendom och hittegods m.m.\n\nPå regeringens vägnar\n\nGunnar Strömmer\n\nMaria Söderberg\n\n**Kopia till**\n\nStatsrådsberedningen, internrevisionen\\\nFinansdepartementet/BA, ESA, SFÖ, DOF\\\nJustitiedepartementet/DÅ, Krim, L4, NM, IM\\\nUtrikesdepartementet/ES, FN, IU\\\nFörsvarsdepartementet/EMF, ECH, ESS, ETU\\\nSocialdepartementet/SOF\\\nKulturdepartementet/CSM, MD\\\nArbetsmarknadsdepartementet/ARM, JÄM, MRD, IAS\\\nUtbildningsdepartementet/GV, S, UH\\\nFörvaltningsavdelningen, RK Ekonomi och lön\\\nRiksdagen, Justitieutskottet\\\nBrottsförebyggande rådet\\\nDomstolsverket\\\nEkobrottsmyndigheten\\\nFörsvarsmakten\\\nKammarkollegiet\\\nKriminalvården\\\nKustbevakningen\\\nMigrationsverket\\\nMyndigheten för civilt försvar\\\nMyndigheten för digital förvaltning\\\nRiksgäldskontoret\\\nRättsmedicinalverket\\\nStatens tjänstepensionsverk\\\nStatskontoret\\\nSäkerhetspolisen\\\nTotalförsvarets plikt- och prövningsverk\\\nTullverket\\\nÅklagarmyndigheten\\\nAkavia\\\nOFR-SPF (Svenska Polisförbundet)\\\nOFR-ST (Fackförbundet ST)\\\nSACO\\\nSEKO",
+ "summary": {
+  "n_goals": 7,
+  "n_org": 0,
+  "n_assignments": 11,
+  "n_deadlines": 9,
+  "deadlines": [
+   "2026-05-22",
+   "2026-07-24",
+   "2026-09-30",
+   "2026-12-18",
+   "2027-02-22",
+   "2027-02-28",
+   "2027-03-01",
+   "2027-03-06",
+   "2027-04-02"
+  ],
+  "partners": [
+   "Brottsförebyggande rådet",
+   "Domstolsverket",
+   "Ekobrottsmyndigheten",
+   "Kriminalvården",
+   "Migrationsverket",
+   "Myndigheten för civilt försvar",
+   "Rättsmedicinalverket",
+   "Statskontoret",
+   "Säkerhetspolisen",
+   "Åklagarmyndigheten"
+  ],
+  "n_appropriations": 2,
+  "appropriations_total_tkr": 48972533,
+  "payment_plan_total_tkr": 48429473,
+  "md_chars": 25170
+ },
+ "layout": "standard",
+ "warnings": []
+}

@@ -1,0 +1,488 @@
+{
+ "schema_version": 1,
+ "id": 25728,
+ "original_rbid": 25728,
+ "type": "Regleringsbrev",
+ "category": "Myndighet",
+ "date": "2025-12-18",
+ "year": "2026",
+ "name": "Ekobrottsmyndigheten",
+ "slug": "ekobrottsmyndigheten",
+ "department": "Justitiedepartementet",
+ "expenditure_areas": [
+  4
+ ],
+ "registry_numbers": [
+  "Ju2025/00372",
+  "Ju2025/02693 (delvis)"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1"
+  ],
+  "bet": [
+   "2025/26:JuU1"
+  ],
+  "rskr": [
+   "2025/26:101"
+  ]
+ },
+ "n_attachments_stated": 1,
+ "mission": "Brottsligheten ska minska och människors trygghet ska öka. Genom att fullgöra sina uppgifter ska Ekobrottsmyndigheten bidra till en sådan utveckling. Myndighetens huvudsakliga uppgifter framgår av förordningen (2015:744) med instruktion för Ekobrottsmyndigheten.",
+ "goals": [
+  {
+   "title": "En effektiv bekämpning av den ekonomiska brottsligheten",
+   "group": [],
+   "text": "Ekobrottsmyndigheten ska redovisa hur myndigheten har säkerställt en ökad operativ förmåga att bekämpa den ekonomiska brottsligheten på ett effektivt sätt. Myndigheten ska särskilt redovisa följande:\n\n- Vilka åtgärder som har vidtagits för att fler brott ska utredas och lagföras, särskilt när det gäller kvalificerad och systemhotande ekonomisk brottslighet. I detta ingår att redovisa myndighetens arbete med att stärka det internationella rättsliga samarbetet.\n- Hur myndigheten har arbetat med att utveckla det förebyggande arbetet mot den ekonomiska brottsligheten.\n- På vilket sätt myndigheten har stärkt samarbetet med Polismyndigheten, Åklagarmyndigheten, Skatteverket och Tullverket. I detta ingår att redovisa hur myndigheten genom samverkan har utvecklat förmågan att bekämpa ekonomisk brottslighet.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Polismyndigheten",
+    "Skatteverket",
+    "Tullverket",
+    "Åklagarmyndigheten"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "utveckla",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "Vilka åtgärder som har vidtagits för att fler brott ska utredas och lagföras, särskilt när det gäller kvalificerad och systemhotande ekonomisk brottslighet. I detta ingår att redovisa myndighetens arbete med att stärka det internationella rättsliga samarbetet.",
+    "Hur myndigheten har arbetat med att utveckla det förebyggande arbetet mot den ekonomiska brottsligheten.",
+    "På vilket sätt myndigheten har stärkt samarbetet med Polismyndigheten, Åklagarmyndigheten, Skatteverket och Tullverket. I detta ingår att redovisa hur myndigheten genom samverkan har utvecklat förmågan att bekämpa ekonomisk brottslighet."
+   ],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25728:goals:0"
+  },
+  {
+   "title": "Tillämpning av ny lagstiftning för en effektiv brottsbekämpning",
+   "group": [],
+   "text": "Ekobrottsmyndigheten ska redovisa arbetet med att tillämpa den nya lagstiftningen om dels förverkande, som trädde i kraft den 8 november 2024, dels utvidgade möjligheter att meddela näringsförbud, i kraft den\\\n1 januari 2026. Redovisningen ska göra det möjligt att följa upp reformerna över tid. Myndigheten ska bedöma vilken nytta som den nya lagstiftningen har haft för brottsbekämpningen. Om det är möjligt och lämpligt ska även statistiska uppgifter redovisas.",
+   "dates": [
+    "2024-11-08",
+    "2026-01-01"
+   ],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25728:goals:1"
+  },
+  {
+   "title": "Efterlevnad av EU:s sanktionsförordningar och den svenska sanktionslagstiftningen",
+   "group": [],
+   "text": "Ekobrottsmyndigheten ska redovisa hur myndigheten har arbetat för att utveckla sina arbetsmetoder för att fler brott ska utredas och åtalas enligt lagen (2025:327) om internationella sanktioner.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2025:327"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25728:goals:2"
+  }
+ ],
+ "org": [
+  {
+   "title": "Förstärkt säkerhetsarbete",
+   "group": [],
+   "text": "Ekobrottsmyndigheten ska redogöra för hur de, inom befintliga ekonomiska ramar, planerade åtgärderna i arbetet med att förbättra säkerheten för de anställda och öka myndighetens motståndskraft mot infiltration och annan otillbörlig eller otillåten påverkan har genomförts.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "org",
+   "item_id": "25728:org:0"
+  }
+ ],
+ "assignments": [
+  {
+   "title": "Förstärkning av det brottsförebyggande arbetet riktat mot näringslivet",
+   "group": [],
+   "text": "Ekobrottsmyndigheten ska stärka det brottsförebyggande arbetet riktat mot näringslivet och genomföra insatser som stärker företagens kunskaper och motståndskraft. I uppdraget ingår att utveckla och genomföra informations- och utbildningsinsatser. I genomförandet av uppdraget ska Ekobrottsmyndigheten inhämta synpunkter från Svenskt Näringsliv och Stockholms Handelskammare, samt andra organisationer som myndigheten bedömer är relevanta. Uppdraget ska redovisas senast den 16 februari 2027.",
+   "dates": [
+    "2027-02-16"
+   ],
+   "deadlines": [
+    "2027-02-16"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "25728:assignments:0"
+  },
+  {
+   "title": "Bedömningar av verksamhetsvolymer i brottmålsprocessen",
+   "group": [],
+   "text": "Ekobrottsmyndigheten ska tillsammans med Polismyndigheten, Åklagarmyndigheten, Domstolsverket, Kriminalvården och Brottsförebyggande rådet fortsätta arbetet med att bedöma framtida verksamhetsvolymer i brottmålsprocessen. Arbetet ska bedrivas med utgångspunkt i det uppdrag som gavs till myndigheterna i oktober 2019 (Ju2019/01057). Uppdraget innefattar att fortsätta utveckla arbetet för att bedömningarna ska öka förståelsen för resursbehov och brottmålsprocessen som en helhet. Myndigheterna ska gemensamt redovisa sina resultat till Regeringskansliet (Justitiedepartementet) senast den 1 mars 2027.",
+   "dates": [
+    "2027-03-01"
+   ],
+   "deadlines": [
+    "2027-03-01"
+   ],
+   "recipients": [
+    "Regeringskansliet (Justitiedepartementet)"
+   ],
+   "partners": [
+    "Brottsförebyggande rådet",
+    "Domstolsverket",
+    "Kriminalvården",
+    "Polismyndigheten",
+    "Åklagarmyndigheten"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "25728:assignments:1"
+  },
+  {
+   "title": "Prognoser",
+   "group": [],
+   "text": "Ekobrottsmyndigheten ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras i förhållande till föregående prognostillfälle samt till tillgängliga och beräknade medel enligt budgeten. Av kommentarerna ska framgå vilka antaganden som använts i prognosen, vilka osäkerhetsfaktorer som finns och vad som har orsakat eventuella förändringar. Om prognosen visar på underskott ska myndigheten redovisa vilka åtgärder som har vidtagits eller planeras vidtas för att verksamheten ska kunna bedrivas inom ramen för tilldelade medel samt vilka konsekvenserna blir för verksamheten till följd av dessa åtgärder. Prognoserna ska lämnas i informationssystemet Hermes senast den\n\n2 februari\n\n22 april\n\n24 juli\n\n9 november.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "25728:assignments:2"
+  },
+  {
+   "title": "Pågående regeringsuppdrag redovisas i bilaga.",
+   "group": [],
+   "text": "",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "25728:assignments:3"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "1:4",
+   "name": "Ekobrottsmyndigheten",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 4,
+    "name": "Rättsväsendet"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Ekobrottsmyndigheten",
+     "amount_tkr": 1218883,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Ekobrottsmyndigheten (ram)",
+       "amount_tkr": 1218883
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Ekobrottsmyndigheten",
+     "text": "Anslagsposten får användas för Ekobrottsmyndighetens förvaltningsutgifter."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "1:4 Ekobrottsmyndigheten",
+   "ap": "ap.1",
+   "Anslagskredit": 36566,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 165000,
+  "Räntekontokredit": 60000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 101574
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 101574
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 101574
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 101574
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 101574
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 101574
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 101574
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 101574
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 101574
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 101574
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 101574
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 101569
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:4 Ekobrottsmyndigheten",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "36 566",
+     "3 %",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "165 000"
+    ],
+    [
+     "Räntekontokredit",
+     "60 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "101 574"
+    ],
+    [
+     "2026-02-25",
+     "101 574"
+    ],
+    [
+     "2026-03-25",
+     "101 574"
+    ],
+    [
+     "2026-04-25",
+     "101 574"
+    ],
+    [
+     "2026-05-25",
+     "101 574"
+    ],
+    [
+     "2026-06-25",
+     "101 574"
+    ],
+    [
+     "2026-07-25",
+     "101 574"
+    ],
+    [
+     "2026-08-25",
+     "101 574"
+    ],
+    [
+     "2026-09-25",
+     "101 574"
+    ],
+    [
+     "2026-10-25",
+     "101 574"
+    ],
+    [
+     "2026-11-25",
+     "101 574"
+    ],
+    [
+     "2026-12-25",
+     "101 569"
+    ],
+    [
+     "Summa",
+     "1 218 883"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "1:4 ap.1",
+     "Ekobrottsmyndigheten"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [],
+ "has_fee_section": false,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 3,
+  "n_org": 1,
+  "n_assignments": 4,
+  "n_deadlines": 2,
+  "deadlines": [
+   "2027-02-16",
+   "2027-03-01"
+  ],
+  "partners": [
+   "Brottsförebyggande rådet",
+   "Domstolsverket",
+   "Kriminalvården",
+   "Polismyndigheten",
+   "Skatteverket",
+   "Tullverket",
+   "Åklagarmyndigheten"
+  ],
+  "n_appropriations": 1,
+  "appropriations_total_tkr": 1218883,
+  "payment_plan_total_tkr": 1218883,
+  "md_chars": 7338
+ },
+ "layout": "standard",
+ "warnings": []
+}

@@ -1,0 +1,1251 @@
+{
+ "schema_version": 1,
+ "id": 27531,
+ "original_rbid": 25807,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-08-20",
+ "year": "2026",
+ "name": "Skogsstyrelsen",
+ "slug": "skogsstyrelsen",
+ "department": "Landsbygds- och infrastrukturdepartementet",
+ "expenditure_areas": [
+  23
+ ],
+ "registry_numbers": [
+  "LI2026/00871",
+  "LI2026/01478",
+  "LI2026/01496"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1",
+   "2025/26:99"
+  ],
+  "bet": [
+   "2025/26:FiU21",
+   "2025/26:MJU2"
+  ],
+  "rskr": [
+   "2025/26:116",
+   "2025/26:353"
+  ]
+ },
+ "n_attachments_stated": 1,
+ "mission": "",
+ "goals": [
+  {
+   "title": "Generella återrapporteringskrav",
+   "group": [],
+   "text": "Skogsstyrelsen ska redovisa utvecklingen inom skogssektorn utifrån de indikatorer som myndigheten har tagit fram.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "statistik_data"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27531:goals:0"
+  },
+  {
+   "title": "Stöd till förebyggande artskyddsarbete",
+   "group": [],
+   "text": "Skogsstyrelsen ska redovisa hur myndigheten har arbetat med att stötta skogsägare och verksamhetsutövare i det förebyggande artskyddsarbetet genom samverkan, rådgivning, utbildningar och tillhandahållande av kunskapsunderlag. I redovisningen ska ingå en beskrivning av hur Skogsstyrelsen har genomfört samverkan med relevanta aktörer.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27531:goals:1"
+  },
+  {
+   "title": "Information och rådgivning",
+   "group": [],
+   "text": "Skogsstyrelsen ska redovisa sitt arbete med att bidra till att nå Sveriges LULUCF-åtagande genom en satsning på information och rådgivning till skogsägare avseende ökat kolupptag samt biologisk mångfald, i enlighet med den satsning på 20 000 000 kronor som görs efter förslag i budgetpropositionen för 2026 prop. 2025/26:1 utg.omr. 23, bet. 2025/26:MJU2, rskr. 2025/26:116. I arbetet ska risk för koldioxidläckage och behov av klimatanpassning beaktas.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27531:goals:2"
+  },
+  {
+   "title": "Skogen i skolan",
+   "group": [],
+   "text": "Skogsstyrelsen ska redovisa hur myndigheten har samverkat med föreningen Skogen i skolan.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27531:goals:3"
+  },
+  {
+   "title": "Stärkt civilt försvar",
+   "group": [],
+   "text": "Skogsstyrelsen ska redovisa hur myndigheten har arbetat med stärkt civilt försvar på myndigheten och inom myndighetens ansvarsområde.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27531:goals:4"
+  },
+  {
+   "title": "Färdval och resepolicy vid tjänsteresor",
+   "group": [],
+   "text": "Alla trafikslag ska kunna nyttjas (väg, järnväg, luft- och sjöfart) för att säkerställa effektiva och ändamålsenliga transporter. Skogsstyrelsen ska därför redovisa hur myndigheten har säkerställt att val av färdsätt vid tjänsteresor sker färdmedelsneutralt och utifrån behov. Vidare ska Skogsstyrelsen redovisa huruvida myndigheten köpt in hållbart flygbränsle till organisationens flygresor. När kostnader jämförs för olika färdval ska hela resans kostnad beaktas, exempelvis kostnader för nödvändig övernattning samt total arbetstid för hela resan.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27531:goals:5"
+  }
+ ],
+ "org": [],
+ "assignments": [
+  {
+   "title": "Pågående uppdrag",
+   "group": [],
+   "text": "I*bilaga 1*redovisas Skogsstyrelsens pågående uppdrag. För regeringsuppdrag som lämnats i ett särskilt regeringsbeslut utgör uppräkningen i bilagan endast en upplysning om vilka uppdrag som vid årets början var riktade till myndigheten och vilka tider som då gällde för återrapportering eller liknande.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "27531:assignments:0"
+  },
+  {
+   "title": "Nationellt skogsprogram",
+   "group": [],
+   "text": "Skogsstyrelsen ska bidra till genomförandet av det nationella skogsprogrammet. Skogsstyrelsen ska redogöra för hur myndighetens verksamhet har bidragit till att uppfylla de fastlagda målen för nationella skogsprogrammet, vilka resurser som avsatts till detta och redovisa en bedömning av vilka resultat som har uppnåtts. Skogsstyrelsen ska i arbetet stödja regionala aktörer och genomföra en årskonferens för skogsprogrammet. Skogsstyrelsen ska senast den 15 februari 2027 lämna en redovisning av uppdraget till Regeringskansliet (Landsbygds- och infrastrukturdepartementet).",
+   "dates": [
+    "2027-02-15"
+   ],
+   "deadlines": [
+    "2027-02-15"
+   ],
+   "recipients": [
+    "Regeringskansliet (Landsbygds- och infrastrukturdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27531:assignments:1"
+  },
+  {
+   "title": "Öka förmågan att använda AI och ny teknik genom datadrivet arbete",
+   "group": [],
+   "text": "Skogsstyrelsen ska redovisa i vilken utsträckning myndigheten arbetar datadrivet, vilka åtgärder den har vidtagit för att förbättra sin förmåga att arbeta datadrivet, samt en bedömning av vilka resultat åtgärderna har lett till. Skogsstyrelsen ska även redovisa på vilket sätt arbetet med data och artificiell intelligens, AI, har bidragit till att utveckla verksamheten och höja kvaliteten i utförandet av myndighetens uppgifter. Av redovisningen ska framgå hur Skogsstyrelsen beaktar risker och arbetar för att användning av data och AI sker på ett etiskt och säkert sätt. Eventuella hinder och framgångsfaktorer för datadrivet arbete och användande av AI ska redovisas. Skogsstyrelsen ska senast den 15 maj 2026 lämna en redovisning av uppdraget till Regeringskansliet (Landsbygds- och infrastrukturdepartementet).",
+   "dates": [
+    "2026-05-15"
+   ],
+   "deadlines": [
+    "2026-05-15"
+   ],
+   "recipients": [
+    "Regeringskansliet (Landsbygds- och infrastrukturdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla",
+    "statistik_data",
+    "digitalisering_ai"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27531:assignments:2"
+  },
+  {
+   "title": "Härjedalsförhandlingar",
+   "group": [],
+   "text": "Skogsstyrelsen ska fortsätta att förvalta de avtal som har upprättats som ett resultat av Härjedalsförhandlingarna gällande renbete på vinterbetesmarker och åretruntmarker. Skogsstyrelsen ska fortsätta bistå berörda myndigheter i arbetet. Skogsstyrelsen ska senast den 15 september 2026 redovisa sina insatser till Länsstyrelsen i Jämtlands län.",
+   "dates": [
+    "2026-09-15"
+   ],
+   "deadlines": [
+    "2026-09-15"
+   ],
+   "recipients": [],
+   "partners": [
+    "länsstyrelserna"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27531:assignments:3"
+  },
+  {
+   "title": "Verksamt.se",
+   "group": [],
+   "text": "Skogsstyrelsen ska förvalta myndighetens innehåll på den myndighetsgemensamma webbplatsen verksamt.se.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27531:assignments:4"
+  },
+  {
+   "title": "Prognoser",
+   "group": [],
+   "text": "Skogsstyrelsen ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Prognoserna lämnas i informationssystemet Hermes senast den\n\n– 2 februari,\n\n– 22 april,\n\n– 24 juli och\n\n– 9 november.\n\nVidare ska myndigheten, vid ovan nämnda datum, till Regeringskansliet (Landsbygds- och infrastrukturdepartementet) särskilt redovisa prognosen för anslag 1:2*Insatser för skogsbruket*uppdelat på anslagspost 1 Bidrag till skogsbruket och anslagspost 2 Kostnader för intrångsersättning och vissa civilrättsliga avtal på naturvårdsområdet.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [
+    "Regeringskansliet (Landsbygds- och infrastrukturdepartementet)"
+   ],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos",
+    "fördela_medel"
+   ],
+   "anslag_refs": [
+    "1:2"
+   ],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27531:assignments:5"
+  },
+  {
+   "title": "Prognos för beställningsbemyndiganden",
+   "group": [],
+   "text": "Myndigheten ska redovisa en prognos för de förslag om beställningsbemyndiganden som lämnats i budgetunderlaget och för de åtaganden som ingåtts med stöd av äldre beställningsbemyndiganden. Prognosen ska lämnas senast den 24 juli 2026 i informationssystemet Hermes och utformas enligt närmare information från Ekonomistyrningsverket.",
+   "dates": [
+    "2026-07-24"
+   ],
+   "deadlines": [
+    "2026-07-24"
+   ],
+   "forecast_dates": [],
+   "recipients": [],
+   "partners": [
+    "Ekonomistyrningsverket"
+   ],
+   "channels": [
+    "hermes",
+    "budgetunderlag"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27531:assignments:6"
+  },
+  {
+   "title": "Ett system för uppföljning av det skogspolitiska produktionsmålet",
+   "group": [],
+   "text": "I syfte att skapa drivkraft i arbetet för ökad skoglig tillväxt och ökad tillgång på hållbart producerad inhemsk biomassa ska Skogsstyrelsen utveckla en systematisk och löpande uppföljning och utvärdering på nationell och regional nivå enligt 2 § första stycket 2 förordningen (2009:1393) med instruktion för Skogsstyrelsen av det skogspolitiska produktionsmålet. I uppdraget ingår att ta fram indikatorer och kortsiktiga mål för produktionsmålet. Arbetet ska påbörjas under 2026 inför den första redovisningen 2027. För produktionsmålet ska därför 2024 års skogspolitiska utrednings förslag till preciseringar gälla, se s. 564 i utredningens betänkande En robust skogspolitik för aktivt skogsbruk (SOU 2025:93):\n\n1. Skogsmarkens naturgivna produktionsförmåga nyttjas väl.\n2. Tillgången på biomassa omsätts i värdeskapande produkter som stärker markägarnas lönsamhet.\n3. Användningen av skogsmarken ska säkerställa framtida tillväxt och tillgång till biomassa.\n4. Skogen ska hållas vital och motståndskraftig mot naturliga störningar i ett förändrat klimat.\n5. Skogsbruksåtgärder genomförs med hög kvalitet.\n\nFör att ytterligare bidra till en ändamålsenlig uppföljning och utvärdering av det skogspolitiska produktionsmålet ska Skogsstyrelsen vid behov föreslå förändrade eller utvecklade preciseringar. Myndigheten ska vid uppdragets genomförande i så stor utsträckning som möjligt utnyttja redan tillgänglig information och statistik. Där så är lämpligt bör harmonisering ske med annan uppföljning, inklusive rapportering till internationella organ. Under uppdragets genomförande ska Skogsstyrelsen samverka med andra berörda myndigheter, skogsbrukets aktörer och andra relevanta aktörer.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "föreslå",
+    "samordna",
+    "utveckla",
+    "statistik_data",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2009:1393"
+   ],
+   "sub_questions": [
+    "Skogsmarkens naturgivna produktionsförmåga nyttjas väl.",
+    "Tillgången på biomassa omsätts i värdeskapande produkter som stärker markägarnas lönsamhet.",
+    "Användningen av skogsmarken ska säkerställa framtida tillväxt och tillgång till biomassa.",
+    "Skogen ska hållas vital och motståndskraftig mot naturliga störningar i ett förändrat klimat.",
+    "Skogsbruksåtgärder genomförs med hög kvalitet."
+   ],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27531:assignments:7"
+  },
+  {
+   "title": "Anpassade föreskrifter om lägsta ålder för föryngringsavverkning",
+   "group": [],
+   "text": "Skogsstyrelsen ska se över myndighetens föreskrifter och allmänna råd om lägsta ålder för föryngringsavverkning i syfte att förenkla och anpassa föreskrifterna till ny kunskap och ett förändrat klimat. Skogsstyrelsen ska inom ramen för uppdragets genomförande vidareutveckla myndighetens förslag i rapporten Regelförenkling vid föryngringsavverkning på före detta jordbruksmark (Skogsstyrelsens rapport 2025/12). Skogsstyrelsen ska vidare analysera om regelverket om lägsta ålder för föryngringsavverkning innebär omotiverade skillnader vid samma ståndortsindex och trädart samt identifiera möjliga regelförenklingar. Skogsstyrelsen ska även analysera behovet av att införa åldersgränser för ytterligare ståndortsindex. Inom ramen för uppdraget ska Skogsstyrelsen också analysera om främmande trädarter bör omfattas av regler om lägsta ålder för föryngringsavverkning och utreda behovet av undantag från reglerna, särskilt i fjällnära områden samt för naturvårdsändamål och i skyddade områden. Vidare ska Skogsstyrelsen utreda eventuella effekter på den nationella avverkningsnivån samt hur det kan påverka Sveriges EU-åtaganden inom klimatområdet.\n\nSkogsstyrelsen ska lämna en redovisning av uppdraget i årsredovisningen för 2027.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "årsredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27531:assignments:8"
+  },
+  {
+   "title": "Översyn av myndighetens föreskrifter om skogsodlingsmaterial",
+   "group": [],
+   "text": "Skogsstyrelsen ska se över och vid behov ändra myndighetens föreskrifter och allmänna råd om skogsodlingsmaterial avseende vegetativt förökat skogsodlingsmaterial i syfte att tillåta en användning av vegetativt förökat skogsodlingsmaterial som inte begränsas av den areal som föryngras med sådant material. I stället bör en begränsning införas om ett maximalt antal år som kopior av samma klon får användas alternativt ett maximalt antal kopior av samma klon som får produceras och säljas som skogsodlingsmaterial. Skogsstyrelsen ska också utifrån aktuell kunskap utvärdera och vid behov ändra sina föreskrifter och allmänna råd om skogsodlingsmaterials härkomst, de så kallade flyttningsreglerna. Skogsstyrelsen ska i arbetet väga in behov av anpassningar till ett förändrat klimat.\n\nSkogsstyrelsen ska lämna en redovisning av uppdraget i årsredovisningen för 2027.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "årsredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27531:assignments:9"
+  },
+  {
+   "title": "Översyn av myndighetens föreskrifter om växtskadegörare",
+   "group": [],
+   "text": "Skogsstyrelsen ska se över sina föreskrifter och allmänna råd (SKSFS 2025:2) om förebyggande av växtskadegörare för skydd av skog, i syfte att de blir klimatanpassade och att skyddet för virkesproduktion och biologisk mångfald stärks.\n\nSkogsstyrelsen ska lämna en redovisning av uppdraget i årsredovisningen för 2027.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "årsredovisning"
+   ],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27531:assignments:10"
+  },
+  {
+   "title": "Nationell standard för byggande av skogsbilvägar, samt klassificering och ajourhållning av skogsbilvägars status",
+   "group": [],
+   "text": "Skogsstyrelsen ska ta fram en tydlig, heltäckande och uppdaterad standard för byggande av skogsbilvägar. Skogsstyrelsen ska i arbetet väga in behov av anpassningar till ett förändrat klimat. Myndigheten ska även utveckla en modell för klassificering och ajourhållning av skogsbilvägars status i den nationella vägdatabasen. Vid utveckling av en sådan modell ska totalförsvarets behov av kartlagd reservinfrastruktur beaktas. Skogsstyrelsen ska när uppdraget genomförs samråda med Trafikverket, Myndigheten för civilt försvar och andra berörda myndigheter, Skogforsk samt företrädare för skogsbruket.\n\nSkogsstyrelsen ska senast den 1 oktober 2027 lämna en redovisning av uppdraget till Regeringskansliet (Landsbygds- och infrastrukturdepartementet).",
+   "dates": [
+    "2027-10-01"
+   ],
+   "deadlines": [
+    "2027-10-01"
+   ],
+   "recipients": [
+    "Regeringskansliet (Landsbygds- och infrastrukturdepartementet)"
+   ],
+   "partners": [
+    "Myndigheten för civilt försvar",
+    "Trafikverket"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27531:assignments:11"
+  },
+  {
+   "title": "Löpande uppföljning av ungskog",
+   "group": [],
+   "text": "Med utgångspunkt i befintliga system ska Skogsstyrelsen inom ramen för sitt statistikansvar utveckla en löpande uppföljning av ungskog. Syftet med uppföljningen är att öka kunskapsunderlaget om ungskog och att möjliggöra effektiva åtgärder för att skapa goda förutsättningar för ungskogsbeståndens fortsatta utveckling. Exempel på variabler som bör övervägas är täthet via stamantal eller volym per hektar, trädslagsblandning, tid för etablerande, samt utförda åtgärder och skador. Omfattningen av uppföljningen bör vara sådan att resultat kan redovisas som löpande treårsmedel på landsdel eller motsvarande.\n\nSkogsstyrelsen ska lämna en redovisning av uppdraget i årsredovisningen för 2027.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "årsredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla",
+    "statistik_data"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27531:assignments:12"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "1:1",
+   "name": "Skogsstyrelsen",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 23,
+    "name": "Areella näringar, landsbygd och livsmedel"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Skogsstyrelsen",
+     "amount_tkr": 651307,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Förvaltningskostnader (ram)",
+       "amount_tkr": 651307
+      }
+     ],
+     "sum_ok": true
+    },
+    {
+     "by": "Lantmäteriet",
+     "amount_tkr": 9900,
+     "items": [
+      {
+       "ap": "2",
+       "name": "Skogsstyrelsen - till Lantmäteriet (ram)",
+       "amount_tkr": 9900
+      }
+     ],
+     "sum_ok": true
+    },
+    {
+     "by": "Sveriges lantbruksuniversitet",
+     "amount_tkr": 990,
+     "items": [
+      {
+       "ap": "3",
+       "name": "Skogsstyrelsen - till Sveriges lantbruksuniversitet (ram)",
+       "amount_tkr": 990
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Förvaltningskostnader",
+     "text": "Anslagsposten får användas till Skogsstyrelsens förvaltningsutgifter."
+    },
+    {
+     "ap": "2",
+     "name": "Skogsstyrelsen - till Lantmäteriet",
+     "text": "Anslagsposten får användas för kostnader för åtgärder kopplade till uppdatering och utveckling av skogliga grunddata med hjälp av laserskanning."
+    },
+    {
+     "ap": "3",
+     "name": "Skogsstyrelsen - till Sveriges lantbruksuniversitet",
+     "text": "Anslagsposten får användas för kostnader för åtgärder kopplade till uppdatering och utveckling av skogliga grunddata med hjälp av laserskanning."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "1:2",
+   "name": "Insatser för skogsbruket",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 23,
+    "name": "Areella näringar, landsbygd och livsmedel"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Skogsstyrelsen",
+     "amount_tkr": 574373,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Bidrag till skogsbruket (ram)",
+       "amount_tkr": 54673
+      },
+      {
+       "ap": "2",
+       "name": "Kostnader för intrångsersättning och vissa civilrättsliga avtal på naturvårdsområdet (ram)",
+       "amount_tkr": 519700
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Bidrag till skogsbruket",
+     "text": "Anslagsposten får användas till informations-, rådgivnings- och utbildningsinsatser samt till bidrag enligt förordningen (2010:1879) om stöd till vissa åtgärder inom skogsbruket.\nSkogsstyrelsen ska i fråga om statligt stöd till näringslivet i sin verksamhet med informations-, rådgivnings- och utbildningsinsatser tillämpa kommissionens förordning (EU) 2023/2831 av den 13 december 2023 om tillämpningen av artiklarna 107 och 108 i fördraget om Europeiska unionens funktionssätt på stöd av mindre betydelse. De uppgifter som en medlemsstat har enligt artiklarna 6.3, 6.4 och 7.4 i kommissionens förordning ska utföras av Skogsstyrelsen."
+    },
+    {
+     "ap": "2",
+     "name": "Kostnader för intrångsersättning och vissa civilrättsliga avtal på naturvårdsområdet",
+     "text": "Anslagsposten får användas till att täcka statens kostnader för intrångsersättningar som följer av Skogsstyrelsens beslut enligt 18 eller 18 b §§ skogsvårdslagen (1979:429) och enligt 7 kap. 11 § och 12 kap. 6 § miljöbalken till att täcka statens kostnader för naturvårdsavtal som avses i 7 kap. 3 § andra stycket jordabalken samt till skötsel av områden som skyddats enligt ovan nämnda bestämmelser.\nAnslagsposten får vidare disponeras för att utge ersättning till jordfonden vid sådana fall när beslut enligt 7 kap. 11 § miljöbalken fattas beträffande fastighet som förvaltas av jordfonden. Ersättningen ska därvid motsvara det bokförda värdet för det område som omfattas av beslutet.\nSkogsstyrelsen får använda högst 2 000 000 kronor för att tillsammans med Sametinget och samebyarna arbeta vidare med renbruksplaner. Medlen får även användas av myndigheten i arbetet med att utveckla en god samverkan mellan rennäring och skogsbruk."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "2",
+     "max": 2000000,
+     "unit": "kronor"
+    }
+   ]
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "1:1 Skogsstyrelsen",
+   "ap": "ap.1",
+   "Anslagskredit": 19234,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:1 Skogsstyrelsen",
+   "ap": "ap.2",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:1 Skogsstyrelsen",
+   "ap": "ap.3",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:2 Insatser för skogsbruket",
+   "ap": "ap.1",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:2 Insatser för skogsbruket",
+   "ap": "ap.2",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 140000,
+  "Räntekontokredit": 100000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 52609
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 52609
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 52609
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 52609
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 52609
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 55466
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 55466
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 55466
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 55466
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 55466
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 55466
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 55466
+  },
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 825
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 825
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 825
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 825
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 825
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 825
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 825
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 825
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 825
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 825
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 825
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 825
+  },
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 83
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 83
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 83
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 83
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 83
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 83
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 83
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 83
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 83
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 83
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 83
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 77
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:1 Skogsstyrelsen",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "19 234",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.2",
+     "0",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.3",
+     "0",
+     "3 %",
+     "0"
+    ],
+    [
+     "1:2 Insatser för skogsbruket",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.2",
+     "0",
+     "Inget",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Beställningsbemyndiganden",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Bemyndigande",
+     "Utgifter mot anslag till följd av ekonomiska åtaganden",
+     "",
+     "",
+     ""
+    ],
+    [
+     "2026",
+     "2027",
+     "2028",
+     "2029 -",
+     "Slutår"
+    ],
+    [
+     "1:2 Insatser för skogsbruket",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "60 000",
+     "34 771",
+     "15 000",
+     "10 229",
+     "2029"
+    ],
+    [
+     "ap.2",
+     "30 000",
+     "23 838",
+     "3 697",
+     "2 465",
+     "2029"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "140 000"
+    ],
+    [
+     "Räntekontokredit",
+     "100 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "52 609"
+    ],
+    [
+     "2026-02-25",
+     "52 609"
+    ],
+    [
+     "2026-03-25",
+     "52 609"
+    ],
+    [
+     "2026-04-25",
+     "52 609"
+    ],
+    [
+     "2026-05-25",
+     "52 609"
+    ],
+    [
+     "2026-06-25",
+     "55 466"
+    ],
+    [
+     "2026-07-25",
+     "55 466"
+    ],
+    [
+     "2026-08-25",
+     "55 466"
+    ],
+    [
+     "2026-09-25",
+     "55 466"
+    ],
+    [
+     "2026-10-25",
+     "55 466"
+    ],
+    [
+     "2026-11-25",
+     "55 466"
+    ],
+    [
+     "2026-12-25",
+     "55 466"
+    ],
+    [
+     "Summa",
+     "651 307"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "1:1 ap.1",
+     "Förvaltningskostnader"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "825"
+    ],
+    [
+     "2026-02-25",
+     "825"
+    ],
+    [
+     "2026-03-25",
+     "825"
+    ],
+    [
+     "2026-04-25",
+     "825"
+    ],
+    [
+     "2026-05-25",
+     "825"
+    ],
+    [
+     "2026-06-25",
+     "825"
+    ],
+    [
+     "2026-07-25",
+     "825"
+    ],
+    [
+     "2026-08-25",
+     "825"
+    ],
+    [
+     "2026-09-25",
+     "825"
+    ],
+    [
+     "2026-10-25",
+     "825"
+    ],
+    [
+     "2026-11-25",
+     "825"
+    ],
+    [
+     "2026-12-25",
+     "825"
+    ],
+    [
+     "Summa",
+     "9 900"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "1:1 ap.2",
+     "Skogsstyrelsen - till Lantmäteriet"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "83"
+    ],
+    [
+     "2026-02-25",
+     "83"
+    ],
+    [
+     "2026-03-25",
+     "83"
+    ],
+    [
+     "2026-04-25",
+     "83"
+    ],
+    [
+     "2026-05-25",
+     "83"
+    ],
+    [
+     "2026-06-25",
+     "83"
+    ],
+    [
+     "2026-07-25",
+     "83"
+    ],
+    [
+     "2026-08-25",
+     "83"
+    ],
+    [
+     "2026-09-25",
+     "83"
+    ],
+    [
+     "2026-10-25",
+     "83"
+    ],
+    [
+     "2026-11-25",
+     "83"
+    ],
+    [
+     "2026-12-25",
+     "77"
+    ],
+    [
+     "Summa",
+     "990"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "1:1 ap.3",
+     "Skogsstyrelsen - till Sveriges lantbruksuniversitet"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Beräknad budget för avgiftsbelagd verksamhet där intäkterna disponeras",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Offentligrättslig verksamhet1",
+     "-32",
+     "32",
+     "400",
+     "400",
+     "0",
+     "0"
+    ],
+    [
+     "Skogliga tjänster1",
+     "18 450",
+     "-18 450",
+     "75 000",
+     "75 000",
+     "0",
+     "0"
+    ],
+    [
+     "Arbetsmarknadsrelaterade tjänster1",
+     "-221 370",
+     "0",
+     "30 000",
+     "30 000",
+     "0",
+     "-221 370"
+    ],
+    [
+     "Tjänsteexport1",
+     "106",
+     "0",
+     "0",
+     "0",
+     "0",
+     "106"
+    ],
+    [
+     "Summa",
+     "-202 846",
+     "-18 418",
+     "105 400",
+     "105 400",
+     "0",
+     "-221 264"
+    ]
+   ]
+  }
+ ],
+ "has_fee_section": true,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 6,
+  "n_org": 0,
+  "n_assignments": 13,
+  "n_deadlines": 5,
+  "deadlines": [
+   "2026-05-15",
+   "2026-07-24",
+   "2026-09-15",
+   "2027-02-15",
+   "2027-10-01"
+  ],
+  "partners": [
+   "Ekonomistyrningsverket",
+   "Myndigheten för civilt försvar",
+   "Trafikverket",
+   "länsstyrelserna"
+  ],
+  "n_appropriations": 2,
+  "appropriations_total_tkr": 1236570,
+  "payment_plan_total_tkr": 662197,
+  "md_chars": 20366
+ },
+ "layout": "standard",
+ "warnings": []
+}

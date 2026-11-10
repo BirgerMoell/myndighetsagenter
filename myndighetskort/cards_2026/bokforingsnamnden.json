@@ -1,0 +1,152 @@
+{
+ "schema_version": 1,
+ "id": 26059,
+ "original_rbid": 26059,
+ "type": "Regleringsbrev",
+ "category": "Myndighet",
+ "date": "2025-12-18",
+ "year": "2026",
+ "name": "Bokföringsnämnden",
+ "slug": "bokforingsnamnden",
+ "department": "Finansdepartementet",
+ "expenditure_areas": [
+  2
+ ],
+ "registry_numbers": [
+  "Fi2025/02364 (delvis)"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1"
+  ],
+  "bet": [
+   "2025/26:FiU"
+  ],
+  "rskr": [
+   "2025/26:133"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "Bokföringsnämndens uppgifter framgår av förordningen (2017:153) med instruktion för Bokföringsnämnden.",
+ "goals": [],
+ "org": [],
+ "assignments": [
+  {
+   "title": "Utgiftsprognoser",
+   "group": [],
+   "text": "Bokföringsnämnden ska redovisa prognoser för 2026–2028 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Av prognoskommentarerna ska det framgå vilka antaganden som har använts, vilka osäkerhetsfaktorer som finns samt eventuella förändringar som rör finansiering, kostnader och verksamhet. Vid väsentliga prognosavvikelser ska myndigheten ange orsaker till dessa samt vilka åtgärder som har vidtagits eller som planeras för att verksamheten ska bedrivas inom tillgängliga ekonomiska ramar. Prognoserna lämnas i informationssystemet Hermes senast den\n\n2 februari\\\n22 april\\\n24 juli\\\n9 november",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26059:assignments:0"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "1:12",
+   "name": "Bokföringsnämnden",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 2,
+    "name": "Samhällsekonomi och finansförvaltning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Bokföringsnämnden",
+     "amount_tkr": 15028,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Bokföringsnämnden (ram)",
+       "amount_tkr": 15028
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Bokföringsnämnden",
+     "text": "Anslaget får användas för Bokföringsnämndens förvaltningsutgifter."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "1:12 Bokföringsnämnden",
+   "ap": "ap.1",
+   "Anslagskredit": 450,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {},
+ "payment_plan": [],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:12 Bokföringsnämnden",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "450",
+     "3 %",
+     "0"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [],
+ "has_fee_section": false,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 0,
+  "n_org": 0,
+  "n_assignments": 1,
+  "n_deadlines": 0,
+  "deadlines": [],
+  "partners": [],
+  "n_appropriations": 1,
+  "appropriations_total_tkr": 15028,
+  "payment_plan_total_tkr": 0,
+  "md_chars": 2584
+ },
+ "layout": "standard",
+ "warnings": []
+}

@@ -1,0 +1,1873 @@
+{
+ "schema_version": 1,
+ "id": 27517,
+ "original_rbid": 26050,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-07-09",
+ "year": "2026",
+ "name": "Försvarsmakten",
+ "slug": "forsvarsmakten",
+ "department": "Försvarsdepartementet",
+ "expenditure_areas": [
+  6
+ ],
+ "registry_numbers": [
+  "Fö2025/00245 (delvis)",
+  "Fö2025/01861 (delvis)",
+  "Fö2026/01147"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1",
+   "2025/26:143",
+   "2025/26:275",
+   "2025/26:99"
+  ],
+  "bet": [
+   "2025/26:FiU21",
+   "2025/26:FiU46",
+   "2025/26:FiU47",
+   "2025/26:FöU1"
+  ],
+  "rskr": [
+   "2025/26:111",
+   "2025/26:180",
+   "2025/26:347",
+   "2025/26:425"
+  ]
+ },
+ "n_attachments_stated": 8,
+ "mission": "Försvarsmaktens uppgifter framgår av förordningen (2024:1333) med instruktion för Försvarsmakten.\n\nRegeringen har den 19 december 2024 fattat beslut om Gemensamma förutsättningar för utvecklingen av totalförsvaret 2025–2030 (Fö nr I:15) och Inriktning för militärt försvar 2025–2030 (Fö nr I:16).",
+ "goals": [
+  {
+   "title": "Försvarsmaktens planeringsförutsättningar",
+   "group": [],
+   "text": "Försvarsmakten ska i sin planering i budgetunderlaget för 2027 utgå från de indikativa anslagsnivåer som anges i bilaga 2 samt försvarsbeslutet 2024, regeringens inriktningsbeslut för det militära försvaret för 2025–2030 och fastställda förmågemål (Capability Targets 25) med tillhörande prioriteringar från Nato. Budgetunderlaget kan inkludera alternativa förslag på fördelning av medel över åren om det bedöms ge en mer effektiv förmågetillväxt. Konsekvenserna av en omfördelning ska i sådana fall beskrivas. Försvarsmaktens budgetunderlag för 2027 ska lämnas i både fasta och löpande priser.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "budgetunderlag"
+   ],
+   "task_types": [
+    "analysera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27517:goals:0"
+  },
+  {
+   "title": "Materielförsörjning, investeringsplaner och objektsredovisningar",
+   "group": [
+    "Försvarsmaktens planeringsförutsättningar"
+   ],
+   "text": "I tillägg till vad som framgår av 9 kap. 3 och 4 §§ förordningen (2000:606) om årsredovisning och budgetunderlag ska Försvarsmakten i budgetunderlaget redovisa investeringsplaner för samhällsinvesteringar för åren 2027–2038.\n\nFörsvarsmakten ska i budgetunderlaget samlat framställa om regeringens medgivande för materielinvesteringar samt förberedelse för materielinvesteringar som finansieras över anslaget 1:3*Anskaffning av materiel och anläggningar*. Regeringens medgivande ska inhämtas i de fall en investering medför ekonomiska åtaganden som överstiger 700 miljoner kronor, medför förändringar av större betydelse för krigsorganisationen utveckling, påverkar Sveriges relationer till andra länder eller är av särskild betydelse. Dessa investeringar ska redovisas i en objektsredovisning.\n\nFörsvarsmakten ska efter förslag på uppkomna läglighetsköp från Försvarets materielverk prioritera och framställa om regeringens medgivande för materielinvesteringar gällande läglighetsköp.\n\nFörsvarsmakten ska i budgetunderlaget redovisa materielinvesteringar som medför ekonomiska åtaganden över 200 miljoner kronor.\n\nFörsvarsmaktens ska i årsredovisningen redovisa vilka åtgärder som vidtagits inom ramen för materielutvecklingsprogrammet.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Försvarets materielverk"
+   ],
+   "channels": [
+    "årsredovisning",
+    "budgetunderlag"
+   ],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [
+    "1:3"
+   ],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2000:606"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27517:goals:1"
+  },
+  {
+   "title": "Personalförsörjning",
+   "group": [
+    "Försvarsmaktens planeringsförutsättningar"
+   ],
+   "text": "Försvarsmakten ska till årsredovisningen lämna en personalberättelse.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "årsredovisning"
+   ],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27517:goals:2"
+  },
+  {
+   "title": "Infrastruktur",
+   "group": [
+    "Försvarsmaktens planeringsförutsättningar"
+   ],
+   "text": "Försvarsmakten ska i årsredovisningen för 2026 redovisa resultat i förhållande till framdriften enligt den infrastrukturplan för åren 2026–2036 som redovisats i budgetunderlaget för 2027. Redovisningen ska bl.a. inkludera identifierade större avvikelser från planen samt en värdering av de största infrastrukturriskerna och en beskrivning av hur dessa hanteras. Redovisningen ska tas fram i samverkan med Fortifikationsverket och Försvarets materielverk.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Fortifikationsverket",
+    "Försvarets materielverk"
+   ],
+   "channels": [
+    "årsredovisning",
+    "budgetunderlag"
+   ],
+   "task_types": [
+    "rapportera",
+    "samordna"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27517:goals:3"
+  },
+  {
+   "title": "Myndighetens aktiviteter inom Natos avskräckning och försvar",
+   "group": [],
+   "text": "Försvarsmakten ska ställa väpnade styrkor till förfogande för att bidra till Natos avskräckning och försvar av det nordatlantiska området. Bidraget ska bestå av:\n\n- Cirka 600 anställda personer för deltagande i aktiviteter och operationer inom ramarna för Natos framskjutna närvaro i Finland (FLF Finland). Försvarsmakten får tillfälligt genomföra en förstärkning till totalt högst 800 anställda personer. Försvarsmakten ska tillsammans med Nato, Finland och andra stater som är medlemmar i Nato fortsätta att utveckla FLF Finland utifrån Sveriges ansvar som ramverksnation.\n- Markförband om 600 anställda personer för deltagande i pågående och nya operationer eller andra aktiviteter inom ramen för Natos multinationella brigad i Lettland (FLF Lettland). Försvarsmakten får tillfälligt genomföra en förstärkning till totalt högst 800 anställda personer i samband med övningsverksamhet eller vid rotation av anställda personer inom ramen för FLF Lettland.\n- Marina förband för minröjning och sjöövervakning om högst 300 anställda personer för deltagande i pågående operationer eller andra aktiviteter inom ramen för Natos stående marina styrkor inom det nordatlantiska området. Försvarsmakten får inom den angivna personalramen även delta i nya operationer eller andra aktiviteter inom ramen för Natos stående marina styrkor inom Östersjöområdet om förbandet redan är ställt under Natobefäl och det rör sig om begränsade och hastigt uppkomna operationer.\n- Flygförband till Natos luftrumsövervakning och incidentberedskap inom det nordatlantiska området och till övriga pågående luftförsvarsoperationer om högst 300 anställda personer.\n\nFörsvarsmakten får förhandla och ingå internationella överenskommelser samt komma överens om eventuella ändringar av eller att säga upp befintliga internationella överenskommelser avseende FLF Finland, FLF Lettland, Natos stående marina styrkor samt Natos luftrumsövervakning och incidentberedskap och till övriga pågående luftförsvarsoperationer.\n\nOm en svensk väpnad styrka deltar i en övning får Försvarsmakten, för att upprätthålla Natos samlade avskräckning och försvar, ställa det övade förbandet till Natos förfogande. Försvarsmakten ska skyndsamt rapportera till Regeringskansliet (Försvarsdepartementet) när övade förband övergår till att genomföra uppgifter ställda av Nato.\n\nFörsvarsmakten ska planera och vidta förberedelser för att, efter beslut av regeringen, kunna delta i andra operationer och aktiviteter inom luft-, mark- och sjödomänen som syftar till att upprätthålla Natos samlade avskräckning och försvar. I planeringen ska Försvarsmakten beakta den nationella förmågeuppbyggnaden och så långt som möjligt säkerställa att ett deltagande stödjer denna. Försvarsmakten ska också beakta att ett deltagande med en väpnad styrka i dessa operationer och aktiviteter, inklusive när en övning övergår till att genomföra skarpa uppgifter, får uppgå till 500 anställda personer avseende markförband och specialförband, upp till 300 anställda personer avseende marina förband samt upp till 200 anställda personer avseende flyg- och luftförsvarsförband.\n\nSamtliga ovan redovisade bidrag, som genomförs under ledning av Nato, ska i enlighet med Natos operationsplanering och mandat kunna övergå från avskräckning i fredstid till försvar av en allierads territorium.\n\nÅterrapportering:\nFörsvarsmakten ska löpande återrapportera till Regeringskansliet (Försvarsdepartementet) om planerad och genomförd verksamhet inom ramen för Natos avskräckning och försvar.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [
+    "Regeringskansliet (Försvarsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla",
+    "beredskap_säkerhet",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "Cirka 600 anställda personer för deltagande i aktiviteter och operationer inom ramarna för Natos framskjutna närvaro i Finland (FLF Finland). Försvarsmakten får tillfälligt genomföra en förstärkning till totalt högst 800 anställda personer. Försvarsmakten ska tillsammans med Nato, Finland och andra stater som är medlemmar i Nato fortsätta att utveckla FLF Finland utifrån Sveriges ansvar som ramverksnation.",
+    "Markförband om 600 anställda personer för deltagande i pågående och nya operationer eller andra aktiviteter inom ramen för Natos multinationella brigad i Lettland (FLF Lettland). Försvarsmakten får tillfälligt genomföra en förstärkning till totalt högst 800 anställda personer i samband med övningsverksamhet eller vid rotation av anställda personer inom ramen för FLF Lettland.",
+    "Marina förband för minröjning och sjöövervakning om högst 300 anställda personer för deltagande i pågående operationer eller andra aktiviteter inom ramen för Natos stående marina styrkor inom det nordatlantiska området. Försvarsmakten får inom den angivna personalramen även delta i nya operationer eller andra aktiviteter inom ramen för Natos stående marina styrkor inom Östersjöområdet om förbandet redan är ställt under Natobefäl och det rör sig om begränsade och hastigt uppkomna operationer.",
+    "Flygförband till Natos luftrumsövervakning och incidentberedskap inom det nordatlantiska området och till övriga pågående luftförsvarsoperationer om högst 300 anställda personer."
+   ],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27517:goals:4"
+  },
+  {
+   "title": "Internationella militära operationer och internationell utbildningsverksamhet",
+   "group": [],
+   "text": "Försvarsmakten ska till och med den 31 december 2026 delta i följande internationella operationer och internationell utbildningsverksamhet:\n\n- NATO Mission in Kosovo (KFOR) med högst fyra personer,\n- NATO Mission in Iraq (NMI) i Irak med högst fem personer,\n- Operation Inherent Resolve (OIR) i Irak med högst fem personer,\n- EU Training Mission in Somalia (EUTM Somalia) med högst femton personer,\n- European Union Naval Force (EUNAVFOR, ”Operation Atalanta”) med högst tre personer,\n- European Union Naval Force Mediterranean (EUNAVFOR MED, “Operation Irini”) med högst två personer,\n- European Union Naval Force (EUNAVFOR Aspides) med högst tio personer, och\n- Operation EUFOR Althea med högst en person.\n\nFörsvarsmakten får förhandla och ingå internationella överenskommelser samt komma överens om eventuella ändringar av eller att säga upp befintliga internationella överenskommelser med anledning av de svenska bidragen till KFOR, NMI, OIR, EUTM Somalia, Operation Atalanta, Operation Irini, Operation Aspides och EUFOR Althea.",
+   "dates": [
+    "2026-12-31"
+   ],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "NATO Mission in Kosovo (KFOR) med högst fyra personer,",
+    "NATO Mission in Iraq (NMI) i Irak med högst fem personer,",
+    "Operation Inherent Resolve (OIR) i Irak med högst fem personer,",
+    "EU Training Mission in Somalia (EUTM Somalia) med högst femton personer,",
+    "European Union Naval Force (EUNAVFOR, ”Operation Atalanta”) med högst tre personer,",
+    "European Union Naval Force Mediterranean (EUNAVFOR MED, “Operation Irini”) med högst två personer,",
+    "European Union Naval Force (EUNAVFOR Aspides) med högst tio personer, och",
+    "Operation EUFOR Althea med högst en person."
+   ],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27517:goals:5"
+  },
+  {
+   "title": "Internationellt samarbete",
+   "group": [],
+   "text": "I Försvarsmaktens samarbeten med internationella partners och organisationer ska samarbeten som stödjer myndigheten att uppnå de av Nato tilldelade förmågemålen vara vägledande. Användningen av EU:s program, finansiella instrument och övriga verktyg kan stödja den långsiktiga förmågeutvecklingen och försörjningen av det militära försvaret. Försvarsmakten ska vidare beakta samarbeten listade i bilaga 9 och ska där det är relevant samverka med andra myndigheter som berörs av det internationella samarbetet. Samarbeten som bidrar till andra allierades närvaro och deras förmåga att operera i Sverige och vårt närområde, och som därmed bidrar till ökad säkerhet och avskräckning i vårt närområde, är centrala och bör prioriteras.\n\nFörsvarsmakten ska ansvara för anmälningen av utbildningsmoduler till EUMAM samt redovisningen av Sveriges militära stöd till Ukraina till EU för att Sverige ska få ersättning från Europeiska fredsfaciliteten (EPF).",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "informera",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27517:goals:6"
+  }
+ ],
+ "org": [],
+ "assignments": [
+  {
+   "title": "Förhandslagring",
+   "group": [],
+   "text": "Försvarsmakten ska redovisa egen och allierades behov av förhandslagring av materiel och förnödenheter i Sverige. Myndigheten ska vidare redovisa nuvarande tillgängliga resurser för att omhänderta behovet av förhandslagring samt eventuella behov av ytterligare resurser. Motsvarande redovisning ska göras för behovet av egen förhandslagring hos allierade. Redovisningen ska bl.a. omfatta beräknad kostnad, samverkansläget med nationella aktörer och allierade, eventuella behov av prioriteringar samt ta hänsyn till egen nationell beredskapslagring. Redovisningar ska lämnas till Regeringskansliet (Försvarsdepartementet) senast den 16 mars och den 30 oktober 2026.",
+   "dates": [
+    "2026-10-30"
+   ],
+   "deadlines": [],
+   "recipients": [
+    "Regeringskansliet (Försvarsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27517:assignments:0"
+  },
+  {
+   "title": "Reserver",
+   "group": [],
+   "text": "Försvarsmakten ska redovisa hur myndigheten arbetar med att organisera personalersättningsförband samt med att dimensionera utbildningsreserv och mobiliseringsreserv kopplat till krigsorganisationens behov. Redovisningen ska bl.a. synliggöra sammanhanget av personalersättningsförband kopplade till specifika krigsförband och ett ändamålsenligt förbandsomsättningssystem som omhändertar samtliga krigsförband, både stående och mobiliserade. Redovisningar ska lämnas till Regeringskansliet (Försvarsdepartementet) den 15 maj och den 15 november 2026.",
+   "dates": [
+    "2026-11-15"
+   ],
+   "deadlines": [],
+   "recipients": [
+    "Regeringskansliet (Försvarsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27517:assignments:1"
+  },
+  {
+   "title": "Militär sjukvård",
+   "group": [],
+   "text": "Försvarsmakten ska redovisa myndighetens sjukvårdskoncept. Redovisningen ska innefatta uppgifter, lednings- och lydnadsförhållanden, samt organisation i krigs- och grundorganisationen. Av redovisningen ska sjukvårdskedjan och organisatoriskt fastställda sjukvårdsförband framgå. Vidare ska myndigheten redovisa en produktionsplan för sjukvårdsfunktionen som möter de krav för krigsorganisationen som beslutats i försvarsbeslutet 2024. Av denna produktionsplan ska det även framgå hur Natos förmågemål uppnås. Redovisningen ska lämnas till Regeringskansliet (Försvarsdepartementet) senast 30 oktober 2026.",
+   "dates": [
+    "2026-10-30"
+   ],
+   "deadlines": [
+    "2026-10-30"
+   ],
+   "recipients": [
+    "Regeringskansliet (Försvarsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27517:assignments:2"
+  },
+  {
+   "title": "Ammunition",
+   "group": [],
+   "text": "Försvarsmakten ska redovisa fastställda minsta bestånd för kaliberbunden och kvalificerad ammunition. Myndigheten ska vidare redovisa nuvarande och planerade lagernivåer samt vilka åtgärder som krävs för att uppnå Natos förmågemål. Redovisningen ska lämnas till Regeringskansliet (Försvarsdepartementet) senast den 15 maj 2026.",
+   "dates": [
+    "2026-05-15"
+   ],
+   "deadlines": [
+    "2026-05-15"
+   ],
+   "recipients": [
+    "Regeringskansliet (Försvarsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27517:assignments:3"
+  },
+  {
+   "title": "Operativ samverkan med Kustbevakningen",
+   "group": [],
+   "text": "Försvarsmakten ska vidta åtgärder utifrån myndighetens gemensamma handlingsplan med Kustbevakningen för att stärka sin operativa samverkan för en samlad förmåga till sjöövervakning i såväl fred som kris, höjd beredskap och ytterst krig. Redovisningen ska även innehålla status för arbetet med att dela sjölägesbild och underrättelseinformation mellan myndigheterna. Försvarsmakten ska löpande hålla Regeringskansliet (Försvarsdepartementet) informerat om uppdragets genomförande. Uppdraget ska redovisas senast den 30 oktober 2026.",
+   "dates": [
+    "2026-10-30"
+   ],
+   "deadlines": [
+    "2026-10-30"
+   ],
+   "recipients": [],
+   "partners": [
+    "Kustbevakningen"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "utveckla",
+    "informera",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27517:assignments:4"
+  },
+  {
+   "title": "Återrapportering av arbetet utifrån förordningen (1982:314) om utnyttjande av Kustbevakningen inom Försvarsmakten",
+   "group": [],
+   "text": "Försvarsmakten ska hålla Regeringskansliet (Försvarsdepartementet) informerat om det pågående arbetet utifrån förordningen (1982:314) om utnyttjande av Kustbevakningen inom Försvarsmakten. Försvarsmakten ska slutredovisa arbetet den 4 september 2026 med en delredovisning den 24 april.",
+   "dates": [
+    "2026-09-04"
+   ],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Kustbevakningen"
+   ],
+   "channels": [
+    "delredovisning",
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "informera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "1982:314"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27517:assignments:5"
+  },
+  {
+   "title": "Förutsättningar för obemannade marina system",
+   "group": [],
+   "text": "Försvarsmakten ska redovisa vilka åtgärder som vidtagits eller som planeras för att skapa förutsättningar för fjärroperation av obemannade marina system. Eventuella kvarstående behov ska beskrivas. Av redovisningen ska framgå hanteringen av egna nationella system, samarbete med andra länder och förutsättningar för hur dessa marina system kan operera i de olika havszonerna. En skriftlig redovisning ska lämnas till Regeringskansliet (Försvarsdepartementet) senast den 30 maj 2026.",
+   "dates": [
+    "2026-05-30"
+   ],
+   "deadlines": [
+    "2026-05-30"
+   ],
+   "recipients": [
+    "Regeringskansliet (Försvarsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27517:assignments:6"
+  },
+  {
+   "title": "Hemvärnet",
+   "group": [],
+   "text": "Försvarsmakten ska redovisa hur myndigheten arbetat för att förenkla processer och minska handläggningstider för de frivilliga som söker sig till hemvärnet (hemvärnssoldater och specialister från de frivilliga försvarsorganisationerna). Försvarsmakten ska vidare redovisa myndighetens arbete med att överse nuvarande system för villkor och ersättningar. I detta sammanhang ska även användandet av instruktörer från hemvärnet som stöd till Ukraina belysas.Redovisningen ska lämnas till Regeringskansliet (Försvarsdepartementet) senast den 15 maj 2026.",
+   "dates": [
+    "2026-05-15"
+   ],
+   "deadlines": [
+    "2026-05-15"
+   ],
+   "recipients": [
+    "Regeringskansliet (Försvarsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27517:assignments:7"
+  },
+  {
+   "title": "Åtgärder för att främja innovation",
+   "group": [],
+   "text": "Försvarsmakten ska redovisa myndighetens arbete för att stärka förmågan till försvarsinnovation samt främja teknisk och taktisk innovation och anpassning. Redovisningen ska inkludera arbete såväl på central nivå, taktiska skolor och ned på förbandsnivå. Redovisningen ska lämnas till Regeringskansliet (Försvarsdepartementet) senast den 15 maj 2026.",
+   "dates": [
+    "2026-05-15"
+   ],
+   "deadlines": [
+    "2026-05-15"
+   ],
+   "recipients": [
+    "Regeringskansliet (Försvarsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27517:assignments:8"
+  },
+  {
+   "title": "Artificiell intelligens",
+   "group": [],
+   "text": "Försvarsmakten ska i samband med årsredovisningen redovisa hur AI används och avses implementeras i myndighetens verksamhet för att stärka den operativa förmågan. Myndigheten ska inom ramen för detta arbete samverka med relevanta aktörer, såväl nationella som internationella, för att utveckla förmågan.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "årsredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "utveckla",
+    "digitalisering_ai",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27517:assignments:9"
+  },
+  {
+   "title": "Molnbaserad digital transformation",
+   "group": [],
+   "text": "Försvarsmakten uppdras att senast den 20 februari 2026 redovisa hur en övergång till en molnbaserad digital infrastruktur kan genomföras, beräknade kostnader för genomförandet samt vilka besparingar myndigheten kan göra vid utfasning av befintlig lösning.",
+   "dates": [
+    "2026-02-20"
+   ],
+   "deadlines": [
+    "2026-02-20"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27517:assignments:10"
+  },
+  {
+   "title": "DCA-avtalet",
+   "group": [],
+   "text": "Försvarsmakten ska inkomma med en bedömning av särskilt prioriterade områden för fortsatt implementering av Defense Cooperation Agreement (DCA-avtalet) under 2027, utgående från operativa behov. Bedömningen ska redovisas till Regeringskansliet (Försvarsdepartementet) senast den 30 oktober 2026.",
+   "dates": [
+    "2026-10-30"
+   ],
+   "deadlines": [
+    "2026-10-30"
+   ],
+   "recipients": [
+    "Regeringskansliet (Försvarsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27517:assignments:11"
+  },
+  {
+   "title": "Effektiva arbetssätt och processer",
+   "group": [],
+   "text": "Försvarsmakten ska tillsammans med Försvarets materielverk och Fortifikationsverket redovisa arbetsläge, vidtagna åtgärder samt resultat avseende myndigheternas arbete med att effektivisera arbetssätt och processer för att korta ledtider i syfte att snabbt stärka den svenska försvarsförmågan. Myndigheterna ska bl.a. redovisa vilka effekter detta haft på ledtiderna. De erfarenheter som dragits från myndigheternas arbete med upphandling för donation till Ukraina ska särskilt redovisas. Redovisningen ska göras muntligt till Regeringskansliet (Försvarsdepartementet) senast den 29 april och 30 september 2026.",
+   "dates": [
+    "2026-09-30"
+   ],
+   "deadlines": [],
+   "recipients": [
+    "Regeringskansliet (Försvarsdepartementet)"
+   ],
+   "partners": [
+    "Fortifikationsverket",
+    "Försvarets materielverk"
+   ],
+   "channels": [
+    "muntlig"
+   ],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27517:assignments:12"
+  },
+  {
+   "title": "Ersättningsanskaffning",
+   "group": [],
+   "text": "Försvarsmakten ska redovisa en uppföljning av ersättningsanskaffningarna som följer av stödpaketen till Ukraina. Redovisningen ska innehålla en lista med alla åtgärder i respektive stödpaket. För varje åtgärd ska framgå tilldelad ekonomi per år samt tid för genomförande, lagda beställningar och genomförda respektive planerade leveranser av ersättningsanskaffningar. Vidare ska det per åtgärd framgå bedömda totalkostnader och eventuella avvägningar som gjorts. Redovisningen ska lämnas till Regeringskansliet (Försvarsdepartementet) i budgetunderlaget för 2027.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [
+    "Regeringskansliet (Försvarsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [
+    "budgetunderlag"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27517:assignments:13"
+  },
+  {
+   "title": "Natos förmågeplaneringsprocess NDPP",
+   "group": [],
+   "text": "Försvarsmakten ska löpande under 2026 bistå Regeringskansliet (Försvarsdepartementet) med underlag till Natos förmågeplaneringsprocess (NDPP). Myndigheten ska vidare bistå med det stöd som behövs för att arrangera och genomföra bilaterala möten inom ramen för denna process. Analys och förslag på svenska handlingslinjer avseende de viktigaste frågorna inom ramen för NDPP 2026 ska redovisas till Regeringskansliet (Försvarsdepartementet) senast den 2 april 2026. Därtill ska Försvarsmakten löpande hålla Regeringskansliet (Försvarsdepartementet) uppdaterat i frågor som rör arbetet inom NDPP.",
+   "dates": [
+    "2026-04-02"
+   ],
+   "deadlines": [
+    "2026-04-02"
+   ],
+   "recipients": [
+    "Regeringskansliet (Försvarsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27517:assignments:14"
+  },
+  {
+   "title": "Nato Security Investment Program NSIP",
+   "group": [],
+   "text": "Försvarsmakten ska ansöka om finansiering från Nato Security Investment Program (NSIP) för investeringar som bedöms vara berättigade till sådan. Försvarsmakten ska löpande informera Regeringskansliet (Försvarsdepartementet) om planerade och inlämnade projektansökningar (PDS) till Nato samt hur uppbyggnaden av sektionen för gemensamfinansiering fortskrider.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "analysera",
+    "informera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27517:assignments:15"
+  },
+  {
+   "title": "Internationellt deltagande vid övningar",
+   "group": [],
+   "text": "Försvarsmakten ska redovisa genomförda övningar med internationellt förbandsdeltagande. Av redovisningen ska även planerade övningar med internationellt förbandsdeltagande framgå för kommande tolvmånadersperiod. Av redovisningen ska framgå deltagande länder samt en kort beskrivning av det svenska och de utländska bidragen i respektive övning. Redovisning ska lämnas kvartalsvis till Regeringskansliet (Försvarsdepartementet) under 2026.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [
+    "Regeringskansliet (Försvarsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27517:assignments:16"
+  },
+  {
+   "title": "Frivilliga försvarsorganisationer",
+   "group": [],
+   "text": "Försvarsmakten ska tillsammans med Myndigheten för civilt försvar se över och förenkla de krav på återredovisning som myndigheterna ställer på de frivilliga försvarsorganisationerna. Myndigheterna ska redovisa genomförda åtgärder i samband med årsredovisningen.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Myndigheten för civilt försvar"
+   ],
+   "channels": [
+    "årsredovisning"
+   ],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27517:assignments:17"
+  },
+  {
+   "title": "Ökad jämställdhet vid grundutbildning med värnplikt",
+   "group": [],
+   "text": "Försvarsmakten ska redovisa vidtagna och planerade åtgärder för att öka andelen kvinnor som genomför grundutbildning med värnplikt. Arbetet med kravprofiler och medicinska bedömningsgrunder ska belysas särskilt. Uppdraget ska genomföras i samverkan med Plikt- och prövningsverket. Försvarsmakten ska lämna en delredovisning till Regeringskansliet (Försvarsdepartementet) senast den 1 juni 2026 och en slutredovisning den 14 oktober 2026.",
+   "dates": [
+    "2026-06-01",
+    "2026-10-14"
+   ],
+   "deadlines": [
+    "2026-06-01"
+   ],
+   "recipients": [
+    "Regeringskansliet (Försvarsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [
+    "delredovisning",
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27517:assignments:18"
+  },
+  {
+   "title": "Rapportering enligt den nationella handlingsplanen för kvinnor, fred och säkerhet",
+   "group": [],
+   "text": "Försvarsmakten ska bidra till genomförandet av FN:s säkerhetsrådsresolutioner om kvinnor, fred och säkerhet i enlighet med regeringens beslut om Sveriges nationella handlingsplan på området (UD2023-04798). Försvarsmakten ska i samband med årsredovisningen till Regeringskansliet (Försvarsdepartementet) redovisa resultatet av det arbete myndigheten bedrivit med utgångspunkt i de fyra övergripande målen i handlingsplanen och fokusera på resultat.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [
+    "Regeringskansliet (Försvarsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [
+    "årsredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27517:assignments:19"
+  },
+  {
+   "title": "Statens behov av it- och teletjänster med höga säkerhetskrav",
+   "group": [],
+   "text": "Försvarsmakten ska till Regeringskansliet (Försvarsdepartementet) redovisa hur arbetet fortskrider avseende driftsättningen av det system som utvecklats för att tillgodose statens behov av it- och teletjänster med höga säkerhetskrav. Redovisningen ska innehålla uppgifter om status och planerad verksamhet för berörda aktörer. Redovisningen ska inkomma senast den 22 februari 2027.",
+   "dates": [
+    "2027-02-22"
+   ],
+   "deadlines": [
+    "2027-02-22"
+   ],
+   "recipients": [
+    "Regeringskansliet (Försvarsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27517:assignments:20"
+  },
+  {
+   "title": "Områden förorenade av PFAS",
+   "group": [],
+   "text": "Försvarsmakten ska redovisa vilka åtgärder myndigheten har vidtagit för att minska spridningen av högflourerade ämnen, PFAS. Av redovisningen bör det särskilt framgå hur myndigheten har arbetat för att identifiera platser där spridningsbegränsande åtgärder med avseende på PFAS är prioriterat och kan implementeras, samt vilka spridningsbegränsande åtgärder som har genomförts under året.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27517:assignments:21"
+  },
+  {
+   "title": "Förtroende- och säkerhetsskapande verksamhet",
+   "group": [],
+   "text": "Försvarsmakten ska genomföra verksamhet enligt bilaga 3.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27517:assignments:22"
+  },
+  {
+   "title": "Riktlinjer för den militära säkerhetstjänsten",
+   "group": [],
+   "text": "Försvarsmakten ska genomföra verksamhet enligt bilaga 4.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27517:assignments:23"
+  },
+  {
+   "title": "Delfaktorer försvarsprisindex",
+   "group": [],
+   "text": "Försvarsmakten ska senast den 13 februari 2026 till Regeringskansliet (Försvarsdepartementet) redovisa anslagen 1:1*Förbandsverksamhet och beredskap*för anslagspost 1 och 3 och 1:3*Anskaffning av materiel och anläggningar*för anslagspost 2 fördelade för 2024 på delfaktorer i försvarsprisindex enligt bilaga 5.",
+   "dates": [
+    "2026-02-13"
+   ],
+   "deadlines": [
+    "2026-02-13"
+   ],
+   "recipients": [
+    "Regeringskansliet (Försvarsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "fördela_medel",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [
+    "1:1"
+   ],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27517:assignments:24"
+  },
+  {
+   "title": "Pågående uppdrag",
+   "group": [],
+   "text": "Pågående uppdrag till Förvarsmakten framgår i bilaga 6.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "27517:assignments:25"
+  },
+  {
+   "title": "Prognoser",
+   "group": [],
+   "text": "Försvarsmakten ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommentera utvecklingen både i förhållande till föregående prognostillfälle och i förhållande till budgeten.\n\nPrognoserna lämnas i informationssystemet Hermes senast den:\n\n2 februari\n\n22 april\n\n24 juli\n\n9 november\n\nMyndigheten ska vid prognostillfällena bifoga ett prognosunderlag i informationssystemet Hermes alternativt inkomma till Regeringskansliet (Försvarsdepartementet) med ett prognosunderlag.\n\nUnderlaget ska innehålla en redovisning av:\n\n- Prognos per anslag, anslagspost och delposter,\n- verksamhetsmässiga orsaker till förändringarna i prognosen, t.ex. justeringar i innehåll eller tidigare- respektive senareläggningar av åtgärder,\n- i vilken utsträckning förändringar i prognosen beror på fördyringar och prisförändringar,\n- bakomliggande antaganden som utgör väsentliga förutsättningar för det prognostiserade utfallet,\n- den ekonomiska bedömningen av osäkerhetsfaktorer och risker i prognosen och hur dessa hanteras,\n- en konsekvensbeskrivning av förändringarna i prognosen inom beslutad ekonomi, investeringsplaner och verksamhet för innevarande år.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [
+    "Regeringskansliet (Försvarsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos",
+    "analysera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "Prognos per anslag, anslagspost och delposter,",
+    "verksamhetsmässiga orsaker till förändringarna i prognosen, t.ex. justeringar i innehåll eller tidigare- respektive senareläggningar av åtgärder,",
+    "i vilken utsträckning förändringar i prognosen beror på fördyringar och prisförändringar,",
+    "bakomliggande antaganden som utgör väsentliga förutsättningar för det prognostiserade utfallet,",
+    "den ekonomiska bedömningen av osäkerhetsfaktorer och risker i prognosen och hur dessa hanteras,",
+    "en konsekvensbeskrivning av förändringarna i prognosen inom beslutad ekonomi, investeringsplaner och verksamhet för innevarande år."
+   ],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27517:assignments:26"
+  },
+  {
+   "title": "Prognos för beställningsbemyndiganden",
+   "group": [
+    "Prognoser"
+   ],
+   "text": "Myndigheten ska redovisa en prognos för de förslag om beställningsbemyndiganden som lämnats i budgetunderlaget och för de åtaganden som ingåtts med stöd av äldre beställningsbemyndiganden. Prognosen ska lämnas senast den 24 juli 2026 via Statsredovisningssystemet i Hermes och utformas enligt närmare information från Ekonomistyrningsverket.",
+   "dates": [
+    "2026-07-24"
+   ],
+   "deadlines": [
+    "2026-07-24"
+   ],
+   "forecast_dates": [],
+   "recipients": [],
+   "partners": [
+    "Ekonomistyrningsverket"
+   ],
+   "channels": [
+    "hermes",
+    "budgetunderlag"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27517:assignments:27"
+  },
+  {
+   "title": "Veterangårdsverksamhet",
+   "group": [],
+   "text": "Försvarsmakten ska utge statsbidrag för veterangårdsverksamhet till frivilliga veteran- och anhörigorganisationer som ansökt och som uppfyller bestämmelserna i förordning (2013:880) om statsbidrag till organisationer som stöder veteransoldater och deras anhöriga. Försvarsmakten ska inkomma med en utvärdering av veterangårdsverksamheten senast den 1 mars 2027 till Regeringskansliet (Försvarsdepartementet).",
+   "dates": [
+    "2027-03-01"
+   ],
+   "deadlines": [
+    "2027-03-01"
+   ],
+   "recipients": [
+    "Regeringskansliet (Försvarsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "analysera",
+    "fördela_medel"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2013:880"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27517:assignments:28"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "1:1",
+   "name": "Förbandsverksamhet och beredskap",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 6,
+    "name": "Försvar och samhällets krisberedskap"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Försvarsmakten",
+     "amount_tkr": 78169036,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Förbandsverksamhet och beredskap (ram)",
+       "amount_tkr": 47046946
+      },
+      {
+       "ap": "2",
+       "name": "Statlig ålderspensionsavgift (ram)",
+       "amount_tkr": 261516
+      },
+      {
+       "ap": "3",
+       "name": "Vidmakthållande av materiel och anläggningar (ram)",
+       "amount_tkr": 28477129
+      },
+      {
+       "ap": "4",
+       "name": "Militära underrättelse- och säkerhetstjänsten (ram)",
+       "amount_tkr": 2383445
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Förbandsverksamhet och beredskap",
+     "text": "01. Anslagsposten får användas för att finansiera utbildnings- och övningsverksamhet för utveckling av försvarsmaktsorganisationen, planering och insatser. Anslagsposten får användas för stöd till frivilliga försvarsorganisationer och för stöd till veteransoldat- och anhörigorganisationer. Även fasta kostnader för multinationella samarbeten får finansieras från anslagsposten. Anslagsposten får vidare användas för det säkerhetsfrämjande samarbetet med andra länder samt för exportstödjande verksamhet och internationella materielsamarbeten.\n02. Anslagsposten får användas för kostnader för personal samt för drift av fartyg och flygplan som av Försvarsmakten ställs till Försvarets radioanstalts disposition.\n03. Anslagsposten får användas till verksamhet enligt statsflygsförordningen (1999:1354).\n04. Högst 240 000 000 kronor får användas för uppdragsersättning till de frivilliga försvarsorganisationerna för deras utbildningsverksamhet, inklusive ungdomsverksamhet.\n05. Högst 100 000 000 kronor får användas till organisationsstöd enligt 5 § förordningen (1994:524) om frivillig försvarsverksamhet. Av dessa medel får högst 1 700 000 kronor användas för bidrag till Försvarets civila idrottsförbund och till vissa militära tidskrifter.\n06. Högst 35 000 000 kronor får användas till statsbidrag till frivilliga veteransoldat- och anhörigorganisationer för verksamhet som stödjer Försvarsmaktens personal före, under och efter tjänstgöring i internationella militära insatser samt anhöriga till sådan personal.\n07. Högst 3 500 000 kronor får användas för stöd till organisationer som informerar och ökar kunskapen om totalförsvaret och Sveriges anslutning till Nato.\n08. Försvarsinspektören för hälsa och miljö ska tilldelas högst 40 000 000 kronor. Erforderlig personal ska ställas till försvarsinspektören för hälsa och miljös förfogande så att tillsynsuppgifter kan lösas enligt lag och andra föreskrifter. Resterande medel får användas för lönekostnader för försvarsinspektören för hälsa och miljö.\n09. Flygsäkerhetsinspektören ska tilldelas högst 35 000 000 kronor. Erforderlig personal ska ställas till Flygsäkerhetsinspektörens förfogande så att tillsynsuppgifter kan lösas enligt lag och andra föreskrifter.\n10. Försvarsmakten får använda högst 102 890 000 kronor som abonnemangsavgift för det gemensamma radiokommunikationssystemet Rakel. Beloppet ska betalas efter fakturering från Myndigheten för civilt försvar.\n11. Högst 5 000 000 kronor får användas för förtroende- och säkerhetsskapande verksamhet i enlighet med bilaga 3.\n12. Anslagsposten får användas för kostnader för verksamhet inom ramen för det multinationella samarbetet Strategic Airlift Capability (SAC).\n13. Anslagsposten får användas för att genomföra en försörjningslösning för krigsmaterielsystem som Sverige överlåtit som gåva till Ukraina.\n14. Anslagsposten får användas för säkerhetsfrämjande samarbete genom att genomföra utbildningsinsatser samt för kostnader för utbildningsmateriel till förmån för Ukraina.\n15. Högst 45 000 000 kronor får användas till organisations- och verksamhetsstöd till organisationer som stödjer värnpliktigas fritid och rekreation.\n16. Högst 7 076 000 kronor får användas för Pliktrådets verksamhetsmedel inklusive kostnader för personal.\n17. Högst 9 000 000 kronor får användas till statsbidrag till frivilliga veteransoldat- och anhörigorganisationer för veterangårdsverksamhet som stödjer Försvarsmaktens personal före, under och efter tjänstgöring i internationella militära insatser samt anhöriga till sådan personal. Bidrag får lämnas för kost, logi, resekostnader, lönekostnader för upp till fyra årsarbetskrafter, lokalkostnader, inköp och underhåll."
+    },
+    {
+     "ap": "2",
+     "name": "Statlig ålderspensionsavgift",
+     "text": "Anslagsposten får användas för kostnader för statlig ålderspensionsavgift enligt lagen (1998:676) om statlig ålderspensionsavgift, för totalförsvarspliktiga som genomför grundutbildning eller som genomför repetitionsutbildning samt till hemvärnsoldater som erhållit dagpenning med värnplikt.\nAvser preliminär statlig ålderspensionsavgift för 2026 om 296 637 000 kronor och ett regleringsbelopp för 2023 om -35 121 000 kronor."
+    },
+    {
+     "ap": "3",
+     "name": "Vidmakthållande av materiel och anläggningar",
+     "text": "1. Anslagsposten får användas för att finansiera vidmakthållande av befintliga investeringar i materiel och anläggningar, inklusive förvaltningskostnader för vidmakthållande som utförs i egen regi, samt åtgärder för att upprätthålla minsta bestånd av beredskapsvaror i lager.\n2. Anslagsposten får användas för utgifter för vidmakthållande av fartyg och flygplan som av Försvarsmakten ställs till Försvarets radioanstalts disposition.\n3. Anslagsposten får användas för utgifter i samband med vidmakthållande som uppkommer hos Försvarets materielverk för utfärdande av tullintyg i enlighet med förordningen (1994:1605) om tullfrihet m.m.\n4. Anslagsposten får användas för att genomföra en försörjningslösning för krigsmaterielsystem som Sverige överlåtit som gåva till Ukraina."
+    },
+    {
+     "ap": "4",
+     "name": "Militära underrättelse- och säkerhetstjänsten",
+     "text": "Anslagsposten får användas i enlighet med vad regeringen beslutar i särskilt beslut."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "1",
+     "max": 240000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "1",
+     "max": 100000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "1",
+     "max": 1700000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "1",
+     "max": 35000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "1",
+     "max": 3500000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "1",
+     "max": 40000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "1",
+     "max": 35000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "1",
+     "max": 102890000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "1",
+     "max": 5000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "1",
+     "max": 45000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "1",
+     "max": 7076000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "1",
+     "max": 9000000,
+     "unit": "kronor"
+    }
+   ]
+  },
+  {
+   "code": "1:2",
+   "name": "Försvarsmaktens insatser internationellt",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 6,
+    "name": "Försvar och samhällets krisberedskap"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Försvarsmakten",
+     "amount_tkr": 6113110,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Försvarsmaktens insatser internationellt (ram)",
+       "amount_tkr": 135000
+      },
+      {
+       "ap": "3",
+       "name": "Natoavgifter (ram)",
+       "amount_tkr": 1103954
+      },
+      {
+       "ap": "4",
+       "name": "Europeiska fredsfaciliteten (ram)",
+       "amount_tkr": 720000
+      },
+      {
+       "ap": "6",
+       "name": "Försvarsm. internat. - FM stöd till Ukraina (ram)",
+       "amount_tkr": 4154156
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Försvarsmaktens insatser internationellt",
+     "text": "1. Anslagsposten får, enligt regeringens närmare bestämmande, användas till särkostnader för Försvarsmaktens förband utomlands.\n2. Anslagsposten för användas för uppföljning av personal i internationella insatser.\n3. Anslagsposten får användas till särkostnader för Försvarsmaktens bidrag till insatser internationellt, förutom militärobservatörer, som inte innebär sändande av väpnad styrka till andra länder samt för sekondering av personal till internationella stabsbefattningar kopplade till pågående instaser, enligt regeringens närmare bestämmande."
+    },
+    {
+     "ap": "3",
+     "name": "Natoavgifter",
+     "text": "1. Anslagsposten får användas för utbetalningar efter rekvisition till avgifter och bidrag som följer av Sveriges Natomedlemskap.\n2. Anslagsposten får användas för bidrag för att finansiera Sveriges del av projekt som beviljats medel inom Nato Security Investment Programme."
+    },
+    {
+     "ap": "4",
+     "name": "Europeiska fredsfaciliteten",
+     "text": "Anslagsposten får användas för Sveriges del av de gemensamma kostnaderna för EU:s utombudgetära fond Europeiska fredsfaciliteten (EPF)."
+    },
+    {
+     "ap": "6",
+     "name": "Försvarsm. internat. - FM stöd till Ukraina",
+     "text": "Anslagsposten får användas till att anskaffa materiel och utrustning i syfte att skänka till Ukraina.\nVid anskaffning av materiel och utrustning ska utgifter redovisas mot anslag enligt 12 § andra stycket anslagsförordningen (2011:233), vilket innebär att utgifter för anskaffning av tillgångar ska redovisas mot anslag med ett belopp som motsvarar anskaffningsvärdet."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "1:3",
+   "name": "Anskaffning av materiel och anläggningar",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 6,
+    "name": "Försvar och samhällets krisberedskap"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Försvarsmakten",
+     "amount_tkr": 18030400,
+     "items": [
+      {
+       "ap": "2",
+       "name": "Anskaffning av materiel och anläggningar (ram)",
+       "amount_tkr": 15726400
+      },
+      {
+       "ap": "5",
+       "name": "Läglighetsköp (ram)",
+       "amount_tkr": 2304000
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "2",
+     "name": "Anskaffning av materiel och anläggningar",
+     "text": "1. Anslagsposten får användas till finansiering av förstagångsanskaffning av beredskapsvaror samt anskaffning med syfte att öka minsta bestånd av beredskapsvaror i lager.\n2. Anslagsposten får användas till anskaffning och modifiering av krigsmateriel avseende objekt av mindre ekonomisk omfattning.\n3. Anslagsposten får användas till att finansiera tjänster för utveckling och planering inom materiel- och logistikförsörjning.\n4. Anslagsposten får användas till materielutveckling och demonstratorer. Materielutvecklingsprogrammet ska förstärkas med 50 000 000 kronor så att det planeras uppgå till minst 300 000 000 kronor.\n5. Anslagsposten får användas till anslagsfinansierade anläggningar.\n6. Anslagsposten får omfatta beställning från annan aktör än Försvarets materielverk.\n7. Anslagsposten får användas till avveckling av vissa anläggningar genom beställning till Fortifikationsverket.\n8. Anslagsposten får användas till ersättningsanskaffning för den materiel som genom gåva överlåtits till Ukraina.\n9. Anslagsposten får användas för att finansiera avveckling av materiel."
+    },
+    {
+     "ap": "5",
+     "name": "Läglighetsköp",
+     "text": "Anslagsposten får användas för anskaffning av materiel och anläggningar där omvärldsläget medför att det med kort varsel uppstår möjligheter till anskaffning, s.k. läglighetslöp. Regeringens medgivande krävs för läglighetsköp. Regeringen avser att vid behov medge Försvarsmakten att disponera anslagssparande för anslagsposten under perioden 2026-2028."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "1:4",
+   "name": "Forskning och teknikutveckling",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 6,
+    "name": "Försvar och samhällets krisberedskap"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Försvarsmakten",
+     "amount_tkr": 1388705,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Forskning och teknikutveckling (ram)",
+       "amount_tkr": 1388705
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Forskning och teknikutveckling",
+     "text": "1. Anslaget får användas för kostnader för forskning, utveckling och studier m.m. inklusive det nationella flygtekniska forskningsprogrammet (NFFP) och verksamhet vid Flygvapnets luftstridssimuleringscentrum (FLSC).\n2. Högst 25 000 000 kronor får användas för flygteknisk forskning och utveckling inom NFFP i enlighet med de beslut som fattas inom programmet.\n3. Försvarsmakten ska till Europeiska försvarsbyrån (EDA) betala in belopp enligt fakturor avseende Sveriges del av de överenskomna gemensamma kostnaderna för verksamhet och för forsknings- och utvecklingssamarbetet inom EDA.\n4. Högst 120 000 000 kronor får användas till Innovationsprogrammet för civil-militära synergier med syfte att höja den militära förmågan."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "1",
+     "max": 25000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "1",
+     "max": 120000000,
+     "unit": "kronor"
+    }
+   ]
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "1:1 Förbandsverksamhet och beredskap",
+   "ap": "ap.1",
+   "Anslagskredit": 1390633,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:1 Förbandsverksamhet och beredskap",
+   "ap": "ap.2",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:1 Förbandsverksamhet och beredskap",
+   "ap": "ap.3",
+   "Anslagskredit": 1978035,
+   "Anslagsbehållning som disponeras 2026": 1679770,
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:1 Förbandsverksamhet och beredskap",
+   "ap": "ap.4",
+   "Anslagskredit": 65796,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:2 Försvarsmaktens insatser internationellt",
+   "ap": "ap.1",
+   "Anslagskredit": 4050,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:2 Försvarsmaktens insatser internationellt",
+   "ap": "ap.3",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:2 Försvarsmaktens insatser internationellt",
+   "ap": "ap.4",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:2 Försvarsmaktens insatser internationellt",
+   "ap": "ap.6",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:3 Anskaffning av materiel och anläggningar",
+   "ap": "ap.2",
+   "Anslagskredit": 1100848,
+   "Anslagsbehållning som disponeras 2026": 1057210,
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:3 Anskaffning av materiel och anläggningar",
+   "ap": "ap.5",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Allt",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:4 Forskning och teknikutveckling",
+   "ap": "ap.1",
+   "Anslagskredit": 41661,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 1997000,
+  "Räntekontokredit": 2600000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 8368505
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 8368505
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 8660942
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 8660942
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 8660942
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 8711626
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 8711626
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 8711626
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 8711626
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 8711626
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 8711626
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 8711659
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:1 Förbandsverksamhet och beredskap",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "1 390 633",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.2",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.3",
+     "1 978 035",
+     "1 679 770",
+     "0"
+    ],
+    [
+     "ap.4",
+     "65 796",
+     "3 %",
+     "0"
+    ],
+    [
+     "1:2 Försvarsmaktens insatser internationellt",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "4 050",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.3",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.4",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.6",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "1:3 Anskaffning av materiel och anläggningar",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.2",
+     "1 100 848",
+     "1 057 210",
+     "0"
+    ],
+    [
+     "ap.5",
+     "0",
+     "Allt",
+     "0"
+    ],
+    [
+     "1:4 Forskning och teknikutveckling",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "41 661",
+     "Inget",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Omfördelning av anslagssparande",
+   "rows": [
+    [
+     "Omfördelning från anslag/ap1",
+     "Omfördelning till anslag/ap2",
+     "Belopp (tkr)",
+     "Belopp andel (%)"
+    ],
+    [
+     "1:2 Försvarsmaktens insatser internationellt",
+     "",
+     "",
+     ""
+    ],
+    [
+     "1:2 ap.2",
+     "1:2 ap.1",
+     "100 %"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Avslutade anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagstyp"
+    ],
+    [
+     "1:2 Försvarsmaktens insatser internationellt",
+     ""
+    ],
+    [
+     "ap.2",
+     "ram"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Beställningsbemyndiganden",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Bemyndigande",
+     "Utgifter mot anslag till följd av ekonomiska åtaganden",
+     "",
+     "",
+     ""
+    ],
+    [
+     "2026",
+     "2027",
+     "2028",
+     "2029 -",
+     "Slutår"
+    ],
+    [
+     "1:1 Förbandsverksamhet och beredskap",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.3",
+     "50 072 000",
+     "16 414 000",
+     "14 537 000",
+     "19 121 000",
+     "2035"
+    ],
+    [
+     "1:3 Anskaffning av materiel och anläggningar",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.2",
+     "56 500 000",
+     "10 142 000",
+     "11 881 000",
+     "34 477 000",
+     "2037"
+    ],
+    [
+     "ap.5",
+     "6 001 001",
+     "2 044 003",
+     "1 652 998",
+     "",
+     "2028"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "1 997 000"
+    ],
+    [
+     "Räntekontokredit",
+     "2 600 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "8 368 505"
+    ],
+    [
+     "2026-02-25",
+     "8 368 505"
+    ],
+    [
+     "2026-03-25",
+     "8 660 942"
+    ],
+    [
+     "2026-04-25",
+     "8 660 942"
+    ],
+    [
+     "2026-05-25",
+     "8 660 942"
+    ],
+    [
+     "2026-06-25",
+     "8 711 626"
+    ],
+    [
+     "2026-07-25",
+     "8 711 626"
+    ],
+    [
+     "2026-08-25",
+     "8 711 626"
+    ],
+    [
+     "2026-09-25",
+     "8 711 626"
+    ],
+    [
+     "2026-10-25",
+     "8 711 626"
+    ],
+    [
+     "2026-11-25",
+     "8 711 626"
+    ],
+    [
+     "2026-12-25",
+     "8 711 659"
+    ],
+    [
+     "Summa",
+     "103 701 251"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "1:1 ap.1",
+     "Förbandsverksamhet och beredskap"
+    ],
+    [
+     "1:1 ap.3",
+     "Vidmakthållande av materiel och anläggningar"
+    ],
+    [
+     "1:1 ap.4",
+     "Militära underrättelse- och säkerhetstjänsten"
+    ],
+    [
+     "1:1 ap.2",
+     "Statlig ålderspensionsavgift"
+    ],
+    [
+     "1:2 ap.1",
+     "Försvarsmaktens insatser internationellt"
+    ],
+    [
+     "1:2 ap.3",
+     "Natoavgifter"
+    ],
+    [
+     "1:2 ap.4",
+     "Europeiska fredsfaciliteten"
+    ],
+    [
+     "1:2 ap.6",
+     "Försvarsm. internat. - FM stöd till Ukraina"
+    ],
+    [
+     "1:3 ap.2",
+     "Anskaffning av materiel och anläggningar"
+    ],
+    [
+     "1:3 ap.5",
+     "Läglighetsköp"
+    ],
+    [
+     "1:4 ap.1",
+     "Forskning och teknikutveckling"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Avgiftsbelagd verksamhet där intäkterna disponeras",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Försvarslogistik och verkstadsverksamhet2",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0"
+    ],
+    [
+     "Transportverksamhet3",
+     "120 000"
+    ],
+    [
+     "Statsflyget2",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0"
+    ],
+    [
+     "Övning och utbildning2",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0"
+    ],
+    [
+     "Stöd till civil verksamhet2",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0"
+    ],
+    [
+     "Övrig uppdragsverksamhet2",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0"
+    ],
+    [
+     "Försvarslogistik och verkstadsverksamhet3",
+     "376 800"
+    ],
+    [
+     "Statsflyget3",
+     "7 000"
+    ],
+    [
+     "Övning och utbildning3",
+     "1 314 500"
+    ],
+    [
+     "Stöd till civil verksamhet3",
+     "8 800"
+    ],
+    [
+     "Övrig uppdragsverksamhet3",
+     "60 000"
+    ],
+    [
+     "Summa",
+     "0",
+     "0",
+     "1 887 100",
+     "0",
+     "0",
+     "0"
+    ]
+   ]
+  }
+ ],
+ "has_fee_section": true,
+ "exceptions_text": "Försvarsmakten undantas från 12 § anslagsförordningen (2011:223) enligt nedan. a) Försvarsmakten får, vad avser förstagångsanskaffning (dvs. första lageruppbyggnad) för ny materiel, anskaffa beredskapsvaror under anslaget 1:3 ap.2*Anskaffning av materiel och anläggningar*. Försvarsmakten får under anslaget 1:1 ap.3*Vidmakthållande av materiel och anläggningar*återanskaffa beredskapsvaror. Efter hand som förbrukning av beredskapsvaror sker i förbandsverksamheten ska kostnaden för detta föras mot anslaget 1:1 ap.1*Förbandsverksamhet och beredskap*och motsvarande belopp föras som intäkt mot anslaget 1:3 ap.2*Anskaffning av materiel och anläggningar*eller anslaget 1:1 ap.3*Vidmakthållande av materiel och anläggningar.*Denna princip får även tillämpas vad gäller förnödenheter, inklusive drivmedel, anskaffade före den 1 januari 2008. b) När Försvarsmakten förbrukar ammunition m.m. vid insatser internationellt ska kostnaden för detta föras mot anslaget 1:2*Försvarsmaktens insatser*internationellt och motsvarande belopp föras som intäkt mot anslagen 1:1 ap.1*Förbandsverksamhet och beredskap*eller 1:1 ap.3*Vidmakthållande av materiel och anläggningar.*\n\nFörsvarsmakten behöver inte finansiera investeringar i anläggningstillgångar som används eller kommer att användas i samband med internationella insatser med lån i Riksgäldskontoret enligt 2 kap. 1 § kapitalförsörjningsförordningen (2011:210).\n\nFörsvarsmakten undantas från kravet att redovisa enbart samhällsinvesteringar i myndighetens verksamhet enligt 9 kap. 4 § förordningen (2000:605) om årsredovisning och budgetunderlag. Undantaget gäller för Försvarets materielverks samhällsinvesteringar avseende försvarets ägande vid industrin (FÄVI).\n\n**ÖVRIGA BESTÄMMELSER**\n\nFörsvarsmakten ska till Försvarets materielverk fakturera ersättning för kostnader avseende materiel och verksamhet förknippade med försäljning och uthyrning av JAS 39 C/D samt försäljning av JAS 39 E samt därtill kopplade tjänster. Ersättning för verksamhet i och utom Sverige för JAS 39 C/D och E i samband med exportaffärer ska beräknas exklusive avskrivningskostnader. Kostnadsdelning avseende JAS 39 C/D och E hanteras i enlighet med bestämmelser i regleringsbrev för Försvarets materielverk. Bestämmelsen omfattar inte hanteringen av statens återtag och royalty till staten, se regleringsbrev för Försvarets materielverk (Övriga inkomster, punkt 2).\n\nFörsvarsmakten ska ge stöd till Regeringskansliet (Försvarsdepartementet) genom att, vid behov, ställa körcentral till förfogande vid tjänsteresor.\n\nPå regeringens vägnar\n\nPål Jonson\n\nJosefin Claesson\n\n**Kopia till**\n\nStatsrådsberedningen, internrevisionen\\\nFinansdepartementets budgetavdelning\\\nFinansdepartementet (ESA, SFÖ, OU)\\\nJustitiedepartementet\\\nUtrikesdepartementet\\\nFörsvarsdepartementet (EMF, EM, EFU, ECH, EIR, ETU, ESS)\\\nSocialdepartementet\\\nUtbildningsdepartementet\\\nKlimat- och näringslivsdepartementet\\\nLandsbygds- och infrastrukturdepartementet\\\nArbetsmarknadsdepartementet\\\nKulturdepartementet\\\nFörvaltningsavdelningen (RK Ekonomi)\\\nRiksdagens Försvarsutskott\\\nFörsvarets materielverk\\\nTotalförsvarets forskningsinstitut\\\nFörsvarets radioanstalt\\\nTotalförsvarets plikt och prövningsverk\\\nMyndigheten för totalförsvarsanalys\\\nStatens inspektion för försvarsunderrättelseverksamheten\\\nMyndigheten för civilt försvar\\\nFörsvarshögskolan\\\nFortifikationsverket\\\nPolismyndigheten\\\nSäkerhetspolisen\\\nKustbevakningen\\\nInspektionen för strategiska produkter\\\nRikshemvärnsrådet\\\nVerket för innovationssystem\\\nFörsäkringskassan\\\nTullverket\\\nEkonomistyrningsverket\\\nLantmäteriet\\\nPensionsmyndigheten\\\nStatskontoret\\\nRiksgäldskontoret\\\nCentralförbundet Folk och Försvar\\\nFacket för service och kommunikation - SEKO\\\nOfficersförbundet\\\nFörsvarsförbundet\\\nFackförbundet ST\\\nFörbundet Reservofficerarna\\\nSveriges Ingenjörer",
+ "summary": {
+  "n_goals": 7,
+  "n_org": 0,
+  "n_assignments": 29,
+  "n_deadlines": 10,
+  "deadlines": [
+   "2026-02-13",
+   "2026-02-20",
+   "2026-04-02",
+   "2026-05-15",
+   "2026-05-30",
+   "2026-06-01",
+   "2026-07-24",
+   "2026-10-30",
+   "2027-02-22",
+   "2027-03-01"
+  ],
+  "partners": [
+   "Ekonomistyrningsverket",
+   "Fortifikationsverket",
+   "Försvarets materielverk",
+   "Kustbevakningen",
+   "Myndigheten för civilt försvar"
+  ],
+  "n_appropriations": 4,
+  "appropriations_total_tkr": 103701251,
+  "payment_plan_total_tkr": 103701251,
+  "md_chars": 43952
+ },
+ "layout": "standard",
+ "warnings": []
+}

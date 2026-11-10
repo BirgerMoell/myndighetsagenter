@@ -1,0 +1,296 @@
+{
+ "schema_version": 1,
+ "id": 25740,
+ "original_rbid": 25740,
+ "type": "Regleringsbrev",
+ "category": "Myndighet",
+ "date": "2025-12-11",
+ "year": "2026",
+ "name": "Domarnämnden",
+ "slug": "domarnamnden",
+ "department": "Justitiedepartementet",
+ "expenditure_areas": [
+  4
+ ],
+ "registry_numbers": [
+  "Ju2025/00276",
+  "Ju2025/02693 (delvis)"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1"
+  ],
+  "bet": [
+   "2025/26:JuU1"
+  ],
+  "rskr": [
+   "2025/26:101"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "Domarnämnden ska verka för att allmänna domstolar, allmänna förvaltningsdomstolar, specialdomstolar och hyres- och arrendenämnder kan rekrytera ordinarie domare respektive hyresråd som tillhör de skickligaste och för yrket mest lämpade juristerna.",
+ "goals": [],
+ "org": [],
+ "assignments": [
+  {
+   "title": "Prognoser",
+   "group": [],
+   "text": "Domarnämnden ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Prognoserna lämnas i informationssystemet Hermes senast den\n\n2 februari\n\n22 april\n\n24 juli\n\n9 november.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "25740:assignments:0"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "1:16",
+   "name": "Domarnämnden",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 4,
+    "name": "Rättsväsendet"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Domarnämnden",
+     "amount_tkr": 14387,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Domarnämnden (ram)",
+       "amount_tkr": 14387
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Domarnämnden",
+     "text": "Anslagsposten får användas för Domarnämndens förvaltningsutgifter."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "1:16 Domarnämnden",
+   "ap": "ap.1",
+   "Anslagskredit": 431,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 100,
+  "Räntekontokredit": 790
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 1199
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 1199
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 1199
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 1199
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 1199
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 1199
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 1199
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 1199
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 1199
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 1199
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 1199
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 1198
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:16 Domarnämnden",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "431",
+     "3 %",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "100"
+    ],
+    [
+     "Räntekontokredit",
+     "790"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "1 199"
+    ],
+    [
+     "2026-02-25",
+     "1 199"
+    ],
+    [
+     "2026-03-25",
+     "1 199"
+    ],
+    [
+     "2026-04-25",
+     "1 199"
+    ],
+    [
+     "2026-05-25",
+     "1 199"
+    ],
+    [
+     "2026-06-25",
+     "1 199"
+    ],
+    [
+     "2026-07-25",
+     "1 199"
+    ],
+    [
+     "2026-08-25",
+     "1 199"
+    ],
+    [
+     "2026-09-25",
+     "1 199"
+    ],
+    [
+     "2026-10-25",
+     "1 199"
+    ],
+    [
+     "2026-11-25",
+     "1 199"
+    ],
+    [
+     "2026-12-25",
+     "1 198"
+    ],
+    [
+     "Summa",
+     "14 387"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "1:16 ap.1",
+     "Domarnämnden"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [],
+ "has_fee_section": false,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 0,
+  "n_org": 0,
+  "n_assignments": 1,
+  "n_deadlines": 0,
+  "deadlines": [],
+  "partners": [],
+  "n_appropriations": 1,
+  "appropriations_total_tkr": 14387,
+  "payment_plan_total_tkr": 14387,
+  "md_chars": 3137
+ },
+ "layout": "standard",
+ "warnings": []
+}

@@ -1,0 +1,646 @@
+{
+ "schema_version": 1,
+ "id": 27449,
+ "original_rbid": 25967,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-06-18",
+ "year": "2026",
+ "name": "Försvarets radioanstalt",
+ "slug": "forsvarets-radioanstalt",
+ "department": "Försvarsdepartementet",
+ "expenditure_areas": [
+  6
+ ],
+ "registry_numbers": [
+  "Fö2026/00987 (delvis)"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1",
+   "2025/26:99"
+  ],
+  "bet": [
+   "2025/26:FiU21"
+  ],
+  "rskr": [
+   "2025/26:111",
+   "2026/26:347"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "",
+ "goals": [
+  {
+   "title": "Försvarsunderrättelseförmågan ska öka",
+   "group": [],
+   "text": "Försvarets radioanstalt ska redovisa hur myndigheten arbetar för att säkerställa en ändamålsenlig och effektiv användning av tilldelade och beräknade resurstillskott, i syfte att den samlade försvarsunderrättelseförmågan ska öka.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27449:goals:0"
+  },
+  {
+   "title": "Grov gränsöverskridande brottslighet",
+   "group": [],
+   "text": "Försvarets radioanstalt ska redogöra för sitt stöd till Polismyndigheten i arbetet med att bekämpa grov gränsöverskridande brottslighet.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [
+    "Polismyndigheten"
+   ],
+   "partners": [
+    "Polismyndigheten"
+   ],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27449:goals:1"
+  },
+  {
+   "title": "Höjd beredskap",
+   "group": [],
+   "text": "Försvarets radioanstalt ska redovisa vilka åtgärder som vidtagits och planeras att vidtas för att stärka myndighetens förmåga att verka vid svåra påfrestningar och under höjd beredskap, inklusive hur digitalisering kan bidra till stärkt förmåga i detta avseende.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "digitalisering_ai",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27449:goals:2"
+  },
+  {
+   "title": "Bidrag till Försvarsmaktens operativa förmåga",
+   "group": [],
+   "text": "Försvarets radioanstalt ska redovisa hur myndigheten inom sitt verksamhetsområde bidrar till att öka Försvarsmaktens operativa förmåga enligt regeringens beslut den 19 december 2024 om inriktning för militärt försvar 2025-2030 (Fö nr I:16).",
+   "dates": [
+    "2024-12-19"
+   ],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Försvarsmakten"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "fördela_medel"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27449:goals:3"
+  }
+ ],
+ "org": [
+  {
+   "title": "Redovisning i personalkategorier",
+   "group": [],
+   "text": "Försvarets radioanstalt ska i tabellform redovisa hur personalen vid myndigheten är fördelad. Redovisningen ska genomgående göras med kön som övergripande indelningsgrund. Tabellen ska visa hur personalen är fördelad i antal och procentuell andel på kategorierna lednings-, kärn- och stödverksamhet. Av stödverksamheten ska det för 2026 framgå hur stor andel av IT-verksamheten som är kärnverksamhet. Kategorierna är enligt den definition som framgår av AgVFS 2003:7 A2.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "fördela_medel"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "org",
+   "item_id": "27449:org:0"
+  },
+  {
+   "title": "Jämställdhet",
+   "group": [],
+   "text": "Försvarets radioanstalt ska redovisa resultatet av de åtgärder som myndigheten vidtagit för att dels öka andelen kvinnor i myndigheten, dels öka andelen kvinnor på ledande befattningar. Utvecklingen ska analyseras och kommenteras.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "org",
+   "item_id": "27449:org:1"
+  }
+ ],
+ "assignments": [
+  {
+   "title": "Tekniskt detekterings- och varningssystem (TDV)",
+   "group": [],
+   "text": "Försvarets radioanstalt ska redovisa resultat, inklusive utveckling och utplacering, av tekniska detekterings- och varningssystem (TDV) vid de mest skyddsvärda verksamheterna bland statliga myndigheter och enskilda verksamhetsutövare som hanterar information som bedöms vara känslig från sårbarhetssynpunkt eller i ett säkerhets- eller försvarspolitiskt avseende. Avvikelser mot planerad verksamhet och förväntat resultat ska analyseras och kommenteras. Av redovisningen ska även framgå hur samarbetet med Säkerhetspolisen vid utplacering av TDV har fungerat liksom att information har lämnats till Myndigheten för civilt försvar. Försvarets radioanstalt ska i samband med årsredovisningen, i särskild ordning, redovisa till Regeringskansliet (Försvarsdepartementet) hur utveckling och utplacering fortgår och planen framåt.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [
+    "Myndigheten för civilt försvar",
+    "Regeringskansliet (Försvarsdepartementet)"
+   ],
+   "partners": [
+    "Myndigheten för civilt försvar",
+    "Säkerhetspolisen"
+   ],
+   "channels": [
+    "årsredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27449:assignments:0"
+  },
+  {
+   "title": "Digital molnbaserad transformation",
+   "group": [],
+   "text": "Försvarets radioanstalt uppdras att senast den 20 februari 2026 redovisa hur en övergång till en molnbaserad digital lösning kan genomföras, beräknade kostnader för genomförandet samt vilka besparingar myndigheten kan göra vid utfasning av befintlig lösning.",
+   "dates": [
+    "2026-02-20"
+   ],
+   "deadlines": [
+    "2026-02-20"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27449:assignments:1"
+  },
+  {
+   "title": "En ny civil utrikesunderrättelsetjänst",
+   "group": [],
+   "text": "Försvarets radioanstalt ska bistå utredningen för bildandet av en utrikesunderrättelsetjänst i enlighet med dir. 2025:92 samt redovisa hur etableringen av en civil utrikesunderrättelsetjänst förutses påverka Försvarets radioanstalts verksamhet. Redovisningen ska inkludera en beskrivning av hur Försvarets radioanstalt förbereder sig och stödjer etableringen av den nya myndigheten. Försvarets radioanstalt ska lämna en delredovisning av uppdraget till Regeringskansliet (Försvarsdepartementet) senast den 1 oktober 2026. Den slutliga redovisningen ska lämnas till Regeringskansliet (Försvarsdepartementet) senast den 12 december 2026.",
+   "dates": [
+    "2026-10-01",
+    "2026-12-12"
+   ],
+   "deadlines": [
+    "2026-10-01",
+    "2026-12-12"
+   ],
+   "recipients": [
+    "Regeringskansliet (Försvarsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [
+    "delredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "samordna"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27449:assignments:2"
+  },
+  {
+   "title": "Prognos",
+   "group": [],
+   "text": "Försvarets radioanstalt ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Prognoserna lämnas i informationssystemet Hermes senast den\n\n− 2 februari\\\n− 22 april\\\n− 24 juli\\\n− 9 november.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27449:assignments:3"
+  },
+  {
+   "title": "Pågående uppdrag",
+   "group": [],
+   "text": "| | | |\n| --- | --- | --- |\n| **Uppdrag** | **Beslut** | **Redovisningstidpunkt** |\n| Uppdrag till Försvarets radioanstalt och Myndigheten för samhällsskydd och beredskap att ta fram riktlinjer i enlighet med artikel 7.2 i NIS2-direktivet | Fö2025/00389 | Den 15 maj 2026 |\n| Uppdrag till Myndigheten för samhällsskydd och beredskap, Försvarets radioanstalt och Försvarets materielverk att genomföra en nationell kartläggning av kommuners tekniska cybersäkerhetsförmåga | Fö2025/00540 | I samband med Myndigheten för civilt försvars årsredovisningar för åren 2025, 2026 och 2027 |\n| Uppdrag till Försvaret genom det Nationella cybersäkerhetscentret att genomföra mätning av resultatindikatorer | Fö2025/01547 | Den 6 mars 2026 |\n| Uppdrag till Försvarets radioanstalt att förbereda inordnande av uppgifter på cybersäkerhetsområdet | Fö2025/01704 | Uppgifterna ska kunna inordnas i Försvarets radioanstalt genom det Nationella cybersäkerhetscentret den 1 juli 2026 |\n| Uppdrag till Försvarets radioanstalt genom det nationella cybersäkerhetscentret att stödja cybersäkerhetsarbetet inför, under och efter valen till riksdag, region- och kommunfullmäktige 2026 | Fö2025/01712 | 1 december 2026 |",
+   "dates": [
+    "2026-03-06",
+    "2026-05-15",
+    "2026-07-01",
+    "2026-12-01"
+   ],
+   "deadlines": [],
+   "recipients": [
+    "Myndigheten för samhällsskydd och beredskap"
+   ],
+   "partners": [
+    "Försvarets materielverk",
+    "Myndigheten för civilt försvar",
+    "Myndigheten för samhällsskydd och beredskap"
+   ],
+   "channels": [
+    "årsredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla",
+    "statistik_data",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "27449:assignments:4"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "1:8",
+   "name": "Försvarets radioanstalt",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 6,
+    "name": "Försvar och samhällets krisberedskap"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Försvarets radioanstalt",
+     "amount_tkr": 3526229,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Försvarets radioanstalt (ram)",
+       "amount_tkr": 3261229
+      },
+      {
+       "ap": "2",
+       "name": "Nationellt cybersäkerhetscenter (ram)",
+       "amount_tkr": 265000
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Försvarets radioanstalt",
+     "text": "Anslagsposten får användas för Försvarets radioanstalts förvaltningsutgifter."
+    },
+    {
+     "ap": "2",
+     "name": "Nationellt cybersäkerhetscenter",
+     "text": "Anslagsposten får användas för Nationellt cybersäkerhetscenters\\\nförvaltningsutgifter."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "1:8 Försvarets radioanstalt",
+   "ap": "ap.1",
+   "Anslagskredit": 94734,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:8 Försvarets radioanstalt",
+   "ap": "ap.2",
+   "Anslagskredit": 8025,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 2130000,
+  "Räntekontokredit": 313000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 285444
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 285444
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 285444
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 285444
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 285444
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 285444
+  },
+  {
+   "date": "2026-06-30",
+   "amount_tkr": 14414
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 285444
+  },
+  {
+   "date": "2026-07-30",
+   "amount_tkr": 14414
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 285444
+  },
+  {
+   "date": "2026-08-30",
+   "amount_tkr": 14414
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 285444
+  },
+  {
+   "date": "2026-09-30",
+   "amount_tkr": 14414
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 285444
+  },
+  {
+   "date": "2026-10-30",
+   "amount_tkr": 14414
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 285444
+  },
+  {
+   "date": "2026-11-30",
+   "amount_tkr": 14414
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 285445
+  },
+  {
+   "date": "2026-12-30",
+   "amount_tkr": 14416
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:8 Försvarets radioanstalt",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "94 734",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.2",
+     "8 025",
+     "Inget",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "2 130 000"
+    ],
+    [
+     "Räntekontokredit",
+     "313 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "285 444"
+    ],
+    [
+     "2026-02-25",
+     "285 444"
+    ],
+    [
+     "2026-03-25",
+     "285 444"
+    ],
+    [
+     "2026-04-25",
+     "285 444"
+    ],
+    [
+     "2026-05-25",
+     "285 444"
+    ],
+    [
+     "2026-06-25",
+     "285 444"
+    ],
+    [
+     "2026-06-30",
+     "14 414"
+    ],
+    [
+     "2026-07-25",
+     "285 444"
+    ],
+    [
+     "2026-07-30",
+     "14 414"
+    ],
+    [
+     "2026-08-25",
+     "285 444"
+    ],
+    [
+     "2026-08-30",
+     "14 414"
+    ],
+    [
+     "2026-09-25",
+     "285 444"
+    ],
+    [
+     "2026-09-30",
+     "14 414"
+    ],
+    [
+     "2026-10-25",
+     "285 444"
+    ],
+    [
+     "2026-10-30",
+     "14 414"
+    ],
+    [
+     "2026-11-25",
+     "285 444"
+    ],
+    [
+     "2026-11-30",
+     "14 414"
+    ],
+    [
+     "2026-12-25",
+     "285 445"
+    ],
+    [
+     "2026-12-30",
+     "14 416"
+    ],
+    [
+     "Summa",
+     "3 526 229"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "1:8 ap.1",
+     "Försvarets radioanstalt"
+    ],
+    [
+     "1:8 ap.2",
+     "Nationellt cybersäkerhetscenter"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [],
+ "has_fee_section": false,
+ "exceptions_text": "**1. Sekretessbelagda uppgifter**\n\nFörsvarets radioanstalt får i myndighetens årsredovisning och i inrapporteringen i statsredovisningssystemet frångå de regler i förordningen (2000:605) om årsredovisning och budgetunderlag och förordningen (2000:606) om myndigheters bokföring samt de med stöd av förordningarna meddelade föreskrifter som medför att sekretessbelagda uppgifter kan utläsas i rapporterna.\n\nDen information som bedöms omfattas av sekretess ska redovisas i särskild ordning.\n\n**2. Elektronisk behandling av fakturor**\n\nFörsvarets radioanstalt undantas från kravet på att hantera inkommande och utgående fakturor elektroniskt jämlikt 21 f § förordningen (2000:606) om myndigheters bokföring.\n\nPå regeringens vägnar\n\nCarl-Oskar Bohlin\n\nEmma Widmark\n\n**Kopia till**\n\nStatsrådsberedningen, internrevisionen\\\nFinansdepartementets budgetavdelning\\\nFörvaltningsavdelningen, RK Ekonomi\\\nRiksdagen, Försvarsutskottet\\\nFörsvarsmakten\\\nMyndigheten för civilt försvar\\\nMyndigheten för totalförsvarsanalys\\\nStatens inspektion för försvarsunderrättelseverksamheten\\\nFörsvarsunderrättelsedomstolen\\\nSäkerhetspolisen\\\nPolismyndigheten\\\nRiksgäldskontoret",
+ "summary": {
+  "n_goals": 4,
+  "n_org": 2,
+  "n_assignments": 5,
+  "n_deadlines": 3,
+  "deadlines": [
+   "2026-02-20",
+   "2026-10-01",
+   "2026-12-12"
+  ],
+  "partners": [
+   "Försvarets materielverk",
+   "Försvarsmakten",
+   "Myndigheten för civilt försvar",
+   "Myndigheten för samhällsskydd och beredskap",
+   "Polismyndigheten",
+   "Säkerhetspolisen"
+  ],
+  "n_appropriations": 1,
+  "appropriations_total_tkr": 3526229,
+  "payment_plan_total_tkr": 3526229,
+  "md_chars": 9510
+ },
+ "layout": "standard",
+ "warnings": []
+}

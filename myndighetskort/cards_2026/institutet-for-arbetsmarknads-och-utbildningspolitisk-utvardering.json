@@ -1,0 +1,571 @@
+{
+ "schema_version": 1,
+ "id": 26064,
+ "original_rbid": 26064,
+ "type": "Regleringsbrev",
+ "category": "Myndighet",
+ "date": "2025-12-18",
+ "year": "2026",
+ "name": "Institutet för arbetsmarknads- och utbildningspolitisk utvärdering",
+ "slug": "institutet-for-arbetsmarknads-och-utbildningspolitisk-utvardering",
+ "department": "Arbetsmarknadsdepartementet",
+ "expenditure_areas": [
+  14
+ ],
+ "registry_numbers": [
+  "A2025/01246 (delvis)",
+  "A2025/01277"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1"
+  ],
+  "bet": [
+   "2025/26:AU2"
+  ],
+  "rskr": [
+   "2025/26:119"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "",
+ "goals": [],
+ "org": [],
+ "assignments": [
+  {
+   "title": "Redovisning av pågående verksamhet",
+   "group": [],
+   "text": "IFAU ska redovisa den övergripande inriktningen för pågående och planerade projekt till regeringen (Arbetsmarknadsdepartementet). Den första avrapporteringen ska göras senast den 24 april 2026. Den andra avrapporteringen ska göras senast den 25 september 2026 och även inkludera en mer utförlig beskrivning av verksamhetens inriktning utifrån tidigare studier.",
+   "dates": [
+    "2026-04-24",
+    "2026-09-25"
+   ],
+   "deadlines": [
+    "2026-04-24",
+    "2026-09-25"
+   ],
+   "recipients": [
+    "regeringen"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "26064:assignments:0"
+  },
+  {
+   "title": "Prognoser",
+   "group": [],
+   "text": "IFAU ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Prognoserna lämnas i informationssystemet Hermes senast den\\\n2 februari\\\n22 april\\\n24 juli\\\n9 november.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26064:assignments:1"
+  },
+  {
+   "title": "Prognos för beställningsbemyndiganden",
+   "group": [],
+   "text": "IFAU ska redovisa en prognos för de förslag om beställningsbemyndiganden som lämnats i budgetunderlaget och för de åtaganden som ingåtts med stöd av äldre beställningsbemyndiganden. Prognosen ska lämnas senast den 24 juli 2026 via Statsredovisningssystemet i Hermes och utformas enligt närmare information från Ekonomistyrningsverket.",
+   "dates": [
+    "2026-07-24"
+   ],
+   "deadlines": [
+    "2026-07-24"
+   ],
+   "forecast_dates": [],
+   "recipients": [],
+   "partners": [
+    "Ekonomistyrningsverket"
+   ],
+   "channels": [
+    "hermes",
+    "budgetunderlag"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26064:assignments:2"
+  },
+  {
+   "title": "Den idéburna sektorns roll inom arbetsmarknaden",
+   "group": [],
+   "text": "Myndigheten ska redovisa hur den idéburna sektorn bidrar till sysselsättning samt hur den eventuellt påverkar arbetsmarknaden på annat sätt. Uppdraget ska redovisas till Regeringskansliet (Arbetsmarknadsdepartementet) senast den 4 december 2026.",
+   "dates": [
+    "2026-12-04"
+   ],
+   "deadlines": [
+    "2026-12-04"
+   ],
+   "recipients": [
+    "Regeringskansliet (Arbetsmarknadsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26064:assignments:3"
+  },
+  {
+   "title": "Det grundläggande omställnings- och kompetensstödet",
+   "group": [],
+   "text": "IFAU ska utvärdera det grundläggande omställnings- och kompetensstödet, såväl avseende stöd från den offentliga omställningsorganisationen som från registrerade omställningsorganisationer. Uppdraget följer av Kammarkollegiets uppdrag att, i samråd med IFAU, samla in de uppgifter som behövs för att analysera, följa upp och utvärdera innehållet i det grundläggande omställnings- och kompetensstödet (dnr A2024/00842). IFAU ska till Regeringskansliet (Arbetsmarknadsdepartementet) lämna en muntlig delredovisning senast den 19 oktober 2027 och en slutredovisning senast den 1 november 2029.",
+   "dates": [
+    "2027-10-19",
+    "2029-11-01"
+   ],
+   "deadlines": [
+    "2027-10-19",
+    "2029-11-01"
+   ],
+   "recipients": [
+    "Regeringskansliet (Arbetsmarknadsdepartementet)"
+   ],
+   "partners": [
+    "Kammarkollegiet"
+   ],
+   "channels": [
+    "muntlig",
+    "delredovisning",
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26064:assignments:4"
+  },
+  {
+   "title": "Bidragsreformen",
+   "group": [],
+   "text": "Regeringen har initierat en omfattande bidragsreform för att bryta bidragsberoendet. Bidragsreformen består av dels ett bidragstak, ett aktivitetskrav och en tillfällig jobbpremie för dem som lämnar försörjningsstödet för jobb, som alla syftar till att öka biståndsmottagares ekonomiska drivkrafter att nå egen försörjning, dels en kvalificering till vissa socialförsäkringsförmåner för personer som bosätter sig i Sverige, som syftar till att skapa incitament till arbete och minska tilldragningsfaktorer för migranter. IFAU ska, i samråd med Konjunkturinstitutet och Inspektionen för socialförsäkringen, ta fram ett förslag till hur en uppföljning av reformen kan göras. I förslaget ska IFAU klargöra förutsättningarna för att följa upp och utvärdera bidragsreformens olika delar, vilken data som kommer att behövas för att genomföra en uppföljning och en utvärdering och, om det finns behov av fler aktörer, vilka aktörer utöver IFAU, Konjunkturinstitutet och Inspektionen för socialförsäkringen som behöver vara inblandade. Uppdraget ska redovisas till Regeringskansliet (Socialdepartementet) senast den 2 oktober 2026.",
+   "dates": [
+    "2026-10-02"
+   ],
+   "deadlines": [
+    "2026-10-02"
+   ],
+   "recipients": [
+    "Regeringskansliet (Socialdepartementet)"
+   ],
+   "partners": [
+    "Inspektionen för socialförsäkringen",
+    "Konjunkturinstitutet"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna",
+    "utveckla",
+    "tillsyn_kontroll"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26064:assignments:5"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "1:8",
+   "name": "Institutet för arbetsmarknads- och utbildningspolitisk utvärdering",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 14,
+    "name": "Arbetsmarknad och arbetsliv"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Institutet för arbetsmarknads- och utbildningspolitisk utvärdering",
+     "amount_tkr": 52809,
+     "items": [
+      {
+       "ap": "1",
+       "name": "IFAU förvaltningskostnader (ram)",
+       "amount_tkr": 46809
+      },
+      {
+       "ap": "2",
+       "name": "Finansieringsbidrag (ram)",
+       "amount_tkr": 3000
+      },
+      {
+       "ap": "3",
+       "name": "Finansieringsbidrag, effekter av utbildning (ram)",
+       "amount_tkr": 3000
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "IFAU förvaltningskostnader",
+     "text": "Anslagsposten får användas för Institutet för arbetsmarknads- och utbildningspolitisk utvärderings förvaltningsutgifter."
+    },
+    {
+     "ap": "2",
+     "name": "Finansieringsbidrag",
+     "text": "Anslagsbeloppet får användas för att stödja externa studier av arbetsmarknadseffekter av åtgärder inom arbetsmarknadspolitiken samt studier av arbetsmarknadens funktionssätt. Högst 200 000 kronor får användas för administrativa kostnader som är förknippade med fördelningen av bidraget."
+    },
+    {
+     "ap": "3",
+     "name": "Finansieringsbidrag, effekter av utbildning",
+     "text": "Anslagsbeloppet får användas för att stödja externa studier av arbetsmarknadseffekter av åtgärder inom utbildningsväsendet. Högst 200 000 kronor får användas för administrativa kostnader som är förknippade med fördelningen av bidraget."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "2",
+     "max": 200000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "3",
+     "max": 200000,
+     "unit": "kronor"
+    }
+   ]
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "1:8 Institutet för arbetsmarknads- och utbildningspolitisk utvärdering",
+   "ap": "ap.1",
+   "Anslagskredit": 1404,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:8 Institutet för arbetsmarknads- och utbildningspolitisk utvärdering",
+   "ap": "ap.2",
+   "Anslagskredit": 90,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:8 Institutet för arbetsmarknads- och utbildningspolitisk utvärdering",
+   "ap": "ap.3",
+   "Anslagskredit": 90,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 2000,
+  "Räntekontokredit": 2000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 4401
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 4401
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 4401
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 4401
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 4401
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 4401
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 4401
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 4401
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 4401
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 4401
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 4401
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 4398
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:8 Institutet för arbetsmarknads- och utbildningspolitisk utvärdering",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "1 404",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.2",
+     "90",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.3",
+     "90",
+     "3 %",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Beställningsbemyndiganden",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Bemyndigande",
+     "Utgifter mot anslag till följd av ekonomiska åtaganden",
+     "",
+     "",
+     ""
+    ],
+    [
+     "2026",
+     "2027",
+     "2028",
+     "2029 -",
+     "Slutår"
+    ],
+    [
+     "1:8 Institutet för arbetsmarknads- och utbildningspolitisk utvärdering",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.2",
+     "4 500",
+     "3 000",
+     "1 500",
+     "",
+     "2028"
+    ],
+    [
+     "ap.3",
+     "4 500",
+     "3 000",
+     "1 500",
+     "",
+     "2028"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "2 000"
+    ],
+    [
+     "Räntekontokredit",
+     "2 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "4 401"
+    ],
+    [
+     "2026-02-25",
+     "4 401"
+    ],
+    [
+     "2026-03-25",
+     "4 401"
+    ],
+    [
+     "2026-04-25",
+     "4 401"
+    ],
+    [
+     "2026-05-25",
+     "4 401"
+    ],
+    [
+     "2026-06-25",
+     "4 401"
+    ],
+    [
+     "2026-07-25",
+     "4 401"
+    ],
+    [
+     "2026-08-25",
+     "4 401"
+    ],
+    [
+     "2026-09-25",
+     "4 401"
+    ],
+    [
+     "2026-10-25",
+     "4 401"
+    ],
+    [
+     "2026-11-25",
+     "4 401"
+    ],
+    [
+     "2026-12-25",
+     "4 398"
+    ],
+    [
+     "Summa",
+     "52 809"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "1:8 ap.1",
+     "IFAU förvaltningskostnader"
+    ],
+    [
+     "1:8 ap.2",
+     "Finansieringsbidrag"
+    ],
+    [
+     "1:8 ap.3",
+     "Finansieringsbidrag, effekter av utbildning"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [],
+ "has_fee_section": true,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 0,
+  "n_org": 0,
+  "n_assignments": 6,
+  "n_deadlines": 7,
+  "deadlines": [
+   "2026-04-24",
+   "2026-07-24",
+   "2026-09-25",
+   "2026-10-02",
+   "2026-12-04",
+   "2027-10-19",
+   "2029-11-01"
+  ],
+  "partners": [
+   "Ekonomistyrningsverket",
+   "Inspektionen för socialförsäkringen",
+   "Kammarkollegiet",
+   "Konjunkturinstitutet"
+  ],
+  "n_appropriations": 1,
+  "appropriations_total_tkr": 52809,
+  "payment_plan_total_tkr": 52809,
+  "md_chars": 8359
+ },
+ "layout": "standard",
+ "warnings": []
+}

@@ -1,0 +1,552 @@
+{
+ "schema_version": 1,
+ "id": 27478,
+ "original_rbid": 25762,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-08-27",
+ "year": "2026",
+ "name": "Forskningsrådet för miljö, areella näringar och samhällsbyggande",
+ "slug": "forskningsradet-for-miljo-areella-naringar-och-samhallsbyggande",
+ "department": "Klimat- och näringslivsdepartementet",
+ "expenditure_areas": [
+  20
+ ],
+ "registry_numbers": [
+  "KN2026/01696"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1"
+  ],
+  "bet": [
+   "2025/26:MJU1"
+  ],
+  "rskr": [
+   "2025/26:128"
+  ]
+ },
+ "n_attachments_stated": 1,
+ "mission": "",
+ "goals": [
+  {
+   "title": "Beviljade och utbetalade medel",
+   "group": [],
+   "text": "Formas ska redovisa hur beviljade och utbetalade medel har fördelats mellan olika kategorier av mottagare och mellan olika stödformer. Återrapporteringen ska, om det är möjligt, redovisas i form av tidsserier för de fem senaste budgetåren, med undantag för posten utbetalda medel. Statistiken ska i tillämpliga delar redovisas fördelad efter kön respektive ålder. Statistiken ska även redovisas per område för områdena miljö, areella näringar och samhällsbyggande.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "fördela_medel",
+    "statistik_data"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27478:goals:0"
+  },
+  {
+   "title": "Medel enligt särskilda villkor",
+   "group": [],
+   "text": "Formas ska redovisa hur de medel som utbetalats till Stockholm Environment Institute (SEI), till Stiftelsen Institutet för vatten- och luftvårdsforskning (SIVL), till RISE Research Institutes of Sweden AB och till Stiftelsen Skogsbrukets forskningsinstitut (Skogforsk) har använts. Formas ska även redovisa vilket resultat som har uppnåtts, inklusive i den utsträckning det är möjligt, förväntade effekter.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "fördela_medel"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27478:goals:1"
+  },
+  {
+   "title": "Svenskt deltagande i Horisont Europa",
+   "group": [],
+   "text": "Formas ska redovisa vilka insatser som har bedömts relevanta och vidtagits för att myndigheten ska bidra till de mål som anges i den nationella strategin för svenskt deltagande i Horisont Europa 2021–2027 (U2021/03975).",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27478:goals:2"
+  },
+  {
+   "title": "Öka förmågan att använda AI och ny teknik genom datadrivet arbete",
+   "group": [],
+   "text": "Formas ska redovisa i vilken utsträckning myndigheten arbetar datadrivet, vilka åtgärder myndigheten vidtagit för att förbättra sin förmåga att arbeta datadrivet samt en bedömning av vilket resultat åtgärderna har lett till. Formas ska även redovisa på vilket sätt arbetet med data och AI har bidragit till att utveckla verksamheten och höja kvaliteten i utförandet av myndighetens uppgifter. Av redovisningen ska det framgå hur myndigheten beaktar risker och arbetar för att användning av data och AI sker på ett etiskt, säkert och icke-diskriminerande sätt. Eventuella hinder eller framgångsfaktorer för datadrivet arbete och användande av AI-teknik ska även redovisas.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla",
+    "statistik_data",
+    "digitalisering_ai"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27478:goals:3"
+  }
+ ],
+ "org": [],
+ "assignments": [
+  {
+   "title": "Prognoser",
+   "group": [],
+   "text": "Formas ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Prognoserna lämnas i informationssystemet Hermes senast den\n\n- 2 februari,\n\n- 22 april,\n\n- 24 juli, och\n\n- 9 november.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27478:assignments:0"
+  },
+  {
+   "title": "Prognoser för beställningsbemyndiganden",
+   "group": [],
+   "text": "Myndigheten ska redovisa en prognos för de förslag om beställningsbemyndiganden som lämnats i budgetunderlaget och för de åtaganden som ingåtts med stöd av äldre beställningsbemyndiganden. Prognosen ska lämnas senast den 24 juli 2026 via Statsredovisningssystemet i Hermes och utformas enligt närmare information från Statskontoret.",
+   "dates": [
+    "2026-07-24"
+   ],
+   "deadlines": [
+    "2026-07-24"
+   ],
+   "forecast_dates": [],
+   "recipients": [],
+   "partners": [
+    "Statskontoret"
+   ],
+   "channels": [
+    "hermes",
+    "budgetunderlag"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27478:assignments:1"
+  },
+  {
+   "title": "Uppdrag att förlänga nationella forskningsprogram",
+   "group": [],
+   "text": "Myndigheten fick 2017 i uppdrag att inrätta tioåriga nationellaforskningsprogram (U2017/02404) inom områdena klimat och hållbartsamhällsbyggande (M2017/01282) respektive livsmedel (N2017/03897,N2019/03246). Uppdragen ändras på så sätt att programperiodenförlängs med två år. De pågår därmed till och med 2028.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27478:assignments:2"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "2:1",
+   "name": "Forskningsrådet för miljö, areella näringar och samhällsbyggande",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 20,
+    "name": "Klimat, miljö och natur"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Forskningsrådet för miljö, areella näringar och samhällsbyggande",
+     "amount_tkr": 139279,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Forskningsrådet för miljö, areella näringar och samhällsbyggande: Förvaltningskostnader (ram)",
+       "amount_tkr": 127505
+      },
+      {
+       "ap": "2",
+       "name": "Forskn.rådet - till Klimatpolitiska rådet (ram)",
+       "amount_tkr": 11774
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Forskningsrådet för miljö, areella näringar och samhällsbyggande: Förvaltningskostnader",
+     "text": "Anslagsposten får användas för Forskningsrådet för miljö, areella näringar och samhällsbyggandes (Formas) förvaltningsutgifter."
+    },
+    {
+     "ap": "2",
+     "name": "Forskn.rådet - till Klimatpolitiska rådet",
+     "text": "Anslagsposten får användas för kostnader för Klimatpolitiska rådet."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "2:2",
+   "name": "Forskningsrådet för miljö, areella näringar och samhällsbyggande: Forskning",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 20,
+    "name": "Klimat, miljö och natur"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Forskningsrådet för miljö, areella näringar och samhällsbyggande",
+     "amount_tkr": 1140408,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Forskningsrådet för miljö, areella näringar och samhällsbyggande: Forskning (ram)",
+       "amount_tkr": 1140408
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Forskningsrådet för miljö, areella näringar och samhällsbyggande: Forskning",
+     "text": "01. Anslaget får användas för utgifter för stöd till forskning inom områdena miljö och samhällsbyggande.\n02. Anslaget får även användas för vissa projektrelaterade kostnader, som utvärderingar, beredningsarbete, konferenser, revision, verksamhetsrelaterade it-system, resor och seminarier samt informationsinsatser.\n03. Stipendier som är avsedda att vara ett alternativ till lön eller annan form av studiefinansiering för doktorander får inte finansieras via anslaget.\n04. Bidrag för forskningsprojekt vid universitet och högskolor ska omfatta medel för de direkta och de indirekta kostnaderna i samma proportioner som beräknats för projektet i dess helhet.\n05. När det gäller stöd till företag får medel disponeras i enlighet med förordningen (2017:195) om stöd till forskning och utveckling samt innovation inom miljö, areella näringar och samhällsbyggande. Stöd till företag får inte lämnas, om det samlade årliga beloppet överskrids enligt vad som följer av artikel 1.2 a i kommissionens förordning (EU) nr 651/2014 av den 17 juni 2014 genom vilken vissa kategorier av stöd förklaras förenliga med den inre marknaden enligt artiklarna 107 och 108 i fördraget.\n06. Minst 20 000 000 kronor ska användas till en satsning på kemikalieforskning i enlighet med vad som anges i regeringens proposition Forskning och innovation för framtid, nyfikenhet och nytta (prop. 2024/25:60) samt enligt regeringsuppdraget En kemikaliesäker framtid i en giftfri cirkulär ekonomi (KN2025/00120).\n07. Minst 135 000 000 kronor ska användas till det nationella forskningsprogrammet för hållbart samhällsbyggande i enlighet med den justerade inriktningen för programmet i regeringens proposition Forskning och innovation för framtid, nyfikenhet och nytta (prop. 2024/25:60), samt i enlighet med regeringsuppdraget M2017/01282.\n08. Minst 230 000 000 kronor ska användas till det nationella forskningsprogrammet om klimat i enlighet med regeringsuppdraget M2017/01282 och regeringens proposition Forskning och innovation för framtid, nyfikenhet och nytta (prop. 2024/25:60).\n09. Minst 80 000 000 kronor ska användas till det nationella forskningsprogrammet om hav och vatten (M2021/01625) och regeringens proposition Forskning och innovation för framtid, nyfikenhet och nytta (prop. 2024/25:60).\n10. Minst 62 500 000 kronor ska användas till strategiska innovationsområden (N2021/02520).\n11. Formas ska betala ut 35 000 000 kronor till Stiftelsen Institutet för vatten- och luftvårdsforskning (SIVL) för basfinansiering och samfinansierad miljöteknikforskning vid IVL Svenska miljöinstitutet AB. Av dessa medel ska minst 20 000 000 kronor användas för samfinansierad forskning med näringslivet eller för nationell finansiering av EU-projekt.\n12. Formas ska betala ut 34 000 000 kronor till Stockholm Environment Institute (SEI) för institutets basfinansiering och samfinansierad forskning. Medlen ska användas bl.a. för att finansiera aktuella projektarbeten. Minst 9 000 000 kronor ska användas för samfinansierad forskning eller för nationell finansiering av EU-projekt. Minst 2 000 000 kronor ska användas för genomförande av den ledarskapsgrupp för industriomställning som Sverige lanserade vid FN:s klimattoppmöte i New York i september 2019.\n13. Formas ska bidra med 7 000 000 kronor till Polarforskningssekretariatet för drift och hyra av isbrytaren Oden i samband med arktisk forskningsverksamhet. Formas ska inhämta en redovisning från Polarforskningssekretariatet av hur medlen har använts."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "2:1 Forskningsrådet för miljö, areella näringar och samhällsbyggande",
+   "ap": "ap.1",
+   "Anslagskredit": 3825,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:1 Forskningsrådet för miljö, areella näringar och samhällsbyggande",
+   "ap": "ap.2",
+   "Anslagskredit": 353,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:2 Forskningsrådet för miljö, areella näringar och samhällsbyggande: Forskning",
+   "ap": "ap.1",
+   "Anslagskredit": 34212,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 4500,
+  "Räntekontokredit": 8000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 11606
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 11606
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 11606
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 11606
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 11606
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 11606
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 11606
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 11606
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 11606
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 11606
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 11606
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 11613
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "2:1 Forskningsrådet för miljö, areella näringar och samhällsbyggande",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "3 825",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.2",
+     "353",
+     "3 %",
+     "0"
+    ],
+    [
+     "2:2 Forskningsrådet för miljö, areella näringar och samhällsbyggande: Forskning",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "34 212",
+     "Inget",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Beställningsbemyndiganden",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Bemyndigande",
+     "Utgifter mot anslag till följd av ekonomiska åtaganden",
+     "",
+     "",
+     ""
+    ],
+    [
+     "2026",
+     "2027",
+     "2028",
+     "2029 -",
+     "Slutår"
+    ],
+    [
+     "2:2 Forskningsrådet för miljö, areella näringar och samhällsbyggande: Forskning",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "2 200 000",
+     "900 000",
+     "800 000",
+     "500 000",
+     "2032"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "4 500"
+    ],
+    [
+     "Räntekontokredit",
+     "8 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "11 606"
+    ],
+    [
+     "2026-02-25",
+     "11 606"
+    ],
+    [
+     "2026-03-25",
+     "11 606"
+    ],
+    [
+     "2026-04-25",
+     "11 606"
+    ],
+    [
+     "2026-05-25",
+     "11 606"
+    ],
+    [
+     "2026-06-25",
+     "11 606"
+    ],
+    [
+     "2026-07-25",
+     "11 606"
+    ],
+    [
+     "2026-08-25",
+     "11 606"
+    ],
+    [
+     "2026-09-25",
+     "11 606"
+    ],
+    [
+     "2026-10-25",
+     "11 606"
+    ],
+    [
+     "2026-11-25",
+     "11 606"
+    ],
+    [
+     "2026-12-25",
+     "11 613"
+    ],
+    [
+     "Summa",
+     "139 279"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "2:1 ap.1",
+     "Forskningsrådet för miljö, areella näringar och samhällsbyggande: Förvaltningskostnader"
+    ],
+    [
+     "2:1 ap.2",
+     "Forskn.rådet - till Klimatpolitiska rådet"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [],
+ "has_fee_section": false,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 4,
+  "n_org": 0,
+  "n_assignments": 3,
+  "n_deadlines": 1,
+  "deadlines": [
+   "2026-07-24"
+  ],
+  "partners": [
+   "Statskontoret"
+  ],
+  "n_appropriations": 2,
+  "appropriations_total_tkr": 1279687,
+  "payment_plan_total_tkr": 139279,
+  "md_chars": 12241
+ },
+ "layout": "standard",
+ "warnings": []
+}

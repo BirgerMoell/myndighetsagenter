@@ -1,0 +1,620 @@
+{
+ "schema_version": 1,
+ "id": 25932,
+ "original_rbid": 25932,
+ "type": "Regleringsbrev",
+ "category": "Myndighet",
+ "date": "2025-12-18",
+ "year": "2026",
+ "name": "Institutet för språk och folkminnen",
+ "slug": "institutet-for-sprak-och-folkminnen",
+ "department": "Kulturdepartementet",
+ "expenditure_areas": [
+  17
+ ],
+ "registry_numbers": [
+  "Ku2025/01141 (delvis)",
+  "Ku2025/01268"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1"
+  ],
+  "bet": [
+   "2025/26:KrU1"
+  ],
+  "rskr": [
+   "2025/26:83"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "",
+ "goals": [
+  {
+   "title": "Forsknings- och utvecklingsinsatser inom kulturområdet",
+   "group": [],
+   "text": "Institutet för språk och folkminnen ska redovisa hur myndigheten har använt eller fördelat medlen från anslag 1:4 Forsknings- och utvecklingsinsatser inom kulturområdet. Redovisningen ska omfatta\n\n- vilka strategiska prioriteringar som legat till grund för användningen eller fördelningen av medel,\n- vilka insatser som finansierats eller delfinansierats av anslaget under året,\n- på vilket sätt insatserna förväntas bidra till kulturområdets utveckling, och\n- en resultatbedömning av genomförda insatser.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "fördela_medel"
+   ],
+   "anslag_refs": [
+    "1:4"
+   ],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "vilka strategiska prioriteringar som legat till grund för användningen eller fördelningen av medel,",
+    "vilka insatser som finansierats eller delfinansierats av anslaget under året,",
+    "på vilket sätt insatserna förväntas bidra till kulturområdets utveckling, och",
+    "en resultatbedömning av genomförda insatser."
+   ],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25932:goals:0"
+  },
+  {
+   "title": "Bevara och tillgängliggöra kulturarvet genom digitisering och digitalisering",
+   "group": [],
+   "text": "Institutet för språk och folkminnen ska redovisa resultatet av arbetet med digitisering och digitalisering av myndighetens samlingar. Av redovisningen ska följande framgå\n\n- samlingarnas storlek, inklusive årets tillväxt\n- hur stort antal i och andel av samlingarna som är digital\n- hur stor andel av samlingarna som är digitalt tillgänglig\n- vilka delar av resultatet som härrör från den medelsförstärkning som myndigheten har tilldelats\n- vilka kostnader som myndigheten har haft för arbetet med digitisering och digitalisering.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "digitalisering_ai"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "samlingarnas storlek, inklusive årets tillväxt",
+    "hur stort antal i och andel av samlingarna som är digital",
+    "hur stor andel av samlingarna som är digitalt tillgänglig",
+    "vilka delar av resultatet som härrör från den medelsförstärkning som myndigheten har tilldelats",
+    "vilka kostnader som myndigheten har haft för arbetet med digitisering och digitalisering."
+   ],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25932:goals:1"
+  },
+  {
+   "title": "Lokalkostnader",
+   "group": [],
+   "text": "Institutet för språk och folkminnen ska specificera myndighetens totala lokalkostnader för 2026 enligt följande\n\n- hyra\n- el och uppvärmning\n- reparationer och underhåll\n- övriga driftskostnader.\n\nOm myndigheten har fler än en hyresvärd ska kostnaderna fördelas per hyresvärd.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "fördela_medel"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [
+    "el och uppvärmning",
+    "reparationer och underhåll",
+    "övriga driftskostnader."
+   ],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25932:goals:2"
+  },
+  {
+   "title": "Sponsringsintäkter",
+   "group": [],
+   "text": "Institutet för språk och folkminnen ska särredovisa eventuella sponsringsintäkter i not till resultaträkningen.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25932:goals:3"
+  },
+  {
+   "title": "Bidragsintäkter",
+   "group": [],
+   "text": "Institutet för språk och folkminnen ska särredovisa fördelningen av eventuella bidragsintäkter mellan statliga bidrag, icke-statliga bidrag respektive bidrag från mellanstatliga organ i not till resultaträkningen.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25932:goals:4"
+  }
+ ],
+ "org": [],
+ "assignments": [
+  {
+   "title": "AI och datadrivet arbete",
+   "group": [],
+   "text": "Institutet för språk och folkminnen ska redovisa i vilken utsträckning myndigheten arbetar datadrivet och hur AI fortsatt används i verksamheten. Myndigheten ska även redogöra för på vilket sätt arbetet med data och AI har bidragit till att utveckla verksamheten och höja kvaliteten i utförandet av myndighetens uppgifter och uppdrag. Av redovisningen ska framgå hur myndigheten beaktar risker och arbetar för att användning av data och AI sker på ett etiskt, säkert och icke-diskriminerande sätt. Eventuella hinder eller framgångsfaktorer för datadrivet arbete och användande av AI ska även redovisas. Uppdraget ska redovisas till Regeringskansliet (Kulturdepartementet) senast den 4 maj 2026.",
+   "dates": [
+    "2026-05-04"
+   ],
+   "deadlines": [
+    "2026-05-04"
+   ],
+   "recipients": [
+    "Regeringskansliet (Kulturdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla",
+    "statistik_data",
+    "digitalisering_ai"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "25932:assignments:0"
+  },
+  {
+   "title": "Kiruna - Europeisk kulturhuvudstad 2029",
+   "group": [],
+   "text": "Institutet för språk och folkminnen ska i dialog med Kiruna kommun se över möjligheterna att medverka inför och under evenemanget Europeisk kulturhuvudstad 2029.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "samordna",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "25932:assignments:1"
+  },
+  {
+   "title": "Prognoser 2026–2029",
+   "group": [],
+   "text": "Myndigheten ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Prognoserna lämnas i informationssystemet Hermes senast den\n\n- 2 februari\n- 24 juli\n- 9 november.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "25932:assignments:2"
+  },
+  {
+   "title": "Tidigare givet uppdrag i regleringsbrev eller särskilda regeringsbeslut",
+   "group": [],
+   "text": "| | | |\n| --- | --- | --- |\n| Sammanfattning av uppdraget | Beslut om uppdraget | Rapporteringstidpunkt |\n| Uppdrag till Institutet för språk och folkminnen att stärka arbetet med språkteknologi och språkvård för meänkieli | Ku2025/00686 | Delredovisning till Regeringskansliet (Kulturdepartementet) senast den 31 mars 2026. Slutredovisning till Regeringskansliet (Kulturdepartementet) senast den 1 mars 2028. |\n| Svenskt-judiskt liv 250 år | Ku2024/01288 | Redovisning till Regeringskansliet (Kulturdepartementet) senast den 31 mars 2026 |\n\n*För regeringsuppdrag som lämnats i ett särskilt regeringsbeslut utgör tabellen endast en upplysning om vilka uppdrag som vid årets början var riktade till myndigheten och vilka tider som då gällde för återrapportering eller liknande.*",
+   "dates": [
+    "2026-03-31",
+    "2028-03-01"
+   ],
+   "deadlines": [
+    "2026-03-31",
+    "2028-03-01"
+   ],
+   "recipients": [
+    "Regeringskansliet (Kulturdepartementet)"
+   ],
+   "partners": [],
+   "channels": [
+    "delredovisning",
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "25932:assignments:3"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "1:4",
+   "name": "Forsknings- och utvecklingsinsatser inom kulturområdet",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 17,
+    "name": "Kultur, medier, trossamfund och fritid"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Institutet för språk och folkminnen",
+     "amount_tkr": 1292,
+     "items": [
+      {
+       "ap": "11",
+       "name": "Institutet för språk och folkminnen (ram)",
+       "amount_tkr": 1292
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "11",
+     "name": "Institutet för språk och folkminnen",
+     "text": "Anslagsposten får användas för utgifter för forsknings- och utvecklingsinsatser. Anslagsposten får även användas för utgifter för administration och genomförande av verksamheten."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "3:3",
+   "name": "Institutet för språk och folkminnen",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 17,
+    "name": "Kultur, medier, trossamfund och fritid"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Institutet för språk och folkminnen",
+     "amount_tkr": 78893,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Institutet för språk och folkminnen (ram)",
+       "amount_tkr": 78893
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Institutet för språk och folkminnen",
+     "text": "Anslagsposten får användas för Institutet för språk och folkminnens förvaltningsutgifter."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "1:4 Forsknings- och utvecklingsinsatser inom kulturområdet",
+   "ap": "ap.11",
+   "Anslagskredit": 38,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "3:3 Institutet för språk och folkminnen",
+   "ap": "ap.1",
+   "Anslagskredit": 2366,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 4500,
+  "Räntekontokredit": 4617
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 6682
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 6682
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 6682
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 6682
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 6682
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 6682
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 6682
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 6682
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 6682
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 6682
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 6682
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 6683
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:4 Forsknings- och utvecklingsinsatser inom kulturområdet",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.11",
+     "38",
+     "Inget",
+     "0"
+    ],
+    [
+     "3:3 Institutet för språk och folkminnen",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "2 366",
+     "3 %",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "4 500"
+    ],
+    [
+     "Räntekontokredit",
+     "4 617"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "6 682"
+    ],
+    [
+     "2026-02-25",
+     "6 682"
+    ],
+    [
+     "2026-03-25",
+     "6 682"
+    ],
+    [
+     "2026-04-25",
+     "6 682"
+    ],
+    [
+     "2026-05-25",
+     "6 682"
+    ],
+    [
+     "2026-06-25",
+     "6 682"
+    ],
+    [
+     "2026-07-25",
+     "6 682"
+    ],
+    [
+     "2026-08-25",
+     "6 682"
+    ],
+    [
+     "2026-09-25",
+     "6 682"
+    ],
+    [
+     "2026-10-25",
+     "6 682"
+    ],
+    [
+     "2026-11-25",
+     "6 682"
+    ],
+    [
+     "2026-12-25",
+     "6 683"
+    ],
+    [
+     "Summa",
+     "80 185"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "1:4 ap.11",
+     "Institutet för språk och folkminnen"
+    ],
+    [
+     "3:3 ap.1",
+     "Institutet för språk och folkminnen"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Verksamhet med full kostnadstäckning",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Försäljning av varor och annan uppdragsverksamhet1",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0"
+    ],
+    [
+     "Tjänsteexport1",
+     "0",
+     "0",
+     "100",
+     "100",
+     "0",
+     "0"
+    ],
+    [
+     "Summa",
+     "0",
+     "0",
+     "100",
+     "100",
+     "0",
+     "0"
+    ],
+    [
+     "Övrig avgiftsbelagd verksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Intäkter av avgifter enligt 11 § i myndighetens instruktion3",
+     "1 500"
+    ]
+   ]
+  }
+ ],
+ "has_fee_section": true,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 5,
+  "n_org": 0,
+  "n_assignments": 4,
+  "n_deadlines": 3,
+  "deadlines": [
+   "2026-03-31",
+   "2026-05-04",
+   "2028-03-01"
+  ],
+  "partners": [],
+  "n_appropriations": 2,
+  "appropriations_total_tkr": 80185,
+  "payment_plan_total_tkr": 80185,
+  "md_chars": 8436
+ },
+ "layout": "standard",
+ "warnings": []
+}

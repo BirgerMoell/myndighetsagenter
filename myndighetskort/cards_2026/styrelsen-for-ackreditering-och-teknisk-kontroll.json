@@ -1,0 +1,660 @@
+{
+ "schema_version": 1,
+ "id": 26256,
+ "original_rbid": 25776,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-04-01",
+ "year": "2026",
+ "name": "Styrelsen för ackreditering och teknisk kontroll",
+ "slug": "styrelsen-for-ackreditering-och-teknisk-kontroll",
+ "department": "Utrikesdepartementet",
+ "expenditure_areas": [
+  24
+ ],
+ "registry_numbers": [
+  "UD2026/05752"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1"
+  ],
+  "bet": [
+   "2025/26:NU1"
+  ],
+  "rskr": [
+   "2025/26:129"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "Huvudsakliga uppgifter för Swedac framgår av förordningen (2021:1252) med instruktion för Styrelsen för ackreditering och teknisk kontroll.",
+ "goals": [
+  {
+   "title": "Öka förmågan att använda AI och ny teknik genom datadrivet arbete",
+   "group": [],
+   "text": "Swedac ska redovisa i vilken utsträckning de arbetar datadrivet, vilka åtgärder de vidtagit för att förbättra sin förmåga att arbeta datadrivet, samt en bedömning av vilket resultat åtgärderna har lett till. Swedac ska även redovisa på vilket sätt arbetet med data och AI har bidragit till att utveckla verksamheten och höja kvaliteten i utförandet av myndighetens uppgifter. Av redovisningen ska framgå hur myndigheten beaktar risker och arbetar för att användning av data och AI sker på ett etiskt, säkert och icke-diskriminerande sätt. Eventuella hinder eller framgångsfaktorer för datadrivet arbete och användande av AI-teknik ska även redovisas. Uppdraget ska redovisas senast den 15 maj 2026.",
+   "dates": [
+    "2026-05-15"
+   ],
+   "deadlines": [
+    "2026-05-15"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla",
+    "statistik_data",
+    "digitalisering_ai"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26256:goals:0"
+  },
+  {
+   "title": "Genomförande av utrikeshandelstrategin",
+   "group": [],
+   "text": "Swedac ska redovisa vilka insatser myndigheten har genomfört inom ramen för sitt verksamhetsområde att i samarbete med andra myndigheter och främjandeaktörer medverka till genomförandet av regeringens Strategi för Sveriges utrikeshandel, investeringar och global konkurrenskraft (UD2023/01758).",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26256:goals:1"
+  },
+  {
+   "title": "Utvärdering av utrikeshandelsstrategin",
+   "group": [],
+   "text": "Swedac ska bidra med information till Statskontorets utvärdering av genomförandet av strategin för Sveriges utrikeshandels, investeringar och globala konkurrenskraft, med särskild bäring på synergier mellan utvecklingssamarbete, handelsfrämjandet och handelspolitiken. Statskontoret ska bl.a. utvärdera i vilken utsträckning genomförda insatser under perioden 30 november 2023-30 april 2026 har bidragit till att uppnå strategins mål.",
+   "dates": [
+    "2023-11-30",
+    "2026-04-30"
+   ],
+   "deadlines": [],
+   "recipients": [
+    "Statskontoret"
+   ],
+   "partners": [
+    "Statskontoret"
+   ],
+   "channels": [],
+   "task_types": [
+    "analysera",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26256:goals:2"
+  },
+  {
+   "title": "Fördjupa den inre marknaden",
+   "group": [],
+   "text": "Swedac ska redovisa hur myndigheten arbetar med att ta fram underlag och analyser för svenska positioner i arbetet med att omsätta relevanta förslag i inre marknadsstrategin (COM(2025)500) med särskilt fokus på förenkling, digitalisering och efterlevnad, inklusive stöd i förhandlingar av relevanta rättsakter.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "digitalisering_ai"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26256:goals:3"
+  },
+  {
+   "title": "Genomförande av ekodesignförordningen",
+   "group": [],
+   "text": "Swedac ska redovisa hur myndigheten, tillsammans med Naturvårdsverket, Statens energimyndighet, Kemikalieinspektionen och Upphandlingsmyndigheten har utarbetat synpunkter och förslag samt varit pådrivande i ekodesignforumet och dess expertgrupp för medlemsstater och i andra relevanta processer för genomförandet av Europaparlamentets och rådets förordning (EU) 2024/1781 av den 13 juni 2024 om upprättande av en ram för att fastställa ekodesignkrav för hållbara produkter, om ändring av direktiv (EU) 2020/1828 och förordning (EU) 2023/1542 och om upphävande av direktiv 2009/125/EG.",
+   "dates": [
+    "2024-06-13"
+   ],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Kemikalieinspektionen",
+    "Naturvårdsverket",
+    "Statens energimyndighet",
+    "Upphandlingsmyndigheten"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla",
+    "tillsyn_kontroll",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26256:goals:4"
+  }
+ ],
+ "org": [],
+ "assignments": [
+  {
+   "title": "Marknadskontroll för ökad regelefterlevnad",
+   "group": [],
+   "text": "Swedac ska inom ramen för tillämpningen av Europaparlamentets och rådets förordning 2019/1020 (EU) om marknadskontroll och Europaparlamentets och rådets förordning 2022/2065 (EU) om digitala tjänster prioritera arbetet med marknadskontroll och bidra till aktiviteter på europeisk nivå som har särskilt fokus på e-handel med produkter som inte lever upp till EU-lagstiftning. Myndigheten ska vidare beskriva hur myndigheten har samarbetat med övriga berörda marknadskontrollmyndigheter och Tullverket, samt vad samarbetet har lett till i form av operativa insatser avseende e-handel från tredje land. Myndigheten ska senast den 30 juli 2026 delredovisa uppdraget till Regeringskansliet (Utrikesdepartementet med kopia till Finansdepartementet). Uppdraget ska slutredovisas senast den 31 mars 2027.",
+   "dates": [
+    "2026-07-30",
+    "2027-03-31"
+   ],
+   "deadlines": [
+    "2026-07-30",
+    "2027-03-31"
+   ],
+   "recipients": [
+    "Regeringskansliet (Utrikesdepartementet med kopia till Finansdepartementet)"
+   ],
+   "partners": [
+    "Tullverket"
+   ],
+   "channels": [
+    "delredovisning",
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "tillsyn_kontroll",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26256:assignments:0"
+  },
+  {
+   "title": "Uppdrag att driva förstärka och påskynda förenklingsarbetet",
+   "group": [],
+   "text": "Swedac ska förenkla för företag genom att under 2026–2028 uppdatera, kvalitetssäkra och förvalta myndighetens innehåll på den myndighetsgemensamma webbplatsen verksamt.se.\n\nSwedac ska i samverkan med övriga marknadskontrollmyndigheter och Tullverket undersöka och kostnadsberäkna förutsättningarna för en gemensam plattform för information om produktregler för att underlätta för företag. I uppdraget ingår att undersöka användning av befintliga plattformar, exempelvis Verksamt.se, och liknande initiativ i Sverige och EU:s medlemsländer.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Tullverket"
+   ],
+   "channels": [],
+   "task_types": [
+    "samordna",
+    "tillsyn_kontroll",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26256:assignments:1"
+  },
+  {
+   "title": "Kvalitetsinfrastruktur i Ukraina",
+   "group": [],
+   "text": "Swedac ska tillsammans med Styrelsen för internationellt utvecklingssamarbete (Sida) och Svenska Institutet för Standarder (SIS) arbeta vidare med att stödja insatser som bistår Ukrainas kvalitetsinfrastruktur och dess kapacitet som en del av landets återuppbyggnad. Uppdraget ska delredovisas senast den 15 april 2026 respektive 2027. Uppdraget ska slutredovisas senast den 1 september 2028.",
+   "dates": [
+    "2026-04-15",
+    "2028-09-01"
+   ],
+   "deadlines": [
+    "2026-04-15",
+    "2028-09-01"
+   ],
+   "recipients": [],
+   "partners": [
+    "Styrelsen för internationellt utvecklingssamarbete"
+   ],
+   "channels": [
+    "delredovisning",
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26256:assignments:2"
+  },
+  {
+   "title": "Svensk kvalitetsinfrastruktur och ökad digitalisering",
+   "group": [],
+   "text": "Swedac ska driva utvecklingen av kvalitetsinfrastrukturen med fokus på digitalisering för att vidareutveckla och anpassa den svenska kvalitetsinfrastrukturen inför framtiden. Detta som ett stöd för produkters och tjänsters säkerhet, kvalitet och internationella konkurrenskraft. Swedac ska utöver digitalisering även beakta systemets effektivitet, värdeskapande och att utvecklingen är intressentdriven och ske i samråd med berörda aktörer. Uppdraget ska delredovisas senast den 31 mars 2026 och slutredovisas 31 mars 2027.",
+   "dates": [
+    "2026-03-31",
+    "2027-03-31"
+   ],
+   "deadlines": [
+    "2026-03-31"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "delredovisning",
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "utveckla",
+    "digitalisering_ai",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26256:assignments:3"
+  },
+  {
+   "title": "Utgiftsprognoser",
+   "group": [],
+   "text": "Swedac ska redovisa utgiftsprognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Prognoserna lämnas i informationssystemet Hermes senast den\n\n- 2 februari\n- 22 april\n- 24 juli och\n- 9 november.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "26256:assignments:4"
+  },
+  {
+   "title": "Pågående uppdrag",
+   "group": [],
+   "text": "| | | |\n| --- | --- | --- |\n| **Uppdrag** | **Beslut om uppdrag** | **Redovisningstidpunkt** |\n| Stärka och påskynda förenklingsarbetet | UD2024/17867 | Uppdraget ska slutredovisas senast den 15 mars 2026 |",
+   "dates": [
+    "2026-03-15"
+   ],
+   "deadlines": [
+    "2026-03-15"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "26256:assignments:5"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "2:1",
+   "name": "Styrelsen för ackreditering och teknisk kontroll: Myndighetsverksamhet",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 24,
+    "name": "Näringsliv"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Styrelsen för ackreditering och teknisk kontroll",
+     "amount_tkr": 37082,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Styrelsen för ackreditering och teknisk kontroll: Myndighetsverksamhet (ram)",
+       "amount_tkr": 37082
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Styrelsen för ackreditering och teknisk kontroll: Myndighetsverksamhet",
+     "text": "Anslagsposten får användas för Swedacs förvaltningsutgifter."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "2:1 Styrelsen för ackreditering och teknisk kontroll: Myndighetsverksamhet",
+   "ap": "ap.1",
+   "Anslagskredit": 1112,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 9000,
+  "Räntekontokredit": 12000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 3090
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 3090
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 3090
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 3090
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 3090
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 3090
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 3090
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 3090
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 3090
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 3090
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 3090
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 3092
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "2:1 Styrelsen för ackreditering och teknisk kontroll: Myndighetsverksamhet",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "1 112",
+     "3 %",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "9 000"
+    ],
+    [
+     "Räntekontokredit",
+     "12 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "3 090"
+    ],
+    [
+     "2026-02-25",
+     "3 090"
+    ],
+    [
+     "2026-03-25",
+     "3 090"
+    ],
+    [
+     "2026-04-25",
+     "3 090"
+    ],
+    [
+     "2026-05-25",
+     "3 090"
+    ],
+    [
+     "2026-06-25",
+     "3 090"
+    ],
+    [
+     "2026-07-25",
+     "3 090"
+    ],
+    [
+     "2026-08-25",
+     "3 090"
+    ],
+    [
+     "2026-09-25",
+     "3 090"
+    ],
+    [
+     "2026-10-25",
+     "3 090"
+    ],
+    [
+     "2026-11-25",
+     "3 090"
+    ],
+    [
+     "2026-12-25",
+     "3 092"
+    ],
+    [
+     "Summa",
+     "37 082"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "2:1 ap.1",
+     "Styrelsen för ackreditering och teknisk kontroll: Myndighetsverksamhet"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Offentligrättslig verksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Legal mätteknik och Ädelmetallkontroll1",
+     "1 939",
+     "-1 500",
+     "12 800",
+     "12 899",
+     "-99",
+     "340"
+    ],
+    [
+     "Uppdragsverksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Ackrediteringsverksamhet1",
+     "1 217",
+     "760",
+     "123 500",
+     "122 900",
+     "600",
+     "2 577"
+    ],
+    [
+     "Tjänsteexport1",
+     "392",
+     "-460",
+     "10 068",
+     "10 000",
+     "68",
+     "0"
+    ],
+    [
+     "Summa",
+     "1 609",
+     "300",
+     "133 568",
+     "132 900",
+     "668",
+     "2 577"
+    ]
+   ]
+  }
+ ],
+ "has_fee_section": true,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 5,
+  "n_org": 0,
+  "n_assignments": 6,
+  "n_deadlines": 7,
+  "deadlines": [
+   "2026-03-15",
+   "2026-03-31",
+   "2026-04-15",
+   "2026-05-15",
+   "2026-07-30",
+   "2027-03-31",
+   "2028-09-01"
+  ],
+  "partners": [
+   "Kemikalieinspektionen",
+   "Naturvårdsverket",
+   "Statens energimyndighet",
+   "Statskontoret",
+   "Styrelsen för internationellt utvecklingssamarbete",
+   "Tullverket",
+   "Upphandlingsmyndigheten"
+  ],
+  "n_appropriations": 1,
+  "appropriations_total_tkr": 37082,
+  "payment_plan_total_tkr": 37082,
+  "md_chars": 9875
+ },
+ "layout": "standard",
+ "warnings": []
+}

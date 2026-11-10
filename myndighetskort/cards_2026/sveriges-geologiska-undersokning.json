@@ -1,0 +1,1180 @@
+{
+ "schema_version": 1,
+ "id": 27520,
+ "original_rbid": 25918,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-07-23",
+ "year": "2026",
+ "name": "Sveriges geologiska undersökning",
+ "slug": "sveriges-geologiska-undersokning",
+ "department": "Klimat- och näringslivsdepartementet",
+ "expenditure_areas": [
+  24
+ ],
+ "registry_numbers": [
+  "KN2026/01584"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1"
+  ],
+  "bet": [
+   "2025/26:NU1"
+  ],
+  "rskr": [
+   "2025/26:131"
+  ]
+ },
+ "n_attachments_stated": 1,
+ "mission": "",
+ "goals": [
+  {
+   "title": "Mål för informationsförsörjning och främjande verksamhet",
+   "group": [],
+   "text": "",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27520:goals:0"
+  },
+  {
+   "title": "Återrapportering av informationsförsörjning och främjande verksamhet",
+   "group": [],
+   "text": "",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27520:goals:1"
+  },
+  {
+   "title": "Mål för handläggningsverksamhet",
+   "group": [],
+   "text": "",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27520:goals:2"
+  },
+  {
+   "title": "Återrapportering handläggningsverksamhet",
+   "group": [],
+   "text": "",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27520:goals:3"
+  },
+  {
+   "title": "Återrapporteringskrav",
+   "group": [],
+   "text": "",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27520:goals:4"
+  },
+  {
+   "title": "EU och internationell samverkan",
+   "group": [],
+   "text": "SGU ska redovisa de viktigaste initiativen inom EU-arbetet inom myndighetens verksamhetsområden. SGU ska också redovisa sitt deltagande i detta arbete och i övrigt internationellt samarbete.\n\nSGU ska även redovisa vilka åtgärder myndigheten har vidtagit i syfte att stärka sitt arbete med EU-processer.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "samordna",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27520:goals:5"
+  },
+  {
+   "title": "Geovetenskaplig forskning",
+   "group": [],
+   "text": "SGU ska redovisa vilka forskningsprojekt som har fått stöd av myndigheten från anslaget 1:9 Geovetenskaplig forskning inom utgiftsområde 24 Näringsliv, dess effekter samt i vilken utsträckning forskningsresultaten kommer till användning i myndighetens verksamhet.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [
+    "1:9"
+   ],
+   "expenditure_area_refs": [
+    24
+   ],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27520:goals:6"
+  },
+  {
+   "title": "Färdval och resepolicy vid tjänsteresor",
+   "group": [],
+   "text": "Alla trafikslag ska kunna nyttjas (väg, järnväg, luft- och sjöfart) för att säkerställa effektiva och ändamålsenliga transporter. SGU ska därför redovisa hur myndigheten har säkerställt att val av färdsätt vid tjänsteresor sker färdmedelsneutralt och utifrån behov. Vidare ska SGU redovisa huruvida myndigheten köpt in hållbart flygbränsle till organisationens flygresor. När kostnader jämförs för olika färdval ska hela resans kostnad beaktas, exempelvis kostnader för nödvändig övernattning samt total arbetstid för hela resan.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27520:goals:7"
+  },
+  {
+   "title": "Förenkla för företag genom verksamt.se",
+   "group": [],
+   "text": "SGU ska förvalta myndighetens innehåll på den myndighetsgemensamma webbplatsen verksamt.se.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27520:goals:8"
+  },
+  {
+   "title": "Åtgärder med anledning av Statskontorets rapport",
+   "group": [],
+   "text": "SGU ska redovisa vilka åtgärder som vidtagits och planeras med anledning av de förslag som lämnats i Statskontorets rapport Myndighetsanalys av Sveriges geologiska undersökning 2023:1 (KN2023/02087). SGU ska även redovisa hur detta arbete ska följas upp framöver.\\\nSGU ska särskilt redovisa vidtagna och planerade åtgärder för att den interna styrningen ska få ordentligt genomslag i organisationen. SGU ska även särskilt redovisa hur myndigheten har utvecklat sitt arbete med att stärka en god förvaltningskultur i myndigheten.\n\nUppdraget ska redovisas till Regeringskansliet (Klimat- och näringslivsdepartementet) senast den 3 mars 2027.",
+   "dates": [
+    "2027-03-03"
+   ],
+   "deadlines": [
+    "2027-03-03"
+   ],
+   "recipients": [
+    "Regeringskansliet (Klimat- och näringslivsdepartementet)"
+   ],
+   "partners": [
+    "Statskontoret"
+   ],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "utveckla"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27520:goals:9"
+  }
+ ],
+ "org": [
+  {
+   "title": "Säkerställa proaktivitet och handlingskraft vid fredstida krissituationer eller vid krig och krigsfara",
+   "group": [],
+   "text": "Myndigheten ska säkerställa att myndigheten har förmåga att agera proaktivt och handlingskraftigt i hanteringen av såväl fredstida krissituationer som vid krig och krigsfara. Utöver de krav som ställs i förordningen (2022:524) om statliga myndigheters beredskap ska myndigheten i detta syfte utbilda och öva sin personal samt se till att myndigheten stärker en kultur och arbetssätt som utgår från de krav som ett krig ställer.\n\nUppdraget ska redovisas till Regeringskansliet (Klimat- och näringslivsdepartementet och Försvarsdepartementet) senast den 22 februari 2027. Detta ska ingå i den särskilda redovisningen för civilt försvar.",
+   "dates": [
+    "2027-02-22"
+   ],
+   "deadlines": [
+    "2027-02-22"
+   ],
+   "recipients": [
+    "Regeringskansliet (Klimat- och näringslivsdepartementet och Försvarsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2022:524"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "org",
+   "item_id": "27520:org:0"
+  }
+ ],
+ "assignments": [
+  {
+   "title": "Remisser",
+   "group": [],
+   "text": "SGU ska till Regeringskansliet (Klimat- och näringslivsdepartementet) löpande redovisa ärenden av större betydelse, såväl samhällsekonomiskt som rättsligt, som handläggs inom remissverksamheten samt vid behov förse Regeringskansliet med skriftligt underlag.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [
+    "Regeringskansliet (Klimat- och näringslivsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27520:assignments:0"
+  },
+  {
+   "title": "Internationellt arbete",
+   "group": [],
+   "text": "SGU ska analysera de viktigaste initiativen inom EU-arbetet på myndighetens verksamhetsområden och de områden som kan påverka sektorn enligt myndighetens ansvar för näringslivsfrämjande i 3 § förordningen (2008:1233) med instruktion för Sveriges geologiska undersökning, och löpande redovisa detta samt vid behov förse Regeringskansliet (Klimat- och näringslivsdepartementet) med skriftligt underlag. SGU ska också lämna motsvarande redovisning beträffande myndighetens deltagande i internationellt arbete i övrigt.\n\nSGU ska bistå Regeringskansliet (Klimat- och näringslivsdepartementet) med information och analyser av relevanta EU-förslag.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2008:1233"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27520:assignments:1"
+  },
+  {
+   "title": "Genomförande av delar av förordningen om nettonollindustrin avseende koldioxidlagring och koldioxidavskiljning (CCS)",
+   "group": [],
+   "text": "SGU ska fullgöra de skyldigheter om offentliggörande av data som anges i artikel 21.1 i Europaparlamentets och rådets förordning (EU) 2024/1735 av den 13 juni 2024 om inrättande av en åtgärdsram för att stärka Europas ekosystem för tillverkning av nettonollteknik och om ändring av förordning (EU) 2018/1724 (förordningen om nettonollindustrin).\n\nSGU ska utreda vilka nettonolltekniker (enligt artikel 4 i Europaparlamentets och rådets förordning (EU) 2024/1735 av den 13 juni 2024 om inrättande av en åtgärdsram för att stärka Europas ekosystem för tillverkning av nettonollteknik och om ändring av förordning (EU) 2018/1724 ) som har en hemvist inom myndighetens ansvarsområden. SGU ska identifiera policyområden och regelverk inom sitt ansvarsområde som kan vara lämpliga för en regulatorisk sandlåda. SGU ska vidare uppmärksamma eventuella behov av undantag från nuvarande regelverk, eller avsaknad av regelverk och analysera möjliga försöksklausuler. För att förbereda inrättandet av regulatoriska sandlådor ska SGU ge förslag på hur rollen som behörig myndighet för regulatoriska sandlådor bör utformas så att det ska kunna fungera i Sverige.\n\nUppdraget sker i samverkan med Verket för innovationssystem (Vinnova) som har ett uppdrag att lämna förslag till en struktur för regulatoriska sandlådor för utvecklingen av nettonollteknik i Sverige enligt EU-förordningen om nettonollindustrin.\n\nUppdraget ska redovisas till Regeringskansliet (Klimat- och näringslivsdepartementet) den 20 maj 2026. När uppdraget utförs ska synpunkter inhämtas från relevanta aktörer.\n\nUppdraget sker i samverkan med Verket för innovationssystem (Vinnova) som har ett uppdrag att lämna förslag till en struktur för regulatoriska sandlådor för utvecklingen av nettonollteknik i Sverige enligt EU-förordningen om nettonollindustrin. I uppdraget ska myndigheten även ta hänsyn till de kommande genomförandeakterna inom ramen för EU-förordningen om nettonollindustrin. Uppdraget ska delredovisas till Regeringskansliet (Klimat- och näringslivsdepartementet) den 12 mars 2026, vad gäller att identifiera regelverk, och slutredovisas till Regeringskansliet (Klimat- och näringslivsdepartementet) den 20 maj 2026. När uppdraget utförs ska synpunkter inhämtas från relevanta aktörer.",
+   "dates": [
+    "2024-06-13",
+    "2026-03-12",
+    "2026-05-20"
+   ],
+   "deadlines": [],
+   "recipients": [
+    "Regeringskansliet (Klimat- och näringslivsdepartementet)"
+   ],
+   "partners": [
+    "Verket för innovationssystem"
+   ],
+   "channels": [
+    "delredovisning",
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "föreslå",
+    "samordna",
+    "utveckla",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27520:assignments:2"
+  },
+  {
+   "title": "Fortsatt utveckling av en databas över stängda utvinningsanläggningar",
+   "group": [],
+   "text": "SGU ska utveckla den databas som inrättats för att uppfylla kraven i artikel 27.4–27.8 i Europaparlamentets och rådets förordning (EU) 2024/1252 av den 11 april 2024 om inrättande av en ram för säkerställande av trygg och hållbar försörjning av kritiska råmaterial (EU-förordningen om kritiska råmaterial) i syfte att säkerställa bl.a. funktionalitet, rutiner för urval och uppdateringsrutiner samt vid behov föreslå författningsändringar. Myndigheten ska även genomföra en insamling och analys av de prover som behövs för att uppfylla förordningens krav enligt artikel 27.7.c. Myndigheten ska även utföra en fördjupad analys av åtgärder för återvinning enligt artikel 27.5 som beaktar anläggningsspecifika förutsättningar, branschens synpunkter och tidigare regeringsuppdrag. Redovisning av arbetet ska ske till Regeringskansliet (Klimat- och näringslivsdepartementet) senast den 23 oktober 2026.",
+   "dates": [
+    "2024-04-11",
+    "2026-10-23"
+   ],
+   "deadlines": [
+    "2026-10-23"
+   ],
+   "recipients": [
+    "Regeringskansliet (Klimat- och näringslivsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "föreslå",
+    "utveckla",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27520:assignments:3"
+  },
+  {
+   "title": "Förutsättningar för industriell omvandling och långsiktig konkurrenskraft",
+   "group": [],
+   "text": "SGU ska utföra de uppgifter och den rapportering som åligger Sverige enligt artikel 21 i EU-förordningen om kritiska råmaterial. Vad gäller artikel 21.2 ska SGU identifiera relevanta projekt och centrala marknadsaktörer inom prospekterings- och utvinningsledet i värdekedjan för kritiska råmaterial, med undantag för artikel 21.2.a.\n\nSGU ska slutredovisa uppdraget senast den 30 december 2026 till Regeringskansliet (Klimat- och näringslivsdepartementet)",
+   "dates": [
+    "2026-12-30"
+   ],
+   "deadlines": [
+    "2026-12-30"
+   ],
+   "recipients": [
+    "Regeringskansliet (Klimat- och näringslivsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27520:assignments:4"
+  },
+  {
+   "title": "Prognoser",
+   "group": [],
+   "text": "Myndigheten ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Prognoserna lämnas i informationssystemet Hermes senast den\n\n− 2 februari\n\n− 22 april\n\n− 24 juli\n\n− 9 november.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27520:assignments:5"
+  },
+  {
+   "title": "Prognos för beställningsbemyndiganden",
+   "group": [],
+   "text": "Myndigheten ska redovisa en prognos för de förslag om beställningsbemyndiganden som lämnats i budgetunderlaget och för de åtaganden som ingåtts med stöd av äldre beställningsbemyndiganden. Prognosen ska lämnas senast den 24 juli 2026 via Statsredovisningssystemet i Hermes och utformas enligt närmare information från Statskontoret.",
+   "dates": [
+    "2026-07-24"
+   ],
+   "deadlines": [
+    "2026-07-24"
+   ],
+   "forecast_dates": [],
+   "recipients": [],
+   "partners": [
+    "Statskontoret"
+   ],
+   "channels": [
+    "hermes",
+    "budgetunderlag"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27520:assignments:6"
+  },
+  {
+   "title": "Pågående uppdrag",
+   "group": [],
+   "text": "I*bilagan*redovisas SGU:s pågående uppdrag.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "27520:assignments:7"
+  },
+  {
+   "title": "Genomförande av EU:s reviderade vatten-, grundvatten- och prioämnesdirektiv",
+   "group": [],
+   "text": "Sveriges geologiska undersökning, i de delar som rör grundvatten, och Havs- och vattenmyndigheten, i de delar som rör ytvatten, ska i ett första steg göra en kartläggning av behovet av författningsändringar som är nödvändiga för att genomföra Europaparlamentets och rådets direktiv (EU) 2026/805 av den 30 mars 2026 om ändring av direktiv 2000/60/EG om upprättande av en ram för gemenskapens åtgärder på vattenpolitikens område, direktiv 2006/118/EG om skydd för grundvatten mot föroreningar och försämring och direktiv 2008/105/EG om miljökvalitetsnormer inom vattenpolitikens område.\n\nI ett andra steg ska Sveriges geologiska undersökning och Havs- och vattenmyndigheten ta fram ett gemensamt förslag om författningsändringar samt genomföra konsekvensanalyser av de föreslagna författningsändringarna.\n\nMyndigheterna ska inhämta synpunkter från de länsstyrelser som är vattenmyndigheter och vid behov även andra länsstyrelser.\n\nMyndigheterna ska löpande föra dialog med Regeringskansliet (Klimat-och näringslivsdepartementet) och redovisa sin kartläggning av behovet av författningsändringar, förslag till författningsändringar samt skäl och konsekvensbeskrivning för dessa samt eventuella övriga nya behov som har identifierats. Myndigheterna ska delredovisa kartläggningen till Regeringskansliet (Klimat- och näringslivsdepartementet) senast den 31 januari 2027 och slutredovisa uppdraget senast den 31 mars 2027.",
+   "dates": [
+    "2026-03-30",
+    "2027-01-31",
+    "2027-03-31"
+   ],
+   "deadlines": [
+    "2027-01-31",
+    "2027-03-31"
+   ],
+   "recipients": [
+    "Regeringskansliet (Klimat- och näringslivsdepartementet)"
+   ],
+   "partners": [
+    "Havs- och vattenmyndigheten"
+   ],
+   "channels": [
+    "delredovisning",
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna",
+    "utveckla",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27520:assignments:8"
+  },
+  {
+   "title": "Rapportering av uppdrag att utveckla arbetet med att informera om prospekteringsintressanta metaller och mineral",
+   "group": [],
+   "text": "Med ändring av regeringens uppdrag att utveckla arbetet med att informera om prospekteringsintressanta metaller och mineral samt att förstärka arbetet med övriga näringslivsfrämjande insatser (KN2024/00946) ska uppdraget i sin helhet slutredovisas den 15 mars 2027.",
+   "dates": [
+    "2027-03-15"
+   ],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "utveckla",
+    "informera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27520:assignments:9"
+  },
+  {
+   "title": "Uppföljning av samarbetsmöjligheter inom mineralområdet i internationella forum",
+   "group": [],
+   "text": "Utifrån regeringens inriktning som ges i Strategi för Sveriges utrikeshandel ska SGU identifiera samarbetsmöjligheter i internationella forum som till exempel FORGE, IEA och andra initiativ.\n\nUppdraget i sin helhet ska slutredovisas senast den 14 april 2027 till Regeringskansliet (Klimat- och näringslivsdepartementet).",
+   "dates": [
+    "2027-04-14"
+   ],
+   "deadlines": [
+    "2027-04-14"
+   ],
+   "recipients": [
+    "Regeringskansliet (Klimat- och näringslivsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27520:assignments:10"
+  },
+  {
+   "title": "Uppföljning av strategiska råmaterialprojekt enligt EU-förordningen om kritiska råmaterial",
+   "group": [],
+   "text": "SGU ska följa upp sådana svenska strategiska råmaterialprojekt som omfattas av EU-förordningen om kritiska råmaterial. Uppföljningen ska särskilt ta sikte på finansieringsmöjligheter i syfte att främja svenska aktörers möjligheter att ta del av de finansieringsinstrument som finns inom EU och i Sverige.\n\nUppdraget ska delredovisas senast den 14 april 2027 till Regeringskansliet (Klimat- och näringslivsdepartementet) med slutredovisning senast den 14 april 2028.",
+   "dates": [
+    "2027-04-14",
+    "2028-04-14"
+   ],
+   "deadlines": [
+    "2027-04-14",
+    "2028-04-14"
+   ],
+   "recipients": [
+    "Regeringskansliet (Klimat- och näringslivsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [
+    "delredovisning",
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27520:assignments:11"
+  },
+  {
+   "title": "Uppföljning av mål inom Sveriges mineralstrategi",
+   "group": [],
+   "text": "I enlighet med 3 § i myndighetens instruktion om att verka för att skapa goda förutsättningar för ett hållbart nyttjande av landets mineralresurser och att främja hållbar tillväxt och företagande inom sektorn ska SGU följa upp genomförandet av de långsiktiga målen i Sveriges mineralstrategi KN2026/01588 avseende svenska gruvor och deras produktion, gruvklustrets tillväxt och konkurrenskraft samt allmänhetens kunskap och acceptans om mineralnäringen.\n\nSGU ska ta fram kvantitativa indikatorer som kan ligga till grund för en uppföljning av de mål som anges i mineralstrategin och utifrån dessa göra kvalitativa analyser som ger en samlad lägesbild som bedömer måluppfyllnaden samt identifierar hinder, möjligheter och utvecklingsbehov.\n\nUtifrån regeringens inriktning som ges i Sveriges industristrategi ska SGU vidare följa upp och belysa de förutsättningar för gruv- och mineralnäringen som kopplar till de generella ramvillkoren för industrin.\n\nUppdraget ska delredovisas senast den 14 april 2027 till Regeringskansliet (Klimat- och näringslivsdepartementet) med slutredovisning den 14 april 2028.",
+   "dates": [
+    "2027-04-14",
+    "2028-04-14"
+   ],
+   "deadlines": [
+    "2027-04-14"
+   ],
+   "recipients": [
+    "Regeringskansliet (Klimat- och näringslivsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [
+    "delredovisning",
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla",
+    "statistik_data"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "27520:assignments:12"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "1:8",
+   "name": "Sveriges geologiska undersökning",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 24,
+    "name": "Näringsliv"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Sveriges geologiska undersökning",
+     "amount_tkr": 390747,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Geologisk undersökningsverksamhet m.m. (ram)",
+       "amount_tkr": 390747
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Geologisk undersökningsverksamhet m.m.",
+     "text": "1. Anslagsposten får användas för SGU:s förvaltningsutgifter.\n2. Av anslagsposten får högst 3 600 000 kronor användas för genomförande av förstudien om nya utvinningstekniker under 2026.\n3. Av anslagsposten får minst 90 000 000 kronor användas för stärkt kartläggning av malmpotentiella områden och arbetet med förbättrad konkurrenskraft för Sverige inom prospektering under 2026.\n4. Av anslagsposten får högst 9 500 000 kronor användas avseende uppgiften som beredskapsmyndighet under 2026.\n5. Av anslagsposten får högst 5 000 000 kronor användas för en snabbare ärendehantering hos Bergsstaten.\n6. Av anslagsposten får minst 9 000 000 kronor användas till myndighetens arbete med genomförande av förordningen om nettonollindustrin.\n7. Av anslagsposten får minst 10 000 000 kronor användas till myndighetens arbete med genomförande av EU-förordningen om kritiska råmaterial.\n8. Av anslagsposten får minst 2 000 000 kronor användas för arbete med de för SGU tillkommande uppgifter som följer av Sveriges genomförande av det nya dricksvattendirektivet."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "1",
+     "max": 3600000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "1",
+     "max": 9500000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "1",
+     "max": 5000000,
+     "unit": "kronor"
+    }
+   ]
+  },
+  {
+   "code": "1:9",
+   "name": "Geovetenskaplig forskning",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 24,
+    "name": "Näringsliv"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Sveriges geologiska undersökning",
+     "amount_tkr": 5923,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Geovetenskaplig forskning (ram)",
+       "amount_tkr": 5923
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Geovetenskaplig forskning",
+     "text": "Anslagsposten får användas för att främja och stödja riktad geovetenskaplig grundforskning och tillämpad forskning.\nFör 2027 ska medlen användas till grundforskning och tillämpad forskning om berggrundsgeologi med inriktning som bidrar till att uppnå syftet med EU:s kritiska råmaterialakt."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "1:10",
+   "name": "Miljösäkring av oljelagringsanläggningar",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 24,
+    "name": "Näringsliv"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Sveriges geologiska undersökning",
+     "amount_tkr": 14000,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Oljelagringsanläggningar m.m. samt Adak-fältet (ram)",
+       "amount_tkr": 14000
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Oljelagringsanläggningar m.m. samt Adak-fältet",
+     "text": "Anslagsposten får användas för att täcka statens kostnader för efterbehandling av tömda oljelagringsanläggningar och det statliga gruvfältet i Adak, Malå kommun, inklusive miljö- och funktionskontroll, förvaltning och nödvändiga underhålls- och miljösäkrande åtgärder vid efterbehandlade anläggningar.\nAnläggningstillgångar som hänförs till sanerings- och miljösäkringsarbetet får finansieras från anslagsposten."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "1:8 Sveriges geologiska undersökning",
+   "ap": "ap.1",
+   "Anslagskredit": 11722,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:9 Geovetenskaplig forskning",
+   "ap": "ap.1",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:10 Miljösäkring av oljelagringsanläggningar",
+   "ap": "ap.1",
+   "Anslagskredit": 420,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 196000,
+  "Räntekontokredit": 22000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 32562
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 32562
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 32562
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 32562
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 32562
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 32562
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 32562
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 32562
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 32562
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 32562
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 32562
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 32565
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:8 Sveriges geologiska undersökning",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "11 722",
+     "3 %",
+     "0"
+    ],
+    [
+     "1:9 Geovetenskaplig forskning",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "1:10 Miljösäkring av oljelagringsanläggningar",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "420",
+     "Inget",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Beställningsbemyndiganden",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Bemyndigande",
+     "Utgifter mot anslag till följd av ekonomiska åtaganden",
+     "",
+     "",
+     ""
+    ],
+    [
+     "2026",
+     "2027",
+     "2028",
+     "2029 -",
+     "Slutår"
+    ],
+    [
+     "1:9 Geovetenskaplig forskning",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "5 000",
+     "3 000",
+     "2 000",
+     "",
+     "2028"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "196 000"
+    ],
+    [
+     "Räntekontokredit",
+     "22 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "32 562"
+    ],
+    [
+     "2026-02-25",
+     "32 562"
+    ],
+    [
+     "2026-03-25",
+     "32 562"
+    ],
+    [
+     "2026-04-25",
+     "32 562"
+    ],
+    [
+     "2026-05-25",
+     "32 562"
+    ],
+    [
+     "2026-06-25",
+     "32 562"
+    ],
+    [
+     "2026-07-25",
+     "32 562"
+    ],
+    [
+     "2026-08-25",
+     "32 562"
+    ],
+    [
+     "2026-09-25",
+     "32 562"
+    ],
+    [
+     "2026-10-25",
+     "32 562"
+    ],
+    [
+     "2026-11-25",
+     "32 562"
+    ],
+    [
+     "2026-12-25",
+     "32 565"
+    ],
+    [
+     "Summa",
+     "390 747"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "1:8 ap.1",
+     "Geologisk undersökningsverksamhet m.m."
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Beräknad budget för avgiftsbelagd verksamhet där intäkterna disponeras",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Uppdragsverksamhet1",
+     "87",
+     "25",
+     "54 785",
+     "54 785",
+     "0",
+     "112"
+    ],
+    [
+     "Tjänsteexport1",
+     "805",
+     "0",
+     "1 250",
+     "1 250",
+     "0",
+     "805"
+    ],
+    [
+     "Summa",
+     "892",
+     "25",
+     "56 035",
+     "56 035",
+     "0",
+     "917"
+    ]
+   ]
+  },
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna ej disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "Ink. tit.",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Behörighet Inkomsttitlar",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Avgifter enligt minerallagen (1991:45)1",
+     "2528",
+     "0",
+     "0",
+     "45 000",
+     "0",
+     "45 000",
+     "45 000"
+    ],
+    [
+     "Mineralersättning1",
+     "2528",
+     "0",
+     "0",
+     "3 600",
+     "0",
+     "3 600",
+     "3 600"
+    ],
+    [
+     "Försäljning av oljelagringsanläggningar1",
+     "3312",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0"
+    ],
+    [
+     "Avgifter enligt 5 § kontinentalsockelförordningen (1966:315)1",
+     "2811",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0",
+     "0"
+    ],
+    [
+     "Summa",
+     "0",
+     "0",
+     "48 600",
+     "0",
+     "48 600",
+     "48 600"
+    ]
+   ]
+  }
+ ],
+ "has_fee_section": true,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 10,
+  "n_org": 1,
+  "n_assignments": 13,
+  "n_deadlines": 9,
+  "deadlines": [
+   "2026-07-24",
+   "2026-10-23",
+   "2026-12-30",
+   "2027-01-31",
+   "2027-02-22",
+   "2027-03-03",
+   "2027-03-31",
+   "2027-04-14",
+   "2028-04-14"
+  ],
+  "partners": [
+   "Havs- och vattenmyndigheten",
+   "Statskontoret",
+   "Verket för innovationssystem"
+  ],
+  "n_appropriations": 3,
+  "appropriations_total_tkr": 410670,
+  "payment_plan_total_tkr": 390747,
+  "md_chars": 20806
+ },
+ "layout": "standard",
+ "warnings": []
+}

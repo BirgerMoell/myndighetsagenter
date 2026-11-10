@@ -1,0 +1,746 @@
+{
+ "schema_version": 1,
+ "id": 26384,
+ "original_rbid": 25822,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-06-11",
+ "year": "2026",
+ "name": "Linköpings universitet",
+ "slug": "linkopings-universitet",
+ "department": "Utbildningsdepartementet",
+ "expenditure_areas": [
+  16
+ ],
+ "registry_numbers": [
+  "U2026/01202 (delvis)"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1"
+  ],
+  "bet": [
+   "2025/26:FiU21",
+   "2025/26:UbU1"
+  ],
+  "rskr": [
+   "2025/26:124",
+   "2025/26:349"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "Gemensamma bestämmelser för universitet och högskolor finns i regleringsbrev för budgetåret 2026 avseende universitet och högskolor.",
+ "goals": [
+  {
+   "title": "Särskilda åtaganden",
+   "group": [],
+   "text": "**1. Linköpings universitet ska samla och sprida kunskap om våld och andra övergrepp mot barn i enlighet med tidigare lämnat uppdrag (S2012/00275).**\n\n**2. Linköpings universitet ska tillsammans med Stockholms universitet och Universitets- och högskolerådet, ansvara för en webbportal för studenthälsovården i syfte att öka den digitala samordningen av studenthälsovården vid universitet och högskolor. Lärosätet ska återrapportera verksamheten i årsredovisningen.**",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [
+    "Stockholms universitet",
+    "Universitets- och högskolerådet",
+    "universitet och högskolor"
+   ],
+   "channels": [
+    "årsredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "informera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26384:goals:0"
+  },
+  {
+   "title": "Rekryteringsmål för professorer",
+   "group": [
+    "Mål"
+   ],
+   "text": "Under 2025–2028 har lärosätet ett mål för könsfördelningen bland nyrekryterade professorer om 47 procent kvinnor.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26384:goals:1"
+  },
+  {
+   "title": "Mål för antal examina",
+   "group": [
+    "Mål"
+   ],
+   "text": "Under 2025–2028 har lärosätet mål om antal utfärdade examina från vissa utbildningar inom nedan angivna områden. Målen och de examina som omfattas av dessa anges i tabellen nedan. Lärosätet ska i årsredovisningen redovisa antalet utfärdade examina inom respektive område de senaste tre åren för de yrkesexamina som anges i tabellen samt vilka åtgärder som har vidtagits för att uppnå målen.\n\n| | |\n| --- | --- |\n| **Område (examina som omfattas av målet inom parentes)** | **Mål för antal utfärdade examina under 2025–2028** |\n| Lärar- och förskollärarutbildningar (förskollärarexamina, grundlärarexamina, speciallärarexamina, specialpedagogexamina, yrkeslärarexamina och ämneslärarexamina) | 2 605 |\n| Hälso- och sjukvårdsutbildningar (barnmorskeexamina, biomedicinsk analytikerexamina, fysioterapeutexamina, sjuksköterskeexamina och specialistsjuksköterskeexamina) | 1 720 |",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "årsredovisning"
+   ],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26384:goals:2"
+  },
+  {
+   "title": "Mål för andel biträdande lektorer",
+   "group": [
+    "Mål"
+   ],
+   "text": "Under 2025–2028 har Linköpings universitet ett mål att 7 procent av samtlig forskande och undervisande personal (heltidsekvivalenter) ska vara biträdande lektorer.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "26384:goals:3"
+  }
+ ],
+ "org": [],
+ "assignments": [],
+ "appropriations": [
+  {
+   "code": "2:13",
+   "name": "Linköpings universitet: Utbildning på grundnivå och avancerad nivå",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 16,
+    "name": "Utbildning och universitetsforskning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Linköpings universitet",
+     "amount_tkr": 1895241,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Takbelopp (ram)",
+       "amount_tkr": 1895241
+      },
+      {
+       "ap": "1.1",
+       "name": "Takbelopp (ram)",
+       "amount_tkr": 1895241
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1.1",
+     "name": "Takbelopp",
+     "text": "Anslagsposten får användas för högskoleutbildning på grundnivå och avancerad nivå samt behörighetsgivande och högskoleintroducerande utbildning.\nAnvisningar för avräkning av helårsstudenter och helårsprestationer finns i bilaga till regleringsbrev avseende universitet och högskolor."
+    }
+   ],
+   "caps": []
+  },
+  {
+   "code": "2:14",
+   "name": "Linköpings universitet: Forskning och utbildning på forskarnivå",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 16,
+    "name": "Utbildning och universitetsforskning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Linköpings universitet",
+     "amount_tkr": 1199667,
+     "items": [
+      {
+       "ap": "4",
+       "name": "Basresurs (ram)",
+       "amount_tkr": 1199667
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "4",
+     "name": "Basresurs",
+     "text": "Anslagsposten får användas för forskning och utbildning på forskarnivå.\nI anslaget ingår medel för strategiska forskningsområden enligt tabellen nedan.\nAv anslagsposten avser 2 546 000 kronor medel för en särskild satsning på forskarutbildning för yrkesverksamma folkhögskollärare.\n**Bemyndiganden**\nLinköpings universitet bemyndigas med anledning av medlemskapet i konsortiet The Academic Model Providing Access to Healthcare (AMP ATH) att under 2024–2027 besluta om en årlig medlemsavgift på högst 200 000 kronor (i enlighet med beslut om budgetpropositionen för 2024)."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "4",
+     "max": 200000,
+     "unit": "kronor"
+    }
+   ]
+  },
+  {
+   "code": "2:65",
+   "name": "Särskilda medel till universitet och högskolor",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 16,
+    "name": "Utbildning och universitetsforskning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Linköpings universitet",
+     "amount_tkr": 36483,
+     "items": [
+      {
+       "ap": "16",
+       "name": "Nationellt resurscentrum i teknik (ram)",
+       "amount_tkr": 2225
+      },
+      {
+       "ap": "25",
+       "name": "Holdingbolag (ram)",
+       "amount_tkr": 3680
+      },
+      {
+       "ap": "70",
+       "name": "Korta kurser (ram)",
+       "amount_tkr": 5602
+      },
+      {
+       "ap": "88",
+       "name": "Medel för studenthälsa (ram)",
+       "amount_tkr": 6876
+      },
+      {
+       "ap": "20",
+       "name": "Praktiknära forskning (ram)",
+       "amount_tkr": 15800
+      },
+      {
+       "ap": "143",
+       "name": "Genomströmning civilingenjörsutbildningen (ram)",
+       "amount_tkr": 2300
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "16",
+     "name": "Nationellt resurscentrum i teknik",
+     "text": "Anslagsposten får användas för Linköpings universitets uppdrag att stödja skolutvecklingen inom de naturvetenskapliga ämnena och teknik genom att sprida resultat från ämnesdidaktisk forskning till de som är verksamma i skolan. Inom ramen för uppdraget ska Linköpings universitet svara för en samordning av de verksamheter som bedrivs vid de nationella resurscentrumen i biologi, fysik respektive kemi vid Uppsala universitet, Lunds universitet respektive Stockholms universitet samt vid det egna resurscentrumet i teknik (U2014/01602 m.fl.)."
+    },
+    {
+     "ap": "20",
+     "name": "Praktiknära forskning",
+     "text": "*Praktiknära forskning*\nAnslagsposten får användas för praktiknära forskning i syfte att bidra till en stärkt vetenskaplig grund i lärar- och förskollärarutbildningen och i skolväsendet. Verksamheten ska utformas och genomföras i samverkan mellan ansvariga universitet, deltagande universitet och högskolor och skolhuvudmän. Varje universitet och högskola ska samverka med flera skolhuvudmän. Det ska finnas en variation bland skolhuvudmännen med avseende på t.ex. storlek, geografiskt läge, skolform och årskurser. Forskningen som bedrivs i samverkan mellan universitet, högskolor och skolhuvudmän ska vara verksamhetsrelevant och generera forskningsresultat av hög kvalitet. Lärare och förskollärare ska ges möjlighet att medverka i planering och genomförande av forskningen.\n*Kartläggning av små ämnen*\nUniversitetet ska stödja och samordna en kartläggning av lärosäten med lärarutbildningar inom en region, där samverkan kan ske både inom och utanför regionen. Av kartläggningen ska framgå de undervisningsämnen eller ämnesområden för vilka det finns en stor risk att dessa inte kan anordnas till följd av ett minskat antal studenter i och med de skärpta tillträdeskraven till vissa lärarutbildningar som införs höstterminen 2027. Vidare ska det i kartläggningen ingå att inventera vilket behov av stöd som finns för dessa små ämnen. Av anslagsposten avser 200 000 kronor under 2026 detta arbete.\nUniversitetet ska senast den 15 oktober 2026 redovisa lärosätets bedömning av behovet av stöd för små ämnen och beräknade kostnader uppdelat per ämnesområde till Regeringskansliet (Utbildningsdepartementet) med kopia till Universitetskanslersämbetet. Redovisningen kan samordnas med redovisningen av utbildningssamarbeten inom lärarutbildningen som framgår av regleringsbrev för budgetåret 2026 avseende anslag 2:64 inom utgiftsområde 16 Utbildning och universitetsforskning, ap. 16."
+    },
+    {
+     "ap": "25",
+     "name": "Holdingbolag",
+     "text": "Anslagsposten får användas för idébanksmedel samt kapitaltillskott till holdingbolag vid universitet och högskolor för finansiering av verksamhet som syftar till att främja kommersialisering av forskningsresultat och innovationer.\nLinköpings universitet bemyndigas att under 2026 utbetala ett kapitaltillskott på högst 1 000 000 kronor till holdingbolaget som är knutet till universitetet.\nKapitaltillskottet ska finansiera kostnader för verksamhet som bedrivs i form av en idébank och får lämnas i enlighet med förordningen (2022:1390) om statligt stöd för idébanker inom holdingbolag vid universitet och högskolor.\nLinköpings universitet bemyndigas att under 2026 utbetala ett kapitaltillskott på högst 2 680 000 kronor till holdingbolaget som är knutet till universitetet. Kapitaltillskottet ska finansiera kostnader för verksamhet som syftar till att främja kommersialisering av forskningsresultat och innovationer och får lämnas i enlighet med förordningen (2025:727) om statligt stöd för innovationsverksamhet inom holdingbolag vid universitet och högskolor."
+    },
+    {
+     "ap": "70",
+     "name": "Korta kurser",
+     "text": "Av anslagsposten får 2 121 000 kronor användas för att utveckla korta kurser för yrkesverksamma med inriktning på grön omställning, batterier och teknik. Arbetet ska redovisas i årsredovisningen.\nAv anslagsposten får 3 481 000 kronor användas för att utveckla korta kurser för yrkesverksamma med inriktning på Artificiell intelligens (AI) i yrkesutbildningar inom t.ex. skola, vård och omsorg, socialtjänst, juridik och administration, ingenjörsutbildningar m.m. Universitetet ska samverka med övriga lärosäten som ingår i satsningen för att möjliggöra att ett allsidigt och samordnat utbildningsutbud tas fram. Universitetet ska även sträva efter att samverka med lärosäten som inte tar del av dessa särskilda medel i syfte att möjliggöra att kurserna ska kunna bidra till att utveckla utbildningsutbudet i högskolan som helhet. Arbetet ska redovisas i årsredovisningen."
+    },
+    {
+     "ap": "88",
+     "name": "Medel för studenthälsa",
+     "text": "Anslagsposten får användas för att stärka studenthälsan och bl.a. möjliggöra mer preventivt arbete för att minska studenternas psykiska och fysiska ohälsa samt stärka stödet för studieovana studenter. Av medlen avser 1 300 000 kronor arbete med att särskilt främja psykisk hälsa bland studenter.\n**Webbportal för studenthälsa**\nAv medlen under anslagsposten avser 4 000 000 kronor utveckling, förvaltning och samordning av webbportal för studenthälsovården."
+    },
+    {
+     "ap": "143",
+     "name": "Genomströmning civilingenjörsutbildningen",
+     "text": "Anslagsposten får användas för arbete för att öka genomströmningen i civilingenjörsutbildningen.\nLinköpings universitet ska tillsammans med Uppsala universitet och Blekinge tekniska högskola ta fram förslag på arbetssätt och förslag till åtgärder för att motivera studenter att avsluta sina studier och ta ut examen. Arbetet ska särskilt inriktas på studenter som befinner sig nära examen men som av olika skäl inte fullföljer utbildningen. I uppdraget ingår att redovisa de identifierade åtgärderna samt en bedömning av deras genomförbarhet, resursbehov och förväntade effekter.\nArbetet ska redovisas gemensamt till Regeringskansliet (Utbildningsdepartementet) senast den 26 mars 2027."
+    }
+   ],
+   "caps": [
+    {
+     "ap": "25",
+     "max": 1000000,
+     "unit": "kronor"
+    },
+    {
+     "ap": "25",
+     "max": 2680000,
+     "unit": "kronor"
+    }
+   ]
+  },
+  {
+   "code": "2:66",
+   "name": "Ersättningar för klinisk utbildning och forskning",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 16,
+    "name": "Utbildning och universitetsforskning"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Linköpings universitet",
+     "amount_tkr": 267461,
+     "items": [
+      {
+       "ap": "5",
+       "name": "Linköpings universitet (ram)",
+       "amount_tkr": 266498
+      },
+      {
+       "ap": "12",
+       "name": "Utvecklingsmedel (ram)",
+       "amount_tkr": 963
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "5",
+     "name": "Linköpings universitet",
+     "text": "Anslagsposten får användas för kostnader när det gäller regionens medverkan i utbildning av läkare (ALF-ersättning) i enlighet med det avtal som i september 2014 tecknats mellan staten och vissa landsting om samarbete om utbildning av läkare, klinisk forskning och utveckling av hälso- och sjukvården (ALF-avtalet).\nLinköpings universitet ersätts för högst 1 208 helårsstudenter inom läkarutbildningen vilket är det minsta antal helårsstudenter som staten förväntar sig att regionen ska ta emot för den verksamhetsintegrerade utbildningen av läkare.\nUniversitetet ska i årsredovisningen lämna uppgifter om hur ALF-ersättningen har fördelats under året när det gäller lokalkostnader, lönekostnader och övriga kostnader. I årsredovisningen ska universitetet också redovisa det totala antalet helårsstudenter på läkarutbildningen."
+    },
+    {
+     "ap": "12",
+     "name": "Utvecklingsmedel",
+     "text": "Anslagsposten får användas för utvecklingsmedel.\nAv årsredovisningen ska framgå på vilket sätt Linköpings universitet har använt medlen för att utveckla klinisk utbildning och forskning."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "2:13 Linköpings universitet: Utbildning på grundnivå och avancerad nivå",
+   "ap": "ap.1.1",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "10 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:14 Linköpings universitet: Forskning och utbildning på forskarnivå",
+   "ap": "ap.4",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Allt",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.16",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.20",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.25",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.70",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.88",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:65 Särskilda medel till universitet och högskolor",
+   "ap": "ap.143",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:66 Ersättningar för klinisk utbildning och forskning",
+   "ap": "ap.5",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "2:66 Ersättningar för klinisk utbildning och forskning",
+   "ap": "ap.12",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 800000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 283046
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 283046
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 283046
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 283046
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 283046
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 283046
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 283429
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 283429
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 283429
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 283429
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 283429
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 283431
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "2:13 Linköpings universitet: Utbildning på grundnivå och avancerad nivå",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1.1",
+     "0",
+     "10 %",
+     "0"
+    ],
+    [
+     "2:14 Linköpings universitet: Forskning och utbildning på forskarnivå",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.4",
+     "0",
+     "Allt",
+     "0"
+    ],
+    [
+     "2:65 Särskilda medel till universitet och högskolor",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.16",
+     "0",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.20",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.25",
+     "0",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.70",
+     "0",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.88",
+     "0",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.143",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "2:66 Ersättningar för klinisk utbildning och forskning",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.5",
+     "0",
+     "3 %",
+     "0"
+    ],
+    [
+     "ap.12",
+     "0",
+     "3 %",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Omfördelning av anslagssparande",
+   "rows": [
+    [
+     "Omfördelning från anslag/ap1",
+     "Omfördelning till anslag/ap2",
+     "Belopp (tkr)",
+     "Belopp andel (%)"
+    ],
+    [
+     "2:13 Linköpings universitet: Utbildning på grundnivå och avancerad nivå",
+     "",
+     "",
+     ""
+    ],
+    [
+     "2:13 ap.1.2",
+     "2:13 ap.1.1",
+     "100 %"
+    ]
+   ]
+  },
+  {
+   "path": "Anslag / Finansiella villkor / Avslutade anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagstyp"
+    ],
+    [
+     "2:13 Linköpings universitet: Utbildning på grundnivå och avancerad nivå",
+     ""
+    ],
+    [
+     "ap.1.2",
+     "ram"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "800 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "283 046"
+    ],
+    [
+     "2026-02-25",
+     "283 046"
+    ],
+    [
+     "2026-03-25",
+     "283 046"
+    ],
+    [
+     "2026-04-25",
+     "283 046"
+    ],
+    [
+     "2026-05-25",
+     "283 046"
+    ],
+    [
+     "2026-06-25",
+     "283 046"
+    ],
+    [
+     "2026-07-25",
+     "283 429"
+    ],
+    [
+     "2026-08-25",
+     "283 429"
+    ],
+    [
+     "2026-09-25",
+     "283 429"
+    ],
+    [
+     "2026-10-25",
+     "283 429"
+    ],
+    [
+     "2026-11-25",
+     "283 429"
+    ],
+    [
+     "2026-12-25",
+     "283 431"
+    ],
+    [
+     "Summa",
+     "3 398 852"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "2:13 ap.1.1",
+     "Takbelopp"
+    ],
+    [
+     "2:14 ap.4",
+     "Basresurs"
+    ],
+    [
+     "2:65 ap.16",
+     "Nationellt resurscentrum i teknik"
+    ],
+    [
+     "2:65 ap.20",
+     "Praktiknära forskning"
+    ],
+    [
+     "2:65 ap.25",
+     "Holdingbolag"
+    ],
+    [
+     "2:65 ap.70",
+     "Korta kurser"
+    ],
+    [
+     "2:65 ap.88",
+     "Medel för studenthälsa"
+    ],
+    [
+     "2:65 ap.143",
+     "Genomströmning civilingenjörsutbildningen"
+    ],
+    [
+     "2:66 ap.5",
+     "Linköpings universitet"
+    ],
+    [
+     "2:66 ap.12",
+     "Utvecklingsmedel"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [],
+ "has_fee_section": true,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 4,
+  "n_org": 0,
+  "n_assignments": 0,
+  "n_deadlines": 0,
+  "deadlines": [],
+  "partners": [
+   "Stockholms universitet",
+   "Universitets- och högskolerådet",
+   "universitet och högskolor"
+  ],
+  "n_appropriations": 4,
+  "appropriations_total_tkr": 3398852,
+  "payment_plan_total_tkr": 3398852,
+  "md_chars": 15510
+ },
+ "layout": "standard",
+ "warnings": []
+}

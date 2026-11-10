@@ -1,0 +1,331 @@
+{
+ "schema_version": 1,
+ "id": 25886,
+ "original_rbid": 25886,
+ "type": "Regleringsbrev",
+ "category": "Myndighet",
+ "date": "2025-12-18",
+ "year": "2026",
+ "name": "Myndigheten för säkerhet och integritetsskydd",
+ "slug": "myndigheten-for-sakerhet-och-integritetsskydd",
+ "department": "Justitiedepartementet",
+ "expenditure_areas": [
+  4
+ ],
+ "registry_numbers": [
+  "Ju2025/00287",
+  "Ju2025/02693 (delvis)"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1"
+  ],
+  "bet": [
+   "2025/26:JuU1"
+  ],
+  "rskr": [
+   "2025/26:101"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "",
+ "goals": [],
+ "org": [],
+ "assignments": [
+  {
+   "title": "Förstärkt säkerhetsarbete",
+   "group": [],
+   "text": "Myndigheten ska redogöra för vidtagna och planerade åtgärder inom beräknade ekonomiska ramar för att förstärka sitt säkerhetsarbete, verksamhets- och säkerhetsskydd och öka motståndskraften mot infiltration och annan otillbörlig eller otillåten påverkan. Uppdraget ska delredovisas till Regeringskansliet (Justitiedepartementet) senast den 30 september 2026 och slutredovisas till Regeringskansliet (Justitiedepartementet) senast den 28 februari 2027.",
+   "dates": [
+    "2026-09-30",
+    "2027-02-28"
+   ],
+   "deadlines": [
+    "2026-09-30",
+    "2027-02-28"
+   ],
+   "recipients": [
+    "Regeringskansliet (Justitiedepartementet)"
+   ],
+   "partners": [],
+   "channels": [
+    "delredovisning",
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "25886:assignments:0"
+  },
+  {
+   "title": "Prognoser",
+   "group": [],
+   "text": "Myndigheten ska redovisa prognoser för 2026-2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Av kommentarerna ska framgå vilka antaganden som använts i prognosen, vilka osäkerhetsfaktorer som finns och vad som orsakat eventuella förändringar. Om prognosen visar på underskott ska myndigheten redovisa vilka åtgärder som har vidtagits eller planeras att vidtas för att verksamheten ska kunna bedrivas inom ramen för tilldelade medel samt vilka konsekvenserna blir för verksamheten till följd av dessa åtgärder. Prognoserna lämnas i informationssystemet Hermes senast den\n\n2 februari\n\n22 april\n\n24 juli\n\n9 november.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "25886:assignments:1"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "1:15",
+   "name": "Myndigheten för säkerhet och integritetsskydd",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 4,
+    "name": "Rättsväsendet"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Myndigheten för säkerhet och integritetsskydd",
+     "amount_tkr": 48032,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Myndigheten för säkerhet och integritetsskydd (ram)",
+       "amount_tkr": 48032
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Myndigheten för säkerhet och integritetsskydd",
+     "text": "Anslaget får användas för Säkerhets- och integritetsskyddsnämndens förvaltningsutgifter. Anslaget får även användas för Myndigheten för säkerhet och integritetsskydds förvaltningsutgifter."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "1:15 Myndigheten för säkerhet och integritetsskydd",
+   "ap": "ap.1",
+   "Anslagskredit": 1440,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 15000,
+  "Räntekontokredit": 1800
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 4003
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 4003
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 4003
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 4003
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 4003
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 4003
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 4003
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 4003
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 4003
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 4003
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 4003
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 3999
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:15 Myndigheten för säkerhet och integritetsskydd",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "1 440",
+     "3 %",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "15 000"
+    ],
+    [
+     "Räntekontokredit",
+     "1 800"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "4 003"
+    ],
+    [
+     "2026-02-25",
+     "4 003"
+    ],
+    [
+     "2026-03-25",
+     "4 003"
+    ],
+    [
+     "2026-04-25",
+     "4 003"
+    ],
+    [
+     "2026-05-25",
+     "4 003"
+    ],
+    [
+     "2026-06-25",
+     "4 003"
+    ],
+    [
+     "2026-07-25",
+     "4 003"
+    ],
+    [
+     "2026-08-25",
+     "4 003"
+    ],
+    [
+     "2026-09-25",
+     "4 003"
+    ],
+    [
+     "2026-10-25",
+     "4 003"
+    ],
+    [
+     "2026-11-25",
+     "4 003"
+    ],
+    [
+     "2026-12-25",
+     "3 999"
+    ],
+    [
+     "Summa",
+     "48 032"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "1:15 ap.1",
+     "Myndigheten för säkerhet och integritetsskydd"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [],
+ "has_fee_section": false,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 0,
+  "n_org": 0,
+  "n_assignments": 2,
+  "n_deadlines": 2,
+  "deadlines": [
+   "2026-09-30",
+   "2027-02-28"
+  ],
+  "partners": [],
+  "n_appropriations": 1,
+  "appropriations_total_tkr": 48032,
+  "payment_plan_total_tkr": 48032,
+  "md_chars": 4325
+ },
+ "layout": "standard",
+ "warnings": []
+}

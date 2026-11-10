@@ -1,0 +1,549 @@
+{
+ "schema_version": 1,
+ "id": 27501,
+ "original_rbid": 25916,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-06-25",
+ "year": "2026",
+ "name": "E-hälsomyndigheten",
+ "slug": "e-halsomyndigheten",
+ "department": "Socialdepartementet",
+ "expenditure_areas": [
+  9
+ ],
+ "registry_numbers": [
+  "S2026/01406"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1",
+   "2025/26:99"
+  ],
+  "bet": [
+   "2025/26:FiU21",
+   "2025/26:SoU1"
+  ],
+  "rskr": [
+   "2025/2026:348",
+   "2025/26:114"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "",
+ "goals": [
+  {
+   "title": "Återrapporteringskrav",
+   "group": [],
+   "text": "*1. Den nationella läkemedelsstrategin*\n\nE-hälsomyndigheten ska redogöra för hur myndigheten har arbetat för att bidra till för myndigheten relevanta fokusområden i den nationella läkemedelsstrategin (S2024/00190).\n\n*2. Den nationella strategin för life science*\n\nE-hälsomyndigheten ska redogöra för hur myndigheten har arbetat för att bidra till de målsättningar som anges i den nationella strategin för life science (KN2024/02228).\n\n*3. Den interna kontrollen av bidragshanteringen avseende fritidskortet*\n\nE-hälsomyndigheten ska redovisa arbetet med den interna kontrollen av bidragshanteringen avseende fritidskortet, resultatet av denna kontroll, inklusive eventuella återkrav (antal och belopp) av bidraget och vilka delar som ska vidareutvecklas. En risk- och väsentlighetsanalys bör ligga till grund för kontrollen och av redovisningen ska det framgå hur kontrollarbetet bedrivits under året, vilka åtgärder som har vidtagits och planeras att vidtas med anledning av detta och vilken bedömning som görs av effekterna av de vidtagna åtgärderna.\n\n*4.*Ö*ka förmågan att använda AI och ny teknik genom datadrivet arbete*\n\nE-hälsomyndigheten ska redovisa i vilken utsträckning myndigheten arbetar datadrivet samt vilka åtgärder de vidtagit för att förbättra sin förmåga att arbeta datadrivet.\n\n*5. Färdval och resepolicy vid tjänsteresor*\n\nAlla trafikslag ska kunna nyttjas (väg, järnväg, luft- och sjöfart) för att säkerställa effektiva och ändamålsenliga transporter. E-hälsomyndigheten ska därför redovisa hur myndigheten har säkerställt att val av färdsätt vid tjänsteresor sker färdmedelsneutralt och utifrån behov. Vidare ska E-hälsomyndigheten redovisa huruvida myndigheten köpt in hållbart flygbränsle till organisationens flygresor. När kostnader jämförs för olika färdval ska hela resans kostnad beaktas, exempelvis kostnader för nödvändig övernattning samt total arbetstid för hela resan.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "utveckla",
+    "tillsyn_kontroll",
+    "statistik_data",
+    "digitalisering_ai"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27501:goals:0"
+  }
+ ],
+ "org": [
+  {
+   "title": null,
+   "group": [],
+   "text": "*Säkerställa proaktivitet och handlingskraft vid fredstida krissituationer eller vid krig och krigsfara*\n\nE-hälsomyndigheten ska säkerställa att myndigheten har förmåga att agera proaktivt och handlingskraftigt i hanteringen av såväl fredstida krissituationer som vid krig och krigsfara. Utöver de krav som ställs i förordningen (2022:524) om statliga myndigheters beredskap ska myndigheten i detta syfte utbilda och öva sin personal samt se till att myndigheten stärker en kultur och ett arbetssätt som beaktar de krav som ett krig ställer. Uppdraget ska redovisas till Regeringskansliet (Socialdepartementet och Försvarsdepartementet) senast den 22 februari 2027. Detta ska ingå i den särskilda redovisningen för civilt försvar.",
+   "dates": [
+    "2027-02-22"
+   ],
+   "deadlines": [
+    "2027-02-22"
+   ],
+   "recipients": [
+    "Regeringskansliet (Socialdepartementet och Försvarsdepartementet)"
+   ],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [
+    "2022:524"
+   ],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "org",
+   "item_id": "27501:org:0"
+  }
+ ],
+ "assignments": [
+  {
+   "title": "Nya och återkommande uppdrag",
+   "group": [],
+   "text": "*1. Prognoser*\n\nMyndigheten ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Prognoserna lämnas i informationssystemet Hermes senast den\n\n- 2 februari\n- 22 april\n- 24 juli\n- 9 oktober\n\n\\*2.\\**Uppdrag om fortsatt införande av den nationella läkemedelslistan*\n\nE-hälsomyndigheten ska fortsätta arbetet med införandet av den nationella läkemedelslistan. I uppdraget ingår att vid behov justera eller vidareutveckla funktionalitet i den nationella läkemedelslistan inom ramen för vad som beskrivs i gällande författning om den nationella läkemedelslistan. E-hälsomyndigheten ska även erbjuda tekniskt stöd till systemleverantörer för att underlätta deras utvecklingsarbete inför anslutning till den nationella läkemedelslistan. Myndigheten ska även fortsätta driften av den s.k. transformatorn för att möjliggöra skrivfunktionalitet för de vårdaktörer som ännu inte fullt anslutit direkt till den nationella läkemedelslistan. Dessutom ska myndigheten fortsatt kartlägga behovet av stöd och erbjuda lämpligt stöd till vård- och apoteksaktörer för att underlätta deras anslutning och bidra till den fortsatta implementeringen av den nationella läkemedelslistan.\n\nDärutöver ska myndigheten utreda förutsättningarna för att ta vidare förslagen gällande vacciner i utredningen Fortsatt utveckling av en nationell läkemedelslista - en del i en ny nationell infrastruktur för datadelning SOU 2025:71.\n\nE-hälsomyndigheten ska bedriva arbetet i dialog med Sveriges Kommuner och Regioner, Inera AB, systemleverantörer, sjukvårdshuvudmän, apoteksaktörer, Socialstyrelsen, Läkemedelsverket, Folkhälsomyndigheten och Integritetsskyddsmyndigheten. E-hälsomyndigheten ska löpande informera Regeringskansliet (Socialdepartementet) om hur arbetet och uppdraget fortskrider. E-hälsomyndigheten ska senast den 30 september 2026 lämna en redovisning av arbetet med uppdraget till Regeringskansliet (Socialdepartementet). För uppdraget får E-hälsomyndigheten under 2026 använda 60 500 000 kronor som ska redovisas mot det under utgiftsområde 9 Hälsovård, sjukvård och social omsorg för budgetåret 2026 uppförda anslaget 1:6 Bidrag till folkhälsa och sjukvård, anslagsposten 36 Nationell läkemedelslista. Medlen betalas ut engångsvis efter rekvisition till Kammarkollegiet senast den 1 december 2026. Medel som inte har använts för avsett ändamål ska återbetalas senast den 31 mars 2027 till Kammarkollegiet. Vid samma tidpunkt ska en ekonomisk redovisning av använda medel lämnas till Kammarkollegiet. Redovisning, rekvisition och återbetalning ska hänvisa till regleringsbrevet för budgetåret 2026 avseende E-hälsomyndigheten.\n\n*3. Ändring av uppdrag om förberedelser för framtagandet av en nationell lägesbild över tillgången till läkemedel*\n\nE-hälsomyndighetens och Läkemedelsverkets uppdrag att förbereda ett system för att ta fram en nationell lägesbild över tillgång och efterfrågan för läkemedel ändras på så sätt att uppdragstiden förlängs. Arbetet ska utgå från de informationsmängder och åtgärder som ingår i etapp 1 enligt myndigheternas redovisningar av uppdraget att göra en förstudie om nationell lägesbild för läkemedel (S2022/01265) och de kompletterande förslag och analyser och planer för det fortsatta arbetet som myndigheterna har redovisat inom ramen för uppdraget.\n\nE-hälsomyndigheten och Läkemedelsverket ska senast den 27 februari 2026 och senast den 26 februari 2027 lämna en delredovisning av uppdraget och senast den 29 februari 2028 lämna en slutredovisning av uppdraget till Regeringskansliet (Socialdepartementet). En plan för det fortsatta arbetet ska redovisas senast den 30 september 2026 och senast den 30 september 2027. Myndigheterna ska löpande informera Regeringskansliet (Socialdepartementet) om hur arbetet med uppdraget fortskrider och vid behov föra en dialog med Socialdepartementet om tidplan för arbetet och andra frågor.\n\nFör uppdraget får E-hälsomyndigheten under 2026 använda 11 000 000 kronor som ska redovisas mot det under utgiftsområde 9 Hälsovård, sjukvård och social omsorg för budgetåret 2025 uppförda anslaget 1:14 Civilt försvar inom hälso- och sjukvård, anslagsposten 1 Del till Kammarkollegiet. Medlen betalas ut engångsvis efter rekvisition till Kammarkollegiet senast den 1 december 2026. Medel som inte har använts för avsett ändamål ska återbetalas senast den 31 mars 2027 till Kammarkollegiet. Vid samma tidpunkt ska en ekonomisk redovisning av använda medel lämnas till Kammarkollegiet. Redovisning, rekvisition och återbetalning ska hänvisa till regleringsbrevet för budgetåret 2026 avseende E-hälsomyndigheten.\n\n*4. Uppdrag om förberedelser av anslutning till tjänsten säker digital kommunikation*\n\nE-hälsomyndigheten ska förbereda anslutning av relevanta informationsflöden till den infrastruktur för säker digital kommunikation inom offentlig sektor som Myndigheten för digital förvaltning tillhandahåller. E-hälsomyndigheten ska löpande hålla Regeringskansliet (Socialdepartementet) och Myndigheten för digital förvaltning informerade om arbetet.\n\n*5. Avtal för stärkt försörjningsberedskap*\n\nE-hälsomyndigheten ska identifiera behov av och, i de fall myndigheten bedömer det lämpligt och ryms inom givna bemyndiganden, teckna avtal som syftar till att upprätthålla försörjningen av varor och tjänster som är nödvändiga för myndighetens prioriterade uppgifter vid fredstida kriser och höjd beredskap. I de fall E-hälsomyndigheten nyttjar särskilda avtalsformer i form av sådana försörjningsberedskapsavtal (F-avtal) som beskrivs i SOU 2025:68 ska dessa avtal löpande rapporteras till Myndigheten för civilt försvar. Uppdraget ska redovisas till Regeringskansliet (Socialdepartementet och Försvarsdepartementet) senast den 22 februari 2027, och ingå i den särskilda redovisningen för civilt försvar. Som stöd för arbetet kan myndigheten använda bland annat Utgångspunkter för totalförsvaret 2025–2030.\n\n*6. Verksamt.se*\n\nE-hälsomyndigheten ska förenkla för företag genom att under 2026–2028 uppdatera, kvalitetssäkra och förvalta myndighetens innehåll på den myndighetsgemensamma webbplatsen verksamt.se.\n\n*7. Uppdrag att analysera konkurrensen på marknaden för vårdinformationssystem samt beskriva återkommande svårigheter i upphandlingsprocesserna*\n\nE-hälsomyndigheten ges i uppdrag att göra en analys av konkurrensförhållandena på den svenska marknaden för vårdinformationssystem i syfte att främja användarvänlighet och kostnadseffektivitet. Myndigheten ska sammanställa relevanta utredningar och uppföljningar som gjorts av upphandlingar och införande av nya vårdinformationssystem i regionerna samt andra relevanta kunskapsunderlag. I detta ingår att identifiera återkommande svårigheter i upphandlingsprocesserna och urskilja gemensamma nämnare som särskilt påverkar upphandlingarnas genomförande och implementeringen av nya vårdinformationssystem. I arbetet ingår också att analysera hur relevanta EU-regelverk som påverkar denna marknad, så som Europaparlamentets och rådets förordning (EU) 2025/327 av den 11 februari 2025 om det europeiska hälsodataområdet och om ändring av direktiv 2011/24/EU och förordning (EU) 2024/2847 (EHDS), kan påverka den svenska marknaden för vårdinformationssystem. Inom ramen för uppdraget ska Konkurrensverket vara E-hälsomyndigheten behjälplig med sin expertis. Myndigheten ska även föra dialog med regioner under uppdragets genomförande. E-hälsomyndigheten ska senast den 9 november 2026 lämna en redovisning av uppdraget till Regeringskansliet (Socialdepartementet). Myndigheten ska löpande hålla Regeringskansliet (Socialdepartementet) informerat om arbetet.",
+   "dates": [
+    "2025-02-11",
+    "2026-02-27",
+    "2026-09-30",
+    "2026-11-09",
+    "2026-12-01",
+    "2027-02-22",
+    "2027-02-26",
+    "2027-03-31",
+    "2027-09-30",
+    "2028-02-29"
+   ],
+   "deadlines": [
+    "2026-02-27",
+    "2026-09-30",
+    "2026-11-09",
+    "2026-12-01",
+    "2027-02-22",
+    "2027-02-26",
+    "2027-03-31",
+    "2027-09-30",
+    "2028-02-29"
+   ],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-10-09"
+   ],
+   "recipients": [
+    "Kammarkollegiet",
+    "Myndigheten för civilt försvar",
+    "Regeringskansliet (Socialdepartementet och Försvarsdepartementet)",
+    "Regeringskansliet (Socialdepartementet)"
+   ],
+   "partners": [
+    "Folkhälsomyndigheten",
+    "Integritetsskyddsmyndigheten",
+    "Kammarkollegiet",
+    "Konkurrensverket",
+    "Läkemedelsverket",
+    "Myndigheten för civilt försvar",
+    "Myndigheten för digital förvaltning",
+    "Socialstyrelsen",
+    "Sveriges Kommuner och Regioner"
+   ],
+   "channels": [
+    "hermes",
+    "delredovisning",
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos",
+    "analysera",
+    "samordna",
+    "fördela_medel",
+    "utveckla",
+    "informera",
+    "beredskap_säkerhet",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [
+    "1:14",
+    "1:6"
+   ],
+   "expenditure_area_refs": [
+    9
+   ],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "27501:assignments:0"
+  },
+  {
+   "title": "Pågående uppdrag",
+   "group": [],
+   "text": "| | | |\n| --- | --- | --- |\n| **Uppdrag** | **Beslut om uppdrag** | **Redovisningstidpunkt** |\n| Uppdrag om fördelning av medel till leverantörer som tillhandahåller föreningssystem inom ramen för fritidskortet | S2025/01638 | Slutredovisning den 31 januari 2026 |\n| Uppdrag att stödja vårdgivare och systemleverantörer i samband med anslutningen till den nationella digitala infrastrukturen | S2025/00973 | Slutredovisning den 2 februari 2026 |\n| Uppdrag till E-hälsomyndigheten och Integritetsskyddsmyndigheten att utveckla former för och ge juridisk vägledning för användningen av hälsodata | S2025/01277 | Slutredovisning den 2 februari 2026 |\n| Stärka och påskynda förenklingsarbetet | S2023/03257 | Slutredovisning den 15 mars 2026 |\n| Uppdrag att förbereda och införa ett fritidskort för barn och unga | Regeringsbeslut I:4 från den 5 april 2023, regeringsbeslut I:4 från den 12 oktober 2023 samt regeringsbeslut I:3 från den 4 juli 2024 (S2023/01303) | Delredovisas senast den 31 mars 2026. Slutredovisas senast den 31 mars 2027 |\n| Uppdrag till E-hälsomyndigheten och Socialstyrelsen om sammanhållen intygshantering | S2025/01192 | Slutredovisning den 8 april 2026 |\n| Uppdrag att utveckla och tillhandahålla en webbaserad nationell jämförelsetjänst av vårdgivare | S2025/01280 | Slutredovisning den 26 maj 2026 |\n| Uppdrag om fritidskort för barn och unga som placerats i familjehem | S2025/01327 | Slutredovisning den 30 september 2026 |\n| Uppdrag till Socialstyrelsen och E-hälsomyndigheten att utveckla och etablera arbetet med nationell vårdförmedling | S2025/00971 | Slutredovisning den 28 februari 2027 |\n| Uppdrag till E-hälsomyndigheten att tillhandahålla och vidareutveckla den nationella katalogen över vårdgivare och utförare av socialtjänst | S2025/00972 | Slutredovisning den 28 februari 2027 |\n| Uppdrag att ta fram förslag på en nationell databas för medicintekniska produkter | S2025/00532 | Slutredovisning den 31 oktober 2027 |\n| Uppdrag till beredskapsmyndigheterna om personallån mellan myndigheter | Regeringsbeslut II:3 från den 10 april 2025 (Fö2025/00670) | Slutredovisas i årsredovisningen för 2025 |\n| Inriktning civilt försvar 2025–2030 | Fö2024/02054 | Redovisas årligen t.o.m. år 2030 i samband med årsredovisningen |\n| Nordiska ministerrådets grupp rörande e-hälsa | Regleringsbrev för 2025 | T.o.m. 2026 |\n\n*För regeringsuppdrag som lämnats i ett särskilt regeringsbeslut utgör tabellen endast en upplysning om vilka uppdrag som vid årets början var riktade till myndigheten och vilka tider som då gällde för återrapportering eller liknande.*",
+   "dates": [
+    "2023-04-05",
+    "2023-10-12",
+    "2024-07-04",
+    "2025-04-10",
+    "2026-01-31",
+    "2026-02-02",
+    "2026-03-15",
+    "2026-03-31",
+    "2026-04-08",
+    "2026-05-26",
+    "2026-09-30",
+    "2027-02-28",
+    "2027-03-31",
+    "2027-10-31"
+   ],
+   "deadlines": [
+    "2026-03-31",
+    "2027-03-31"
+   ],
+   "recipients": [
+    "Socialstyrelsen"
+   ],
+   "partners": [
+    "Integritetsskyddsmyndigheten",
+    "Socialstyrelsen"
+   ],
+   "channels": [
+    "årsredovisning",
+    "delredovisning",
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "utveckla",
+    "informera",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "27501:assignments:1"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "1:10",
+   "name": "E-hälsomyndigheten",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 9,
+    "name": "Hälsovård, sjukvård och social omsorg"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "E-hälsomyndigheten",
+     "amount_tkr": 510394,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Nationell digital infrastruktur (ram)",
+       "amount_tkr": 343000
+      },
+      {
+       "ap": "4",
+       "name": "E-hälsomyndigheten (ram)",
+       "amount_tkr": 167394
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Nationell digital infrastruktur",
+     "text": "E-hälsomyndigheten får under 2026 använda 343 000 000 kronor för att fortsätta arbetet med att etablera en nationell digital infrastruktur i hälso- och sjukvården."
+    },
+    {
+     "ap": "4",
+     "name": "E-hälsomyndigheten",
+     "text": "Anslaget får användas för E-hälsomyndighetens förvaltningsutgifter.\nE-hälsomyndigheten ska kunna använda och samverka med det gemensamma radiokommunikationssystemet Rakel. E-hälsomyndigheten ska betala totalt 66 500 kronor till Myndigheten för civilt försvar som abonnemangsavgift för detta system. Beloppet ska betalas efter fakturering från Myndigheten för civilt försvar."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "1:10 E-hälsomyndigheten",
+   "ap": "ap.1",
+   "Anslagskredit": 0,
+   "Anslagsbehållning som disponeras 2026": "Inget",
+   "Indrag av anslagsbelopp": 0
+  },
+  {
+   "anslag": "1:10 E-hälsomyndigheten",
+   "ap": "ap.4",
+   "Anslagskredit": 16541,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 475000,
+  "Räntekontokredit": 120000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 12366
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 12366
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 12366
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 12366
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 12366
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 15080
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 15080
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 15080
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 15080
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 15080
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 15080
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 15084
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:10 E-hälsomyndigheten",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "0",
+     "Inget",
+     "0"
+    ],
+    [
+     "ap.4",
+     "16 541",
+     "3 %",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "475 000"
+    ],
+    [
+     "Räntekontokredit",
+     "120 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "12 366"
+    ],
+    [
+     "2026-02-25",
+     "12 366"
+    ],
+    [
+     "2026-03-25",
+     "12 366"
+    ],
+    [
+     "2026-04-25",
+     "12 366"
+    ],
+    [
+     "2026-05-25",
+     "12 366"
+    ],
+    [
+     "2026-06-25",
+     "15 080"
+    ],
+    [
+     "2026-07-25",
+     "15 080"
+    ],
+    [
+     "2026-08-25",
+     "15 080"
+    ],
+    [
+     "2026-09-25",
+     "15 080"
+    ],
+    [
+     "2026-10-25",
+     "15 080"
+    ],
+    [
+     "2026-11-25",
+     "15 080"
+    ],
+    [
+     "2026-12-25",
+     "15 084"
+    ],
+    [
+     "Summa",
+     "167 394"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "1:10 ap.4",
+     "E-hälsomyndigheten"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Offentligrättslig verksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Avgifter enligt lag1",
+     "31 967",
+     "18 282",
+     "351 000",
+     "358 000",
+     "-7 000",
+     "43 249"
+    ],
+    [
+     "Uppdragsverksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Uppdragsverksamhet1",
+     "2 876",
+     "-1 535",
+     "14 991",
+     "14 354",
+     "637",
+     "1 978"
+    ]
+   ]
+  }
+ ],
+ "has_fee_section": true,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 1,
+  "n_org": 1,
+  "n_assignments": 2,
+  "n_deadlines": 10,
+  "deadlines": [
+   "2026-02-27",
+   "2026-03-31",
+   "2026-09-30",
+   "2026-11-09",
+   "2026-12-01",
+   "2027-02-22",
+   "2027-02-26",
+   "2027-03-31",
+   "2027-09-30",
+   "2028-02-29"
+  ],
+  "partners": [
+   "Folkhälsomyndigheten",
+   "Integritetsskyddsmyndigheten",
+   "Kammarkollegiet",
+   "Konkurrensverket",
+   "Läkemedelsverket",
+   "Myndigheten för civilt försvar",
+   "Myndigheten för digital förvaltning",
+   "Socialstyrelsen",
+   "Sveriges Kommuner och Regioner"
+  ],
+  "n_appropriations": 1,
+  "appropriations_total_tkr": 510394,
+  "payment_plan_total_tkr": 167394,
+  "md_chars": 17368
+ },
+ "layout": "standard",
+ "warnings": []
+}

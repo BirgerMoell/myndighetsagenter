@@ -1,0 +1,389 @@
+{
+ "schema_version": 1,
+ "id": 25831,
+ "original_rbid": 25831,
+ "type": "Regleringsbrev",
+ "category": "Myndighet",
+ "date": "2025-12-18",
+ "year": "2026",
+ "name": "Statens väg- och transportforskningsinstitut",
+ "slug": "statens-vag-och-transportforskningsinstitut",
+ "department": "Landsbygds- och infrastrukturdepartementet",
+ "expenditure_areas": [
+  22
+ ],
+ "registry_numbers": [
+  "LI2025/00486",
+  "LI2025/02157(delvis)",
+  "LI2025/02177"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1"
+  ],
+  "bet": [
+   "2025/26:TU1"
+  ],
+  "rskr": [
+   "2025/26:127"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "",
+ "goals": [
+  {
+   "title": "Tjänsteexport",
+   "group": [],
+   "text": "Statens väg- och transportforskningsinstitut ska redovisa innehåll, omfattning och resultat av den tjänsteexport som myndigheten har bedrivit.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25831:goals:0"
+  },
+  {
+   "title": "Färdval och resepolicy vid tjänsteresor",
+   "group": [],
+   "text": "Alla trafikslag ska kunna nyttjas (väg, järnväg, luft- och sjöfart) för att säkerställa effektiva och ändamålsenliga transporter. Statens väg- och transportforskningsinstitut ska därför redovisa hur myndigheten har säkerställt att val av färdsätt vid tjänsteresor sker färdmedelsneutralt och utifrån behov. Vidare ska Statens väg- och transportforskningsinstitut redovisa huruvida myndigheten köpt in hållbart flygbränsle till organisationens flygresor. När kostnader jämförs för olika färdval ska hela resans kostnad beaktas, exempelvis kostnader för nödvändig övernattning samt total arbetstid för hela resan.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "25831:goals:1"
+  }
+ ],
+ "org": [],
+ "assignments": [
+  {
+   "title": "Prognoser",
+   "group": [],
+   "text": "Statens väg- och transportforskningsinstitut ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till föregående prognostillfälle och i förhållande till budgeten. Prognoserna lämnas i informationssystemet Hermes senast den\n\n– 2 februari,\n\n– 22 april,\n\n– 24 juli och\n\n– 9 november.",
+   "dates": [],
+   "deadlines": [],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "hermes"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "assignments",
+   "item_id": "25831:assignments:0"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "1:9",
+   "name": "Statens väg- och transportforskningsinstitut",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 22,
+    "name": "Kommunikationer"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Statens väg- och transportforskningsinstitut",
+     "amount_tkr": 88896,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Statens väg- och transportforskningsinstitut (ram)",
+       "amount_tkr": 88896
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Statens väg- och transportforskningsinstitut",
+     "text": "Medlen från anslagsposten får användas för utgifter för utredningsverksamhet, kompetensutveckling, lokaler, särskild utrustning, administration och det nationella transportforskningsbiblioteket BIC. Anslaget får användas för forskning och medfinansiering av Statens väg- och transportforskningsinstituts deltagande i EU-projekt. Anslagsposten får även användas för driften av ett nationellt kompetenscentrum om cykling."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "1:9 Statens väg- och transportforskningsinstitut",
+   "ap": "ap.1",
+   "Anslagskredit": 2666,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 55000,
+  "Räntekontokredit": 25000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 7408
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 7408
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 7408
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 7408
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 7408
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 7408
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 7408
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 7408
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 7408
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 7408
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 7408
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 7408
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:9 Statens väg- och transportforskningsinstitut",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "2 666",
+     "3 %",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "55 000"
+    ],
+    [
+     "Räntekontokredit",
+     "25 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "7 408"
+    ],
+    [
+     "2026-02-25",
+     "7 408"
+    ],
+    [
+     "2026-03-25",
+     "7 408"
+    ],
+    [
+     "2026-04-25",
+     "7 408"
+    ],
+    [
+     "2026-05-25",
+     "7 408"
+    ],
+    [
+     "2026-06-25",
+     "7 408"
+    ],
+    [
+     "2026-07-25",
+     "7 408"
+    ],
+    [
+     "2026-08-25",
+     "7 408"
+    ],
+    [
+     "2026-09-25",
+     "7 408"
+    ],
+    [
+     "2026-10-25",
+     "7 408"
+    ],
+    [
+     "2026-11-25",
+     "7 408"
+    ],
+    [
+     "2026-12-25",
+     "7 408"
+    ],
+    [
+     "Summa",
+     "88 896"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "1:9 ap.1",
+     "Statens väg- och transportforskningsinstitut"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [
+  {
+   "path": "Beräknad budget för avgiftsbelagd verksamhet där intäkterna disponeras",
+   "rows": [
+    [
+     "Verksamhet",
+     "+/- t.o.m. 2024",
+     "+/- 2025",
+     "Int. 2026",
+     "Kost. 2026",
+     "+/- 2026",
+     "Ack. +/- utgå. 2026"
+    ],
+    [
+     "Verksamhet",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Uppdragsverksamhet2",
+     "13 629",
+     "0",
+     "59 125",
+     "59 125",
+     "0",
+     "13 629"
+    ],
+    [
+     "Tjänsteexport2",
+     "-405",
+     "0",
+     "3 500",
+     "3 500",
+     "0",
+     "-405"
+    ],
+    [
+     "Summa",
+     "13 224",
+     "0",
+     "62 625",
+     "62 625",
+     "0",
+     "13 224"
+    ]
+   ]
+  }
+ ],
+ "has_fee_section": true,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 2,
+  "n_org": 0,
+  "n_assignments": 1,
+  "n_deadlines": 0,
+  "deadlines": [],
+  "partners": [],
+  "n_appropriations": 1,
+  "appropriations_total_tkr": 88896,
+  "payment_plan_total_tkr": 88896,
+  "md_chars": 6634
+ },
+ "layout": "standard",
+ "warnings": []
+}

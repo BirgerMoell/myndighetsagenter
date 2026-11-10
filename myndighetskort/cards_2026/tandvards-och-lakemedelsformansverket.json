@@ -1,0 +1,444 @@
+{
+ "schema_version": 1,
+ "id": 27456,
+ "original_rbid": 25919,
+ "type": "Ändringsbeslut",
+ "category": "Myndighet",
+ "date": "2026-06-04",
+ "year": "2026",
+ "name": "Tandvårds- och läkemedelsförmånsverket",
+ "slug": "tandvards-och-lakemedelsformansverket",
+ "department": "Socialdepartementet",
+ "expenditure_areas": [
+  9
+ ],
+ "registry_numbers": [
+  "S2026/01195"
+ ],
+ "pdf": "True",
+ "riksdag_refs": {
+  "prop": [
+   "2025/26:1"
+  ],
+  "bet": [
+   "2025/26:SoU1"
+  ],
+  "rskr": [
+   "2025/26:114"
+  ]
+ },
+ "n_attachments_stated": 0,
+ "mission": "",
+ "goals": [
+  {
+   "title": null,
+   "group": [],
+   "text": "*Nationella läkemedelsstrategin*\n\nTandvårds- och läkemedelsförmånsverket ska redogöra för hur myndigheten har arbetat för att bidra till för myndigheten relevanta fokusområden i den nationella läkemedelsstrategin.\n\n*Färdval och resepolicy vid tjänsteresor*\n\nEffektiva och ändamålsenliga transporter inkluderar att alla trafikslag kan nyttjas (väg, järnväg, luft- och sjöfart). Myndigheten ska redovisa hur den har säkerställt att val av färdsätt vid tjänsteresor sker färdmedelsneutralt och utifrån behov. När kostnader jämförs för olika färdval ska hela resans kostnad beaktas, exempelvis kostnader för nödvändig övernattning samt total arbetstid för hela resan.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "rapportera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "goals",
+   "item_id": "27456:goals:0"
+  }
+ ],
+ "org": [
+  {
+   "title": null,
+   "group": [],
+   "text": "*Förhandlingar om avtal och betalningsmodeller*\n\nTandvårds- och läkemedelsförmånsverket ska, vid behov, stödja regioner och företag vid förhandlingar om avtal samt ta fram eller utvärdera förslag på betalningsmodeller när så är lämpligt. Med betalningsmodeller avses att betalningen inte är en konstant summa per förpackning.",
+   "dates": [],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [],
+   "task_types": [
+    "analysera"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": false,
+   "section": "org",
+   "item_id": "27456:org:0"
+  }
+ ],
+ "assignments": [
+  {
+   "title": "Nya och återkommande uppdrag",
+   "group": [],
+   "text": "*Prognoser*\n\nTandvårds- och läkemedelsförmånsverket (TLV) ska redovisa prognoser för 2026–2029 vid nedanstående prognostillfällen. Prognoserna ska kommenteras både i förhållande till\\\nföregående prognostillfälle och i förhållande till budgeten. Prognoserna lämnas i informationssystemet Hermes senast den\n\n• 2 februari\\\n• 22 april\\\n• 24 juli\\\n• 9 november.\n\n*Följa upp, prognostisera och redovisa besparingar från sidoöverenskommelser*\n\nTLV ska löpande följa upp, prognostisera och redovisa besparingen som genereras av de sidoöverenskommelser som läkemedelsföretag och regioner ingår inom ramen för TLV:s ärendehandläggning för vissa läkemedel. TLV:s prognos ska tillsammans med Socialstyrelsens prognos i fråga om läkemedelskostnader utgöra underlag för statens bidrag till regionerna för kostnader för läkemedelsförmånerna m.m. Besparingen ska redovisas på aggregerad nivå.\n\nTLV ska senast den 1 juni 2026 och den 16 november 2026 redovisa en helårsprognos av besparingen på nationell nivå baserat på vid tidpunkten tillgängligt utfall för 2026, samt ytterligare tre år. Redovisningen ska dessutom innehålla prognostiserad återbäring uppdelad per region under innevarande och nästkommande år baserat på tillgängligt utfall. Därtill ska redovisningen innehålla en analys av läkemedelsmarknadens aktörers beteenden beträffande exempelvis vid vilken tidpunkt sidoöverenskommelser tecknas och upphör.\n\nTLV ska senast den 12 januari 2027 redovisa beräknat utfall av återbäringarna för 2026. När uppdraget utförs ska TLV löpande samverka och utbyta information med Socialstyrelsen. Redovisning av uppdraget ska hänvisa till regleringsbrevet för budgetåret 2026 avseende TLV.\n\n*Uppdrag om långsiktig hållbar finansiering och tillgänglighet av läkemedel*\n\nTLV ska fortsätta sitt arbete med att säkerställa en långsiktigt hållbar finansiering och prissättning av läkemedel inom läkemedelsförmånerna. I arbetet ingår att vidareutveckla sina metoder och arbetssätt samt identifiera åtgärder som bidrar till ett ändamålsenligt och effektivt användande av samhällets resurser. Arbetet ska främja god tillgång till läkemedel i hela landet, bidra till jämlik vård för patienter och skapa förutsättningar för en välfungerande läkemedelsmarknad. Ett jämställdhetsperspektiv ska integreras där det är relevant.\n\nTLV ska löpande informera Regeringskansliet (Socialdepartementet) om genomförandet av uppdraget.\n\n*Uppdrag att följa upp och utvärdera konsekvenser och effekter av reformen Ett förstärkt högkostnadsskydd för tandvård*\n\nTLV ska löpande följa upp och utvärdera konsekvenser och effekter av implementeringen av reformen om ett förstärkt högkostnadsskydd för tandvård. Uppföljningen och utvärderingen ska särskilt fokusera på reformens påverkan på:\n\n- tandvårdens kapacitet och förmåga att möta en ökad efterfrågan på tandvård i olika delar av landet\n- prisutvecklingen för den tandvård som inte prisregleras i samband med reformen,\n- tandvårdkonsumtionen, inklusive regionala effekter, såväl i den patientgrupp som omfattas av reformen som i andra patientgrupper\n- fördelningen mellan offentliga och privata respektive stora och små vårdgivare samt andra strukturella förändringar av marknaden ur ett producentperspektiv, och\n- vårdgivarnas produktion, rörelsemarginal och lönsamhet, samt statens utgifter med utgångspunkt i reformens syfte att patientens kostnader för tandvård ska bli lägre\n\nTLV ska i utförandet av uppdraget inhämta synpunkter från Försäkringskassan, Socialstyrelsen och andra berörda myndigheter och aktörer.\n\nTLV ska löpande informera regeringen (Socialdepartementet) om hur uppdragets bedrivs samt myndighetens iakttagelser beträffande reformens konsekvenser och effekter. TLV ska senast den 31 mars 2028 lämna en delredovisning av uppdraget och därefter en årlig redovisning av uppdraget senast den 31 mars till och med 2032 till Regeringen (Socialdepartementet). För uppdraget får TLV under 2026 använda högst 2 000 000 kronor som ska redovisas mot det under utgiftsområde 9 Hälsovård, sjukvård och social omsorg för budgetåret 2026 uppförda anslaget 1:6 Bidrag till folkhälsa och sjukvård, anslagsposten 9 Högkostnadsskydd tandvård uppföljning m.m. Medlen betalas ut engångsvis efter rekvisition till Kammarkollegiet senast den 1 december 2026. Medel som inte har använts för avsett ändamål ska återbetalas senast den 31 mars 2027 till Kammarkollegiet. Vid samma tidpunkt ska en ekonomisk redovisning av använda medel lämnas till Kammarkollegiet. Redovisningar, rekvisition och återbetalning ska hänvisa till regleringsbrevet för budgetåret 2026 avseende TLV.\n\n*Uppdrag att utreda och föreslå säkerställande av material av god kvalitet inom statligt tandvårdsstöd*\n\nTLV ska utreda och föreslå hur det kan säkerställas att material såsom tandtekniska produkter även fortsättningsvis kan erbjudas med god kvalitet till patienter inom statligt tandvårdsstöd. Myndigheten ska i utförandet av uppdraget inhämta synpunkter från Försäkringskassan, Konkurrensverket, Läkemedelsverket, Sveriges Tandteknikerförbund och andra berörda myndigheter och aktörer. TLV ska senast den 1 februari 2027 lämna en slutredovisning av uppdraget till Regeringskansliet (Socialdepartementet).\n\nFör uppdraget får TLV under 2026 använda högst 500 000 kronor som ska redovisas mot det under utgiftsområde 9 Hälsovård, sjukvård och social omsorg för budgetåret 2026 uppförda anslaget 1:6 Bidrag till folkhälsa och sjukvård, anslagsposten 9 Högkostnadsskydd tandvård uppföljning m.m. Medlen betalas ut engångsvis efter rekvisition till Kammarkollegiet senast den 1 december 2026. Medel som inte har använts för avsett ändamål ska återbetalas senast den 31 mars 2027 till Kammarkollegiet. Vid samma tidpunkt ska en ekonomisk redovisning av använda medel lämnas till Kammarkollegiet. Redovisningar, rekvisition och återbetalning ska hänvisa till regleringsbrevet för budgetåret 2026 avseende TLV.\n\n*Ändring av uppdrag att genomföra hälsoekonomiska bedömningar av nya läkemedel med fokus på cancer*\n\nTLV ska fortsätta sitt arbete med att genomföra hälsoekonomiska bedömningar av nya läkemedel med fokus på cancer.\n\nTLV ska senast den 31 januari 2026 lämna en delredovisning av arbetet under 2025 till Regeringskansliet (Socialdepartementet). Uppdraget ska slutredovisas senast den 31 januari 2027. Redovisning av uppdraget ska hänvisa till regeringsbeslut S2023/02174.\n\nFör uppdraget får TLV under 2026 använda 6 000 000 kronor som ska redovisas mot det under utgiftsområde 9 Hälsovårds, sjukvård och social omsorg för budgetåret 2026 uppförda anslaget 1:6 Bidrag till folkhälsa och sjukvård, anslagspost 16 Åtgärder för en bättre cancervård. Medlen betalas ut engångsvis efter rekvisition till Kammarkollegiet senast den 1 december 2026. Medel som inte har använts för avsett ändamål ska återbetalas senast den 31 mars 2027 till Kammarkollegiet. Vid samma tidpunkt ska en ekonomisk redovisning av\\\nanvända medel lämnas till Kammarkollegiet. Redovisning, rekvisition och återbetalning av medel ska hänvisa till regleringsbrevet för budgetåret 2026 avseende TLV.\n\n*Ändring av\\*\\*uppdrag att analysera hur det svenska prissättningssystemet för läkemedel påverkas av utvecklingen på den internationella läkemedelsmarknaden*\n\nTLV ska fördjupa sitt arbete med att följa och analysera utvecklingen i andra länder och tillvarata erfarenheter därifrån. I det ingår att analysera om och på vilket sätt förändringar i omvärlden kan påverka de svenska prissättningssystemen och tillgången till läkemedel i Sverige. Exempel på förändringar kan vara handelspolitiska förändringar och regulatoriska förändringar inom EU. TLV ska också identifiera de risker och möjligheter som dessa förändringar medför för systemets robusthet på kort och lång sikt.\n\nTLV ska vidare bedöma hur dessa förändringar kan påverka förutsättningarna för tillgång till kostnadseffektiva läkemedel inom läkemedelsförmånerna och företagens incitament att lansera läkemedel på den svenska marknaden. I detta ingår att analysera om de eventuella utmaningar som förändringarna medför, skulle påverkas med en förändrad betalningsvilja för läkemedel samt hur förändringarna påverkar kostnaderna inom läkemedelsförmånerna.\n\nTLV ska också samla tillgänglig kunskap om och analysera i vilken utsträckning nya läkemedel görs tillgängliga och används av svenska patienter, relativt andra länder.\n\nI uppdraget ingår även att ha en dialog med relevanta aktörer, så som läkemedelsindustrin, patientorganisationer och hälso- och sjukvården.\n\nTLV ska löpande informera Regeringskansliet (Socialdepartementet) om hur uppdraget fortskrider. TLV ska senast den 31 mars 2026 lämna en delredovisning av uppdraget till Regeringskansliet (Socialdepartementet). TLV ska senast den 1 december 2026 lämna en slutredovisning av uppdraget till Regeringskansliet (Socialdepartementet).\n\n*Uppdrag att se över förordningen om bidrag till öppenvårdsapoteksservice av allmänt ekonomiskt intresse*\n\nTLV ska se över om kriterierna i 4 § i förordningen (2013:80) om bidrag till öppenvårdsapoteksservice av allmänt ekonomiskt intresse bör ändras i syfte att möjliggöra att fler apotek i glesbygd kan beviljas bidrag för öppenvårdsapoteksservice. TLV ska senast den 31 oktober 2026 lämna en skriftlig redovisning av uppdraget till Regeringskansliet (Socialdepartementet). Redovisningen av uppdraget ska hänvisa till regleringsbrevet för budgetåret 2026 avseende TLV.",
+   "dates": [
+    "2026-01-31",
+    "2026-03-31",
+    "2026-06-01",
+    "2026-10-31",
+    "2026-11-16",
+    "2026-12-01",
+    "2027-01-12",
+    "2027-01-31",
+    "2027-02-01",
+    "2027-03-31",
+    "2028-03-31"
+   ],
+   "deadlines": [
+    "2026-01-31",
+    "2026-03-31",
+    "2026-06-01",
+    "2026-10-31",
+    "2026-12-01",
+    "2027-01-12",
+    "2027-01-31",
+    "2027-02-01",
+    "2027-03-31",
+    "2028-03-31"
+   ],
+   "forecast_dates": [
+    "2026-02-02",
+    "2026-03-31",
+    "2026-04-22",
+    "2026-07-24",
+    "2026-11-09"
+   ],
+   "recipients": [
+    "Kammarkollegiet",
+    "Regeringskansliet (Socialdepartementet)"
+   ],
+   "partners": [
+    "Försäkringskassan",
+    "Kammarkollegiet",
+    "Konkurrensverket",
+    "Läkemedelsverket",
+    "Socialstyrelsen"
+   ],
+   "channels": [
+    "hermes",
+    "delredovisning",
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "prognos",
+    "analysera",
+    "föreslå",
+    "samordna",
+    "fördela_medel",
+    "utveckla",
+    "informera",
+    "eu_internationellt"
+   ],
+   "anslag_refs": [
+    "1:6"
+   ],
+   "expenditure_area_refs": [
+    9
+   ],
+   "sfs_refs": [
+    "2013:80"
+   ],
+   "sub_questions": [
+    "tandvårdens kapacitet och förmåga att möta en ökad efterfrågan på tandvård i olika delar av landet",
+    "prisutvecklingen för den tandvård som inte prisregleras i samband med reformen,",
+    "tandvårdkonsumtionen, inklusive regionala effekter, såväl i den patientgrupp som omfattas av reformen som i andra patientgrupper",
+    "fördelningen mellan offentliga och privata respektive stora och små vårdgivare samt andra strukturella förändringar av marknaden ur ett producentperspektiv, och",
+    "vårdgivarnas produktion, rörelsemarginal och lönsamhet, samt statens utgifter med utgångspunkt i reformens syfte att patientens kostnader för tandvård ska bli lägre"
+   ],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "27456:assignments:0"
+  },
+  {
+   "title": "Pågående uppdrag",
+   "group": [],
+   "text": "| | | |\n| --- | --- | --- |\n| **Uppdrag** | **Beslut om uppdraget** | **Redovisningstidpunkt** |\n| Uppdrag om omprövning som verktyg för ändamålsenlig kostnadsutveckling | Regleringsbrev 2023 | Slutredovisning den 19 juni 2026 |\n| Genomföra hälsoekonomiska bedömningar av nya läkemedel mot cancer | S2023/02174 | Slutredovisning den 31 januari 2026 |\n| Kartlägga förmånskostnader för extempore- och licensläkemedel | Regleringsbrev 2025 | Slutredovisning den 15 december 2026 |\n| Genomföra hälsoekonomiska bedömningar av medicintekniska produkter för diagnosticering och behandling av cancer | S2025/00974 | Delredovisning den 31 januari 2026 och slutredovisning den 31 januari 2027 |\n| Fortsätta samordna det nationella arbetet med att genomföra den nya HTA-förordningen | S2025/00938 | Slutredovisning den 30 oktober 2026 |\n| Lagerhållning av vissa läkemedel för att säkerställa en god försörjningsberedskap | S2025/01275 | Delredovisning den 16 februari 2026 och slutredovisning den 30 oktober 2027 |\n| Uppdrag om nationell samverkan och handlingsplan för arbetet mot antimikrobiell resistens | S2025/01938 | Slutredovisning den 31 december 2030 |",
+   "dates": [
+    "2026-01-31",
+    "2026-02-16",
+    "2026-06-19",
+    "2026-10-30",
+    "2026-12-15",
+    "2027-01-31",
+    "2027-10-30",
+    "2030-12-31"
+   ],
+   "deadlines": [],
+   "recipients": [],
+   "partners": [],
+   "channels": [
+    "delredovisning",
+    "slutredovisning"
+   ],
+   "task_types": [
+    "rapportera",
+    "analysera",
+    "samordna",
+    "utveckla",
+    "beredskap_säkerhet"
+   ],
+   "anslag_refs": [],
+   "expenditure_area_refs": [],
+   "sfs_refs": [],
+   "sub_questions": [],
+   "ongoing": true,
+   "section": "assignments",
+   "item_id": "27456:assignments:1"
+  }
+ ],
+ "appropriations": [
+  {
+   "code": "1:3",
+   "name": "Tandvårds- och läkemedelsförmånsverket",
+   "kind": "Ramanslag",
+   "expenditure_area": {
+    "number": 9,
+    "name": "Hälsovård, sjukvård och social omsorg"
+   },
+   "older_budget_year": null,
+   "disposals": [
+    {
+     "by": "Tandvårds- och läkemedelsförmånsverket",
+     "amount_tkr": 218442,
+     "items": [
+      {
+       "ap": "1",
+       "name": "Tandvårds- och läkemedelsförmånsverket (ram)",
+       "amount_tkr": 218442
+      }
+     ],
+     "sum_ok": true
+    }
+   ],
+   "conditions": [
+    {
+     "ap": "1",
+     "name": "Tandvårds- och läkemedelsförmånsverket",
+     "text": "Anslagsposten får användas för Tandvårds- och läkemedelsförmånsverkets förvaltningsutgifter.\nDen utökade anslagskrediten får användas för utgifter relaterat till rättsliga frågor kopplat till den it-attack som påverkat myndigheten."
+    }
+   ],
+   "caps": []
+  }
+ ],
+ "financial_terms": [
+  {
+   "anslag": "1:3 Tandvårds- och läkemedelsförmånsverket",
+   "ap": "ap.1",
+   "Anslagskredit": 6553,
+   "Anslagsbehållning som disponeras 2026": "3 %",
+   "Indrag av anslagsbelopp": 0
+  }
+ ],
+ "loans": {
+  "Låneram för verksamhetsinvesteringar": 12000,
+  "Räntekontokredit": 7000
+ },
+ "payment_plan": [
+  {
+   "date": "2026-01-25",
+   "amount_tkr": 18204
+  },
+  {
+   "date": "2026-02-25",
+   "amount_tkr": 18204
+  },
+  {
+   "date": "2026-03-25",
+   "amount_tkr": 18204
+  },
+  {
+   "date": "2026-04-25",
+   "amount_tkr": 18204
+  },
+  {
+   "date": "2026-05-25",
+   "amount_tkr": 18204
+  },
+  {
+   "date": "2026-06-25",
+   "amount_tkr": 18204
+  },
+  {
+   "date": "2026-07-25",
+   "amount_tkr": 18204
+  },
+  {
+   "date": "2026-08-25",
+   "amount_tkr": 18204
+  },
+  {
+   "date": "2026-09-25",
+   "amount_tkr": 18204
+  },
+  {
+   "date": "2026-10-25",
+   "amount_tkr": 18204
+  },
+  {
+   "date": "2026-11-25",
+   "amount_tkr": 18204
+  },
+  {
+   "date": "2026-12-25",
+   "amount_tkr": 18198
+  }
+ ],
+ "finance_tables": [
+  {
+   "path": "Anslag / Finansiella villkor / Finansiella villkor för anslag/anslagsposter",
+   "rows": [
+    [
+     "Anslag/ap",
+     "Anslagskredit",
+     "Anslagsbehållning som disponeras 2026",
+     "Indrag av anslagsbelopp"
+    ],
+    [
+     "1:3 Tandvårds- och läkemedelsförmånsverket",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ap.1",
+     "6 553",
+     "3 %",
+     "0"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Låneramar och krediter",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "Låneram för verksamhetsinvesteringar",
+     "12 000"
+    ],
+    [
+     "Räntekontokredit",
+     "7 000"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "Utbetalningsdatum",
+     "Belopp"
+    ],
+    [
+     "2026-01-25",
+     "18 204"
+    ],
+    [
+     "2026-02-25",
+     "18 204"
+    ],
+    [
+     "2026-03-25",
+     "18 204"
+    ],
+    [
+     "2026-04-25",
+     "18 204"
+    ],
+    [
+     "2026-05-25",
+     "18 204"
+    ],
+    [
+     "2026-06-25",
+     "18 204"
+    ],
+    [
+     "2026-07-25",
+     "18 204"
+    ],
+    [
+     "2026-08-25",
+     "18 204"
+    ],
+    [
+     "2026-09-25",
+     "18 204"
+    ],
+    [
+     "2026-10-25",
+     "18 204"
+    ],
+    [
+     "2026-11-25",
+     "18 204"
+    ],
+    [
+     "2026-12-25",
+     "18 198"
+    ],
+    [
+     "Summa",
+     "218 442"
+    ]
+   ]
+  },
+  {
+   "path": "Övriga villkor / Utbetalningsplan",
+   "rows": [
+    [
+     "",
+     ""
+    ],
+    [
+     "1:3 ap.1",
+     "Tandvårds- och läkemedelsförmånsverket"
+    ]
+   ]
+  }
+ ],
+ "fee_tables": [],
+ "has_fee_section": false,
+ "exceptions_text": "",
+ "summary": {
+  "n_goals": 1,
+  "n_org": 1,
+  "n_assignments": 2,
+  "n_deadlines": 10,
+  "deadlines": [
+   "2026-01-31",
+   "2026-03-31",
+   "2026-06-01",
+   "2026-10-31",
+   "2026-12-01",
+   "2027-01-12",
+   "2027-01-31",
+   "2027-02-01",
+   "2027-03-31",
+   "2028-03-31"
+  ],
+  "partners": [
+   "Försäkringskassan",
+   "Kammarkollegiet",
+   "Konkurrensverket",
+   "Läkemedelsverket",
+   "Socialstyrelsen"
+  ],
+  "n_appropriations": 1,
+  "appropriations_total_tkr": 218442,
+  "payment_plan_total_tkr": 218442,
+  "md_chars": 14894
+ },
+ "layout": "standard",
+ "warnings": []
+}
